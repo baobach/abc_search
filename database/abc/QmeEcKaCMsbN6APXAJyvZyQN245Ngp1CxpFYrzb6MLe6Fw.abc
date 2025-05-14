@@ -1,0 +1,48 @@
+X:1
+T:The Belgian Detective
+T:The Belgian Detective
+T:Christopher Gunning
+T:(theme from the BBC Hercule Poirot series)
+C:Christopher Gunning
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=100
+M:4/4
+K:Bb
+V:1 treble transpose=-9 nm="Alto Saxophone" snm="A. Sax."
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:1
+[K:Bb] z8 | z4 z2!8vb(! =B,2!8vb)! |"Gm" =E>^F G>=B =e3 g | ^f/4g/4f/=e-<eg f/4g/4f/e-<ee | %4
+"Cm7" d>=e c>e =B>e A>B | c2 G2"D" =B2!8vb(! =B,2!8vb)! |"Gm" =E>^F G>=B =e3 g | %7
+ ^f/4g/4f/=e-<eg f/4g/4f/e-<ee |"Cm" d>=e c>e =B>e A>B | c2 G2"D" =B2 z ^F | %10
+"G7" _A>=A =B>_A"Cm7" =A>B c>=e |"Fm7" f2 =B2"G7" =e/d/e- ee |"C7" _d>=d =e>_d"Fm7" =d>e f>a | %13
+"Dbmaj7" b2 =e2"C" a/g/a- aa |"Dbmaj7" b2"Fm" a2"G7" _a4 |"Dbmaj7" b2"Fm" a2"G7" _a3 z | %16
+ z4 z2 z z | z4 z3!8vb(! =B,!8vb)! |"Gm7" =E>^F G>=B =e3 g | ^f/4g/4f/=e-<eg f/4g/4f/e-<ee | %20
+"Cm7" d>=e c>A"Ebmaj7" =B>G =E>^F |"D+" G2 =B2 g2"D7" B2 |"Gm" =E4- E^F<G=B | =e3 ^f/e/ ^d3 d | %24
+ =e8 | z8 |] %26
+V:2
+ z2 [cd]B z2 [c'd']b | z2 [cd]B z2 [c'd']b | [A,B,]G,[AB]G [A,B,]G,[c'd']b | %3
+ [A,B,]G,[AB]G [A,B,]G,[cd]B | [DE]C[FG]B [DE]C[Bc]A | CDEG [D^FA]2 d2 | %6
+ [A,B,]G,[AB]G [A,B,]G,[c'd']b | [A,B,]G,[AB]G [A,B,]G,[cd]B | [DE]C[FG]B [DE]C[Bc]A | %9
+ CDEG [D^FA]2 d2 | =B2 d2 [CEGc]2 [EG_Be]2 | [_Acf]2 [Fce]2 [G=Bd]2 [DGB]2 | z8 | %13
+ [_DF_A]2 [FA_d]2 [c=e]2 [=EGc]2 | [^CF_Ac]2 [FAc]2 [G,=B,CG]2 z2 | %15
+ [^CF_Ac]2 [FAc]2 [G,=B,CG]2 z G |"Ebother" [eg]2"D" [d_g]2"Eb7" [_df]2"G+" [=Be]2 | %17
+"D" [^FBd]>c [FAd]2 z4 | G/A/B/d/ g/a/b/d'/ G/A/B/d/ g/a/b/d'/ | %19
+ G/A/B/d/ g/a/b/d'/ G/A/B/d/ g/a/b/d'/ | C/D/E/G/ B/A/G/F/ E/F/G/A/ B/A/G/^F/ | z8 | %22
+ [A,B,]G,[AB]G [A,B,]G,[c'd']b | G/A/B/e/ A/B/e/g/ A/B/c/d/ ^f2 | %24
+ z2 G,/A,/B,/D/ G/A/B/d/ g/a/b/d'/ |!8va(! g'8!8va)! |] %26
+V:3
+!ped! [A,B,]G, z2 [A,B,]G, z2!ped-up! |!ped! [A,B,]G, z2 [A,B,]G, z2!ped-up! | %2
+!ped! G,,4 F,,4!ped-up! |!ped! E,,4 D,,4!ped-up! |!ped! C,,4 G,,4!ped-up! | %5
+!ped! [C,G,]4 [D,^F,A,]4!ped-up! |!ped! G,,4 F,,4!ped-up! |!ped! [G,B,]2 F,2 D,2 [G,,D,]2!ped-up! | %8
+!ped! C,2 [E,G,]2 [G,C]2 [CE]2!ped-up! |!ped! [A,C]2 [G,C]2 [^F,A,D]2 z2!ped-up! | %10
+!ped! [G,=B,]2 [B,DF]2 z4!ped-up! |!ped! z4 C,>D, E,>G,!ped-up! | %12
+!ped! [C,=E,B,]2 [E,G,B,]2 [F,_A,C]2 [A,CE]2!ped-up! |!ped! z2 z2 C,>D, =E,>G,!ped-up! | %14
+ _D,>E, F,>_A, G,>=A, =B,>D |!ped! _D,>E, F,>_A, G,>=A, =B,>D!ped-up! | %16
+ G,,/A,,/B,,/C,/ A,,/B,,/C,/D,/ B,,/C,/D,/E,/ C,/D,/E,/F,/ | %17
+!ped! [D,^F,B,]3/2[D,F,B,]3/2 [D,F,A,]4 z!ped-up! |!ped! [G,,D,]4 [F,,B,,]4!ped-up! | %19
+!ped! E,,4 D,,4!ped-up! |!ped! [C,E,B,]2 [C,E,G,C]2 [E,G,B,D]2 [G,B,E]2!ped-up! | %21
+!ped! [D,^F,B,]2 [F,B,D]2 [D^FB]2 [DFAc]2!ped-up! |!ped! G,,4 F,,4!ped-up! | %23
+!ped! E,,4 D,,4!ped-up! | G,,/A,,/B,,/D,/ z2 z4 | z8 |] %26
+

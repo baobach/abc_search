@@ -1,0 +1,24 @@
+X:1
+T:Arpeggios
+T:Arpeggios
+%%score { 1 | 2 }
+L:1/8
+M:6/8
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^C Major" !1!C!2!E!3!G !5!cGE | C6 |"^G Major" !1!G!2!B!3!d !5!gdB | G6 | %4
+"^D Major" !1!D!2!^F!3!A !5!dAF | D6 |"^A Major" !1!A!2!^c!3!e !5!aec | A6 | %8
+"^E Major" !1!E!2!^G!3!B !5!eBG | E6 |"^B Major" !1!B!2!^d!3!^f !5!bfd | B6 | %12
+"^F Major" !1!F!2!A!3!c !5!fcA | F6 |"^Bb Major" !1!_B!2!d!3!f !5!_bfd | _B6 | %16
+"^Eb Major" !1!_E!2!G!3!_B !5!_eBG | _E6 |"^Ab Major" !1!_A!2!c!3!_e !5!_aec | _A6 | %20
+"^Db Major" !1!_D!2!F!3!_A !5!_dAF | _D6 |"^Gb Major" !1!_G!2!_B!3!_d !5!_gdB | _G6 |] %24
+V:2
+ !5!C,!4!E,!2!G, !1!CG,E, | C,6 | !5!G,,!4!B,,!2!D, !1!G,D,B,, | G,,6 | !5!D,!3!^F,!2!A, !1!DA,F, | %5
+ D,6 | !5!A,,!3!^C,!2!E, !1!A,E,C, | A,,6 | !5!E,!3!^G,!2!B, !1!EB,G, | E,6 | %10
+ !5!B,,!3!^D,!2!^F, !1!B,F,D, | B,,6 | !5!F,!4!A,!2!C !1!FCA, | F,6 | %14
+ !5!_B,,!3!D,!2!F, !1!_B,F,D, | _B,,6 | !5!_E,!3!G,!2!_B, !1!_EB,G, | _E,6 | %18
+ !5!_A,,!3!C,!2!_E, !1!_A,E,C, | _A,,6 | !5!_D,!3!F,!2!_A, !1!_DA,F, | _D,6 | %22
+ !5!_G,,!3!_B,,!2!_D, !1!_G,D,B,, | _G,,6 |] %24
+

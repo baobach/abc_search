@@ -1,0 +1,66 @@
+X:1
+T:Motet template
+T:Motet template
+T:composer
+T:© cpdl
+T:© cpdl
+T:© cpdl
+T:© cpdl
+C:composer
+Z:© cpdl
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=120
+M:2/2
+K:Dmin
+V:1 treble nm="Cantus" snm="S"
+V:2 alto2 nm="Altus" snm="A"
+V:3 alto nm="Tenor" snm="T"
+V:4 bass3 nm="Bassus" snm="B"
+V:1
+ z16 |] z8 | z8 | z8 | z8 | z8 | z4 A4- | A2 E2 E4 | G6 F2 | G2 A2 G4 | z2 G4 D2 | F3 F E4 | %12
+w: ||||||Di-|* ci- te|pu- sil-|la- ni- mes:|Con- for-|ta- mi- ni,|
+ z4 c4- | c2 G2 B3 B | A4 z4 | c3 d e2 d2 | e2 A2 e4- | e4 z2 d2- | d2 d2 c4 | c2 A2 B4 | %20
+w: con-|* for- ta- mi-|ni,|con- * * for-|ta- mi- ni,|_ et|_ no- li-|te ti- me-|
+ A4 z2 A2- | A2 A2 G4 | F2 D2 F2 E2 | E4 z4 | A6 A2 | G4 G2 D2 | F8 | E4 z4 | A6 G2 | F2 E2 A4 | %30
+w: re, et|_ no- li-|te ti- me- *|re,|et no-|li- te ti-|me-|re,|ec- ce|De- us nos-|
+ D4 F2 E2 | F3 G A2 F2 | E4 D2 d2- | d2 c2 d4 | A6 A2 | c3 d e2 f2 | e4 z2 d2- | d2 c2 f3 e | %38
+w: ter, ec- ce|De- * * us|nos- ter ve-|* ni- et,|et sal-|va- * * bit|nos, et|_ sal- va- *|
+ d2 B2 A4 | z2 d4 c2 | f3 e d2 e2 | f4 z2 f2 | e2 d4 ^c2 | !fermata!d8 |] %44
+w: * bit nos,|et sal-|va- * * bit|nos, et|sal- va- bit|nos.|
+V:2
+ z8 A8 |] z4 A4- | A2 E2 E4 | G6 F2 | G2 A2 G4 | z2 G4 D2 | F6 E2 | E4 z4 | z8 | C6 G,2 | %10
+w: |Di-|* ci- te|pu- sil-|la- ni- mes:|Con- for-|ta- mi-|ni,||di- ci-|
+ G,4 B,4- | B,2 A,2 C4 | D4 A,4 | C4 G,4 | D2 C2 C4 | z8 | z8 | z8 | z4 A4 | A4 G4 | F2 D2 F4 | %21
+w: te pu-|* sil- la-|ni- mes:|Con- for-|ta- mi- ni,||||et|no- li-|te ti- me-|
+ E4 z4 | z4 A4- | A2 A2 G4 | F2 E2 F4 | D4 D4- | D2 C2 A,4 | C2 C2 D4 | E4 z4 | z8 | z8 | z8 | %32
+w: re,|et|_ no- li-|te ti- me-|re, et|_ no- li-|te ti- me-|re,||||
+ z2 A4 G2 | F2 E2 G2 D2 | F3 G A2 F2 | E4 z2 D2- | D2 C2 F3 E | D2 A2 A4 | F6 F2 | E2 D2 A4- | %40
+w: ec- ce|De- us nos- ter|ve- * * ni-|et, et|_ sal- va- *|* bit nos,|et sal-|va- bit nos,|
+ A4 z2 c2- | c2 c2 B2 A2 | A8- | !fermata!A8 |] %44
+w: _ et|_ sal- va- bit|nos.|_|
+V:3
+ D12 A,4 |] D6 A,2 | A,4 C4- | C2 B,2 C2 D2 | C4 z2 C2- | C2 G,2 B,3 B, | A,4 z4 | C6 G,2 | %8
+w: |Di- ci-|te pu-|* sil- la- ni-|mes: Con-|* for- ta- mi-|ni,|di- ci-|
+ G,4 z4 | z8 | z8 | z2 A4 E2 | G6 F2 | E4 z4 | z2 A4 E2 | E4 G4- | G2 F2 G2 A2 | G6 G2- | %18
+w: te|||pu- sil-|la- ni-|mes:|di- ci-|te pu-|* sil- la- ni-|mes: Con-|
+ G2 D2 F2 E2 | F4 z4 | D4 D4 | C4 B,2 G,2 | B,4 A,4 | z4 z2 D2- | D2 C2 D4 | B,2 G,2 B,4 | A,4 z4 | %27
+w: * for- ta- mi-|ni,|et no-|li- te ti-|me- re,|et|_ no- li-|te ti- me-|re,|
+ z4 z2 D2- | D2 C2 B,4 | A,4 F,4 | G,2 D4 ^C2 | D2 A,4 A,2 | C2 C2 B,4 | A,4 G,3 G, | D4 z4 | %35
+w: ec-|* ce De-|us nos-|ter ve- ni-|et, ec- ce|De- us nos-|ter ve- ni-|et,|
+ z4 z2 A2- | A2 A2 D3 C | B,2 A,2 D4 | z2 D4 C2- | C2 F4 E2 | D2 F4 G2 | A3 G F3 E/D/ | C2 F2 E4 | %43
+w: et|_ sal- va- *|* bit nos,|et sal-|* va- bit|nos, et sal-|va- * * * *|* * bit|
+ !fermata!D8 |] %44
+w: nos.|
+V:4
+ z16 |] z8 | z8 | z8 | z8 | z8 | D,6 A,,2 | A,,4 C,4- | C,2 B,,2 C,2 D,2 | C,4 z4 | z4 G,4 | %11
+w: ||||||Di- ci-|te pu-|* sil- la- ni-|mes:|Con-|
+ D,4 A,3 A, | G,4 z4 | z4 z2 D2- | D2 A,2 A,4 | C6 B,2 | C2 D2 C4 | z2 C4 G,2 | B,3 B, A,4 | z8 | %20
+w: for- ta- mi-|ni,|di-|* ci- te|pu- sil-|la- ni- mes:|Con- for-|ta- mi- ni,||
+ z8 | z4 z2 D2- | D2 D2 C4 | C2 A,2 B,4 | A,4 z4 | G,6 G,2 | F,4 F,2 D,2 | A,4 B,4 | A,4 z2 D2- | %29
+w: |et|_ no- li-|te ti- me-|re,|et no-|li- te ti-|me- *|re, ec-|
+ D2 C2 A,2 C2 | B,4 A,4 | D,3 E, F,2 D,2 | A,4 z4 | z8 | z2 D,4 D,2 | A,3 B, C2 D2 | A,4 z4 | %37
+w: * ce De- us|nos- ter|ve- * * ni-|||et sal-|va- * * bit|nos,|
+ z4 z2 D,2- | D,2 D,2 F,3 G, | A,2 B,2 A,4 | z2 D,4 C,2 | F,3 E, D,4 | A,8 | !fermata!D,8 |] %44
+w: et|_ sal- va- *|* bit nos,|et sal-|va- * *|bit|nos.|
+

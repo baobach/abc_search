@@ -1,0 +1,87 @@
+X:1
+T:Intermezzo sinfonico
+T:Intermezzo sinfonico
+T:from "Cavalleria Rusticana"
+T:P. Mascagni Transcribed for Violin and Piano by Sam Franko 
+C:P. Mascagni
+Z:Transcribed for Violin and Piano by Sam Franko
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=47
+M:3/4
+K:D
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^dolce""^Andante sostenuto." !1!!3!d2 (f2 !0!!3!a2) | a3 (!4!g f!0!e) | (!2!!2!bd) f4 | %3
+ e2 !>!f4- | f(d!2!cB) (b>^g) | a4 (=g>B) | (!3!f2 e2) (5:4:5(!>!!2!=g/a/g/B/!1!d/) | %7
+!<(! f3 (e!<)!!>(! d)!>!b- | b!>)!!mp!!tenuto!a!tenuto!^g!tenuto!f!tenuto!e!tenuto!d | %9
+!>(! (!3!d/c/e/F/)!>)!!pp! (!4!c3 B) | A4- A z |!p! (v!1!B2 c2{/e} d2) | c6 | (B2 c2{/e} d2) | %14
+!<(! c6!<)! | (c2 !0!!3!a2) !2!c2 | (cB)!4!^gf(e!0!A) |!>(! (dF)!>)!!pp! (!4!c3 B) | A4- A z | %19
+!mf! v!3!!1!f4 !0!!3!a2 | d4 f2 | !1!B2 ba(g!1!d) | f4 e2 | g4 !1!B2 | (!3!!1!f2 !0!!3!a2) !1!d2 | %25
+ (f4 e2) |!<(! d6!<)! | b2 ba(gd) | f4 e2 | g2 gf(e!1!B) |!>(! d4 c2!>)! | %31
+!p! !1!d2!<(! ef (g/a/)b/c'/!<)! |!f! d'3 (d' c'b) |!>(! (!1!f2 !0!!3!a2) c2!>)! | %34
+"_cresc." d3 !>!d' !>!d'!>!d' |!f! !>!d'3 !>!d' !>!d'!>!d' | !>!d'3 (d' c'b) | %37
+!>(! (f2 !0!!3!a2) c2!>)! |"_cresc." d3 !>!d' !>!d'!>!d' |!f! !>!d'3 !>!d' !>!d'!>!d' | %40
+ !>!d'3 (d' c'b) |!>(! (f2 !0!!3!a2) c2!>)! | d3 (c !1!de) | f3"_dim." (d fb) | %44
+"^poco rit." b3!>(! (!4!g b!2!d')!>)! |!pp!"^a tempo." f'6 | f'6- | f' z !fermata!z2 z2 |] %48
+V:2
+!pp!!mf! [DFA]6 | [B,DB]6 | [B,DB]2 (A2 B2) | ([C-Ec-]2 [CFc]4) |!p!!mp! [DFB]4 [D^GB]2 | %5
+!>(! [EA]4!>)! [D=G]2 | [CE]4 [DG]2 | ([CG]4 [DF]2) | [DEB]4 [B,EB]2 | %9
+!>(! [EA][DF]!>)!!pp!!mf! [D^G]4 | [CEA]4- [CEA] z |!pp!!mf! =G2"^dolce" A2 B2 | z (!>!a2 ^g fc) | %13
+ [=GB]2 A2 B2 |!<(! z (!>!a2 ^g f!<)!c) | [Ac]6 | (cB) [EB]2 [EA]2 | [DA]2!pp!!mf! [^G,DE]4 | %18
+ [A,CE]4- [A,CE] z |!p!!mf! z !arpeggio![A,DF]!arpeggio![DFA]!arpeggio![FAd]z!arpeggio![A,EA] | %20
+ z !arpeggio![F,B,D]!arpeggio![B,DF]!arpeggio![DFB]z!arpeggio![F,CF] | %21
+ z[I:staff +1] !arpeggio![D,G,B,]!arpeggio![G,B,D][I:staff -1]!arpeggio![B,DG]z!arpeggio![G,B,DG] | %22
+ z[I:staff +1] !arpeggio![C,G,A,]!arpeggio![G,A,C][I:staff -1]!arpeggio![A,CG]z!arpeggio![A,CG] | %23
+ z[I:staff +1] !arpeggio![E,G,B,]!arpeggio![G,B,E][I:staff -1]!arpeggio![B,EG]z[I:staff +1]!arpeggio![B,D] | %24
+"^sempre arpeggiando"[I:staff -1] z[I:staff +1] !arpeggio![F,A,D][I:staff -1][A,DF][DFA]z[DF] | %25
+ z[I:staff +1] !arpeggio![F,A,D][I:staff -1][A,DF][DFA]z[G,A,C] | %26
+ z[I:staff +1] !arpeggio![F,A,D][I:staff -1][A,DF][DFA]z[A,DA] | %27
+ z[I:staff +1] !arpeggio![D,G,B,][I:staff -1][G,B,D][B,DG]z[B,DG] | %28
+ z[I:staff +1] !arpeggio![C,G,A,][G,A,C][A,CG][I:staff -1]z[I:staff +1][A,CG] | %29
+[I:staff -1] z[I:staff +1] !arpeggio![G,D][B,DG][I:staff -1][DGB]z[I:staff +1][E,B,E] | %30
+[I:staff -1] z[I:staff +1] !arpeggio![E,G,A,][G,A,E][I:staff -1][A,EG]z[I:staff +1][E,G,A,C] | %31
+!p![I:staff -1] z[I:staff +1] !arpeggio![D,F,D]!<(![I:staff -1]z[I:staff +1][D,F,D][I:staff -1]z[I:staff +1][E,B,D]!<)! | %32
+!f![I:staff -1] z[I:staff +1] !arpeggio![F,A,D][I:staff -1][A,DF]!>(![DFA]z[DGB]!>)! | %33
+ z[I:staff +1] !arpeggio![F,A,D][I:staff -1][A,DF][DFA]z[I:staff +1][G,A,C] | %34
+"_cresc."[I:staff -1] z[I:staff +1] !arpeggio![F,A,D][I:staff -1]z[I:staff +1][F,A,D][I:staff -1]z[I:staff +1][F,B,D] | %35
+!f![I:staff -1] z[I:staff +1] !arpeggio![F,B,D][I:staff -1]z[I:staff +1][G,B,D][I:staff -1]z[I:staff +1][G,B,D] | %36
+[I:staff -1] z!>(![I:staff +1] !arpeggio![G,B,D][I:staff -1][B,DG][DGB]z[I:staff +1][E,G,B,D]!>)! | %37
+[I:staff -1] z!>(![I:staff +1] !arpeggio![F,A,D][I:staff -1][A,DF][DFA]z[I:staff +1][G,A,C]!>)! | %38
+"_cresc."[I:staff -1] z[I:staff +1] !arpeggio![F,A,D][I:staff -1]z[I:staff +1][F,A,D][I:staff -1]z[I:staff +1][F,B,D] | %39
+!f![I:staff -1] z[I:staff +1] !arpeggio![F,B,D][I:staff -1]z[I:staff +1][G,B,D][I:staff -1]z[I:staff +1][G,B,D] | %40
+[I:staff -1] z!>(![I:staff +1] !arpeggio![G,B,D][I:staff -1][B,DG][DGB]z[I:staff +1][E,G,B,D]!>)! | %41
+[I:staff -1] z!>(![I:staff +1] !arpeggio![F,A,D][I:staff -1][A,DF][DFA]z[I:staff +1][G,A,C]!>)! | %42
+!p![I:staff -1] z[I:staff +1] !arpeggio![F,A,D][I:staff -1]!arpeggio![A,DF]zz[I:staff +1][F,A,D] | %43
+[I:staff -1] z[I:staff +1] !arpeggio![F,B,D]"_dim."[I:staff -1][B,DF]zz[I:staff +1][F,B,D] | %44
+[I:staff -1] z[I:staff +1] !arpeggio![G,B,D][I:staff -1][B,DG]!>(!zz[G,B,D]!>)! | %45
+!pp!"^a tempo." z!>(![I:staff +1] !arpeggio![A,,D,F,]!arpeggio![D,F,A,]!arpeggio![F,A,D][I:staff -1]!arpeggio![A,DF]!arpeggio![DFA]!>)! | %46
+!ppp!!arpeggio![FAd] z z2 z2 | !fermata!z6 |] %48
+V:3
+ (D2 C2 B,2) | (E,4 F,G,) | (^G,2 A,2 G,2) | (A,2 !>!^A,4) | B,4 E,2 | =A,4 [E,B,]2 | A,4 [E,B,]2 | %7
+ (A,2 ^A,2 B,2) | E,4 (F,^G,) | A,[B,,A,] [E,^G,]4 |!ped! A,4- A, z!ped-up! | %11
+ ([=G,B,]2 [F,A,]2 [E,G,]2 | [F,A,]6) | ([=G,B,]2 [F,A,]2 [E,G,]2 | [F,A,]6) | [E,A,C]4 [^D,A,C]2 | %16
+ [=D,A,D]2 [D,^G,]2 [C,A,]2 | [B,,F,A,]2 E,,4 |!ped! A,,4- A,, z!ped-up! | (([D,,D,]4 [C,,C,]2)) | %20
+ (([B,,,B,,]4 [A,,,A,,]2)) | ([G,,,G,,]4 E,,2) | [A,,,A,,]4 [A,,,A,,]2 | E,,4 [G,,,G,,]2 | %24
+ D,,4 [B,,,B,,]2 | [A,,,A,,]4 [A,,,A,,]2 | D,,4 [F,,,F,,]2 | [G,,,G,,]4 E,,2 | %28
+ [A,,,A,,]4 [C,,C,]2 | [B,,,B,,]4 [G,,,G,,]2 | E,,4 G,,2 | [B,,,B,,]2 [A,,,A,,]2 [G,,,G,,]2 | %32
+ [F,,,D,,]4 [E,,,E,,]2 | [A,,,A,,]4 [A,,,A,,]2 | [D,,D,]2 [C,,C,]2 [B,,,B,,]2 | %35
+ [A,,,A,,]2 [G,,,G,,]2 [F,,,F,,]2 | [E,,,E,,]4 [G,,,G,,]2 | [A,,,A,,]4 [A,,,A,,]2 | %38
+ [D,,D,]2 [C,,C,]2 [B,,,B,,]2 | [A,,,A,,]2 [G,,,G,,]2 [F,,,F,,]2 | [E,,,E,,]4 [G,,,G,,]2 | %41
+ [A,,,A,,]4 [A,,,A,,]2 | [D,,D,]4 [C,,C,]2 | [B,,,B,,]4 [A,,,A,,]2 | %44
+"^poco rit." [G,,,G,,]4 [E,,,E,,]2 |!ped! [D,,,D,,]6- | %46
+ z2 !arpeggio![D,F,A,D] z !arpeggio![D,F,A,D] z | !arpeggio![D,F,A,D] z !fermata!z2 z2!ped-up! |] %48
+V:4
+ x6 | x6 | x2 [DF]4 | x6 | x6 | (D2 C2) x2 | x6 | x6 | x6 | x6 | x6 | x6 | A6 | x6 | A6 | x6 | %16
+ F2 x4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %35
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %48
+V:5
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z2 .[E,,E,]2 .[A,,,A,,]2 | x6 | x6 | x6 | x6 | %15
+ x6 | x6 | x6 | z2 .[E,,E,]2 .[A,,,A,,]2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %30
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | [D,,,D,,]6- | %47
+ [D,,,D,,] x5 |] %48
+

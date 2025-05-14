@@ -1,0 +1,58 @@
+X:1
+T:Scherzo
+T:Scherzo in A Major
+T:Johann Nepomuk Hummel
+T:for piano
+C:J. N. Hummel
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+Q:1/4=130
+M:3/8
+K:A
+V:1 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:2 treble 
+V:3 treble 
+V:1
+"^Con brio"!p! (c/d/!wedge!e) z | (f/g/!wedge!a) z | (b/c'/!wedge!d') z | (c'/d'/!wedge!e') z | %4
+!<(! (e'/d'/c'/b/a/g/ | f/e/d/c/B/A/)!<)! | (GAc) | ([Ac]2 [GB]) |!p! (c/d/!wedge!e) z | %9
+ (f/g/!wedge!a) z | (b/c'/!wedge!d') z | (c'/d'/!wedge!e') z | (e'/^d'/c'/b/a/g/ | f/e/^d/c/B/A/) | %14
+ ([EG][FA])[^DF] | E2 z || z z!p! [Ee] | z z [=Fe] |"_cresc." z z [=Fd] | z z [Ed] | %20
+ z/ (=c/B/A/ .e) | z/ (A/=G/=F/ .=c) | z/ (B/d/=c/e/d/ | =f/e/d/=c/B/A/ | ^G/B/E/^F/G/A/ | %25
+ B/^c/^d/e/f/g/) | (e/g/!wedge!b) z | (B/^d/!wedge!f) z | (g/b/e/f/g/a/ | %29
+!8va(! b/c'/^d'/e'/f'/g'/) | (e'/g'/!wedge!b') z | (b/^d'/!wedge!f')!8va)! z | %32
+!p! (E/!<(!F/G/A/B/=c/!<)! |!>(! d/e/d/=c/B/A/!>)! |!p! (G/)!<(!B/G/A/B/=c/!<)! | %35
+!>(! d/e/d/=c/B/A/!>)! |!p! (G/)B/G/A/B/=c/ |"_cresc." d/^c/B/d/f/e/ | d/g/b/a/g/b/ | %39
+ d'/c'/d'/c'/d'/c'/ | e'/d'/c'/"_dim."b/a/g/ | c'/b/a/g/b/a/ | g/f/e/^d/f/e/ | ^d/e/d/e/=d/e/) | %44
+!p! (c/d/!wedge!e) z | (f/g/!wedge!a) z | (b/c'/!wedge!d') z | (c'/d'/!wedge!e') z | %48
+!<(! (e'/d'/c'/b/a/g/ | f/e/d/c/B/A/)!<)! | (GAc) |!>(! (c2 B)!>)! |!mf! z a=g | fdB | ^Ged | cAe | %56
+!f! z/ (e'/d'/c'/b/a/ | g/f/e/d/c/B/ |!>(! !wedge!A)!wedge![FB]!wedge![DG] | [CA]2!>)! z | %60
+!p! (d/f/!wedge!a) z | (c/e/!wedge!a) z | (B/c/d/e/f/g/) | (a/c'/!wedge!e') z | (D/F/!wedge!A) z | %65
+ (C/E/!wedge!A) z | (B,/C/D/E/F/G/) |!pp! (A/c/!wedge!e) z | (E/G/!wedge!B) z | (A,/C/!wedge!E) z | %70
+[K:bass] (E,/G,/!wedge!B,) z |[K:treble] (A,/C/)!wedge!E!wedge!A | !wedge!c!wedge!e!wedge!a | z3 |] %74
+V:2
+ (A,2 [CE]) | (A,2 [DF]) | (A,2 [B,G]) | (A,2 [CA]) | z3 | z3 |[K:bass] E3 | (E2 E,) | %8
+[K:treble] (A,2 [CE]) | (A,2 [DF]) | (A,2 [B,G]) | (A,2 [CA]) |[K:bass] [G,B,]3 | [A,C]3 | %14
+ B,2 [B,,A,] | [E,G,]2 z ||!p! (E,,/F,,/.G,,) z | (A,,/B,,/.=C,) z | (B,,/=C,/.D,) z | %19
+ (E,/F,/.G,) z | z =CB, | z A,=G, | =F,3- | F,2 =C | z [^G,B,][G,B,] | z [A,B,][A,B,] | %26
+ z [G,B,][G,B,] | z [A,B,][A,B,] | z [G,B,][G,B,] | z [A,B,][A,B,] | z [G,B,][G,B,] | %31
+ z [A,B,][A,B,] | G, z z | [A,D-]3 |!p! [B,D] z z | [A,D-]3 |!p! [B,D]3- | [B,D]3 | z3 | z3 | z3 | %41
+ z3 | z3 | z3 |[K:treble] (A,2 [CE]) | (A,2 [DF]) | (A,2 [B,G]) | (A,2 [CA]) | z3 | z3 | %50
+[K:bass] E3 | E2 z | (A,,,/B,,,/!wedge!C,,) z | (D,,/E,,/!wedge!F,,) z | (E,,/F,,/!wedge!G,,) z | %55
+ (A,,/B,,/!wedge!C,) z |[K:treble] (cB/A/G/F/ | E/D/C/[K:bass]B,/A,/G,/ | %58
+ !wedge!F,)!wedge!D,!wedge!E, | (A,,2 A,) | (F,2 A, | E,2 A, | D,2 E, | C,2 E,) | (F,2 A, | %65
+ E,2 A, | D,2 E, | C,2 E,) | (D,2 E, | C,2 E, | D,2 E, | C,2) z | z3 |!pp! [A,,,A,,] z z |] %74
+V:3
+ A,3 | A,3 | A,3 | A,3 | x3 | x3 |[K:bass] (DCA,) | x3 |[K:treble] A,3 | A,3 | A,3 | A,3 | %12
+[K:bass] x3 | x3 | x3 | x3 || x3 | x3 | x3 | x3 | (A,2 =G,) | (=F,2 E,) | D,3- | D,2 ^D, | E,3 | %25
+ E,3 | E,3 | E,3 | E,3 | E,3 | E,3 | E,3 | E, x2 | (=F,3 | E,) x2 | (=F,3 | E,3-) | E,3 | x3 | x3 | %40
+ x3 | x3 | x3 | x3 |[K:treble] A,3 | A,3 | A,3 | A,3 | x3 | x3 |[K:bass] (DCA,) | x3 | x3 | x3 | %54
+ x3 | x3 |[K:treble] x3 | x3/2[K:bass] x3/2 | x3 | A,,3 | A,,3 | A,,3 | A,,3 | A,,3 | A,,3 | A,,3 | %66
+ A,,3 | A,,3- | A,,3 | A,,3- | A,,3 | A,,2 x | x3 | x3 |] %74
+V:4
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 || x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |!8va(! x3 | x3 | x2!8va)! x | x3 | x3 | x3 | x3 | %36
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | (A2 G) | %52
+ z/ (A/a/A/=g/A/ | f/A/d/A/B/A/ | G/B/e/E/d/E/ | c/E/A/E/e/E/) | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %63
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 |[K:bass] x3 |[K:treble] x3 | x3 | x3 |] %74
+

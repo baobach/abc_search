@@ -1,0 +1,76 @@
+X:1
+T:Еsропейскiй
+T:Еsропейскiй
+T:КЭКЪ-ВОКЪ.
+T:соч. А. ГОРЯИНОВОЙ. Op. 39 
+T:A. 553 S.
+T:A. 553 S.
+C:соч. А. ГОРЯИНОВОЙ.
+Z:A. 553 S.
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+Q:1/4=90
+M:2/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:2 treble 
+V:3 treble 
+V:1
+"^INTRODUCTION.\nAllegro.\n"!f!!<(! f/!>!g_d/ f/!>!gd/ | f/!>!g_d/ f/!>!gd/ | %2
+ !>!f!<)! z x c/4e/4g/4=b/4!ff!"^m.g." !>!c' z | !fermata!z4 | %4
+[K:treble]!<(! F/!>!G_D/ !fermata!D2!<)! | %5
+[K:bass]!>(! [_D,F,G,]/[D,F,G,][F,B,_D]/ !fermata![E,B,C]2!>)! | %6
+[K:treble] x C/4E/4G/4=B/4!f! !>!c"^m.g."!<(! z (C/4E/4G/4_B/4 c/4e/4g/4=b/4)"^m.g." !>!c'!<)! z | %7
+ z4 |: [FA] [FA]2 [F^G] | [FA]/[FA][F^G]/ [FA]2 | [Ac] [Ac]2 [A=B] | [Ac]/[Ac][A=B]/ [Ac]2 | %12
+ [Af] [Af]2 [Af] | e/fd/ e/fd/ | !>!e z{dcBA} G z | !>!e' z{d'c'ba} g z | [EG] [EG]2 [E^F] | %17
+ [EG]/[EG][E^F]/ [EG]2 | [GB] [GB]2 [GA] | [GB]/[GB][GA]/ [GB]2 | [Ge] [Ge]2 [Ge] | d/e=B/ d/eB/ | %22
+ !>!c z{c_BAG} F z | !>!C z"^m.g."{CEG=B} c z | [FA] [FA]2 [F^G] | [FA]/[FA][F^G]/ [FA]2 | %26
+ [Ac] [Ac]2 [A=B] | [Ac]/[Ac][A=B]/ [Ac]2 | [^ca] [ca]2 [ca] | g/ae/ g/ae/ | !>!f z{agfe} d z | %31
+ !>!F z{AGFE} D z |!<(! [FB_df]!>(! [FBdf]2!<)! [FBdf]!>)! |!<(! f/_dg/!<)!!>(! f2!>)! | %34
+!<(! [FAcf]!>(! [FAcf]2!<)! [FAcf]!>)! |!<(! f/cg/!<)!!>(! f2!>)! | %36
+!<(! [=Bdg]!>(! [Bdg]2!<)! [Bd]!>)! |!<(! [_Be]!>(! [Be]2!<)! [Ba]!>)! |!f! [Af]/eg/ [Af]/eg/ |1 %39
+ [Af]!mf! [Acf][Ace][Acd] :|2 [Af] (3(c'/d'/e'/ f') x2!fine! ||!p! e/^d/e/d/ e/d/e/d/ | %42
+ e/g=d/ e/gd/ | c/=B/c/B/ c/B/c/B/ | c/f=B/ c/fA/ | G/^F/G/F/ G/F/G/F/ | B/A/B/A/ B/A/B/=B/ | %47
+ c/=Bd/ c/Bd/ | A!mf! [Acf][Ace][Acd] |!p! e/^d/e/d/ e/d/e/d/ | e/g=d/ e/gd/ | c/=B/c/B/ c/B/c/B/ | %52
+ c/f=B/ c/fA/ | G/G^F/ G/Bd/ | =F/FE/ F/Ac/ | C/C^C/ D/DE/ |!f! [A,=CF] z !fermata![A,_EF]2 || %57
+[K:Bb] z2 (GB) | A/EA/ G2 | z2 (GB) | A/EA/ G2 | F2 (G_A) | [F=A]/[FA][GB]/ [FA]2 | %63
+ [=EG]/[EG][FA]/ [EG]2 | [A,CF] !>![^F^f]!>![Gg]!>![Aa] | [Bdb]2 gb | [ea]/[Ae][ea]/ [eg]2 | %67
+ [Bdb]2 ag | [Aea]/[Aea][Aeg]/ [Aef]2 |!<(! [Ff]2 g_a!<)! |!>(! [fa]/[fa][gb]/ [fa]2!>)! | %71
+!<(! [cc']/[cc'][^c^c']/ [dd']/[dd'][^d^d']/!<)! | %72
+ [=ec'=e'] z"^m.g."!f! (C/4=E/4G/4B/4 c/4=e/4g/4=b/4"^m.g." !>!c') z!D.C.! |] %73
+V:2
+ F/!>!G_D/ F/!>!GD/ | F/!>!G_D/ F/!>!GD/ | !>!F z C/4E/4G/4B/4 x z2 | !fermata!z4 | %4
+[K:bass]"^rit." F,/!>!G,_D,/ !fermata!D,2 | B,,,/B,,,B,,/ !fermata![C,,G,,]2 | %6
+ C,/4E,/4G,/4B,/4"^accelerando" x7 |{/C,-} C,4 |: F,[A,C] C,[A,C] | F,[A,C] C,[A,C] | %10
+ F,[A,C] C,[A,C] | F,[A,C] C,[A,C] | F,[A,C] C,[A,C] | F,[A,C] C,[A,C] | [G,B,C] z z2 | %15
+[K:treble] [GBc]4 |[K:bass] G,[B,C] C,[G,B,C] | G,[B,C] C,[G,B,C] | G,[B,C] C,[G,B,C] | %19
+ G,[B,C] C,[G,B,C] | G,[B,C] C,[B,C] | G,[B,C] C,[B,C] | !>![F,A,] z z2 | !>![E,G,B,] z z2 | %24
+ [F,,F,][A,C] [C,,C,][A,C] | [F,,F,][A,C] [C,,C,][A,C] | [F,,F,][A,C] [C,,C,][A,C] | %27
+ [F,,F,][A,C] [C,,C,][A,C] | E,[A,^C] A,,[G,A,C] | E,[G,A,^C] A,,[G,A,C] | [F,A,D]4- | %31
+"_Собственностъ издателя А. ЗЕЙВАНГЪ." !>![F,A,D] z z2 | B,, [F,B,_D]2 [F,B,D] | %33
+ B,, [F,B,_D]2 [F,B,D] | C, [A,C]2 [A,C] | C, [A,C]2 [A,C] | %36
+"_Печатн В Гроссе въ Москвѣ. Б. Спасская ул. соб. д." [C,G,=B,] [C,G,B,]3 | [C,G,_B,] [C,G,B,]2 z | %38
+ [F,,F,]2 [C,,C,]2 |1 [F,,,F,,]2 z2 :|2 [F,,,F,,] z"^Fine." !arpeggio![F,,C,A,] !fermata!F,2 || %41
+ G,[B,C] C,[B,C] |"^crescendo" G,[B,C] C,[B,C] | F,[A,C] C,[A,C] | F,[A,C] C,[A,C] | %45
+ G,[B,C] C,[B,C] | G,[B,C] C,[B,C] | [F,,F,]2 [C,,C,]2 | [F,,,F,,]2 z2 | G,[B,C] C,[B,C] | %50
+ G,[B,C] C,[B,C] | F,[A,C] C,[A,C] | F,[A,C] C,[A,C] | B,,[G,B,] B,,[G,B,] | B,,[G,B,] B,,[G,B,] | %55
+ B,,[G,B,] B,,[G,B,] | F, z !fermata![F,,C,]2 ||[K:Bb] B,, [F,B,D]2 [F,B,D] | C, [F,A,E]2 [F,A,E] | %59
+ B,, [F,B,D]2 [F,B,D] | C, [F,A,E]2 [F,A,E] | B,, [F,B,D]2 [=B,,=B,] | C, [A,C]2 [A,C] | %63
+ C, [G,B,]2 [G,B,] | F, !>![E,,E,]!>![D,,D,]!>![C,,C,] | [B,,,B,,][F,B,D] [F,,,F,,][F,B,D] | %66
+ [C,,C,] [F,A,E]2 [F,A,E] | [B,,,B,,][F,B,D] [F,,,F,,][F,B,D] | [C,,C,] [F,A,E]2 [F,A,E] | %69
+ B,, [F,B,D]2 [=B,,=B,] | C, [A,C]2 [A,C] | [C,G,B,]2 [C,G,B,]2 | %72
+ [C,G,B,] z"_Danse D. C. al Fine." x2 z2 |] %73
+V:3
+ x4 | x4 | x6 | x4 |[K:bass] x4 | x4 | x8 | !fermata![C,,,C,,]4 |: x4 | x4 | x4 | x4 | x4 | x4 | %14
+ x4 |[K:treble] x4 |[K:bass] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %30
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |1 x4 :|2 x3 !fermata![F,,,F,,]2 || x4 | x4 | x4 | x4 | %45
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 ||[K:Bb] x4 | x4 | x4 | x4 | x4 | x4 | %63
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x6 |] %73
+V:4
+ x4 | x4 | x6 | x4 |[K:treble] x4 |[K:bass] x4 |[K:treble] x8 | x4 |: x4 | x4 | x4 | x4 | x4 | x4 | %14
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %33
+ x4 | x4 | x4 | x4 | x4 | x4 |1 x4 :|2 x5 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %52
+ x4 | x4 | x4 | x4 | x4 ||[K:Bb] !>!F4 | x4 | F4 | x4 | x4 | x4 | x4 | x4 | x2 [Gd][Bd] | x4 | %67
+ x2 [Ad][Fd] | x4 | x2 G_A | x4 | x4 | x6 |] %73
+

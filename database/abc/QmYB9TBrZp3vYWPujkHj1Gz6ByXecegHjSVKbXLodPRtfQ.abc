@@ -1,0 +1,38 @@
+X:1
+T:Title
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+M:6/8
+K:D
+V:1 treble nm="Grand Piano"
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+ z3 z[Q:1/4=90] FE | DDD DEF | [FA]2 [FA] [FA][GB][Gc] | [Fd][Fc][Fd] [A,FA][A,DA][A,D^G] | %4
+ [A,CG]3- [A,CG]2 [DF] | [CE][CE][CE] [CE][DF][EG] | [DF]2 [GA] [Fd]2 [FB] | %7
+ [Ec]2 [Ec] [^Ge]2 [Ge] |[M:2/4] cA AA |[M:1/4] FE |[M:3/4] D4 z2 | D4 z2 | A3 .B3 | A4 z2 | %14
+ c4 z2 | B6 | ^G2 G[GB] [Gc][Gd] | cA AA Bc | d4 z2 | c6 | BB Bd cc | A4 z2 | B^A Bd cB | z6 | %24
+ z2 z B3- | B z z d3- |[M:2/4] d4 |] %27
+V:2
+ z3 z [D,A,D][D,G,D] | [D,F,][D,F,][D,F,] [D,F,][D,G,D][D,A,D] | [D,D]2 [D,D] [D,D][G,D][E,A,] | %3
+ [D,A,][D,A,][D,A,] D,F,=F, | E,A,,A,, A,,2 [A,,A,] | [A,,A,][A,,A,][A,,A,] [A,,A,][A,,A,][A,,A,] | %6
+ [D,A,]2 [C,A,] [B,,B,]2 [D,B,] | [E,A,]2 [E,A,] [E,B,]2 [E,D] | %8
+[M:2/4][K:treble] [A,CG][A,EG] [A,EG][A,EG] |[M:1/4] z2 |[M:3/4][K:bass] z F, F,F, z2 | %11
+ z F, F,F, z2 | z [A,D] .[A,D]2 [A,D][A,D] | z [A,D] [A,D] A,,3 | z [A,E] [A,E][A,E] z2 | %15
+ z [A,C] [A,C] [A,C]2 [A,CE] | [E,DE]2 [E,DE][E,D] [E,C][E,B,] | [A,CG][A,CG] [A,CG][A,EG] ^G=G | %18
+ F[K:bass][D,A,] [D,A,][D,A,][K:treble] FF | G[A,C] [A,D] [A,E]2 [A,CG] | %20
+ [A,CG][A,CG] [A,CG][A,G] [A,B,G][A,CG] | [D,D][D,D] [D,B,] [D,A,]2 [D,D] | %22
+ [G,DG][G,CG] [G,DG][G,B,G] [G,CG][G,DG] | z6 | z2[K:treble] z G3- | G z z2[K:bass] z2 | %26
+[M:2/4] [D,A,]4 |] %27
+V:3
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |[M:2/4] x4 |[M:1/4] x2 |[M:3/4] z A, A,A, FE | %11
+ z A, A,A, FG | z F .F2 FF | z F F[A,DF] Bd | z G GG Gc | z G G G2 A | x6 | x6 | z F FF Bd | %19
+ z G G G2 A | x6 | FF F [FA]2 [FA] | x6 | [FA][=F^G] [^FA][=GB] [FA]2- | [FA]^G .A2 DD | %25
+ Dc .A2 GG |[M:2/4] F4 |] %27
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |[M:2/4][K:treble] x4 |[M:1/4] x2 | %10
+[M:3/4][K:bass] [D,,D,]3 A,,3 | [D,,D,]3 A,,3 | [D,,D,]3 A,,3 | [D,,D,]4 z2 | x6 | x6 | x6 | x6 | %18
+ x[K:bass] x3[K:treble] x2 | x6 | x6 | x6 | x6 | [D,D][D,D] [D,D][D,D] [D,D]2- | %24
+ [D,D][K:treble]=F .^F2 G,G, | G,G GF[K:bass] [D,B,][D,B,] |[M:2/4] x4 |] %27
+

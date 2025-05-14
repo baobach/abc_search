@@ -1,0 +1,40 @@
+X:1
+T:Title
+%%score [ ( 1 2 ) ( 3 4 ) ] { ( 5 6 ) | ( 7 8 ) }
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="Midi_74"
+V:2 treble 
+V:3 bass nm="Midi_74"
+V:4 bass 
+V:5 treble nm="Org."
+V:6 treble 
+V:7 bass 
+V:8 bass 
+V:1
+ (F6 G2) | A4 c4 | B8 || (B6 c2) | d4 f4 | c4 A4 |{A} G8 || (A6 B2) | c4 _e4 | d8 || (d6 e2) | %11
+ f4 B4 |"^John Camidge\n(1790-1859)" A4 G4 | F8 |] %14
+V:2
+ (F6 E2) | F4 F4 | F8 || F8 | F4 F4 | F4 F4 |{F} E8 || F8 | F4 A4 | B8 || ([FB]6 F2) | B4 F4 | %12
+ F4 E4 | F8 |] %14
+V:3
+ (C6 B,2) | A,4 A,4 | B,8 || (B,6 A,2) | B,4 B,4 | A,4 C4 | C8 || C8 | C4 F4 | F8 || F8 | F4 F4 | %12
+ C4 B,4 | A,8 |] %14
+V:4
+ (A,6 G,2) | F,4 _E,4 | D,8 || (D,6 C,2) | B,,4 D,4 | F,4 A,4 | C8 || (F,6 G,2) | A,4 C4 | B,8 || %10
+ (B,6 C2) | D4 D,4 | C,4 C,4 | F,8 |] %14
+V:5
+ F6 [B,CEG]2 | A4 c4 | B8 || B6 c2 | d4 f4 | c4 A4 |{[FA]} G8 || A6 B2 | c4 _e4 | d8 || d6 e2 | %11
+ f4 B4 | A4 G4 | F8 |] %14
+V:6
+ C6 x2 | [A,CF]4 [FA]4 | F8 || [B,F]6 [_EFA]2 | [DFB]4 [FB]4 | [FA]4 [CF]4 | E8 || F8 | F4 [FA]4 | %9
+ [FB]8 || [FB]8- | [FB]4 [B,F]4 | [CF]4 [B,CE]4 | [CF]8 |] %14
+V:7
+ x8 | x8 | x8 || F,8- | F,4 F,4 | x8 | x8 || x8 | x8 | x8 || x8 | x8 | x8 | x8 |] %14
+V:8
+ [A,,A,]6 [G,,G,]2 | [F,,F,]4 [_E,,_E,]4 | [D,,D,]8 || D,6 C,2 | B,,4 D,4 | [F,,F,]4 [A,,A,]4 | %6
+ [C,C]8 || [F,,F,]6 [G,,G,]2 | [A,,A,]4 [C,F,C]4 | [B,,F,B,]8 || [B,,B,]6 [C,C]2 | %11
+ [D,D]4 [D,,D,]4 | [C,,C,]4 [C,,C,]4 | [F,,F,A,]8 |] %14
+

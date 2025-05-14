@@ -1,0 +1,44 @@
+X:1
+T:El Médico
+T:El Médico
+%%score 1 2 3 4
+L:1/8
+Q:1/4=180
+M:6/8
+K:D
+V:1 treble nm="Violín" snm="Vln."
+V:2 treble nm="Violín" snm="Vln."
+V:3 treble-8 nm="Guitarra acústica" snm="Guit."
+V:4 bass transpose=-12 nm="Bajo acústico" snm="Bajo"
+V:1
+ .d3 .c3 |: .d.d.A .d.d.A | .d.f .a2 .g.f | .e.f .g2 .f.e | .d2 z z .A2 | .d.d.A .d.d.A | %6
+ .d.f .a2 .g.f | .e.f .g2 .f.e | .d3 z .e.f | .g.g.d .g.g.d | .g.a .b2 .a.g | .f.f.d .f.f.d | %12
+ .f.g .a2 .g.f | .e.e.c .e.e.c | .e.f .g2 .f.e | .f3 z .e.f | .g.g.d .g.g.d | .g.a .b2 .a.g | %18
+ .f.f.d .f.f.d | .f.g .a2 .g.f | .e.e.c .e.e.c | .e.f .g2 .f.e |1 .d3 .c3 :|2 .d3 .c3 | %24
+ .d.d.d .d2 z |] %25
+V:2
+ .B3 .A3 |: .B.B.F .B.B.F | .B.d .f2 .e.d | .c.d .e2 .d.c | .B2 z z .F2 | .B.B.F .B.B.F | %6
+ .B.d .f2 .e.d | .c.d .e2 .d.c | .B3 z .c.d | .e.e.B .e.e.B | .e.f .g2 .f.e | .d.d.B .d.d.B | %12
+ .d.e .f2 .e.d | .c.c.A .c.c.A | .c.d .e2 .d.c | .d3 z .c.d | .e.e.B .e.e.B | .e.f .g2 .f.e | %18
+ .d.d.B .d.d.B | .d.e .f2 .e.d | .c.c.A .c.c.A | .c.d .e2 .d.c |1 .B3 .A3 :|2 .B3 .A3 | %24
+ .B.B.B .B2 z |] %25
+V:3
+!pp! [DAdf]3 [CEAa]3 |: [DAdf][DAdf][DAdf] [DAdf][DAdf][DAdf] | %2
+ [DAdf][DAdf][DAdf] [DAdf][DAdf][DAdf] | [A,EAce][A,EAce][A,EAce] [A,EAce][A,EAce][A,EAce] | %4
+ [DAdf]3 z z2 | [DAdf][DAdf][DAdf] [DAdf][DAdf][DAdf] | [DAdf][DAdf][DAdf] [DAdf][DAdf][DAdf] | %7
+ [A,EAce][A,EAce][A,EAce] [A,EAce][A,EAce][A,EAce] | [DAdf]3 z z2 | %9
+ [B,Gdg][B,Gdg][B,Gdg] [B,Gdg][B,Gdg][B,Gdg] | [B,Gdg][B,Gdg][B,Gdg] [B,Gdg][B,Gdg][B,Gdg] | %11
+ [DAdf][DAdf][DAdf] [DAdf][DAdf][DAdf] | [DAdf][DAdf][DAdf] [DAdf][DAdf][DAdf] | %13
+ [A,EAce][A,EAce][A,EAce] [A,EAce][A,EAce][A,EAce] | %14
+ [A,EAce][A,EAce][A,EAce] [A,EAce][A,EAce][A,EAce] | [DAdf]3 z z2 | %16
+ [B,Gdg][B,Gdg][B,Gdg] [B,Gdg][B,Gdg][B,Gdg] | [B,Gdg][B,Gdg][B,Gdg] [B,Gdg][B,Gdg][B,Gdg] | %18
+ [DAdf][DAdf][DAdf] [DAdf][DAdf][DAdf] | [DAdf][DAdf][DAdf] [DAdf][DAdf][DAdf] | %20
+ [A,EAce][A,EAce][A,EAce] [A,EAce][A,EAce][A,EAce] | %21
+ [A,EAce][A,EAce][A,EAce] [A,EAce][A,EAce][A,EAce] |1!pp! [DAdf]3 [CEAa]3 :|2!pp! [DAdf]3 [CEAa]3 | %24
+ [DAdf][DAdf][DAdf] [DAdf]2 z |] %25
+V:4
+ D,3 A,,3 |: D,2 F,2 A,2 | D,2 F,2 A,2 | A,,2 C,2 E,2 | D,3 z z2 | D,2 F,2 A,2 | D,2 F,2 A,2 | %7
+ A,,2 C,2 E,2 | D,3 z z2 | G,,2 B,,2 D,2 | G,,2 B,,2 D,2 | D,2 F,2 A,2 | D,2 F,2 A,2 | %13
+ A,,2 C,2 E,2 | A,,2 C,2 E,2 | D,3 z z2 | G,,2 B,,2 D,2 | G,,2 B,,2 D,2 | D,2 F,2 A,2 | %19
+ D,2 F,2 A,2 | A,,2 C,2 E,2 | A,,2 C,2 E,2 |1 D,3 A,,3 :|2 D,3 A,,3 | D,3 z z2 |] %25
+

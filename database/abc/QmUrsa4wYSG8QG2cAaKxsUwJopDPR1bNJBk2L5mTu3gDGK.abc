@@ -1,0 +1,30 @@
+X:1
+T:Requiem aeternam - Martini
+T:James Gibb editions 
+T:#
+%%score { 1 | 2 } 3
+L:1/8
+Q:1/4=60
+M:4/4
+K:Ab
+V:1 treble nm="Soprano I" snm="S"
+V:2 treble 
+V:3 treble nm="Alto" snm="A"
+V:1
+"^Requiem aeternam""^Giovanni Battista Martini\n(1706-1784)""^adagio"!pp! c3 c!<(! d2 c2!<)! | %1
+w: Re- qui- em ae-|
+!>(! B4"^," c2!>)! ee |[M:4/4] d2 c2 c2 (BA) |"^," B4 c4 | A2 A2!<(! d3!<)! c | B4!f! e3 d | %6
+w: ter- nam do- na|e- is, Do- mi\- *|ne: et|lux per- pe- tu-|a lu- ce-|
+"^," c2 (d4 c2 | B8) | !fermata!c8 |] %9
+w: at e\- *||is.|
+V:2
+!pp! A3 A!<(! B2 A2!<)! |!>(! G4"^," A2!>)! cc |[M:4/4] B2 A2 A2 (GF) |"^," G4 A4 | %4
+w: Re- qui- em ae-|ter- nam do- na|e- is, Do- mi\- *|ne: et|
+"^," F2 F2!<(! B3!<)! A | G4!f! c3 B |"^," A2 (BA G2 A2- | A2 GF G4) | !fermata!A8 |] %9
+w: lux per- pe- tu-|a lu- ce-|at e\- * * *||is.|
+V:3
+!pp! F3 F!<(! B,2 (CD)!<)! |!>(! E4"^," A,2!>)! A,A, |[M:4/4] B,2 (CD) E3 E | E4 z4 | %4
+w: Re- qui- em ae\- *|ter- nam do- na|e- is, * Do- mi-|ne:|
+ D4"^," B,2 B,2 |!<(! E3 D C4!<)! |!f! F2 DD E4- | E8 | !fermata![A,E]8 |] %9
+w: et lux per-|pe- tu- a|lu- ce- at e\-||is.|
+

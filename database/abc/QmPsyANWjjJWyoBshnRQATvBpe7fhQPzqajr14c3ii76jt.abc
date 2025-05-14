@@ -1,0 +1,63 @@
+X:1
+T:Canon in D
+T:Canon in D
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=80
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:1
+!pp! z (!1!f!2!a!5!d') z (!1!e!3!a!5!c') | z (dfb) z (cfa) | z (Bdg) z (Adf) | %3
+ z (!1!B!2!d!5!g) z (!1!c!2!e!5!a) |!p! !tenuto!f4 !tenuto!e4 | !tenuto!d4 !tenuto!c4 | %6
+ !tenuto!B4 !tenuto!A4 | !tenuto!B4 !tenuto!c4 | !tenuto![df]4 !tenuto![ce]4 | %9
+ !tenuto![Bd]4 !tenuto![Ac]4 | !tenuto![GB]4 !tenuto![FA]4 |!<(! !tenuto![GB]4 !tenuto![Ac]4!<)! | %12
+ !1!!5![Fd]c d2 !2!!4![Ac]4 | !1!!2![Bd]2 !3!f2 !1!!5![ca]3 !5!b | %14
+ (!1!!4![Bg]!3!f!2!e!4!g !1!!3![Af]!2!e!1!d!4!c | %15
+ !1!!3![GB]!2!A!1!G!3!F !1!!2![DE]!4!G!1!!3![CF]!2!E |!<(! DEFG !1!!5![CA]2) (!4!AG!<)! | %17
+ !1!!2![DF]!5!BAG !4!A!3!G!2!F!1!E | !2!D2) Bc [Fd]cBA | !3!BABd !1!!5![Ed]2 c2 | %20
+!mf! !5!a!3!f/!4!g/ !5!af/g/ !5!a/A/B/!3!c/ !1!d/e/f/g/ | %21
+ !3!f!1!d/e/ fF/G/ A/B/A/G/ !4!A/!2!F/!3!G/!4!A/ | %22
+ !3!G!5!B/!4!A/ !3!G!2!F/!1!E/ !3!F/E/D/E/ F/!1!G/A/!3!B/ | %23
+ !1!GB/A/ B!4!c/!5!d/!<(! !3!c/!1!A/B/c/ !1!d/e/f/g/!<)! | %24
+!f! !5!a!3!f/!4!g/ af/g/ !5!a/!1!A/B/c/!<(! !1!d/e/f/g/!<)! | %25
+ !3!fd/e/ fF/!1!G/ !2!A/!3!B/!2!A/!1!G/ !2!A/!5!d/!4!c/!5!d/ | %26
+ !3!Bd/c/ !3!BA/G/ !2!A/!1!G/!2!F/!1!G/ A/B/c/d/ | !1!!3![GB]d/c/!<(! d!2!!4![Bd] !1!!3![Ac]4!<)! | %28
+!ff! !3!!5![fa]3 !2!!4![fa] ([fa][gb][fa][eg] | %29
+ !1!!2![df]3) (!1!!3![df] [df][eg]!1!!3![df]!2!!4![ce] | !1!!3![Bd]!2!c!1!B!4!c !1!!5![Fd]4) | %31
+ (!1!!5![Gd]!4!=c!2!B!3!c!>(! !1!!4![G^c]4!>)! |!f! !tenuto![df]4) !tenuto![ce]4 | %33
+ !tenuto![Bd]4 !tenuto![Ac]4 | !tenuto![GB]4 !tenuto![FA]4 | !tenuto![GB]4 !5![EAd]2 !4!c2 | %36
+!p! !tenuto![DFAd]4 !tenuto![EAc]4 | !tenuto![DFB]4 !tenuto![CFA]4 | %38
+ !tenuto![B,DG]4 !tenuto![G,DF]4 | !tenuto![B,DB]4"_dim." !tenuto![DE-]2 [CE]2 | [A,DF]8 |] %41
+V:2
+!ped! !1!D4!ped! !2!A,4!ped-up! |!ped! !1!B,4!ped-up!!ped! !3!F,4!ped-up! | %2
+!ped! !2!G,4!ped-up!!ped! !5!D,4!ped-up! |!ped! !2!G,4!ped-up!!ped! !1!A,4!ped-up! | %4
+!ped! !5!D,!ped-up!!2!A,!1!D!2!A,!ped! !5!A,,!ped-up!!2!E,!1!A,!2!C | %5
+!ped! B,,!ped-up!F,B,F,!ped! F,,!ped-up!C,A,C | %6
+!ped! G,,!ped-up!D,A,D,!ped! !5!D,,!ped-up!!2!A,,!1!D,!2!F, | %7
+!ped! G,,!ped-up!D,G,D,!ped! !5!A,,!ped-up!!2!E,!1!A,!2!C | %8
+!ped! D,!ped-up!A,DA,!ped! A,,!ped-up!E,A,C |!ped! B,,!ped-up!F,B,F,!ped! F,,!ped-up!C,A,C | %10
+!ped! G,,!ped-up!D,G,D,!ped! D,,!ped-up!A,,D,F, |!ped! G,,!ped-up!D,G,D,!ped! A,,!ped-up!E,A,C | %12
+!ped! !5!D,!ped-up!!2!A, !1!D2!ped! A,,!ped-up!E, A,2 | %13
+!ped! B,,!ped-up!F, B,2!ped! F,,!ped-up!D, A,2 |!ped! G,,!ped-up!D, G,2!ped! D,,!ped-up!A,, D,2 | %15
+!ped! G,,!ped-up!D, G,2!ped! A,,2!ped-up! A,2 |!ped! D,!ped-up!A, D2!ped! A,,!ped-up!E, A,2 | %17
+!ped! B,,!ped-up!F, B,2!ped! F,,!ped-up!C, A,2 |!ped! G,,!ped-up!D, G,2!ped! D,,!ped-up!A,, D,2 | %19
+!ped! G,,!ped-up!D, G,2!ped! A,,!ped-up!E,A,E, |!ped! D,!ped-up!A, D2!ped! A,,!ped-up!E, A,2 | %21
+!ped! B,,!ped-up!F, B,2!ped! F,,!ped-up!C, F,2 |!ped! G,,!ped-up!D, G,2!ped! D,,!ped-up!A,, D,2 | %23
+!ped! G,,!ped-up!D, G,2!ped! A,,!ped-up!E, A,2 |!ped! D,!ped-up!A, D2!ped! A,,!ped-up!E, A,2 | %25
+!ped! B,,!ped-up!F, B,2!ped! F,,!ped-up!C, F,2 |!ped! G,,!ped-up!D, G,2!ped! D,,!ped-up!A,, D,2 | %27
+!ped! G,,!ped-up!D, G,2!ped! A,,!ped-up!E, A,2 |!ped! D,,!ped-up!A,, D,2!ped! A,,!ped-up!E, A,2 | %29
+!ped! B,,!ped-up!F, B,2!ped! F,,!ped-up!C, A,2 |!ped! G,,!ped-up!D, G,2!ped! D,,!ped-up!A,,D,A,, | %31
+!ped! G,,!ped-up!D,G,D,!ped! A,,!ped-up!E, A,2 |!ped! D,!ped-up!A,DA,!ped! A,,!ped-up!E,A,E, | %33
+!ped! B,,!ped-up!F,B,F,!ped! F,,!ped-up!C,A,C, |!ped! G,,!ped-up!D,G,D,!ped! D,,!ped-up!A,,D,A,, | %35
+!ped! G,,!ped-up!D,G,D,!ped! A,,!ped-up!E,A,E, |!ped! [D,F,A,]4!ped-up!!ped! [A,,E,A,]4!ped-up! | %37
+!ped! [B,,F,B,]4!ped-up!!ped! [F,,C,F,]4!ped-up! | %38
+!ped! [G,,D,G,]4!ped-up!!ped! [D,,A,,D,]4!ped-up! | %39
+!ped! [G,,D,G,]4!ped-up!!ped! [A,,,A,,]4!ped-up! |!ped! [D,,A,,D,]8!ped-up! |] %41
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ !1!G4 E4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %37
+ x8 | x8 | x8 | x8 |] %41
+

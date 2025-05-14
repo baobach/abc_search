@@ -1,0 +1,35 @@
+X:1
+T:Canción del Toreador
+T:de Carmen
+T:Georges Bizet
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Flute" snm="Fl."
+V:2 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:3 bass 
+V:1
+!pp! (g2 a>g) e2 e2 | (e>d e>f) e4 | (f2 d>g) e4 | (c2 A>d) G2 z2 | d4- d(agf) | (edef) e4 | %6
+!<(! B2 e2 (e2 ^d>^f)!<)! | b6 z2 | z a^ga def z | z e(ca) g4 | z c(Gf) e2 d2 | c4 z4 | %12
+!ff! g2 a>g e2 e2 | e>d e>f e4 | f2 d>g e4 | c2 A>d G2 z2 | d4- dagf | edef e4 | %18
+!<(! B2 e2 e2 ^d>^f!<)! | b6 z2 | z .a^ga .d.e f2 | z .eca g4 | z .c(Gf) e2 d2 | c8 |] %24
+V:2
+!pp! [eg]4 [ce]2 [ce]2 | [Ge]>d [Ge]>f [ce]4 | [Gf]2 [Bd]2 [Ge]4 | [Ac]2 [^FA]2 G4 | [Ad-]4 dagf | %5
+ edef e4 | B2 [Be]2 [Be]2 [B^d]2 | [B^gb]6 z2 | [Acf]2 z2 z2 [Adf]2 | [Gce]2 z2 z4 | %10
+ [Ge]2 z2 [ce]2 z2 | cG,/A,/ B,/C/D/E/ F/G/A/B/ c/d/e/f/ |!ff! [ceg]4 [ce]2 [ce]2 | %13
+ [Ge]>d [Ge]>f [ce]4 | [Gf]2 [Bd]2 [Ge]4 | [Ac]2 [^FA]2 G4 | [Ad-]4 dagf | edef e4 | %18
+!<(! B2 e2 e2 ^d2!<)! | [B^gb]6 z2 | [Acf]2 z2 z2 [Adf]2 | [Gce]2 z2 z4 | [Ge]2 z2 [ce]2 [Bd]2 | %23
+ c8 |] %24
+V:3
+ .C,2 .G,,2 .C,2 .G,,2 | .C,2 .G,,2 .C,2 .G,,2 | .D,2 .G,,2 .C,2 .B,,2 | .A,,2 .D,2 .G,2 .G,,2 | %4
+ .D,2 .A,,2 .D,2 .F,2 | .C,2 .G,,2 .C,2 G,,A,, |!<(! .B,,2 .G,2 .^F,2 .[B,,B,]2!<)! | %7
+ E,2 B,,2 ^G,,2 E,,2 | .F,,2 z2 z2 .D,2 | G,,2 z2 z E,C,A, | G,2 z2 .G,2 .G,,2 | [C,E,]8 | %12
+ .C,2 .G,,2 .C,2 .G,,2 | .C,2 .G,,2 .C,2 .G,,2 | .D,2 .G,,2 .C,2 .B,,2 | .A,,2 .D,2 .G,2 .G,,2 | %16
+ .D,2 .A,,2 .D,2 .F,2 | .C,2 .G,,2 .C,2 G,,A,, | .B,,2 .G,2 .F,2 .B,,2 | .E,2 .B,,2 .^G,,2 .E,,2 | %20
+ .F,,2 z2 z2 .D,,2 | .G,,2 z2 z E,C,A, | G,2 z2 G,2 [G,,G,]2 | [C,E,G,]8 |] %24
+V:4
+ x8 | x8 | x8 | x8 | F4 F2 z2 | G2 G2 G4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %16
+ F4 F2 A2 | c2 G2 c2 E2 | G2 B4 B2 | x8 | x8 | x8 | x8 | x8 |] %24
+

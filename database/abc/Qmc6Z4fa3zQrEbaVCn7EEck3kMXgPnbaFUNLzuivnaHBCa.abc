@@ -1,0 +1,40 @@
+X:1
+T:El campesino alegre que regresa del trabajo
+T:Robert Schuman n Redactado por Abraham Santos Fernández
+T:Transcripción para cuarteto de viento
+%%score 1 2 3 4
+L:1/8
+Q:1/4=112
+M:4/4
+K:F
+V:1 treble nm="Flauta" snm="Fl."
+V:2 treble nm="Oboe" snm="Ob."
+V:3 treble transpose=-2 nm="BaccidentalFlat Clarinete" snm="BaccidentalFlat Cl."
+V:4 bass nm="Fagot" snm="Fag."
+V:1
+"^Allegramente     = 112" z2 | z!mf! .A.A z z .c.c z | z .d.d z z .c.c z | %3
+ z .c !tenuto!c2 z .A !tenuto!A2 | z .G z .=B z .c !tenuto!c2 | z .A.A z z .c.c z | %6
+ z .d.d z z .c.c z | z .c !tenuto!c2 z A !tenuto!A2 | z .G z .=B z .cc(C | _B3 A G3) (C | %10
+!<(! B!<)!.A.G.F G3) (C | F3 A c3) (F | Bdfd) c3 z | z .c !tenuto!c2 z .A.A.A | %14
+ z .G z .C z .F!tenuto!F(C | B3 A G3) (C |!<(! B!<)!.A.G.F G3) (C | F3 A c3) (F | B)dfd c3 z | %19
+ z c c2 z AAA | z .G z .C z .F!tenuto!F z |] %21
+V:2
+ z2 | z!mf! .F.F z z .A.A z | z .B.B z z .A.A z | z .B !tenuto!B2 z .A !tenuto!F2 | %4
+ z .C z .G z .G !tenuto!G2 | z .F.F z z .A.A z | z .B.B z z .A.A z | %7
+ z .B !tenuto!B2 z .A !tenuto!F2 | z .C z .G z .GG z | z .E.E z z .C.C z | z .C.C.=B, z .C.C z | %11
+ z .C.C z z .A.A z | z B z B z AA z | z .B !tenuto!B2 z .F.F.F | z .D z .B, z CC z | %15
+ z .E.E z z .C.C z | z CC=B, z .C.C z | z .C.C z z AA z | z B z B z AA z | z B B2 z FFF | %20
+ z .D z .B, z .C!tenuto!C z |] %21
+V:3
+[K:G] z2 | z!mf! .D.D z z .G.G z | z .G.c z z .G.G z | z .F !tenuto!F2 z .D !tenuto!D2 | %4
+ z2 z .G z .F !tenuto!F2 | z .D.D z z .G.G z | z .G.c z z .G.G z | %7
+ z .F !tenuto!F2 z .D !tenuto!D2 | z2 z .G z .FG z | z .D.D z .C.C z2 | z8 | z .B,.B, z z .G.G z | %12
+ z G z G z GG z | z .F !tenuto!F2 z .C.C.C | A,2 F,2 G,2 B, z | z .D.D z z .C.C z | z8 | %17
+ z .B,.B, z z GG z | z G z G z GG z | z F E2 z DDD | z .E z z z .B,!tenuto!B, z |] %21
+V:4
+ z!f! (C, | F,3 A, C3 A, | B,DFD C3) (A, | B,G,C,B, A,F,C,A, | E,2 D,2 C,2) z (C, | F,3 A, C3 F, | %6
+ B,DFD C3) (A, | B,G,C,B, A,F,C,A, | E,2 D,2 C,2) z (C, | G,3 F, E,3) (C, | %10
+!<(! G,!<)!.F,.E,.D, E,3) (C, | F,3) (A, C3) (F, | B,DFD C3) (A, | B,G,C,B, A,F,C,A, | %14
+ B,,2 C,2 F,2) z (C, | G,3 F, E,3) (C, |!<(! G,!<)!.F,.E,.D, E,3) (C, | F,3) (A, C3) (F, | %18
+ B,DFD C3) (A, | B,G,C,B, A,F,C,A, | G,2 E,2 F,2 z2) |] %21
+

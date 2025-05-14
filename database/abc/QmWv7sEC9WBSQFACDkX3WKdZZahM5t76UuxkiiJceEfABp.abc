@@ -1,0 +1,51 @@
+X:1
+T:Jesu Dulcis Memoria
+T:Jesu Dulcis Memoria
+T:Frère Bruno
+C:Frère Bruno
+%%score [ 1 2 3 ] { ( 4 5 ) | ( 6 7 ) }
+L:1/8
+Q:1/4=80
+M:4/4
+K:F
+V:1 treble nm="Soprano" snm="S."
+V:2 treble nm="Alto" snm="A."
+V:3 treble nm="Tenor" snm="T."
+V:4 treble nm="Organ" snm="Org."
+V:5 treble 
+V:6 bass 
+V:7 bass 
+V:1
+S!mf! A2 | A2 c2 B2 A2 | G2 G2 !fermata!A2 A2 |!<(! G2 c2!<)! d2 e2 | %4
+w: Je-|su dul- cis me-|mo- ri- a, Dans|ve- ra cor- dis|
+!>(! d2 d2!>)! !fermata!c2"^cresc." c2 | f2 e2 d2 c2 | d2 d2 !fermata!c2 G2 |"^dim." A2 B2 c2 B2 | %8
+w: gau- di- a. Sed|su- per mel, et|om- ni- a, e-|jus dul- cis prae|
+ A2 G2 !fermata!A2 z2 ||S"^Autre Finale." A2 B2 c2 B2 | A2 G2 !fermata!A4 |] %11
+w: sen- ti- a.|||
+V:2
+!mf! F2 | F2 A2 F2 F2 | F2 E2 !fermata!F2 F2 |!<(! G2 G2!<)! (BG) G2 | %4
+w: Je-|su dul- cis me-|mo- ri- a, Dans|ve- ra cor- * dis|
+!>(! A2 =B2!>)! !fermata!c2"^cresc." G2 | A2 c2 B2 A2 | F2 F2 !fermata!E2 E2 |"^dim." F2 G2 A2 F2 | %8
+w: gau- di- a. Sed|su- per mel, et|om- ni- a, e-|jus dul- cis prae|
+ F2 E2 !fermata!F2 z2 || F2 DE FE D2 | E4 !fermata!E4 |] %11
+w: sen- ti- a.|||
+V:3
+!mf! D2 | C2 FE D2 C2 | D2 C2 !fermata!C2 F2 |!<(! GF E2!<)! F2 E2 | %4
+w: Je-|su dul- * cis me-|mo- ri- a, Dans|ve- * ra cor- dis|
+!>(! F2 GF!>)! !fermata!E2"^cresc." E2 | D2 A2 B2 F2 | A2 G2 !fermata!G2 C2 |"^dim." F2 F2 FE D2 | %8
+w: gau- di- * a. Sed|su- per mel, et|om- ni- a, e-|jus dul- cis * prae|
+ C2 C2 !fermata!F2 z2 || F2 FG A2 F2 | C2 D2 !fermata!^C4 |] %11
+w: sen- ti- a.|||
+V:4
+ A2 | A2 c2 B2 A2 | G2 G2 A2 A2 | G4 AG G2 | A2 G2 [Gc]2 c2 | f2 e2 d2 c2 | d4 c2 G2 | %7
+ A2 B2 c2 B2 | A2 G2 !fermata!A2 z2 || A2 B2 c2 B2 | A2 G2 !fermata!A4 |] %11
+V:5
+ F2 | F2 FE D2 C2 | D2 C2 C2 FE | D2 E2 F2 E2 | D2 DF E2 G2 | A4 F4 | F4 E2 E2 | F6 F2- | %8
+ F2 E2 F2 x2 || F2 DE F2 x2 | E4 E4 |] %11
+V:6
+ D2 | C2 F,2 F,4 | F,2 E,2 F,2 C2 | =B,2 C2 CB, C2 | C2 =B,2 [G,C]2 E2 | F2 C2 B,2 A,2 | %6
+ A,2 G,2 G,2 C2 | C2 B,2 A,2 B,2 | C4 !fermata!C2 z2 || C2 G,2 A,2 B,2 | C2 D2 !fermata!^C4 |] %11
+V:7
+ [D,A,]2 | F,2 A,,2 B,,D,F,A,, | B,,2 C,2 F,,2 F,2 | F,2 E,2 D,2 C,2 | F,2 G,2 C,2 x2 | %5
+ D2 A,2 B,2 F,2 | B,,2 =B,,2 C,2 C,2 | F,6 D,2 | C,4 F,2 x2 || F,4- F,E, D,2 | C,2 B,,2 A,,4 |] %11
+

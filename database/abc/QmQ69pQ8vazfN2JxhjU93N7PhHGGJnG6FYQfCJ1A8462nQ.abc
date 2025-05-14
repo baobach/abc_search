@@ -1,0 +1,74 @@
+X:1
+T:Le petit négre
+T:Le petit négre
+T:Claude Debussy
+T:2
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Klavier" snm="Pno"
+V:4 treble 
+V:2 treble 
+V:3 treble 
+V:1
+"^f  tres rythmé" (e/ge/ (.g.e) x4 | (c/e)c/ (.e.c) x4 |"^f  marcato" (A/!<(!cA/) c(A/!<)!c/) | %3
+ !>!.A4 |"^mf e dim." (G/A)G/ (EG) | (E/F)E/ C2 | (C/D)C/ G,(G,/B,/) | !>!.G,4 | %8
+[K:bass]!mf! (E,/G,)E,/ (.G,.E,) | (C,/E,)C,/ (.E,.C,) |"^dim." (A,,/C,A,,/) C,(A,,/C,/) | %11
+ !>!.A,,4 | z2 .D,.E, |[K:treble]"^cresc. molto" z2 (DE/G/) | z2!<(! !>!.e(g/!<)!a/) | %15
+!f! !fermata![gc']2"^Un peu retenu" z2 | _B4 | _B4 | _B4 | [G_B]4- | [GB]2 z (=B | [c_B]3 z | %22
+ [FA]3)!<(! z!<)! | [EG]2 G!>(! [FG]!>)! | [CG]3!p! z |!<(! _B,D FG | _Bd f!<)!d | [_B-_GxG]4 | %28
+ [B_G]3 z |{/d} [c_B]3 z | [FA]3!<(! z!<)! |{/F} [EG]2 G!>(! [FG]!>)! | [CG]3!p! z |!<(! _B,D FG | %34
+ _Bd!<)!"^cresc."f !tenuto!d | f !tenuto!df !tenuto!_e | f !tenuto!_ef !>!e | %37
+!f!"^Retenu" ^f !>!_ef z |!ff!"^a Tempo" e/ge/ .g.e | c/ec/ .e.c |"^f  marcato" A/cA/ cA/c/ | %41
+ !>!.A4 |"^mf e dim." G/AG/ EG | E/FE/ C2 | C/DC/ G,G,/B,/ | !>!.G,4 | %46
+[K:bass]!mf! E,/G,E,/ .G,.E, | C,/E,C,/ .E,.C, |"^dim." A,,/C,A,,/ C,A,,/C,/ | !>!.A,,4 | %50
+ z2 .D,.E, |[K:treble]"^cresc. molto" z2 DE/G/ | z2!<(! !>!.eg/!<)!a/ | %53
+!ff! .!^![gc']2"^Un peu retenu" z2 | _B4 | _B4 | _B4 | [G_B]4-) | [GB]2 z (=B | [c_B]3 z | %60
+ [FA]3)!<(! z!<)! | [EG]2 G!>(! [FG]!>)! | [CG]3!p! z |!<(! _B,D FG | _Bd f!<)!d | [_B-_GxG]4 | %66
+ [B_G]3 z |{/d} [c_B]3 z | [FA]3!<(! z!<)! |{/F} [EG]2 G!>(! [FG]!>)! | [CG]3!p! z |!<(! _B,D FG | %72
+ _Bd!<)!"^cresc."f !tenuto!d | f !tenuto!df !tenuto!_e | f !tenuto!_ef !>!e | %75
+!f!"^Retenu" ^f !>!_ef z |"^f f""^a Tempo" e/ge/ .g.e | c/ec/ .e.c |"^f  marcato" A/cA/ cA/c/ | %79
+ !>!.A4 | G/AG/ EG | E/FE/ C2 | C/DC/ G,G,/B,/ | !>!.G,4 |[K:bass]!mf! E,/G,E,/ .G,.E, | %85
+ C,/E,C,/ .E,.C, |"^dim." A,,/C,A,,/ C,A,,/C,/ | !>!.A,,4 | z2 .D,.E, | %89
+[K:treble]"^cresc. molto" z2 DE/G/ | z2!<(! !>!.eg/!<)!a/ |!ff! .!^![gc']2 .!^![Gc]2 |] %92
+V:2
+ z8 | z8 | (.[DF].[^D^F] .[EG].[_E_G] | .[DF].[_E_G] .[DF].[^C=E]) | (.[C_E].[B,D] .[_B,_D].[A,C] | %5
+[K:bass] .[_A,B,].[G,_B,] .[^F,=A,].[=F,_A,]) | (.[E,G,].[_E,_G,] .[D,F,].[^D,^F,]) | %7
+ (.[D,F,].G,,) (.[_D,F,].G,,) | .C,.C .B,,.B, | .A,,.A, .G,,.G, | .F,,.F, .E,,.E, | %11
+ .D,,.D, .F,,.F, | (!>!G,,/A,,)C,/ z2 | (!>!G,/A,)C/ z2 |[K:treble] (!>!A/c)d/ z !>![df] | %15
+ !fermata![ce]2!p! z (C | z2) z!>(! D-!>)! | D4-!>(!!>)! |!>(! [DF]4-)!>)! | [DF]4- | %20
+ [DF]2 z[K:bass]!pp! B, |"^doux et expressif" C3 A, | (F,3 D,) | E,2 D,2 | (C,3 A,,) | %25
+ _B,,D, F,G, | _B,D FD | _B,4- | (B,3[K:bass]!pp! =B,) |"^doux et expressif" C3 A, | (F,3 D,) | %31
+ E,2 D,2 | (C,3 A,,) | _B,,D, F,G, | _B,[K:treble]DF !tenuto!D | F !tenuto!DF !tenuto!_E | %36
+ F !tenuto!_EF !>!E | ^F !>!_EFB | !>!!tenuto!c2 !>!!tenuto!B2 | !>!!tenuto!A2 !>!!tenuto!G2 | %40
+ .[DF].[^D^F] .[EG].[_E_G] | .[DF].[_E_G] .[DF].[^C=E] | .[C_E].[B,D] .[_B,_D].[A,C] | %43
+[K:bass] .[_A,B,].[G,_B,] .[^F,=A,].[=F,_A,] | .[E,G,].[_E,_G,] .[D,F,].[^D,^F,] | %45
+ .[D,F,].G,, .[_D,F,].G,, | .C,.C .B,,.B, | .A,,.A, .G,,.G, | .F,,.F, .E,,.E, | .D,,.D, .F,,.F, | %50
+ !>!G,,/A,,C,/ z2 | !>!G,/A,C/ z2 |[K:treble] !>!A/cd/ z !>![df] | .!^![ce]2!p! z C | %54
+ z2 z!>(! D-!>)! | D4-!>(!!>)! |!>(! [DF]4-!>)! | [DF]4- | [DF]2 z[K:bass]!pp! B, | %59
+"^doux et expressif" C3 A, | F,3 D, | E,2 D,2 | C,3 A,, | _B,,D, F,G, | _B,D FD | _B,4- | %66
+ B,3[K:bass]!pp! =B, |"^doux et expressif" C3 A, | F,3 D, | E,2 D,2 | C,3 A,, | _B,,D, F,G, | %72
+ _B,[K:treble]DF !tenuto!D | F !tenuto!DF !tenuto!_E | F !tenuto!_EF !>!E | ^F !>!_EFB | %76
+ !>!!tenuto!c2 !>!!tenuto!B2 | !>!!tenuto!A2 !>!!tenuto!G2 | .[DF].[^D^F] .[EG].[_E_G] | %79
+ .[DF].[_E_G] .[DF].[^C=E] |"^mf e dim." .[C_E].[B,D] .[_B,_D].[A,C] | %81
+[K:bass] .[_A,B,].[G,_B,] .[^F,=A,].[=F,_A,] | .[E,G,].[_E,_G,] .[D,F,].[^D,^F,] | %83
+ .[D,F,].G,, .[_D,F,].G,, | .C,.C .B,,.B, | .A,,.A, .G,,.G, | .F,,.F, .E,,.E, | .D,,.D, .F,,.F, | %88
+ !>!G,,/A,,C,/ z2 | !>!G,/A,C/ z2 |[K:treble] !>!A/cd/ z2 | .!^![ce]2 .!^![CE]2 |] %92
+V:3
+ x8 | x8 | x4 | x4 | x4 |[K:bass] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |[K:treble] x4 | %15
+ x2 z C- | C4- | C4- | C4- | C4- | C2 x[K:bass] x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %28
+ x3[K:bass] x | x4 | x4 | x4 | x4 | x4 | x[K:treble] x3 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %43
+[K:bass] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |[K:treble] x4 | x2 z C- | C4- | C4- | C4- | %57
+ C4- | C2 z2[K:bass] | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x3[K:bass] x | x4 | x4 | x4 | x4 | x4 | %72
+ x[K:treble] x3 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |[K:bass] x4 | x4 | x4 | x4 | x4 | x4 | %87
+ x4 | x4 | x4 |[K:treble] x4 | x4 |] %92
+V:4
+ x8 | x8 | x4 | x4 | x4 | x4 | x4 | x4 |[K:bass] x4 | x4 | x4 | x4 | x4 |[K:treble] x4 | x4 | x4 | %16
+ x4 | x4 | z2 z G- | x4 | x4 | z E2 z | z C2 x | z B,2 B, | z E2 x | x4 | x4 | z ._D z .D | %28
+ z _D2 z | z E2 z | z C2 x | z B,2 B, | z E2 x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %43
+ x4 | x4 | x4 |[K:bass] x4 | x4 | x4 | x4 | x4 |[K:treble] x4 | x4 | x4 | x4 | x4 | z2 z G | x4 | %58
+ x4 | z E2 z | z C2 x | z B,2 B, | z E2 x | x4 | x4 | z ._D z .D | z _D2 z | z E2 z | z C2 x | %69
+ z B,2 B, | z E2 x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |[K:bass] x4 | %85
+ x4 | x4 | x4 | x4 |[K:treble] x4 | x4 | x4 |] %92
+

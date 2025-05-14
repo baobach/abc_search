@@ -1,0 +1,36 @@
+X:1
+T:Moonlight Tavern
+T:Moonlight Tavern
+T:How about a frosty mug of beer?
+%%score 1 2
+L:1/8
+Q:1/4=80
+M:3/4
+K:C
+V:1 treble nm="Piano 1"
+V:2 bass nm="Piano 2"
+V:1
+{/g} a4- ae | f4 c'e | d3 g dG | c3 d eg | a4- ae | f3 c' fe | dg d'Pb gd | a6 | A2 ee3/2{/c}d/c | %9
+ Bc B A2 B | c3/2{/c}d/ ed BG | !arpeggio![cde]6 | A2{/d} ee>dc | Bc B A2 B | cd e{/c}d/c/ BG | %15
+ A6 | A2 ee3/2{/c}d/c | Bc B A2 B | c3/2{/c}d/ ed BG | !arpeggio![cde]3 b c'd' | A2 ee3/2{/c}d/c | %21
+ Bc B A2 B | [ca][db] [ec']{/c}c/B/ [Bg][Ge] | [Aa]6 | [Gc]2 [Gcg][Gcg] [Gc]/f/e | de cG Ac | %26
+ c>d e[dc'] [cg]d | [ce]2- [ce]/c/c' gc | c2 [cg][cg]>fe | _ed c[cc']/_A/ [_Bg]/c/d/c/ | %30
+ d>_e d[_Bc'] [cg]{/c}d | c3 [cc']2 [Bb] | [EGc]E/E/ [EG][Ec] E/E/[EG] | %33
+ [Acf]F/[Fe]/ [Fd][Ec] E/E/[EG] | [Ec]E/E/ [EG][Ec] [Fd][Ge] | [DGBd]D/D/ DD D/D/[DB] | %36
+ [CEc][CE]/[CE]/ [CEG][CEc] [CE]/[CE]/[CEG] | [FAf]F/[FAe]/ [FAd][EGc] E/E/[EG] | %38
+ [CDFc]D/[D_B]/ D[B,D=B] [CEc][DFd] | [EGc]2 [Gg] [cec']3 |] %40
+V:2
+ A,,E, A,B, E,A, | G,,C, F,A, C,E, | D,,A,, D,G,, B,,D, | C,,G,, C,D, E,G, | A,,E, A,B, E,A, | %5
+ F,,C, F,A, C,E, | D,,A,, D,PA,, G,,D,, | A,,E, A,B, E,A, | A,,E, A,B, E,A, | F,,C, F,A, C,E, | %10
+ D,,A,, D,G,, B,,D, | C,,G,, C,D, E,G, | A,,E, A,B, E,A, | F,,C, F,A, C,E, | %14
+ D,,A,, D,{/A,,}B,,/A,,/ G,,D,, | A,,E, A,B, E,A, | A,,E, A,B, E,A, | F,,C, F,A, C,E, | %18
+ D,,A,, D,G,, B,,D, | C,,G,, C,D, E,G, | A,,E, A,B, E,A, | F,,C, F,A, C,E, | %22
+ D,,A,, D,{/A,,}B,,/A,,/ G,,D,, | A,,E, A,B, A,,C, | C,G, C D2 G, | [F,,F,]C FF CE | %26
+ [D,D]A, DG DG, | C,G, CD EG | [C,C]G, CD G,C | [_E,,_E,]^G, _B,C/G,/ B,/C/[G,D]/C/ | %30
+ [F,,F,]_B, CD CB, | [C,C]/E,/F,/G,/ ^G,/_B,/ [C,C]3 | %32
+"_dim." [C,G,][G,C]/[G,C]/ [G,C]/C,/[G,C] [G,C]/[G,C]/[G,C] | %33
+ [C,G,][G,C]/[G,C]/ [G,C]/C,/[G,C] [G,C]/[G,C]/[G,C] | [G,,G,C][G,C]/[G,C]/ [G,C]/G,,/C CC | %35
+ G,,[G,B,]/[G,B,]/ [G,B,]/G,,/[G,B,] [G,B,]/[G,B,]/[G,B,] | [C,G,]G,/G,/ G,/C,/G, G,/G,/G, | %37
+ [F,,F,][A,C]/[A,C]/ [A,C]/G,,/[G,C] C/C/[G,C] | [_B,,F,][F,_B,]/[F,=B,]/ [F,B,]/G,,<G,G,3/2 | %39
+ C,G,/C/- C4 |] %40
+

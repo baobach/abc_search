@@ -1,0 +1,56 @@
+X:1
+T:The Rains Of Castamere
+T:The Rains Of Castamere
+T:(From HBO's Game Of Thrones)
+T:Ramin Djawadi
+T:Arr. Evan Thomas
+T:Note: This arrangement is based on the melody only. I am not sticking to Djawadi's orchestration. 
+C:Ramin Djawadi
+Z:Arr. Evan Thomas
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=80
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:1
+"^expressivo" z4!p! z2 z A- | [Adf]3 A- [Ae]3 A- | [A-d-f]2 [A-d-g]2 [Ade]3 A- | g2 f2 e2 d2 | %4
+ [Gce]8 | [ca] [ca]2 b [eg]2 cc | [f-a]2 [fb]2 [eg]3 a | [db]2 [ca]2 [Bg]2 [Af]2 | [^ce-]6 eA- | %9
+ [Adf]3 A- [Ae]3 A- | [A-d-f]2 [Adg]2 [Ae]3 f | g2 f2 e2 d2 | [Gce-]6 ec- | [c-fa]3 b [ceg]3 c- | %14
+ [c-f-a]2 [c-fb]2 [ceg]3 a | [db]2 [ca]2 [Bg]2 [Af]2 | [^ce]6 A2 | [Ae]f d4 f2 | fe A4 A2 | %19
+ [Ade]f d4 f2 | [G-A-c-f][GAce]- [GAce]4 A2 | [Ade]f [Fd]4 a2 | !arpeggio![Bdfa]2 g2 d3 e | %23
+ f3 A [^ce]3 f |!<(! [Fd]6!<)!!mf!!8va(! [ee']2 | [ef-a-e'][f-a-f'] [dfad']4 [ff']2 | %26
+ [fg-c'-f'][egc'e'] [Aea]4 [Aa]2 | [ef-a-e'][f-a-f'] [dfad']4 [ff']2 | %28
+ [fgc'f'][egc'e']- [egc'e']4 [Aa]2 | [efa-e'][f-a-f']"_dim." [dfad']4 [aa']2 | %30
+ !arpeggio![b-d'-f'-a']2 [g-b-d'f'g']2 !fermata![dgbd']3 [ee'] |!mp! [fd'f']6 [dd']2 | %32
+ [a^c'e'g'a']2 [ge'g']2 [ec'e']2 [fc'f']2 | [dfad']6"_molto rit."!p! a2 | %34
+ [a-d'-e'][a-d'f'] [ad']4 a'2 | !arpeggio![b-d'f'a']2 [b-g']2 [bd']3 e' | [af']6 d'2 | %37
+ [^c'-a']2 [c'-e'-g']2 [c'-e'f']2 [c'e']2 |!>(! [fd']efa d'e'f'^c''!>)! | %39
+!ppp! !arpeggio![f'a'd'']8!8va)! |] %40
+V:2
+ z8 |!ped! D,A, F2!ped! D,!ped-up!A, E2 |!ped! D,!ped-up!A, F2!ped! D,!ped-up!A, E2 | %3
+!ped! D,!ped-up!A,DA, FA,EA, |!ped! C,!ped-up!G,CD E4 | %5
+!ped! F,,!ped-up!C, [F,A,]2!ped! C,,!ped-up!G,, [C,E,]2 | %6
+!ped! F,,!ped-up!C, [F,A,]2!ped! C,,!ped-up!G,, [C,E,]2 |!ped! G,,!ped-up!D,G,D, B,D,A,D, | %8
+!ped! A,,!ped-up!E,A,=B, ^C4 |!ped! D,!ped-up!A, F2!ped! D,!ped-up!A, E2 | %10
+!ped! D,!ped-up!A, [DF]2!ped! D,!ped-up!A, E2 |!ped! D,!ped-up!A,DA, EA,FA, | %12
+!ped! C,!ped-up!G,CD E4 |!ped! F,,!ped-up!C, [F,A,]2!ped! C,,!ped-up!G,, [C,E,]2 | %14
+!ped! F,,!ped-up!C, [F,A,]2!ped! C,,!ped-up!G,, [C,E,]2 |!ped! G,,!ped-up!D,G,D, B,D,A,D, | %16
+!ped! A,,!ped-up!E,A,=B, ^C4 |!ped! D,,!ped-up!A,,D,A,, F,A,,E,A,, | %18
+!ped! C,,!ped-up!G,,C,G,, E,G,,D,G,, |!ped! D,,!ped-up!A,,D,A,, F,A,,E,A,, | %20
+!ped! C,,!ped-up!G,,C,G,, E,4 |!ped! D,,!ped-up!A,,D,A,, F,A,,E,A,, | %22
+!ped! B,,,!ped-up!F,,D,F, B,4 |!ped! D,,!ped-up!A,, F,2!ped! A,,!ped-up!E, ^C2 | %24
+!ped! D,,!ped-up!A,,D,A,, F,A,,E,A,, |!ped! [D,,,D,,]!ped-up!A,,D,A,, F,A,,E,A,, | %26
+!ped! [C,,,C,,]!ped-up!G,,C,G,, E,G,,D,G,, |!ped! [D,,,D,,]!ped-up!A,,D,A,, F,A,,E,A,, | %28
+!ped! [C,,,C,,]!ped-up!G,,C,G,, E,4 |!ped! [D,,,D,,]!ped-up!A,,D,A,, F,A,,E,A,, | %30
+!ped! [B,,,,B,,,]!ped-up!F,,D,F, B,4 |!ped! [D,,,D,,]!ped-up!A,,D,A,, F,A,,D,A,, | %32
+!ped! [A,,,,A,,,]!ped-up!E,A,=B, ^C4 |!ped! [D,,,D,,]!ped-up!A,,F,A, D4 |[K:treble] DAdA fAeA | %35
+!ped! B,!ped-up!Fdf b4 |!ped! D!ped-up!AdA fAdA |!ped! A,!ped-up!EA=B ^c4 | %38
+!ped! D!ped-up!Ade fad'e' | f'8 |] %40
+V:3
+ x8 | x8 | x8 | A8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | A8 | x8 | x8 | x8 | x8 | x8 | x8 | %18
+ [GAc]4 x4 | x8 | x8 | x8 | x8 | x8 | x6!8va(! x2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %34
+ x8 | x8 | x8 | x8 | x8 | x8!8va)! |] %40
+

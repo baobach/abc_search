@@ -1,0 +1,33 @@
+X:1
+T:Il Mio Tesoro
+T:Il Mio Tesoro
+T:Mozart
+C:Mozart
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/8=120
+M:2/2
+K:Bb
+V:1 treble transpose=-2 nm="B♭ Clarinet" snm="B♭ Cl."
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:1
+[K:C]"^\n" c2 c>d cBAB | c z d z e z z2 | f7/2 g/ e z c z | f7/2 g/ e z c z | A6 Bc | decA G2 BA | %6
+ G2 z2 z4 | d2 B/A/G/G/ G2 G2 | e3 c c2 z g | g^fed d2 ef | g6 =f2 | e>dc z/ G/ e z c z | %12
+ f>ed z/ G/ f z d z | g4 gafd | c6 d2 | d3 ^d e2 z2 | e>dc z/ G/ e z c z | f>ed z/ G/ f z d z | %18
+ g4 b4 | c'4- c'afd | ge c4 ed | c2 z2 z4 |] %22
+V:2
+ [B,D]F[B,D]F [CE]F[CE]F | [B,D]F[A,E]F [B,D]F[B,D]F | [A,C]F[A,C]F [B,D]F[B,D]F | %3
+ [A,C]F[A,C]F [B,D]F[B,D]F | [G,B,]=E[G,B,]E [G,C]E[G,C]E | [A,C]F[B,D]G [A,C]F[B,C]=E | %6
+ [A,F]2 [Af]2 [Af]2 [Af]2 | [A,C]F[A,C]F [A,C]F[A,C]F | [B,D]F[B,D]F [B,D]F[B,D]F | %9
+ [G,B,]G[G,B,]=E [G,B,]E[G,B,]G | [A,F]2 [c_e]2 [Bd]2 A2 | [B,D]F[B,D]F [B,D]F[B,D]F | %12
+ [A,C]F[A,C]F [A,C]F[A,C]F | [B,D]F[B,D]F [G,C]E[G,C]G | [B,D]F[B,D]F [B,D]F[A,E]F | %15
+ [A,F]ECA, B,DFB | z F[Bd]D [FB]DFD | z F[ce]F [Ac]C[FA]C | [Bf]F[Bf]F [ce]F[ce]F | %19
+ [Bd]F[Bd]F [Bc]G[Bc]G | [Bd]F[df]F [df]F[EA]F | [DB]2 [Fd]2 [DB]2 z2 |] %22
+V:3
+ B,,2 z2 F,,2 z2 | B,,2 F,,2 B,,2 z2 | F,2 z2 B,,2 z2 | F,2 z2 B,,2 z2 | C,2 z2 B,,2 z2 | %5
+ A,,2 B,,2 C,2 C,2 | F,,2 F,2 F,2 F,2 | F,,2 z2 F,2 z2 | B,,2 z2 B,,2 z2 | C,2 z2 C,2 z2 | %10
+ F,2 A,2 B,2 C2 | B,,2 z2 B,,2 z2 | A,,2 z2 A,,2 z2 | B,,2 z2 E,2 z2 | F,2 z2 F,,2 z2 | B,,6 z2 | %16
+ B,,2 z2 B,2 z2 | A,2 z2 E,2 z2 | D,2 z2 C,2 z2 | D,2 z2 E,2 z2 | F,2 z2 F,,2 z2 | %21
+ B,,2 B,,2 B,,,2 z2 |] %22
+

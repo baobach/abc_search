@@ -1,0 +1,45 @@
+X:1
+T:Air
+T:Johann Sebastian Bach (1685–1750) Arr. for winds by Luis F. Acosta
+T:Air
+C:Johann Sebastian Bach (1685–1750)
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/8=65
+M:4/4
+K:C
+V:1 treble nm="Oboe" snm="Ob."
+V:2 treble transpose=-3 nm="Oboe d'amore" snm="Ob. d'a."
+V:3 treble transpose=-7 nm="English Horn" snm="E. Hn."
+V:4 bass nm="Bassoon" snm="Bsn."
+V:1
+ e8- | ea/f/ d/c/B/c/ B2 G2 | g4- g/e/(_B/A/) (d/^c/)(g/f/) | f4- f/d/(A/G/) (c/B/)(f/e/) | %4
+ e3 (^f/g/) cc/4d/4e/- e/d/(d/c/) | B/A/A/4B/4c/- cB/A/ G4 | e8- | ea/f/{e} d/c/B/c/ B2 G2 | %8
+ g4- g/e/(_B/A/) (d/^c/)(g/f/) | f4- f/d/(A/G/) (=c/=B/)(f/e/) | e3 (^f/g/) cc/4d/4e/- e/d/(d/c/) | %11
+ B/A/A/4B/4c/- cB/A/ G4 |: B2- B/c/4B/4A/4B/4G/ g3 _B | Aa- a/g/f/e/ f2- f/4e/4d/4c/4=B/A/ | %14
+ ^G/A/B- B/c/d- d/e/f- fe | d/c/B/A/ (B/c/4d/4)c A4 | c2- c/e/d/c/ a2- ag/^f/ | %17
+ e/4d/4g/G A3/2B/4c/4 B>A G2 | c3 (e/d/) d3 (f/e/) | e3 (g/f/) f4 | %20
+ G2- G/B/d/f/ f/d/e- e-e/f/4g/4 | c2- c/e/g/_b/ a3 c | =B/d/ f2 A Gd/e/4f/4- f/ed/ |1 %23
+ c/4B/4AB/ (cTB/>)c/ c4 :|"^rit." c/4B/4AB/ (cTB/>)c/ c4 |] %25
+V:2
+[K:Eb] e8- | e2 c2 B4- | B_d/c/ db/d/ c4 | cf/e/ f/g/a/f/ B4 | B4- B=A/B/ cA | B B2 =A F4 | e8- | %7
+ e2 c2 B4- | B_d/c/ db/d/ c4 | cf/e/ f/g/a/f/ B4 | B4- B=A/B/ cA | B B2 =A F4 |: %12
+ B4- B/c/_d- d/c/B/_A/ | G3 =e f4- | f4- f/_e/d/c/ =B/c/d | ccc=B G4 | F2 G2 CF/G/ =A/_B/c- | %17
+ c B2 =A B4- | Bc/_d/ c/=d/e- ed/c/ d/=e/f- | f=e/d/ e/f/g- g/e/f/c/ F2- | %20
+ F/D/F/B/ dB- Bd/_e/ _E2- | EF G2 A4- | Ac f2- f/e/d/c/ Bc |1 B2 (TA/G/A) G4 :| B2 (TA/G/A) G4 |] %25
+V:3
+[K:G] d4 e4 | E2 A2 A4- | A ^G2 A B4 | A E2 A A4 | G3 A BGEA- | ABEA F4 | d4 e4 | E2 A2 A4- | %8
+ A ^G2 A B4 | A E2 A A4 | G3 A BGEA- | ABEA F4 |: A4- A^G/A/ B2- | B/c/d/B/ ^Ge e2 E2 | %14
+ (F/=G/A/B/) (c/B/c/A/) BA/G/ FB | BA/G/ cB/A/ G4 | Ee d/^c/d c>B A2- | AABA A>G F/G/A/F/ | %18
+ D G2 E- E A2 F- | F B2 ^G E2- E/e/c/A/ | dcBA =G2 d2- | dc d2 G4 | (A/E/A/c/) (e/d/c/B/) A d2 c |1 %23
+ B2 AD D4 :| B2 AD D4 |] %25
+V:4
+ C,CB,B,, A,,A,G,G,, | F,,F,^F,^F,, G,,G,=F,=F,, | E,,E,D,D,, ^C,,^C,A,,A, | %3
+ D,,D,=C,=C,, B,,,B,,G,,G, | C,CB,B,, A,,A,^F,D, | G,C,D,D,, (G,,/A,,/B,,/C,/ D,/=F,/E,/D,/) | %6
+ C,CB,B,, A,,A,G,G,, | F,,F,^F,^F,, G,,G,=F,=F,, | E,,E,D,D,, ^C,,^C,A,,A, | %9
+ D,,D,=C,=C,, B,,,B,,G,,G, | C,CB,B,, A,,A,^F,D, | G,C,D,D,, G,,4 |: G,,G,F,F,, E,,E,D,D,, | %13
+ ^C,,^C,E,A,, D,D=C=C, | B,,B,A,A,, ^G,,A,,B,,G,, | A,,F,D,E, A,,A,=G,=G,, | %16
+ ^F,,^F,E,E,, D,,D,C,C,, | B,,,B,,C,D, G,,G,=F,=F,, | E,,E,F,F,, ^F,,^F,G,G,, | %19
+ ^G,,^G,A,A,, D,DCC, | B,,B,=G,B, CC,_B,,_B, | A,A,,G,,G, F,F,,E,,E, | D,D,,C,,C, B,,G,,C,F, |1 %23
+ G,F,G,G,, C,,4 :| G,F,G,G,, C,,4 |] %25
+

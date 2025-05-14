@@ -1,0 +1,65 @@
+X:1
+T:prelude piano
+T:Bach - Cello Suite no. 1 - Prelude
+T:Arr: Konstantina Chorianopoulou
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=70
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:1
+ (G/d/b/)a/ b/d/b/d/ (G/d/b/)a/ b/d/b/d/ | (G/e/c'/)b/ c'/e/c'/e/ (G/e/c'/)b/ c'/e/c'/e/ | %2
+ (G/f/c'/)b/ c'/f/c'/f/ (G/f/c'/)b/ c'/f/c'/f/ | (G/g/b/)a/ b/g/b/g/ (G/g/b/)a/ b/g/b/f/ | %4
+ (G/g/b/)a/ b/g/f/g/ e/g/f/g/ B/d/^c/B/ | (^c/g/a/)g/ a/g/a/g/ (c/g/a/)g/ a/g/a/g/ | %6
+ (f/a/d'/)^c'/ d'/a/g/a/ f/a/g/a/ d/f/e/d/ | (E/B/g/)f/ g/B/g/B/ (E/B/g/)f/ g/B/g/B/ | %8
+ E/^c/d/e/ d/c/B/A/ (g/f/e/)d'/ ^c'/b/a/g/ | (f/e/d/)d'/ a/d'/f/a/ (d/e/f/)a/ g/f/e/d/ | %10
+ ^g/(d/=f/e/) f/d/g/d/ b/(d/f/e/) f/d/g/f/ | (c/e/a/)b/ c'/a/e/d/ (c/e/a/)b/ c'/a/f/e/ | %12
+ (^d/f/d/)f/ a/f/a/f/ (d/f/d/)f/ a/f/a/f/ | (g/f/e/)g/ f/g/a/f/ g/f/e/d/ c/B/A/G/ | %14
+ (F/c/d/)c/ d/c/d/c/ (F/c/d/)c/ d/c/d/c/ | (G/B/=f/)e/ f/B/f/B/ (G/B/f/)e/ f/B/f/B/ | %16
+ (G/c/e/)d/ e/c/e/c/ (G/c/e/)d/ e/c/e/c/ | (G/f/c'/)b/ c'/f/c'/f/ (G/f/c'/)b/ c'/f/c'/f/ | %18
+ (G/d/b/)a/ b/g/f/e/ d/c/B/A/ G/F/E/D/ | (^C/A/e/)f/ g/e/f/g/ (C/A/e/)f/ g/e/f/g/ | %20
+ (C/A/d/)e/ f/d/e/f/ (C/A/d/)e/ f/d/e/f/ | (C/A/d/)f/ (b/^c'/!fermata!d'-) d'/A/B/c/ d/e/f/g/ | %22
+ a/f/d/e/ f/g/a/b/ c'/a/f/g/ a/b/c'/d'/ | (_e'/d'/^c'/d'/) (d'/=c'/b/c'/) c'/a/f/e/ d/A/B/c/ | %24
+ (D/A/d/)f/ a/b/c'/a/ b/g/d/c/ B/G/A/B/ | (D/G/B/)d/ g/a/b/g/ (^c'/_b/a/b/) (b/a/^g/a/) | %26
+ (a/g/f/)g/ g/e/^c/B/ (A/c/e/)g/ a/^c'/d'/c'/ | (d'/a/f/)e/ f/a/d/f/ A/d/^c/B/ A/G/F/E/ | %28
+ D(c'/b/ a/g/f/e/) d/(c'/b/a/ g/f/e/d/) | c/(b/a/g/ f/e/d/c/) B/(a/g/f/ e/d/c/B/) | %30
+ A/g/f/e/ f/a/d/a/ e/a/f/a/ g/a/e/a/ | f/a/d/a/ g/a/e/a/ f/a/d/a/ g/a/e/a/ | %32
+ f/a/d/a/ e/a/f/a/ x/ a/x/a/ x/ a/x/a/ | x/ a/x/a/ x/ a/x/a/ x/ a/x/a/ x/ a/x/a/ | %34
+ x/ a/x/a/ x/ a/x/a/ x/ a/x/a/ x/ a/x/a/ | x/ a/x/a/ x/ a/x/a/ g/a/f/a/ g/a/e/a/ | %36
+ f/a/d/e/ =f/d/^f/d/ g/d/^g/d/ a/d/_b/d/ | b/d/c'/d/ ^c'/d/d'/d/ _e'/d/=e'/d/ =f'/d/^f'/d/ | %38
+ (g'/b/d/)b/ g'/b/g'/b/ (g'/b/d/)b/ g'/b/g'/b/ | (g'/a/d/)a/ g'/a/g'/a/ (g'/a/d/)a/ g'/a/g'/a/ | %40
+ (f'/c'/d/)c'/ f'/c'/f'/c'/ (f'/c'/d/)c'/ f'/c'/f'/c'/ | !fermata![bg']8 |] %42
+V:2
+ G,,D,B,A, B,D,B,D, | G,,E,CB, CE,CE, | G,,F,CF, G,F,G,F, | G,,G,B,A, B,G,B,G, | %4
+ G,,G,B,A, B,G,F,G, | ^C,G,A,G, A,G,A,G, | F,,A,,D,^C, D,A,,G,,A,, | E,,B,,G,F, G,B,,G,B,, | %8
+ E,,^C,D,E, D,/E,/F,/G,/ G,,/A,,/B,,/C,/ | %9
+ (D,/E,/F,/)F,,/ A,,F,, A,,/F,,/E,,/D,,/ D,,/E,,/F,,/G,,/ | %10
+ E,/(=F,/D,/^G,/) F,/D,/^G,,/D,/ B,,/(D,/F,/E,/) F,/D,/G,/F,/ | C,E,A,B, CA,E,D, | %12
+ ^D,F,D,F, A,F,A,F, | G,F,E,G, F,G,E,F, | F,,C,D,C, D,C,D,C, | G,,B,,=F,E, F,B,,F,B,, | %16
+ G,,C,E,D, E,C,E,C, | G,,F,C,B,, C,F,,C,F, | G,D,B,,A,, D,,/E,,/F,,/G,,/ A,,/B,,/C,/D,/ | %19
+ ^C,A,,E,,F,, G,,E,,F,,G,, | =C,A,,D,,E,, F,,D,,E,,F,, | %21
+ (F,/D,/A,,/)F,,/ (B,,,/^C,,/!fermata!D,,-) D,,B,,,D,,F,, | %22
+ A,,/F,,/D,,/E,,/ F,,/G,,/A,,/B,,/ C,/A,,/F,,/G,,/ A,,/B,,/C,/D,/ | %23
+ C,/B,,/A,,/D,/ E,/F,/A,/C/ C,/B,,/C,/D,/ D,/^C,/D,/_E,/ | %24
+ B,,/A,,/G,,/B,,/ C,/D,,/G,,/B,,/ A,,/C,/B,,/A,,/ F,,/D,,/A,,,/D,,/ | %25
+ D,,/G,,,/B,,,/D,,/ G,,/F,,/E,,/G,,/ ^C,/D,/E,/D,/ D,/E,/F,/E,/ | %26
+ F,,/G,,/A,,/G,,/ G,,/B,,/E,/F,/ G,/E,/^C,/A,,/ E,,/^C,,/B,,,/C,,/ | %27
+ D,,/G,,/B,,/C,/ D,/B,,/F,/D,/ F,,/^C,,/^D,,/E,,/ F,,/G,,/A,,/B,,/ | %28
+ B,,E,,/F,,/ G,,/A,,/B,,/C,/ D,/E,,/F,,/G,,/ A,,/B,,/C,/D,/ | %29
+ E,/F,,/G,,/A,,/ B,,/C,/D,/E,/ F,/G,,/A,,/B,,/ C,/D,/E,/F,/ | %30
+ A,/G,/F,/E,/ F,/D,/A,/D,/ A,/F,/A,/D,/ A,/E,/A,/G,/ | %31
+ F,/D,/A,/D,/ A,/E,/A,/G,/ A,/D,/A,/F,/ A,/E,/A,/G,/ | A,/D,/A,/F,/ A,/F,/A,/E,/ G,,A,,B,,A,, | %33
+ A,,B,,C,A,, B,,C,D,B,, | C,B,,C,A,, B,,A,,B,,G,, | %35
+ A,,G,,A,,F,, A,,/F,,/A,,/G,,/ A,,/E,,/A,,/G,,/ | %36
+ E,,/D,,/A,,/F,,/ [=F,,A,,D,][^F,,A,,D,] [G,,B,,D,][^G,,B,,D,][A,,D,F,][_B,,D,=F,] | %37
+ [B,,D,=F,][C,E,G,][^C,E,G,][D,^F,A,] [_E,G,_B,][=E,G,C][=F,A,C][^F,A,D] | G,B,,G,,B,, G,B,,G,B,, | %39
+ G,A,,D,,A,, G,A,,D,,A,, | F,C,D,,C, F,C,F,C, | [G,,D,G,]8 |] %42
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 g/x/a/ x/ b/x/d/ x/ | %33
+ a/x/b/ x/ c'/x/d/ x/ b/x/c'/ x/ d'/x/b/ x/ | c'/x/b/ x/ c'/x/a/ x/ b/x/a/ x/ b/x/g/ x/ | %35
+ a/x/g/ x/ a/x/f/ x/ x4 | x8 | x8 | x8 | x8 | x8 | x8 |] %42
+

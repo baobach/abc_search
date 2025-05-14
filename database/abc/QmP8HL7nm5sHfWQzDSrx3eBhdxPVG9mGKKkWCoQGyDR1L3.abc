@@ -1,0 +1,23 @@
+X:1
+T:Title
+%%score 1 2 3
+L:1/8
+M:3/2
+K:C
+V:1 treble nm="Part_1"
+V:2 treble nm="Part_2"
+V:3 treble-8 nm="Part_3"
+V:1
+ c8 G4 | A4 B8 | !fermata!c8 z4 | c8 d4 | c2 B2 A4 G4 | B4 c8 | d8 G4 | A4 B8 | !fermata!c12 | %9
+ c8 G4 | c2 B2 A4 G2 F2 | E8 B4 | c4 d8 | G8 c4 | B4 A8 | D4 G4 F4 | E8 G4 | A4 B8 | %18
+ !fermata!c8 z4 | A8 c4- | c4 B8 | A8 c4 | c4 B6 A2 | c4 z4 c4 | c4 d6 c2 | B4 A8 | G4 c8 | B12 | %28
+ c12 |] %29
+V:2
+ F8 G4 | E4 F8 | !fermata!G8 z4 | A8 F4 | E8 G4 | F4 E8 | D8 G4 | F4 E8 | !fermata!F12 | F8 G4 | %10
+ G4 F8 | G8 G2 F2 | E4 D8 | E12 | D8 E4 | F4 E4 D4 | C4 G8 | F4 E8 | !fermata!F8 z4 | C8 F4 | %20
+ F4 E6 D2 | G4 ^F8- | F12 | G8 F4 | E4 D8 | C2 D2 E4 F4 | G4 A6 G2 | F4 E8 | F12 |] %29
+V:3
+[K:F] f8 e4 | c4 d8 | !fermata!c8 z4 | A8 B4 | c8 c4 | d4 c8 | G4 B8 | A4 G8 | !fermata!F12 | %9
+ f8 e4 | c4 d8 | c8 G4 | A4 =B8 | c12 | z4 d4 c4 | B4 G4 A2 B2 | c8 B4 | A4 G8 | !fermata!F8 z4 | %19
+ F12- | F4 G8 | A12- | A4 d8 | c12- | c4 G8 | c8 B4- | B4 A8 | G12 | F12 |] %29
+

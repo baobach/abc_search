@@ -1,0 +1,48 @@
+X:1
+T:El Choclo
+T:El Choclo
+T:Tango
+T:Angel Villoldo
+T:Eugen Pîrvu
+T:Eugen Pîrvu
+C:Angel Villoldo
+Z:Eugen Pîrvu
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=80
+M:2/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^Intro." ge cg | fd Bf | ec ^Ae | d z z2 | ge cg | fd Bf | ec ^Ac | %7
+ BF B/[Q:1/4=80]"^Canto"!mf! A/(A/_B/) ||[K:F]S (B/A/)(A/d/) (d/f/)(f/b/) | %9
+ (3(b/c'/)b/a z/ a/(a/d'/) | (d'/a/)(a/f/) (f/g/)(g/f/) | (3(f/g/)f/e z/ A/(A/_B/) | %12
+ (B/A/)(A/^c/) (c/e/)(e/b/) | (3(b/=c'/b/)a z/ a/(^g/a/) | (e'/^c'/)(c'/a/) (a/=g/)(g/f/) | %15
+ (3(e/f/e/)d z/ A/(A/B/) | (B/A/)(A/d/) (d/f/)(f/b/) | (3(b/c'/b/)a z/ a/(a/d'/) | %18
+ (d'/a/)(a/^f/) (f/a/)(a/c'/) | (3(c'/d'/c'/)b z/ B/(B/b/) | (b/a/)(a/g/) (g/f/)(f/e/) | %21
+ (3(e/f/e/)d/d/ d/f/e/d/ | (3(d/e/d/)^c/e/ e/g/f/e/ | [Fd] z z/ c/=B/c/!fine! |: %24
+!ff! !>![e_b]/[eb][eb]/ [ec']/b/a/^g/ | !>![fb]/ae/ =g/f/e/d/ | !>!f/eB/ e/d/c/=B/ | %27
+ !>!d!>!c z/!p! (A/^G/A/) | !>![^cg]/[cg][cg]/ [ca]/g/f/e/ | [dg] f2"_cresc." (3(f/g/!<(!f/) | %30
+ e/d/^c/d/ e/f/g/^g/!<)! |1!f! a z z/ c/=B/c/ :|2!f! a z z/ A/a/^f/ ||[K:D] (d/A/) z/ f/ d/A/d/f/ | %34
+ (3(g/a/g/e) z/ A/g/e/ | (c/A/) z/ c/ A/c/e/g/ | (3(f/g/f/)d z/ A/f/e/ | ^d/B/^A/B/ c/d/e/f/ | %38
+ (3(=a/b/a/)g z/ e/^d/e/ | (3(f/^g/f/)e z/ d/e/d/ | (3(d/e/d/)c z/ A/a/f/ | (d/A/) z/ a/ d/A/d/f/ | %42
+ (3(g/a/g/)e z/ A/g/e/ | (c/A/) z/ c/ A/c/e/g/ | (3(f/g/f/)d z/ A/f/e/ | (^d/B/)^A/B/ c/d/e/f/ | %46
+ (3(=a/b/a/)g z/ B/g/f/ |{fg} f/e/^d/e/ B/=d/c/e/ | d z z/!mf! A/(A/_B/)!D.S.! |] %49
+V:2
+ [^A,,^A,][A,CG] [A,CG][^A,,,A,,] | [B,,,B,,][F,B,D] [F,B,D][F,B,D] | %2
+ [F,,F,][F,^A,CG] [F,A,CG][^A,,A,] | [B,,B,] z/ [^C,^C]/ [B,,B,]/[=A,,=A,]/[G,,G,]/[F,,F,]/ | %4
+ [E,,E,][^A,CG] [A,CG][^A,,,^A,,] | [B,,,B,,][F,B,D] [F,B,D][F,B,D] | %6
+ [F,,F,][^A,CG] [A,CG][^A,,A,] | [B,,,B,,]F,, [B,,,B,,] z ||[K:F] [D,,D,]>D, [F,A,][A,,,A,,] | %9
+ [D,,D,]>D, [F,A,][A,,,A,,] | [D,,D,]>D, [F,A,][A,,,A,,] | [^C,,^C,]>G, [G,A,^C][A,,,A,,] | %12
+ [^C,,^C,][G,A,^C] [E,,E,][G,A,C] | [A,,,A,,]>G, [G,A,^C][A,,,A,,] | %14
+ [^C,,^C,]>E, [G,A,^C][A,,,A,,] | [D,,D,]>D, [F,A,D][A,,,A,,] | [D,,D,]>D, [F,A,D][A,,,A,,] | %17
+ [D,,D,]>D, [F,A,D][A,,,A,,] | [^F,,^F,][F,A,C] [D,,D,][F,A,C] | [G,,G,]>D, [G,B,][D,,D,] | %20
+ [G,,G,]>D, [G,B,][G,,G,] | [F,,F,]>F, [A,D][A,,A,] | [E,,E,]>G, [G,A,^C][A,,A,] | [D,A,D] z z2 |: %24
+ [C,,C,]>C, [G,B,C][C,,C,] | [F,,F,]>C, [F,A,C][C,,C,] | [G,,G,]>C, [G,B,C][C,,C,] | %27
+ !>![F,,F,][F,A,C] z2 | [A,,^C,E,G,]>C, [E,G,A,][A,,C,E,] | [D,F,]>F, A,[D,F,A,] | %30
+ [B,,D,F,^G,] z z [B,,D,F,G,] |1 [A,,^C,E,A,] z z2 :|2 [A,,^C,E,A,] z z2 ||[K:D] D,>F, A,A,, | %34
+ E,>G, A,A,, | C,>G, A,A,, | D,>F, A,D, | B,,>F, [B,^D]B,, | E,>G, [B,E]G, | %39
+ [E,,E,]>E, [^G,B,E][E,,E,] | [A,,A,]>E, [=G,A,C] z | D,>F, A,A,, | E,>G, A,A,, | C,>G, A,A,, | %44
+ D,>F, A,F, | B,,>F, [B,^D]B,, | E,>G, [B,E]G, | E,[E,^G,D] A,,[E,=G,A,C] | [D,F,A,D] z z2 |] %49
+

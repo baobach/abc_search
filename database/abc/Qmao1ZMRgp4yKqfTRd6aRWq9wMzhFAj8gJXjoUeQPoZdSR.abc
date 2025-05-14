@@ -1,0 +1,49 @@
+X:1
+T:Dichterliebe, Op.48
+T:Aus meinen Tränen spriessen
+T:2. Aus meinen Thränen spriessen
+T:Robert Schumann
+T:Dichterliebe, Op.48
+T:Heinrich Heine
+T:OpenScore (CC0)
+C:Robert Schumann
+Z:Heinrich Heine
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 6 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=40
+M:2/4
+K:A
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:6 treble 
+V:3 treble 
+V:4 treble 
+V:1
+"^Nicht schnell"!p! c | c3/2 c/ c c | d2 c z/ c/ | B B/ c/ A A/ c/ | !fermata!B z z c | %5
+w: Aus|mei- nen Thrä- nen|sprie- ssen viel|blü- hen- de Blu- men her-|vor, und|
+ c3/2 c/ c c | d2 c z/ c/ | B3/2 c/ A3/2 c/ | !fermata!B z z B | B B/ B/ B B | c2 c2 | %11
+w: mei- ne Seuf- zer|wer- den ein|Nach- ti- gal- len-|chor. Und|wenn du mich lieb hast,|Kind- chen,|
+ F/ F/ F/ F/ B3/2 B/ | G2 z c/ c/ | c3/2 c/ (3(c B c) | d2 c z/ c/ | %15
+w: schenk' ich dir die Blu- men|all', und vor|dei- nem Fen- ster soll|klin- gen das|
+ B3/2 c/[Q:1/4=35]"^T""^dim." A3/2[Q:1/4=30]"^T" c/ | !fermata!B3 z | z2 z |] %18
+w: Lied der Nach- ti-|gall.||
+V:2
+!p! [Ac]- | [Ac](.[Ac].[Ac].[Ac]) | (!>![FAd]2 [EAc]) z | !>![DGB]>(c [CA]2) | %4
+!pp! !fermata![DGB]>(c [CA])!p! [Ac]- | [Ac](.[Ac].[Ac].[Ac]) | (!>![FAd]2 [EAc]) z | %7
+ !>![DGB]>(c [CA]2) |!pp! !fermata![DGB]>(c [CA])!p! [EGB]- | [E-G-B]4 | c4 | [=DF] z .[FB] z | %12
+ .[^EG] z/ ([FB]/ [EG])!pp! .[=E=GAc]/.[EGAc]/ |!<(! [E=GAc]>[EGAc]!<)! [EGAc]>[EGAc] | %14
+!>(! ([A-d]2 [Ac])!>)! z | !>![DGB]>(c"^dim." [CA]2) |!pp! !fermata![DGB]2- [DGB]>(c | [CA]2) z |] %18
+V:3
+ (A- | A.G.F.E) | (D2 A,) z |[K:bass] (E>E, E2) | (E>E, E)[K:treble] (A- | A.G.F.E) | (D2 A,) z | %7
+[K:bass] (E>E, E2) | (!fermata!E>E, E) (E- | E^DCB, | ^A,4 | B,) z .[G,D] z | %12
+ .C z/ ([G,D]/ C)!ped! .A,/.A,/ | A,>A, A,>A,!ped-up! | A,2- A, z | E2- E2 | (E4 | [A,E]2) z |] %18
+V:4
+ x | x4 | x4 |[K:bass] E2 A,2 | E2 A,[K:treble] x | x4 | x4 |[K:bass] E2 A,2 | E2 A, x | x4 | x4 | %11
+ x4 | x4 | x4 | D,2 A, x | E>E, A,2 | !fermata!E2- E>E, | x3 |] %18
+V:5
+ x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | E4 | x4 | x4 | x4 | F=F E x | x4 | x4 | x3 |] %18
+V:6
+ x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | G=GFE | x4 | x4 | x4 | x4 | x4 | x4 | x3 |] %18
+

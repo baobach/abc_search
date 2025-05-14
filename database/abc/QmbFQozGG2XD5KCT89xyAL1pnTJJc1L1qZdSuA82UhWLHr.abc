@@ -1,0 +1,67 @@
+X:1
+T:Élégie
+T:É L É G I E
+T:C.    CHAMINADE
+T:à   ANDRÉE   MEURICE
+T:ALBUM  DES  ENFANTS 2e Série__Nº7
+T:Domaine public
+T:Domaine public
+C:Cécile Chaminade
+Z:Domaine public
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=48
+M:6/8
+K:F
+V:1 treble nm="PIANO"
+V:3 treble 
+V:2 bass 
+V:1
+"^Andante  sostenuto" z2 z[K:bass] D,2[K:treble]"^Ben  cantando" (A | d)(!>!d-d/e/ [Gc]2) (G/A/) | %2
+ B(!>!B-B/c/) (BA) A | (d/!>!f/-f/e/d/e/) (dc)(G/A/) | (B/!>!d/-d/c/B/c/) A2!mf! (A/B/) | %5
+ [Ac](!>![Ac]-[Ac]/d/) [Ac]2 (A/B/) | ([Ac]/c/a-a/c/) ([Ac][GB])(G/A/) | %7
+ [GB]/(B/g-g/B/) ([GB][FA])!>![=EG]- |!p! ([EG]({AG)}[DF][^CE]) [F,D]2!mf! (A/B/) | %9
+ [A=c](!>![Ac]-[Ac]/d/ [Ac]2) (A/B/) | %10
+[Q:1/4=43]"^Poco  rit."!<(! !arpeggio![Ac]/(c/a-!<)!!>(!a/c/)[Q:1/4=48]"^A  tempo" ([Ac]!>)![GB])(G/A/) | %11
+[Q:1/4=43]"^Poco  rit." !arpeggio![GB]/(B/g-g/B/)[Q:1/4=48]"^A  tempo" ([GB][FA])!>![=EG]- | %12
+ ([EG]({AG)}[DF][^CE]) [F,D]2!mf! (F/G/) | [FA](!>![FA]>[F=B]){/d} (c/B/A)(G/A/) | %14
+!f! (_B/!<(!c<de/)!<)! (f/e/dA/=B/) | [A^c]!>![Ac]>[_Bd] [Ac][Ac][^FA] | %16
+ (!arpeggio!^c2 =B [EA]2)!p! z | z/ (=G/_B/A/G/F/ E/D/)!<(! (^C/E/G/A/) | %18
+"^m.d." (B/!<)!^c/e/d/c/B/ A/^G/)"_m.g."!<(! (=G/A/B/c/)!<)! | %19
+!f!"^m.d." (e/g/b/a/g/f/ e/d/^c/B/A/^G/) | %20
+!>(! =G/F/E/D/^C/B,/!>)! x2"^Dolcissimo" (A[Q:1/4=43]"_Poco  rit." | %21
+[Q:1/4=48]"^A  tempo" d)(!>![Ad]-[Ad]/e/ [Gc]2) (G/A/ | B)(B-B/c/) (BA) A | %23
+ (d/!>!f/-f/e/d/e/) (dc)(G/A/) | (B/!>!d/-d/c/B/c/) A2 (A/B/) | [A=c]!>![Ac]-[Ac]/d/ [Ac]2 (A/B/) | %26
+ (!arpeggio![Ac]/c/a-a/c/) ([Ac][GB])(G/A/) | (!arpeggio![GB]/B/g-g/B/) ([GB][FA])!>![EG]- | %28
+ ([EG]{AG}[DF][Q:1/4=43]"^Poco  rit."[^CE]) [F,D]3 |] %29
+V:2
+!p!!ped! (F/A,/F/A,/F/A,/ F/A,/F/A,/F/A,/) | %1
+ (F/A,/F/A,/F/A,/)!ped-up!!ped! (E/A,/E/A,/E/A,/)!ped-up! | %2
+!ped! (D/A,/D/A,/D/A,/)!ped-up!!ped! (^C/A,/C/A,/C/A,/)!ped-up! | %3
+!ped! (F/A,/F/A,/F/A,/)!ped-up!!ped! (E/A,/E/A,/E/A,/)!ped-up! | %4
+!ped! (D/A,/D/A,/D/A,/)!ped-up!!ped! (^C/A,/C/A,/C/A,/)!ped-up! | %5
+!ped! (_E/=C/G,/C/E/C/)!ped-up!!ped! (^F,/C/E/C/E/C/)!ped-up! | %6
+!ped! (G,/C/_E/C/^F,/E/)!ped-up!!ped! (G,/D/G,/D/=F,/!ped-up!D/) | %7
+"^Dolce"!ped! (_E,/B,/D,/B,/^C,/!ped-up!B,/) (D,/B,/D,/A,/B,/G,/) | %8
+ (A,/^G,/A,/A,,/=G,/A,,/)!ped! (D,/A,,/F,,/A,,/D,,)!ped-up! | %9
+!ped! (_E/C/G,/C/E/C/)!ped-up!!ped! (^F,/C/E/C/E/C/)!ped-up! | %10
+!ped! (G,/C/_E/C/^F,/!ped-up!E/)!ped! (G,/D/G,/D/=F,/!ped-up!D/) | %11
+"^Dolcissimo" (_E,/B,/D,/B,/^C,/B,/) (D,/B,/D,/A,/B,/G,/) | %12
+ (A,/^G,/A,/A,,/=G,/A,,/)!ped! (D,/A,,/F,,/A,,/D,,)!ped-up! | %13
+!ped! !>!D2 G,!ped-up!!ped! [C,G,] [C,G,]2!ped-up! | %14
+!ped! [G,DE][G,DE][A,^C]!ped-up!!ped! [D,A,] [DF]2!ped-up! | %15
+!ped! [A,E][A,E]>F!ped-up!!ped! [A,E][A,E]^D!ped-up! | %16
+!ped! (=DE,=D)!ped-up!!ped! ([A,^C] A,,) C/!ped-up!D/ | E/ x/ x x2"^m.g." x2 | x6 | z6 | %20
+"^Dim." z2 z!p! A,/^G,/=G,/^F,/=F,/E,/ | %21
+!ped! (D,/A,/F/A,/F/A,/)!ped-up!!ped! (E/A,/E/A,/E/A,/)!ped-up! | %22
+!ped! (D/A,/D,/A,/D/A,/)!ped-up!!ped! (^C/A,/C/A,/C/A,/)!ped-up! | %23
+!ped! (F/A,/D,/A,/F/A,/)!ped-up!!ped! (E/A,/E/A,/E/A,/)!ped-up! | %24
+!ped! (D/A,/D,/A,/D/A,/)!ped-up!!ped! (^C/A,/C/A,/C/A,/)!ped-up! | %25
+!ped! (_E/=C/G,/C/E/C/)!ped-up!!ped! (^F,/C/E/C/E/C/)!ped-up! | %26
+ (G,/C/_E/C/^F,/E/) (G,/D/G,/D/=F,/D/) | (_E,/B,/D,/B,/^C,/B,/) (D,/B,/D,/A,/B,/G,/) | %28
+ (A,/^G,/A,/A,,/=G,/A,,/)!ped! (D,/A,,/F,,/A,,/ D,,)!ped-up! |] %29
+V:3
+ x3[K:bass] x2[K:treble] x | x6 | F F2 E2 A | A3 G3 | F3 E2 x | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %12
+ x6 | x2 x EE z | GBA AA z | x6 | !arpeggio![=F^G]3 x2 x | x6 | x6 | x6 | x6 | x6 | F F2 E2 A | %23
+ A3 G3 | F3 E3 | x6 | x6 | x6 | x6 |] %29
+

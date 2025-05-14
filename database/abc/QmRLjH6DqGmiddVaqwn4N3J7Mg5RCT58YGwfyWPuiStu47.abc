@@ -1,0 +1,44 @@
+X:1
+T:Stabat Mater Dolorosa
+T:Stabat Mater Dolorosa
+T:Pergolesi
+C:Pergolesi
+%%score 1 2 3
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Flute" snm="Fl."
+V:2 treble transpose=-2 nm="B♭ Clarinet" snm="B♭ Cl."
+V:3 treble transpose=-2 nm="B♭ Clarinet" snm="B♭ Cl."
+V:1
+"^Grace" z4!p! a4- | a2 g2 c'4- | c'2 b2 e'4- | e'2 (d'c') =b2 d'2- | (d'2 c'2) A.c'.a.^f | %5
+ .D(cBA) B.d'.b.g | .D(.dc.B) A!f!abB | B2 A2 z!p! !wedge!b z !wedge!b | %8
+ z ed^F G!p!!wedge!b z !wedge!b | z (ed^F)!f! (G/g/)(^f/a/) (g/d/)(e/c/) | cB TA2 G z z2 | %11
+ z4!p! A4- | A2 G2 c4- | c2 B2 e4- | e2 dc =B4 | (c2 e4 dc | TB4 A2) z2 | g2 f2 (ed) c2- | %18
+ c(_AG)f{g} (3f/e/d/{d} e3 | (F2 e2) (dc) B2- | B(GF)e- (ed/c/ d)d |!p! d3 e{d} c3 d | %22
+{c} TB3 B A2 z2 | d6 d2 | (d4 ^c2) d2 | (d2 ^c>)d d2 z!p! !wedge!f | z BA^C D!wedge!f z !wedge!f | %27
+ z!pp! (BA^C)!p! d4- | d2 ^c2 f4- | f2 =e2 a4- | a2 g2 ^c4 | d4 ^c2 z2 | D4 (g2 f2) | %33
+ (e2 =e2 f2 _e2) | d4 (e2 d2) | c4 (d2 c2) | B4 A2 z2 | z (cB)A TB2 TB2 | z (dc)B (A!f!^fg)c | %39
+{c} B2 TA>G G!p!!wedge!b z !wedge!b | z (ed^F) G/F/G z !wedge!b | z (cBA) G2 z2 | z4 A4- | %43
+ A2 A2 A2 B2 | A3 A G!p!.b z .b | z (ed^F) G!wedge!b z !wedge!b | z (ed^F) G2 !fermata!z2 |] %47
+V:2
+[K:C]"^Grave"!p! a6 ^g2 | c'6 b2 | e'6 d'2 | (^g4 =g2) (fe) | (f2 a2) ^g2 z z | z (BA^G) A2 z2 | %6
+ z (cBA) ^G^gaA | AA^GG z!p! .a z .a | z dcB A!p!.a z .a | z (dcB)!f! edcB | A2 ^G2 AE C2 | %11
+!p! A6 ^G2 | c6 B2 | e6 d2 | (^G4 =G2) (FE) | (F3 A ^G4 | TA4 ^G2) z2 | z2 e2- e^cdA | %18
+ _B d2 ^c A4 | z2 (d2- d=B)(cG) | (A c2) B G2 z2 |!p! c3 d{c} B3 c |{B} TA3 A ^G2 z2 | z4 ^F4- | %24
+ F2 ^F2 F2 G2 | ^F3 F E2 z!p! !wedge!e | z AG^F G!wedge!e z !wedge!e | z!pp! (AG^F) D2 z2 | %28
+!p! ^F6 E2 | A6 G2 | c6 (BA) | G4 ^F2 z2 | (e2 d2 c2 ^c2) | (d2 =c2 _B2 =B2) | (c2 B2 A4) | %35
+ (B2 A2 ^G4) | A4 ^G2 z2 | z (BA)^G TA2 TA2 | z (cB)A (^G!f!Bc)A | A2 ^G>A!p! A2 z !wedge!a | %40
+ z!p! (dc!p!B){G} A!wedge!a z !wedge!a | z (fe^G) A/G/A z z | A6 A2 | A4 ^G2 A2 | %44
+ (A2 ^G)G A2 z!p! .a | z (dcB) A!wedge!a z !wedge!a | z (dcB) A2 !fermata!z2 |] %47
+V:3
+[K:C]"^Grave"!p! ABcA E^F^GE | ABcA GABG | cdec defd | edcB A_BAG | FEFD E2 z2 | z EEE z4 | %6
+ z EEE E!f!!f!dcd | eeEE F z!p! C z | D z E z!p! F z C z | D z E z!f! cBcd | eeEE A2 z2 | %11
+!p! A,B,CA, E^F^GE | ABcA GABG | cdec defd | edcB A_BAG | FEFD EDCB, | A,A^DD EFE=D | %17
+ ^CB,CA, DEFD | G,GFE Dddc | BABG cdec | Ffed cccB |!p! AA A,2 z B ^G2 | z A^DD E2 z2 | %23
+ E^FGE ABcB | ^AAAA BBGA | BBB,B,!p! E z G z | A z B z c z G z |!pp! A z B z E^FGE | %28
+ B,^C^DB, E^FGE | DE^FD GABG | ABcA BAG^F | EE^A,A, B,BB=A | ^G4 A4 | D4 G4 | C4 F4 | B,4 E4- | %36
+ E^DDD E!p!.d.B.^G | .EEEE E!p!.e.c.A | .EEEE E!f!DCD | EEEE!p! F z C z | D z E z F z C z | %41
+ D z E z F2 z2 | ABcA DEFE | ^DDDD E=DCD | E4!p! A z C z | D z E z F z C z | %46
+ D z E z A,2 !fermata!z2 |] %47
+

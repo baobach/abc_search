@@ -1,0 +1,53 @@
+X:1
+T:14 Bagatelles
+T:Allegro giocoso
+T: 
+T:14 Bagatelles 
+T:2. Allegro grazioso
+T:Béla Bartók 
+T:Oli 2020
+T:Oli 2020
+C:Bartók, Béla
+Z:Oli 2020
+%%score { 1 | 2 }
+L:1/8
+Q:1/2=84
+M:2/2
+K:C
+V:1 treble nm="Piano"
+V:2 treble 
+V:1
+"^Allegro giocoso"!p! [_A_B][AB][AB][AB] [AB][AB][AB][AB] | [_A_B][AB][AB][AB] [AB][AB][AB][AB] | %2
+ [_A_B][AB][AB][AB] [AB][AB][AB][AB] |!p! [_A_B][AB][AB][AB] [AB][AB][AB][AB] | %4
+ [_A_B][AB][AB][AB] [AB][AB][AB][AB] | %5
+ [_A_B]"_molto rit."[Q:1/4=110]"^T"[AB][AB][AB]!>(! [AB]"_smorzando"[AB]!pp![AB][AB]!>)! | %6
+!pp! [GB]2!p!"^a tempo"[Q:1/4=168]"^T" !>!.f._d .A._G.D._B, | %7
+ !tenuto!_E2!<(! ((!>!!5!_f/_e/_d/_c/!<)! !tenuto!_B2))[Q:1/4=110]"^T"[Q:1/4=110]"^T"!<(! (!>!f/e/d/c/ | %8
+ !>!!tenuto!_B2)!<)!!<(! .=B.^B!<)! (!5!^d!>(!=d).^A.^F!>)! | %9
+[M:3/2] !tenuto!!2!^E2 (!1!=E/^F/^G/^A/ B2)!<(! (!1!=A/B/^c/^d/!<)! !tenuto!e2)!<(! (=d/e/^f/^g/ | %10
+[M:2/2] !tenuto!a2)!<)!!f! .!2!a.a .a.a.a.a |!<(! (3!>!_b/=b/ !^!c'2!<)! .a.a .a.a.a.a | %12
+!<(!"_cresc." (3!>!_b/=b/!<)! !^!c'2 .a.a!<(! (3!>!_b/=b/!<)! !^!c'2 .a.a | %13
+!<(!"_cresc." (3!>!_b/=b/!<)! !^!c'2 .a.a!<(! (3!>!_b/=b/!<)! !^!c'2"_dim." !>!.!3!a.!1!f | %14
+ .!3!^c.A.!2!F.!1!^C !tenuto!!3!^F2 !>!.!5!e.=c | .A.=F.!2!D.!1!_B, !tenuto!_E2!p! .!5!^F.D | %16
+[M:3/2]!<(![I:staff +1] .B,.G,[I:staff -1] z2[I:staff +1] !>!.!2!D,.E,[I:staff -1] z2 !>!.!2!D.E z2!<)! | %17
+[M:2/2] (de) z2 z4 |!p! !>!.!4!f.f z ._d z ._g !tenuto!c2 | .!3!=g.g z .B z .a._B._b | %20
+ (!^!!1!__B4 .!2!_A).!1!A.[_a_b].[ab] | z2 z _b (!^!__B4- | B4 ._A).A.[_a_b].[ab] | %23
+!p! .!2!_A.!1!A.[_a_b].[ab] .A.A.[ab].[ab] | ._A.A.[_a_b].[ab] .A.A.[ab].[ab] | %25
+ ._A.A.[_a_b].[ab] z4 | ._A.A.[_a_b].[ab] z4 | ._A,.A,.[_A_B].[AB] z4 |[K:bass] _A,, z [_A,_B,]6- | %29
+ !fermata![A,B,]8 |] %30
+V:2
+ z8 | z8 | .!2!!courtesy!=B.B z .!4!G z .c !tenuto!_G2 | ._d.d z .F z .=d._F._e | %4
+ (!^!__E4 _D2) z _e | (!^!__E4 _D2 z C | B,2) !>!.F._D[K:bass] .A,._G,.D,._B,, | %7
+ !tenuto!_E,2 ([_G,_B,_E]2 !tenuto![=G,C=E]2) ([_G,B,_E]2 | !tenuto![=G,C=E]2) z2 ([^C,-^F,^A,]4 | %9
+[M:3/2] [C,^D,=A,]2) z2[K:treble] _B/_A/F/_B,/ z2 _e/_d/_B/_G/ z2 | %10
+[M:2/2] !>!!tenuto![=Gc=e]2 .[Gce].[Gce] .[Gce].[Gce].[Gce].[Gce] | %11
+ !>!!tenuto![_G_B_e]2 .[=Gc=e].[Gce] .[Gce].[Gce].[Gce].[Gce] | %12
+ [F_Ad]2 .[Gce].[Gce] [E^G^c]2 .[F=Ad].[FAd] | [E^G^c]2 .[FAd].[FAd] ([E^G^c]2 [FAd]) z | %14
+ z2[K:bass] !>!.!1!^D.B, .!1!^G,.E,.^C,.!5!A,, | %15
+ !tenuto!!2!D,2 !>!.!1!_B,._G, .!1!D,.=B,,.^G,,.E,, |[M:3/2] z2 .!3!D,,.E,, z2 .!3!D,.E, z2 .D.E | %17
+[M:2/2]!f! z2"^dim." !^!!3![DE][DE]!p! [DE][DE][DE][DE] | [DE][DE][DE][DE] [DE][DE][DE][DE] | %19
+ [DE][DE][DE][DE] [DE][DE][DE][DE] | .D,.D,.!3!!2![DE].[DE] z4 |[K:treble] .D.D.[de].[de] z4 | %22
+[K:bass] .D,.D,.[DE].[DE] z4 | .!2!B,.B, z .G, z .C !tenuto!_G,2 | ._D.D z .F, z .=D._F,._E | %25
+ (!^!!4!E,4 !5!_D,).D,.[_D_E].[DE] | z2 z ._E (__E,4- | E,8- | E,4 ._D,) z ._D,,, z | %29
+ !fermata!z8 |] %30
+

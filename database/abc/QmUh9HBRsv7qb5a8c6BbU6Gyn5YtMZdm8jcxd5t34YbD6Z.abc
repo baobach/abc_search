@@ -1,0 +1,36 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=95
+M:4/4
+K:F
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 treble nm="Choir Pad, �Twill Be Glory By and By"
+V:4 bass 
+V:1
+ [CF][CG] [FA]2 [EB][CG] [Gc]2 | [CE][EG] F2 DD C2 | [FA][GB] [Ac]2 [Bd][Ac] [Af]2 | z2 c6 | %4
+w: By~John~B.~Vaughan * * * * *||||
+ [Ac][Ac][Af][Af] [Af][Bd] [Ac]2 | [FA][EG][DF][DF] [DF][EG] [FA]2 | %6
+w: ||
+ [Ac][Ac] [Af]2 [Fc]>[FA] [EG]F | [CG][EA] F2 DD C2 | z2 A6 | z2 F6 | %10
+w: ||||
+ AG c->[Ec-] [Ec-][Fc-] [Gc]2 | z2 F6 | Ac f->[Af-] [Af-][Bf-] [Af]2 | %13
+w: |||
+ df c->[Ac-] [Ac-][Ac-] [Ac]2 | [Bd][Bd] [Ac]2 [FA]2 [EG][CF] | [EG][EA] F2 DD C2- | C4 z4 |] %17
+w: ||||
+V:2
+ x8 | x8 | x8 | [FA][FB] F2 GE F2 | x8 | x8 | x8 | x8 | FG F>F FF F2 | GA D>D DD D2 | z2 E2 z4 | %11
+ GA C>C CD C2 | z2 A2 z4 | z2 A2 z4 | x8 | x8 | x8 |] %17
+V:3
+ A,B, C2 CC[K:bass] B,2 | G,B, A,2 B,B, A,2 | CC F2 FF C2 | F,F, A,2 B,G, A,2 | FFCC CF F2 | %5
+ C[K:bass]B,A,A, A,B,[K:treble] C2 | FF C2 A,>C[K:bass] B,A, | B,C A,2 B,B, A,2 | %8
+ z2[K:treble] C>C CC C2 | z2[K:bass] A,>A, A,A, A,2 | z2 G,>G, G,A, B,2 | z2 A,>A, A,B, A,2 | %12
+ z2[K:treble] C>C CD C2 | z2 F>F FF F2 | FF F2 C2[K:bass] B,A, | B,C A,2 B,B, A,2- | A,4 z4 |] %17
+V:4
+ F,F, F,2 G,E, C,2 | C,C, z2 z4 | F,F, F,2 F,F, F,2 | z2 F,2 C,C, F,2 | F,F,F,F, F,F, F,2 | %5
+ F,C,D,D, D,C, F,2 | F,F, F,2 F,>F, C,C, | C,C, F,6 | z2 F,>F, F,F, F,2 | z2 D,>D, D,D, D,2 | %10
+ z2 C,>C, C,C, C,2 | z2 F,>F, F,F, F,2 | z2 F,>F, F,F, F,2 | z2 F,>F, F,F, F,2 | %14
+ B,,B,, F,2 F,2 C,C, | C,C, F,6 | z8 |] %17
+

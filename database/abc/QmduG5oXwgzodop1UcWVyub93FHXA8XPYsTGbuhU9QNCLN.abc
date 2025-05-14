@@ -1,0 +1,23 @@
+X:1
+T:Minuet in E-flat
+T:Minuet in E-flat
+T:K. 15ee
+T:W.A. Mozart
+C:W.A. Mozart
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=123
+M:3/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^Minuet\n" [Ge]6 | e2 B2 G2 | E[GB] [FA]2 [EG]2 | [DF]2 z2 z2 | b2 =a2 g2 | f2 e2 d2 | %6
+ (3cge (3dfB [CE=A]2 | [DFB]6 :: B,4 C>B, | B,/B/c/B/ e/B/g/B/ b/B/e'/B/ | [B,DFA]4 B>G | %11
+ [B,DFA]/A/B/A/ d/A/f/A/ a/A/f'/A/ | e2 d2 c2 | B2 A2 G2 | (3FcA (3GBE[I:staff +1] [F,A,D]2 | %15
+ [G,B,E]6 :| %16
+V:2
+ E,6 | E,2 B,2 G,2 | E,2 D,2 E,2 | B,2 B,,2 z2 | B,,2 z2 B,2 | =A,2 G,2 F,2 | E,2 F,2 F,,2 | %7
+ B,,2 F,2 B,2 :: B,,6 | B,,2 z2 z2 | B,,6 | B,,2 z2 z2 | E,2 z2 E2 | D2 C2 B,2 | A,2 B,2 B,,2 | %15
+ E,2 B,,2 E,,2 :| %16
+

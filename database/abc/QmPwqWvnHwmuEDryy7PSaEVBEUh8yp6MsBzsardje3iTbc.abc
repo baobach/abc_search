@@ -1,0 +1,32 @@
+X:1
+T:4 Rejoice Rejoice Believers
+T:4 Rejoice Rejoice Believers
+T:Johann Michael Haydn, 1819
+T:Greenland
+C:Johann Michael Haydn, 1819
+Z:Greenland
+%%score 1 2 3 4
+L:1/8
+M:4/4
+K:Eb
+V:1 treble transpose=-2 nm="B♭ Trumpet" snm="B♭ Tpt."
+V:2 treble transpose=-2 nm="B♭ Trumpet" snm="B♭ Tpt."
+V:3 bass nm="Tenor Trombone" snm="T. Tbn."
+V:4 bass nm="Tuba" snm="Tba."
+V:1
+[K:Eb] =A2 | c2 c2 c2 c2 | f4 =A2 A2 | G2 G2 B2 B2 | =A6 || G2 | =A2 c2 c2 c2 | f4 =B2 B2 | %8
+ c2 d2 =e2 d2 | c6 || =e2 | f2 c2 B2 =A2 | =A4 G2 =e2 | f2 c2 B2 =A2 | G6 || C2 | F2 =A2 c3 ^c | %17
+ =e4 d2 d2 | c2 =A2 A3 G | F6 || F4 F4 |] %21
+V:2
+[K:Eb] F2 | =A2 A2 G2 G2 | F4 F2 F2 | F2 F2 =E2 E2 | F6 || =E2 | F2 =A2 G2 G2 | F4 F2 F2 | %8
+ =E2 =A2 G2 F2 | =E6 || G2 | F2 F2 =E2 F2 | F4 =E2 G2 | F2 F2 G2 F2 | =E6 || C2 | F2 =A2 c3 ^c | %17
+ =e4 d2 ^G2 | =A2 F2 =E3 E | F6 || D4 C4 |] %21
+V:3
+ B,2 | E2 E2 B,2 B,2 | C4 B,2 B,2 | C2 C2 B,2 B,2 | B,6 || B,2 | B,2 B,2 B,2 B,2 | =A,4 C2 C2 | %8
+ B,2 B,2 B,2 =A,2 | B,6 || B,2 | B,2 B,2 B,2 B,2 | B,4 B,2 B,2 | B,2 B,2 B,2 B,2 | B,6 || B,,2 | %16
+ E,2 G,2 B,3 =B, | D4 C2 E2 | E2 B,2 A,3 A, | G,6 || A,4 G,4 |] %21
+V:4
+ E,2 | E,2 E,2 D,2 D,2 | C,4 G,,2 G,,2 | A,,2 A,,2 B,,2 B,,2 | E,6 || B,,2 | E,2 E,2 D,2 D,2 | %7
+ C,4 F,2 F,2 | G,2 E,2 F,2 F,2 | B,,6 || A,2 | G,2 G,2 F,2 E,2 | B,4 B,2 A,2 | G,2 G,2 D,2 E,2 | %14
+ B,,6 || B,,,2 | E,,2 G,,2 B,,3 =B,, | D,4 C,2 =A,,2 | B,2 B,,2 B,,3 B,, | E,6 || A,,4 E,4 |] %21
+

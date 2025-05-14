@@ -1,0 +1,28 @@
+X:1
+T:Etude 1, Op 176
+T:Jean-Baptiste Duvernoy c. 1802 – c. 1880 
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=100
+M:4/4
+K:C
+V:1 treble nm="Piano"
+V:2 bass 
+V:1
+"^Allegro moderato" (!1!cdef gedc) | (!2!Bcde fdc!2!B) | (cdef gedc) | (Bcde fdcB) | %4
+!p!!<(! (cdef gabc') | (defg abc'd') | (efga bc'd'!<)!e' |!mp!!>(! d'c'ba gfe!>)!d) | %8
+!p! (cdef gedc) | (Bcde fdcB) | (cdef gedc) | (Bcde fdcB) |!p!!<(! (cdef gab!<)!c') | %13
+!mp!!>(! (bagf edc!>)!B) |!p!!<(! (cdef gab!<)!c') |!mp!!>(! (bagf edc!>)!B) |!p! (!1!cdef gedc) | %17
+!p!!<(! (!2!Bcde fdc!2!B) | (cdef gedc) | (Bcde fdc!<)!B | !1!c) z!f! (!5!gf edc!2!B | %21
+ A) z!f! (fe dcBA | G) z!f! (ed cBAG | F) z!f! (dc BAGF |!f!!<(! EFGA Bcd!<)!e | %25
+!ff!!>(! dcBA GFE!>)!D) |!mf!!<(! (EFGA Bcd!<)!e |!f! dcBA GFED |!mf!!<(! C2) (DE FGAB | %29
+ c2) (de fga!<)!b |!f! c'4) z4 |!f! [Gce]4 z4 |!f! [EGc]4 z4 |] %33
+V:2
+!p!!pp! !5!!3!!1![C,E,G,]8 | [C,F,G,]8 | [C,E,G,]8 | [C,F,G,]8 | [C,E,G,]8 | [C,F,G,]8 | %6
+ [C,E,G,]8 | [C,F,G,]8 | [C,E,G,]4 [C,E,G,]4 | [C,F,G,]4 [C,F,G,]4 | [C,E,G,]4 [C,E,G,]4 | %11
+ [C,F,G,]4 [C,F,G,]4 | [C,E,]4 G,4 | [C,F,]4 G,4 | [C,E,]4 G,4 | C,4 [F,G,]4 | %16
+ [C,E,G,]4 [C,E,G,]2 [C,E,G,]2 | [C,F,G,]4 [C,F,G,]2 [C,F,G,]2 | [C,E,G,]4 [C,E,G,]2 [C,E,G,]2 | %19
+ [C,F,G,]4 [C,F,G,]2 [C,F,G,]2 | [C,E,G,]8 | [C,F,G,]8 | [C,E,G,]8 | [C,F,G,]8 | [C,E,G,]8 | %25
+ [C,F,G,]8 | [C,E,G,]4 [C,E,G,]4 | [C,F,G,]4 [C,F,G,]4 | [C,E,G,]8- | [C,E,G,]8- | [C,E,G,]4 z4 | %31
+ [C,E,G,]4 z4 | [C,E,G,]4 z4 |] %33
+

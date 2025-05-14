@@ -1,0 +1,30 @@
+X:1
+T:Hornpipe
+T:Hornpipe
+T:Henry Purcell (1659-1695)
+T:Public Domain (PianoXML typeset)
+C:Henry Purcell (1659-1695)
+Z:Public Domain (PianoXML typeset)
+%%score { 1 | ( 2 3 ) }
+L:1/8
+Q:1/4=110
+M:3/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:3 bass 
+V:1
+|:"^Allegro"!f! (!1!e/f/ | .g)!tenuto!e- e!4!d/c/ B/c/d | .e!tenuto!E- EF/G/ !1!AB/c/ | %3
+ .!2!B!5!e/d/ c/B/A/!2!G/ F/G/A/F/ | GE- E!2!B e ::!mp! (g/f/ | .e)!tenuto!g- gf/e/ d/e/d/c/ | %7
+ .B!tenuto!d- d!2!d/e/ d/c/!3!B/A/ |!<(! (!1!G/B/d) (!1!B/d/g) (!1!d/g/b)!<)! | %9
+!f! .!3!g(!tenuto!!1!d d)!3!g/a/ b/a/g/f/ | .e(!tenuto!g g)!2!f/g/ a/g/f/e/ | %11
+ .^df- f!5!g/f/ e=d/c/ | !2!B!5!e/d/ c/B/A/!3!G/ F/G/A/F/ |1 .G!tenuto!E- EB !tenuto!e :|2 %14
+!f! .GE- E B !fermata!e2 |] %15
+V:2
+|: z | E,4 D,2 | C,3 B,, A,,2 | G,,2 A,,2 B,,2 | E,4- E, :: z | E,4 z2 | G,4 z2 | B,,2 C,2 D,2 | %9
+ G,4 !2!G,2 | !1!C4 x2 | B,4 z2 | !5!G,,2 A,,2 B,,2 |1 E,4- E, :|2 E,4- E,2 |] %15
+V:3
+|: x | z2 E,,2 z2 | z2 C,, z x2 | x6 | z2 B,,2 E,, :: x | z2 E,,2 F,2 | z2 G,,2 A,,2 | x6 | %9
+ z2 !tenuto!G,,4 | z2 C,2 !2!A,2 | z2 B,,2 !2!C,2 | x6 |1 z2 B,,2 !tenuto!E,, :|2 %14
+ z2 B,,2 !fermata!E,,2 |] %15
+

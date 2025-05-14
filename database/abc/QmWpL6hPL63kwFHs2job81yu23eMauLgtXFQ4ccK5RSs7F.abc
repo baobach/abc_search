@@ -1,0 +1,63 @@
+X:1
+T:Nannì, Nannì!
+T:Nannì, Nannì!
+T:S. Gambardella
+T:V. F. Guarino
+T:Canta... che bella canzona! Canta, ch'i' stongo a ssentì! Canta... Si' bell'e gguagliona! Canta d'ammore, Nannì! Nannì, Nann', ecc.
+T:Dorme... nisciuno risponne! Dorme o a cchi penzarrà? Dorme!... Te scit' 'a 'stu suonne?... Dorme! ch'arraggia me fa! Nannì, Nanni, ecc.
+T:by IMSLP - Pubblico dominio
+T:by IMSLP - Pubblico dominio
+T:by IMSLP - Pubblico dominio
+C:S. Gambardella
+Z:V. F. Guarino
+Z:by IMSLP - Pubblico dominio
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=75
+M:6/8
+K:D
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:1
+"^Andantino cantabile" z6 | z6 | z6 | z6 ||[K:F]"^CANTO" z6 | f ^c d (3e/f/e/ d c | d3 d2 z | %7
+w: |||||Dim\- me: chi\- st' * uoc\- chi'e chi|son\- ghe?|
+ d B c d ^c B | A3- A z z | G E F (3G/A/G/ F E | F3 F2 z | e ^c d (3e/f/e/ d c ||[K:D] d3- d2 z | %13
+w: Dim\- me: p'a\- vé, c'ag\- gi'a|fa?... *|Dim\- me: che * buò * ca te|don\- go|Dim\- me: l'ar\- * ri\- * v'a va\-|sà? *|
+ d3({de)} dc A | G3- G2 z | d3({de)} dc A | A F2- F A B | c A B c A B | B G2- G A B | c A B c A B | %20
+w: Nan\- nì, _ Nan\-|ni _|Suon\- n''e _ stu|co\- re... * nun 'o|vvi\- re ch'i span\- te\- coe|mo\- re?... * E ssi|mo\- ro~è sur\- tan\- to pe|
+ F2 z z2 z | d3({de)} dc A | G3- G2 z | d3({de)} dc A | A F2- F A B | c A B c A B | B G2- G A B |1 %27
+w: tte!|Nan\- nì, _ Nan\-|nì, *|Suon\- n'e * 'stu|co\- re... * nun 'o|vvi\- re ch'i span\- te\- coe|mo\- re?... * E ssi|
+ c A B c A B | d3- d2 z :|3 c A B c d !fermata!a || d3- d !fermata!z z |] %31
+w: mo\- ro~è sur\- tan\- to pe|tte! *|mo\- ro~è sur\- tan\- to pe|tte! *|
+V:2
+!ff! [dd']3({d'e')} [dd'][cc'][Aa] | [Gg]3- [Gg]([Aa][Bb] | [cc'])([Aa][Bb] [cc'][dd'][ee'] | %3
+ [dfad']3) [dfad'] z z ||[K:F] z/!pp! A,/D/F/D/A,/ z/ A,/D/F/D/A,/ | g^cd (3e/f/e/dc | [FAd]6 | %7
+ dBc d^cB | [FA]6 | GEF (3G/A/G/FE | F/A,/D/F/D/A,/ F/A,/D/F/D/A,/ | e^cd (3e/f/e/dc || %12
+[K:D] d/A,/D/F/D/A,/ z/ A,/D/F/D/A,/ | [FAd]3({de)} dcA | [FA]6 | d3({de)} dcA | %16
+ A F2- F[DFA][DFB] | [DFc][DFA][DFB] [DFc][DFA][DFB] | [CGB] [CEG]2- [CEG][CEA][CEB] | %19
+ [CEc][CEA][CEB] [CEc][CEA][CEB] | F[A,DF][A,DF] z [A,DF][A,DF] | [dfad']3 [dfad'][cc'][Aa] | %22
+ [Gceg]6 | [degd']3 [dd'][cc'][Aa] | [Aa] [Ff]2- [Ff][Aa][Bb] | [cc'][Aa][Bb] [cc'][Aa][Bb] | %26
+ [Bb] [GBeg]2- [GBeg][Aa][Bb] |1 [cc'][Aa][Bb] [cc'][dd'][ee'] | [dfad']3- [dfad']2 z :|3 %29
+ [cc'][Aa][Bb] [cc'][dd'][Acea] || [dfad']3- [dfad'] !fermata!z z |] %31
+V:3
+ [D,,D,][F,A,D][F,A,D] [F,,F,][A,D][A,D] | [E,,E,][G,A,C][G,A,C] A,,[G,A,C][G,A,C] | %2
+ [E,,E,][G,A,C][G,A,C] A,,[G,A,C][G,A,C] | [D,D][A,,A,][F,,F,] [D,,D,] z z || %4
+[K:F] [D,,D,] z z [A,,,A,,] z z | D,/A,/D/F/D/A,/ F,/A,/D/F/D/A,/ | %6
+ D,/A,/D/F/D/A,/ A,,/A,/D/F/D/A,/ | G,,/G,/B,/D/B,/G,/ B,,/G,/B,/D/B,/G,/ | %8
+ A,,/F,/A,/D/A,/F,/ F,,/A,/D/F/D/A,/ | A,,/G,/A,/^C/A,/G,/ A,,/G,/A,/C/A,/G,/ | %10
+ [D,,D,] z z [B,,,B,,] z z | A,,/G,/A,/^C/A,/G,/ A,,/G,/A,/C/A,/G,/ || %12
+[K:D] [D,,D,] z z [A,,,A,,] z z | D,/F,/A,/E/A,/F,/ D,/F,/A,/D/A,/F,/ | %14
+ E,/G,/A,/C/A,/G,/ A,,/G,/A,/C/A,/G,/ | E,/G,/A,/C/A,/G,/ A,,/G,/A,/C/A,/G,/ | %16
+ D,/F,/A,/D/A,/F,/ A,, z z | [D,,D,] z z [A,,,A,,] z z | [E,,E,] z z [A,,,A,,] z z | %19
+ [E,,E,] z z [A,,,A,,] z z | [D,,D,] z z [A,,,A,,] z z | [D,,D,][F,A,D][F,A,D] [F,,F,][A,D][A,D] | %22
+ E,[G,A,C][G,A,C] A,,[G,A,C][G,A,C] | E,[G,A,C][G,A,C] A,,[G,A,C][G,A,C] | %24
+ [D,,D,][F,A,D][F,A,D] [F,,F,][A,D][A,D] | [D,,D,][F,A,D][F,A,D] [^D,,^D,][F,A,][F,A,] | %26
+ [E,,E,][G,B,][G,B,] [B,,,B,,][G,B,][G,B,] |1 [A,,A,][A,C][A,C] [A,,A,][^G,,^G,][=G,,=G,] | %28
+ [F,,F,][G,,G,][A,,A,] [D,,D,]2 z :|3 G,,[G,A,C][G,A,C] A,,[G,A,C] !fermata!A,,,/A,,/ || %30
+ [D,,D,][F,,F,][A,,A,] [D,,D,] !fermata!z z |] %31
+V:4
+ x6 | x6 | x6 | x6 ||[K:F] x6 | A6 | x6 | [GB]6 | x6 | ^C6 | x6 | x6 ||[K:D] x6 | x6 | x6 | [EG]6 | %16
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |1 x6 | x6 :|3 x6 || x6 |] %31
+

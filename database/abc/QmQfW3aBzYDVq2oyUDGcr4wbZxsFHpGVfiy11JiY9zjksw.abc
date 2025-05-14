@@ -1,0 +1,51 @@
+X:1
+T:Gallo ciego
+T:Gallo ciego
+T:Tango (1926)
+T:Música: Agustín Bardi
+T:Arreglo de Pablo Moro
+C:Música: Agustín Bardi
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=58
+M:2/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:1
+ [^CEA]/[CEB][CEA]/ [CEB][CEA]/[CEB]/ | [DFA]/[DFB][DFA]/ [DFB][DFA]/[DFB]/ | %2
+ [^CGA]/[CGB][CGA]/ [CGB][CGA]/[CGB]/ | [DFA]/[DFB][DFA]/ [DFB]A/B/ | %4
+ [^FAd]/[FA_e][FAd]/ [FAe][FAd]/[FAe]/ | [GBd]/[GB_e][GBd]/ [GBe][GBd]/[GBe]/ | %6
+ [^Fcd]/[Fc_e][Fcd]/ [Fce][Fcd]/[Fce]/ | [GBd]/gd/ B/A/G/^G/ | %8
+ [^CEA]/[CEB][CEA]/ [CEB][CEA]/[CEB]/ | [DFA]/[DFB][DFA]/ [DFB][DFA]/[DFB]/ | %10
+ [^CEA]/[CEG][CF]/ [CE]D/C/ | [F,A,D] z [FAd] z || E/G/B/[EGBd]/ ^c/d/[EGB] | %13
+ z/ [EGBd]^c/4d/4 [EGB] z | E/F/A/[FAd]/ ^c/d/[FA] | z/ [FAd]^c/4d/4 [FA] z | %16
+ E/G/B/[EGBd]/ ^c/e/[GBd] | z/ f/e/a/ [Beg]e/c/ | f/[db]"^mano der"[ca]/ [Bg]/[Af]/[Ge]/[Fd]/ | %19
+ [Ec]/[D=B]/[C_B]/[=B,A]/ [_B,G]/[A,F]/[G,E]/[^F,^D]/ | E/G/B/[EGBd]/ ^c/d/[EGB] | %21
+ z/ [EGBd]^c/4d/4 [EGB] z | E/F/A/[FAd]/ ^c/d/[FA] | z/ [FAd]^c/4d/4 [FA] z | %24
+ z/ A/c/_e/ [Aceg]/^f/[Aceg] | z/ B/g/_g/ [Bdf] z | [Be]/c/d/B/ A/c/B/G/ | F z [Acf]/D_E/4=E/4 || %28
+[K:Bb] [DF]2- [DF]/[FBd]^c/4d/4 | =E/[B,CE][B,C^D]/ [B,CE]/[B,CD]/[B,CE] | %30
+ [A,C_E]2- [A,CE]/[EAc]=B/4c/4 | D/[B,D][A,^C]/ [B,D]/[B,DA]/[B,DG]/[B,DA]/ | %32
+ [B,DG]/[B,DF][B,DA]/ G>A | [A,EG][A,EF]- [A,EF]/[A,EA]/[A,EG]/[A,EA]/ | [A,EG]/[A,EF][A,EA]/ G>A | %35
+ [B,DG][B,DF]- [B,DF]/DE/4=E/4 | [B,DF]2- [B,DF]/[FBd]^c/4d/4 | %37
+ =E/[B,CE][B,C^D]/ [B,CE]/[B,CD]/[B,CE] | [A,C_E]2- [A,CE]/[EAc]=B/4c/4 | %39
+ D/[B,D][A,^C]/ [B,D]/[B,DA]/[B,DG]/[B,DA]/ | [B,DG]/[B,DF][B,DA]/ G>A | %41
+ [A,EG][A,EF]- [A,EF]/[A,EA]/[A,EG]/[A,EA]/ | [A,EG]/[A,EF][GAe]/ [FAd][EFc]/[DFB]/- | %43
+ [DFB] z [Bdfb] z :| %44
+V:2
+ .A,,,.^C,, .E,,.A,,, | .D,,.F,, .A,,.D,, | .E,,.G,, .A,,.E,, | .F,,.A,, .D,.F,, | %4
+ .D,,.^F,, .A,,.D,, | .G,,.B,, .D,.G,, | .A,,.C, .D,.A,, | .B,, z z z/ G,,/4^G,,/4 | %8
+ .A,,.^C, .E,.A,, | .D,,.F,, .A,,.D,, | .A,,.^C, .E,.A,, | .D,.A,, .D,, z || .C,.E, .G,.E, | %13
+ .C,.E, .G,.E, | .F,,.A,, .C,.A,, | .F,,.A,, .C,.A,, | .C,.E, .G,.E, | .C,.E, .G,.E, | %18
+"^mano izq" .[F,A,] z z2 | z4 | .C,.E, .G,.E, | .C,.E, .G,.E, | .F,,.A,, .C,.A,, | %23
+ .F,,.A,, .C,.A,, | .F,,.A,, .C,._E, | .B,,.D, .F,.D, | .[C,,C,].[D,,D,] .[^D,,^D,].[E,,E,] | %27
+ .[F,,F,].C, .[F,,F,] z ||[K:Bb] B,,>D, .F,.F,, | C,>=E, .G,.G,, | F,,>A,, .C,.F,, | %31
+ B,,>D, .F,.F,, | B,,>D, .F,._D, | C,>E, .F,.F,, | C,>E, .F,.F,, | B,,>D, .F,.F,, | %36
+ B,,>D, .F,.F,, | C,>=E, .G,.G,, | F,,>A,, .C,.F,, | B,,>D, .F,.F,, | B,,>D, .F,._D, | %41
+ C,>E, .F,.F,, | C,>E, .F,.F,, | .B,,.F,, .B,,, z :| %44
+V:3
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 ||[K:Bb] x4 | x4 | x4 | x4 | x2 [B,-D][B,=E] | x4 | %34
+ x2 [A,^C]2 | x4 | x4 | x4 | x4 | x4 | x2 [B,-D][B,=E] | x4 | x4 | x4 :| %44
+

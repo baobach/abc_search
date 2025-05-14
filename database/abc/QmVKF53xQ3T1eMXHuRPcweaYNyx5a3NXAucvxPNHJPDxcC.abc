@@ -1,0 +1,97 @@
+X:1
+T:Organ Symphony in f# minor Ending
+T:Organ Symphony in f# minor Ending
+T:Op. 143, Siegfried Karg-Elert
+C:Siegfried Karg-Elert
+%%score { ( 1 2 3 ) | ( 4 7 ) | ( 5 6 ) }
+L:1/8
+Q:1/4=80
+M:4/4
+K:F#
+V:1 treble nm="Organ" snm="Org."
+V:2 treble 
+V:3 treble 
+V:4 bass 
+V:7 bass 
+V:5 bass 
+V:6 bass 
+V:1
+"^sempre accelerando""^armonioso (tenuto)" (3x2 c2 G2[Q:1/4=82] (3x2 d2 A2 | %1
+[Q:1/4=83] (3x2 f2 c2[Q:1/4=84] (3x2 a2 f2 |[Q:1/4=86] (3x2 b2 f2[Q:1/4=87] (3x2 d'2 b2 | %3
+[Q:1/4=88] (3x2 =e'2 b2[Q:1/4=90] (3x2!8va(! b'2 e'2 | %4
+"^stringendo"[Q:1/4=94] (3:2:6=e'b (c' gd) (e' (3:2:6[=ab]=e)!8va)! (f cG) (b | %5
+ (3:2:6=e=A) (c GD) (e (3:2:6[AB]=E) (F CG,) !tenuto!c- | %6
+"^molto agitato" (3:2:6=DG[I:staff +1]E B,E[I:staff -1] !tenuto!^d- (3:2:6=E^A[I:staff +1]^^F CF[I:staff -1] !tenuto!^f- | %7
+ (3:2:6=Gc[I:staff +1]A =EA[I:staff -1] !tenuto!^g- (3:2:6=Ad[I:staff +1]^B FB[I:staff -1] !tenuto!f- | %8
+ (3:2:6=Gc[I:staff +1]^A =EA[I:staff -1] ^g- (3:2:6=Ad[I:staff +1]^B FB[I:staff -1] ^a- | %9
+ (3:2:6=B^e[I:staff +1]=d Gd[I:staff -1] c'- (3:2:6=dg[I:staff +1]^e Be c | %10
+[Q:1/4=120][I:staff -1] c'2 z2 z2 z (f | c=eB =a efc c' | g=a=e f' c'=e'b) (a | g=f=d) x x2 x (=F | %14
+ =ECA,) z z4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %25
+[K:bass][Q:1/2=72]"^sempre tempestoso" z2 z G, z2 z =D | z2[K:treble] z A z2 z =e | %27
+ z2 z B z2 z =f | z2 z c' z2 z =g' | z8 | %30
+[M:17/8]!fff!"^rapido, ma distinto" x3/2[I:staff +1] (=C,/=D,/=E,<[I:staff -1]x[K:treble]=C/=D/=E<x=c/=d/=e<x!tenuto!=c'/)!tenuto!=d'/!tenuto!=e'/[Q:1/4=100]!tenuto!f'!fff![Q:1/2=42]"^Pomposo e gravemente" !>![g^d'g']4 | %31
+[M:8/4] !>![fc'f']8 !>![dad']8 | z4 !>![cfgc']4 !>![dgad']4 !>![fbc'f']4 | %33
+[Q:1/2=34] !breath!!tenuto!g'16-[Q:1/2=12][Q:1/2=30][Q:1/2=30][Q:1/2=12][Q:1/2=30][Q:1/2=12][Q:1/2=28] x2[Q:1/2=8] | %34
+[Q:1/2=32] !>![gc'd'g']4 !>![ad'e'a']4 !>![fbc'f']4[Q:1/2=13] !>!!^![dgad']4 | %35
+!fff![Q:1/2=30] [FG=c=eg]8 [GAd^ea]8 |!fff! .=D !tenuto!C7- C4 z4 | %37
+ .=C !tenuto!^C7- C4[I:staff +1] F,3[I:staff -1] F | %38
+[Q:1/2=25] (!breath!!^![=DF]8[Q:1/2=30] (([^DF]8) | %39
+ [CGc]4))!fff!"_con tutta la forza" !>![c-fgc'-]12 | [cfgc'-]12 [=d^e^ac']4- | %41
+ [dea-c'-]8 [fgac'^d'f']8- | [fgac'd'f']16 |] %43
+V:2
+ (3:2:6z!p! Dc AGF (3:2:6z Fd cAG | (3:2:6z Gf dcB (3:2:6z Ba gfd | %2
+ (3:2:6z cb gfd (3:2:6z =ed' c'bg | (3:2:6z f=e' c'bg (3:2:6z!8va(! =ab' f'e' =a' | %4
+ x16/3!8va)! x8/3 | x8 | (3c3[I:staff +1] B,2[I:staff -1] d (3d3[I:staff +1] C2[I:staff -1] f | %7
+ (3f3[I:staff +1] =E2[I:staff -1] g (3g3[I:staff +1] F2[I:staff -1] f | %8
+ (3f3[I:staff +1] =E2[I:staff -1] g (3g3[I:staff +1] F2[I:staff -1] a | %9
+ (3a3[I:staff +1] G2[I:staff -1] c' (3:2:1c'6- | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %20
+ x8 | x8 | x8 | x8 | x8 |[K:bass] x2 C,2 x2 =G,2 | x2[K:treble] ^E2 x2 =A2 | x2 =E2 x2 _B2 | %28
+ x2 ^f2 x2 =c'2 | x8 |[M:17/8] x9/2[K:treble] x25/2 |[M:8/4] x16 | x16 | %33
+ !tenuto![gc'd']4 x/ !tenuto![gc'd']4 x/ !tenuto![gc'd']4 x/ !tenuto![gc'd']4 x/ | x16 | x16 | %36
+ x16 | x16 | x16 | x16 | x16 | x16 | x16 |] %43
+V:3
+ (3:2:4x D2 A2 x (3:2:4x F2 c2 x | (3:2:4x G2 d2 x (3:2:4x B2 g2 x | %2
+ (3:2:4x c2 g2 x (3:2:4x =e2 c'2 x | (3:2:4x f2 c'2 x (3:2:4x!8va(! c'2 f'2 x | x16/3!8va)! x8/3 | %5
+ x8 | (3:2:4x G2 x x2 (3:2:4x A2 x x2 | (3:2:4x c2 x x2 (3:2:4x d2 x x2 | %8
+ (3:2:4x c2 x x2 (3:2:4x d2 x x2 | (3:2:4x e2 x x2 (3:2:4x g2 x x2 | x8 | x8 | x8 | x8 | x8 | x8 | %16
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[K:bass] x8 | x2[K:treble] x6 | x8 | x8 | x8 | %30
+[M:17/8] x9/2[K:treble] x25/2 |[M:8/4] x16 | x16 | x18 | x16 | x16 | x16 | x16 | x16 | x16 | x16 | %41
+ x16 | x16 |] %43
+V:4
+!p! !tenuto![G,C-]4 !tenuto![F,A,CD]4 |[K:treble] !tenuto![CF-]4 !tenuto![B,DFG]4 | %2
+ !tenuto![FB-]4 !tenuto![=EGBc]4 | !tenuto![B=e-]4 !tenuto![=Acef]4 | z8 | z8 | x8 | x8 | x8 | x8 | %10
+ G=A=E =e BcG z | z8 | z8 | x2 x (c ^B=AF) x |[K:bass] z2 z =A, G,^E,=D,C, | F,,2 z2 z4 | z8 | z8 | %18
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z G,,3 z =D,3 | z A,3 z =E3 | z B,3[K:treble] z =F3 | %28
+ z c3 z =g3 | z8 | %30
+[M:17/8][K:bass] (F,,/G,,/A,,<xF,/G,/A,<x[I:staff -1]F/G/A<[I:staff +1]x[I:staff -1]f/g/a/)[I:staff +1] x3/2 x !>![G,G]4 | %31
+[M:8/4] !>![F,F]8 !>![D,D]8 | z4 !>![C,G,C]4 !>![D,A,D]4 !>![F,CF]4 | %33
+ !breath!!tenuto![G,DG]4 x/ !breath!!tenuto![G,DG]4 x/ !breath!!tenuto![G,DG]4 x/ !breath!!tenuto![G,DG]4 x/ | %34
+ !>![G,DG]4 !>![A,EA]4 !>![F,CF]4 !>!!^![D,A,D]4 | [F,=A,=C=E]8 [B,^C^E]8 | %36
+ .[=A,,=D,=F,=A,] [C,^F,^A,]7- [C,F,A,]4 z4 | .[=A,,=C,=E,=A,] [^C,F,^A,]7- [C,F,A,]4 z4 | %38
+ !breath!!^![=E,A,]8 [B,,=A,]8 | [C,F,^A,]4 !>![C,F,A,]4 !>![=D,=G,B,]4 !>![=E,=A,C]4 | %40
+ !>![C,F,^A,]4 !>![F,B,^D]4 !>![=A,=D^F]4 !>![B,=D^E^G]4- | [B,DEG]8[I:staff -1] [CFAc^d]8- | %42
+ [CFAcd]16 |] %43
+V:5
+!pp!"_crescendo al Coda" C,,8- | C,,8- | C,,8- | C,,8- | C,,8- | C,,8- | C,,8- | C,,8- | C,,8- | %9
+ C,,8- | C,,8- | C,,8- | C,,8- | C,,8- | C,,8 |"^tempestoso"!ff! x F,xC, x =A,x=E, | %16
+ x F,xC, x =E,xB,, | (^E,,!^!F,,) (B,,!^!^A,,) (^^F,,G,,) (=D,C,) | %18
+ (^^G,,A,,) (=E,D,) (^B,,C,) (=G,F,) | (=D,C,) (^E,F,) (=E,^D,) (^^F,G,) | %20
+ (=G,F,) (^^G,A,) (=A,^G,) (B,C) | x =Dx_B, x ^Cx=B, | x _B,x_G, x =A,x=G, | x F,x=D, x =F,x_E, | %24
+ x =D,x_B,, x ^C,x^F,, | C,,4 z4 | z8 | z8 | z8 | z8 |[M:17/8] x8 x4 x[K:bass-8]!fff! !>!G,,4 | %31
+[M:8/4] !>!F,,8 !>!D,,8 | z4 !>![C,,G,,]4 !>![D,,A,,]4 !>![F,,C,]4 | %33
+ !breath!D,4 x/ !breath!G,4 x/ !breath!D,4 x/ !breath!G,4 x/ | %34
+ [G,,G,]4 [A,,A,]4 [F,,F,]4 !^![D,,D,]4 | [=D,,=D,]8 [^C,,^C,]8 |!fff! .=D, ^F,7- F,4 z4 | %37
+ .=A, F,7- F,4 z4 | !breath!!^![=C,,=C,]8 !>!B,,8 | !>!F,,16- | F,,12 =G,,4- | %41
+ !>![G,,=D,]8 !>![F,,C,]8- | [F,,C,]16 |] %43
+V:6
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | F,,xB,, x =A,,x=D, x | %16
+ F,,xB,, x =E,,x=A,, x | x8 | x8 | x8 | x8 | =E,x=G, x ^E,x^G, x | =C,x_E, x ^C,x=E, x | %23
+ ^G,,x=B,, x =A,,x=C, x | =E,,x=G,, x ^E,,x=A,, x | x8 | x8 | x8 | x8 | x8 | %30
+[M:17/8] x13[K:bass-8] x4 |[M:8/4] x16 | x16 | G,,4 x/ G,,4 x/ G,,4 x/ G,,4 x/ | x16 | x16 | x16 | %37
+ x16 | x16 | x16 | x16 | x16 | x16 |] %43
+V:7
+ x8 |[K:treble] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[K:bass] x8 | x8 | %16
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | (C,,4 =G,,4) | (^D,4 =A,4) | (=E,4[K:treble] _B,4) | %28
+ (^F4 =c4) | x8 |[M:17/8][K:bass] x17 |[M:8/4] x16 | x16 | x18 | x16 | x16 | x16 | x16 | x16 | %39
+ x16 | x16 | x16 | x16 |] %43
+

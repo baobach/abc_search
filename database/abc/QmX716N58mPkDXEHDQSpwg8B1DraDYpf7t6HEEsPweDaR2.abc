@@ -1,0 +1,80 @@
+X:1
+T:Sonata in (K158)
+T:Sonata in D  (K160)
+T:Domenico SCARLATTI (1685-1757) 
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=130
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 treble 
+V:4 treble 
+V:1
+"^Allegro" df a2- aA f2- | f/B/g/f/ f/e/d/c/ dF A2- | AA, F2- F/B,/G/F/ F/E/D/C/ | %3
+ D/[I:staff +1]A,/F,/A,/ D,/A,,/F,,/A,,/[I:staff -1] a{g}f/e/ d=c | ^A B3 ec/B/ =AG | %5
+ ^E F3 a{g}f/e/ d=c | ^A B3 ec/B/ =AG | ^E F3 f/d/A/F/ DG/=E/ | f/d/A/F/ DG/E/ f/d/A/F/ DG/E/ | %9
+ [DF]3 d' c'/a/g/e/ c/A/g/e/ | [df]3 d' c'/a/g/e/ c/A/g/e/ | [df]2 z2 d'/b/^g/d/ B/^G/B/g/ | %12
+ a2 z2 z/ f/d'/c'/ b/a/^g/a/ | ^g/a/b/d/ c/a/g/B/ A/f/e/^G/ F/d/c/E/ | %14
+ D/B/A/C/ B,/^G/F/A,/ ^G,/E/^D/G,/ F,E || !fermata!z8 || e=c/B/ AG =F =f2 e | d=c'ba a3 ^g | %18
+ !fermata!z4 e=c/B/ A=G | =F =f2 e d=c'ba | a3 ^g d'/b/g/=d/ B/^G/E/d/ | %21
+ c2 z2 d'/b/^g/d/ B/^G/E/d/ | c2 z2 z/ c'/a/e/ c/A/c/e/ | f/a/f/d/ B/^G/B/d/ c/e/a/-A/ a/b/^g/d/ | %24
+ z/ d'/c'/b/ a/^g/f/e/ ^e/f/c/d/ ^A/B/^E/F/ | C/D/E/F/ ^G/d/c/B/ PA/B/4A/4G/4A/4B/ PB>A | %26
+ z/ d'/c'/b/ a/^g/f/e/ ^e/f/c/d/ ^A/B/^E/F/ | C/D/E/F/ ^G/d/c/B/ PA/B/4A/4G/4A/4B/ PB>A | %28
+ A/E/C/A,/ C/A/B,/^G/ c/A/E/C/ E/c/B/D/ | e/c/A/E/ A/e/d/B/ a/e/c/A/ c/a/B/^g/ | %30
+ c'/a/e/c/ e/c'/b/d/ a/e/c/A/ c/a/B/^g/ | c/a/B/^g/ c/a/B/g/{g} a2 z2 :: e{d}c/B/ AF G3 E | %33
+ e/c/^A/F/ e/d/d/c/ d/B/F/D/ d/c/c/B/ | c/^A/G/E/ c/B/B/A/ B/F/D/B,/ B2 | ^ABAB ABcd | %36
+ Pc2 !fermata!z2 f{e}d/c/ BA | G2 g3 f/e/ dc | d'b/a/ ^gf b/g/^e/c/ b/a/a/g/ | %39
+ a/f/c/A/ a/^g/g/f/ g/^e/d/B/ g/f/f/e/ | f3 f ^efef | ^ef^ga Pg2 !fermata!z2 | %42
+ ^ga/b/ a/g/f/^e/ f2 z2 | z ^g g/a/4b/4a/g/ f2 z2 | z ^g g/a/4b/4a/g/ f2 z2 | %45
+ z f f/=g/4a/4g/f/ e2 z2 | z f f/g/4a/4g/f/ e2 z2 | z e e/f/4g/4f/e/ d2 z2 | %48
+ z e e/f/4g/4f/e/ d/a/g/f/ e/d/c/d/ | PA2 z2 z/ c'/a/e/ c/A/E/C/ | a2 z2 z/ c'/a/e/ c/a/e/c/ | %51
+ A/e/c/A/ E/[I:staff +1]C/A,/E,/[I:staff -1] x4 | a{=g}=f/e/ d=c _B _b2 a- | %53
+ a g2 =f- f2 !fermata!^de | a{=g}=f/e/ d=c _B _b2 a- | a g2 =f- f2 !fermata!^de | %56
+ z/ c'/a/g/ e/c/A/g/ f2 z d' | c'/a/e/c/ A/c/e/g/ f2 z d' | c'/a/g/e/ c/A/g/e/ f/a/c/e/ d/f/A/c/ | %59
+ B/b/a/g/ f/e/d/e/ F/A/d/D/ E/e/c/G/ | z/ g/f/e/ d/c/B/A/ ^A/B/F/G/ ^D/E/^A,/B,/ | %61
+ G,/A,/B,/C/ D/G/F/E/ D/E/4D/4C/4D/4E/ PE>D | z/ g/f/e/ d/c/B/A/ ^A/B/F/G/ ^D/E/^A,/B,/ | %63
+ G,/A,/B,/C/ D/G/F/E/ D/E/4D/4C/4D/4E/ PE3/2D/4E/4 | F/D/A,/B,/ F/A,/G,/E/ F/D/F/A/ d/F/E/c/ | %65
+ f/d/A/F/ A/f/e/G/ a/f/d/A/ d/a/g/e/ | d'/a/f/d/ f/d'/e/c'/ f/d'/e/c'/ f/d'/e/c'/ | d'2 z2 z4 :| %68
+V:2
+ d2 z/ e/c/A/ d2 z/ A/F/D/ | G2 A2 D2 z/[K:bass] E/C/A,/ | D2 z/ A,/F,/D,/ G,2 A,2 | %3
+ D,2 x2 D,,2 z2 | GE/D/ CB, A,2 z2 | DA,/G,/ F,E, D,2 z2 | GE/D/ CB, A,2 z2 | %7
+ DA,/G,/ F,E, D,2 D/A,/B,/C/ | D,2 D/A,/B,/C/ D,2 D/A,/B,/C/ | D,,/F,,/A,,/D,/ F,/A,/D/F/ A,,2 z2 | %10
+ D,,/F,,/A,,/D,/ F,/A,/D/F/ A,,2 z2 | D,,/F,,/A,,/D,/ F,/A,/D/F/ A,,2 z2 | C,/E,/A,/C/ z2 D,2 z2 | %13
+ E,,2 z2 E,,2 z2 | E,,2 z2 E,,2 E,,2 || !fermata!z8 || z2 E3 D2 =C | D2 E2 E,2 E2 | %18
+ !fermata!z4 z2 E2- | E D2 =C D2 E2 | E,2 E2 z4 | %21
+ A,,/C,/E,/A,/[K:treble] =C/E/A/c/[K:bass] E,,2 z2 | %22
+ A,,/C,/E,/A,/[K:treble] C/E/A/c/[K:bass] C,2 z2 | D,2 z2 E,2 D,2 | C,2 A,2 D,2 z2 | %25
+ z2 [D,B,]2 [E,C]2 [D,B,]2 | [C,A,]2 z2 D,2 z2 | z2 [D,B,]2 E,2 E,,2 | A,,3 [E,,E,] A,,3 [E,,E,] | %29
+ A,,3 [E,,E,] A,,3 [E,,E,] | A,,3 [E,,E,] A,,3 [E,,E,] | %31
+ [A,,A,][E,,E,] [A,,A,][E,,E,] [A,,A,]2 z2 :: z4 EC/B,/ ^A,G, | [F,E]2 z2 [F,B,D]2 z2 | %34
+ [F,CE]2 z2 [B,D] x x2 | [F,C][F,D][F,C][F,D] [F,C][F,D][F,C][F,B,] | F,,2 !fermata!z2 z2 F2- | %37
+ FE/D/ E2 [^A,E]2 [F,F]2 |[K:treble] [B,F]2 B2 [CB]2 z2 | [CFA]2 z2 [C^GB]2 z2 | %40
+ [CF]3 [CA] [C^G][CA][CG][CA] | [C^G][CA][CG][CF][K:bass] C,2 !fermata!z2 | %42
+ z4[K:treble] A/c/F/A/ D/F/B,/D/ |[K:bass] ^G,/B,/^E,/G,/ C,2[K:treble] A/c/F/A/ D/F/B,/D/ | %44
+[K:bass] ^G,/B,/^E,/G,/ C,2[K:treble] A/c/F/A/ =C/E/A,/C/ | %45
+[K:bass] F,/A,/^D,/F,/ B,,2 G/B/E/G/ =C/E/A,/C/ | F,/A,/^D,/F,/ B,,2 G/B/E/G/ B,/D/G,/B,/ | %47
+ E,/G,/C,/E,/ A,,2 F/A/D/F/ B,/D/G,/B,/ | E,/G,/C,/E,/ A,,G,, F,,2 G,,2 | %49
+ A,,/C,/E,/A,/[K:treble] C/E/A/c/[K:bass] A,,2 z2 | %50
+ A,,/C,/E,/A,/[K:treble] C/E/A/c/[K:bass] A,,2 z2 | x4 A,,2 z2 | z2 A3 G2 [=FA] | G2 x2 A,2 z2 | %54
+ z2 A3 G2 [=FA] | G2 x2 A,2 z2 | A,,2 z2 D,,/F,,/A,,/D,/ F,/A,/D/F/ | %57
+ A,,2 z2 D,,/F,,/A,,/D,/ F,/A,/D/F/ | A,,2 z2 D,2 F,2 | G,2 G,,2 A,2 G,2 | F,2 z2 G,2 z2 | %61
+ z2 G,2 A,2 G,2 | F,2 z2 G,2 z2 | z2 G,2 A,2 A,,2 | D,,3 A,, [D,,D,]3 A,, | [D,,D,]3 A,, F,,3 A,, | %66
+ [D,,D,]3 A,, [D,,D,]A,, [D,,D,]A,, | [D,,D,]2 z2 z4 :| %68
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x2 E/A/c/A/ x4 | x8 | x8 || x8 || %16
+ x6 ^GA | d3 =c B^d e2 | x8 | x2 ^GA d3 =c | B^d e2 x4 | x8 | x8 | x5 a B2 | x8 | x8 | x8 | x8 | %28
+ x8 | x8 | x8 | x8 :: x8 | x8 | x6 B/^E/F/E/ | F/^E/F/E/ F/E/F/E/ F/E/F/E/ F/E/F/E/ | x8 | %37
+ x2 ^AB c2 z2 | d2 x6 | x8 | A/^B/c/B/ c/B/c/B/ c/B/c/B/ c/B/c/B/ | c/^B/c/B/ c/B/c/B/ x4 | x8 | %43
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x6 ^cd | _B2 A2 ^GA z2 | x6 ^cd | _B2 A2 ^GA z2 | %56
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 :| %68
+V:4
+ x8 | x13/2[K:bass] x3/2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 || %16
+ x8 | B,A,^G,A, x4 | x8 | x4 B,A,^G,A, | x8 | x2[K:treble] x2[K:bass] x4 | %22
+ x2[K:treble] x2[K:bass] x4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 :: x8 | x8 | %34
+ x4 F,3 [F,D] | x8 | x8 | x2 CB, x4 |[K:treble] x8 | x8 | x8 | x4[K:bass] x4 | x4[K:treble] x4 | %43
+[K:bass] x4[K:treble] x4 |[K:bass] x4[K:treble] x4 |[K:bass] x8 | x8 | x8 | x8 | %49
+ x2[K:treble] x2[K:bass] x4 | x2[K:treble] x2[K:bass] x4 | x8 | x8 | EDCD x4 | x8 | EDCD x4 | x8 | %57
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 :| %68
+

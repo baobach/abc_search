@@ -1,0 +1,45 @@
+X:1
+T:Fuge Nr. 2, Wohltemperiertes Klavier I, BWV 847
+T:Fuge Nr. 2, Wohltemperiertes Klavier I, BWV 847 
+T:J.S. Bach
+%%score [ 1 2 3 ]
+L:1/8
+Q:1/4=80
+M:4/4
+K:Eb
+V:1 treble nm="Klavier"
+V:2 treble nm="Klavier"
+V:3 bass nm="Klavier"
+V:1
+"^Andante" z8 | z8 | z g/^f/ gc eg/f/ g=a | dg/^f/ g=a c/d/ e2 d/c/ | Be/d/ eG Af/e/ f=A | %5
+ Bg/f/ g=B cd/e/ f2- | fe/d/ c/B/A/G/ Fagf | edef =BcdB | cg/^f/ gd e2 z =e | ff/=e/ fc d2 z d | %10
+ e e/d/ eB ce/d/ ef | Be/d/ ef A/B/ c2 B/A/ | G/E/F/G/ A/B/c/d/ e/d/c/d/ e/f/g/=a/ | %13
+ b/F/G/A/ B/c/d/=e/ f/_e/d/e/ f/g/=a/=b/ | c'=b/=a/ g/f/e/d/ cedc | B=ABc ^FG=AF | %16
+ Gd/c/ d z z =e/d/ e z | z ^f/=e/ f z z G/=F/ G z | z =A/G/ A z z =B/=A/ B z | %19
+ z c/=B/ cG Ac/B/ cd | Gc/=B/ cd F/G/ A2 G/F/ | E c/=B/ cG A2 z =A | BB/=A/ BF G2 z G- | %23
+ GA/B/ c/=B/c/A/ F4- | Fd/c/ dF Ee/d/ eG | Ff/e/ fA G/f/e/d/ c/=B/=A/G/ | cfed z AGF | %27
+ GF/E/ FD AG z =A | =Bc F/E/D/C/ Cc/=B/ cG | Ac/=B/ cd Gc/=B/ cd | F/G/ A2 G/F/ =E4 |] %31
+V:2
+ z c/=B/ cG Ac/=B/ cd | Gc/=B/ cd F/G/ A2 G/F/ | E/c/=B/=A/ G/F/E/D/ Cedc | B=ABc ^FG=AF | %4
+ G2 z/ C/D/E/ F/G/A- A/D/E/F/ | G/=A/B- B/E/F/G/ _A/G/F/E/ Dc/=B/ | c2 z2 z fed | z AGF GF/E/ FD | %8
+ G2 z =B cc/=B/ cG | A2 z =A BB/=A/ BF | G2 z G AAGF | z A,B,C z A,/G,/ A,F, | B,CB,A, B,G,F,E, | %13
+ F,_DCB, CA,G,F, | G,G/^F/ GC EG/F/ G=A | DG/^F/ G=A C/D/ E2 D/C/ | %16
+ B, z z/ D/=E/^F/ G/=A/B- B/=E/=F/G/ | =A/B/c- c/^F/G/=A/ BE/D/ EG, | A,F/E/ F=A, B,G/F/ G=B, | %19
+ C/F/E/D/ C/B,/A,/G,/ F,AGF | EDEF =B,CDB, | C2 z =E FF/=E/ FC | D2 z D EE/D/ EB, | %23
+ C4- CD/E/ F/E/F/D/ | =B, z z B, C z z E | D z z F- F z z F | EAGF EDEF | =B,CDB, B,C z C | %28
+ F/D/E/C/- C=B, C2 z =E | F2 z F FE/D/ EF | D z =B, z [G,C]4 |] %31
+V:3
+ z8 | z8 | z8 | z8 | z8 | z8 | z C/=B,/ CG, A,C/=B,/ CD | G,C/=B,/ CD F,/G,/ A,2 G,/F,/ | %8
+ E,/C/=B,/=A,/ G,/F,/E,/D,/ C,/D,/E,/D,/ C,/B,,/A,,/G,,/ | %9
+ F,,/B,/A,/G,/ F,/E,/D,/C,/ B,,/C,/D,/C,/ B,,/A,,/G,,/F,,/ | %10
+ E,,/A,/G,/F,/ E,/_D,/C,/B,,/ A,,CB,A, | G,F,G,A, D,E,F,D, | E,A,G,F, G,E,D,C, | %13
+ D,B,A,G, A,F,E,D, | E, z z2 z C,B,,=A,, | z E,D,C, D,C,/B,,/ C,D, | %16
+ G,,B,/=A,/ B,D, .E,C/B,/ C=E, | F,D/C/ D^F, G,2 z/ G,,/=A,,/=B,,/ | %18
+ C,/D,/E,- E,/=A,,/B,,/C,/ D,/E,/F,- F,/=B,,/C,/D,/ | E, z z =E, F,F,,E,,D,, | %20
+ z A,,G,,F,, G,,F,,/E,,/ F,,G,, | C,/D,/E,/D,/ C,/B,,/A,,/G,,/ F,,/B,/A,/G,/ F,/E,/D,/C,/ | %22
+ B,,/C,/D,/C,/ B,,/A,,/G,,/F,,/ E,,/A,/G,/F,/ E,/D,/C,/B,,/ | %23
+ A,,/B,,/C,/B,,/ A,,/G,,/F,,/E,,/ D,,/G,/F,/E,/ D,/C,/=B,,/=A,,/ | %24
+ G,,2 z2 z/ G,,/=A,,/=B,,/ C,/D,/E,/F,/ | G,/F,/A,/G,/ F,/E,/D,/C,/ =B,,C,/B,,/ C,G,, | %26
+ A,,C,/=B,,/ C,D, G,,C,/B,,/ C,D, | F,,/G,,/ A,,2 G,,/F,,/ E,,2 z E, | D,C,G,G,, [C,,C,]4- | %29
+ [C,,C,]8- | [C,,C,]8 |] %31
+

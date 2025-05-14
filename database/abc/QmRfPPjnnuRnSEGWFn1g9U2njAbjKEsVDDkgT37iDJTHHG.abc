@@ -1,0 +1,42 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=105
+M:4/4
+K:Ab
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 bass nm="Choir Pad, As the Dawn Was Breaking"
+V:4 bass 
+V:1
+ [CE][CE] [DF]2 [CE]2 [_C=D]2 | [CE]2 [Ec]2 [Ec]4 | [Ec][Ec] [EB]2 [EB]2 [EA]2 | [EB]2 [Ec]6 | %4
+w: By~Rufus~Buzzard * * * *||||
+ [Ec][EB] [Ed]2 [EG]2 [EA]2 | [EB]2 [Ec]2 [CA]4 | [CA][EA] [EG]2 [EB][EA] [DG]2 | [DF]2 E6 | %8
+w: ||||
+ [DE][DE] [CE]2 [CE]2 [_C=D]2 | [CE]2 [EA]2 [Ec]4 | [Ec][Ec] [FA]2 [=EG]2 [FA]2 | [FB]2 [=Ec]6 | %12
+w: ||||
+ [Ec][Ec] [Ae]2 [Ae]2 [Ad]2 | [Ae]2 [Af]2 [FA]4 | [EG][DF] [CE]2 [Ec]2 [Ec]2- | [Ec][DB] [CA]6 | %16
+w: ||||
+ z2 [Ae]2 [Ae]>[Ae] [Ae][Ac] | z2 e6 | [GB][Ac] [Gd]4- [Gd][GB] | [Ac][Bd] [Ac]6 | %20
+w: ||||
+ [Ec][Ed][Ae][Ae] [Ae][A=d] [Ae]2 | [Ac][_GA][FB][FB] [Fc]>[Fc] [Fd]2 | %22
+w: ||
+ [A=d][Ad] [Ae]<[Ge] [GB]>[Ac] [G_d]<[Gd] | [Ac]>[GB] [EA]6- | [EA]2 z2 z4 |] %25
+w: |||
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %17
+ [AB]AGA BA G2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %25
+V:3
+ A,A, A,2 A,2 A,2 | A,2 A,2 A,4 | A,A, G,2 G,2 A,2 | G,2 A,6 | A,A, G,2 B,2 A,2 | G,2 A,2 E,4 | %6
+ A,[K:treble]C B,2 DC B,2 | A,2 G,6 | G,G, A,2 A,2 A,2 | A,2 C2 A,4 | A,A, C2 B,2 A,2 | F,2 G,6 | %12
+ A,A,[K:treble] C2 C2 D2 | C2 D2 D4 | A,A, A,2 A,2 G,2- | G,G, A,6 | z2[K:treble] C2 C>C CE | %17
+ DCB,C DC B,2 | z2 EE EEEE | EE E6 | A,B,CC C_C =C2 | ECD[K:bass]A, =A,>A, B,2 | %22
+ B,B, B,<B,[K:treble] E>E F<F | E>D C6- | C2 z2 z4 |] %25
+V:4
+ A,,A,, A,,2 A,,2 A,,2 | A,,2 A,,2 A,,4 | A,,A,, E,2 E,D, C,2 | E,2 z2 z4 | A,,A,, E,2 D,2 C,2 | %5
+ E,2 A,,2 A,,4 | A,,A,, E,2 E,2 E,2 | E,2 E,6 | E,E, A,,2 A,,2 A,,2 | A,,2 A,,2 A,,4 | %10
+ z2 F,2 F,2 F,2 | D,2 C,6 | z2 A,2 _G,2 F,2 | E,2 D,2 D,4 | D,D, E,2 E,2 E,2- | E,E, A,,6 | %16
+ z2 A,2 A,>A, A,A, | A,A, E,6 | z2 E,E, G,B,E,E, | E,E, A,6 | z A,A,A, A,A, A,2 | %21
+ A,A,D,D, C,>C, B,,2 | B,,B,, E,<E, E,>E, E,<E, | E,>E, A,,6- | A,,2 z2 z4 |] %25
+

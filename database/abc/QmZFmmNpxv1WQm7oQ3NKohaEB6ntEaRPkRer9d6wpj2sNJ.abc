@@ -1,0 +1,88 @@
+X:1
+T:Die schöne Müllerin
+T:Der Neugierige
+T:6. Der Neugierige
+T:Franz Schubert
+T:Wilhelm Müller
+T:Die schöne Müllerin (D.795)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+C:Franz Schubert
+Z:Wilhelm Müller
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=50
+M:2/4
+K:B
+V:1 treble nm="Singstimme"
+V:2 treble nm="Pianoforte"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Langsam" z4 | z4 | z4 | z2 z F | B3/2 A/ B3/2 d/ | ^B c z c | f3/2 e/ d3/2 c/ | cd z d | %8
+w: |||Ich|fra- ge kei- ne|Blu- me, ich|fra- ge kei- nen|Stern; * sie|
+ d d/ d/ e d/ c/ | c ^B z B | c ^e/d/ c3/2 ^E/ | F2 z F | B3/2 A/ B3/2 d/ | ^B c z c | %14
+w: kön- nen mir al- le nicht|sa- gen, was|ich er- * führ' so|gern. Ich|bin ja auch kein|Gärt- ner, die|
+ f3/2 e/ d3/2 c/ | cd z d | d/^E/ E E/d/ d | ^B c z c/A/ | G/f/ ^e/d/ c/A/ B/G/ | F2 z2 | z4 | %21
+w: Ster- ne stehn zu|hoch; * mein|Bäch- * lein will * ich|fra- gen, ob *|mich * mein * Herz * be- *|log.||
+ z2 z F ||[M:3/4]"^Sehr langsam"[Q:1/4=35] B3 B A B | c>A B2 z c | =d3 d (3fe d | c4 z F | %26
+w: O|Bäch- lein mei- ner|Lie- * be, wie|bist du heut' * so|stumm! Will|
+ B3 B d d | c>A B2 !>!f2 | e d/c/ A2 c>B | B2 z2 f2 |{f} e d/c/ A2 c>B | B2 z2 z2 | %32
+w: ja nur Ei- nes|wis- * sen, ein|Wört- chen _ um und _|um, ein|Wört- chen * um und _|um.|
+ z2 f2 c/ c/ d/ c/ |{B} A A z3/2 c/ c/ c/ c/ c/ | =d2 z2 z3/2 e/ | =d e =f e d e/ e/ | %36
+w: Ja, heisst das ei- ne|Wört- chen, das an- dre hei- sset:|Nein, die|bei- den Wört- chen schlie- ssen die|
+ =d =c B2 =A2 | =G2 z2 z3/2 e/ | =d e =g/=f/ e d ^f/ e/ | =d =c B2 =A2 | =G2 z2 z2 | z2 z2 z F | %42
+w: gan- ze Welt mir|ein, die|bei- den Wört- * chen schlie- ssen die|gan- ze Welt mir|ein.|O|
+ B3 B A B | c>A B2 z c | =d3 d (3fe d | c4 z F | B3 B d d | c>A B2 ^B2 | c/e/ d/c/ (B2 f3/2) e/ | %49
+w: Bäch- lein mei- ner|Lie\- * be, was|bist du wun- * der-|lich! Will's|ja nicht wei- ter|sa- * gen, sag'|Bäch- * lein, * liebt _ sie|
+ d4 ^B2 | c/e/ d/c/ (A2 c3/2) B/ | B2 z2 z2 | z6 | z6 | z6 |] %55
+w: mich? sag,|Bäch- * lein, * liebt _ sie|mich?||||
+V:2
+ Bz/(A/B)z/d/ | [Gg]2 z2 | Fz/(^E/ F)z/=e/4d/4 |!>(! (([EF-c]2!>)! [DFB])) z |!pp! z [DF] z [DF] | %5
+ z [EF] z2 | z [EF] z [EF] | z [DF] z2 | z [DF] z [D^^F] | z [D^F] z2 | %10
+ [CF] ([G,DF][A,CF]).[B,C^E] | [A,CF]2 z2 | z [DF] z [DF] | z [EF] z2 | z [EF] z [EF] | z [DF] z2 | %16
+ z [B,^E] z [B,E] | z [CF] z2 | [G,DF]2 [A,CF][B,C^E] | [A,CF] (^E/F/{A} G/F/G/A/) | %20
+!>(! (B/b/a/g/!>)!!<(! f/d/!<)!!>(!e/c/)!>)! | z4 ||[M:3/4]!pp! (D/F/B/F/ D/F/B/F/ D/F/B/F/) | %23
+ (E/F/A/F/ D/F/B/F/ D/F/B/F/) | (=D/F/B/F/ D/F/B/F/ D/F/B/F/) |!<(! z2 c4!<)! | %26
+ D/F/B/F/ D/F/B/F/ D/F/B/F/ | E/F/A/F/ D/F/B/F/!>(! F/=A/^B/A/!>)! | E/G/c/G/ E/F/A/F/ E/F/A/F/ | %29
+ D/F/B/F/ D/F/B/F/ F/=A/^B/A/ | E/G/c/G/ E/F/A/F/ E/F/A/F/ | D/F/B/F/ D/F/B/F/ D/F/B/d/ | [CFc]6- | %33
+ [CFc]2 [C=Gc]4 | [=D=G=d]2 ([DGd][EGe][=FG=f][EGe]) | %35
+"_cresc." ([=D=G=d][EGe][=FG=f][EGe][DGd][EGe]) |!p! ([=D=G=d][E=A=c] [DGB]2 [=CDFA]2) | %37
+ [B,=D=G](G[DG=d][EGe][=FG=f][EGe]) |"_cresc." ([=D=G=d][EGe][=FG=f][EGe][DGd][EGe]) | %39
+!p! ([=D=G=d][E=A=c] [DGB]2 [=CDFA]2) | ([B,=G]/=D/G/D/ B,/D/F/D/ B,/D/B/D/) | %41
+!pp! (B,/^D/B/D/ B,/D/B/D/ ^A,/C/F/C/) | (D/F/B/F/ D/F/B/F/ D/F/B/F/) | %43
+ (E/F/A/F/ D/F/B/F/ D/F/B/F/) | (=D/F/B/F/ D/F/B/F/ D/F/B/F/) |!<(! z2!<)!!>(! c4!>)! | %46
+ (D/F/B/F/ D/F/B/F/ D/F/B/F/) | (E/F/A/F/ D/F/B/F/ F/=A/^B/A/) | (E/G/c/G/ D/F/B/F/ C/E/A/E/) | %49
+ (C/D/A/D/ B,/D/B/D/ F/=A/^B/A/) | (E/G/c/G/ E/F/A/F/ E/F/A/F/) | B2 c2 e2 | [Fd]2 [=G^A]2 [Fc]2 | %53
+ [FB]2 [DFB]2 [DFB]2 | !fermata![DFB]6 |] %55
+V:3
+!p! [B,D] z [G,B,D] z | [^E,B,=D]2 z2 | [F,B,C] z [F,A,C] z | ([B,,-F,-A,]2 [B,,F,B,]) z | %4
+ B, z B, z | A, z z2 | A, z F, z | B, z z2 | B, z A, z | =A, z z2 | ^A, (^B,,C,).C, | F,,2 z2 | %12
+ B, z B, z | A, z z2 | A, z F, z | B, z z2 | G, z G, z | A, z z2 | B,,2 C,C, | F,, z z2 | %20
+ [G,B,E]2 ([B,D][F,A,E]) | z4 ||[M:3/4] [B,,F,B,]6 | [B,,F,B,]6 | [F,B,]6 | %25
+ ([F,A,]2 [^E,B,]2 [F,A,]2) | [B,,F,B,]6 | [B,,F,B,]4 D,2 | E,2 F,2 F,2 | B,,2 B,F,E,D, | E,2 F,4 | %31
+ [B,,F,B,]6 | [A,,F,A,]6- | [A,,F,A,]2 [A,,=G,A,]4 | %34
+ [B,,=G,B,]2 ([B,,G,B,][=C,G,=C][=D,G,=D][C,G,C]) | %35
+ ([B,,=G,B,][=C,G,=C][=D,G,=D][C,G,C][B,,G,B,][C,G,C]) | %36
+ ([B,,=G,B,][=C,E,=A,=C] [=D,G,B,]2 [D,F,A,]2) | %37
+ [=G,,=D,=G,](G,[B,,G,B,][=C,G,=C][D,G,=D][C,G,C]) | %38
+ ([B,,=G,B,][=C,G,=C][=D,G,=D][C,G,C][B,,G,B,][C,G,C]) | %39
+ ([B,,=G,B,][=C,E,=A,=C] [=D,G,B,]2 [D,F,A,]2) | =G,2 F,2 ^E,2 | [F,,^D,F,]4 [F,,E,F,]2 | %42
+ [B,,D,F,B,]6 | [B,,F,B,]6 | [F,B,]6 | ([F,A,]2 [^E,B,]2 [F,A,]2) | [B,,F,B,]6 | [B,,F,B,]4 D,2 | %48
+ E,2 F,2 F,2 | ^^F,2 G,2 D,2 | E,2 F,4 | D,/F,/B,/F,/ E,/F,/A,/F,/ C,/F,/A,/F,/ | %52
+ D,/F,/B,/F,/ C,/=G,/^A,/G,/ E,/F,/A,/F,/ | D,/F,/B,/F,/ D,/F,/D,/B,,/ F,,/B,,/F,,/D,,/ | %54
+ !fermata![B,,,F,,B,,]6 |] %55
+V:4
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 ||[M:3/4] x6 | x6 | B,,4 =D,2 | x6 | x6 | x6 | x6 | x6 | x2 F,2 F,,2 | x6 | x6 | x6 | %34
+ x6 | x6 | x6 | x6 | x6 | x6 | [=G,,=D,]6 | x6 | x6 | x6 | B,,4 =D,2 | x6 | x6 | x6 | x6 | x6 | %50
+ x2 F,2 F,,2 | B,,2 B,,4 | B,,2 B,,4 | B,,4 x2 | x6 |] %55
+V:5
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 ||[M:3/4] x6 | x6 | x6 | (C/F/A/F/ C/!>(!G/B/G/ C/!>)!F/A/F/) | x6 | x6 | x6 | x6 | %30
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %45
+ (C/F/A/F/ C/G/B/G/ C/F/A/F/) | x6 | x6 | x6 | x6 | x6 | D2 F4 | x6 | x6 | x6 |] %55
+

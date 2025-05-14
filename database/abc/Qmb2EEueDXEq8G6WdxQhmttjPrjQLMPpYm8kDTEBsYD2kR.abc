@@ -1,0 +1,38 @@
+X:1
+T:Minuet in G Major, BWV Anh. 114
+T:Christian Petzold
+T:from the 1725 Notebook for Anna Magdalena Bach 
+T:Public Domain (PianoXML typeset)
+T:Public Domain (PianoXML typeset)
+Z:Public Domain (PianoXML typeset)
+%%score { 1 | 2 } 3 4
+L:1/8
+Q:1/4=110
+M:3/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:3 treble nm="Violins" snm="Vlns."
+V:4 bass transpose=-12 nm="Acoustic Bass" snm="Bass"
+V:1
+!mf! d2 GABc | d2 .G2 .G2 | e2 cdef | g2 .G2 .G2 | c2 dcBA | B2 cBAG | F2 GABG | B2 A4 | d2 GABc | %9
+ d2 .G2 .G2 | e2 cdef | g2 G2 G2 | c2 dcBA | B2 cBAG | A2 BAGF | G6 ||!f! b2 gabg | a2 defd | %18
+ g2 efgd | ^c2 Bc A2 | AB^cdef | g2 f2 e2 | f2 A2 ^c2 | d6 |!mp! d2 GF G2 | e2 GF G2 | d2 c2 B2 | %27
+ AGFG A2 | DEFGAB | c2 B2 A2 |"_rit."[Q:1/4=90] Bd[Q:1/4=70] G2[Q:1/4=50] F2 |[Q:1/4=40] [B,DG]6 |] %32
+V:2
+"^G" [G,B,D]4 A,2 | B,6 |"^C" C6 |"^G" B,6 |"^Am" A,6 |"^G" G,6 |"^D" D2 B,2 G,2 | D2 D,CB,A, | %8
+"^G" B,4 A,2 | G,2 B,2 G,2 |"^C" C6 |"^G" B,2 CB,A,G, |"^Am" A,4 F,2 |"^G" G,4 B,2 | %14
+"^D" C2 D2 D,2 |"^G" G,4 G,,2 ||"^G" G,6 |"^D" F,6 |"^Em" E,2 G,2 E,2 |"^A" A,4 A,,2 | A,6 | %21
+"^G" .B,2 .D2 .^C2 |"^D" .D2 .F,2 .A,2 | D2 D,2 C2 |"^G" B,2 D2 B,2 |"^C" C2 E2 C2 | %26
+"^G" B,2 A,2 G,2 |"^D" D4 z2 | D,4 F,2 |"^C" E,2 G,2 F,2 |"^G" G,2 B,,2 D,2 | G,2 D,2 G,,2 |] %32
+V:3
+!pp! [G,B,D]6- | [G,B,D]6 | [CEG]6 | [G,B,D]6 | [A,CE]6 | [G,B,D]6 | [DFA]6 | [DFA]6 | [G,B,D]6- | %9
+ [G,B,D]6 | [CEG]6 | [G,B,D]6 | [A,CE]6 | [G,B,D]6 | [DFA]6 | [G,B,D]6 || [G,B,D]6 | [DFA]6 | %18
+ [EGB]6 | [A^ce]6- | [Ace]6 | [GBd]6 | [DFA]6- | [DFA]6 | [G,B,D]6 | [CEG]6 | [G,B,D]6 | [DFA]6- | %28
+ [DFA]6 | [CEG]6 | [G,B,D]6- | [G,B,D]6 |] %32
+V:4
+!pp! G,,4 G,,2 | G,,4 G,,2 | C,4 C,2 | G,,4 G,,2 | A,,4 A,,2 | G,,4 G,,2 | D,2 C,2 A,,2 | %7
+ D,,4 D,,2 | G,,4 G,,2 | G,,4 G,,2 | C,4 C,2 | G,,4 G,,2 | A,,4 A,,2 | G,,4 G,,2 | D,,4 D,,2 | %15
+ G,,6 || G,,4 G,,2 | D,4 D,2 | E,,4 E,,2 | A,,4 A,,2 | A,,4 A,,2 | G,,4 G,,2 | D,4 D,2 | D,4 D,2 | %24
+ G,,4 G,,2 | C,4 C,2 | G,,4 G,,2 | D,4 D,2 | D,4 D,2 | C,4 C,2 | G,,6- | G,,6 |] %32
+

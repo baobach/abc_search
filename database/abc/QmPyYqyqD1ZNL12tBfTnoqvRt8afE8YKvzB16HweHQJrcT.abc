@@ -1,0 +1,47 @@
+X:1
+T:Il cardillo
+T:Il cardillo
+T:Pietro Labriola
+T:Ernesto Del Prete
+T:Si la truove ca stace dormenno, pe’ na fata, gué, non la pigliá… No rommore non fá co’ li ppenne… gué, cardí’, tu ll’avissa scetá!? Si affacciata po’ sta a lo barcone, pe’ na rosa ll’avissa pigliá? Gué, cardí’, vi’ ca llá tu te stuone… va’ vatténne cardí’, nnaddurá!…
+T:Si la truove ca face ll’ammore, ‘sto cortiello annascùnnete ccá… ‘Nficcancillo deritto a lo core e lo sango tu mm’haje da portá… Ma si penza…vatté’ chiano chiano, zitto zitto te nce haje da azzeccá, Si afferrá po’ te vò’ co’ la mano, priesto ‘mpietto tu ll’haje da zompá…
+T:Si te vasa o t’afferra cianciósa, tanno tu ll’haje da dire accossí: “Lo patrone pe’ te non reposa… poveriello, pecché ha da morí?” T’accarezza, te vasa…ah, viato cchiù de me tu si’ certo cardí’… Si co’ tico cagnarme mm’è dato, voglio, doppo, davvero morí!
+T:by IMSLP - Scritto con MuseScore, un software libero e gratuito: http://musescore.org/it
+T:by IMSLP - Scritto con MuseScore, un software libero e gratuito: http://musescore.org/it
+C:Pietro Labriola
+Z:Ernesto Del Prete
+Z:by IMSLP - Scritto con MuseScore, un software libero e gratuito: http://musescore.org/it
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=80
+M:6/8
+K:G
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+"^Allegretto" G A |{/c} (B3/2 ^A/) B{/c} (!>!B3/2 A/ B) | (!>!e B2-) B .c .B | (A F G A B3/2 A/) | %4
+w: Sto cre\-|scen\- no no bel\- lo Car\-|dil\- lo, * quan\- ta|co\- se che l'ag\- gio a'mpa\-|
+ G2 z z G A |{/c} B ^A B e !tenuto!=f3/2 e/ | d3/2 !>!c2- c A c/ | !>!B G B !>!A F G | E2 z z B c | %9
+w: rà! Ad\- da|i\- re da chis\- soe da|chil\- lo, * l'im\- ma\-|scia\- te isso m'ha da pur\-|tà. Sien\- te|
+ (!>!d{/f} e d) A B c | (B2 G) z B c | (d{/f} !>!e d A B"^rall."[Q:3/8=55] c) | B3- B d ^d | %13
+w: ccà, bel\- lo mio, llo\- co|nnan\- te nc'è na\-|ca\- sa, na nen\- na nce|stà: * tu la|
+!p! (e"^rall." =f e B c =d) | d[Q:3/8=70] c2- c A c | !>!B G B !>!A F B | E2 z z2 z | z6 | z6 | %19
+w: vi\- da ca non è di\-|stan\- te * chel\- la|nen\- na aje da irea cer\-|cà!|||
+ z6 | z6 | z6 | z6 | z6 | z6!D.C.! |] %25
+w: ||||||
+V:2
+ z2 |!p! z (B,E GEB,) | z (B,E GEB,) | z (B,^D FDB,) | z (B,E GEB,) | z!<(! ([EG]B)!<)! z (DB) | %6
+!p! z (DE AEC) | z (B,[EG]) z (B,[^DF]) | z (B,E GEB,) | z (CD ADC) | z (B,D GDB,) | z (CD ADC) | %12
+ z (B,D GDB,) | z (B,D EDB,) | z (CE AEC) |!f! z (B,[EG]) z (B,[^DF]) | [B,EG]2 z (be'd') | %17
+ (!>!c'/b/a) z z bc' | (!>!b/a/g) z z ga | !>!Tg2 f !>!Tg2 f | f2 e be'd' | (!>!c'/b/a) z z bc' | %22
+ (!>!b/a/g) z z ga | !>!Tg2 f !>!Tg2 f | e2 z !fermata!z2 z |] %25
+V:3
+ z2 | [E,,E,]2 z z2 z | [E,,E,]2 z z2 z | [B,,,B,,]2 z z2 z | [E,,E,]2 z z2 z | %5
+ [G,,G,]2 z [^G,,^G,]2 z | [A,,A,]2 z z2 z | [B,,B,]2 z [B,,,B,,]2 z | [E,,E,]2 z z2 z | %9
+ [F,,F,]2 z z2 z | [G,,G,]2 z z2 z | [F,,F,]2 z z2 z | [G,,G,]2 z z2 z | %13
+"^rall." [^G,,,^G,,]2 z z2 z | [A,,,A,,]2 z"^a tempo" z2 z | [A,,,A,,]2 z [B,,,B,,]2 z | %16
+ [E,,E,]2 z z2 z |"^scherzando" (A,,C,E, A,E,C,) | (B,,E,G, B,G,E,) | (B,,D,F, B,F,D,) | %20
+ (E,G,B, EB,G,) | (A,,C,E, A,E,C,) | (B,,E,G, B,G,E,) | (A,,C,E, A,E,C,) | %24
+ (E,B,,G,,) !fermata!E,,2 z |] %25
+

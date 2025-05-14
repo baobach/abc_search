@@ -1,0 +1,41 @@
+X:1
+T:Herr Christ, der ein'ge Gottes-Sohn
+T:Herr Christ, der ein'ge Gottes-Sohn
+T:BMV 601
+T:Johann Sebastian Bach
+C:Johann Sebastian Bach
+%%score { ( 1 4 ) | ( 2 5 ) | 3 }
+L:1/8
+Q:1/4=50
+M:4/4
+K:A
+V:1 treble nm="Pipe Organ" snm="Org."
+V:4 treble 
+V:2 bass 
+V:5 bass 
+V:3 bass 
+V:1
+"^\n" A2 |: A>B c2 B2 A2 | G2 G2 !fermata!F2 c2 | d>c B2 c2 B2 |1 A4- A2 A2 :|2 %5
+ !fermata!A4- A2 A>B |: c2 c2 d2 d2 | e4 !fermata!B2 e2 | c2 c2 B2 A2 | G4 !fermata!F2 c2 | %10
+ d>c B2 c2 B2 |1 !fermata!A4- A2 A>B :|2 !fermata!A8 |] %13
+V:2
+ z/ A,/C/A,/ |: z/ D,/F,/D,/ A,2 z/ A,/E/D/ C>C | D/G,/B,/G,/ C/B,/C/G,/ A,/G,/A,/^E,/ F,/C/F/E/ | %3
+ D/C/ B,2 B,2 A,2 G, |1 A,/E,/F,/D,/ E,/C,/D,/B,,/ C,/A,,/C,/E,/ A,,/A,/C/A,/ :|2 z8 |: %6
+ A,,/C,/E,/C,/ F,/A,/C/A,/ B,/D,/F,/D,/ G,/B,/D/B,/ | C/E,/G,/E,/ A,/C/E/C/ F/E/F/^D/ B,E- | %8
+ E/D/C/B,/ A,2- A,G, A,/C/F/E/ | D/C/B,/A,/ G,/F,/^E, F,/C,/A,,/C,/ F,,/C/F/E/ | %10
+ D/C/B,/C/ D>D C/B,/ A,2 G, |1 z8 :|2 A,/E,/F,/D,/ E,/C,/D,/B,,/ C,/A,,/C,/E,/ A,2 |] %13
+V:3
+ z2 |: z2 z/ A,,/C,/A,,/ E,E,, z/ F,/A,/F,/ | B,B,, z/ C,/^E,/B,,/ F,F,, z/ F,/A,/F,/ | %3
+ B,B,, z/ E,/G,/E,/ A,/A,,/C,/A,,/ D,/B,,/E,/E,,/ |1 A,,4- A,,2 z2 :|2 A,,4- A,,2 z2 |: %6
+ z2 z/ F,/A,/F,/ B,B,, z/ G,/B,/G,/ | CC, z/ A,,/C,/A,,/ ^D,^D,, z/ E,/G,/E,/ | %8
+ A,A,, z/ ^D,/F,/D,/ G,/C,/^E,/C,/ F,/F,/A,/F,/ | B,B,, z/ C,/^E,/C,/ F,F,, z/ F,/A,/F,/ | %10
+ B,B,, z/ E,/G,/E,/ A,/A,,/C,/A,,/ D,/B,,/E,/E,,/ |1 A,,4- A,,2 z2 :|2 A,,8 |] %13
+V:4
+ x2 |: D2 E>F G/F/G- G/G/F- | F/F/^E/F/ E>E F/E/F/G/ A2- | A/A/B/A/ G/F/E/D/ CE F/D/E/B,/ |1 %4
+ CD/B,/ C/E/F/G/ A2 z2 :|2 CD/B,/ C/E/F/G/ A2 z2 |: z/ E/G/E/ A2- A/F/A/F/ B2- | %7
+ B/G/B/G/ cA- A/G/A/F/ GB- | B/G/E/G/ A/F/^D/F^E/C/E/ FF- | F>F ^E/^D/C/B,/ A,/C/F/G/ A2- | %10
+ A/A/B/A/ G/F/E- E>E F/D/E/B,/ |1 CD/B,/ C/E/F/G/ A/F/E/D/ C2 :|2 CD/B,/ C/E/F/G/ A/F/E/D/ C2 |] %13
+V:5
+ x2 |: x8 | x8 | x8 |1 x8 :|2 A,/E,/F,/D,/ E,/C,/D,/B,,/ C,/A,,/C,/E,/ A,/E,/C,/E,/ |: x8 | x8 | %8
+ x8 | x8 | x8 |1 A,/E,/F,/D,/ E,/C,/D,/B,,/ C,/A,,/C,/E,/ A,/E,/C,/E,/ :|2 x8 |] %13
+

@@ -1,0 +1,49 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=95
+M:4/4
+K:D
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 treble nm="Choir Pad, Clap Your Hands for Joy"
+V:4 bass 
+V:1
+ [FA]3 [FA] [=F^G][^FA][=GB][FA] | [EA]4 [EG]4 | [Gc]3 [Gc] [GB][GA][GB][Gc] | d4 z4 | %4
+w: By~Robert~Lowry * * * * *||||
+ [FA]3 [FA] [=F^G][^FA][=GB][FA] | [EA]4 [EG]4 | [Ec]3 [Ec] [EB][EA] [Ec]>[DB] | [CA]8 | %8
+w: ||||
+ [Ge]3 [Ec] [DB][CA] [EG]>[CA] | [DF]4 [FA]4 | [GB]3 [Gc] [Gd][Ge] [Bd]>[GB] | [FA]8 | %12
+w: ||||
+ [Fd]3 [Fd] [Fd][Fd][Ad][Ad] | [Gd]4 [GB]2 [GB][GB] | [FA]3 [Fd] [Fd]2 [Ec]2 | [Fd]8 | %16
+w: ||||
+ [Ge]3 [Ge] [Ge]3 [Fd] | [Ac][GB][FA][EG] [DF]>[EG] [FA]2 | [GB]3 [GB] [^GB]3 [GB] | z4 z2 e2 | %20
+w: ||||
+ [Fd]3 [Fc] [Fd]2 z2 | [Gd]3 [Gd] [Gd]2 z2 | [^Gd]2 [Gd]2 [Gd]2 [Bd]2 | [Ac]8 | .e2 .d2 z4 | %25
+w: |||||
+ .e2 .d2 z4 | [Fd][Fd][Ac][GB] [FA]>[EG] .[DF]2 | [DB][DB][^Ge][Bd] [Ac]>[EB] .[EA]2 | %28
+w: |||
+ [Fd]3 [Ad] [Gd][Fd] z2 | [Fd]3 [Ad] [Gd][Fd] z2 | [Fd]2 [Fd]2 [Gd][Gd][Ad][Ge] | %31
+w: |||
+ [Fd]2 [Ec]2 [Fd]4- | [Fd]4 z4 |] %33
+w: ||
+V:2
+ x8 | x8 | x8 | F4- [FA]4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %18
+ x8 | [^Ge][Bd][Ac][GB] [Ac]>d A=G | x8 | x8 | x8 | x8 | A-[Ac]A-[Ae] [Af]2 [Ad]2 | %25
+ A-[Ac]A-[Ae] [Af]2 [Fd]2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %33
+V:3
+ D3 D DDDD | C4 C4 | E3 E DCDA, | A,4 D4 | D3 D DDDD | C4 C4 | A,3 A, DC A,>^G, | A,8 | %8
+ A,3 A, A,A, A,>A, | A,4[K:treble] D4 | D3 ^A, B,C D>D | D8 | D3 D DDD=C | B,4 D2 DD | %14
+ D3 D[K:bass] A,2 A,2 | A,8 | A,3 A, A,3 A, | A,2 A,2 A,2[K:treble] D2 | D3 D E3 E | E2 E2 E>D C2 | %20
+ D3 D D2 D2 | B,3 B, B,2 B,2 | B,2 B,2[K:treble] E2 E2 | E8 | CEDC D2 D2 | A,EDC D2[K:bass] A,2 | %26
+ A,A,DD D2 .A,2 | G,G,B,[K:treble]E E>D .C2 | D3 D[K:bass] B,A, z2 | A,3 D B,A, z2 | %30
+ D2 D2 B,B,D[K:bass]B, | A,2 A,2 A,4- | A,4 z4 |] %33
+V:4
+ D,3 D, D,D,D,D, | A,,4 A,,4 | A,,3 A,, A,,A,,A,,A,, | D,8 | D,3 D, D,D,D,D, | A,,4 A,,4 | %6
+ A,,3 C, E,E, E,>E, | A,,8 | A,,3 A,, A,,A,, A,,>A,, | D,4 D,4 | G,3 G, G,G, G,>G, | D,8 | %12
+ B,3 B, B,B,F,F, | G,4 G,2 G,G, | A,3 A, z2 A,,2 | D,8 | A,,3 A,, A,,3 A,, | A,,2 A,,2 D,2 D,2 | %18
+ G,3 G, E,3 E, | E,2 E,2 A,2 A,2 | B,3 B, B,2 B,2 | G,3 G, G,2 G,2 | E,2 E,2 ^G,2 G,2 | A,8 | %24
+ A,G,F,E, D,2 F,2 | F,G,F,E, D,2 D,2 | D,D,D,D, .D,4 | z2 E,E, .A,4 | D,3 F, G,D, z2 | %29
+ D,3 F, G,D, z2 | B,2 B,2 G,G,F,G, | z2 A,,2 D,4- | D,4 z4 |] %33
+

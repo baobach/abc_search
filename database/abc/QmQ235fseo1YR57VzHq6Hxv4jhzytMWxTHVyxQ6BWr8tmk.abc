@@ -1,0 +1,46 @@
+X:1
+T:Franz Liszt, "Nuages Gris"
+T:Franz Liszt, "Nuages Gris"
+C:Franz Liszt
+%%score { 1 | ( 2 3 ) }
+L:1/8
+Q:1/4=60
+M:4/4
+K:Bb
+V:1 bass nm="Piano" snm="Pno."
+V:2 bass 
+V:3 bass 
+V:1
+"^Andante"!p!!ped! z2 (D,2 G,2 ^C2- | !tenuto!C2!ped-up!!ped! D2 B,2 G,2) | %2
+ z2!ped-up!!ped! (D,2 G,2 ^C2- | !tenuto!C2!ped-up!!ped! D2 B,2 G,2)!ped-up! | %4
+ z2!ped! (D,2 G,2 ^C2- | !tenuto!C2!ped-up!!ped! D2 B,2 G,2) | z2!ped-up!!ped! (D,2 G,2 ^C2- | %7
+ !tenuto!C2 D2!ped-up!!ped! B,2 G,2)!ped-up! | [^F,B,E]8-!ped! | [F,B,E]2!ped-up! z2 z4 | %10
+ [^F,B,D]8-!ped! | [F,B,D]2!ped-up! z2 z4 | [=F,A,^C]8-!ped! | [=F,A,C]2!ped-up! z2 z4 | %14
+ [=E,^G,=C]8-!ped! | [E,G,=C]2!ped-up! z2 z4 | [_E,G,_C]8-!ped! | [_E,G,C]2!ped-up! z2 z4 | %18
+!<(! [D,^F,B,]8-!ped!!<)! |!mp!!>(! [D,F,B,]2 z2 z4!>)! |!p! z2 (A,,2!ped-up!!ped! B,,2 ^C,2- | %21
+ C,2 D,2!ped-up!!ped! B,,4) | z2 (A,,2!ped-up!!ped! B,,2 ^C,2- | C,2 D,2!ped-up!!ped! B,,4) | %24
+ z4!ped-up!!ped![K:treble] (B4 | A4!ped-up!!ped! =E4 | ^F8!ped-up!!ped! | G4)!ped-up!!ped! z4 | %28
+ z4!ped-up!!ped! (e4 | d4!ped-up!!ped! G4 | A8!ped-up!!ped! | B4)!ped-up!!ped! z4!ped-up! | %32
+ z4!ped! [^F^f]4- | [Ff]4 [Gg]4-!ped-up! | ([Gg]4!ped! [^G^g]4 | [Aa]4 [Bb]4)!ped-up! | %36
+ z4!ped! [=B=b]4- | [Bb]4 [=c=c']4-!ped-up! | ([cc']4!ped! [^c^c']4 | [dd']4 [_e_e']4)!ped-up! | %40
+ z4!ped! [ee']4- | [ee']4 [=e=e']4-!ped-up! | ([ee']4!ped! [ff']4- | [ff']4 [^f^f']4) | %44
+ z8!ped-up! |"^rallent."!8va(! !arpeggio![^f=b^f']8!ped!!ped-up! | !arpeggio![=g=bg']8-!ped! | %47
+ [gbg']8!8va)!!ped-up! |] %48
+V:2
+ z8 | z8 | z8 | z8 | B,,,B,, B,,,B,, x8 | B,,,B,, B,,,B,, x8 | B,,,B,, B,,,B,, x8 | (4:1:2z8 z24 | %8
+"^tremolando" B,,,B,, B,,,B,, x8 | A,,,A,, A,,,A,, x8 | B,,,B,, B,,,B,, x8 | A,,,A,, A,,,A,, x8 | %12
+ B,,,B,, B,,,B,, x8 | A,,,A,, A,,,A,, x8 | B,,,B,, B,,,B,, x8 | A,,,A,, A,,,A,, x8 | %16
+ B,,,B,, B,,,B,, x8 | A,,,A,, A,,,A,, x8 | [B,,,^F,,]B,, [B,,,F,,]B,, x8 | %19
+ [B,,,^F,,]B,, [B,,,F,,]B,, x8 | z2 (A,,,2 B,,,2 ^C,,2- | C,,2 D,,2 B,,,4) | %22
+ z2 (A,,,2 B,,,2 ^C,,2- | C,,2 D,,2 B,,,4) | z2 (D,2 G,2 ^C2- | C2 D2 B,2 G,2) | z2 (D,2 G,2 ^C2- | %27
+ C2 D2 B,2 G,2) | z2 (D,2 G,2 ^C2- | C2 D2 B,2 G,2) | z2 (D,2 G,2 ^C2- | C2 D2 B,2 G,2) | %32
+ z2 ^F,2 [B,E]2 F,2 | z2 ^F,2 [B,E]2 F,2 |"_sempre legato" z2 ^F,2 [B,D]2 F,2 | %35
+ z2 ^F,2 [B,D]2 F,2 | z2 =F,2 [A,^C]2 F,2 | z2 F,2 [A,^C]2 F,2 | z2 =E,2 [^G,=C]2 E,2 | %39
+ z2 =E,2 [^G,C]2 E,2 | z2 _E,2 [=G,_C]2 E,2 | z2 E,2 [G,_C]2 E,2 | A,,2 z2 z4 | z8 | z8 | %45
+[K:treble] [A,EG=B]8 | [A,EG=B]8- | [A,EGB]8 |] %48
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | B,,4 x4 | A,,4 x4 | B,,4 x4 | %35
+ A,,4 x4 | B,,4 x4 | A,,4 x4 | B,,4 x4 | A,,4 x4 | B,,4 x4 | A,,4 x4 | x8 | x8 | x8 | %45
+[K:treble] x8 | x8 | x8 |] %48
+

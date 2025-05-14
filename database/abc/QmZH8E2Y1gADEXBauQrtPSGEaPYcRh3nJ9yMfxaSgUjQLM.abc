@@ -1,0 +1,46 @@
+X:1
+T:Jingle Bells
+T:Jingle Bells
+T:Theme and Variations
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=120
+M:2/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^Theme" BB B2 | BB B2 | Bd GA | B4 | cc cc | cB BB | BA AB | A2 d2 | BB B2 | BB B2 | Bd GA | B4 | %12
+ cc cc | cB BB | dd cA | G4 |]"^Var. I" !>![GB]/[GB]/[GB] !>![GB]2 | !>![DB]/[DB]/[DB] !>![DB]2 | %18
+ !>![GB]/[Gc]/[Gd] !>![EG]>[FA] | !>![GB]2 !>![DF]/[EG]/[FA]/[GB]/ | !>![Ac][Ac] [Ac][Ac]/[Ac]/ | %21
+ !>![Gc][GB] !>![GB][GB]/[GB]/ | !>![GB][FA] !>![DA]/[FA]/[GB] | !>![FA]2 !>![Dd]2 | %24
+ !>![GB]/[GB]/[GB] !>![GB]2 | !>![DB]/[DB]/[DB] !>![DB]2 | !>![GB]/[Gc]/[Gd] !>![EG]>[FA] | [GB]4 | %28
+ !>![Ac][Ac] !>![Ac][Ac]/[Ac]/ | !>![Gc][GB] !>![GB][GB]/[GB]/ | !>![Ad]/[Ad]/[Ad] !>![Gc][FA] | %31
+ G4 |][K:Bb][Q:1/4=80]"^Var. II" BB B2 | BB B2 | Bd GA | B4 | cc cc | cB BB | BA AB | A2 d2 | %40
+ BB B2 | BB B2 | Bd GA | B4 | cc cc | cB BB | dd cA | G4 |] %48
+[K:F#][Q:1/4=120]"^\n""^Var. 4" .[Acf]2 .[Acf]2 | .[Acf]2 .[Acf]2 | .[Acf]2 .[Acf]2 | [Acf]4 | %52
+ .[Bdf]2 .[Bdf]2 | .[Acf]2 .[Acf]2 | .[Bdg]2 .[Bdg]2 | .c2 .[cegb]2 | .[Acf]2 .[Acf]2 | %57
+ .[Acf]2 .[Acf]2 | .[Acf]2 .[Acf]2 | [Acf]4 | .[Bdf]2 .[Bdf]2 | .[fac']2 .[fac']2 | %62
+ .[cegb]2 .[cegb]2 | .f2 .[cfa]2 |] %64
+V:2
+!mp! .[B,,D,G,]2!<(! .[B,,D,G,]2 | .[D,F,A,]2 .[D,F,A,]2 | .[E,G,B,]2 .[E,G,B,]2!<)! | %3
+!f! [G,B,D]4 |!>(! .[C,E,G,]2 .[C,E,G,]2 | .[B,,D,G,]2 .[B,,D,G,]2!>)! | %6
+!mp! .[C,E,A,]2 .[C,E,A,]2 |!mf! .D,2!>(! .[D,F,A,C]2 | .[B,,D,G,]2 .[B,,D,G,]2 | %9
+ .[B,,D,G,]2 .[B,,D,G,]2 | .[B,,D,G,]2 .[B,,D,G,]2!>)! |!p! [B,,D,G,]4 | %12
+"_cresc." .[C,E,G,]2 .[C,E,G,]2 | .[G,B,D]2 .[G,B,D]2 | .[D,F,A,C]2 .[D,F,A,C]2 | %15
+ .G,2!f! .[D,G,B,]2 |]!f! .[B,,D,G,]2!>(! .[B,,D,G,]2 | .[B,,D,G,]2 .[B,,D,G,]2 | %18
+ .[B,,D,G,]2 .[B,,D,G,]2!>)! |!mf! [B,,D,G,]4 | .[C,E,G,]2 .[C,E,G,]2 | .[B,,D,G,]2 .[B,,D,G,]2 | %22
+ .[C,E,A,]2 .[C,E,A,]2 | .D,2 .[D,F,A,C]2 | .[B,,D,G,]2 .[B,,D,G,]2 | .[B,,D,G,]2 .[B,,D,G,]2 | %26
+ .[B,,D,G,]2 .[B,,D,G,]2 | [B,,D,G,]4 | .[C,E,G,]2 .[C,E,G,]2 | .[G,B,D]2 .[G,B,D]2 | %30
+ .[D,F,A,C]2 .[D,F,A,C]2 | .G,2 .[D,G,B,]2 |][K:Bb] [B,,D,G,]2 [B,,D,G,]2 | [B,,D,G,]2 [B,,D,G,]2 | %34
+ [B,,D,G,]2 [B,,D,G,]2 |"" [C,=E,G,]4 | [C,F,_A,]2 [C,F,A,]2 | [D,^F,A,]2 [D,F,A,]2 | %38
+ [C,E,G,A,]2 [C,E,G,A,]2 | [E,G,A,C]2 [D,^F,A,C]2 | [B,,D,G,]2 [B,,D,G,]2 | [B,,D,G,]2 [B,,D,G,]2 | %42
+ [B,,D,G,]2 [B,,D,G,]2 | [B,,D,G,]4 | [C,E,G,]2 [C,E,G,]2 | [E,G,B,^C]2 .[E,G,B,]2 | %46
+ [D,G,B,D]2 [D,^F,A,D]2 | [G,B,D]2 [D,G,B,D]2 |][K:F#] [F,A,]/[F,A,]/[F,A,] [F,A,]2 | %49
+ [C,A,]/[C,A,]/[C,A,] [C,A,]2 | [F,A,][F,C] [D,F,]>[E,G,] | [F,A,]4 | %52
+ [G,B,][G,B,] [G,B,][G,B,]/[G,B,]/ | [F,B,][F,A,] [F,A,][F,A,]/[F,A,]/ | %54
+ [F,A,][E,G,] [C,G,]/[E,G,]/[F,A,] | [E,G,]2 [C,C]2 | [F,A,]/[F,A,]/[F,A,] [F,A,]2 | %57
+ [C,A,]/[C,A,]/[C,A,] [C,A,]2 | [F,A,]/[F,B,]/[F,C] [D,F,]>[E,G,] | [F,A,]4 | %60
+ [G,B,][G,B,] [G,B,][G,B,]/[G,B,]/ | [F,B,][F,A,] [F,A,][F,A,]/[F,A,]/ | %62
+ [G,C]/[G,C]/[G,C] [F,B,][E,G,] | F,4 |] %64
+

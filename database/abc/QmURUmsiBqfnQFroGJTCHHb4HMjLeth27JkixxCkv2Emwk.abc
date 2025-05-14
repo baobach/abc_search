@@ -1,0 +1,51 @@
+X:1
+T:Examples of polytonic progressions
+T:Bach's Ellipsis
+T:"Ellipsis" or "elliptic progression" (in music theory) is a phenomenon similar to an interrupted cadence, when the expected functional resolution of a chord is skipped, and the first chord is connected to an unexpected chord, often dissonant and belonging to a different key. Rimsky-Korsakov and Tchaikovsky use the term "false progression". And Georgy Catoire introduced the term "ellipsis", which is firmly entrenched in the Russian-language literature on music theory. In elliptical progression may enter different types of chords (triads, seventh chords, ninth chords...). In this collection shows examples of connections of dominant seventh chords. 
+%%score { ( 1 4 5 ) | ( 2 3 6 ) }
+L:1/8
+Q:1/4=80
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:5 treble 
+V:2 bass 
+V:3 bass 
+V:6 bass 
+V:1
+"^Bach, BWV 846, Prelude C major, mm. 31-32" z G,/B,/ F/G,/B,/F/ z G,/B,/ F/"""_C:"G,/B,/F/ | %1
+ z"""_F:" G,/_B,/ E/G,/B,/E/ z G,/B,/ E/G,/B,/!breath!E/ |] %2
+[K:Gb][M:3/2]"^Bach, BWV 853, Prelude e♭ minor, mm. 36-37\n" x3 B{A} G4"""_e♭:" FE F2 | %3
+"""_a♭:" E4- E2- E/F/=G/A/ B2- B/_F/E/!breath!D/ |] %4
+[K:Bb][M:4/4]"^Bach, BWV 866, Prelude B♭ major""^m. 11" x2""[Q:1/4=35]"_E♭:" [_ABdf]>[ABdf]"""_c:" [G=Bdf-]2[Q:1/4=80] f/4g/4_a/4g/4f/4e/4d/4!breath!e/4 |] %5
+"^Ibid. mm. 15-16" x x[Q:1/4=35] [F_ABd]>[FABd] [EGBd]2 [GB_d]>"""_F:"[GBc] | %6
+"""_B♭:" [F=Ac]2[Q:1/2=80] x2 x4 |] %7
+"^Ibid. mm. 17-18" x4[Q:1/4=35] !arpeggio![FBc]2"""_B♭:" [FAc]2 |"""_E♭:" [DFB]2[Q:1/4=80] x2 x4 |] %9
+[K:F][M:3/8]"^Bach, BWV 540, Toccata in F major, mm. 423-425 (This progression occurs in Toccata three times in different keys.\nSee also mm. 203-204 and 317-318)\n"[Q:1/4=80] z F"""_F:"E | %10
+"""_G♭:" [_DF]2 z |"" z/ _G/B/G/_d/B/ |] %12
+[K:Bb][M:4/4]"^Bach, BWV 542, Fantasia in g minor, mm. 43-44" x4[Q:1/4=35] G/4^F/4=E/4F/4G/4c/4A/ G"""""_g:"^F/>""G/ | %13
+"""_c:" G2[Q:1/2=500] x2 x4 |] %14
+V:2
+ z/ D,3/2- D,2 z/ D,3/2- D,2 | z/ C,3/2- C,2 z/ C,3/2- C,2 |] %2
+[K:Gb][M:3/2] x2 x E, [E,G,]4 [F,A,]4 | %3
+ !arpeggio![E,=G,B,_D]4 !arpeggio![E,G,B,D]4 !arpeggio![E,G,B,D]4 |] %4
+[K:Bb][M:4/4] x x [D,F,B,D]>[D,F,B,D] [=B,,D,G,]2 z2 |] %5
+ x2 [B,,D,F,B,]>[B,,D,F,B,] [E,G,B,]2 [=E,G,B,]>[E,G,C] | [F,A,C_E]2 x2 x4 |] %7
+ x4 !arpeggio![F,,C,E,F,]2 F,""G, | _A,2 x2 x4 |][K:F][M:3/8] z C,C,, | x/ _D,/F,/D,/_A,/F,/ | %11
+ _D2 z |][K:Bb][M:4/4] x4 B,A,/G,/ A,/B,/C | =B,_B, x2 x4 |] %14
+V:3
+ G,,4 G,,4 | C,,4 C,,4 |][K:Gb][M:3/2] x2 x E,, B,,4 B,,4 | x12 |][K:Bb][M:4/4] x8 |] x8 | x8 |] %7
+ x6 [F,,C,E,]2 | [B,,D,F,]2 x2 x4 |][K:F][M:3/8] x G,G, | [F,_A,]2 x | x3 |][K:Bb][M:4/4] x4 D,,4 | %13
+ G,,2 x2 x4 |] %14
+V:4
+ x8 | x8 |][K:Gb][M:3/2] x2 x G E4 =D4 | x12 |][K:Bb][M:4/4] x8 |] x8 | x8 |] %7
+ x4 !arpeggio!C=D _E2 | D2 x2 x4 |][K:F][M:3/8] z CC | x3 | x3 |][K:Bb][M:4/4] x4 D2 D>_E | %13
+ [DF][^C=E] x2 x4 |] %14
+V:5
+ x8 | x8 |][K:Gb][M:3/2] x4 x x3 x4 | x12 |][K:Bb][M:4/4] x8 |] x8 | x8 |] x8 | x8 |] %9
+[K:F][M:3/8] x C_B, | x3 | x3 |][K:Bb][M:4/4] x8 | x8 |] %14
+V:6
+ x8 | x8 |][K:Gb][M:3/2] x12 | x12 |][K:Bb][M:4/4] x8 |] x8 | x8 |] x8 | x8 |][K:F][M:3/8] C,2 x | %10
+ _C,2 z | _B,,2 z |][K:Bb][M:4/4] x8 | x8 |] %14
+

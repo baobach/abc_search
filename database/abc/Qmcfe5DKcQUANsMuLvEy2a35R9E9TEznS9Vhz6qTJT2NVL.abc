@@ -1,0 +1,38 @@
+X:1
+T:Rimsky-Korsakov Harmonic Exercises,
+T:Altered Chords (4)
+T:Rimsky-Korsakov Harmonic Exercises, Altered Chords (4) 
+T:"Practical Manual of Harmony" (1885)
+T:Examples by Rimsky-Korsakov
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=80
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"""^Augmented sixth chords""^These chords arise from the chromatic alteration of the chords of the second\nor fourth degree of the scale in a minor or harmonic major. The resolution for\nthem is the dominant triad or tonic six-four chord. Tones that make up an\naugmented sixth should not be doubled.\n""_c:" (F4"" ^F4 | %1
+"" G4) x4 |]"" (F4"" ^F4 |"" G4) x4 |]"" (F4"" ^F4 |"" G4) x4 |]"""_c:" (F4"" ^F4 |"" G4) x4 |] %8
+"" (F4"" ^F4 |"" G4) x4 |][K:C]"""_C:" (F4"" ^F4 |"" G4) x4 |] %12
+[M:3/1]""[Q:1/2=90]"^Sometimes these chords are used as auxiliary chords.""_C:" (G8"" ^F8"" !breath!G8) |] %13
+"" (G8"" ^F8"" !breath!G8) |][K:Eb]"""_c:" (G8"" ^F8"" !breath!G8) |] %15
+[K:C][M:4/4]""[Q:1/4=80]"^Plagal cadences in a major." (D4"" ^D4 |"" E4) x4 |]"" (D4"" ^D4 | %18
+"" E4) x4 |]"" (D4"" ^D4 |"" E4) x4 |]"" (D4"" ^D4 |"" E4) x4 |] %23
+V:2
+ (C4- C4 | D4) x4 |] (C4- C4 | E4) x4 |] (E4- E4 | E4) x4 |] (D4- D4 | D4) x4 |] (D4- D4 | %9
+ E4) x4 |][K:C] (D4 ^D4 | E4) x4 |][M:3/1] (D8 C8 D8) |] (E8 ^D8 E8) |][K:Eb] (E8 D8 E8) |] %15
+[K:C][M:4/4] (C4- C4 | C4) x4 |] (C4- C4 | C4) x4 |] (B,4- B,4 | C4) x4 |] (B,4- B,4 | C4) x4 |] %23
+V:3
+"^(similarly in harmonic major)" (C4- C4 | =B,4) x4 |] (C4- C4 | C4) x4 |] (C4- C4 | C4) x4 |] %6
+ (C4- C4 | =B,4) x4 |] (C4- C4 | C4) x4 |][K:C] (C4- C4 | C4) x4 |][M:3/1] (B,8 C8 B,8) |] %13
+ (C8 C8 C8) |][K:Eb] (C8 C8 C8) |][K:C][M:4/4] (A,4- A,4 | G,4) x4 |] (_A,4- A,4 | G,4) x4 |] %19
+ (A,4- A,4 | G,4) x4 |] (_A,4- A,4 | G,4) x4 |] %23
+V:4
+ A,4- A,4 | G,4 x4 |] A,4- A,4 | G,4 x4 |] A,4- A,4 | G,4 x4 |] A,4- A,4 | G,4 x4 |] A,4- A,4 | %9
+ G,4 x4 |][K:C] _A,4- A,4 | G,4 x4 |][M:3/1] (G,8 _A,8 G,8) |] (G,8 _A,8 G,8) |] %14
+[K:Eb] (G,8 A,8 G,8) |][K:C][M:4/4] (F,4- F,4 | C,4) x4 |] (F,4- F,4 | C,4) x4 |] (F,4- F,4 | %20
+ C,4) x4 |] (F,4- F,4 | C,4) x4 |] %23
+

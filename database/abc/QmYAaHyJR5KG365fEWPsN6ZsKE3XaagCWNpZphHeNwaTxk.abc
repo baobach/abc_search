@@ -1,0 +1,44 @@
+X:1
+T:Frédéric CHOPIN
+T:Prélude op 28 n 4
+T:F# Minor
+C:Frédéric CHOPIN
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=52
+M:2/2
+K:A
+V:1 treble nm="Piano" snm="Pia."
+V:2 bass 
+V:1
+!mf! z6 C>c | c6 d2 | c6 d2 | c6 d2 | c6 =c2 | B6 ^c2 | B6 c2 | B6 c>B | B6 !>!^A2- | A2 Bc edFB | %10
+ G6 B2 | G6{/c} B2 | AG!>!DC ^EG (3=edc | c6 d2 | c6 d2 | c6 d2 | c>^B !invertedturn!B2 a2 g>f | %17
+ f^ed'e efac | =ed (3fFB G3 B | G6{/c} B2 | G6- G>F | F6 G2 | F6 G2 | F4 z4 | %24
+[K:bass] [F,G,^CF]4 [^E,G,C^E]4 | [F,A,CF]8 |] z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %36
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %48
+V:2
+!ped! z8!ped-up! |!ped! [A,CF][A,CF][A,CF][A,CF] [A,CF][A,CF][A,CF][A,CF]!ped-up! | %2
+!ped! [G,B,F][G,B,F][G,B,F][G,B,F] [G,B,=F][G,B,F][G,B,F][G,B,F]!ped-up! | %3
+!ped! [=G,B,=F][G,B,F][G,B,F][G,B,F] [G,B,E][G,B,E][G,^A,E][G,A,E]!ped-up! | %4
+!ped! [F,^A,E][F,A,E][F,A,E][F,A,E] [F,=A,E][F,A,E][F,A,^D][F,A,D]!ped-up! | %5
+!ped! [F,A,=D][F,A,D][F,A,D][F,A,D] [F,G,D][F,G,D][F,G,D][F,G,D]!ped-up! | %6
+!ped! [F,G,D][F,G,D][F,G,D][F,G,D] [^E,G,D][E,G,D][E,G,D][E,G,D]!ped-up! | %7
+!ped! [=E,G,D][E,G,D][E,G,D][E,G,D] [E,G,D][E,G,D][E,G,D][E,G,D]!ped-up! | %8
+!ped! [E,=G,D][E,G,D][E,G,D][E,G,D] [E,G,C][E,G,C][E,G,C][E,G,C]!ped-up! | %9
+!ped! [D,F,C][D,F,C][D,F,B,][D,F,B,] [D,F,B,][D,F,B,][D,F,B,][D,F,B,]!ped-up! | %10
+!ped! [C,F,B,][C,F,B,][C,^E,B,][C,E,B,] [D,F,B,][D,F,B,][D,F,B,][D,F,B,]!ped-up! | %11
+!ped! [C,^E,B,][C,E,B,][C,E,B,][C,E,B,] [D,F,B,][D,F,B,][D,F,B,][D,F,B,]!ped-up! | %12
+!ped! [C,^E,B,]2 z2 z4!ped-up! |!ped! [A,CF][A,CF][A,CF][A,CF] [A,CF][A,CF][A,CF][A,CF]!ped-up! | %14
+!ped! [G,B,F][G,B,F][G,B,F][G,B,F] [G,B,=F][G,B,F][G,B,F][G,B,F]!ped-up! | %15
+!ped! [=G,_B,=F][G,B,F][G,B,E][G,B,E] [F,^A,E][F,A,E][F,A,E][F,A,E]!ped-up! | %16
+!ped! [F,=A,E][F,A,E][F,A,^D][F,A,D] [^D,F,^B,][D,F,B,][=D,F,=B,][D,F,B,]!ped-up! | %17
+!ped! [C,,C,][B,DGB][B,DGB][B,DGB] [A,C^EG][A,CF][A,CF][A,CF]!ped-up! | %18
+!ped! [B,DF][B,DF]B,,[F,G,D] [C,F,C][C,F,C][D,F,B,][D,F,B,]!ped-up! | %19
+!ped! [C,F,C][C,F,C][C,F,C][C,F,C] [D,F,B,][D,F,B,][D,F,B,][D,F,B,]!ped-up! | %20
+!ped! [C,F,C][C,F,C][C,F,C][C,F,C] [C,^E,C][C,E,C][C,E,B,][C,E,B,]!ped-up! | %21
+!ped! [D,A,][D,A,][D,A,][D,A,] [D,=C][D,C][D,F,B,][D,F,B,]!ped-up! | %22
+!ped! [^C,F,B,][C,F,B,][C,F,^A,][C,F,A,] [C,F,=A,][C,F,A,][C,F,A,][C,F,A,]!ped-up! | %23
+!ped! [=C,D,A,]4 z4!ped-up! |!f!!ped! [^C,,^C,]4 [C,,G,,C,]4!ped-up! |!ped! [F,,,F,,]8!ped-up! |] %26
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %45
+ z8 | z8 | z8 |] %48
+

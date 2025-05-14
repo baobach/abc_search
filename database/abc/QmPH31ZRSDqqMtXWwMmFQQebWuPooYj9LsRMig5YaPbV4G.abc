@@ -1,0 +1,48 @@
+X:1
+T:Title
+%%score 1 2 3 4
+L:1/8
+Q:1/4=76
+M:4/4
+K:Eb
+V:1 treble nm="Church Organ, Soprano"
+V:2 treble nm="French Horn, Alto"
+V:3 bass nm="Trombone, Tenor"
+V:4 bass nm="Tuba, Bass"
+V:1
+ B2 e2 G2 B2 | E2 A2 G2 F2 | G2 c2 F2 B2 | EFG=A B4 | c3 A B3 G | A2 F2 G2 E2 | %6
+w: By~"Calcutta" * * *||||||
+ e3 d/c/ B/A/G/A/ BA | G2 F2 E4 | BGAB c>c c2 | AFGA B>B B2 | EAGF Ec B2 | Bedc Bg f2 | %12
+w: ||||||
+ ed/c/ dB cB/A/ BG | AFGE B4 | B8 | B8 | e2 B2 c2 A2 | G2 F2 E4 | B2 e2 G2 B2 | E2 A2 GE F2 | %20
+w: ||||||||
+ G2 c2 F2 B2 | EFG=A B4 | cB/A/ B2 B3 A/G/ | A2 F2 G2 E2 | e3 d/c/ B/A/G/A/ BA | G2 F2 E4 | z8 | %27
+w: |||||||
+ BGAB cB B2 | AFGA B2 .B2 | EAGF Ec .B2 | Bedc Bg f2 | ed/c/ dB cB/A/ BG | AFGE B2 BB | %33
+w: ||||||
+ eBAF B2 BB | eBAF E2 z2 | e2 B2 c2 A2 | G4 F4 | E4 z4 | z8 |] %39
+w: ||||||
+V:2
+ E2 GF EDCB, | C2 F2 E2 D2 | E2 E2 E2 GF | E2 E2 D4 | E2 E2 D2 E2 | C2 D2 E2 E2 | %6
+ E2 F2 G/F/E/F/ GF | E2 D2 E4 | DEFG A>A AF | CDEF G>G FD | E3 E E2 EG | FE F2 B4 | z8 | %13
+ z4 z2 AG/F/ | GA/G/ FG F2 EF | GA/G/ FG F4 | E2 G2 E2 AF | FEED E4 | G,2 C2 E2 D2 | %19
+ E2 A,2 B,2 B,2 | G2 E2 EC D2 | CDEF B,4 | A2 GF EDCB, | C2 D2 E2 E2 | A,F, B,2[K:treble] GEG,C | %25
+ CA, B,C/D/ E4 | z8 | DEFG AG/F/ E2 | CDEF GF E2 | E2 E2 EFGA | GA .B2 B4 | B3 B B2 B2 | D2 EG B4 | %33
+ G2 AB B2 D2 | E2 F2 E2 z2 | E2 G2 AG F2 | B,2 D2- D/ z/ B, C2 | E4 z4 | z8 |] %39
+V:3
+ G,2 C2 B,2 G,2 | A,2 C2 B,2 B,2 | B,2 A,G, F,2 E,2 | G,2 C2 F,4 | A,2 C2 G,2 B,2 | %5
+ F,2 F,B, B,2 G,2 | A,2 A,B, E3 C | B,=A,B,_A, G,4 | z8 | z8 | G,CB,A, G,F,G,B, | DGFE DC D2 | z8 | %13
+ z8 | E3 E D2 CD | E3 E D4 | B,2 ED C2[K:bass] E2 | B,2 B,A, G,4 | z8 | B,2 E2 G,2 B,2 | %20
+ E,2 A,2 G,E, F,2 | G,2 C2 F,2 B,2 | E,F,G,=A, B,4 | CB,/A,/ B,2 B,3 A,/G,/ | A,2 F,2 G,2 E,2 | %25
+ E2 DC B,/A,/[K:bass]G,/A,/ B,A, | G,2 F,2 E,4 | z4 B,G,A,B, | CB, B,2 A,F,G,A, | %29
+ B,2 .B,2 E,A,G,F, | E,C .B,2 B,[K:treble]EDC | B,G F2 ED/C/ D[K:bass]B, | CB,/A,/ B,G, A,F,G,E, | %33
+ B,2 B,B, EB,A,F, | G,2 B,B, EB,A,F, | E,2 z2 z4 | E2 B,2 C2 A,2 | G,4 F,4 | E,8 |] %39
+V:4
+ E,2 C,2 G,2 E,2 | A,3 G,/F,/ B,2 B,,2 | E,2 A,,2 B,,2 G,,2 | C,2 C,2 B,,4 | A,3 F, G,3 E, | %5
+ F,2 B,,2 E,2 E,D, | C,2 D,2 E,3 A, | B,2 B,,2 E,4 | z8 | z8 | E,3 E, E,2 E,2 | B,,2 B,,2 B,4 | %12
+ z8 | z4 z2 B,B, | EB,G,E, B,2 B,B, | EB,G,E, B,,4 | G,2 E,2 A,2 F,2 | B,2 B,,2 E,4 | z8 | %19
+ G,,2 C,2 E,2 D,2 | E,2 A,,2 B,,2 B,,2 | G,2 E,2 E,C, D,2 | C,D,E,F, B,,4 | A,2 G,F, E,D,C,B,, | %24
+ C,2 D,2 E,2 E,2 | A,,F,, B,,2 G,E,G,,C, | C,A,, B,,C,/D,/ E,4 | z4 D,E,F,G, | %28
+ A,G,/F,/ E,2 C,D,E,F, | G,F, .E,2 E,2 E,2 | E,F,G,A, G,A, .B,2 | B,4 B,3 B, | C2 B,2 D,2 F,G, | %33
+ B,4 G,2 A,B, | B,2 D,2 E,2 F,2 | G,2 z2 z4 | E,2 G,2 A,G, F,2 | B,,2 E,2- E,/ z/ C, D,2 | E,8 |] %39
+

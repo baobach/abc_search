@@ -1,0 +1,22 @@
+X:1
+T:i ~ bIII ~ IV7 ~ iv13
+T:Folk Song
+T:Anonymous
+T:Example usage of 13th harmonic in a chord progression 
+C:abu
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=80
+M:4/4
+K:Bb
+V:1 treble nm="Warm Synthesizer" snm="Synth."
+V:2 bass 
+V:1
+|: B4 d2 cB | c4 d2 BA |"^Neutral 2nd" A4 c2 BA | B4 cA G2 | G4 B2 AG | A4 BA G2 :| z8 | B4 d2 cB | %8
+ c4 d2 BA |"^Major 2nd" A4 c2 BA | B4 cA G2 | G4 B2 AG | A4 BA G2 | B4 d2 cB | c4 d2 B^G | %15
+"^Minor 2nd" ^G4 c2 BG | B4 c^G =G2 | G4 B2 ^G=G | ^G4 BG =G2 | z8 | z8 |] %21
+V:2
+|: [G,,D,B,]8 | [C,=E,G,]8 | [C,E,A,]8 | [D,F,B,]8 | [C,=E,G,]8 | [C,E,A,]8 :| [G,,G,D]8 | %7
+ [G,,D,B,]8 | [C,=E,G,]8 | [C,E,A,]8 | [D,F,B,]8 | [C,=E,G,]8 | [C,E,A,]8 | [G,,D,B,]8 | %14
+ [C,=E,G,]8 | [C,E,^G,]8 | [D,F,B,]8 | [C,=E,G,]8 | [C,E,^G,]8 | [G,,G,D]8 | z8 |] %21
+

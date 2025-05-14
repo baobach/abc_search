@@ -1,0 +1,40 @@
+X:1
+T:La Agonía del Crepúsculo
+T:La Agonía del Crepúsculo
+T:Alejandro Vega Matus
+C:Alejandro Vega Matus
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=70
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+!pp! [Af]4 [Fd]4 | [Fc]4 [A,F]4 | [DB]4 [EG]4 | [EA]4 [^CFG]4 |"_rit" [A,DF]2 E2 D2 ^C2 | %5
+"_a tempo" D z2 z2!pp! [Aa][dd'][^c^c'] |: [Bb]4- [Bb][Ff][Ee][^c^c'] | [dd'-]4 d'def | %8
+ [Gg]4- [Gg][Ee][Aa][Aa] | [Aa]4- [Aa][Aa][dd'][^c^c'] | [Bb]4- [Bb][Gg][Ee][^c^c'] | %11
+ [dd']4- [dd']def | [Gg]4- [Gg][Ee][Aa][Aa] | [DFAd]4- [DFAd]def | %14
+ [ce] z [ce]2- [ce] z/!p! [Bd]/"^rit" [df]>[Bd] | [ce] z [ce]2- [ce] z/ [Bd]/ [df]>[Bd] | %16
+ [Ec] z [Ec]2- [Ec]!fermata![B,G]!fermata![CA][DB] | [CA]4- [CA]FG^G | A-[^CEG][CEG][CEG] AEFG | %19
+ F[A,D][A,DF-][A,D] [EF] z/ [EFc]/ !fermata![Dd]>[B,B] | %20
+ [A,A]DEF !fermata![=B,DF]2 !fermata![^CE]2 |1 D4- D[Aa][dd'][^c^c'] :|2 D4- DDEF |: G4- GEFG | %24
+ [DF]4- [DF]DE[DF] | E4- EFEA, |1 D4- DDEF :|2 D4 [_E_e]4 || [Dd]4 [^C^c]4 | [Dd]4 [B,B]4 | %30
+ [Fd]4 B,4 | D2 z2!ppp! [A^ca]2 z2 | [dfd']2 z2 !fermata!D4 |] %33
+V:2
+ D4 B,4 | A,4 D,4 | G,4 C,4 | [^C,B,]4 [A,,D,]4 | D,2 [G,,B,]2 [A,,F,]2 [A,,,E,G,]2 | %5
+ [D,,D,F,A,][F,A,D][G,B,D][G,B,D] [G,B,D] z z2 |: [D,,D,][G,^CE][G,EG][G,EG] [G,EG] z z2 | %7
+ [D,,D,][F,A,D][F,A,D][F,A,D] [G,B,D] z z2 | D,[G,B,^CE][G,B,CE][G,B,CE] [G,B,CE] z z2 | %9
+ [D,,D,][F,A,D][F,A,D][F,A,D] [F,A,D] z z2 | D,[G,B,^CE][G,B,CE][G,B,CE] [G,B,CE] z z2 | %11
+ [D,,D,][F,A,D][F,A,D][F,A,D] [F,A,D] z z2 | D,[G,B,^CE][G,B,CE][G,B,CE] [G,B,CE] z z2 | %13
+ D,[F,B,D][F,B,D][F,B,D] [F,B,D] z z2 | [C,,C,][G,CE][G,CE][G,CE] [G,CE] z z2 | %15
+ [C,,C,][G,CE][G,CE][G,CE] [G,CE]4 | C,[E,G,C][E,G,C][E,G,C] [C,E,B,] z z2 | %17
+ F,,[C,F,A,][C,F,A,][C,F,A,] [C,F,A,]F,G,^G, | [^C,,^C,A,]2 z2 [A,,,A,,A,]E,F,G, | %19
+ [D,,D,F,]2 F,2 [G,,D,E,F,G,B,]2 z/ F,/ z | [A,,D,F,]D,E,F, ^G,2 [=G,A,]2 |1 %21
+ [D,,D,][D,F,A,][D,F,A,][D,F,A,] [D,F,A,] z z2 :|2 %22
+ [D,,D,][D,F,A,][D,F,A,][D,F,A,] [D,F,A,]D,E,F, |: [D,,D,G,][B,DE][B,DE][B,DE] [B,DE] z z2 | %24
+ [D,,D,][A,DF][A,DF][A,DF] [A,DF] z z2 | [D,,D,G,][G,DE][G,DE][G,DE] [G,DE] z z2 |1 %26
+ [D,,D,][A,DF][A,DF][A,DF] [A,DF] z z2 :|2 D,4 _E,4 || D,4 ^C,4 | %29
+ [D,,D,]2 [F,A,]2 [F,,,F,,]2 [B,,D,F,]2 | [D,,D,]2 [F,A,]2 [F,,,F,,]2 [B,,D,F,]2 | %31
+ [D,,D,F,A,]2 z2 [A,,A,]2 z2 | [F,A,F]2 z2 !fermata![D,,D,]4 |] %33
+

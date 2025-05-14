@@ -1,0 +1,37 @@
+X:1
+T:Title
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=94
+M:4/4
+K:D
+V:1 treble nm="Grand Piano"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ [DB]>[B,D] [^A,C]>[B,D] [B,A]2 D>E | F2 F2 F4 | =c>E ^D>E F2 E2 | [B,D]6 z2 | %4
+w: Haldor~Lillenas * * * * * *||||
+ [DB]>[B,D] [^A,C]>[B,D] [B,A]2 D>E | F2 F2 A4 | A>c B>A [CG]2 [CE]2 | [=CA]6 [FABd]2 | %8
+w: ||||
+ B>^A B>A Bd=cB | [EA]2 E2 z z/ =c/ B>A | F>=F ^F>=F ^F[F=c][FB][FA] | G2 D2 D>B A>G | %12
+w: ||||
+ B>^A B>A Bd=cB | [EA]2 [Ge]2 e->[Ee-] e->[=ce] | [Gd]>[Gc] [Gd]>[Ge] [GB]2 [FA]2 | %15
+w: |||
+ G6[K:bass] z2 |] %16
+w: |
+V:2
+ z4 z2 [G,B,]2 | x8 | x8 | x8 | z4 z2 [G,B,]2 | x8 | [CE-]4 E2 z2 | x8 | x8 | z4 E4 | x8 | x8 | %12
+ x8 | z4 G2 G2 | x8 | z z/[K:bass] D,/ C,>D, G,,2 z2 |] %16
+V:3
+ [G,,G,]2 [G,,G,]2 z z/ G/ G,,2 | [D,A,=C]2 [D,A,C]2 [D,A,C]4 | [D,F,A,]4 z4 | %3
+ G,,>D, C,>D, G,>B, A,>G, | [G,,G,]2 [G,,G,]2 z z/ G/ G,,2 | [D,A,D]2 [D,A,D]2 [D,F,D]4 | %6
+ [A,,G,]4 E,2 G,2 | D,>F, A,>F, D,2 [D,,D,]2 | %8
+ [G,DG]>[G,CG] [G,DG]>[G,CG] [G,DG][B,DG][A,DF][G,DG] | [=C,=C]2 [C,G,C]2 [G,C]2 C2 | %10
+ [D,A,=C]>[D,^G,C] [D,A,C]>[D,G,C] [D,A,C][D,A,][D,D][D,C] | [G,B,D]2 [G,B,]2 [G,B,]4 | %12
+ [G,DG]>[G,=CG] [G,DG]>[G,CG] [G,DG][B,DG][A,DF][G,DG] | [=C,=C]2 [C,C]2 [C,C]4 | %14
+ [D,B,]>[D,^A,] [D,B,]>[D,B,] [D,D]2 [D,=C]2 | [G,B,]6 z2 |] %16
+V:4
+ z4 [G,,G,]2 z2 | x8 | =C4- [D,,D,C]4 | x8 | z4 [G,,G,]2 z2 | x8 | z4 A,,4 | x8 | x8 | z4 =C,4 | %10
+ x8 | x8 | x8 | x8 | x8 | x8 |] %16
+

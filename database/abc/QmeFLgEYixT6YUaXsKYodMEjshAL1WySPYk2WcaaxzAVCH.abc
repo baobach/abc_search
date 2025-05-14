@@ -1,0 +1,44 @@
+X:1
+T:Invention II
+T:BWV 773     (A = 415 Hz)
+T:J. S. Bach
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=72
+M:4/4
+K:Eb
+V:1 treble nm="Harp"
+V:2 bass 
+V:1
+"^Adagio" z c/=B/ c/d/e/G/ A/_B/A/F/ f/e/d/c/ | %1
+ =B/a/g/f/ e/d/c/B/ c/d/c/d/ e/4d/4e/4d/4e/4d/4c/4d/4 | e/d/c/d/ e/f/g a/4g/4a/4g/4f z f | %3
+ g/4f/4g/4f/4e z d eA- A/F/B/F/ | Ge- e/d/e/B/ c/e/a/g/ f/e/d/c/ | B/d/g/f/ e/d/c/B/ A/c/f/c/ d>d | %6
+ e/B/c/B/ g2- g/B/c/B/ a2- | a/B/e/d/ g/f/a/g/ c'/b/a/g/ f/b/a/b/ | %8
+ g/b/a/b/ e/g/f/g/ c/d/e/f/ d/e/f/g/ | e/f/g/a/ b/a/c'/b/ a/g/f/a/ d2- | %10
+ d/d/g/d/ e/c/d/B/ c2- c/g/^f/=a/ | c/B/c- c/^f/=e/d/ b>e f>g | %12
+ gG/^F/ G/=A/B/D/ E/=F/E/C/ c/B/A/G/ | ^F/e/d/c/ B/=A/G/F/ G/A/G/A/ B/4A/4B/4A/4B/4A/4G/4A/4 | %14
+ B/=A/G/A/ B/c/d e/4d/4e/4d/4c z c | d/4c/4d/4c/4B z =A BE- E/C/F/C/ | %16
+ DB- B/=A/B/F/ G/B/e/d/ c/B/A/G/ | F/=A/d/c/ B/A/G/F/ E/G/c/G/ A>A | B/F/G/F/ d2- d/F/G/F/ e2- | %19
+ e/F/B/=A/ d/c/e/d/ g/f/e/d/ c/f/e/f/ | d/c/B/=A/ d/c/e/d/ c/B/A/c/ f2- | %21
+ f/G/c/=B/ e/d/f/e/ a/g/f/e/ d/g/f/g/ | e/d/c/=B/ c/d/e/G/ A/_B/A/F/ f/e/d/c/ | %23
+ =B/a/g/f/ e/d/c/B/ c/d/c/d/ e/4d/4e/4d/4e/4d/4c/4d/4 | e/d/c/d/ e/f/g a/4g/4a/4g/4f z f | %25
+ g/4f/4g/4f/4e/d/ g/f/a/g/ g>a e/4d/4e/4d/4e/4d/4c/ | !fermata!c8 |] %27
+V:2
+ z8 | z8 | z C/=B,/ C/D/E/G,/ A,/_B,/A,/F,/ F/E/D/C/ | %3
+[K:treble] =B,/A/G/F/ E/D/C/B,/ C/D/C/D/ E/4D/4E/4D/4E/4D/4C/4D/4 | %4
+ E/D/C/D/ E/F/G A/4G/4A/4G/4F z F | G/4F/4G/4F/4E z D EA,- A,/F,/B,/F,/ | %6
+ G,E- E/D/E/B,/ C/E/A/G/ F/E/D/C/ | B,/D/G/F/ E/D/C/B,/ A,/C/F/C/ E/4D/4E/4D/4E/4D/4D/ | %8
+ E/B,/C/B,/ G2- G/B,/C/B,/ A2- | A/B,/E/D/ G/F/A/G/ c/B/A/G/ F/B/A/B/ | %10
+ G[K:bass]E,/F,/ G,/=A,/B,/D,/ E,/F,/E,/C,/ C/B,/A,/G,/ | %11
+ ^F,/E/D/C/ B,/=A,/G,/F,/ G,/A,/G,/A,/ B,/4A,/4B,/4A,/4B,/4A,/4G,/4A,/4 | %12
+ B,/=A,/G,/A,/ B,/C/D E/4D/4E/4D/4C z C | D/4C/4D/4C/4B, z =A, B,E,- E,/C,/F,/C,/ | %14
+ D,B,- B,/=A,/B,/F,/ G,/B,/E/D/ C/B,/A,/G,/ | %15
+ F,/=A,/D/C/ B,/A,/G,/F,/ E,/G,/C/G,/ B,/4A,/4B,/4A,/4B,/4A,/4A,/ | %16
+ B,/F,/G,/F,/ D2- D/F,/G,/F,/ E2- | E/F,/B,/=A,/[K:treble] D/C/E/D/ G/F/E/D/ C/F/E/F/ | %18
+ D/F/E/F/ B,/D/C/D/ G,/=A,/B,/C/ A,/B,/C/D/ | B,/C/D/E/ F/E/G/F/ E/D/C/E/[K:bass] =A,2- | %20
+ A,/D,/G,/_G,/ B,/=A,/C/B,/ E/D/C/B,/ A,/D/C/D/ | =B,/F/E/D/ C/_B,/A,/G,/ F,/E,/D,/C,/ G,G,, | %22
+ C,-C,/D,/ E,/F,/G, A,/4G,/4A,/4G,/4F, z F, | %23
+ G,/4F,/4G,/4F,/4E,- E,/F,/E,/D,/ C,/B,,/A,,/G,,/ F,,/E,,/F,,/G,,/ | %24
+ C,,C,/=B,,/ C,/D,/E,/G,,/ A,,/_B,,/A,,/F,,/ F,/E,/D,/C,/ | %25
+ =B,,/A,/G,/F,/ E,/D,/C,/B,,/ C,/G,,/A,,/F,,/ G,,G,, | !fermata!C,,8 |] %27
+

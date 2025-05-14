@@ -1,0 +1,67 @@
+X:1
+T:The Well-Tempered Clavier
+T:The Well-Tempered Clavier
+T:Prelude in C Major
+T:Johann Sebastian Bach
+T:Arr. Hayden Taylor
+C:Johann Sebastian Bach
+Z:Arr. Hayden Taylor
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/2=30
+M:2/2
+K:C
+V:1 treble nm="Flute"
+V:2 treble nm="Oboe"
+V:3 treble transpose=-2 nm="B♭ Clarinet"
+V:4 bass nm="Bassoon"
+V:1
+"^Adagio" z/!p! E3/2- E2 z/ E3/2- E2 | z2!p!!>(! D/A/d/f/!>)! z2!p!!>(! D/A/d/f/!>)! | %2
+ z/!p!"_Sempre" D/G/d/ f/ z/ z z/ D/G/d/ f/ z/ z | z/ E3/2- E2 z/ E3/2- E2 | %4
+ z2 E/A/e/a/ z2 E/A/e/a/ | z/ D/^F/A/ d/ z/ z z/ D/F/A/ d/ z/ z | z/ D3/2- D2 z/ D3/2- D2 | %7
+z2"^Listen for Oboe"x/E/G/c/z2x/E/G/c/ |z/x/E/G/ c/z/zz/x/E/G/ c/ z/ z |z2x/D/^F/c/z2x/D/F/c/ | %10
+z2x/D/G/B/z2x/D/G/B/ |z2x/E/G/^c/z2x/E/G/c/ |z2x/D/A/d/z2x/D/A/d/ |z/x/D/F/ B/z/zz/x/D/F/ B/ z/ z | %14
+z/x/C/G/ c/z/zz/x/C/G/ c/ z/ z |z/x/x/C/ F/z/zz/x/x/C/ F/ z/ z |z/x/x/C/ F/z/zz/x/x/C/ F/ z/ z | %17
+ z/!pp! D3/2- D2 z/ D3/2- D2 | z/ E3/2- E2 z/ E3/2- E2 | z/ G3/2- G2 z/ G3/2- G2 | F4 F4 | ^F4 F4 | %22
+ _A4 A4 | z/!p! F3/2- F2 z/ F3/2- F2 | z/ E3/2- E2 z/ E3/2- E2 | z/ D3/2- D2 z/ D3/2- D2 | %26
+ z/ D3/2- D2 z/!<(! D3/2- D2!<)! | z/!mp! _E3/2- E2 z/ E3/2- E2 | z/ E3/2- E2 z/ E3/2- E2 | %29
+ z/!f! D/G/c/ f/g/c'/f'/ z/ D/G/c/ f/g/c'/f'/ | z/ D/G/B/ f/g/b/f'/ z/ D/G/B/ f/g/b/f'/ | %31
+ z/!ff! C/G/_B/ e/g/_b/e'/ z/ C/G/B/ e/g/b/e'/ | z/ c'3/2- c'6 | z/ B3/2- B6 | !fermata!c8 |] %35
+V:2
+ z/!p!!>(! E/G/c/ e/!>)! z/ z z/!p!!>(! E/G/c/ e/!>)! z/ z | z/!p!"_Sempre" D3/2- D2 z/ D3/2- D2 | %2
+ z2 D/G/d/f/ z2 D/G/d/f/ | z/ E/G/c/ e/ z/ z z/ E/G/c/ e/ z/ z | z/ E3/2- E2 z/ E3/2- E2 | %5
+ z2 D/^F/A/d/ z2 D/F/A/d/ | z/ D/G/d/ g/ z/ z z/ D/G/d/ g/ z/ z | z/ C3/2- .C2 z/ C3/2- .C2 | %8
+ z/ C3/2- C2 z/ C3/2- C2 |z/"^Listen for Clarinet"x/D/^F/ c/z/zz/x/D/F/ c/ z/ z | %10
+ z/ B,/D/G/ B/ z/ z z/ B,/D/G/ B/ z/ z |z/x/E/G/ ^c/z/zz/x/E/G/ c/ z/ z | %12
+z/x/D/A/ d/z/zz/x/D/A/ d/ z/ z |z2x/D/F/B/z2x/D/F/B/ |z2x/C/G/c/z2x/C/G/c/ |z2x/x/C/F/z2x/x/C/F/ | %16
+z2x/x/C/F/z2x/x/C/F/ |!pp! G4 G4 | C4 C4 | C4 C4 | z/ G3/2- G2 z/ G3/2- G2 | %21
+ z/ C3/2- C2 z/ C3/2- C2 | z/ F3/2- F2 z/ F3/2- F2 |!pp! G4 G4 | G4 G4 | G4 G4 | G4!<(! G4!<)! | %27
+z/!mf!x/x/C/ ^F/A/c/^f/z/x/x/C/ F/A/c/f/ |z/x/x/C/ E/G/c/g/z/x/x/C/ E/G/c/g/ | G4 G4 | G4 G4 | %31
+ z/!f! c3/2- c2 z/ c3/2- c2 | z/!ff! C/F/A/ c/f/c/A/ c/A/F/A/ F/D/F/D/ | (C4 E4) | G8 |] %35
+V:3
+ z2!p!!>(! ^F/A/d/^f/!>)! z2!p!!>(! F/A/d/f/!>)! | %1
+ z/!p!"_Sempre" E/B/e/ g/ z/ z z/ E/B/e/ g/ z/ z | z/!pp! E3/2- E2 z/ E3/2- E2 | %3
+ z2!p! ^F/A/d/^f/ z2 F/A/d/f/ | z/ ^F/B/^f/ b/ z/ z z/ F/B/f/ b/ z/ z | %5
+ z/!pp! E3/2- E2 z/ E3/2- E2 | z2!p! E/A/e/a/ z2 E/A/e/a/ | z/ D/^F/A/ d/ z/ z z/ D/F/A/ d/ z/ z | %8
+ z2 D/^F/A/d/ z2 D/F/A/d/ | z/ B,/E/^G/ B,/E/G/B,/ z/ B,/E/G/ B,/E/G/B,/ | %10
+ z/ ^C/E/A/ C/E/A/C/ z/ C/E/A/ C/E/A/C/ | z/ C/^F/A/ C/F/A/C/ z/ C/F/A/ C/F/A/C/ | %12
+ z/ B,/E/B/ B,/E/B/B,/ z/ B,/E/B/ B,/E/B/B,/ | z/ _B,/E/G/ B,/E/G/B,/ z/ B,/E/G/ B,/E/G/B,/ | %14
+ z/ A,/D/A/ A,/D/A/A,/ z/ A,/D/A/ A,/D/A/A,/ | z/ G,/B,/D/ G,/B,/D/G,/ z/ G,/B,/D/ G,/B,/D/G,/ | %16
+ z/ G,/B,/D/ G,/B,/D/G,/ z/ G,/B,/D/ G,/B,/D/G,/ | z/ E,/A,/^C/ G/A,/C/G/ z/ E,/A,/C/ G/A,/C/G/ | %18
+ z/ ^F,/A,/D/ ^F/A,/D/F/ z/ F,/A,/D/ F/A,/D/F/ | z/ A,/C/D/ ^F/C/D/F/ z/ A,/C/D/ F/C/D/F/ | %20
+ z/ G,/B,/D/ ^F/B,/D/F/ z/ G,/B,/D/ F/B,/D/F/ | z/ B,/B,/D/ F/B,/D/F/ z/ B,/B,/D/ F/B,/D/F/ | %22
+ z/ G,/^C/D/ E/C/D/E/ z/ G,/C/D/ E/C/D/E/ | z/!p! G,3/2- G,2 z/ G,3/2- G,2 | %24
+ z/ ^F,3/2- F,2 z/ F,3/2- F,2 | z/ E,3/2- E,2 z/ E,3/2- E,2 | z/ E,3/2- E,2 z/!<(! E,3/2- E,2!<)! | %27
+ z/!mf! F,/B,/D/ F,/B,/D/^G/ z/ F,/B,/D/ F,/B,/D/G/ | %28
+ z/ ^F,/A,/D/ F,/A,/D/A/ z/ F,/A,/D/ F,/A,/D/A/ | z/ E3/2- E2 z/ E3/2- E2 | %30
+ z/ E3/2- E2 z/ E3/2- E2 |!f! D4 D4 |!ff! D4 D4 | z/ ^C/A/^c/ e/g/e/c/ e/c/A/c/ E/G/^F/E/ | %34
+ !fermata!^F8 |] %35
+V:4
+!pp! C4 C4 | C4 C4 | B,4 B,4 | C4 C4 | C4 C4 | C4 C4 | B,4 B,4 | B,4 B,4 | A,4 A,4 | D,4 D,4 | %10
+ G,4 G,4 | G,4 G,4 | F,4 F,4 | F,4 F,4 | E,4 E,4 | E,4 E,4 | D,4 D,4 | G,,4 G,,4 | C,4 C,4 | %19
+ C,4 C,4 | F,,4 F,,4 | ^F,,4 F,,4 | _A,,4 A,,4 | %23
+ z/!p! F,/G,/B,/ D/G,/B,/D/ z/ F,/G,/B,/ D/G,/B,/D/ | z/ E,/G,/C/ E/G,/C/E/ z/ E,/G,/C/ E/G,/C/E/ | %25
+ z/ D,/G,/C/ F/G,/C/F/ z/ D,/G,/C/ F/G,/C/F/ | %26
+ z/ D,/G,/C/ F/G,/C/F/ z/!<(! D,/G,/C/ F/G,/C/F/!<)! |!mp! G,4 G,4 | G,4 G,4 |!mf! G,,4 G,,4 | %30
+ G,,4 G,,4 |!f! C,,4 C,,4 |!ff! (C,,4 C,,4) | (C,4 C,4) | !fermata!C,8 |] %35
+

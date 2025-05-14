@@ -1,0 +1,45 @@
+X:1
+T:Choix de chansons. Tome 1
+T:Tu dis partout
+T:Tu dis partout
+T:Jean Benjamin de La Borde
+C:Jean Benjamin de La Borde
+Z:Jean Benjamin de La Borde
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=170
+M:2/2
+K:C
+V:1 treble nm="Ténor" snm="T."
+V:2 treble nm="Clavecin" snm="Cla."
+V:3 bass 
+V:4 bass 
+V:1
+"^Andante" G c2{/c} B2 | c3 A (G2 E) F |{/F} E2{/D} C2 e2{/e} d2 | g4 G3 c | (c4{BA} B2) c2 | %5
+w: Tu dis par-|tout que je * suis|sa- ge, pour un|ten- dre Ber-|ger * c'est|
+ d2 (e<c) (f3 e) |{/e} d4 e2 (g/^f/) (e/d/) | (g4 g/^f/) (e/d/) (c/B/) (A/G/) | %8
+w: un ou- * tra- *|ge, Dont je * pré- *|tends * * dont * je * pré- *|
+ (A3 B/4A/4B/4c/4) (B2{AG} A) G | G2 z :: G f2 e2 |{/e} d2 c2 (f3 e) | d2 c2{/c} B2 c2 | %13
+w: tends * * * * me * ven-|ger.|Rends toi, Ber-|gè- re dans *|le pro- chain Ver-|
+ (e2{dc} d) z g3 c | (Bd) c g f e d c | (B3 c/d/) c2 G _B |{/B} A4 A2 d2 | (c4{/c} B2) f2 | %18
+w: ger; * je te|lais- * se le choix de la fou-|gè- * * re ou du|ten- dre ga-|zon * pour|
+ (f<e) (e<d) (d<c) (c<B) | (B4 c) z (a<f) | (f<e) (e<d) (d<c) (c<B) |{/B} c z :| %22
+w: m'en * fai- * re * rai- *|son, * Pour *|m'en * fai- * re * rai- *|son.|
+V:2
+ z [ce]2 [Bd]2 | [Gc]2 [Ac]2 c2 [Bdf]2 | [ceg]4 z [ce] z [Bd] | [Gc]6 [Gc]2 | [GBd]6 z [Gc] | %5
+ z [FB] z [EGc] z [FGd] z [EGc] | [Ec]2 [DB]2 [EG]2 [D^FA]2 | [DG]4 z2 [DG]2 | [EG]4 G2 [^FAc]2 | %9
+ [GBd]2 z :: z z/ d/G/d/ z/ e/G/e/ | z/ f/G/f/ z/ g/G/g/ z/ d/G/d/ z/ e/G/e/ | %12
+ z/ f/G/f/ z/ g/G/g/ z/ f/G/f/ z/ e/G/e/ | [ce]2 [Bd]2 z/ G/C/G/ z/ G/C/G/ | z/ G/D/G/ [CG]2 z4 | %15
+ z/ G/D/G/ z/ G/D/G/ [CG]2 z2 | z F[I:staff +1] A,C[I:staff -1] z F z F | [DG]4 [DG]2 [Af]2 | %18
+ [Af][Ge] [Ge][Fd] [Fd][Ec] [Ec][DB] | [DFB]4 [EGc]2 [Af]2 | [Af][Ge] [Ge][Fd] [Fd][Ec] [Fc][DB] | %21
+ [EGc]2 :| %22
+V:3
+ z[I:staff -1] G2 F2 | E2 F2 G2[I:staff +1] G,2 | C4[I:staff -1] G2 F2 | E6 E2 | F6 E2 | %5
+ D2[I:staff +1] C2 B,2 C2 | G,2 G,,2 C2 C2 | B,4 z2 B,2 | C4[I:staff -1] D2[I:staff +1] D,2 | %9
+ G,2 z :: z B,2 C2 |[I:staff -1] D2 E2[I:staff +1] B,2 C2 |[I:staff -1] D2 E2 D2[I:staff +1] C2 | %13
+ G,2 G,,2 E,2 E,,2 | F,2 E,2 z4 | F,2 F,,2 E,2 z2 | F,4 F,2 D,2 | G,4 G,,2 D,2 | E,2 F,2 G,2 G,,2 | %19
+ C4 C,2 D,2 | E,2 F,2 G,2 G,,2 | C,2 :| %22
+V:4
+ x5 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x3 :: x5 | x8 | x8 | x8 | x8 | x8 | %16
+ x5 [A,C] x [A,C] | C4 B,2 x2 | x8 | x8 | x8 | x2 :| %22
+

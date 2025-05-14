@@ -1,0 +1,30 @@
+X:1
+T:Title
+%%score { 1 | ( 2 3 ) }
+L:1/8
+M:9/8
+K:Ab
+V:1 treble nm="Grand Piano"
+V:2 bass 
+V:3 bass 
+V:1
+ z3 z3[Q:1/4=100] [CE][_C=D][=CE] | [DF]3 [CE]3 .[CA]2 [A,CA] | B3 F3 G2 F | E3- E2 d c2 B | %4
+ [Ec]6 [CE][_C=D][=CE] | [DF]3 [CE]3 GFG |[M:3/4] G3 A3 |[M:3/8] AB[Ec] | %8
+[M:9/8] [EB]3- [EB]2 [FA] [EG]2 [=DF] |[M:5/8] E-E- E3 |[M:2/4] E e2 c |[M:9/8] e3- e2 E d2 B | %12
+ d6 d3 | [Ec]2 [Ec] [Ec]2 [Ec] ed[Ec] | B3- B2 E e2 c |[M:5/8] e-e- e3 |[M:2/4] c B2 c | %17
+[M:9/8] [Fd]6 [Ge]3 | [Ae]2 [EA] [FB]2 [Fd] [Ec]2 [DB] |[M:3/4] [CA]6 |] %20
+V:2
+ z3 z3 [A,,A,]2 [A,,A,] | [A,,A,]3 [A,,A,]3 z GA,, | [D,F,D]3 [D,A,D]3 [D,B,D]2 [D,A,D] | %3
+ [E,G,D]3- [E,G,D]2 [E,B,E] [E,A,E]2 [E,G,E] | [A,,A,]6 [A,,A,]2 [A,,A,] | z3 z3 .B,3 | %6
+[M:3/4] [E,B,D]3 [F,A,C]3 |[M:3/8] [F,A,C][E,G,E][A,,A,] | %8
+[M:9/8] [B,,G,]3- [B,,G,]2 [B,,B,] [B,,B,]2 [B,,A,] |[M:5/8] [E,G,]-[E,G,]- [E,G,]3 | %10
+[M:2/4] E, [A,CE]2 [A,E] |[M:9/8] [A,CE]3- [A,CE]2 E, [E,B,E]2 [E,G,E] | [E,B,E]6 [E,B,E]3 | %13
+ z3 z3 .C3 | [E,G,E]3- [E,G,E]2 E,[K:treble] [A,CE]2 [A,E] |[M:5/8] [A,CE]-[A,CE]- [A,CE]3 | %16
+[M:2/4] [A,E] [A,E_G]2 [A,EG] |[M:9/8][K:bass] [D,D]6 [D,B,]3 | %18
+ [C,A,]2 [C,A,] [D,A,]2 [D,A,] [E,A,]2 [E,G,] |[M:3/4] [A,,A,]6 |] %20
+V:3
+ x9 | z3 z3 .[A,,A,]3 | x9 | x9 | x9 | [A,,A,]3 [A,,A,]3 [E,D]-[E,A,D][E,B,D] |[M:3/4] x6 | %7
+[M:3/8] x3 |[M:9/8] x9 |[M:5/8] x5 |[M:2/4] x4 |[M:9/8] x9 | x9 | %13
+ [A,,A,]2 [A,,A,] [A,,A,]2 [A,,A,] [A,,E]-[A,,B,E][A,,A,] | x6[K:treble] x3 |[M:5/8] x5 | %16
+[M:2/4] x4 |[M:9/8][K:bass] x9 | x9 |[M:3/4] x6 |] %20
+

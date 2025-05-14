@@ -1,0 +1,54 @@
+X:1
+T:The Rains of Castamere
+T:The Rains of Castamere
+T:Lever or Pedal Harp
+T: Ramin Djawadi Harp Adaptation by Alessandra Münger 
+T:George R. R. Martin
+C:Ramin Djawadi, Harp Adaptation by Alessandra Münger
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=105
+M:4/4
+K:C
+V:1 treble nm="Harfe" snm="Hrf."
+V:2 bass 
+V:1
+ E2 |!p! !arpeggio![CEAc]6 A2 | !arpeggio![B,E^GB]7 B | [CEAc]4 d4 | !arpeggio![B,E^GB]6 E2 | %5
+w: |||||
+ [CEAd]4 c4 | [CEAB]4 A4 |!<(! !arpeggio![B,DGB]8 | z8!<)! |!mf! [EGce]2 e4 f2 | %10
+w: |||||
+ !arpeggio![DGBd]6 GG | [EGce]4 f4 | !arpeggio![DGBd]6 e2 |!>(! [E^GBf]4 e4 | [E^GBd]4 c4 | %15
+w: |||||
+ !arpeggio![B,E^GB]8 | z6!>)! EE |!p! !arpeggio![CEAc]6 A2 | !arpeggio![B,E^GB]6 BB | [CEAc]4 d4 | %20
+w: |||||
+ !arpeggio![B,E^GB]6 E2 | [CEAd]4 c4 | [CEAB]4 A4 |!<(! !arpeggio![B,DGB]8 | z6!<)! G2 | %25
+w: |||||
+!mf! !arpeggio![EGce]6 f2 | !arpeggio![DGBd]6 G2 | [EGce]4 f4 | !arpeggio![DGBd]6 e2 | %29
+w: ||||
+!>(! [E^GBf]4 e4 | [E^GBd]4 c4!>)! |!p! !arpeggio![A,CEA]8 | z8 | [A,CE]4 B2 c2 | %34
+w: |||||
+ !arpeggio![A,CEA]8 | [B,E^Gc]4 c2 B2 | !arpeggio![^G,B,E]8 | [A,CE]4 B2 c2 | [A,CEA]4 c4 | %39
+w: |||||
+ !arpeggio![B,E^GB]8 |!<(! z8!<)! |!mp! [F,A,CE]4 B2 c2 | [A,CFA]4 e4 | %43
+w: ||||
+!mf!!>(! !arpeggio![D^FAe]4 d4!>)! |!mp! !arpeggio![D^FA]6!p! E2 | !arpeggio![CEAc]6 A2 | %46
+w: |||
+ !arpeggio![B,E^GB]6 c2 | !arpeggio![A,CEA]8 | z8 | [F,A,CE]4 B2 c2 | [A,CFA]4 e4 | %51
+w: |||||
+!mp!!>(! !arpeggio![D^FAe]4 d4!>)! |!p! !arpeggio![D^FA]6 E2 |!pp! !arpeggio![CEAc]6 A2 | %54
+w: |||
+ [E^GBe]2 d2 B2 c2 | !arpeggio![A,CEA]8 | z8 |] %57
+w: |rit.||
+V:2
+ z2 | A,,E,CB, A,4 | E,,B,,^G,F, E,4 | A,,E,CB, A,4 | E,,B,,^G,F, E,4 | A,,E,CB, A,4 | %6
+ A,,E,CB, A,4 | G,,D,B,A, G,A,B,G, | G,,D,B,A, G,A,B,D | C,G,ED C4 | G,,D,B,A, G,4 | C,G,ED C4 | %12
+ G,,D,B,A, G,4 | E,,B,,^G,F, E,4 | E,,B,,^G,F, E,4 | E,,B,,^G,F, E,F,E,B,, | E,,B,,^G,F, E,F,G,B, | %17
+ A,,E,CB, A,4 | E,,B,,^G,F, E,4 | A,,E,CB, A,4 | E,,B,,^G,F, E,4 | A,,E,CB, A,4 | A,,E,CB, A,4 | %23
+ G,,D,B,A, G,A,B,G, | G,,D,B,A, G,A,B,D | C,G,ED C4 | G,,D,B,A, G,4 | C,G,ED C4 | G,,D,B,A, G,4 | %29
+ E,,B,,^G,F, E,4 | E,,B,,^G,F, E,4 | A,,E,CB, A,CA,E, | A,,E,CB, A,B, C2 | A,,E,CB, A,4 | %34
+ A,,E,CB, A,4 | E,,B,,^G,F, E,4 | E,,B,,^G,F, E,4 | A,,E,CB, A,4 | A,,E,CB, A,4 | %39
+ E,,B,,^G,F, E,F,E,B,, | E,,B,,^G,F, E,F,G,B, | F,,C,A,G, F,4 | F,,C,A,G, F,4 | D,A,^FE D4 | %44
+ D,A,^FE D4 | A,,E,CB, A,4 | E,,B,,^G,F, E,4 | A,,E,CB, A,CA,E, | A,,E,CB, A,B, C2 | %49
+ F,,C,A,G, F,4 | F,,C,A,G, F,4 | D,A,^FE D4 | D,A,^FE D4 | A,,E,CB, A,4 | E,,B,,^G,F, E,4 | %55
+ A,,E,CB, A,CA,E, | A,,8 |] %57
+

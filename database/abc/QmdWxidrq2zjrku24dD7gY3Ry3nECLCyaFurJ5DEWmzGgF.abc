@@ -1,0 +1,25 @@
+X:1
+T:Contredanse in G
+T:Contredanse in G
+T:K. 15e
+T:W.A. Mozart
+C:W. A. Mozart
+%%score { 1 | ( 2 3 ) }
+L:1/8
+Q:1/4=125
+M:2/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:3 bass 
+V:1
+"^Contredanse" !arpeggio![Bdg]2{g} fe/d/ | gdBG | [ce]2 [Af]2 | [Bg]dBG | a/g/a/b/ ab | %5
+ a/g/a/b/ ab | a>g fe | d2 d2 :: d/e/d/B/ d/c/B/A/ | [EA][EA] [EA]2 | c/d/c/A/ c/B/A/G/ | %11
+ [DG][DG] [DG]2 | d/c/d/e/ de | d/c/d/e/ de | d>c BA | G2 G2 :| %16
+V:2
+ G,2 D,2 | G,D,B,,G,, | G,G,G,G, | G,DB,G, | F,/E,/F,/G,/ F,G, | F,/E,/F,/G,/ F,G, | F,>E, D,^C, | %7
+ [D,,D,]2 [D,,D,]2 :: ^G,2 A,2 | CC C2 | F,2 G,2 | B,B, B,2 | B,/A,/G,/A,/ B,C | B,/A,/G,/A,/ B,C | %14
+ [G,B,]2 [F,A,]2 | G,2 G,2 :| %16
+V:3
+ x4 | x4 | x4 | x4 | D,4 | x4 | x4 | x4 :: x4 | x4 | x4 | x4 | G,4 | G,4 | D,4 | x4 :| %16
+

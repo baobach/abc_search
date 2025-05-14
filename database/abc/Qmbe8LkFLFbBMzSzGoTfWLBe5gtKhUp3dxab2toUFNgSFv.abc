@@ -1,0 +1,41 @@
+X:1
+T:The Well-Tempered Clavier Part I Praeludium XXIII
+T:BWV 868
+T:J. S. Bach
+%%score { ( 1 2 5 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+K:B
+V:1 treble nm="Harp"
+V:2 treble 
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ z/ B/A/B/ c/A/B/c/ z/ d/c/d/ e/c/d/e/ | z/ e/d/e/ f/c/d/e/ d4 | c4- c/A/G/A/ B/G/A/B/- | %3
+ B/G/F/G/ A/F/G/A/- A2 GF | ^E2 F4 E2 | F8 | z/ G/^^F/G/ A/F/G/A/ F/A/G/A/ B/G/A/B/ | %7
+ c/g/^^f/g/ a/f/g/a/ d4 | c4- c/d/c/d/ e/c/d/e/ | A/B/A/B/ c/A/B/c/ Bdgf | ^e4 z cf=e | d4 e4- | %12
+ e/c/B/c/ d/B/c/d/- d2 cB | A2 B4 A2 | z/ =A/B/A/ G/B/A/G/ F4- | F/F/G/F/ ^E/G/F/^E/- E4 | %16
+ A2 B2 c2 d2 | z/ e/f/e/ d/f/e/d/ c2 B2- | B2 A2 !fermata!B4 |] %19
+V:2
+[I:staff +1] D2 E2 F2 G2 | A4[I:staff -1] z/ A/G/A/ B/G/A/B/ | ^E2 F2- F4 | ^E2 =E2 D4- | %4
+ DCB,A, B,/A,/G,/A,/ B,/G,/A,/B,/ | A,2 B,2 C2 D2- | D2[I:staff +1] C4 B,2 | %7
+ A, G,2 ^^F,- F,/[I:staff -1]A/G/A/ B/G/A/B/ | E/B/A/G/ ^^F4 G2- | G2 ^^F2 G2 z2 | %10
+ z/ c/B/c/ =d/B/c/d/ =A4 | z/ =A/G/A/ B/F/G/A/ G2 ^AB | A2 =A2 G4- | GFED E/D/C/D/ E/C/D/E/ | %14
+ D2 E2- E2 DC | z4 B/c/B/c/ =d/B/c/d/ | F2 G2 A2 B2 | c2 B2 z/ E/F/E/ D/F/E/D/ | z2 F2 F4 |] %19
+V:3
+ B,8- | B,8- | B,/G,/F,/G,/ A,/F,/G,/A,/ D,2 G,2 | C,2 F,2 B,,/A,/G,/A,/ B,/G,/A,/B,/ | %4
+ C,/D,/B,,/C,/ D,/B,,/C,/D,/ G,,2 C,2 | %5
+ F,,/C,/B,,/C,/ D,/B,,/C,/D,/ F,,/A,,/G,,/A,,/ B,,/G,,/A,,/B,,/ | E,,2 E,2 D,4- | %7
+ D,2 C,2 B,,A,, G,,2- | G,,/G,/^^F,/G,/ A,/F,/G,/A,/ E,EDC | DCDD, G,/A,/G,/A,/ B,/G,/A,/B,/ | %10
+ C,C/B,/ =A,G, F,/G,/F,/G,/ A,/F,/G,/A,/ | B,,B,/=A,/ G,F, E,/D,/E,/D,/ C,/E,/D,/C,/ | %12
+ F,2 B,,2 E,/D/C/D/ E/C/D/E/ | F,/G,/E,/F,/ G,/E,/F,/G,/ C,2 F,2 | %14
+ B,,4- B,,/C,/D,/E,/ F,/=A,/G,/F,/ | B,8 | z/ E/F/E/ D/F/E/D/ z/ C/D/C/ B,/D/C/B,/ | A,2 B,2 F,4- | %18
+ F,/D,/C,/D,/ E,/C,/D,/E,/ D,4 |] %19
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | G,8 | F,8- | %17
+ F,/F,/E,/F,/ G,/E,/F,/G,/ A,,2 B,,2 | F,,4 !fermata!B,,4 |] %19
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %18
+ C4 B,4 |] %19
+

@@ -1,0 +1,39 @@
+X:1
+T:Title
+%%score { ( 1 3 4 ) | 2 }
+L:1/8
+M:6/8
+K:G
+V:1 treble nm="Grand Piano"
+V:3 treble 
+V:4 treble 
+V:2 bass 
+V:1
+ z3 z2[Q:1/4=90] [G,EG] | [A,^DF]2 [G,EG] [G,CE]2 [CEG] | [A,^DF]2 [G,EG] [G,CE]2 [CEG] | %3
+ e2 d A2 B | [Ed]2 [Ec] [EG]2 [EG] | [^DF]2 [EG] [CE]2 [EG] | [^DF]2 [EG] [CE]2 [Gc] | %7
+ [Fd]2 [F^d] [Fe]2 F | G3- G2 G | G2 B e2 d | [Ec]2 [=FA] [EG]2 [EG] | [=FA]2 [GB] [Ac]2 [FA] | %12
+ [EG]3- [EG]2 E | E2 E [^DF]2 [DF] | [EG]2 [EG] [EG]2 [^DA] | [DB]2 [Ec] [FB]2 [FA] | [=Fd]6 | %17
+ E3 ^D3 | [EG]3 E3 | .G3 .A3 | [D=F]6 | .A3 .e3 | [Ec]3 .[Ac]3 | .A3 .d3 | [=Fd]6 | .G3 .F3 | %26
+ [EG]3 E3 | .[^Dc]3 .[Dc]3 | ^G6 | .G3 .=f3 | d3 A3 | .G3 .e3 |[M:5/8] [Ec]-[Ec]- [Ec]3[K:bass] |] %33
+V:2
+ z3 z2 C, | C,2 C, C,2 C, | C,2 C, C,2 C, | [G,B,=F]2 [G,B,F] [G,DF]2 [G,DF] | %4
+ [C,C]2 [C,C] [C,C]2 [C,C] | [C,A,]2 [C,G,] [C,G,]2 [C,C] | [C,A,]2 [C,G,] [C,G,]2 [E,C] | %7
+ [D,C]2 [D,C] [D,C]2 [D,CD] | [G,B,D]3- [G,B,D]2 [G,B,=F] | [G,B,=F]2 [G,B,F] [G,B,F]2 [G,B,F] | %10
+ [C,C]2 [C,C] [C,C]2 [C,C] | [=F,C]2 [F,C] [F,=F]2 [F,C] | [C,C]3- [C,C]2 [C,G,C] | %13
+ [C,G,C]2 [C,G,C] [B,,B,]2 [B,,B,] | [E,B,]2 [E,B,] [C,C]2 [C,G,] | [D,G,]2 [D,G,] [D,D]2 [D,C] | %16
+ [G,B,]6 | C,E,[E,G,] C,^D,[D,F,] | C,E,E, G,,E,E, | C,E,[E,G,] A,,G,G, | D,=F,F, A,,F,F, | %21
+ D,[=F,A,][F,A,D] G,,[F,G,][F,G,B,] | A,,E,E, A,,E,[E,A,C] | D,,[D,F,][D,F,C] D,,[D,F,][D,F,C] | %24
+ G,,=F,F, G,,F,F, | C,E,[E,G,] C,^D,[D,F,] | C,E,E, G,,E,E, | ^G,,^D,[D,^G,C] ^D,,D,[D,=G,^C] | %28
+ ^G,,^D,D, G,,D,D, | C,,E,[E,A,] A,,[G,A,][G,A,^C] | D,,D,D, D,,D,D, | %31
+ G,,[=F,G,][F,G,B,] G,,[F,G,][F,G,B,] |[M:5/8] [C,C]G,,E,, C,,2 |] %33
+V:3
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %17
+ G-[G,CG][Cc] F-[F,CF][Cc] | z [G,C][G,C] C[G,C][G,C] | E-[G,CE-][CE^G] ^C-[A,C-][A,CE] | %20
+ z A,A, z A,A, | =F-[DF-][F-d] F-[B,F-][Fd] | z [A,C][A,C] z [A,C][GB] | F-[CF-][F-d] F-[CF-][Fe] | %24
+ z [G,B,][G,B,] z [G,B,][G,B,] | E-[G,CE-][CEc] ^D-[F,CD-][CDc] | z [G,C][G,C] C[G,C][G,C] | %27
+ z [^G,C][^Gc] z =G,_B | C[^G,C]C- C[G,C][G,C] | E-[A,CE-][CEc] G-[^CG-][Ge] | %30
+ F-[F,CF-][F,CF-] F-[F,CF-][F,CF] | =F-[B,F-][F-B] F-[B,F-][Fd] |[M:5/8] z G,E,[K:bass] C,2 |] %33
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z2 ^G, z3 | x6 | x6 | x6 |[M:5/8] x3[K:bass] x2 |] %33
+

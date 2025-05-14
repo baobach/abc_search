@@ -1,0 +1,44 @@
+X:1
+T:Suite II in F major, 2- Allegro
+T:Handel, George Frideric 
+T:8 Great Suites (1720) 
+T: HWV 427
+T:Oli 2020
+T:Oli 2020
+Z:Oli 2020
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=95
+M:4/4
+K:F
+V:1 treble nm="Piano"
+V:2 bass 
+V:1
+"^Allegro" c | f/c/B/c/ A/c/G/c/ A/c/B/c/ f/c/g/c/ | a/f/b/f/ c'/f/g/a/ e/d/c z g | %3
+ a/b/c'/a/ f/d/e/c/ d/e/f/A/ B/F/G/D/ | %4
+ E/F/G/E/ C/[I:staff +1]A,/B,/G,/ A,/G,/F,[I:staff -1] z/ A/G/F/ | %5
+ c/E/F/D/ C/e/d/c/ f/=B/c/A/ G/f/e/d/ | e/c/f/c/ g/c/d/e/ =B/c/d/B/ G/g/f/g/ | %7
+ A/=B/c/A/ f/d/e/c/ B/c/d/B/ G/E/F/D/ | E/C/=B,/C/ A/C/B,/C/ =B/C/B,/C/ G,/C/B,/C/ | %9
+ A,/=B,/C/A,/ F/D/E/C/ B,/C/D/B,/ G/E/F/D/ | C/D/E/C/ d/=B/c/A/ B/c/d/B/ G/B/A/c/ | %11
+ =B/G/F/G/ d/G/F/G/ f/G/F/G/ d/G/F/G/ | =B/G/F/G/ D/G/F/G/ =B,/G/F/G/ G,/G/F/G/ | %13
+ E/G/c/E/ D/c/d/=B/ c'/a/=b/g/ f/e/d/c/ | =B/F/c/E/ D/c/F/B/ [CEGc]3 :: G | %16
+ c/G/F/G/ E/G/D/G/ E/G/F/G/ c/G/d/G/ | e/c/f/c/ g/A/_B/c/ A/G/F z c | %18
+ f/c/B/c/ A/c/G/c/ A/c/B/c/ f/c/g/c/ | a/f/b/f/ c'/d/_e/f/ d/c/B z b | %20
+ c/d/_e/c/ c'/a/b/g/ ^f/g/a/f/ d/f/=e/g/ | ^f/d/c/d/ a/d/c/d/ c'/d/c/d/ a/d/c/d/ | %22
+ ^f/d/c/d/ A/d/c/d/ ^F/d/c/d/ D/d/c/d/ | B/d/g/B/ A/g/a/^f/ g/B/A/B/ G/d/c/d/ | %24
+ B/b/a/b/ g/e/f/d/ ^c/d/e/c/ A/c/=B/d/ | ^c/A/G/A/ e/A/G/A/ g/A/G/A/ e/A/G/A/ | %26
+ ^c/A/G/A/ E/A/G/A/ ^C/A/G/A/ A,/A/G/A/ | F/A/d/F/ E/d/e/^c/ d/F/E/F/ D/f/e/f/ | %28
+ B/d/c/d/ G/b/a/b/ e/f/g/e/ c/A/B/G/ | A/F/E/F/ B/F/E/F/ c/F/E/F/ C/F/E/F/ | %30
+ D/E/F/D/ B/G/A/F/ E/F/G/E/ c/A/B/G/ | F/G/A/F/ g/e/f/d/ e/f/g/e/ c/e/d/f/ | %32
+ e/c/B/c/ g/c/B/c/ b/c/B/c/ g/c/B/c/ | e/c/B/c/ G/c/B/c/ E/c/B/c/ C/c/B/c/ | %34
+ A/c/f/A/ G/f/g/e/ f/d/e/c/ B/A/G/F/ | E/B,/F/A,/ G,/F/B,/E/ [A,CF]3 :| %36
+V:2
+ F, | A,CFE FG,A,E, | F,G,A,B, CDEC | FF,A,F, B,A,DB, | CC,E,C, F,,A,,C,F, | E,G,A,C, D,A,=B,G, | %6
+ C,D,E,F, G,FED | CA,DF, G,G,,=B,,G,, | C,C,,D,,D, E,D,E,C, | F,,A,,D,F,, G,,=B,,E,G,, | %10
+ A,,C,F,A,, G,,2 z C, | G,D,=B,,D, G,,2 z D, | G,D,=B,,D, G,,2 z B,, | C,E,G,G,, A,,2 z F, | %14
+ G,C,G,G,, [C,,C,]3 :: C, | E,G,C=B, CD,E,=B,, | C,D,E,C, F,A,B,C | A,CFE FG,A,E, | %19
+ F,G,A,F, B,DB,G, | _E,C,A,C D,2 z G, | DA,^F,A, D,2 z A, | DA,^F,A, D,2 z F, | G,B,DD, G,CB,^F, | %24
+ G,A,B,G, A,2 z D, | A,E,^C,E, A,,2 z E, | A,E,^C,E, A,,2 z C, | D,F,A,A,, D,A,F,D, | %28
+ G,A,B,G, CC,E,C, | F,F,,G,,G, A,G,A,F, | B,,D,G,B,, C,E,A,C, | D,F,B,G, C,2 z F, | %32
+ CG,E,G, C,2 z G, | CG,E,G, C,2 z E, | F,A,CC, D,2 z B,, | C,F,,C,C,, F,,3 :| %36
+

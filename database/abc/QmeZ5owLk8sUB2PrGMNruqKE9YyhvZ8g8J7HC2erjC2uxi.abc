@@ -1,0 +1,39 @@
+X:1
+T:Philipp's Progressions
+T:Philipp's Progressions
+T:a tour de force of diminished & augmented intervals
+T:Georg Philipp Telemann
+T:TWV 25:39-85
+C:Georg Philipp Telemann
+%%score { ( 1 3 4 ) | 2 }
+L:1/8
+Q:1/4=80
+M:4/4
+K:Eb
+V:1 treble nm="Streichinstrumente" snm="St."
+V:3 treble 
+V:4 treble 
+V:2 bass 
+V:1
+"^No. 30: diminished 3rd" [EA_c]4 [_FAB]4 | [EGB]4 [EA_c]4 || %2
+[K:C]"^No. 32: augmented 3rd" [CEG]4 [C^E^G]4 | [^FA]6 [^E^G]2 | [A,^C^F]8 || %5
+[K:A]"^No. 33: diminished 6th" z4 [A-c]4 | [B,A]4 ^B,4 | [C^Ec]4 || %8
+[K:D]"^No. 34: augmented 5th" [FAd]8 | [E-G-^A]8 | B8 ||[K:Eb]"^No. 34: diminished 7th" [E_Ge]8 | %12
+ [DAf]8 | [Be]4 z4 ||[K:G]"^No. 35: augmented 6th" [^DFB]4 B4 | ^A4 [B,^DFB]4 || %16
+[K:A]"^No. 35: diminished 8va" z4 c4- | [B,DFc]4 [^B,^DFB]4 | [CFA]4 [C^EG]4 | [F,A,CF]4 z4 || %20
+[K:D]"^No. 37: diminished 10th (3rd)" [DFB]4 [FBd]4 | [^B,F^Gd]4 c2 B2 | [F,CF^A]8 || %23
+[K:Bb]"^No. 38: diminished 3rd, diminished 6th and diminished 8va" z4 [GBd]4 | [=EGd]4 [EGc]4 | %25
+ !fermata![_E_Ac]4 [EGB]4 | [DGB]4 [D^FA]4 | [B,DG]8 || %28
+V:2
+ A,4 D,4 | E,4 A,,4 ||[K:C] C,4 C,4 | ^B,,4 ^C,4 | ^F,,8 ||[K:A] z8 | z8 | z4 ||[K:D] z8 | z8 | %10
+ z8 ||[K:Eb] z8 | z8 | z8 ||[K:G] z8 | z8 ||[K:A] z8 | z8 | z8 | z8 ||[K:D] z8 | z8 | z8 || %23
+[K:Bb] z4 G,4 | C,4 C,4 | !fermata!^C,4 C,4 | D,4 D,4 | G,,8 || %28
+V:3
+ x8 | x8 ||[K:C] x8 | ^D4 ^C4 | x8 ||[K:A] z4 F4 | x4 =G2 F2 | x4 ||[K:D] z4 D4- | D4 C4 | B,8 || %11
+[K:Eb] B4 _c4- | c4 B4- | [E_G]4 z4 ||[K:G] B,4 [CEF]4- | [CEF]4 x4 ||[K:A] x4 z4 | x8 | x8 | x8 || %20
+[K:D] B,8 | x4 [C^E^G]4 | x8 ||[K:Bb] x8 | x8 | x8 | x8 | x8 || %28
+V:4
+ x8 | x8 ||[K:C] x8 | x8 | x8 ||[K:A] x8 | d8 | x4 ||[K:D] x8 | x8 | [EG]4 [DF]4 ||[K:Eb] x8 | x8 | %13
+ x8 ||[K:G] x8 | x8 ||[K:A] x8 | x8 | x8 | x8 ||[K:D] x8 | x8 | x8 ||[K:Bb] x8 | x8 | x8 | x8 | %27
+ x8 || %28
+

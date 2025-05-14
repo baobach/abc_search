@@ -1,0 +1,28 @@
+X:1
+T:Nocturne n°3 "Rêve d'Amour", Adaptation pour piano débutant
+T:Nocturne n°3 "Rêve d'Amour"
+T: Adaptation pour piano débutant
+T:Franz Liszt
+C:Franz Liszt
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=60
+M:6/8
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ z2 z2 z C |"^A" A3 A3 | A3- A2 A | A2 A B2 A | A3 D2 D | D>EF/G/ A2 G | GFD C2 C |"^A" A3 A3 | %8
+ A3- A2 A | A2 A B2 A | d3 D2 D | D>EF/G/ A2 G | F3- F2 F |"^B" F2 E F2 G | A3- A2 A | %15
+ A2 ^G A2 =B | ^c6 | ^c3 c3 | ^c3 ^G3 | B3- B2 F | G3 B2 ^G | G^FG B2 ^G | G^FG ^c3 | c6 | %24
+"^A" A3 A3 | A3- A2 A | A2 A B2 A | A3 D2 D | D>EF/G/ A2 G | GFD C2 C |"^A" A3 A3 | A3- A2 A | %32
+ A2 A B2 A | d3 D2 D | D>EF/G/ A2 G | F3 !fermata!F3 |] %36
+V:2
+ z6 | F,A,C F,A,C | E,G,^C E,G,^C | D,^F,C D,^F,C | D,F,G, =B,3 | C,F,B, C,E,B, | %6
+ [F,A,]2 [F,_A,] [F,=A,]3 | F,A,C F,A,C | E,G,^C E,G,^C | D,^F,C D,^F,C | D,F,G, =B,3 | %11
+ C,F,B, C,E,B, | F,A,C F,2 z | F,B,^C F,B,^C | F,A,C F,A,C | D,F,A, D,F,A, | E,A,^C E,A,^C | %17
+ ^F,A,^C ^F,A,^C | ^G,^CF ^G,^CF | B,^CB, G,B,G, | C,E,G, [^C,F,]3 | C,E,G, [^C,F,]3 | %22
+ C,E,G, B,,^C,F, | C,E,B, C,E,B, | F,A,C F,A,C | E,G,^C E,G,^C | D,^F,C D,^F,C | D,F,G, =B,3 | %28
+ C,F,B, C,E,B, | [F,A,]2 [F,_A,] [F,=A,]3 | F,A,C F,A,C | E,G,^C E,G,^C | D,^F,C D,^F,C | %33
+ D,F,G, =B,3 | C,F,B, C,E,B, | F,A,C !fermata!F,3 |] %36
+

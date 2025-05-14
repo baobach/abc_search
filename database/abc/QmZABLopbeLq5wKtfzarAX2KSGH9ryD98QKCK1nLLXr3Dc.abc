@@ -1,0 +1,49 @@
+X:1
+T:Game
+T:Game
+T:VIII from For Children, Sz. 42
+T:Béla Bartók
+T:Public Domain (PianoXML typeset)
+T:Public Domain (PianoXML typeset)
+C:Béla Bartók
+Z:Public Domain (PianoXML typeset)
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=120
+M:2/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+!mf!"^Allegretto" .F(FE)(E | .D).D .D z | F(FE)E | !tenuto!.D2 !tenuto!.E2 | .F.G !tenuto!A2 | %5
+ .F.G !tenuto!A2 | .A.G.F.E | !tenuto!D2 !tenuto!D2 |!f!!<(! .F.G !tenuto!A2!<)! | %9
+ .F.G !tenuto!A2 | .A.G.F.E | !tenuto!D2 !tenuto!D2 |!p! (A2 GF | A)!<(!(AGF)!<)! | (A2 GF | %15
+ A)(AGF) |!mf! (AcBA | !tenuto!G2) !tenuto!G2 |!p!"_smorzando" (AcBA | !tenuto!G2) !tenuto!G2 | %20
+ z4 |!ppp! [df]4- | !fermata![df]4 | [Ae]4- | !fermata![Ae]4 | z4 |!p!"^Tempo I" F(FE)(E | %27
+ .D).D.D z |!<(! F(FE).E | !tenuto!.D2 !tenuto!.E2!<)! |!mf! .F.G !tenuto!A2 | .F.G !tenuto!A2 | %32
+"_dim." .A.G.F.E | !tenuto!D2 !tenuto!D2 |!p!"_poco ritard." .F.G !tenuto!A2 | .F.G !tenuto!A2 | %36
+!f! .A.G.F.E | !tenuto!D2 !tenuto!D2 |!mp! (A2 GF | A)(AGF) | (A2 GF | A)(AGF) |!mf! (AcBA | %43
+ !tenuto!G2) !tenuto!G2 |!p!"_smorzando" (AcBA | !tenuto!G2) !tenuto!G2 | z4 | %47
+"^Adagio"!ppp! [df]4- | !fermata![df]4 | [Ae]4- | !fermata![Ae]4 | z4 |!p!"^Tempo I" .F(FE)(E | %53
+ .D).D .D z | F(FE).E | !tenuto!.D2 !tenuto!.E2 | .F.G !tenuto!A2 | .F.G !tenuto!A2 | %58
+"_ritard." (.A.G.F.E | !tenuto!D2) !tenuto!D2 |!p!"^a tempo" (A2 GF |"_cresc." A)(AGF) | (A2 GF | %63
+ A)(AGF) |!f! (AcBA | !tenuto!G2) !tenuto!G2 |!mf!"_dim." (AcBA |"_riten." !tenuto!G2) !tenuto!G2 | %68
+ z4 |!ppp!"^Adagio" [df]4- | !fermata![df]4 | [Ae]4- | !fermata![Ae]4 |] %73
+V:2
+ !tenuto!.[D,F,A,]2 !tenuto!.[D,G,A,]2 | .[D,F,A,].[D,F,A,] .[D,F,A,] z | %2
+ !tenuto!.[D,F,A,]2 !tenuto!.[D,G,A,]2 | !tenuto!.[D,F,A,]2 !tenuto!.[C,G,_B,]2 | %4
+ z2 !tenuto![C,F,A,]2 | z2 !tenuto![C,F,A,]2 | z2 !tenuto!.[C,G,_B,]2 | %7
+ !tenuto![D,F,A,]2 !tenuto![D,F,A,]2 | z2 .F,,.G,, | !tenuto!A,,2 .F,,.G,, | .A,,.G,,.F,,.E,, | %11
+ !tenuto!D,,2 !tenuto!D,,2 | z4 | ([A,C]F,[A,C]F, | [A,C]F,[A,C]F, | [A,C]F,[A,C]F, | %16
+ [A,C]F,)(DB,) | (EC) z2 | ([A,C]F,)(DB,) | (EC) z2 | z4 | [D,F,]4- | !fermata![D,F,]4 | %23
+ [A,,E,]4- | !fermata![A,,E,]4 | z4 | z4 | z2 .[D,F,A,] z | z2 !tenuto!.[C,G,_B,]2 | %29
+ !tenuto!.[D,F,A,]2 !tenuto!.[C,G,_B,]2 | z2 !tenuto![D,F,C]2 | z2 !tenuto![D,F,B,]2 | z4 | %33
+ .A,.G, .F,.E, | z2 !tenuto![D,F,B,]2 | z2 !tenuto![C,F,A,]2 | z2 .A,,.G,, | %37
+ .F,,.E,, !tenuto!D,,2 | z4 | [B,D]G,[B,D]G, | [B,D]G,[B,D]G, | [B,D]G, [B,D]G, | ([A,C]G,[B,D]G, | %43
+ EC) z2 | ([A,C]G,[B,D]G, | EC) z2 | z4 | [D,F,]4- | !fermata![D,F,]4 | [A,,E,]4- | %50
+ !fermata![A,,E,]4 | z4 | z2 .[_B,,C,G,]2 | z2 .[_B,,D,F,]2 | z2 .[_B,,C,G,]2 | z2 .[_B,,C,G,]2 | %56
+ z2 !tenuto![A,CE]2 | !tenuto!D2 !tenuto![A,CE]2 | z2 [G,B,]2- | [G,B,]4- | [G,B,]2 z2 | %61
+ ([B,,D,]G,,)([C,E,]A,,) | ([D,F,]B,,)([E,G,]C,) | ([F,A,]D,)([G,B,]E,) | ([A,C]F,)([B,D]G,) | %65
+ (EC) z2 | ([A,C]F,)([B,D]G,) | (EC) z2 | z4 | [D,F,]4- | !fermata![D,F,]4 | [A,,E,]4- | %72
+ !fermata![A,,E,]4 |] %73
+

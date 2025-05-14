@@ -1,0 +1,24 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=108
+M:4/4
+K:Bb
+V:1 treble nm="Grand Piano, Staff 1"
+V:2 treble 
+V:3 bass nm="Choir Pad, Tunbridge, 77.77"
+V:4 bass 
+V:1
+ z2 B2 z4 | [B,E]2 C2 [A,D]4 | B2 z2 z4 | G2 A2 z4 | D2 [DG]2 [C=E]2 [CE]2 | c2 z2 z4 | z4 G2 .A2 | %7
+ [Dc][GB][^FA]G [DG]4- | [DG]4 z4 |] %9
+V:2
+ [DG]2 B,C [DA]2 DC | x8 | DE [Fd]2 [Fc]2 F2 | B,EDC [DB]4 | x8 | CD [EA]2 [D^F]4 | %6
+ [Dd]2 D2 DCE-[EB] | x8 | x8 |] %9
+V:3
+ B,2 G,2 A,2 A,2 | G,2 G,2 G,2 ^F,2 | F,2 F,G, A,2 B,A, | G,2 F,2 F,4 | B,CB,A, G,2[K:treble] C2 | %5
+ EDCB,[K:bass] A,4 | G,2 G,2 G,2 G,2 | G,2 C2 B,4- | B,4 z4 |] %9
+V:4
+ G,2 z2 G,2 ^F,2 | z2 E,2 D,4 | B,,2 B,,2 F,E, D,2 | E,2 z2 B,,4 | B,,2 G,,2 C,D,C,B,, | %5
+ A,,2 C,2 D,2 C,2 | B,,2 B,,2 E,2 C,2 | D,2 D,2 G,,4- | G,,4 z4 |] %9
+

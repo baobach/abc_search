@@ -1,0 +1,105 @@
+X:1
+T:Tantum Ergo
+T:Anton Bruckner composed 1843 WAB 32
+T:From the hymn Pange Lingua by St. Thomas Aquinas
+T:Tantum Ergo
+C:Anton Bruckner
+C:composed 1843
+C:WAB 32
+Z:From the hymn Pange Lingua
+Z:by St. Thomas Aquinas
+%%score [ 1 2 3 ( 4 5 ) ]
+L:1/8
+M:2/2
+K:D
+V:1 treble nm="SOPRANO" snm="S."
+V:2 treble nm="ALTO" snm="A."
+V:3 treble-8 transpose=-12 nm="TENOR" snm="T."
+V:4 bass nm="BASS" snm="B."
+V:5 bass 
+V:1
+!p!"^Andante" F4 F4 | G4 (F2 A2) |!>(! B6!>)! A2 |!>(!!<(! (A2!>)! G2)!<)!!>)!!>(! F4 |!f! F6 c2 | %5
+w: Tan- tum|er- go _|sa- cra-|men- * tum|Ve- ne-|
+w: Ge- ni-|to- ri _|ge- ni-|to- * que|Laus et|
+ (d2 c2) (B2 A2) |!>(! (A2 G2)!>)! F4 | E4 z4 |!p! F6 F2 | G4 F4 | %10
+w: re- * mur _|cer- * nu-|i:|Et an-|ti- quum|
+w: ju- * bi- *|la- * ti-|o,|Sa- lus,|ho- nor,|
+ B6"^Bruckner's first draft had the C#.Later he changed it to F#.Sing either pitch, but not both."!<(! c2 | %11
+w: do- cu-|
+w: vir- tus|
+ (c2 d2)!<)! c4 |!f! f4 F4 | (F2 e2) (e2 d2) | (d2 c2) (B2 ^A2) | B4 z4 |!p! B6 A2 | (G2 A2) F4 | %18
+w: men- * tum|No- vo|ce- * dat _|ri- * tu- *|i:|Prae- stet|fi- * des|
+w: quo- * que|Sit et|be- * ne- *|dic- * ti- *|o:|Pro- ce-|den- * ti|
+!f! d6 =c2 | (B2 =c2) A4 |!p! B4 G4 | A4 F4 | %22
+w: su- ple-|men- * tum|Sen- su-|um de-|
+w: ab u-|tro- * que|Com- par|sit lau-|
+"^Bruckner marked a cut from the end of bar 22 to the start of bar 35." (B2 A2 G2) F2 | (F4 E4) | %24
+w: fec- * * tu-|i. _|
+w: da- * * ti-|o. _|
+ z8 | z8 |!f! d6 c2 | (B2 c2) ^A4 | B6 B2 | (B2 A2) (G2 F2) | (F2 E2 D2) E2 | F4 f3 e | %32
+w: ||su- ple-|men- * tum|Sen- su-|um _ de- *|fec- * * tu-|i, sen- su-|
+w: ||ab u-|tro- * que|Com- par-|sit _ lau- *|da- * * ti-|o, com- par-|
+ (e2 d2) c2 B2 | (B2 A2) (G2 F2) | (F2 E2) (D2 E2) | D4 z4 :| (D4 G4) | !fermata!F8 |] %38
+w: um, _ sen- su-|um _ de- *|fec- * tu- *|i.|||
+w: sit, _ com- par|sit _ lau- *|da- * ti- *|o.|A- *|men.|
+V:2
+!p! D4 D4 | E4 D4 |!>(! D6!>)! D2 |!<(! (C2 E2)!<)!!>)!!>(! D4 |!f! E6 E2 | D4 (E2 F2) | %6
+w: Tan- tum|er- go|sa- cra-|men- * tum|Ve- ne-|re- mur _|
+w: Ge- ni-|to- ri|ge- ni-|to- * que|Laus et|ju- bi- *|
+!>(! C4!>)! D4 | C4 z4 |!p! D6 D2 | E4 D4 | F6!<(! F2 | F4!<)! F4 |!f! F4 F4 | F4 F4 | %14
+w: cer- nu-|i:|Et an-|ti- quum|do- cu-|men- tum|No- vo|ce- dat|
+w: la- ti-|o,|Sa- lus,|ho- nor,|vir- tus|quo- que|Sit et|be- ne-|
+ (F2 E2) (D2 C2) | D4 z4 |!p! D4 E4 | D4 D4 |!f! B6 A2 | (G2 A2) F4 |!p! F4 E4 | E4 D4 | %22
+w: ri- * tu- *|i:|Prae- stet|fi- des|su- ple-|men- * tum|Sen- su-|um de-|
+w: dic- * ti- *|o:|Pro- ce-|den- ti|ab u-|tro- * que|Com- par|sit lau-|
+ (G2 F2 C2) D2 | (D4 C4) | z8 |!f! A2 A2 A2 G2 | F6 E2 | (D2 E2) (C2 F2) | (F4 E2) D2 | C4 D4 | %30
+w: fec- * * tu-|i. _||Prae- stet fi- des|su- ple-|men- * tum *|Sen- * su-|um de-|
+w: da- * * ti-|o. _||Pro- ce- den- ti|ab u-|tro- * que *|Com- * par-|sit lau-|
+ (B,4 A,2) C2 | (D2 F2) F3 F | F4 A2 G2 | (G2 F2) (C2 D2) | B,4 A,4 | A,4 z4 :| (B,4 D4) | %37
+w: fec- * tu-|i, * sen- su-|um, sen- su-|um _ de- *|fec- tu-|i.||
+w: da- * ti-|o, * com- par-|sit, com- par|sit _ lau- *|da- ti-|o.|A- *|
+ !fermata!D8 |] %38
+w: |
+w: men.|
+V:3
+!p! A4 A4 | A4 (A2 F2) |!>(! G6!>)! F2 |!<(! (E2 A2)!<)!!>)!!>(! A4 |!f! ^A4 c4 | %5
+w: Tan- tum|er- go _|sa- cra-|men- * tum|Ve- ne-|
+w: Ge- ni-|to- ri _|ge- ni-|to- * que|Laus et|
+ (B2 =A2) (G2 F2) |!>(! A4 (A2!>)! B2) | c4 z4 |!p! A6 A2 | A4 A4 | F6!<(! ^A2 | (^A2 B2)!<)! A4 | %12
+w: re- * mur _|cer- nu- *|i:|Et an-|ti- quum|do- cu-|men- * tum|
+w: ju- * bi- *|la- ti- *|o,|Sa- lus,|ho- nor,|vir- tus|quo- * que|
+!f! =A4 (A2 F2) | (e2 c2) (c2 B2) | G4 F4 | F4 z4 |!p! G4 (E2 =c2) | (B2 =c2) (A2 d2) |!f! d4 e4 | %19
+w: No- vo *|ce- * dat _|ri- tu-|i:|Prae stet _|fi- * des *|su- ple-|
+w: Sit et *|be- * ne- *|dic- ti-|o:|Pro- ce- *|den- * ti _|ab u-|
+ d4 d4 |!p! B4 B4 | A4 A4 | d4 A4 | A8 |!f! f6 e2 | (d2 e2) c4 | (d2 ^A2 B2) G2 | F4 F4 | B6 A2 | %29
+w: men- tum|Sen- su-|um de-|fec- tu-|i.|Prae- stet|fi- * des|su- * * ple-|men- tum|Sen- su-|
+w: tro- que|Com- par|sit lau-|da- ti-|o.|Pro- ce-|den- * ti|ab * * u-|tro- que|Com- par-|
+ A4 A4 | G4 (F2 A2) | A4 ^A3 A | (^A2 B2) e2 e2 | d4 =A4 | (A2 G2) (F2 G2) | F4 z4 :| (G4 B4) | %37
+w: um de-|fec- tu- *|i, sen- su-|um, _ sen- su-|um de-|fec- * tu- *|i.||
+w: sit lau-|da- ti- *|o, com- par-|sit, _ com- par|sit lau-|da- * ti- *|o.|A- *|
+ !fermata!A8 |] %38
+w: |
+w: men.|
+V:4
+!p! D,4 D,4 | C,4 D,4 |!>(! G,,6!>)! D,2 |!<(! A,,4!<)!!>)!!>(! D,4 |!f! F,4 ^A,,4 | %5
+w: Tan- tum|er- go|sa- cra-|men- tum|Ve- ne-|
+w: Ge- ni-|to- ri|ge- ni-|to- que|Laus et|
+ B,,4 (C,2 D,2) |!>(! E,4 (F,2!>)! G,2) | A,4 z4 |!p! D,4 D,4 | C,4 D,4 | D,6!<(! C,2 | %11
+w: re- mur _|cer- nu- *|i:|Et an-|ti- quum|do- cu-|
+w: ju- bi- *|la- ti- *|o,|Sa- lus,|ho- nor,|vir- tus|
+ B,,4!<)! F,4 |!f! D,4 D,4 | (C,2 ^A,,2) B,,4 | E,4 F,4 | B,,4 z4 |!p! B,,4 =C,4 | D,4 D,4 | %18
+w: men- tum|No- vo|ce- * dat|ri- tu-|i:|Prae- stet|fi- des|
+w: quo- que|Sit et|be- * ne-|dic- ti-|o:|Pro- ce-|den- ti|
+!f! G,,4 =C,4 | D,4 D,4 |!p! ^D,4 E,4 | C,4 =D,4 | (G,,2 D,2) (E,2 F,G,) | (A,4 A,,4) | %24
+w: su- ple-|men- tum|Sen- su-|um de-|fec- * tu- * *|i. _|
+w: ab u-|tro- que|Com- par|sit lau-|da- * ti- * *|o. _|
+!f! A,6 G,2 | (F,2 G,2) E,4 | (B,,2 C,2 D,2) E,2 | F,4 F,4 | G,6 F,2 | E,4 F,4 | (G,2 G,,2) A,,4 | %31
+w: Prae- stet|fi- * des|su- * * ple-|men- tum|Sen- su-|um de-|fec- * tu-|
+w: Pro- ce-|den- * ti|ab * * u-|tro- que|Com- par-|sit lau-|da- * ti-|
+ D,4 C,3 C, | B,,4 C,2 C,2 | D,4 (E,2 F,2) | G,,4 A,,4 | D,4 z4 :| (G,,6 B,,2) | !fermata!D,8 |] %38
+w: i, sen- su-|um, sen- su-|um de- *|fec- tu-|i.|||
+w: o, com- par-|sit, com- par-|sit lau- *|da- ti-|o.|A- *|men.|
+V:5
+ x8 | x8 | x8 | x8 | C,4 x4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 :| x8 | x8 |] %38
+

@@ -1,0 +1,56 @@
+X:1
+T:Prelude, BWV 933
+T:Prelude, BWV 933
+T:Sechs kleine Präludien
+T:Johann Sebastian Bach
+C:Johann Sebastian Bach
+%%score { ( 1 2 4 ) | 3 }
+L:1/8
+Q:1/4=88
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:4 treble 
+V:3 bass 
+V:1
+"^Allegro moderato, un poco pomposo"!f! (!>!E/4D/4E3/2) z .!4!F (!>!G/4F/4G3/2) z .c | %1
+ (!>!!3!F/4!2!E/4!3!F/.!2!F) .d.!3!F (!>!!4!F.E) z2 | %2
+ (!>!!3!D/4C/4D3/2) z .!3!E (5:4:5(!>!!3!F/4!4!G/4!3!F/4!2!E/4!3!F/4-F) z (!4!F | %3
+ .!3!E).!4!G (!4!G/!3!F/!4!G/.!5!A/) (!>!!4!E/(5:4:5!3!D/4!4!E/4!3!D/4!2!C/4!3!D/4-D/)"_più leggiero"!p! z/!<(! (!1!G/!2!B/!4!d/)!<)! | %4
+!mp! (!5!e/d/c/B/ !1!A/!3!G/^F/E/) (!2!F/D/F/!4!A/) (!2!F/D/F/!4!A/) | %5
+ (!5!d/c/B/A/ !1!G/!3!^F/E/D/) (!2!E/C/E/!4!G/) (!2!E/C/E/!3!G/) | %6
+"_cresc." (!5!c/!4!B/!3!A/!1!G/ !2!^F/G/!4!A/F/) (!1!D/E/F/!1!G/ !2!A/B/c/A/) | %7
+!f! .!^!!5!d.G!>(! (!>!!4!B/!3!A/!1!G/!2!^F/ !tenuto!!5!G/)D/!>)!!mf!.B, z2 :: %8
+!mf! !>!!5!B2 x .!4!c!f! !>!d2 z (!3!e |!ff! .!4!=f).f(!4!f.e) (!>!!4!d.c) z2 | %10
+!f! !>!!5!g2 z .!4!_B (!>!!3!A/4!2!G/4!3!A3/2) z .!5!a | %11
+ (!>!!4!=b.!5!c')"_dim.".!4!f.!3!e (!>!!4!f/4!3!e/4!4!f/4!3!e/4.!2!d)!mf!!>(! z/ (!1!G/!2!B/!3!d/)!>)! | %12
+"_più leggiero e" (!5!g/!4!f/e/d/"_cresc." !1!c/!3!_B/A/G/) (!2!A/F/A/!4!c/) (!2!A/F/A/!4!c/) | %13
+ (!5!f/e/d/c/ !1!=B/!3!A/G/F/) (!2!G/F/G/!5!d/) (!3!G/!2!F/!1!G/!4!d/) | %14
+ (!5!e/d/c/B/ !1!A/!4!G/F/E/) (!1!D/!2!F/!3!A/!5!c/ !4!B/!1!G/!2!B/!1!d/) | %15
+!fff! .!^!!5!g.c!>(! (!>!!4!e/d/!2!c/!1!B/ !tenuto!!5!c/)(!3!G/!2!E/!>)!!1!C/) z2 :| %16
+V:2
+ [G,C]2 x !¨2!D [CE]2 x E | !1!DD z !1!D !2!DC x2 | !1!B,2 x !1!C D2 x (!2!D | %3
+ .!1!C).!2!E.C.C (!2!C<!1!B,) x2 | z8 | x8 | x8 | x8 :: %8
+ (!3!G/4!2!^F/4!3!G3/2) x !2!A (!3!B/4!2!A/4!3!B3/2) x (!1!c | .!2!d).d(!2!d.c) (!2!B.A) x2 | %10
+ !1!G2 x !2!G F2 x !1!!1!c | (!2!f.!1!e).!2!d.!1!c !1!c.!1!B x2 | x8 | x8 | x8 | x8 :| %16
+V:3
+ z/"_marcato, quasi non legato" (!5!C,,/!4!E,,/.!2!G,,/) !tenuto!C,2 z/ (C,,/E,,/.G,,/) !tenuto!C,2 | %1
+ z/ (!2!C,/D,/C,/ .B,,/)(D,/!4!G,,/!2!B,,/ .C,/)(!5!C,,/!4!E,,/G,,/ C,/)(!4!D,/E,/F,/ | %2
+ .G,/)(!5!G,,/!4!B,,/.!2!D,/) !tenuto!G,2 z/ (G,,/B,,/.D,/) !tenuto!G,2 | %3
+ z/ (!4!G,,/C,/.E,/) .!5!E,,.!4!F,, .!5!G,,/(!1!G,/!2!D,/!3!B,,/ .G,,).G, | %4
+ !tenuto!..!5!C,!wedge!.G,!tenuto!..!5!C,!wedge!.A, !tenuto!..!5!D,!wedge!.A,!tenuto!..!5!C,!wedge!.A, | %5
+ !tenuto!..!5!B,,!wedge!.A,!tenuto!..!5!B,,!wedge!.G, !tenuto!..!5!C,!wedge!.G,!tenuto!..!5!B,,!wedge!.G, | %6
+ !tenuto!..!5!A,,!wedge!.G,!tenuto!..!5!A,,!wedge!.G, !tenuto!..!2!^F,!wedge!.A,!wedge!.!2!F,!wedge!.!4!D, | %7
+ !tenuto!..!3!B,,!wedge!.!1!E,!wedge!.!3!C,!wedge!.!2!D, !wedge!.!1!G, z/ .G,/ !tenuto!.G,,2 :: %8
+ z/ (!5!G,,/!4!B,,/.D,/) !tenuto!G,2 z/ (G,,/B,,/.D,/) !tenuto!G,2 | %9
+ z/ (!2!A,/.B,/)(A,/ !3!^G,/B,/E,/!2!G,/ .A,/)(!5!A,,/!4!C,/!2!E,/)!<(! (!1!A,/!4!B,/!3!C/D/!<)! | %10
+ .!1!E/)(!5!E,/!4!G,/!2!C/ !tenuto!!1!E2) z/ (!5!F,/!4!A,/.!2!C/) (!1!F/!3!E/!2!F/!3!E/) | %11
+ (!1!D/!3!C/!1!D/!2!C/ .!3!B,/)(!5!G,/!3!C/!2!E/ !1!G/.!2!^F/).!1!G/.!2!D/ (!3!B,/!1!D/)(!3!G,/!1!B,/) | %12
+ !tenuto!..!5!E,!wedge!.C!tenuto!..!5!E,!wedge!.C !tenuto!..!5!F,!wedge!.C!tenuto!..!5!E,!wedge!.C | %13
+ !tenuto!..!5!D,!wedge!.=B,!tenuto!..!5!C,!wedge!.A, !tenuto!..!5!B,,!wedge!.!2!F,!wedge!.!3!E,!wedge!.!4!D, | %14
+ !tenuto!..!5!C,!wedge!.!3!E,!wedge!.!2!F,!wedge!.!1!A, !tenuto!..!2!F,!wedge!.!4!D,!tenuto!..!1!G,!wedge!.!2!F, | %15
+ !tenuto!..!3!E,!wedge!.!1!A,!tenuto!..!3!F,!wedge!.!2!G, !tenuto!.!1!C,2 !tenuto!.!5!C,,2 :| %16
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 :: D2 x2 G2 x2 | x8 | !2!c2 x6 | x8 | x8 | x8 | x8 | x8 :| %16
+

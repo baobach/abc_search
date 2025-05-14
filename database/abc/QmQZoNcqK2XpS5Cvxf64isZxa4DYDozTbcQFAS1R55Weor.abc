@@ -1,0 +1,38 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=100
+M:4/4
+K:F
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 treble nm="Choir Pad, Keep On Believing, 1909"
+V:4 bass 
+V:1
+ [FA]2 [F_A][F=A] [CF]2 AB | [Fc]2 [F=B][FB] [Fc]4 | [GB]2 [^FA][GB] [EG]2 [Ec]2 | %3
+w: By~Charles~Hutchinson~Gabriel * * * * *|||
+ [FA]2 [FG][FA] [EG]4 | [FA]2 [F_A][F=A] [CF]2 [FA][FB] | [Fc]2 [F=B][FB] [Fc]4 | %6
+w: |||
+ [Fd]2 [Fd]>[Fd] [Fc][Fc][FA]F | [FA]>[FA] [EG][CG] [CF]4 | [Fc]2 [Fc]>F [FA]c-[Fc-][Fc] | %9
+w: |||
+ [Fd]2 [Fd]>[DF] [DB]d-[Fd-][Fd] | [Fc]2 [Fc]>[Fc] [Fd][Fc][FA]F | [FA]>[EG] [EG][_E^F] [=EG]4 | %12
+w: |||
+ [FA][FA][FA][CG] [CG][CF] [CF]2 | [CG][CG][FA][FA] [FB][Fc] [Fd]2 | %14
+w: ||
+ [Fc]2 [Fc]>[Fc] [Fd][Fc][FA]F | [FA]>[FA] [EG][CG] [CF]4- | [CF]4 z4 |] %17
+w: |||
+V:2
+ z4 z2 F2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z4 z F z2 | z4 z F z2 | x8 | x8 | x8 | x8 | x8 | %15
+ x8 | x8 |] %17
+V:3
+ C2 =B,C A,2 C[K:bass]G, | A,2 _A,A, =A,4 | C2 CC C2 C2 | C2[K:bass] =B,B, C4 | C2 =B,C A,2 CG, | %5
+ A,2 _A,A, =A,4 | B,2 B,>B, A,A,[K:treble]CA, | C>C B,[K:bass]B, A,4 | A,2 A,>A, CA,A,A, | %9
+ B,2 B,>B, F,B,B,B, | A,2 A,>A, B,A,[K:treble]CA, | C>C CC C4 | CCC[K:bass]B, B,A, A,2 | %13
+ C[K:treble]CCC B,A,[K:bass] B,2 | A,2 A,>A, B,A,CA, | C>C B,B, A,4- | A,4 z4 |] %17
+V:4
+ F,2 F,F, F,2 F,2 | F,2 F,F, F,4 | C,2 C,C, C,2 C,2 | F,2 D,G,, C,4 | F,2 F,F, F,2 F,F, | %5
+ F,2 F,F, F,4 | B,,2 B,,>B,, F,F,F,F, | C,>C, C,C, F,4 | F,2 F,>F, F,F,F,F, | %9
+ B,,2 B,,>B,, B,,B,,B,,B,, | F,2 F,>F, F,F,F,F, | C,>C, C,C, C,4 | F,F,F,F, F,F, F,2 | %13
+ E,E,_E,E, D,C, B,,2 | F,2 F,>F, F,F,F,F, | C,>C, C,C, F,4- | F,4 z4 |] %17
+

@@ -1,0 +1,46 @@
+X:1
+T:The Subway Song
+T:The Subway Song
+T:words: Tom Lehrer music: "M-O-T-H-E-R" (1915), by Theodore Morse 
+C:Tom Lehrer
+%%score ( 1 2 ) { ( 3 4 ) | ( 5 6 ) }
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 treble 
+V:5 bass 
+V:6 bass 
+V:1
+ c A B =B c F G D | F4 E3 z | c B ^F G c B D B | A4- A3 z | F F E F G F G ^G | A4 c3 z | %6
+w: H is for my Al- ma ma- ter,|Har- vard.|C is Cen- tral, next stop on the|line. *|K is for the co- zy Ken- doll|sta- tion.|
+ G A =B c d B A _A | G4- G3 z | c A B =B c F G D | F4 E3 z | G G ^F G c G A B | A4- A3 z | %12
+w: C is Charles, that o- ver- looks the|brine. *|P is Park Street, bu- sy Bos- ton|cen- ter.|Doub- le- U is Wash- ing- ton, you|see. *|
+ _A A G F A A G F |!<(! c4 A3!<)! A/ A/ | G A B c d D E C | f4- f2 z2 |] %16
+w: Put them all to- geth- er, they spell|HCKC- PW, Which is|just a- bout what Bos- ton means to|me. *|
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | F4- F2 x2 |] %16
+V:3
+!p! [CFAc][CFA][CEB][DF=B] cFGD | (!>!F4 [B,CE]3) z | cB[^D^F][EG] cB[B,=D][B,DB] | %3
+ [A,CA]4- [A,CA](CDE) | [CF][CF][CE][C_EF] GF[B,FG][=B,F^G] | (A4 c)[CD][C=E][C^F] | %6
+ [=B,=FG][CFA][DF=B][DFc] [DFd][DFB][DFA][DF_A] | G4- G[EG][EA][EB] | [CFAc][CFA][CEB][DF=B] cFGD | %9
+ (!>!F4 [B,CE]3) z | [EG][EG][^D^F][EG] [Ec][EG][EA][=DEB] | A4- A3 z | _AAGF AAGF | %13
+!<(! (c4 A3)!<)! A | [B,DG][CDA][DGB][D^Fc] [=F=Bd]2 [E_Bc]2 | f4- f2 z2 |] %16
+V:4
+ x4 [CF]2 [=B,D]2 | [_B,D]2 [B,_D]2 x4 | =E2 x2 E2 x2 | x8 | x4 D2 x2 | [CF]2 [^CG]2 [=C^F] x x2 | %6
+ x8 | (E2 F2 E) x x2 | x4 [CF]2 [=B,D]2 | [_B,D]2 [B,_D]2 x4 | x8 | ([^CE]2 [=C_E]2 [CD]3) x | %12
+ [=B,F]2 B,2 [B,F]2 B,2 | [CFA]2 [CA][CG] [C^F][CF][CG][CD] | x8 | ([FA]2 [FB]2 [FA]2) x2 |] %16
+V:5
+ [F,,F,]2 [G,,G,][^G,,^G,] [A,,A,]2 [_A,,_A,]2 | G,2 G,2 (G,^F,G,A,) | %2
+ [G,B,]2 A,B, [G,B,]2 [C,G,]2 | z (F,E,D, C,2) z2 | F,F,E,F, F,2 [D,,D,][_D,,_D,] | %5
+ [C,,C,]2 [_E,,_E,]2 (D,^F,G,A,) | [D,,D,]2 [G,,G,][A,,A,] [=B,,=B,][G,,G,][A,,A,][B,,B,] | %7
+ [C,_B,]2 [_D,B,]2 B,2 A,G, | [F,,F,]2 [G,,G,][^G,,^G,] [A,,A,]2 [_A,,_A,]2 | G,2 G,2 (G,^F,G,A,) | %10
+ B,2 A,B, B,B,A,G, | (A,2 G,2 ^F,3) z | [D,,D,]4 [_D,,_D,]4 | %13
+ [C,,C,]2 [_E,,_E,]2 [D,,D,][D,,D,][=E,,=E,][^F,,^F,] | %14
+ [G,,G,][^F,,^F,][G,,G,][A,,A,] [G,,G,]2 [C,G,C]2 | (C2 D_D C2) z2 |] %16
+V:6
+ x8 | (G,,4 C,3) z | x2 C,2 x4 | F,,4- F,,2 x2 | A,,4 B,,2 x2 | x4 D,,3 z | x8 | x4 C,3 z | x8 | %9
+ (G,,4 C,3) z | C,4 C,3 G,, | (A,,4 D,3) z | x8 | x8 | x8 | F,4- F,2 x2 |] %16
+

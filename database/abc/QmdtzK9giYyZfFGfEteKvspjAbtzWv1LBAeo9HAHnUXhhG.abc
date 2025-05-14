@@ -1,0 +1,45 @@
+X:1
+T:Getting Started
+T:Kom i gang
+T:MuseScore-laget
+T:En introduksjon til notasjon i MuseScore.
+T:Dobbeltklikk for å endre tittel, --> undertittel, og komponist.
+T:Vanskelig å se? Zoom inn med Ctrl + (Mac: Cmd +).
+C:ZackTheCardshark (Isaac Weiss)
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:1
+"^(Eksempel-takt)""^Vil du lagre dette notearket for senere bruk? Gå til\nFil-menyen og velg Lagre en kopi… Prøv det nå." C2 D2 E2 F2 | %1
+"^(Øvelses-takt)""_1. Lær å skrive inn noter.\n Se på den første takten til venstre. For å skrive de notene,\n^ klikk i takten over ^, trykk \nN\n for å gå til skrivemodus, og skriv \nC, D, E, F.\nGratulerer—du har skrevet din første melodi!\nTrykk Escape for å forlate skrivemodus." z8 | %2
+"^Notasjonstips er røde.""^Generelle tips er grønne." z8 | %3
+"^Trinnvis guide til å skrive\nnoter er blå." z8 | %4
+"^Vil du begynne å skrive noter?\nTrykk N\n eller klikk på \nN\n til venstre\ni verktøylinjen så er du i skrivemodus." FGA z AGF z | %5
+"_2. Prøv en til.\n Klikk på pausen rett over, trykk \nN\n for å gå til skrivemodus, velg\n8-delsnote i verktøyllinjen ELLER trykk \n4\n, og skriv så \nF, G, A, 0\n (\n0\n betyr \npause\n)\n,\nA, G, F. Husk! Trykk Escape for å forlate skrivemodus." z8 | %6
+ z8 | z8 | %8
+"^Noteverdiene i verktøylinjen, som begynner \nmed 64-delsnoten kan du også velge med \ntastene 1 – 9 på tastaturet ditt." [ceg]8 | %9
+"_3. \nKlikk på pausen, trykk \nN\n, og velg helnoteverdien i verktøylinjen ELLER trykk \n7\n. \nSkriv C. Hold deretter ned \nShift\n for å legge til noter i akkorden,og skriv \nE, G\n.\nTrykk Escape for å forlate skrivemodus." z8 | %10
+ z8 |"^Vil du gjøre om det du nettopp gjorde?\nTrykk Ctrl (Mac: Cmd) Z." z8 | %12
+"^Vil du høre det du har skrevet? Klikk i notearket der du vil begynne avspillingen\nog trykk Space (ordskillertasten), eller klikk den trekantede Play-knappen i verktøylinjen." e8 | %13
+"_4. \nKlikk på pausen, trykk \nN\n, og velg helnoteverdien i verktøylinjen ELLER trykk \n7\n.\nSkriv \nE\n. Gå tilbake med venstre piltast og velg 2 i stedet for 1 blant stemmene til høyre\nfor verktøylinjen (hvor tallene 1, 2, 3, og 4 står i rekke). I stemme 2, velg fjerdedels noteverdi\nog skriv A, G, A, G. Ikke glem! Trykk Escape til slutt." z8 | %14
+ z8 |"^Dette er et linjeskift. -->" z8 | %16
+"^Vil du slette denne teksten? \nKlikk på den og trykk Delete." A3 A F2 A2 | %17
+"_5.\n Klikk på pausen, trykk \nN\n, og velg fjerdedel som noteverdi eller trykk \n5\n.\nSkriv \nA, A, F, A.\n Trykk \nEscape\n for å forate skrivemodus. Klikk på den første noten i takten\nog trykk . (punktum) eller velg punktering i verktøylinjen." z8 | %18
+ z8 | z8 | %20
+"^Vi du se notene på en annen måte? \nGå til Vis-menyen og velg Fullskjerm" d2 ^f2- f2 e2 | %21
+"_6. \nKlikk på pausen, trykk \nN\n, og velg fjerdedel som noteverdi. Skriv \nD, F,\n og trykk opp-piltasten \nfor å heve f til fiss. Fortsett å skrive\n F, E.\n Trykk \nEscape\n. Klikk på den andre noten i takten og \ntrykk +, eller klikk på buen nær midten av verktøylinjen." z8 | %22
+"^Lyst til å skjule en pause? Klikk på den og trykk V (eller huk av Synlig i Objektovervåker til høyre).""^Dette kan du gjøre med nesten alt. Usynlige elementer vises ikke i utskrift, PDF, eller bilder." z8 | %23
+ z8 | %24
+"^v  \n(Dette er en sværing! Følg \n v\nV  instruksjonene nøye.)  V" (F/G/A/_B/ c/d/e/f/) .f.c"_7. \nKlikk på pausen, trykk \nN\n og velg 16del som noteverdi (eller trykk 3). Skriv \nF, G, A, B,\n \nog trykk pil ned for å senke h til b. Skriv \nC, D, E, F.\n Trykk \nEscape\n, velg alle de åtte notene, \ng trykk \nS\n for å lage en bue. Klikk på pausen. Trykk\n N\n, velg 8del som noteverdi, skriv \nF, C\n. \nVelg fjerdedelsnote som verdi, skriv \nF\n, og trykk \nCtrl + Ned\n  (Mac: \nCmd + Ned\n) for å flytte en \noktav ned. Åpne Artikulasjon og ornamenter-paletten på venstre side. Dra staccato til \nnotehodene, eller velg de to notene og dobbeltklikk på staccato-symbolet." F2 | %25
+ z8 | z8 | z8 | %28
+"^<-- Dette er en avstandsdeler. \nMed den kan du øke avstanden mellom\nto staver. Finn den i paletter til venstre.\n""_Lyst til å endre bunnteksten under? I \nStil\n-menyen,\nvelg Generell… og finn Topptekst, bunntekst, nummerering." z8 | %29
+ z8 | %30
+"_Vil du lære mer? Klikk på hva som helst i notearket og trykk \nF1\n(Mac: Fn+F1). Eller gå til Hjelp-menyen og velg Online håndbok." z8 | %31
+ z8 |] %32
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | A2 G2 A2 G2 | x8 | x8 | x8 | x8 | x8 | %18
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %32
+

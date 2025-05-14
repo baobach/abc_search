@@ -1,0 +1,23 @@
+X:1
+T:Test Musikalisches Würfelspiel
+T:Test Musikalisches Würfelspiel
+T:Wolfgang Amadeus Mozart & MuseScore
+%%score { 1 | ( 2 3 ) }
+L:1/8
+Q:3/8=57
+M:3/8
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:3 bass 
+V:1
+ e/c/g/e/c'/g/ | [Ec][Ec][Ec] | e/g/d/g/A/^f/ | e/c/B/c/G | [^Fc][Fc][Fc] | dg/d/B/d/ | %6
+ ([Ad]/[Ac]/)([Ac]/[GB]/)([GB]/[^FA]/) | [GBdg]2 z :| d'a/^f/d/A/ | g/d/g/b/g/d/ | (egc') | %11
+ e/c/B/d/d | gce | c/G/e/c/g/e/ | B/d/g/d/B | c2 z :| %16
+V:2
+ [C,E,]2 z | C,C,C, | C,F,D,, | C,2 z | C,C,C, | [B,,G,]2 z | C,D,D,, | G,,B,/G,/^F,/E,/ :| %8
+ [D,^F,]2 [C,F,] | [B,,D,]2 [B,,D,] | [C,G,]2 [C,E,] | G,G,, z | [C,E,]/G,/[C,E,]/G,/[C,E,]/G,/ | %13
+ [C,E,]2 z | G,2 G,, | C,G,,C,, :| %16
+V:3
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | G,,G,/=F,/E,/D,/ :| x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 :| %16
+

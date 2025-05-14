@@ -1,0 +1,49 @@
+X:1
+T:Les cerises
+T:Les cerises
+T:Adolphe Benoit Blaise
+T:de Piis
+C:Adolphe Benoit Blaise
+Z:de Piis
+%%score 1 { ( 2 3 ) | 4 }
+L:1/8
+Q:1/4=104
+M:3/4
+K:Bb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:1
+"^Andantino con molto" z2 z2 z2 | z6 | z6 | z6 | D2 D2 G2 | (G2 ^F4) | G2 A2 B2 | (B4 A2) | %8
+w: ||||1.Du plus au|moins, *|du moins au|plus *|
+w: ||||2.Mais en é-|té *|dans nos re-|pas *|
+w: ||||3.Tant que son|tri- om-|phe du- *|ra *|
+w: ||||4.Ro- mains, Lu-|cul- lus|vous ré- *|pond *|
+ B2 B2 B2 | c4 d2 | (e2 d2) c2 | B4- B z | d2 d2 d2 | G4 A2 | (G2 ^F2) G2 | A4 d2 | %16
+w: Qui ne con-|nait pas|Lu- * cul-|lus? *|Nos é- co-|liers sa-|vent * par|coeur A|
+w: Nous ne son-|geons seu-|le- * ment|pas *|Que le ce-|ri- sier|tant * van-|té, D'A-|
+w: Le ce- ri-|sier y|fi- * gu-|ra. *|Plus * la|po- pu-|ce * ri-|ait Voy-|
+w: Que c'est un|des bons|fruits * du|Pont. *|Qu'on ne cher-|che point|la * gros-|seur Dans|
+"^cresc." G4 A2 | (BA) G2 A2 | B4 c2 | (dc) B2 c2 | d2!>(! A4!>)! | G4- G z :| %22
+w: quel- le|da- * te, De|Mi thri-|da- * te Il|fut vain-|queur. *|
+w: sie à|Ro- * me, Par|ce brave|hom- * me Fut|im- plan-|té. *|
+w: ant l'ar-|bus- * te D'un|ton ro-|bus- * te Plus|il cri-|ait *|
+w: le ce-|ri- * se, Mais|qu'on la|pri- * se Pour|sa dou-|ceur. *|
+V:2
+ G2 G2 G2 | A4 B2 | c2 B2 A2 | G4- G z | D2 D2 G2 | G2 ^F4 | G2 A2 B2 | B4 A2 | B2 B2 B2 | c4 d2 | %10
+ e2 d2 c2 | B6 | d2 d2 d2 | G4 A2 | G2 ^F2 G2 | A4 d2 | G4 A2 | BA G2 A2 | B4 c2 | dc B2 c2 | %20
+ d2 A4 | G4- G z :| %22
+V:3
+ z [B,D] z [B,D] z [B,D] | z [EG] z [EG] z [EG] | z [EG] z [D^F] z [CF] | %3
+ z [B,D] z [B,D]- [B,D] z | z [G,B,] z [G,B,] z [G,D] | z [A,D] z [A,D] z [A,D] | %6
+ z [B,D] z [D^F] z [DG] | z [EG] z [EG] z [C^F] | z [B,D] z [DG] z [DG] | z [CG] z [CG] z [GB] | %10
+ z [GB] z [GB] z [EA] | z [DF] z [DF] z [DF] | z D z D z D | z E z E z E | z [CE] z [CE] z [B,E] | %15
+ z [A,E] z [A,D] z [D^F] | z D z [B,D] z [CF] | z [DF] z [B,E] z [CE] | z [DG] z [DG] z [CG] | %19
+ z [D^F] z [DG] z [CG] | z [DG] z [EG] z [E^F] | z [B,E] z [CE] z !fermata![B,D] :| %22
+V:4
+ G,,2 B,,2 G,,2 | C,2 C2 B,2 | A,2 D,2 D,,2 | G,,2 (D,2 G,,) z | G,,4 B,,2 | D,4 C,2 | %6
+ C,2 A,,2 G,,2 | C,2 C,,2 D,,2 | G,,2 G,2 F,2 | E,,2 E,2 D,2 | B,,C, E,2 F,2 | B,2 F,2 B,,2 | z6 | %13
+ C2 C2 C2 | A,4 G,2 | ^F,2 ^F,,2 D,C, | B,,2 G,,2 F,,2 | B,,2 E,2 C,2 | G,,2 G,2 E,2 | %19
+ D,2 G,2 E,2 | B,,2 C,2 D,2 | E,2 C,2 !fermata!G,,2 :| %22
+

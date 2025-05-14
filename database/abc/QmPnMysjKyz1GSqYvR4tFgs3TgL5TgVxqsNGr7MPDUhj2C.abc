@@ -1,0 +1,64 @@
+X:1
+T:Sinfonia 9, BWV 795
+T:Sinfonia 9 
+T:Johann Sebastian Bach, BWV 795
+T:Scored for 3 instruments
+C:Johann Sebastian Bach
+%%score [ 1 2 3 ]
+L:1/8
+Q:1/4=42
+M:4/4
+K:Ab
+V:1 treble nm="Flute" snm="Fl."
+V:2 alto nm="Viola" snm="Vla."
+V:3 bass nm="Bassoon" snm="Bsn."
+V:1
+"^0-II-I" z8 | z8 | z"^II, c" (ce"^#1. II-I-III(top to bottom order)"=d) z (df=e) | %3
+ z f=bc'- c'_b/a/ gf | egag f2- f/_g/=e/f/ | =e2 z/ c'/f/_e/ d2- d/g/c/B/ | %6
+ A2"^I, f" f2"^#2. I-III-II" =e2 _e2 | =d2 _d2 c f2 =e |"^epith-A" f _e2 d/c/"^epith-B" d2 =d2 | %9
+ e"^epith-C"e_c'b z"^epith-C" B_fe- | %10
+ e/B/c/A/ F"^III, Ab"=d/e/4f/4 f/d/"^#3. III-II-I"e z"_A" e/c/ |"^*" =A/G/_A z B/c/4_d/4 c>B TG2 | %12
+ A"^II, eb"E_GF z"^#4. II-I-III" F_A=G | z A=de- ed/c/BA | %14
+ G"^II-like episodic motifs""^Epith-F"B_dc z ce=d | z"^Epith-F" =df=e- ec f2 | %16
+"^Epith-D" =e2 g2 f2 _a2 | g2"^I, c" c2"^#5. I-II-III""_c" =B2 _B2 | =A2 _A2 G c2 =B | %19
+"^Epith-A" c B2 A/G/"^Epith-B" A2 =A2 | B"^Epith-C"B_gf z"^Epith-C" F_cB- | %21
+"^Epith-A" B A2 _G/F/"^Epith-B" _G2 =G2 | A"^Epith-C"A_fe z"^Epith-C" E__BA- | %23
+ AA"^I, Db" d2 c2 _c2 | B2 __B2 A d2 c | d"^II, a/A"A_cB z"^#6. II-I-III" Bd"_A"=c | %26
+ z d=ga- ag/f/ed |"^Epith-D" c2 e2 =d2 f2 | e2 _g2 f"^Epith-F"Bdc | %29
+ z"^Epith-F" ce=d z"^Epith-F" df=e- |"^!!!" e"^II, f"FA"^#7. II-I-III"G z GB=A | %31
+ z B=ef- f_e/d/ cB | A2 z"^III, f" B/c/4d/4 d/=B/"^#8. III-II-I"c z c'/=a/ | %33
+"^*" _g/=e/f z[Q:1/4=40] G/A/4B/4[Q:1/4=35] A>G[Q:1/4=30] =E>F |[Q:1/4=45] !fermata!F8 |] %35
+V:2
+ z"^II, f" (FAG) z"_f (minor) statement" (GB=A) |[K:treble] z B=ef- f_e/d/cB | %2
+ A2"^I, c" c2"^c" =B2 _B2 | =A2 _A2 G c2 =B | c2 z"^Non-thematic Episode" c dc B2- | %5
+ B/c/=A/B/ A2 B/_G/=E/F/ E2 | F2 z"^III, f" B/c/4d/4 d/=B/"^f"c z c/=A/ | %7
+"^*" _G/=E/F z =G/A/4B/4 A>B AG | F"^II-like episode motif""^epith-C"C_GF z"^epith-C" F_cB- | %9
+"^epith-A" B A2 _G/F/"^epith-B" G2 =G2 | A"^II, Ab"A,CB, z B,_DC | z DGA- AG/F/ ED | %12
+ C2"^I, eb" E2 =D2"^E" _D2 | C2 _C2 B, E2 =D |"^Epith-D" E2 B2 =A2 c2 | B2 _d2 c"^Epith-F"FAG | %16
+ z"^Epith-F" GB=A z =Ac=B | z"^II, c" CE=D z DF=E | z F=Bc- c_B/A/ GF | %19
+"^Episode""^Epith-B" E2 =E2"^Epith-A" F _E2 =D/C/ |"^Patch1" =DG =A2"^Epith-A" B _A2 G/F/ | %21
+"^Patch2" GF/E/ =D2"^Epith-A" E _D2 C/B,/ |"^Patch1" CF G2"^Epith-A" A _G2 =F/E/ | %23
+ F2 z"^III, Db" =G/A/4B/4 B/G/A z"^D" A/F/ |"^*" =D/C/_D z E/F/4_G/4 F>G FE | %25
+ D2"^I, Ab" A2 =G2 _G2 | F2 _F2 E A2 G | A"^Epith-F"E_GF z FA=G | z GB=A- AF B2 | %29
+"^Epith-D" =A2 c2 B2 _d2 | c2[K:alto]"^I, f" F2"^f" =E2 _E2 | =D2 _D2 C F2 =E | %32
+ F"^II, f"F,A,G, z"^f" G,B,=A, | z B,=EF- F_E/D/ CB, | !fermata!=A,8 |] %35
+V:3
+ F,,2"^I, f" F,2 =E,2 _E,2 | =D,2 _D,2 C,B,,C,C,, | %2
+ F,,2 z"^III, c (see cadence in 4)" (F,/G,/4A,/4) A,/^F,/G, z G/=E/ | %3
+"^*" _D/=B,/C z =D/E/4F/4 EFGG, | C2 z2 z4 | z8 | z"^II f" F,A,G, z G,B,=A, | z B,=EF- F_E/D/CB, | %8
+"^epith-B""_f\n" A,2 =A,2"^epith-A""_b" B, _A,2 G,/F,/ | %9
+"^Patch1""_E" G,C =D2"^epith-A""_e" E _D2 C/B,/ |"_A" C2"^I, Ab" A,2 G,2 _G,2 | %11
+ F,2 _F,2 E,D,E,E,, | A,,2 z"^III, eb" =A,/B,/4C/4 C/A,/B, z B,/G,/ | %13
+"^*" =E,/=D,/_E, z F,/G,/4A,/4 G,A,B,B,, | E,2 z"^Epith-Fo (C off-beat)" E, _G,F, z F, | %15
+ A,=G, z G, B,A, z B, | _D,C, z"^Epith-Fo" C E,=D, z =D | %17
+ F,E, z"^III, c" F,,/G,,/4A,,/4 A,,/^F,,/G,, z G,/=E,/ |"^*" _D,/=B,,/C, z =D,/E,/4F,/4 E,F,G,G,, | %19
+"_c" C,"^Epith-C"C,,_D,C,"_f" z"^Epith-C" C,_G,F,- | %20
+"^Epith-A""_B" F, E,2 _D,/C,/"^Epith-B""_b" D,2 =D,2 | %21
+"_e" E,"^Epith-C"B,,_CB,"_e" z"^Epith-C" B,,_F,E, | %22
+"^Epith-A""_A" E, D,2 _C,/B,,/"^Epith-B""_a" C,2 =C,2 |"_D" D,"^II, Db"D,F,E, z E,_G,F, | %24
+ z _G,CD- DC/B,/ A,G, | F,2 z"^III, Ab" =D,/E,/4F,/4 F,/=D,/E, z E,/C,/ | %26
+"^*" =A,,/G,,/_A,, z B,/C/4D/4 CDEE, |"_A" A,2 z"^Epith-Fo" A,"_B" _CB, z B, | %28
+"_c" DC z C"_b" ED z E |"_F" _G,F, z F _A,"_g!!"=G, z G | %30
+"_f" B,A, z"^III, f" B,/C/4D/4 D/=B,/C z C/=A,/ | _G,/=E,/F, z =G,/A,/4B,/4 A,B,CC, | %32
+ F,,2"^I, f" F,2 =E,2 _E,2 | =D,2 _D,2 C,B,,C,C,, | !fermata!F,,8 |] %35
+

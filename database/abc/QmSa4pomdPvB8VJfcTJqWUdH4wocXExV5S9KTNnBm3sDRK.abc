@@ -1,0 +1,49 @@
+X:1
+T:MARCHE EN RONDEAU
+T:Marc-Antoine Charpentier Arr. by: Vanák Gábor 2018
+T:TE DEUM
+T:Marche en Rondeau
+C:Marc-Antoine Charpentier
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ D2 | G2 GA B2 G2 | Md4{/c} B3 B | c2 dc Bc d2 | AGAB A2 D2 | G2 GA B2 G2 | Md4{/c} B3 B | %7
+ cdBc{BAB} A3 G | G6 dc | B2 G2 c2 cB |[M:4/4]{AB} A3 G F2 B2 | A2 GA F2 B2 |{AGA} G3 F E2 e2 | %13
+ e2 d2{ede} d3 c |{Bc} B3 A GAB^c | d3 e ^c3 d | d6 D2 || G2 GA B2 G2 | Md4{/c} B3 B | %19
+ c2 dc Bc d2 | AGAB A2 D2 | G2 GA B2 G2 | Md4{/c} B3 B | cdBc{BAB} A3 G | G6 B2 | B2 cB{AB} A3 B | %26
+ c4 c3 d |{cBc} B3 c{BAB} A3 B | B4 z cBA |{^GA} G2 E2 e3 d |{^cd} c3 B A2 Bc | d2 F2 G3 A | %32
+{GFG} F3 E D2 D2 |: G2 GA B2 G2 | Md4{/c} B3 B | c2 dc Bc d2 | AGAB A2 D2 | G2 GA B2 G2 | %38
+ Md4{/B} B3 B | cdBc{BAB} A3 G |1 G6 D2 :|2[M:3/4] G6 |] %42
+V:2
+ B,2 | D2 D2 G2 G2 | A2 F2 G3 G | G2 G2 G2 G2 | FEFG F2 D2 | D2 D2 G2 G2 | A2 F2 G3 G | %7
+ E2 D2 D3 D | D6 D2 | D2 D2 E2 E2 |[M:4/4] F3 E D2 D2 | C2 C2 B,2 B,2 | B,4 B,2 c2 | c2 B2 A2 D2 | %14
+ D4 D3 E | F2 E2 E2 FG |{FG} F3 E DA,B,C || D2 D2 G2 G2 | A2 F2 G3 G | G2 G2 G2 G2 | FEFG F2 D2 | %21
+ D2 D2 G2 G2 | A2 F2 G3 G | E2 D2 D3 D | D6 G2 | G2 AG F3 ^G | A4 E3 F | G2 F2 E3 F | %28
+ ^D2 FE F2 D2 | E2 B,2 ^G2 G2 | A4 E3 E | E2 D2 D2 ^C2 | D2 A,2 B,A,B,C |: D2 D2 G2 G2 | %34
+ A2 F2 G3 G | G2 G2 G2 G2 | FEFG F2 D2 | D2 D2 G2 G2 | A2 F2 G3 G | E2 D2 D3 D |1 D6 B,2 :|2 %41
+[M:3/4] D6 |] %42
+V:3
+ G,2 | B,2 B,C D2 B,2 | A,2 D2 D3 D | E2 E2 DCDE | D4 DCB,A, | B,2 B,C D2 B,2 | A,2 D2 DCB,A, | %7
+ G,2 G,2 F,2 G,A, | B,6 A,2 | G,2 B,2 C2 G,2 |[M:4/4] D4 A,2 G,2 | F,2 E,2 E,3 ^D, | %12
+ E,3 F, G,2 A,2 | F,2 F,G, A,2 F,2 | G,3 A, B,2 G,2 | A,2 B,2 A,3 A, | A,4 G,3 A, || %17
+ B,2 B,C D2 B,2 | A,2 D2 D3 D | E2 E2 DCDE | D4 DCB,A, | B,2 B,C D2 B,2 | A,2 D2 DCB,A, | %23
+ G,2 G,2 F,2 G,A, | B,6 D2 | E2 E2 D3 D | E2 C2 A,2 E2 | E2 B,2 C2 E,2 | F,3 E ^D2 D2 | %29
+ B,2 ^G,A, B,2 E2 | E3 D ^C2 DE | A,2 A,2 B,2 G,2 | A,4 G,3 A, |: B,2 B,C D2 B,2 | A,2 D2 D3 D | %35
+ E2 E2 DCDE | D4 DCB,A, | B,2 B,C D2 B,2 | A,2 D2 DCB,A, | G,2 G,2 F,2 G,A, |1 B,6 G,2 :|2 %41
+[M:3/4] B,6 |] %42
+V:4
+ G,2 | G,4 G,2 G,2 | F,2 D,2 G,2 G,G, | G,2 G,2 G,A,B,C | D2 D,2 D2 G,F, | G,4 G,2 G,2 | %6
+ F,2 D,2 G,3 G, | C2 G,,2 D,2 D,2 | G,6 F,2 | G,2 G,F, E,2 C,2 |[M:4/4] F,3 G, D,2 G,2 | %11
+ A,,2 A,,2 B,,2 B,,2 | E,4 E,2 C,2 | D,2 D,E, F,2 D,2 | G,4 G,2 G,2 | F,2 G,2 A,2 A,,2 | %16
+ D,2 D,C, B,,C,B,,A,, || G,4 G,2 G,2 | F,2 D,2 G,2 G,G, | G,2 G,2 G,A,B,C | D2 D,2 D2 G,F, | %21
+ G,4 G,2 G,2 | F,2 D,2 G,3 G, | C2 G,,2 D,2 D,2 | G,6 G,2 | E,2 C2 D2 CB, | A,4 A,2 A,2 | %27
+ E,2 D,2 C,4 | B,,4 B,2 B,2 | E,6 E,2 | A,4 A,2 G,2 | F,4 E,4 | D,2 D,C, B,,C,B,,A,, |: %33
+ G,4 G,2 G,2 | F,2 D,2 G,2 G,G, | G,2 G,2 G,A,B,C | D2 D,2 D2 G,F, | G,4 G,2 G,2 | F,2 D,2 G,3 G, | %39
+ C2 G,,2 D,2 D,2 |1 G,6 G,2 :|2[M:3/4] G,6 |] %42
+

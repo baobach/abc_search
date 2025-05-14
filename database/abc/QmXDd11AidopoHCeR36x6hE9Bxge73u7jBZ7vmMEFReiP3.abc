@@ -1,0 +1,82 @@
+X:1
+T:Bleus
+T:Bleus
+T:Cécile Chaminade
+T:Bleus
+T:Charles Fuster
+T:Creative Commons copyright waiver (CC0 1.0 Universal)
+T:Creative Commons copyright waiver (CC0 1.0 Universal)
+T:Creative Commons copyright waiver (CC0 1.0 Universal)
+T:Creative Commons copyright waiver (CC0 1.0 Universal)
+C:Cécile Chaminade
+Z:Charles Fuster
+Z:Creative Commons copyright waiver (CC0 1.0 Universal)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=92
+M:4/4
+K:D
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Moderato" z8 | %1
+w: |
+"^lieder.net placeholder https://www.lieder.net/lieder/get_text.html?TextId=31574\nwe should offer our text after review\n" z8 | %2
+w: |
+ z8 | z8 | z!p! F A F A3 F | F E!>(! G2- G4!>)! | z F A F B3"^cresc." B | A B c4- c z | %8
+w: ||Le bleu des fleurs est|a- pai- sant, _|Ce fût un baume ex-|quis à boi- re,|
+!f! c c e4 d2 |[Q:1/4=88]!>(! A2 G F!>)! A4 |[Q:1/4=92]"^dim." z G F E A F D B, | %11
+w: Mais le bleu des|yeux, à pré- sent,|M’en a fait per- dre la mé-|
+!p! (E4 D2- D) !fermata!z | z!p! (F A F!<(! ^E3 ^G!<)! | F3 A !breath!^E3) ^G | %14
+w: moi- re. _|Le bleu des lacs, chan-|tant et pur, En-|
+ F2!p! D2 C C B, B, | (D2 C2-) C z z2 | z!mf! (A c A!<(! ^G3!<)! B | A3 c ^G4) | %18
+w: dort les pei- nes nos- tal-|gi- ques, _|Le bleu des yeux a|mois d’a- zur|
+!p! A A =F F E2 D D | (E2 A,2) z2!pp! A2 | F2 E F G2 F G | F4- F E A G | F4- F E A G | %23
+w: Et des pro- fon- deurs plus tra-|gi- ques. Le|bleu du ma- tin dans les|cieux _ Prouve un Dieu|bon _ et nous y|
+ (F4 E2- E) z |!f! d2 d2 A2 A A | =c2 c2 !breath!=F2 F2 | A2 A2 D D =F F | %27
+w: mè- ne; _|Mais on fait, par le|bleu des yeux, Le|tour cru- el d’une âme hu-|
+[Q:1/4=88]!>(! (E4- E4!>)! | D/) z/!ppp![Q:1/4=92] F A F A3 F | F E G2- G4 | %30
+w: \- mai- *|ne. Au blue des lacs, au|bleu des fleurs, _|
+ z!p! F A F"^cresc." B3 B | A B!<(! c4-!<)! c z |!f! c2 e4 d d |!>(! A2 G F A4!>)! | %34
+w: Au bleu cal- mant de|l’at- mos- phè- re,|C’est l’autre, où l’on|boit les dou- leurs,|
+[Q:1/4=88] z!mp! (G F"^dim." E A F D B, |!pp![Q:1/4=80]!>(! E4!>)! D2- D) z |] %36
+w: C’est le bleu des yeux qu’on pré-|fè- re! _|
+V:2
+!mf! z ([Ge] [cg][Ge] [cg]3 [Ge]) |"_m.g." ([dg]4 [Ge]2) z2 |!p! z ([G,E] [CG][G,E] [CG]3 [G,E]) | %3
+ (([D^G]4 [^G,^E]2)) z2 |!p! z2 [A,DFA]4 [B,DFA]2 | z2 [A,CGA]4 [A,CGA]2 | %6
+ z2 [A,DFA]4"_cresc." [B,FAB]2 | z2 [CGAc]4 [CGAc]2 |!f! z2"_m.g." ([EA-e]4 [DAd]2) | %9
+!>(! [^DFA]2!>)!!p! [=cfa=c']6 |!<(! [B,=DG]4!<)!!>(! [DA]4!>)! | %11
+!p! (!arpeggio![G,A,CGA]4 !arpeggio![F,DFA]2- [F,DFA]) z |!p!!<(! [cfc']4!<)! [d^e^gd']4 | %13
+!p!!<(! [cfc']4!<)! [d^e^gd']4 | [ac']4 [fa]4 | [fa]4- [fa] z z2 | %16
+!mf!!<(! [eae']4!<)! [=f^gb=f']4 |!<(! [eae']4!<)! [=f^gb=f']4 |!p! [A,A]4- [A,A]4 | %19
+ [A,A]4- [A,EA] z z2 |!p! z2 [Bdga]4 [Acga]2 | z2 [Bdga]2 [Acga]4 | z2 [Bdga]2 [Acga]4 | %23
+ z2 [Bdga]2 [Acga]2- [Acga] z |!f! !>![=FAd]4 !>![EA]4 | !>![_E=c]4 !>![D=F]4 | %26
+ !>![^CA]4 !>![_B,D]2 !>![A,D=F]2 |!>(! [_B,DE-]4!>)!!p! [^CE]4 | %28
+!ppp!!<(! [^F,D]2 [A,DFA]4 [B,DFA]2 | z2 [A,CGA]4 [A,CGA]2!<)! |!p! z2 [A,DFA]4"_cresc." [B,DFB]2 | %31
+ z2 [CGAc]4 [CGAc]2 |!f!!<(! [CAc]2!<)! ([eae']4 [dad']2) |!>(! [^DFA]2!>)! [=cfa=c']6 | %34
+!mp!!>(! [=DG]4!>)!"_dim." [DA]4 |!pp!!>(! !arpeggio![G,A,CGA]4!>)! !arpeggio![DFA]2- [DFA] z |] %36
+V:3
+ !arpeggio![A,,E,C]4 [A,E]4- | [A,E]8 | (_B,,,2 _B,,4 B,,,2-) | !>!_B,4- B,2 z2 | z2 A,,4 A,,2- | %5
+ A,,2 A,,4 A,,2- | A,,2 A,,4 A,,2 | z2 [E,A,]4 [E,A,]2 | [F,,,F,,]4- [F,,,F,,]4 | %9
+ [B,,,B,,]4- [B,,,B,,]4 | (E,2 F,G, [A,,F,]4) | ([A,,,A,,]4 [D,,,D,,]2-) [D,,,D,,] z | %12
+[K:treble] [FA]4 [F^GB]4 | [FA]4 [F^GB]4 | A4 [FA]4 | [FA]4[K:bass] !>![F,,C,]4 | %16
+[K:treble] [CEA]4 [D=F^GB]4 | [CEA]4 [D=F^GB]4 |[K:bass] [A,,,A,,]2 [=F,,=F,]2 [E,,E,]2 [D,,D,]2 | %19
+ ([E,,E,]2 [A,,,A,,]2-) [A,,,A,,] z z2 |[I:staff -1] F2 EF G2 FG |[I:staff +1] z2 A,2- A,4 | %22
+ z2 A,2- A,4 | z2 A,2- A,2- A, z | !>!D4 !>![A,=C]4 | !>![=F,A,]4 !>![_B,,^G,]4 | %26
+ !>![A,,=G,]4 !>![_B,,=F,]2 !>![=F,,D,]2 | !>![G,,D,]4 [A,,,A,,]4 | z2 A,,4 A,,2- | %29
+ A,,2 A,,4 A,,2- | A,,2 A,,4 A,,2 | z2 [E,A,]4 [E,A,]2 | [F,,,F,,]4- [F,,,F,,]4 | %33
+ [B,,,B,,]4- [B,,,B,,]4 | (!>!E,2 F,G,) [A,,F,]4 | ([A,,,A,,]4 [D,,,D,,]2-) [D,,,D,,] z |] %36
+V:4
+ x8 | !>!_B4- B2 x2 | x8 | x8 | x8 | x8 | x8 | x8 | x2 !^!F4 x2 | x2 [^DFA]6 | x4 (A,2 B,2) | x8 | %12
+ x8 | x8 | (f2!p! d2 c2 B2) | (d2 c2- c) z z2 | x8 | x8 | x2 =F2 E2 D2 | E4- x4 | x8 | %21
+ F4- F"_m.g."(EAG) | F4- F(EAG) | (F4 E2-) E x | x8 | x8 | x8 | x4 (A,2 G,2) | x8 | x8 | x8 | x8 | %32
+ x2 ([EFA]4 [DFA]2) | x2 [^DFA]6 | (B,4 A,2 B,2) | x4[I:staff +1] F,2- F, x |] %36
+V:5
+ x8 | x8 | x8 | _B,,,4 x4 | D,,4- D,,4 | D,,4- D,,4 | D,,4- D,,4 | [E,,,E,,]4- [E,,,E,,]4 | x8 | %9
+ x8 | x8 | x8 |[K:treble] x8 | x8 | (F2 D2 C2 B,2) | (D2 C2)[K:bass] x4 |[K:treble] x8 | x8 | %18
+[K:bass] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | [D,,,D,,]4- [D,,,D,,]4 | D,,4- D,,4 | %30
+ D,,4- D,,4 | [E,,,E,,]4- [E,,,E,,]4 | x8 | x8 | x8 | x8 |] %36
+

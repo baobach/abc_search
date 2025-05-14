@@ -1,0 +1,47 @@
+X:1
+T:Zwölf Gesänge, Op.3
+T:Hier liegt ein Spielmann begraben
+T:9. Hier liegt ein Spielmann begraben
+T:Louise Reichardt
+T:Aus des Knaben Wunderhorn (von Arnim and Brentano)
+T:Zwölf Gesänge, Op.3
+T: Da laufen die Schwaben, Die Weiber nachtraben, Bis über die Grenzen, Mit Sichel und Sensen: Guten Morgen Spielleut', Nun schneidet das Korn.
+T:OpenScore (CC0)
+C:Louise Reichardt
+Z:Aus des Knaben Wunderhorn (von Arnim and Brentano)
+Z:OpenScore (CC0)
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=100
+M:2/4
+K:D
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+"^Bäurisch lustig"!mf! d d c c | d2 A!>(! A | (Bd) B d!>)! |!mp! A2 z A | A2 G A | F A z A | %6
+w: Gu- ten Mor- gen|Spiel- mann, wo|bleibst _ du so|lang? da|drun- ten, da|dro- ben, da|
+ A2 G A | F A A A | c d e c | d A A A | A2 G E | D2 z2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |1 %20
+w: tanz- ten die|Schwa- ben mit der|klein- en Kil- le-|kei- a mit der|gros- sen Kum|Kum.|||||||||
+ z2 z!mf! A :|2 x4 || %22
+w: Da||
+V:2
+!mf! [FA]/d/[FA]/d/ [EG]/c/[EG]/c/ |!>(! [FA]/d/[FA]/d/ [FA]/d/[FA]/d/ | %2
+ [GB]/d/[GB]/d/ [GB]/d/[GB]/d/!>)! |!pp! [FA]/d/!<(![FA]/d/ [FA]/d/[FA]/d/ | %4
+ [EG]/c/[EG]/c/ [EG]/c/!<)!!mp![EG]/c/ | [FA]/d/[FA]/d/ [FA]/d/[FA]/d/ | %6
+!<(! [EG]/c/[EG]/c/ [EG]/c/[EG]/c/ | [FA]/d/[FA]/d/ [FA]/d/[FA]/d/ | %8
+ [EG]/c/[EG]/c/ [EG]/c/[EG]/c/ | [FA]/d/[FA]/d/ [FA]/d/[FA]/d/!<)! | %10
+!f! [EG]/c/[EG]/c/ [EG]/c/[EG]/c/ | [FA]/d/[FA]/d/ [FA]!mp! !turn!A | %12
+ !wedge!c !wedge!e !wedge!c !wedge!e | !wedge!d !wedge!f !wedge!d !wedge!A | %14
+ z !wedge!A !wedge!B !wedge!c | !wedge!d !wedge!f !wedge!a !turn!A | %16
+ !wedge!c !wedge!e !wedge!c !wedge!e | !wedge!d !wedge!f !wedge!d !wedge!A | %18
+[K:bass] z !wedge!A,, !wedge!B,, !wedge!C, | D,2[K:treble] [Fd]2 |1 [Fd]2- [Fd]2 :|2 x4 || %22
+V:3
+ [D,A,][D,A,][D,A,][D,A,] | [D,A,][D,A,][D,A,][D,A,] | [D,G,][D,G,][D,G,][D,G,] | %3
+ [D,A,][D,A,][D,A,][D,A,] | [D,A,][D,A,][D,A,][D,A,] | [D,A,][D,A,][D,A,][D,A,] | %6
+ [D,A,][D,A,][D,A,][D,A,] | [D,A,][D,A,][D,A,][D,A,] | [D,A,][D,A,][D,A,][D,A,] | %9
+ [D,A,][D,A,][D,A,][D,A,] | [D,A,][D,A,][D,A,][D,A,] | [D,A,][D,A,][D,A,][D,A,] | %12
+ [A,EG][A,EG][A,EG][A,EG] |!<(! [A,DF][A,DF][A,DF][A,DF] | [A,EG]!<)!!mf![A,EG]!<(![A,EG][A,EG] | %15
+ [A,DF][A,DF][A,DF]!<)![A,DF] | [A,EG]!f![A,EG]!>(![A,EG][A,EG] | [A,DF][A,DF][A,DF][A,DF]!>)! | %18
+!mp! [A,EG]!<(![A,EG][A,EG][A,EG] | [DF]2 [D,A,]2!<)! |1!f! [D,A,]2- [D,A,]2 :|2!f! x4 || %22
+

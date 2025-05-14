@@ -1,0 +1,35 @@
+X:1
+T:Title
+%%score { 1 | ( 2 3 ) }
+L:1/8
+Q:1/4=100
+M:4/4
+K:A
+V:1 treble nm="Grand Piano"
+V:2 bass 
+V:3 bass 
+V:1
+ [A,C]>[B,D] [CE]2 [CA]>[DB] [Ec]2 | (3[FA][^EG][GB] [A,FA]>[A,DF] [A,CE]2 z2 | %2
+w: John~D.~Creswell * * * * *||
+ [G,B,D]>[A,CE] [B,DG]>[G,DF] [A,CE]2 [CEA]2 | [B,EG]>[B,EG] [A,^DF]>[A,DF] E2 z2 | %4
+w: ||
+ E>F G>A B>^A B2 | E>[EA] [EA]>[EB] [Ec]2 z2 | [Fd]>[Fd] [FA]>[^EB] [=Ec]2 [A,E]2 | %7
+w: |||
+ [A,^DF]>[A,DF] [B,=DG]>[DG] [CA]2 (3A,CE | A2 E>A c2 A>c | [Ge]2 [Gd]>[EB] [Ec]2 z2 | %10
+w: |||
+ [A,FA]2 [A,EG]>[A,DF] [A,E]2 [A,EA][Ec] | [^DB]2 [DA]>[Dc] B2 z2 | A2 E>A c2 A>c | %13
+w: |||
+ [Ge]2 [Gd]>B c2 z2 | (3[FA][^EG][GB] [FA]>F =E2 B2 | [CA]6 z2 |] %16
+w: |||
+V:2
+ [A,,E,]>[A,,E,] [A,,A,]2 [A,,E,]>[A,,E,] [A,,A,]2 | (3:2:2[D,A,]2 [D,A,] D,>D, A,,2 z2 | %2
+ E,>E, E,>E, A,,2 A,,2 | B,,>B,, B,,>B,, [E,G,]2 z2 | %4
+ [E,G,D]>[E,A,D] [E,B,D]>[E,A,C] [G,D]>[=G,C] [E,^G,D]2 | %5
+ [C,A,]>[C,A,] [C,A,]>[B,,G,] [A,,A,]2 z2 | [D,A,]>[D,A,] [D,A,]>[D,A,] [A,,A,]2 C,2 | %7
+ B,,>B,, E,>E, [A,,E,]2 (3A,,C,E, | [A,C]2 [A,C]>[A,C] [F,A,C]2 [F,CF]>[F,A,F] | %9
+ [E,B,]2 [E,B,]>[E,G,] A,2 z2 | D,2 D,>D, C,2 C,[A,,A,] | [B,,A,]2 [B,,F,]>[B,,A,] [E,G,D]2 z2 | %12
+ [A,C]2 [A,C]>[A,C] [F,A,C]2 [F,CF]>[F,A,F] | [E,B,]2 [E,B,]>[E,G,E] [A,E]2 z2 | %14
+ (3:2:2[D,A,]2 [D,A,] [D,A,]>[D,A,D] [E,A,C]2 [E,G,D]2 | [A,,A,]6 z2 |] %16
+V:3
+ x8 | x8 | x8 | x8 | z4 E,2 z2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %16
+

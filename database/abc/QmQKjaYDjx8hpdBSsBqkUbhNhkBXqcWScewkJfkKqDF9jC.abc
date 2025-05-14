@@ -1,0 +1,47 @@
+X:1
+T:Title
+%%score 1 ( 2 3 ) { 4 | 5 }
+L:1/8
+Q:1/4=100
+M:4/4
+K:Bb
+V:1 treble nm="Violin, Soprano"
+V:2 treble nm="Drawbar Organ, Staff-1"
+V:3 treble 
+V:4 bass nm="Church Organ, Merry Christmas Bells"
+V:5 bass 
+V:1
+ F2 F2 F2 GA | B3 c B2 A2 | B2 A2 A2 G2 | G2 c2 c4 | F2 F2 F2 GF | B2 Bc B2 A2 | cB A2 GA B2 | %7
+w: By~Albert~Junos~Holden * * * *|||||||
+ A2 G2 F4 | F2 G2 AG A2 | G2 A2 =BA B2 | c2 c2 c2 FG | ABcd e4 | d2 d2 d3 c | B2 =B2 c2 d2 | %14
+w: |||||||
+ e2 e2 e3 d | c2 B2 A2 G2 | F2 F2 F2 GA | B2 B2 B2 A2 | B2 A2 G2 G2 | A2 B2 c4 | d2 d2 d3 B | %21
+w: |||||||
+ e2 e2 d2 cB | A2 c2 f3 B | d2 c2 B4- | B4 z4 |] %25
+w: ||||
+V:2
+ z4 z2 .G2 | B3 c [FB]2 [FA]2 | [FB]2 [FA]2 [FA]2 [EG]2 | [EG]2 [=Ec]2 [_Ec]4 | [DF]2 [CF]2 F2 GF | %5
+ [DB]2 Bc [FB]2 [FA]2 | cB [FA]2 F-[FA] [FB]2 | [FA]2 [=EG]2 F4 | z4 .A2 z2 | z4 .=B2 z2 | %10
+ [Ec]2 [Gc]2 [Fc]2 FG | ABcd [FAe]4 | [DFd]2 [DFd]2 [D^Fd]3 [DAc] | [DGB]2 [DG=B]2 [EGc]2 [FGd]2 | %14
+ [EGe]2 [EGe]2 [Fce]3 [FBd] | [Gc]2 [GB]2 [FA]2 [EG]2 | z4 z2 .G2 | [B,DB]2 [B,FB]2 [CFB]2 [CFA]2 | %18
+ [B,FB]2 [B,FA]2 [B,EG]2 [CEG]2 | z4 [CAc]4 | [D^FAd]2 [DAd]2 [DBd]3 B | %21
+ [Ge]2 [EGe]2 [FG=Bd]2 c_B | [CFA]2 [FAc]2 [FBf]3 [EGB] | [DFBd]2 [EFAc]2 [DFB]4- | [DFB]4 z4 |] %25
+V:3
+ [DF]2 [DF]2 F2 F-[FA] | F2 =E2 z4 | x8 | x8 | z4 z2 E2 | z2 =E2 z4 | G2 z2 .G2 z2 | x8 | %8
+ F2 [FG]2 F-[FG] [FA]2 | [FG]2 [FG]2 F-[FA] [F=B]2 | x8 | x8 | x8 | x8 | x8 | x8 | %16
+ [DF]2 [B,DF]2 [B,F]2 E-[EA] | x8 | x8 | [CFA]2 [CFGA]2 F2 G2 | x8 | z4 z2 [CG]2 | x8 | x8 | x8 |] %25
+V:4
+ B,2 F,2 A,2 C2 | B,2[K:treble] C2 C2 C2 | B,2 B,2[K:bass] B,2 B,2 | C2 B,2 B,2 A,2 | %4
+ B,2 A,2 B,2 A,2 | B,2[K:treble] C2 C2 C2 | C2 C2 D2 D2 | C2 C[K:bass]B, A,4 | %8
+ A,2 B,2 CB,[K:treble] C2 | =B,2 C2 DC D2 | C2 E2 E2[K:bass] F,G, | A,B,CD C4 | B,2 B,2 A,3 A, | %13
+ G,2 G,F, C2 =B,2 | C2 B,2 A,3 B, | C2 C2 CF,G,A, | B,2 F,2 D,2 C,2 | B,,2 D,2 F,2 F,E, | %18
+ D,2 B,,2 E,2 CB, | A,2 G,2 F,2 E,2 | D,2 ^F,2 G,3 B, | B,2 C,2 D,2 E,2 | F,2 E,2 D,3 E, | %23
+ F,2 F,2 B,4- | B,4 z4 |] %25
+V:5
+ B,,2 B,,2 C,2 E,2 | D,2 G,2 F,2 F,E, | D,2 D,2 E,2 E,2 | C,2 C,2 F,4 | F,2 E,2 D,2 C,2 | %5
+ B,,2 G,2 F,2 F,2 | =E,2 F,2 B,2 G,2 | z2 C,2 F,4 | F,2 F,2 F,2 F,2 | G,2 G,2 G,2 G,2 | %10
+ G,2 B,2 A,2 z2 | z4 F,4 | B,,2 B,,2 D,3 ^F, | z4 E,2 D,2 | C,2 B,,2 A,,3 B,, | %15
+ E,2 =E,2 F,F,,G,,A,, | B,,2 F,,2 D,,2 C,,2 | B,,,2 D,,2 F,,2 F,,E,, | D,,2 B,,,2 E,,2 C,B,, | %19
+ A,,2 G,,2 F,,2 E,,2 | D,,2 F,,2 G,,4 | E,2 C,,2 D,,2 E,,2 | F,,2 E,,2 D,,3 E,, | F,,2 F,,2 B,,4- | %24
+ B,,4 z4 |] %25
+

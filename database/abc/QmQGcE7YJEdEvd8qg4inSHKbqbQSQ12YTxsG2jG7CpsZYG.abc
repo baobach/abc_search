@@ -1,0 +1,30 @@
+X:1
+T:Saint John Passion
+T:Und neiget das Haupt und vershied
+T:BWV 245 NBA #31 Und neiget das Haupt und vershied Recitative from the Saint John Passion
+T: More at http://bach.ejmaurath.com I reccommend AGAINST loading this into Musescore 3
+T:Johann Sebastian Bach (1685--1750) 
+T:Saint John, translated by Martin Luther 
+T:Sequenced by Edward J. Maurath
+C:Johann Sebastian Bach (1685--1750)
+Z:Saint John
+Z:Sequenced by Edward J. Maurath
+%%score 1 2 { 3 | 4 }
+L:1/8
+Q:1/4=40
+M:4/4
+K:A
+V:1 tenor nm="Voce\nTenore" snm="TEN"
+V:2 bass nm="Violoncello\nContinuo" snm="VCO"
+V:3 treble nm="Continuo" snm="B.C."
+V:4 bass 
+V:1
+"^40""^Evangelista" z C ^A,G,/F,/[Q:1/4=18]"^18" D^E,/F,/ F,C, | z4 |] %2
+w: Und nei- get das Haupt und ver- shi- ed.||
+V:2
+ ^A,,4 B,,2 z2 | C,2 F,,2 |] %2
+V:3
+ [CF]2 [CEF]2 [DF]2 z2 | [CF][B,C^E] [A,CF]2 |] %2
+V:4
+"^Cembalo" ^A,,4 B,,2 z2 |"^Organo" A,G, F,2 |] %2
+

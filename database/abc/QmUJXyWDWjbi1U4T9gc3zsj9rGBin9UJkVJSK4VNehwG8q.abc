@@ -1,0 +1,64 @@
+X:1
+T:Title
+T:Henry Cowell Three Irish Legends The Tides of Manaunaun 
+T:Story according to John Varian
+T:Manaunaun was the god of motion, and long before the creation, he sent forth tremendous tides, which swept to and fro through the universe, and rhythmically moved the particles and materials of which the gods were later to make the suns and worlds. 
+C:Composer
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+Q:1/4=60
+M:4/4
+K:Db
+V:1 bass nm="Piano" snm="Pno."
+V:4 bass 
+V:2 bass 
+V:3 bass 
+V:1
+"^smooth, full tone"!pp!"^Largo, with rhythm" z8 | z8 | (D,4 B,,4) | (([G,,D,]4 [F,,B,,]4)) | %4
+!p! ([D,F,]4 [C,=E,]2 [B,,D,]2 | ([G,,B,,]4) [F,,=A,,]4) | %6
+!mf! ([D,F,A,D]4[K:treble] (3[F,A,DF]3 [G,G] [A,A]2 | %7
+ (3[B,DFB]3 [Cc] [Dd]2 (3[CFAc]3 [B,B] [A,A]2) | ([B,DFB]4 (3[A,DFA]3 [F,F] [E,E]2 | %9
+ (3[D,E,G,B,D]3 [E,E] [F,F]2[K:bass] (3[E,G,B,E]3 [D,D] [B,,B,]2 | [B,,D,F,B,]8) | z8 | %12
+[K:treble]!ff!!8va(! ([bb']4 (3[ff']3 [aa'] [bb']2 | %13
+ (3[ff']3 [dd'] [cc']2!8va)!"^loco" (3[Bb]3 [Aa] [Ff]2) | %14
+!8va(! ([d'b'd'']4 (3[bg'b']3 [aa'] [ge'g']2!8va)! | %15
+"^loco" (3[fd'f']3 [dd'] [Bb]2 (3[Adfa]3 [Ff] [FBdf]2 | [FAcf]8) | %17
+!ff!!8va(! ([f'b'd''f'']4 [bf'b']2 [d'd'']2 | (3[c'f'a'c'']3 [aa'] [ff']2) ([be'b']2 [ebe']2 | %19
+ (3[fbd'f']3 [dd'] [Bb]2)!8va)!"^loco" ([Beb]2 [EBe]2 | (3[FBdf]3 [Aa] [Bdfb]2 [Bdfb]4) || %21
+[M:4/2]!fff!!8va(! [bb']4 (3[ff']3 [aa'] [bb']2!8va)!"^loco" (3[ff']3 [dd'] [cc']2 (3[Bb]3 [Aa] [Ff]2 | %22
+!8va(! [d'd'']4 (3[bb']3 [aa'] [gg']2"_cresc. e rit." (3[ff']3!8va)!"^loco" [dd'] [Bb]2 (3[Aa]3 [Ff] [Ee]2 | %23
+!ffff! ([DFAd]4 (3[FAdf]3 [Gg] [Aa]2 (3[Bdfb]3 [cc'] [dd']2 (3[cfac']3 [Bb] [Aa]2) | %24
+"_dim. molto" ([Bdfb]4 (3[Adfa]3 [Ff] [Ee]2 (3[DEGBd]3 [Ee] [Ff]2 (3[EGBe]3 [Dd] [B,B]2) || %25
+[M:4/4]!f! [B,DFB]4"_dim." (3[DF]3 [FA] [AB]2 | %26
+ (3[DF]3 [B,D] [F,C]2[K:bass]"_rit." !arpeggio![C,E,]4 | x8 |!p! D,,4"_a tempo" (3F,,3 G,, A,,2 | %29
+ F,,4- F,,4 |"_rit. e dim." (3D,3 C, B,,2 (3B,,2 A,,2 E,,2 |!pp! (3F,,3 D,, B,,,2!<(! B,,,4!<)! | %32
+ z8 |!p!!>(! (D,8!>)! |!pp! B,,8-) |!ppp! B,,8 |] %36
+V:2
+!8vb(! =A,,,,4 =D,,,4 | =A,,,,4 =D,,,4 | =A,,,,4 =D,,,4 | =A,,,,4 =D,,,4 | =A,,,,4 =D,,,4 | %5
+ =A,,,,4 =D,,,4 |!mp! =A,,,,4 =D,,,4 | =A,,,,4 =D,,,4 | =A,,,,4 =D,,,4 | =A,,,,4 =D,,,4 | %10
+ =A,,,,4 =D,,,4!8vb)! |!f!"^cresc."!8vb(! =A,,,,4 =D,,,4 | =A,,,,4 =D,,,4 | =A,,,,4 =D,,,4 | %14
+ =A,,,,4 =D,,,4 | =A,,,,4 =D,,,4 | =A,,,,4 =D,,,4 | =A,,,,4 =D,,,4 | =A,,,,4 =D,,,4 | %19
+ =A,,,,4 =D,,,4 | =A,,,,4 =D,,,4!8vb)! || %21
+[M:4/2]!8vb(! _B,,,,4 (3C,,,2 _D,,,2 _E,,,2 (3F,,,2!8vb)!"_loco" _G,,,2 _A,,,2 (3_B,,,2 C,,2 _D,,2 | %22
+!8vb(! _B,,,,4 (3C,,,2 _D,,,2 _E,,,2 (3F,,,2!8vb)!"_loco" _G,,,2 =G,,,2 (3_A,,,2 _B,,,2 =C,,2 | %23
+!8vb(! !arpeggio!=A,,,,4 !arpeggio!=D,,,4 !arpeggio!F,,,4 !arpeggio!=A,,,4 | %24
+ !arpeggio!=A,,,,4 !arpeggio!=D,,,4 !arpeggio!F,,,4 !arpeggio!=A,,,4!8vb)! || %25
+[M:4/4]!8vb(! =A,,,,4 =D,,,4 | =A,,,,4 =D,,,4 | =A,,,,8 | =A,,,,4 =D,,,4 | =A,,,,4 =D,,,4 | %30
+ =A,,,,4 =D,,,4 | =A,,,,4 =D,,,4 |!p!!>(! =A,,,,4 =D,,,4!>)! | =A,,,,2 x2 =D,,,4 | %34
+ =A,,,,2 x2 =D,,,4 | =A,,,,8!8vb)! |] %36
+V:3
+!8vb(! (=A,,,4 =D,,4) | (=A,,,4 =D,,4) | (=A,,,4 =D,,4) | (=A,,,4 =D,,4) | (=A,,,4 =D,,4) | %5
+ (=A,,,4 =D,,4) | (=A,,,4 =D,,4) | (=A,,,4 =D,,4) | (=A,,,4 =D,,4) | (=A,,,4 =D,,4) | %10
+ (=A,,,4 =D,,4)!8vb)! |!8vb(! (=A,,4 =D,4) | (=A,,4 =D,4) | (=A,,4 =D,4) | (=A,,4 =D,4) | %15
+ (=A,,4 =D,4) | (=A,,4 =D,4) | (=A,,4 =D,4) | (=A,,4 =D,4) | (=A,,4 =D,4) | (=A,,4 =D,4)!8vb)! || %21
+[M:4/2]!8vb(! (_B,,4 (3=C,2 _D,2 _E,2 (3F,2!8vb)! _G,2 _A,2 (3_B,2 C2 _D2) | %22
+!8vb(! (_B,,4 (3C,2 _D,2 _E,2 (3F,2!8vb)! _G,2 =G,2 (3_A,2 _B,2 =C2) |!8vb(! (=D,4 F,4 =A,4 =D4) | %24
+ (=D,4 F,4 =A,4 =D4)!8vb)! ||[M:4/4]!8vb(! (=A,,,4 =D,,4) | (=A,,,4 =D,,4) | =A,,,8 | %28
+ (=A,,,4 =D,,4) | (=A,,,4 =D,,4) | (=A,,,4 =D,,4) | (=A,,,4 =D,,4) | (=A,,,4 =D,,4) | %33
+ =A,,,2 z2 (=D,,4 | =A,,,2) z2 (=D,,4 | =A,,,8)!8vb)! |] %36
+V:4
+ x8 | x8 | x8 | x8 | x8 | C,8 | x4[K:treble] x4 | x8 | x8 | x4[K:bass] x4 | x8 | x8 | %12
+[K:treble]!8va(! x8 | x4!8va)! x4 |!8va(! x8!8va)! | x8 | x8 |!8va(! x8 | x8 | x4!8va)! x4 | x8 || %21
+[M:4/2]!8va(! x8!8va)! x8 |!8va(! x10!8va)! x6 | x16 | x16 ||[M:4/4] x8 | x4[K:bass] B,2 A,2 | %27
+ !arpeggio![D,,A,,D,F,]6 z2 | x8 | (3B,,3 C, D,2 [A,,C,]4 | x8 | x8 | x8 | x8 | x8 | x8 |] %36
+

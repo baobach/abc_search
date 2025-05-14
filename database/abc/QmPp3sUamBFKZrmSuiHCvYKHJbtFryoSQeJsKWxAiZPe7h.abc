@@ -1,0 +1,39 @@
+X:1
+T:Title
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Grand Piano"
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+ z4 z2[Q:1/4=100] C2 | [A,CF]2 [B,EA]>[B,EG] [A,F]2 [CFA]2 | c2- [Bc-]2 [Ac]2 [B,C]2 | %3
+ [A,CF]2 [B,EA]>[B,EG] [A,F]2 [CFA]2 | c2- [Bc-]2 [Ac]2 [CAc]2 | [DFd]2 [CFA][DFd] [Ec]2 [CEA]2 | %6
+ [Fd]2 [FA][Fd] c4 | A2 A2 G2 F2 | F2 E2 D2 C2 | F2 [B,EA]>[B,EG] [A,F]2 [CFA]2 | %10
+ c2- [Bc-]2 [Ac]2 [B,C]2 | [A,CF]2 [B,EA]>[B,EG] [A,F]2 [CFA]2 | c2- [Bc-]2 [Ac]2 [CAc]2 | %13
+ [Af]2 [Ae]2 [DAd]2 [^CGA]2 | [D^Fd]2 [DAc]2 [DGB]2 [B,D]2 | [B,EA]4 [B,EG]4 | z2 cc c2 c2 | %17
+ A4 A4 | A4 A4 | [DG]2 [Gd]2 [DGd]2 [DGd]2 | d2 dd d2 d2 | G4 G4 | G4 G4 | F2 c2 c2 c2 | %24
+ c2 d2 c2 B2 | A4 A4 | A4 A4 | [DG]2 [DGd]2 [DGd]2 [DGd]2 | [DGd]6 [Dd]2 | %29
+ [Af]2 [Ae]2 [DAd]2 [^CGA]2 | [D^Fd]2 [DAc]2 [DGB]2 [B,D]2 | [B,EA]4 [B,EG]4 |[M:3/4] [A,CF]6 |] %33
+V:2
+ z4 z2 C,2 | F,2 C,>C, F,2 F,2 | z2 D2 C2 C,2 | F,2 C,>C, F,2 F,2 | z2 D2 C2 F,2 | %5
+ D,2 D,D, A,2 A,2 | [D,D]2 [D,D][D,D][K:treble] [A,E]4 | [G,=B,F]2 [G,B,F]2 [G,B,E]2 [G,B,D]2 | %8
+ [C,B,C]2 [C,B,C]2 [D,B,C]2 [E,B,]2 | [F,A,C]2 C,>C, F,2 F,2 | z2 D2 C2 C,2 | F,2 C,>C, F,2 F,2 | %12
+ z2 D2 C2 F,2 | [D,D]2 [E,^C]2 F,2 D,2 | D,2 ^F,2 G,2 G,2 | C,4 C,4 | F,6 z2 | z2 C2 z2 =B,2 | %18
+ z2 D2 z2 C2 | [B,,,B,,]2 [B,,G,]2 [B,,G,]2 [B,,G,]2 | [B,,G,]6 z2 | z2 C2 z2 B,2 | %22
+ z2 =B,2 z2 [_B,C]2 | [F,A,C]2 [F,A,F]2 [^F,A,_E]2 [F,A,E]2 | [G,B,E]2 [G,B,E]2 B,2 C2 | %25
+ z2 C2 z2 C2 | z2 D2 z2 C2 | [B,,,B,,]2 [B,,G,]2 [B,,G,]2 [B,,G,]2 | [B,,G,]6 z2 | %29
+ [D,D]2 [E,^C]2 F,2 E,2 | D,2 ^F,2 G,2 G,2 | C,4 C,4 |[M:3/4] F,6 |] %33
+V:3
+ x8 | x8 | [CE]2 z2 z4 | x8 | [CE]2 z2 z4 | x8 | x8 | x8 | x8 | x8 | [CE]2 z2 z4 | x8 | %12
+ [CE]2 z2 z4 | x8 | x8 | x8 | [A,CF]6 z2 | z2 F2 z2 G2 | z2 F2 z2 F2 | x8 | [DG]6 z2 | %21
+ z2 E2 z2 D2 | z2 F2 z2 E2 | x8 | z4 E4 | z2 F2 z2 G2 | z2 F2 z2 F2 | x8 | x8 | x8 | x8 | x8 | %32
+[M:3/4] x6 |] %33
+V:4
+ x8 | x8 | C,6 z2 | x8 | C,6 z2 | x8 | x4[K:treble] x4 | x8 | x8 | x8 | C,6 z2 | x8 | C,6 z2 | x8 | %14
+ x8 | x8 | x8 | [F,,F,]4 [E,,E,]4 | [D,,D,]4 [C,,C,]4 | x8 | x8 | [C,,C,]4 [^C,,^C,]4 | %22
+ [D,,D,]4 [E,,E,]4 | x8 | z4 C,4 | [F,,F,]4 [E,,E,]4 | [D,,D,]4 [C,,C,]4 | x8 | x8 | x8 | x8 | x8 | %32
+[M:3/4] x6 |] %33
+

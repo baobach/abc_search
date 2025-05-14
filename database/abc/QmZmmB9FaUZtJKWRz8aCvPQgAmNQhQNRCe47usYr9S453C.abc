@@ -1,0 +1,63 @@
+X:1
+T:Jingle Bells
+T:Jingle Bells
+T:Ragtime
+T:Jan Haas
+C:Jan Haas
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=160
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^Tempo di ragtime" F2 d2 c2 B2 | F8 | F2 d2 c2 B2 | G8 | G2 e2 d2 c2 | f2 f2 f2 f2 | g2 f2 e2 f2 | %7
+ d8 | F2 d2 c2 B2 | F8 | F2 d2 c2 B2 | G8 | G2 e2 d2 c2 | f2 f2 f2 f2 | g2 f2 e2 c2 | %15
+ (B4 !fermata!c4) | [FBd]2 [FBd]2 [FBd]4 | [FBd]2 [FBd]2 [FBd]4 | [FBd]2 [FBf]2 [FB]2 [FBc]2 | %19
+ [FBd]8 | [GBe]2 [GBe]2 [GBe]2 [GBe]2 | [FBe]2 [FBd]2 [FBd]2 [FBd]2 | [FAd]2 [FAc]2 [FAc]2 [FAd]2 | %23
+ [FAc]4 [FAcf]4 | [FBd]2 [FBd]2 [FBd]4 | [FBd]2 [FBd]2 [FBd]4 | [FBd]2 [FBf]2 [FB]2 [FBc]2 | %27
+ [FBd]8 | [GBe]2 [GBe]2 [GBe]2 [GBe]2 | [FBe]2 [FBd]2 [FBd]2 [FBd]2 | [FAf]2 [FAe]2 [FAd]2 [FAc]2 | %31
+ !fermata![DFB]8 |!8va(! f2 d'2 c'2 b2 | f8 | f2 d'2 c'2 b2 | g8 | g2 e'2 d'2 c'2 | %37
+ f'2 f'2 f'2 f'2 | g'2 f'2 e'2 f'2 | d'8 | f2 d'2 c'2 b2 | f8 | f2 d'2 c'2 b2 | g8 | %44
+ g2 e'2 d'2 c'2 | f'2 f'2 f'2 f'2 | g'2 f'2 e'2 c'2 | b4!8va)! c4 | d2 d2 d4 | d2 d2 d4 | %50
+ d2 f2 B2 c2 | d8 | e2 e2 e2 e2 | e2 d2 d2 d2 | d2 c2 c2 d2 | c4 f4 | [FBd]2 [FBd]2 [FBd]4 | %57
+ [FBd]2 [FBd]2 [FBd]4 | [FBd]2 [FBf]2 [FB]2 [FBc]2 | [FBd]8 | [GBe]2 [GBe]2 [GBe]2 [GBe]2 | %61
+ [FBe]2 [FBd]2 [FBd]2 [FBd]2 | [FAf]2 [FAe]2 [FAd]2 [FAc]2 | [FB]8 | z8 | z8 | %66
+ z4!8va(! [bd'f'b']2 z2!8va)! |] %67
+V:2
+ [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %2
+ [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | [E,,,E,,]2 [E,G,B,]2 [B,,,B,,]2 [E,G,B,]2 | %4
+ [E,,,E,,]2 [E,G,B,]2 [B,,,B,,]2 [E,G,B,]2 | [A,,,A,,]2 [F,A,C]2 [F,,,F,,]2 [F,A,C]2 | %6
+ [A,,,A,,]2 [F,A,C]2 [C,,C,]2 [F,A,C]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %8
+ [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %10
+ [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | [E,,,E,,]2 [E,G,B,]2 [B,,,B,,]2 [E,G,B,]2 | %12
+ [E,,,E,,]2 [E,G,B,]2 [B,,,B,,]2 [E,G,B,]2 | [A,,,A,,]2 [F,A,C]2 [C,,C,]2 [F,A,C]2 | %14
+ [A,,,A,,]2 [F,A,C]2 [F,,,F,,]2 [F,A,C]2 | [B,,,B,,]2 [F,B,D]2 !fermata![F,A,CE]4 | %16
+ [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %18
+ [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %20
+ [E,,,E,,]2 [E,G,B,]2 [G,,,G,,]2 [E,G,B,]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %22
+ [A,,,A,,]2 [F,A,C]2 [F,,,F,,]2 [F,A,C]2 | [A,,,A,,]2 [F,A,C]2 [C,,C,]2 [F,A,C]2 | %24
+ [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %26
+ [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %28
+ [E,,,E,,]2 [E,G,B,]2 [G,,,G,,]2 [E,G,B,]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %30
+ [A,,,A,,]2 [F,A,C]2 [C,,C,]2 [F,A,C]2 | [B,,,B,,]2 [F,B,D]2 !fermata![F,A,CE]4 | %32
+ [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %34
+ [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | [E,,,E,,]2 [E,G,B,]2 [B,,,B,,]2 [E,G,B,]2 | %36
+ [E,,,E,,]2 [E,G,B,]2 [B,,,B,,]2 [E,G,B,]2 | [A,,,A,,]2 [F,A,C]2 [C,,C,]2 [F,A,C]2 | %38
+ [A,,,A,,]2 [F,A,C]2 [F,,,F,,]2 [F,A,C]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %40
+ [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %42
+ [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | [E,,,E,,]2 [E,G,B,]2 [B,,,B,,]2 [E,G,B,]2 | %44
+ [E,,,E,,]2 [E,G,B,]2 [B,,,B,,]2 [E,G,B,]2 | [A,,,A,,]2 [F,A,C]2 [C,,C,]2 [F,A,C]2 | %46
+ [A,,,A,,]2 [F,A,C]2 [F,,,F,,]2 [F,A,C]2 | [B,,,B,,]2 [F,B,D]2 !fermata![F,A,CE]4 | %48
+ [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %50
+ [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %52
+ [E,,,E,,]2 [E,G,B,]2 [G,,,G,,]2 [E,G,B,]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %54
+ [A,,,A,,]2 [F,A,C]2 [C,,C,]2 [F,A,C]2 | [A,,,A,,]2 [F,A,C]2 [F,,,F,,]2 [F,A,C]2 | %56
+ [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %58
+ [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %60
+ [E,,,E,,]2 [E,G,B,]2 [G,,,G,,]2 [E,G,B,]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %62
+ [A,,,A,,]2 [F,A,C]2 [F,,,F,,]2 [F,A,C]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %64
+ [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | [B,,,B,,]2 [F,B,D]2 [F,,,F,,]2 [F,B,D]2 | %66
+ [B,,,B,,]2 [F,,,F,,]2!8vb(! [B,,,,F,,,B,,,]2 z2!8vb)! |] %67
+

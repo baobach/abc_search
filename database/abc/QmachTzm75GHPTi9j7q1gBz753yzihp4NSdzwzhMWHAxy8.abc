@@ -1,0 +1,56 @@
+X:1
+T:Title
+%%score ( 1 2 3 ) { ( 4 6 ) | 5 }
+L:1/8
+Q:1/4=100
+M:3/4
+K:G
+V:1 treble nm="Bright Piano"
+V:2 treble 
+V:3 treble 
+V:4 bass nm="Bright Piano"
+V:6 bass 
+V:5 bass 
+V:1
+ [DG]2 [DG]2 G2 | [GB]4 [DG]2 | c4 z2 | [CA]2 [B,G]2 z2 | [DB]2 [DB]2 [^CB]2 | A4 z2 | c4 z2 | %7
+w: Justin~H.~Knecht * *|||||||
+ [DB]2 [DA]2 z2 | [^CA]2 [DA]2 [EA]2 | z2 z2 .B2 | F4 z2 | [A,D]6 | [DG]2 [DG]2 G2 | [GB]4 [DG]2 | %14
+w: |||||||
+ c4 z2 | [CA]2 [B,G]2 z2 | [DB]2 [DB]2 [^CB]2 | A4 z2 | c4 z2 | [DB]2 [DA]2 z2 | %20
+w: ||||||
+ [^CA]2 [DA]2 [EA]2 | z2 z2 .B2 | F4 z2 | [A,D]6 | [A,D]2 [A,D]2 [A,D]2 | [A,D]2 [DF]2 [DA]2 | %26
+w: ||||||
+ [Fd]4 [Fd]2 | [Ad]2 [Fc]2 z2 | [GB]2 [GB]2 [Gd]2 | d2 c2 B-[=FB] | B2 z2 z2 | [DA]6 | %32
+w: ||||||
+ [DG]2 [DG]2 G2 | [GB]4 G2 | [Gd]4 [GB]2 | [DG]2 [B,=F]2 z2 | [CE]2 [B,E]2 E2 | [Ec]4 [EA]2 | %38
+w: ||||||
+ [DG]4 [CF]2 | [DG]6 |] %40
+w: ||
+V:2
+ x6 | x6 | E2 D2 [DB]2 | x6 | x6 | ^C2 D2 [DB]2 | E2 D2 [DB]2 | x6 | x6 | [Dd]4 D-[DG] | D2 z2 E2 | %11
+ x6 | x6 | x6 | E2 D2 [DB]2 | x6 | x6 | ^C2 D2 [DB]2 | E2 D2 [DB]2 | x6 | x6 | [Dd]4 D-[DG] | %22
+ D2 z2 E2 | x6 | x6 | x6 | x6 | x6 | x6 | G4 .G2 | E2- [EA]2 [EA]2 | x6 | x6 | x6 | x6 | x6 | x6 | %37
+ x6 | x6 | x6 |] %40
+V:3
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z2 ^C4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | z2 ^C4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %38
+ x6 | x6 |] %40
+V:4
+ B,2 B,2 D2 | D4 B,2 | G,2 A,2 G,2 | F,2 D,2 z2 | G,2 G,2 G,2 | G,2 F,2 G,2 | G,2 F,2 G,2 | %7
+ G,2 F,2 z2 | G,2 F,2 E,2 | F,4 G,B, | A,4 G,2 | F,6 | B,2 B,2 D2 | D4 B,2 | G,2 A,2 G,2 | %15
+ F,2 D,2 z2 | G,2 G,2 G,2 | G,2 F,2 G,2 | G,2 F,2 G,2 | G,2 F,2 z2 | G,2 F,2 E,2 | F,4 G,B, | %22
+ A,4 G,2 | F,6 | F,2 F,2 F,2 | F,2 A,2 F,2 | z2 F,2[K:treble] D2 | F2 D2 z2 | D2 D2 B,2 | C4 G,2 | %30
+ G,4 G,2 | F,6 | B,2 B,2 B,2 | D4 B,2 | z2 G,2 D2 | G,2 G,2 z2 | G,2 G,2 A,2 | A,4 A,2 | z2 A,4 | %39
+ B,6 |] %40
+V:5
+ G,2 D,2 B,,2 | G,,4 =F,2 | E,2 F,2 z2 | D,2 G,,2 z2 | G,,2 B,,2 E,2 | E,2 D,C, B,,2 | %6
+ A,,2 D,2 G,,2 | D,2 D,2 z2 | E,2 D,2 ^C,2 | B,,4 G,,2 | A,,4 A,,2 | D,6 | G,2 D,2 B,,2 | %13
+ G,,4 =F,2 | E,2 F,2 z2 | D,2 G,,2 z2 | G,,2 B,,2 E,2 | E,2 D,C, B,,2 | A,,2 D,2 G,,2 | %19
+ D,2 D,2 z2 | E,2 D,2 ^C,2 | B,,4 G,,2 | A,,4 A,,2 | D,6 | [D,,D,]2 F,,2 A,,2 | D,4 D,2 | %26
+ D,2 z2 A,2 | D2 D,2 z2 | G,,2 G,2 =F,2 | E,4 D,2 | C,4 ^C,2 | D,6 | G,,2 B,,2 D,2 | G,4 G,2 | %34
+ z2 z2 D,2 | B,,2 G,,2 z2 | C,2 E,2 C,2 | A,,2 B,,2 C,2 | D,4 z2 | G,,6 |] %40
+V:6
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | A,4[K:treble] z2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | B,4 z2 | %35
+ x6 | x6 | x6 | B,2 z2 D,2 | x6 |] %40
+

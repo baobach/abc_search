@@ -1,0 +1,83 @@
+X:1
+T:Maple Leaf Rag
+T:Maple Leaf Rag
+T:For String Quartet
+T:Scott Joplin Arr. Nicholas Rodriguez
+C:Scott Joplin
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=100
+M:2/4
+K:G
+V:1 treble nm="Violin I"
+V:2 treble nm="Violin II"
+V:3 alto nm="Viola"
+V:4 bass nm="Violoncello"
+V:1
+"^-120" z2 |: z/!f! G/d/G/ B/dF/ | d/F/A/d/- d2 | z!mf! .B, .B, z | z .C .C z | z4 | %6
+ z/!f! G/_B/_e/ z/ d/ z/ z/ | z4 | z2 z/ g/_b/g'/ | gg gg/g/- | g/d/e/B/ d/eG/- | %11
+ G/A/_B/G/ A/=BG/ | B/G/A .G z | .^A.A .A.A | .B.B .B.B | .^A.A .B.B |1 .B.c .B z :|2 .G.F .G z |: %18
+ z/ f/d'/f/ a/^c'f/ | c'/f/a/b/- b/d/a/d/ | z/ B/g/B/ d/eB/ | g/B/d/e/- e/B/e | z .C z .C | %23
+ z .C z2 | z .B, z .B, | z .B, z2 | z/ f/d'/f/ a/^c'f/ | c'/f/a/b/- b/d/a/d/ | z/ B/g/B/ d/eB/ | %29
+ .g.g .f.=f | z/ E/^G/B/ e/B/G/E/ | z/ E/A/c/ e[EA] | [EB] z/ [EB]/ z/ AD/ |1 Gd dd :|2 %34
+ z/ G/B/d/ g!mp!d || .g.g .g^g | .a.f .fd | .g.g .g^g | .a.f .fd | z4 | z/!f! G/_B/_e/ z/ d/ z | %41
+ z4 | z2 z/ g/_b/g'/ |!mp! .^A.A .A.A | .B.B .B.B | .^A.A .B.B | .B.c .B z | .^A,.A, .A,.A, | %48
+ .B,.B, .B,.B, | .^A,.A, .B,.B, | .B,.C .B,d |:[K:C] d>d- d/B/ z | d>d- d/B/ z | z .C z .C | %54
+ z .C z2 | G>A- A/ z3/2 | G>A- A/ z3/2 | z .E z .E | z .E z2 | A>B- B/^c/B | A>B- B/^c/B/c/ | %61
+ z/ d/a/d/ f/bd/ | a/d/f/b/- b/d/a | c'c' ba | z .E z .^C | .C.C .B,.B, |1 .C.E .E z :|2 z2 z B |: %68
+[K:G]!p! .c.e .eB | .c.e .A^A | .B.B .B.D | .G.B .D^G | .A.c .D^G | .A.c .DF | .G.B .D.B | %75
+ .G.B .AB | .c.e .eB | .c.e .A^A | .B.d .d.D | .G.B .DB |"_cresc." .c.c .A.^c | .D.B .D^D | %82
+ .EE .FF |1!f! .G.G .A!>!B :|2!ff! .G.d .g z |] %85
+V:2
+ z2 |: z!mf! .B, .B, z | z .C .C z | z/!f! G/d/G/ B/dF/ | d/F/A/d/- d2 | z4 | %6
+ z/ G,/_B,/_E/ z/ D/ z/ z/ | z4 | z/ G/_B/g/ g2 | .^A.A .A.A | .B.B .B.B | .^A.A .B.B | .B.c .B z | %13
+ .[EG].[EG] .[EG].[EG] | .G.G .G.G | .G.G .G.G |1 .G.F .G z :|2 .B,.C .B, z |: z .C z .C | %19
+ z .C z2 | z .B, z .B, | z .B, z2 | z/ d/f/A/ c/ed/ | f/A/c/e/- e/B/e | z/ B/g/B/ d/eB/ | %25
+ g/B/d/e/- e/B/e | z .C z .C | z .C z2 | z .B, z .B, | .G.G .F.=F | .E.E .^G.G | .A.c .c.c | %32
+ [^CG] z/ [CG]/ z/ CD/ |1 B,.D .DD :|2 z .D .D z ||!mp! .G.d .d^G | .A.d .dd | .G.d .d^G | %38
+ .A.d .dd | z4 | z/!f! G,/_B,/_E/ z/ D/ z | z4 | z/ G/_B/g/ G2 |!mp! .[EG].[EG] .[EG].[EG] | %44
+ .G.G .G.G | .G.G .G.G | .G.F .G z |!mp! .[EG].[EG] .[EG].[EG] | .G.G .G.G | .G.G .G.G | %50
+ .G.F .GG |:[K:C] B>B- B/B/A | B>B- B/B/A/B/ | G/c/A/c/ e/g/c/e/ | A/c/e/G/- G/e/A/e/ | %55
+ d>d- d/B/ z | d>d- d/B/ z | z .C z .C | z .C z3/2 d/ | e>e- e/e/ z | e>e- e/e/B/e/ | z .A z .A | %62
+ z .A z2 | _ee ee | e/c/d/f/- f/A/e | e/c/d/e/- e/B/d/c/- |1 c/ge/ g/e/g/e/ :|2 c/c/e/g/ c' z |: %68
+[K:G]!p! .C.G .GB, | .C.G .A,^A, | .B,.G .G.D | .G,.G .D^G | .A,.A .D^G | .A,.A .DF | .G,.G .D.G | %75
+ .G,.G .A,B, | .C.G .GB, | .C.G .A,^A, | .B,.G .G.D | .G,.G .DG |"_cresc." .C.C .A,.^C | %81
+ .D.G .D^D | .EE .FF |1!f! .G.B .A!>!B :|2!ff! .D.C .B, z |] %85
+V:3
+ z!mf! D, |: .G,.G, .G,^G, | .A,.F, .F,D, | .G,.G, .G,^G, | .A,.F, .F,D, | %5
+ z/!f! G,/_B,/_E/ z/ D/ z/ D/ | ^D,2 =D, z | G,2- G,/G,/_B,/G/ | G4 | .[EG].[EG] .[EG].[EG] | %10
+ .G.G .G.G | .G.G .G.G | .G.F .G z/ G/- | GG GG/G/- | G/D/E/B,/ D/EG,/- | %15
+ G,/A,/_B,/G,/ A,/=B,G,/ |1 B,/G,/A, .G, z :|2 B,/G,/A, G, z |: .A,.F, .D,.F, | .A,.F, .D,F, | %20
+ .G,.G, .D,.G, | .G,.G, .G,^G, | .A,.G, .D,.G, | .A,.G, .A,^A, | .B,.G, .D,.G, | .G,.G, .G,^G, | %26
+ .A,.G, .D,.G, | .A,.G, .D,F, | .G,.G, .D,.G, | .G,.G, .F,.=F, | .E,.E, .^G,.G, | .A,.A, .A,.A, | %32
+ .[D,A,].[D,A,] .D,F, |1 .G,.[G,B,] .[G,B,].^G, :|2 z .B, .B, z || z!mf! .B, .B, z | z .C .C z | %37
+ z/!f! G,/D/G,/ B,/DF,/ | D/F,/A,/D/- D2 | z/ G,/_B,/_E/ z/ D/ z/ D/ | ^D,2 =D, z | %41
+ G,2 z/ G,/_B,/G/ | G,4 |!f! GG GG/G/- | G/D/E/B,/ D/EG,/- | G,/A,/_B,/G,/ A,/=B,G,/ | %46
+ B,/G,/A, G, z | .^C.C .C.C | .D.D .D.D | .^D.D .=D.D | .D.D .G,G |:[K:C] G>A- A/ z3/2 | %52
+ G>A- A/ z3/2 | z .E, z .E, | z .E, z2 | B>B- B/B/A | B>B- B/B/A/B/ | G/c/A/c/ e/g/c/e/ | %58
+ A/c/e/G/- G/e/^A/e/ | ^c>c- c/c/ z | ^c>c- c/c/ z | z .F z .F | z .F z2 | cc BA | %64
+ G/C/D/A/- A/A/G | ^F/C/D/=F/ B,/F/E |1 C/GE/ G/E/G/E/ :|2 C/C/E/G/ c z |:[K:G]!mp! GG GG | %69
+ EE/E/- E/A/G/E/ | D/EG/- G2 | z/ D/G/B,/ D/GB,/ | DE/F/- F2 | z/ C/F/A,/ C/FG/- | %74
+ G/D/G/B,/ D/GG/- | G/D/G/B,/ D/GD/ | GG GG | EE/E/- E/A/G/E/ | GE D/GG/- | %79
+ G/D/G/B,/ D/G"_cresc."E/- | EE _EE/D/- | D D2 D/^C/- | C^C z/ =C/D |1!f! B,!>!D !>!D!>!D :|2 %84
+!ff! .B,.A, .G, z |] %85
+V:4
+ z!mf! D,, |: .G,,.D, .D,^G,, | .A,,.D, .D,D,, | .G,,.D, .D,^G,, | .A,,.D, .D,D, | ^D,2 =D,D, | %6
+ ^D,2 =D, z | z/!f! G,,/_B,,/G,/ G,,2- | G,,2 z2 | .^C.C .C.C | .D.D .D.D | .^D.D .=D.D | %12
+ .D.D .G, z | .^C,.C, .C,.C, | .D,.D, .D,.D, | .^D,.D, .=D,.D, |1 .D,.D, .G,,D,, :|2 %17
+ .D,.D, .G,,^G,, |: .A,,.D, .D,,.D, | .A,,.D, .D,,F,, | .G,,.D, .D,,.D, | .G,,.D, .G,,^G,, | %22
+ .A,,.D, .D,,.D, | .A,,.D, .A,,^A,, | .B,,.D, .D,,.D, | .G,,.D, .G,,^G,, | .A,,.D, .D,,.D, | %27
+ .A,,.D, .D,,F,, | .G,,.D, .D,,.D, | .G,,.G,, .F,,.=F,, | .E,,.E,, .^G,,.G,, | .A,,.E, .E,.E, | %32
+ .A,,.A,, .D,,F,, |1 .G,,.D, .D,^G,, :|2 .G,,.G, .G, z || z/!f! G,/D/G,/ B,/DF,/ | D/F,/A,/D/- D2 | %37
+ z!mf! .B, .B, z | z .C .C z |!f! ^D,2 =D,D, | ^D,2 =D, z | z/ G,,/_B,,/G,/ G,,2- | G,,2 z2 | %43
+!mp! .^C.C .C.C | .D.D .D.D | .^D.D .=D.D | .D.D .G, z/4!f! D,/4E,/4F,/4 |!f! G,G, G,G,/G,/- | %48
+ G,/D,/E,/B,,/ D,/E,G,,/- | G,,/A,,/_B,,/G,,/ A,,/=B,,G,,/ | B,,/G,,/A,, G,, z |: %51
+[K:C] .D,.G, .F,.G, | .E,.G, .D,B,, | .C,.G, .G,,.G, | .E,.G, .C,^C, | .D,.G, .F,.G, | %56
+ .E,.G, .D,B,, | .C,.G, .G,,.G, | .E,.G, .C,B,, | .A,,.A, .^C,.A, | .E,.A, .A,,.A, | .D,.D .F,.D | %62
+ .D,.D .F,.D | ^F,/A,C/ _E/C/A,/F,/ | .G,.C .A,,.A, | .D,.D, .G,.G, |1 .C,.C .C^C, :|2 %67
+ .C,.G,, .C,, z |:[K:G]!mf! G,E, G,E, | G,A,/B,/- B,/A,/G,/E,/ | D,/E,B,,/- B,,2 | %71
+ z/ D,/E,/B,,/ D,/E,B,,/ | D,E,/A,,/- A,,2 | z/ C,/E,/A,,/ C,/E,B,,/- | B,,/D,/E,/B,,/ D,/E,B,,/- | %75
+ B,,/D,/E,/B,,/ D,/E,D,/ | G,E, G,E, | G,A,/B,/- B,/A,/G,/E,/ | G,E, D,/G,B,,/- | %79
+ B,,/D,/E,/B,,/ D,/E,"_cresc."G,,/- | G,,/A,,/G,, G,,A,,/G,,/- | G,,/A,,/B,,/G,,/ A,,/B,,G,,/- | %82
+ G,,/A,,/B,,/G,,/ z/ A,,D,,/ |1!f! G,,!>!D, !>!D,!>!D, :|2!ff! .G,.D, .G,, z |] %85
+

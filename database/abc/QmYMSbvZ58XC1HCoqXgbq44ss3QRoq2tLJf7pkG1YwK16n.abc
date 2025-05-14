@@ -1,0 +1,71 @@
+X:1
+T:Jumbo-Rag.
+T:Jumbo-Rag.
+T:Twostep-Ragtime
+T:Charles Fleuron.
+T:C.7920 R.
+T:C.7920 R.
+C:Charles Fleuron.
+Z:C.7920 R.
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=90
+M:2/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:1
+"^Tempo di Rag."!f! !>![cegc'](c'/e'/ c')a | gecA | !>![_B,^CG](G/^F/ G/F/G/F/ | %3
+ G) z!f! !>![=Bdfg]!p! e/f/ |: [ceg][ceg] z [cea] | [Bfb][Bfb] z f/g/ | [Afa][Afa] z [Bfb] | %7
+ [cec'][cec'] z b/c'/ | [egd'][egc'] z g/a/ | [fgc'][fgb] z ^a/b/ | [fbe'][fbd'][fbe'][fgb] | %11
+ [egd'][egc'] z e/f/ | [ceg][ceg] z [cea] | [Bfb][Bfb] z f/g/ | [Afa][Afa] z [Bfb] | %15
+ [cec'][cec'] z [Bb]/[cc']/ |!<(! [dd'][cc'][dd'][cc'] | [Bgb][dbd']!<)! z!f! [dd']/[ee']/ | %18
+ [dd'] z [Aa][Bb] |1 [GBdg]!>(! z z!>)!!p! e/f/ :|2 [GBdg] z!p! (g/^f/g/f/) |: %21
+ [Bc=f][FA]- [FA](B/g/) | [ABf][FA]- [FA](B/g/) | e/ce/ cA | G2!mf! [E,E]/[F,F]/[G,G]/[B,B]/ | %25
+ !>![A,A]2 !>![E,E]2 | !>![F,F]2 [F,F]/[G,G]/[A,A]/[Cc]/ | !>![B,B]2 !>![^G,^G]2 | %28
+ [A,A]2!p! (g/^f/g/f/) | [Bc=f][FA]- [FA](B/g/) | [ABf][FA]- [FA](B/g/) | e/ce/ cA | %32
+ G2 [^cga]!>![cga] | [Adf]!>![Adf] [Bfg]!>![Bfg] | [Gce]!>![Gce] G/ce/ | [^Fcd][Fcd] [=FBe][FBe] |1 %36
+ [EGc] z!p! (g/^f/g/f/) :|2 [EGc] z !>![cegc'] z!fine! ||[K:F]!p!"^TRIO." A2 ^G2 | A(A/B/) cd | %40
+ c2 =B2 | _B4 | B2 A2 | B(B/c/) de | d2 _d2 | c4 |!mf! [FAdf]2 [FAdf]2 | [EA^ce] A2 e | %48
+ [F_Bd]2 [FBd]2 | [FAc] F2 G | [C^FA][_EFc] [DFB][CFA] | [=B,=FA][FAd] !fermata![FAd]2 | %52
+ [_B,EA][B,EA] z [B,EG] | [A,CF](c/d/c) !>![cegbc'] ||!f! [Aa]2 [^G^g]2 | %55
+ [Aa]([Aa]/[Bb]/) [cc'][dd'] | [cc']2 [=B=b]2 | [_B_b]4 | [Bb]2 [Aa]2 | %59
+ [Bb]([Bb]/[cc']/) [dd'][ee'] | [dd']2 [_d_d']2 | [cc']4 | [FAdf]2 [FAdf]2 | [EA^ce] A2 e | %64
+ [F_Bd]2 [FBd]2 | [FAc] F2 G | [C^FA][_EFc] [DFB][CFA] | [=B,=FA][FAd] !fermata![FAd]2 | %68
+ [_B,EA][B,EA] z [B,EG] | [A,CF] z !>![FAcf] z!D.C.! |] %70
+V:2
+ !>![C,,C,][K:treble] (c/e/ c)A | GECA, |[K:bass] !>![G,,G,](G,/^F,/ G,/F,/G,/F,/ | %3
+ G,) z !>![G,,,G,,] z |: C,[E,G,C] z G,, | D,[F,G,B,] G,,[F,G,B,] | D,[F,G,B,] z G,, | %7
+ C,[E,G,C] G,,[E,G,C] | C,[E,G,C] G,,[E,G,C] | D,[F,G,B,] G,,[F,G,B,] | D,[F,G,B,] G,,[F,G,B,] | %11
+ C,[E,G,C] G,,[E,G,C] | C,[E,G,C] z G,, | D,[F,G,B,] G,,[F,G,B,] | D,[F,G,B,] z G,, | %15
+ C,[E,G,C] G,,[E,G,C] | C,[E,G,C] G,,[E,G,C] | D,[G,B,] B,,[G,B,] | %18
+ [^F,,^F,][D,F,C] [D,,D,][D,F,C] |1 [G,,G,][=F,,=F,][E,,E,][D,,D,] :|2 [G,,G,]{/^F,}G, z2 |: %21
+ D,[F,G,B,] G,,[F,G,B,] | D,[F,G,B,] G,,[F,G,B,] | C,[E,G,C] G,,[E,G,C] | C,[E,G,C] z2 | %25
+ [C,,C,] z [G,,,G,,] z | [D,,D,] z [G,,,G,,] z | [D,,D,] z [G,,,G,,] z | [C,,C,] z z2 | %29
+ D,[F,G,B,] G,,[F,G,B,] | D,[F,G,B,] G,,[F,G,B,] | C,[E,G,C] G,,[E,G,C] | C,[E,G,C] A,,[G,A,^C] | %33
+"_Copyright 1913 by Carle Rühle,Leipzig." D,[F,A,D] G,,[F,G,B,] | C,[E,G,C] G,,[E,G,C] | %35
+ [D,,D,][D,^F,C] [G,,G,][=F,G,B,] |1 [C,E,G,C]{/^F,}G, z2 :|2 [C,E,G,C] z !>![C,,C,]"_Fine." z || %38
+[K:F] [F,,F,][C,F,A,] [C,,C,][C,F,A,] | [F,,F,][C,F,A,] [C,,C,][C,F,A,] | %40
+ [G,,G,][C,E,B,] [C,,C,][C,E,B,] | [G,,G,][C,E,B,] [C,,C,][C,E,B,] | %42
+ [G,,G,][C,E,B,] [C,,C,][C,E,B,] | [G,,G,][C,E,B,] [C,,C,][C,E,B,] | %44
+ [F,,F,][C,F,A,] [C,,C,][C,F,A,] | [F,,F,][C,F,A,] [C,,C,][C,F,A,] | D,[F,A,D] D,[F,A,D] | %47
+ [A,,A,][E,A,^C]/[E,A,C]/ [E,A,C][E,A,C] | _B,,[F,_B,D] B,,[F,B,D] | %49
+ [F,,F,][C,F,A,]/[C,F,A,]/ [C,F,A,][^C,F,A,] | D,,"^rit."D, D,,D, | %51
+ G,,[F,G,=B,] !fermata![F,G,B,]2 |"^a tempo" [C,,C,][C,,C,] z [C,,C,] | %53
+ [F,,F,](C/D/C) !>![C,,C,] || [F,,F,][C,F,A,] [C,,C,][C,F,A,] | [F,,F,][C,F,A,] [C,,C,][C,F,A,] | %56
+ [G,,G,][C,E,B,] [C,,C,][C,E,B,] | [G,,G,][C,E,B,] [C,,C,][C,E,B,] | %58
+ [G,,G,][C,E,B,] [C,,C,][C,E,B,] | [G,,G,][C,E,B,] [C,,C,][C,E,B,] | %60
+ [F,,F,][C,F,A,] [C,,C,][C,F,A,] | [F,,F,][C,F,A,] [C,,C,][C,F,A,] | D,[F,A,D] D,[F,A,D] | %63
+ [A,,A,][E,A,^C]/[E,A,C]/ [E,A,C][E,A,C] | _B,,[F,_B,D] B,,[F,B,D] | %65
+ [F,,F,][C,F,A,]/[C,F,A,]/ [C,F,A,][^C,F,A,] | D,,"^rit."D, D,,D, | %67
+ G,,[F,G,=B,] !fermata![F,G,B,]2 |"^a tempo" [C,,C,][C,,C,] z [C,,C,] | %69
+ [F,,F,] z !>![F,,,F,,]"_D.C. al\n Fine.\n" z |] %70
+V:3
+ x4 | x4 | x4 | x4 |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |1 %19
+ x4 :|2 x4 |: x4 | x4 | x4 | x4 | z [CE] z [G,C] | z [B,D] x2 | z [DF] z [DF] | z [CE] x2 | x4 | %30
+ x4 | x4 | x4 | x4 | x4 | x4 |1 x4 :|2 x4 ||[K:F] z C z C | x4 | z E3- | EC/D/ E/D/C | %42
+ z [CE] z [CE] | x4 | z [FA]3- | [FA]C/D/ E/D/C | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 || %54
+ z [cf] z [cf] | x4 | z [eg] z [eg] | z C/D/ E/D/C | z [ce] z [ce] | x4 | z [fa] z [fa] | %61
+ z C/D/ E/D/C | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %70
+

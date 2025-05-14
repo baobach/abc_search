@@ -1,0 +1,37 @@
+X:1
+T:Title
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+M:3/4
+K:G
+V:1 treble nm="Grand Piano"
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:1
+ z2 z[Q:1/4=92] D GG | [B,G]3 A BA | [B,G]3 [B,G] AA | A3 B cB | A3 D BB | B3 A Bc | %6
+ d3 B [CFA][CFA] | [CFA]3 [B,EG] [DFA][=FB] |[M:15/16] [Ec]3/2- [Ec]3 [FA][GB]/-[GB]/[FA] | %9
+[M:3/4] [EG]3 [DF] [CE]>[CE] |[M:15/16] [Ec]3/2- [Ec]3 z [DG]/-[DG][DA]/ | %11
+[M:3/4] [DB]3 [CEA] [B,DG].[A,DF] | [G,B,DG]6 |[M:4/4] z2 B6 | z2 [DA]6[K:bass] | z2 c6 | %16
+ z2 [GB]6 | z2 d6 | z2 [Ge]6 | %19
+ z2 B6[Q:1/4=91][Q:1/4=89][Q:1/4=88][Q:1/4=87][Q:1/4=85][Q:1/4=84][Q:1/4=83][Q:1/4=81][Q:1/4=80][Q:1/4=78][Q:1/4=77][Q:1/4=76][Q:1/4=74][Q:1/4=73][Q:1/4=72][Q:1/4=70] | %20
+[M:5/8] [B,DG].[A,DF] [B,DG]3- | [B,DG] z z z2 |] %22
+V:2
+ z2 z D, [D,B,][D,B,] | [G,,D,]3 [D,F,D] [G,D][D,F,C] | [G,,G,]3 [G,,G,] [D,F,D][D,F,D] | %3
+ [D,F,D]3 [D,G,D] [D,A,D][D,G,D] | [D,F,D]3 [D,F,] [G,D][G,D] | %5
+ [G,D]3 [D,F,D][K:treble] [G,D][G,A,D] | [G,B,D]3 [G,DG][K:bass] D,D, | D,3 E, D,G, | %8
+[M:15/16] [C,G,]3/2- [C,G,]3 [D,D][G,D]/-[G,D]/[D,C] |[M:3/4] [E,B,]3 [B,,G,] [C,G,]>[C,G,] | %10
+[M:15/16] [A,,A,]3/2- [A,,A,]3 z [B,,G,]/-[B,,G,][D,F,]/ |[M:3/4] G,3 C, .D,>C | G,,6 | %13
+[M:4/4] z2 D6 | [A,,F,][B,,G,] [D,F,]2 D,>D, D,2 | z2 A6[K:bass] | E,F, G,2 G,>G, G,2 | %17
+ z2 B6[K:bass] | A,B, C2 C,>C, C,2 | z2 =D4 z2 |[M:5/8] D, z/ C/ G,,3- | G,, z z z2 |] %22
+V:3
+ x6 | x6 | x6 | x6 | x6 | x4[K:treble] x2 | x4[K:bass] x2 | x6 |[M:15/16] x15/2 |[M:3/4] x6 | %10
+[M:15/16] x15/2 |[M:3/4] z2 z2 z D, | x6 |[M:4/4] D>D z2 G,,>G,, G,,[G,,G,] | x8 | %15
+ A>A z2[K:bass] D,>D, D,D, | x8 | B>B z2 G,>G,[K:bass] G,G, | x8 | E>^D z2 D,>D, D,D, | %20
+[M:5/8] z D, z z2 | x5 |] %22
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |[M:15/16] x15/2 |[M:3/4] x6 |[M:15/16] x15/2 |[M:3/4] x6 | %12
+ x6 |[M:4/4] B>B z2 G,>G, G,[DB] | [DA][DG] z2[K:bass] F,>F, F,2 | c>c z2 D>D D[DAc] | %16
+ [DGB][DFA] D2 D>D D2 | d>d z2 D>D D[DGB] | [DFc][DGd] z2 C>C C2 | G>A z2 G,>B, [DG][CEA] | %20
+[M:5/8] x5 | x5 |] %22
+

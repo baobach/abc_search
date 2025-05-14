@@ -1,0 +1,54 @@
+X:1
+T:6.Gigue
+T:Gigue
+T:From Bach's Suite in E Minor - BWV 996 for Marimba
+T:Bach arr. Johnathan Whitehorn
+C:Bach arr. Johnathan Whitehorn
+%%score { 1 | 2 }
+L:1/8
+Q:3/8=50
+M:12/8
+K:G
+V:1 treble nm="Marimba" snm="Mrm."
+V:2 bass 
+V:1
+ z3 z[I:staff +1] E,F, G,/B,/G,/[I:staff -1]z/[I:staff +1]E/B,/ C/B,/A,/G,/F,/E,/ | %1
+[I:staff -1] z/ F/^D/B,/B/F/ G/F/E/=D/C/B,/ C/D/C/B,/A,/G,/ A,/B,/C/B,/A,/G,/ | %2
+[I:staff +1] [^D,F,]2 [D,F,] [E,G,]2 [E,^G,] A,2 [F,^A,] B,/C/B,/=A,/=G,/F,/ | %3
+[I:staff -1] z EF G/A/G/F/E/D/ ^CDE F/G/F/E/D/=C/ | B,/D/B,/G,/G/D/ [CE]3 z/ E/^C/A,/A/E/ [DF]3 | %5
+ z/ D/B,/G,/G/D/ E/D/=C/[I:staff +1]B,/A,/G,/ F,[E,G,][F,A,] [G,B,][A,C][B,D] | %6
+[I:staff -1] [CE]/G/c/B/A/G/ F/G/F/E/D/C/ B,2[I:staff +1] [G,B,] [G,A,]2 [F,A,] | %7
+ G,/B,/A,/G,/F,/E,/ C/B,/A,/G,/F,/E,/[I:staff -1] z/ F/E/^D/^C/B,/ G/F/E/=D/^C/B,/ | %8
+[I:staff +1] ^A,/^C/A,/[I:staff -1]z/F/C/ D2 ^D E/^D/E/D/E/F/ G^C^A,/B,/ | %9
+ B,/[I:staff +1]F,/[I:staff -1]z/[I:staff +1]F,/B,/F,/ G,/E,/G,/[Q:3/8=50][I:staff -1]z/[Q:3/8=46]"^.1"[I:staff +1]E/[Q:3/8=45]^A,/[Q:3/8=44]"^.3" B,/[Q:3/8=43]"^.7"[I:staff -1]E/[Q:3/8=43]"^.2"F/[Q:3/8=42]"^.7"E/[Q:3/8=42]"^.3"^D/[Q:3/8=42]^C/[Q:3/8=41]"^.6" !fermata![B,D]3 :: %10
+[Q:3/8=50] z/[I:staff +1] B,,/^C,/^D,/E,/F,/ G,2[I:staff -1] F, E,/E/F/G/A/B/ [Ac]BG | %11
+ A/G/ F2 z/ D/E/F/G/A/ B/B,/C/D/E/F/ G2 G | %12
+ F/[I:staff +1]F,/[I:staff -1] z/ D/F/ z/ E/[I:staff +1]E,/[I:staff -1] z/ C/E/ z/ ^D/[I:staff +1]^D,/[I:staff -1] z/ B,/=D/ z/ ^C/[I:staff +1]^C,/[I:staff -1] z/ A,/=C/ z/ | %13
+ B,/G,/A,/B,/C/D/ E/D/E/F/G/A/ B/A,/B,/C/[B,D] [G,E]A,F,/G,/ | %14
+ G,/B,/D/G/G,/F/ [CE]3 A,/^C/E/A/A,/G/ F3 | %15
+ B,/^D/F/B/B,/A/!p!!<(! G>!>!cF/!>!B/ E>!>!A=D/!>!G/ C>!>!=FB,/!>!E/!<)! | %16
+ !>!^D/c/A/F/B/F/ G/B/G/E/A/E/ F/A/F/=D/G/D/ E/G/E/C/=F/A/ | %17
+ ^D/F/D/B,/E/G/ C/c/A/=F/c/E/ =D3 z/ B,/^C/D/E/^F/ | %18
+ G/[I:staff +1]G,/A,/B,/=C/=D/ E/E,/F,/G,/A,/B,/ C/D/E/D/C/B,/ A,/G,/F,/E,/F,/^D,/ | %19
+ E,/B,,/^G,,/B,,/E,/B,,/[Q:3/8=50] C,/[Q:3/8=46]"^.1"A,,/[Q:3/8=44]"^.2"C,/[Q:3/8=42]"^.7"E,/[Q:3/8=41]"^.4"A,/[Q:3/8=40]"^.3"^D,/[Q:3/8=39]"^.2" E,/[Q:3/8=38]"^.2"A,/[Q:3/8=37]"^.3"^G,/[Q:3/8=36]"^.5"F,/[Q:3/8=35]"^.6"E,/[Q:3/8=34]"^.8"^D,/[Q:3/8=34]"^.1" [B,,E,]3 :| %20
+V:2
+ z/ E,/D,/C,/B,,/A,,/ G,,2 F,, E,,F,,/E,/G,, A,,B,,C, | %1
+ [B,,^D,][^C,E,][D,F,] E,F,G, A,/B,/A,/G,/F,/E,/ F,/G,/A,/G,/F,/E,/ | %2
+ z/ C,/B,,/A,,/G,,/F,,/ E,,/B,,/G,,/E,,/z/B,,/ C,/E,/C,/A,,/z/^C,/ D,C,^D, | %3
+ [E,G,]/A,/G,/F,/E,/^D,/ E,F,G, A,/B,/A,/G,/F,/E,/ =D,E,F, | %4
+ G,2 B, z/ G,,/E,,/C,,/C,/G,,/ A,,2 ^C, D,/A,,/F,,/D,,/D,/A,,/ | %5
+ B,,A,,B,, =C,D,E, D,/E,/D,/C,/B,,/A,,/ G,,/A,,/G,,/=F,,/E,,/D,,/ | %6
+ C,,D,,E,, D,,E,,^F,, G,,/B,,/G,,/E,,/E,/B,,/ C,/E,/C,/A,,/D,/D,,/ | %7
+ G,,2 G,, A,,B,,C, [B,,^D,][^C,E,][D,F,] E,F,G, | %8
+ F,>F,^A, B,/F,/D,/B,,/z/F,/ [G,B,]/[F,B,]/[G,B,]/[F,B,]/[G,B,]/[F,B,]/ [E,B,]F,F,, | %9
+ B,,[B,,^D,]B,, B,,B,,/B,/B,, B,,/G,/=A,/G,/F,/E,/ !fermata![B,,F,]3 :: %10
+ z3 z/ E,,/F,,/G,,/A,,/B,,/ =C,2 [B,,=D,] A,,/F,/G,/A,/B,/C/ | %11
+ D>ED/C/ B,2 A, G,2 F, E,/G,/B,/E/A,/C/ | D,A,G,/B,/ C,G,F,/A,/ B,,F,E,/^G,/ A,,E,^D,/F,/ | %13
+ G,, z/ G,,/A,,/B,,/ C,/B,,/C,/D,/E,/F,/ G,/F,/G,/A,G,,/ C,,/E,,/A,,/C,/D,,/D,/ | %14
+ G,,2 B,, C,/E,/[I:staff -1]G,/C/[I:staff +1]C,/G,/ ^C,2 C, D,/F,/[I:staff -1]A,/D/[I:staff +1]D,/A,/ | %15
+ ^D,3 E,/G,/C/!>!E/=D,/!>!D/ C,/E,/A,/!>!C/B,,/!>!B,/ A,,/C,/=F,/!>!A,/G,,/!>!G,/ | %16
+ !>![F,A,]2 [^D,F,] [E,B,]2 [^C,E,] D,/F,/A,/F,/B,/B,,/ =C,/E,/G,/E,/A,/A,,/ | %17
+ B,,/^D,/F,/D,/G,/G,,/ A,,2 A, B,/B,,/^C,/D,/E,/F,/ G,2 F, | %18
+ E,2 =D, =C,2 B,, A,,C,[G,,E,] [A,,E,]B,,B,, | %19
+ E,,E,,E,, E,,E,,E,, E,,/C,/B,,/A,,/^G,,/F,,/ [E,,^G,,]3 :| %20
+

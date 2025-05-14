@@ -1,0 +1,63 @@
+X:1
+T:Hic est beatissimus Evangelista - Nanini
+T:#
+%%score [ 1 2 3 ]
+L:1/8
+Q:1/4=200
+M:none
+K:C
+V:1 treble nm="Alto" snm="A"
+V:2 treble-8 nm="Tenor" snm="T"
+V:3 bass nm="Bass" snm="B"
+V:1
+ A,8"^Hic est beatissimus Evangelista" C4 C4- | C4 C4 (G,6 A,2 | B,2 A,2 B,2 C2 D4) D4 | %3
+w: Hic est be\-|* a- tis- *|* * * * * si-|
+ A,4 D4 C4 A,4 |"^Giovanni Maria Nanini\n (1544-1607)" C8 (G,6 A,2) |[M:4/2] (B,2 A,2 B,2 C2 D8) | %6
+w: mus E- van- ge-|li- sta *||
+ A,4 D4 C3 C C2 B,2 | C4 G,4 z4 D4 | F4 F4 F4 (C4- | C2 D2 E2 D2 E2 F2 G4-) | G4 G4 D4 D4 | %11
+w: et A- po- sto- lus Io-|an- nes, hic|est be- a- tis\-||* si- mus E-|
+ F6 G2 A4 F4 | E4 A4 G3 G G2 ^F2 | G4 D4 z8 | B,4 E4 D3 D D2 ^C2 | D4 A,4 z4 C4 | E2 E2 G8 D4 | %17
+w: van- ge- li- sta|et A- po- sto- lus Io-|an- nes,|et A- po- sto- lus Io-|an- nes, qui|pri- vi- le- gi-|
+ (D2 E2 F2 G2 A4) F4 | E4 A4 G2 G4 ^F2 | G4 z4 z4 G,4 | B,4 B,4 D8 | A,4 D4 z4 D4 | G,4 D8 F4 | %23
+w: o * * * * a-|mo- ris prae- ci- pu-|i, qui|pri- vi- le-|gi- o a-|mo- ris prae-|
+ (D2 C2 D2 E2 F6) G2 | A8 z4 (A,2 B,2) | (C2 D2 E6 F2 G4- | G2) F2 E4 D4 ^C4 | D4 z4 z4 F4 | %28
+w: ci\- * * * * pu-|i cae\- *||* te- ris al- ti-|us a|
+ E4 C4 E4 G4- | G2 G2 G4 D4 D4 | F8 (C6 D2 | E2 F2 G4) z4 D4- | D2 D2 D4 A,4 A,4 | C8 (G,6 A,2 | %34
+w: Do- mi- no me\-|* ru- it ho- no-|ra- ri, *|* * * me\-|* ru- it ho- no-|ra- ri, *|
+ B,2 C2 D4) z4 A,4 | ^G,4 A,4 B,4 ^C4 |[Q:1/4=198] (D4[Q:1/4=195] E4[Q:1/4=192] ^F4[Q:1/4=188] G4 | %37
+w: * * * me-|ru- it ho- no-|ra\- * * *|
+[Q:1/4=185] A4[Q:1/4=182] B4[Q:1/4=179] A4[Q:1/4=177] G4- | %38
+w: |
+[Q:1/4=174] G4[Q:1/4=172] ^F2[Q:1/4=170] E2)[Q:1/4=170] !fermata!F8 |] %39
+w: * * * ri.|
+V:2
+ A16 | E16 | D8 D8 | F8 F8 | E16 |[M:4/2][K:treble-8] D16 | F8 F8 | G16 | A16 | c8 c8 | B8 B8 | %11
+w: Hic|est|be- a-|tis- si-|mus|E-|van- ge-|li-|sta|et A-|po- sto-|
+ A16 | c16 | d16 | G16 | A16 | G12 G4 | d8 d8 | c8 c8 | d16 | G16 | F16 | _B8 B8 | A16 | D8 D8 | %25
+w: lus|Io-|an-|nes,|qui|pri- vi-|le- gi-|o a-|mo-|ris|prae-|ci- pu-|i|cae- te-|
+ E16 | G8 G8 | A16 | c16 | B8 B8 | A16 | G8 G8 | F16 | E16 | D16 | E16 | D16- | D16 | %38
+w: ris|al- ti-|us|a|Do- mi-|no|me- ru-|it|ho-|no-|ra-|ri.||
+ !fermata!D16 |] %39
+w: |
+V:3
+ z8 A,,8 | C,4 C,8 C,4 | (G,,6 A,,2 B,,2 A,,2 B,,2 C,2 | D,4) D,4 A,,4 D,4 | C,4 A,,4 C,8 | %5
+w: Hic|est be- a-|tis\- * * * * *|* si- mus E-|van- ge- li-|
+[M:4/2] (G,,6 A,,2 B,,2 A,,2 B,,2 C,2 | D,8) A,,4 D,4 | C,3 C, C,2 B,,2 C,4 G,,4 | z4 D,4 F,4 F,4 | %9
+w: sta * * * * *|* et A-|po- sto- lus Io- an- nes,|hic est be-|
+ F,4 (C,6 D,2 E,2 D,2) | (E,2 F,2 G,8) G,4 | D,4 D,4 F,6 G,2 | A,4 F,4 E,4 A,4 | %13
+w: a- tis\- * * *|* * * si-|mus E- van- ge-|li- sta et A-|
+ G,3 G, G,2 ^F,2 G,4 D,4 | z8 B,,4 E,4 | D,3 D, D,2 ^C,2 D,4 A,,4 | z4 C,4 E,2 E,2 G,4- | %17
+w: po- sto- lus Io- an- nes,|et A-|po- sto- lus Io- an- nes,|qui pri- vi- le-|
+ G,4 D,4 (D,2 E,2 F,2 G,2 | A,4) F,4 E,4 A,4 | G,2 G,4 ^F,2 G,4 z4 | z4 G,,4 B,,4 B,,4 | %21
+w: * gi- o * * *|* a- mo- ris|prae- ci- pu- i,|qui pri- vi-|
+ D,8 A,,4 D,4 | z4 D,4 G,,4 D,4- | D,4 F,4 (D,2 C,2 D,2 E,2 | F,6) G,2 A,8 | %25
+w: le- gi- o|a- mo- ris|* prae- ci\- * * *|* pu- i|
+ z4 (A,,2 B,,2 C,2 D,2 E,4- | E,2 F,2 G,6) F,2 E,4 | D,4 ^C,4 D,4 z4 | z4 F,4 E,4 C,4 | %29
+w: cae\- * * * *|* * * te- ris|al- ti- us|a Do- mi-|
+ E,4 G,6 G,2 G,4 | D,4 D,4 F,8 | (C,6 D,2 E,2 F,2 G,4) | z4 D,6 D,2 D,4 | A,,4 A,,4 C,8 | %34
+w: no me- ru- it|ho- no- ra-|ri, * * * *|me- ru- it|ho- no- ra-|
+ (G,,6 A,,2 B,,2 C,2 D,4) | z4 A,,4 ^G,,4 A,,4 | B,,4 ^C,4 (D,4 E,4 | ^F,4 G,4 A,4 B,4) | %38
+w: ri, * * * *|me- ru- it|ho- no- ra\- *||
+ !fermata!A,16 |] %39
+w: ri.|
+

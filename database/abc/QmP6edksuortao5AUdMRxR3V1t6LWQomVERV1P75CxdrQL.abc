@@ -1,0 +1,44 @@
+X:1
+T:Bilder einer Ausstellung: 2. Das alte Schloss
+T:Bilder einer Ausstellung: 2. Das alte Schloss
+T:Bearbeitung Jazz Trio: Isabelle_Aylin_YIKES!! 
+T:Modest Petrowitsch Mussorgski
+C:Modeste Moussorgsky
+%%score { 1 | 2 } ( 3 4 ) ( 5 6 )
+L:1/8
+M:6/8
+K:B
+V:1 bass nm="Piano" snm="Piano"
+V:2 bass 
+V:3 bass transpose=-12 nm="Bass" snm="Bass"
+V:4 bass transpose=-12 
+V:5 perc nm="Drums" snm="Drums"
+K:none
+I:percmap ^B B 63 x
+I:percmap ^G G 64 x
+I:percmap f f 66 normal
+V:6 perc 
+K:none
+V:1
+ D,6- | D,2 D, .D,.D,.D, | (D,>E,).D, (.F,.E,.D,) | (C,>D,).C, (.E,.D,.C,) | (B,,2 C, D,C,B,,) | %5
+ (A,,>B,,).A,, (.C,.B,,.A,,) | (B,,3 G,,3) | D,6- | D,3 E,3 | D,6 | D,3 E,3 | D,6 | E,6 | %13
+ D,>E,D, F,E,D, | C,>D,C, E,D,C, | (B,,2 C, D,C,B,,) | A,,>B,,A,, C,B,,A,, | (B,,3 G,,3) | D,6- | %19
+ D,3 E,3 |] %20
+V:2
+ G,,6- | G,,3 G,,3 | G,,3 G,,3 | G,,3 G,,3 | G,,3- G,,2 z | G,,3- G,,2 z | G,,2 G,, G,,2 G,, | %7
+ G,,2 G,, G,,2 G,, | G,,2 G,, G,,2 G,, | G,,2 G,, G,,2 G,, | G,,2 G,, G,,2 G,, | %11
+ G,,2 G,, G,,2 G,, | G,,2 G,, G,,2 G,, | G,,3 G,,3 | G,,6 | G,,6 | G,,6 | G,,2 G,, G,,2 G,, | %18
+ G,,2 G,, G,,2 G,, | G,,2 G,, G,,2 G,, |] %20
+V:3
+!pp! z6 | z6 | z6 | z6 |!<(! z6!<)! |!pp! z6 | z3 z2 D | G6- | GBA{GA} GEG | G2 D F3 | z6 | z6 | %12
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |] %20
+V:4
+ x6 | x6 | x6 | x6 | x3!mf!!>(! x3!>)! | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %16
+ x6 | x6 | x6 | x6 |] %20
+V:5
+[K:C]!pp! z6 | z6 | z6 | z6 |!<(! z6!<)! |!pp! z6 | z3 z2 ^B | f6- | fff{ff} f^Gf | f2 ^B f3 | z6 | %11
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |] %20
+V:6
+[K:C] x6 | x6 | x6 | x6 | x3!mf!!>(! x3!>)! | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %15
+ x6 | x6 | x6 | x6 | x6 |] %20
+

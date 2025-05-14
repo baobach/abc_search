@@ -1,0 +1,53 @@
+X:1
+T:Title
+T:III. La Paix
+T:Composer
+C:Composer
+%%score { 1 | 2 | 3 } { 4 | 5 } 6
+L:1/8
+Q:1/4=52
+M:12/8
+K:D
+V:1 treble nm="Oboe" snm="Ob."
+V:2 treble 
+V:3 treble 
+V:4 treble nm="Flute" snm="Fl."
+V:5 treble 
+V:6 bass nm="Bassoon" snm="Bsn."
+V:1
+"^Lento" dAF D2 a f3 e3 | g>ag g2 b g3 f3 | a>ba (ad')a f>gf (fa)f | def g>af efd a3- | %4
+ a3- a3- a3- a3 | ab/a/b/a/ ga/g/a/g/ fg/f/g/f/ e3 | e2 f T^g2 a z6 | e2 f T^g2 a f Tg2 a3 :| %8
+ e>fe efg f>ed d3 | a>ba afd g>ag b3 | d>ed f3 e>fe g3 | f>gf ab/a/b/a/ g f2 e3 | %12
+ a2 b c'2 d' z z z4 | a>gf e>fd ge>d daf | Te3/2d/4e/4f Te3/2d/4e/4f z2 z4 | z af e>fd ge>d d3 :| %16
+V:2
+ z3 dAf d3 A3 | e>fe e2 g e3 d3 | f>gf (fa)f d>ed (df)d | dAd e>fd A3- Aeg | %4
+ fg/f/g/f/ ef/e/f/e/ de/d/e/d/ e/f/g/f/g/e/ | fg/f/g/f/ ef/e/f/e/ de/d/e/d/ A3 | A2 A e2 e z2 z4 | %7
+ e2 d e2 f a e2 e3 :| e2 A A2 e dAF FAd | f>gf fdA d>ed g3 | z3 dAF A3 z3 | %11
+ d>ed fg/f/g/f/ e d2 A3 | dfg e2 f z2 z4 | e2 d eAF eA>A Ffd | A2 d A2 d z2 z4 | %15
+ z ed eAF eA>A F3 :| %16
+V:3
+ D2 A F2 D A3 A,3 | A3 A2 d A3 DFA | d>AF DFA d>AF D3- | D2 A A2 A A,3- A,2 e | %4
+ de/d/e/d/ A3 dFD A3 | (ddd) A3 AFD A3 | A,2 D D2 A z2 z4 | A2 A e2 A d e2 A3 :| %8
+ A2 A A,2 A D3 dAF | DFA dAF D3 c3 | z3 AFD e3 z3 | z3 d>ed e A2 A,3 | F2 d A2 a z2 z4 | %13
+ A2 A A2 D EA>A AdA | A2 z A2 z z2 z4 | z AA A2 D DAA A3 :| %16
+V:4
+ d>ed (df)a f3 e3 | e>fe (eg)b g3 f3 | a>ba (ad')a f>gf (fa)f | def g>af efd a3- | %4
+ a3- a3 dA/B/A/B/ c/d/e/d/e/c/ | ab/a/b/a/ ga/g/a/g/ fg/f/g/f/ eA/B/c/d/ | %6
+ e2 f T^g3/2f/4g/4a TB3/2A/4B/4c Td3/2A/4B/4c | Te3/2d/4e/4f Td2 c dTB>A A3 :| e>fe efg f>ed d3 | %9
+ a>ba afd g>ag b3 | d>ed f3 e>fe g3 | f>gf ab/a/b/a/ g f2 e3 | %12
+ a2 b Tc'3/2b/4c'/4d' Te3/2d/4e/4f Te3/2d/4e/4f | a>gf e>fd ge>d d3 | %14
+ z3 z af Te3/2d/4e/4f Te3/2d/4e/4f | Te3/2d/4e/4f e>fd ge>d d3 :| %16
+V:5
+ F>GF (Fd)f d3 c3 | c>dc c2 d e3 d3 | f>gg (fa)f d>ed dfd | Bcd c2 d cdB ceg | %4
+ fg/f/g/f/ ef/e/f/e/ de/d/e/d/ e/f/g/f/g/e/ | fg/f/g/f/ ef/e/f/e/ de/d/e/d/ e/f/ e2 | %6
+ A/B/cd TB3/2A/4B/4c T^G3/2F/4G/4A TG3/2F/4G/4A | A2 A T^G3/2F/4G/4A BTG>A A3 :| c>dc cde d2 A F3 | %9
+ b3 =a3 g>ag geB | B>cB d3 c>dc e3 | d>ed fg/f/g/f/ e d2 c3 | %12
+ dfg Te3/2d/4e/4f Td3/2B/4c/4d Tc3/2B/4c/4d | e2 d c2 F Bc>d d3 | %14
+ z3 z ed Tc3/2B/4c/4d Tc3/2B/4c/4d | Tc3/2B/4c/4d cAF Bc>d d3 :| %16
+V:6
+ D,3- D,2 D, A,3- A,E,C, | A,,C,E, A,E,D, C,A,,C, D,F,A, | DA,F, D,F,A, DA,F, D,3 | %3
+ G,2 F, E,2 D, A,,3- A,,2 C | DE/D/E/D/ CD/C/D/C/ B,C/B,/C/B,/ A,3- | A,3- A,3- A,3- A,CE | %6
+ CA,D, E,2 A,, E,2 A, E,2 A, | C,2 D, E,2 F, D,E,E,, A,,3 :| B,E,C, A,,2 C DA,F, D,F,A, | z12 | %10
+ G,3 D,F,D, A,3 E,G,E, | B,3 F,D,F, G,D,F,, A,,A,G, | F,D,G, A,2 D, A,2 D A,2 D, | %13
+ C2 D A,2 B, G,A,A,, D,2 D | TC3/2B,/4C/4D TC3/2B,/4C/4D A,2 D A,2 D | A,2 D A,2 B, G,A,A,, D,3 :| %16
+

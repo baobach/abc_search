@@ -1,0 +1,23 @@
+X:1
+T:Turkish March
+T:Mozart arr. E Muirhead 
+%%score { 1 | 2 }
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^Allegretto"!p! (B/A/^G/A/ | .c) z (d/c/B/c/ | .e) z (f/e/^d/e/ | b/a/^g/a/ b/a/g/a/ | %4
+ c'2) .a.c' |({ga)} .b.[^fa] .[eg].[fa] |({ga)} .b.[^fa] .[eg].[fa] |({ga)} .b.[^fa] .[eg].[^df] | %8
+ e2 ::!mf! [ce][df] | .[eg].[eg] (a/g/f/e/ | d2)!p! .[ce].[df] | .[eg].[eg] (a/g/f/e/ | %13
+ d2)!mf! .[Ac].[Bd] | .[ce].[ce] (f/e/d/c/ | [^GB]2)!p! .[Ac].[Bd] | .[ce].[ce] (f/e/d/c/ | %17
+ [^GB]2) (B/A/G/A/ | .c) z (d/c/B/c/ | .e) z (f/e/^d/e/ |!<(! b/a/^g/a/ b/a/g/!<)!a/ | %21
+!f! c'2) .a.b | .c'.b .a.^g | .a.e .f.d |[Q:1/4=120]"_rit." c2 (TB3/2A/4B/4 | A4) :| %26
+V:2
+ z2 | A,[CE] [CE][CE] | A,[CE] [CE][CE] | A,[CE] A,[CE] | A,[CE] [CE][CE] | E,[B,E] [B,E][B,E] | %6
+ E,[B,E] [B,E][B,E] | E,[B,E] B,,B, | E,2 :: z2 | C,C E,E | G,2 z2 | C,C E,E | G,2 z2 | A,,A, C,C | %15
+ E,2 z2 | A,,A, C,C | E,2 z2 | A,[CE] [CE][CE] | A,[CE] [CE][CE] | A,[CE] A,[CE] | %21
+ F,[A,^D] [A,D][A,D] | E,[A,E] D,[F,B,] | C,[E,A,] D,[F,B,] | [E,A,][E,A,] [E,^G,][E,G,] | %25
+ [A,,A,]4 :| %26
+

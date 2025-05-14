@@ -1,0 +1,47 @@
+X:1
+T:COME, SWEET REST
+T:J.S.Bach 
+T:Virgil Fox 
+T:Come Sweet Death
+T:Komm Susser Tod
+C:J.S.Bach
+%%score { 1 | 2 | 3 }
+L:1/8
+Q:1/4=40
+M:3/4
+K:Eb
+V:1 treble nm="Pipe Organ" snm="Org."
+V:2 bass 
+V:3 bass-8 
+V:1
+ [Ec]2!p! [F-B]2 A[FG] | [EG]6 |!mp! [Ee]2 [A-d]2 c[A=B] | [G=B]6 | [Gc]2 [Fd]2 [Ee]2 | %5
+ [EA-]2!>(! [FA]2 [EG]2!>)! | [EF]2 [DF]2 [B,E]2- | [B,E]6 |!mf! G2!<(! [F=A]2 [F=B]2!<)! | %9
+ [Gc]2 [=A-d]e [_Bd][Ac] | B2 =A2 G2- | G6 |!p! [=EB]2 [F_d]2 [G-c][GB] | [FA]2 [FG]2 =E2{AB} | %14
+ [FA]6 | [Af][Ad] [FB-][EB] [FA-][DA] | [E-G]2 e[Ed] [Fe]2 |!<(! [Fd]6!<)! | %18
+!mf! [Be]2 [G-g][Gf] [B-e][Bd] | [Ac]e d!>(!c =B[Ac]!>)! | [DG-]2 [EG]4 | %21
+!p! [D-A][DG] [C-F][CE] [=B,-D][B,C] | [G,C]6 | c'2 b2 ag | g6 |!f! e'2 d'2 c'=b- | b6 | %27
+!<(! c'2 d'2 e'2!<)! | a4 g2 |!>(! f4 e2-!>)! | e6 |!f! G2!<(! =A2 =B2!<)! |!<(! c2 de dc!<)! | %33
+ B2!>(! =A2 G2-!>)! | G6 |!mp! B2 _d2 cB | A2 G3 A/B/ | A6 |!p! fd B2 A2 | G2 ed e2 |!<(! d6!<)! | %41
+!f! e2!<(! gf ed!<)! | ce d!>(!c =Bc!>)! | G6 |!mf! ag!>(! fe dc!>)! | c4 z2 | %46
+!mf! [CD]2 [G,CG]2 [G,-=B,F]2 | [G,CE]6 |] %48
+V:2
+ [C,G,]2 [D,-F,]2 [D,B,]2 | [E,B,]6 | [C,C-]2 F,2- [F,CD]2 | [G,D]6 | %4
+!<(! [E,G,-]2 D,2 [C,-G,]2!<)! | [C,A,]2 [D,B,-]2 [E,B,]2 | C2 B,A, G,2- | G,6 | %8
+ [E,B,]2 [E,C]2 [D,D]2 | [E,G,]2 [=A,D-]2 G,2 | [G,D]2!>(! ^F,2{C} [G,B,]2-!>)! | [G,B,]6 | %12
+ [G,B,]2 [F,B,]2 [=E,G,]2 | [F,C]2 _D2 C2 | C6- |!pp! C2 B,4- | B,4 =A,2 | B,6 | %18
+ [G,E]2!<(! [E,B,]2 [G,E]2!<)! | [A,E-][G,E] [F,F-][E,F] [F,D][F,C] | [F,=B,]2 [E,C-]D, E,[C,C] | %21
+ [F,C]2 G,2 [G,,F,]2 | C,6 |[K:treble]!mf! [EG]2 F2- [FB]2 | [EGB]2 E-F G[EB] | %25
+ [EGc-]2 [F-A-c]2 [FAd]2 | [G=Bd]2 d-c B[Gd] | G2- F2 [E-G]2 | [EA]2 [FB-]2 [EGB]2 | %29
+ [Ec]2 [D-B][DA] [EG]2- | [EG]6 | [B,G]2 [CF-]2 [DF]2 | [G,G]2[K:bass] [=A,D-]2 [G,-B,D-]2 | %33
+ [G,D]2 ^F,2{C} [G,B,]2- | [G,B,]6 | [B,-=E]2 [B,F]2 [G,G]2 |[K:treble] [CG-]2 [_DG]2 [C=E]2 | %37
+ [C-FA-]6 | [CA]2 [B,-F]E FD | [B,G]4 [=A,F]2 | [B,F]6 | [EB-]2 GF [EB-][DB] | [CA-]E DC =B,[CA] | %43
+ [G,-=B,D]2 [G,CE]4 | [C-D]2 [CG]2 [=B,FG]2 | [CEG]4 z2 |[K:bass] A,G, F,E, D,C, | C,6 |] %48
+V:3
+ C,2 D,4 | E,6 | C,2 F,4 | G,6 | E,2 D,2 C,2- | C,2 D,2 E,2 | A,,2 B,,2 E,2- | E,6 | E,4 D,2 | %9
+ E,2 ^F,,2 G,,2 | D,4 G,,2- | G,,6 | G,2 F,2 =E,2 | F,2 B,,2 C,2 | F,,2 F,G, F,E, | D,3 C, D,B,, | %16
+ E,2 C,2 F,2 | B,,2 B,C B,A, | G,2 E,2 G,2 | A,G, F,E, F,2- | F,2 E,D, E,C, | F,,2 G,,4 | %22
+ C,2 E,2 G,2 | C,2 D,4 | E,6 | C,2 F,4 | G,6 | E,2 D,2 C,2- | C,2 D,2 E,2 | A,,2 B,,2 E,2- | E,6 | %31
+ E,4 D,2 | E,2 ^F,,2 G,,2 | D,4 G,,2- | G,,6 | G,2 F,2 =E,2 | F,2 B,,2 C,2 | F,,2 F,G, F,E, | %38
+ D,3 C, D,B,, | E,2 C,2 F,2 | B,,2 B,C B,A, | G,2 E,2 G,2 | A,G, F,E, F,2- | F,2 E,D, E,C, | %44
+ F,,2 G,,4 | C,2 E,2 G,2 | F,,2 G,,4 | C,6 |] %48
+

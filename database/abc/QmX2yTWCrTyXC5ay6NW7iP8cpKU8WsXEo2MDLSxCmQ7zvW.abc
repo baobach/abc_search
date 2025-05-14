@@ -1,0 +1,42 @@
+X:1
+T:Gymnopédie No. 1
+T:Gymnopédie No. 1 for Flute & Easy Piano
+T:(for Flute or other monophonic C instrument) 
+T:Erik Satie (1866–1925)
+T:(Arranged by dddiam) 
+T: Only one voice per staff. Single-note left hand – no ledger lines. Simple chords for right hand: - 3 notes maximum - at most one ledger line - inversions designed to minimize finger stretch. Use of 8vb clefs for easier reading. Positioning of performer one octave to the left, rather than in front of Middle C key, for normal feel of finger positioning relative to the staffs / clefs. Simplified jump notation -- No codas. A single repeat with volta brackets. Minimal dynamics notation (which may be ignored). 
+T:Design for the Easy Piano arrangement: 
+T: The flute part is naturally fairly easy.
+C:Erik Satie(1866 – 1925)
+Z:Éric Alfred Leslie Satie
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=68
+M:3/4
+K:D
+V:1 treble nm="Flute" snm="Fl."
+V:2 treble-8 nm="Piano" snm="Pno."
+V:3 bass-8 
+V:1
+"_*(This is a beuatiful, haunting melody; I prefer \"soulful\" to Satie's \"painful\")\n""^or slower\n" z6 | %1
+ z6 | z6 |"^Slow and soulful*, expressive" z6 | z2!mp! (f2!mf! a2 |!mf!!>(! g2 f2 c2!>)! | %6
+!mp!!<(! B2 c2!<)!!mf! d2 |!mp! A6 |!mp!!>(! F6-) | F6- | F6-!>)! |!pp! F6 | z2!mf! (f2 a2 | %13
+ g2 f2 c2 | B2 c2 d2 |!mp! A6 |!mf! c6 | f6 |!>(! E6-) | E6-!>)! |!ppp! E6 |!mp! (A2 B2 =c2 | %22
+ e2 d2 B2 | d2 =c2 B2 | d6- | d4) (d2 | e2 =f2 g2 | a2 =c2 d2 | e2 d2 B2 | d6- | d4) (d2 | g6 |1 %32
+"^|" f6 | B2 A2 B2 | c2 d2 e2 | c2 d2 e2 | F6 | =c6) | d6 :|2 (=f6 || B2 =c2 =f2 | e2 d2 =c2 | %42
+ e2 d2 =c2 |!mp!!>(! =F6 | =c6!>)! |!p! d6) |] %46
+V:2
+"_Piano is background, supporting the flute."!mp! z2"_(Note: Special clefs with an \"8\" under them mean to play notes an octave lower than written.\n""_Instead of sitting in front of the Middle C key, sit in front of the C key an octave below that)." [Bdf]4 | %1
+ z2 [Acf]4 | z2 [Bdf]4 | z2 [Acf]4 | z2 [Bdf]4 | z2 [Acf]4 | z2 [Bdf]4 | z2 [Acf]4 | z2 [Bdf]4 | %9
+ z2 [Acf]4 | z2 [Bdf]4 | z2 [Acf]4 | z2 [Bdf]4 | z2 [Acf]4 | z2 [Bdf]4 | z2 [Acf]4 | z2 [Acf]4 | %17
+ z2 [Bdf]4 | z2 [GB]4 | z2 [Bdg]4 | z2 [=FAd]4 |!mp!!<(! z2 [A=ce]4 | z2!<)!!mf!!>(! [GBe]4!>)! | %23
+!mp! z2 [GBe]4 | z2 [=CEA]4 | z2 [=CFA]4 | z2 [A=c=f]4 | z2 [A=ce]4 | z2 [GBe]4 | z2 [=CEA]4 | %30
+ z2 [=CFA]4 | z2 !>![Beg]4 |1 z2 [Acf]4 | z2 [Bdf]4 | z2 [cea]4 | z2 [Acf]4 | z2 [Ad]2 [Bdg]2 | %37
+ z2 [A=ce]4 | z2 [dfa]4 :|2 z2 [Ad=f]4 || z2 [A=c=f]4 | z2 [=cea]4 | z2 [A=c=f]4 | %43
+!mp!!>(! z2 [B,DA]2 [Bdg]2 | [=ceg]6!>)! |!pp! [d=fa]6 |] %46
+V:3
+"_Chords should be played softer than bass notes, with a hint of a rolled leading edge." G,6 | %1
+ D,6 | G,6 |"_\n" D,6 | !>!G,6 | D,6 | G,6 | D,6 | G,6 | D,6 | G,6 | D,6 | G,6 | D,6 | G,6 | D,6 | %16
+ F,6 | B,,6 | E,6 | E,6 | D,6 | A,,6 | D,6 | D,6 | D,6 | D,6 | D,6 | D,6 | D,6 | D,6 | D,6 | E,6 |1 %32
+ F,6 | B,,6 | E,6 | E,6 | E,6 | A,6 | D,6 :|2 !>!E,6 || E,6 | E,6 | E,6 | E,6 | A,6 | D,6 |] %46
+

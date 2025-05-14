@@ -1,0 +1,42 @@
+X:1
+T:Title
+%%score 1 { ( 2 4 6 ) | ( 3 5 ) }
+L:1/8
+M:9/8
+K:F
+V:1 treble nm="Akkordion"
+V:2 treble nm="Grand Piano"
+V:4 treble 
+V:6 treble 
+V:3 bass 
+V:5 bass 
+V:1
+ z3 z3[Q:1/4=100] A2 B | c3 F3 EDE | F6 A2 A | G3 C3 GAB |[M:3/4] c6 |[M:3/8] A2 B | %6
+[M:9/8] c3 F3 EDE | F6 A2 A | G3 c3 EFD |[M:3/4] C6 |[M:3/8] z3 |[M:9/8] z9 | z9 | z9 |[M:3/4] z6 | %15
+[M:3/8] z3 |[M:9/8] z9 | z9 | z9 |[M:3/4] z6 |] %20
+V:2
+ z9 | [A,CF]3 C3 B,3 | A,6 z3 | z EE .E2 E z[K:treble] EE |[M:3/4] z [A,CF] [A,CF] [A,CF]3 | %5
+[M:3/8] z3 |[M:9/8] [A,CF]3 C3 B,3 | A,6 z3 | z EE EEE z DD |[M:3/4] C,,[K:treble][G,C] C C3 | %10
+[M:3/8] d2 c |[M:9/8] E2 E z2 B e2 [EBd] | [Ac]6 z3 | E2 E z2 B e2 [EBd] |[M:3/4] [Ac]6 | %15
+[M:3/8] cAc |[M:9/8] [Af]6 z3 | [DG]6 e2 d | [Ac]6 z3 |[M:3/4] [A,CF]6 |] %20
+V:3
+ z9 | F,,3 A,,3 C,3 | [F,,C,F,]6 z3 | z [B,C][B,C] .[B,C]2 [B,C] z [B,C]B, |[M:3/4] F,,A,, C, F,3 | %5
+[M:3/8] z3 |[M:9/8] F,,3 A,,3 C,3 | [F,,C,F,]6 z3 | z [G,C][G,C] [G,C][G,C][G,C] z [F,G,][F,G,] | %9
+[M:3/4] z [E,,E,] [G,,E,G,] [C,E,G,]3 |[M:3/8][K:treble] B2 A | %11
+[M:9/8][K:bass] C,2 C, z2[K:treble] G c2[K:bass] C, | F,2 F, F,3[K:treble] B2 A | %13
+ C,2 C, z2[K:treble] G c2[K:bass] C, |[M:3/4] F,2 F, F,3 |[M:3/8][K:treble] AFA | %16
+[M:9/8][K:bass] [F,C]2 F, F,2 F, G,2 A, | B,6[K:treble] c2 B | C,2 C, C,2 C, C,2 C, |[M:3/4] F,6 |] %20
+V:4
+ x9 | x9 | x9 | C,3 z3 C,3[K:treble] |[M:3/4] x6 |[M:3/8] x3 |[M:9/8] x9 | x9 | G,,6 G,,3 | %9
+[M:3/4] x[K:treble] x5 |[M:3/8] x3 |[M:9/8] [GB]6 z3 | F2 F F3 d2 c | [GB]6 z3 |[M:3/4] F2 F F3 | %15
+[M:3/8] x3 |[M:9/8] z2 C C2 [FAc] [EGB]2 [_E^FA] | x9 | C2 C C2 [CGB] [CFA]2 [B,CG] |[M:3/4] x6 |] %20
+V:5
+ x9 | x9 | x9 | z3 E,3 z3 |[M:3/4] x6 |[M:3/8] x3 |[M:9/8] x9 | x9 | x9 |[M:3/4] x6 | %10
+[M:3/8][K:treble] x3 |[M:9/8][K:bass] z3 C,6[K:treble][K:bass] | x6[K:treble] x3 | %13
+ z3 C,6[K:treble][K:bass] |[M:3/4] x6 |[M:3/8][K:treble] x3 |[M:9/8][K:bass] x9 | x6[K:treble] x3 | %18
+ x9 |[M:3/4] x6 |] %20
+V:6
+ x9 | x9 | x9 | x7[K:treble] x2 |[M:3/4] x6 |[M:3/8] x3 |[M:9/8] x9 | x9 | x9 | %9
+[M:3/4] x[K:treble] x5 |[M:3/8] x3 |[M:9/8] z3 E6 | x9 | z3 E6 |[M:3/4] x6 |[M:3/8] x3 | %16
+[M:9/8] x9 | x9 | x9 |[M:3/4] x6 |] %20
+

@@ -1,0 +1,30 @@
+X:1
+T:Air Allemand
+T:Carl Czerny
+T:Air Allemand.
+T: 100 Progressive Recreations
+T:Public Domain
+C:Carl Czerny
+Z:Public Domain
+%%score { 1 | ( 2 3 ) }
+L:1/8
+Q:1/4=100
+M:2/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:3 bass 
+V:1
+"^Allegretto."!p! (!>!c | .G).G.G(!>!c | .A).A.A(d | B>c!<(!dB | c>d!<)! e)!p! (!>!c | %5
+ .G).G.G(!>!c | .A).A.A!>(!(d | B>cdB | c2)!>)! z :: (c | B>cdB | c>dec |!<(! B>cdB | %13
+ c>d.e)!<)!!p! (!>!c | .G).G.G(!>!c | .A).A.A!>(!(d | B>cdB | c2)!>)! z :| %18
+V:2
+ z | .[CE].[CE].[CE] z | .[F,A,D].[F,A,D].[F,A,D] z | G,[DF][DF][DF] |[K:treble] C[EG][EG] z | %5
+ .[CE].[CE].[CE] z |[K:bass] .[F,A,D].[F,A,D].[F,A,D] z | G,[DF][DF][DF] | %8
+[K:treble] ([CE]G .[CE]) ::[K:bass] z |[K:treble] ([DF]G[DF]G | [CE]G[CE]G) | ([DF]G[DF]G | %13
+ [CE]G.[CE]) z | .[CE].[CE].[CE] z |[K:bass] .[F,A,D].[F,A,D].[F,A,D] z | G,[DF][DF][DF] | %17
+ [CE] (G,.C,) :| %18
+V:3
+ x | x4 | x4 | G,4 |[K:treble] C3 x | x4 |[K:bass] x4 | G,4 |[K:treble] x3 ::[K:bass] x | %10
+[K:treble] x4 | x4 | x4 | x4 | x4 |[K:bass] x4 | G,4 | x3 :| %18
+

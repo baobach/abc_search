@@ -1,0 +1,64 @@
+X:1
+T:Praludien, Op. 14: No. 1
+T:Praeludien, Op. 14: No. 1 
+T:in Etudenform 
+T:Joseph Rheinberger
+C:Joseph Rheinberger
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=100
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+!f!"^Maestoso" [E,C][G,D] |"_marcato" (EG).C.D E2 .C.D | (EG).C.D E2 .F.G | (Ac).F.G A2 .F.G | %4
+ (Ac).F.G A2 .F.A | (Gf).f.^c (ed).d.A | (cB).F.A (AG)!p! .c.d | (c_b).b.^f (ag).g.d | %8
+ (fe)._B.d (dc)!f! .[Ff].[Gg] | ([Aa][cc']).[Ff].[Gg] ([Aa]2 .[Ff]).[Gg] | %10
+ ([Aa][cc']).[Ff].[Gg] ([Aa]2 .[Ff]).[Gg] | ([Aa][cc']).[^F^f].[Gg] ([Aa]2 .[Ff]).[Gg] | %12
+ ([Aa][cc']).[^F^f].[Gg] ([Aa]2 .[cc']).[dd'] |!ff! [ee'][gg'][=f=f'][ee'] [dd']2 .[Aa].[Bb] | %14
+ [cc'][ee'][dd'] ([Bb]2 .[Ff]).[Gg] z | ([Aa][cc'][Bb]d) ([Ff][Aa][Gg]B) | %16
+"_dimin." (df)(Bd) (F_A)(B,D) |!pp! (_EG).C.D E2 .C.D | (_EG).C.D E2 .F.G | (_Ac).F.G A2 .F.G | %20
+ (_Ac).F.G A2 FA |[Q:1/4=110]"_scherzando" (Gf).f.^c (=ed).d.=A | (cB).F.A (AG) z2 | %23
+ !^![CEGc]4 !^![E_Bce]4 | !^![G_Bcg]4 !^![Beg_b]2!p! AB | (Ag).g.^d (=fe) .A._B | %26
+ (Af).f.^c (ed)!pp! .E.F | (Ed).d.^A (=cB) .E.F | (Ec).c.^G (BA)!f! .[DB].[Fc] | %29
+ (df).B.c (d2 .B).c | (df).B.c (d2 .B).c | (df).B.c (d2 .B).c | (df).B.c"_poco a poco" (d2 .B).c | %33
+ (d2 Bd c3 B) | (c2 Ac _B3 A) | (_B2 GB A3 F) | (E3 G D3 E) | %37
+ [E,C]2"_cresc." .[E,C].[F,D] ([G,E][A,F]).[F,D].[G,E] | [A,F]2 .[=B,G].[CA] ([DB][Ec]).[CA].[DB] | %39
+ [Ec]2 .[Ec].[Fd]!f! ([Ge][Af]).[Fd].[Ge] | [Af][Af][=Bg][ca] ([db][ec']).[ca].[db] | %41
+ [ec']2!>(! (CD EGDE)!>)! |!p! [A,F]4 [F,C]4 | [G,E]2!>(! (CD EGDE)!>)! |!p! [A,F]4 [F,C]4 | %45
+ [G,E]2!>(! (CD EGDE)!>)! |!p! ([A,F]8 | [_A,C]8) | [E,G,E]8 |] %49
+V:2
+ z2 | [C,,C,]4 [B,,,B,,]4 | [A,,,A,,]4 [G,,,G,,]4 | [F,,,F,,]4 [E,,,E,,]4 | [D,,,D,,]4 [C,,,C,,]4 | %5
+!ped! .B,,,2 .[B,,G,].[B,,G,] [B,,G,]2 .[B,,G,].[=C,G,]!ped-up! | %6
+ [D,G,]2 .[D,G,].[E,A,] [F,B,]2 z2 |!ped! E,,2 .[E,C].[E,C] [E,C]2 .[E,C].[=F,C]!ped-up! | %8
+ [G,C]2 .[G,C].[A,D] [_B,E]2 z2 |!ped! [F,,F,]2 A,C FCA,G, | F,2 A,C FC[F,A,]!ped-up![_E,G,] | %11
+!ped! [D,^F,]2 A,C ^FCA,G, | [D,^F,]2 A,C ^FCA,F,!ped-up! |!ped! G,2 A,C B,!ped-up!G,F,D, | %14
+!ped! E,2 F,A, G,!ped-up!E,D,B,, | C,2 D,F, A,,2 B,,D, | (F,_A,)(DB,) (A,F,)(D,B,,) | C,4 _B,,4 | %18
+ _A,,4 G,,4 | F,,4 _E,,4 | D,,4 C,,4 | %21
+!ped! .B,,,2 .[B,,G,].[B,,G,] [B,,G,]2 .[B,,G,].[=C,G,]!ped-up! | %22
+ [D,G,]2 .[D,G,].[E,A,] [F,B,]2!f! [C,,C,][D,,D,] | %23
+ ([C,,C,][_B,,_B,])[B,,B,][^F,,^F,] ([A,,A,][G,,G,])[G,,G,][^D,,^D,] | %24
+ ([F,,F,][E,,E,])[E,,E,][=B,,,=B,,] ([D,,D,][C,,C,]) z2 | %25
+!ped! ^C,,2 [^C,_B,][C,B,] [C,A,]2 z2!ped-up! |!ped! D,,2 [D,_B,][D,B,] [D,A,]2!ped-up! z2 | %27
+!ped! ^G,,,2 [^G,,F,][G,,F,] [G,,E,]2!ped-up! z2 |!ped! .A,,,2 [A,,F,][A,,F,] [A,,E,]2!ped-up! z2 | %29
+ [_A,,_A,]4 [G,,G,]4 | [F,,F,]6 [G,,G,]2 | [_A,,_A,]4 [G,,G,]4 | [F,,F,]6 [F,,F,]2 | %33
+ [E,,E,]4 [_E,,_E,]4 | [D,,D,]4 [_D,,_D,]4 | [C,,C,]4 [F,,,F,,]4 | [G,,,G,,]4 [^G,,,^G,,]4 | %37
+ [A,,,A,,]C, z2 C,4- | C,F, z2 G,,4- | G,,C, z2 [_B,,,_B,,]2 [A,,,A,,][G,,,G,,] | %40
+ !^![F,,,F,,]2 !^![E,,,E,,]2 !^![D,,,D,,]2 !^![G,,,G,,]2 | [C,,,C,,]2 z2 z4 | (C,4 A,,4 | %43
+ [C,,C,]2) z2 z4 | (C,4 A,,4 | [C,,C,]2) z2 z4 | ([F,,,C,,]8 | [F,,C,]8) | [C,,G,,C,]8 |] %49
+V:3
+ x2 | C2 E,G, CG,E,G, | C2 E,G, CG,DE | F2 A,C FCA,C | F2 A,C FCA,F | F2 FF F2 FF | F2 B,C D2 x2 | %7
+ _B2 BB B2 BB | _B2 EF G2 x2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | C2 _E,G, CG,E,G, | %18
+ C2 _E,G, CG,D_E | F2 _A,C FCA,C | F2 _A,C FCA,_F | F2 FF F2 FF | F2 B,C D2 x2 | x8 | x8 | %25
+ G2 GG G2 z2 | F2 FF F2 z2 | D2 DD D2 z2 | C2 CC C2 x2 | B2 DF BFDF | B2 DF BFDF | B2 DF BFDF | %32
+ B2 DF BFDA | ^GE G2- GC =G2- | GD ^F2- F_B, =F2- | FC E2- EA, D2- | DG, C2- CF, B,2 | x8 | x8 | %39
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %49
+V:4
+ x2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | G,,4 z4 | G,,4 z4 | G,,4 G,,4 | %16
+ G,,2 z2 x4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %34
+ x8 | x8 | x8 | x4 _B,,2 A,,G,, | F,,2 x2 F,,2 E,,D,, | C,,2 x6 | x8 | x8 | F,,8 | x8 | F,,8 | x8 | %46
+ x8 | x8 | x8 |] %49
+

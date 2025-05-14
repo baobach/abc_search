@@ -1,0 +1,134 @@
+X:1
+T:Canon in Dark
+T:Canon in Dark
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=95
+M:4/4
+K:F
+V:1 treble+8 nm="Piano" snm="Pno."
+V:2 treble 
+V:1
+"^\n"!p! [af']8 | [ae']8 | [fd']8 | [fc']8 | [db]8 | [da]8 | [db]8 | [e^c']3 d'3 e'2 | %8
+ z4[Q:1/4=88]"^\n" z4[Q:1/4=94]"^\n"[Q:1/4=92]"^\n"[Q:1/4=90][Q:1/4=82][Q:1/4=78]"^\n"[Q:1/4=74]"^\n" | %9
+[K:treble][Q:1/4=102]"^\n"!mf! !arpeggio![FAdf]3 [FAdf]2 [FAdf] [FAdf]2 | %10
+ [EA^ce]3 [EAce]2 [EAce] [EAce]2 | [DFBd]3 [DFBd]2 [DFBd] [DFBd]2 | %12
+ [CFAc]3 [CFAc]2 [CFAc] [CFAc]2 | !arpeggio![B,DGB]3 [B,DGB]2 [B,DGB] [B,DGB]2 | %14
+ [A,DFA]3 [A,DFA]2 [A,DFA] [A,DFA]2 | [B,DGB]3 [B,DGB]2 [B,DGB] [B,DGB]2 | %16
+"_rit." [^CEA^c]3[Q:1/4=97] [DEAd]2[Q:1/4=91] [Ee]3[Q:1/4=100][Q:1/4=94][Q:1/4=88] | %17
+[Q:1/4=102] !arpeggio![DFAd]2 [CFAc]2 [DFAd]2 [F,F]2 | [E,A,^CE]2 [A,CEA]2 [CEG]2 [A,CEA]2 | %19
+ [DFBd]2 [DFBd]2 [CFBc]2 [B,B]2 | !arpeggio![CFAc]2 [FAcf]2 [Acfa]2 [Bcfb]2 | %21
+ [GBdg]2 [FBdf]2 [EBe]2 [GBdg]2 | !arpeggio![FAdf]2 [EAde]2 [DAd]2 [Cc]2 | %23
+ [B,DGB]2 [A,DA]2 [B,DGB]2 [Dd]2 | %24
+[M:5/4] [DAd]2[Q:1/4=96]"_rit." D2[Q:1/4=90] [^CEA^c]2[Q:1/4=84] [EAce]2[Q:1/4=78] [Gceg]2 | %25
+[M:4/4][Q:1/4=102]"^A tempo" [Adfa]2 [FAdf][Gg] [Aa]2 [FAdf][Gg] | %26
+ [A^cea][A,^CEA][B,B][Cc] [Dd][Ee][Ff][Gg] | [FBdf]2 [DFBd][Ee] [Ff]2 [FAf][Gg] | %28
+ [Acfa][Bcfb][Acfa][Gcg] [Acfa][FAcf][Gg][Aa] | [G^ceg]2 [Bceb][Acea] [Gceg]2 [Ff][Ee] | %30
+ !arpeggio![FAdf][EAe][DAd][EAe] [Ff][Gg][Aa][Bb] | [GBdg]2 [Bdgb][Ada] [Bdgb]2 [^c^c'][dd'] | %32
+[Q:1/4=100] [^cea^c'][Q:1/4=102][Beb][Q:1/4=106][Aea][Q:1/4=108][Bb]"_accel."[Q:1/4=112] [cc'][Q:1/4=116][dd'][Q:1/4=120][ee'][Q:1/4=124]"^\n"[ff'] | %33
+[Q:1/4=128]!8va(! [gg'][Q:1/4=130][aa'][Q:1/4=132][bb'][Q:1/4=126]"_rit."[^c'^c''][Q:1/4=118] [d'd''][Q:1/4=108][e'e''][Q:1/4=96][f'f''][Q:1/4=88]"^\n"[g'g'']-!8va)! | %34
+ !fermata![gg']8 |[Q:1/4=94]!mp!!8va(! !arpeggio![ad'a']2 [af']g' [aa']2 [af']g' | %36
+ [^c'a']abc' d'e'f'g' | [bf']2 d'e' [bf']2 fg | [fa]bag ad'[^fc']d' | [gbd']2 [gd']c' b2 ag!8va)! | %40
+ agfg ab^c'd' | b2 d'c' d'2 c'b | %42
+ [^c^c'][dd'][ee'][dd']"_rit."[Q:1/4=92]"^\n" [cc'][Q:1/4=86]"^\n"[dd'][Q:1/4=77]"^\n"[Bb][Q:1/4=66]"^\n"[cc'][Q:1/4=90]"^\n"[Q:1/4=82]"^\n"[Q:1/4=72]"^\n"[Q:1/4=60]"^\n" | %43
+[M:12/8][Q:3/8=135]!mf! !arpeggio![Adfa]6 [FAdf]3 [Adfa]3 | [A^cea]3 [Bceb]3 [Acea]3 [Gceg]3 | %45
+ [FBdf]6 [DFBd]3 [FBdf]3 | [FAcf]3 [GAcg]3 [FAcf]3 [Ee]3 | [DGBd]6 [B,DGB]3 [DGBd]3 | %48
+ [DFAd]6 [F,A,DF]3 [DFAd]3 | [DFBd]3 [CFc]3 [B,FB]3 [CFc]3 | [^CEA^c]6 ^CEA ^cea | %51
+ !>![Aa]df afd !>![Ff]Ad !>![Aa]df | !>![Aa]^ce !>![Bb]ec !>![Aa]ec !>![Gg]ec | %53
+ !>![Ff]Bd fdB !>![Dd]FB !>![Ff]Bd | !>![Ff]Ac !>![Gg]cA !>![Ff]cA [Ee]cA | %55
+ !>![Dd]GB dB!>![G,G] !>![B,B]DG !>![Dd]GB | !>![Dd]FA dAF !>![F,F]A,D !>![Dd]FA | %57
+ !>![Dd]FB !>![Cc]FB !>![B,B]FB !>![Cc]FB | !>![^C^c]EA cea !>![dd']ea !>![ee']2 g || %59
+ !>![ff']ad' f'd'a dfa !>![ff']a!>![dd'] | !>![ff']ad' !>![gg']d'a !>![ff']d'a !>![ee']d'a | %61
+ !>![dd']fb d'bf !>![Bb]df !>![dd']fb | !>![dd']fb !>![ee']bd' !>![dd']fb !>![cc']fb | %63
+ !>![Bb]dg bgd !>![Gg]Bd gdB | !>![dd']fa d'af !>![Aa]df afd | !>![Bb]dg bgd !>![Gg]Bd gdB | %66
+ !>![Aa]^ce aec !>![Ff]ce !>![Gg]ec | !>![Aa]df!8va(! ad'f' a'f'd'!8va)! afd | %68
+ !>!aA!>!a !>!bB!>!b !>!aA!>!a !>!gG!>!g | !>![Ff]Bd fbd' f'd'b fdB | %70
+ !>!fF!>!f !>!gG!>!g !>!fF!>!f !>!eE!>!e | !>![Dd]GB dgb d'bg dBG | !>!dDF AFA !>!fFA dAd | %73
+ !>!gGB dBd !>!bBd gdg | !>![Aa]^ce aec Bce !>![c^c']ea | %75
+ !>![dd']fa!8va(! d'f'a' d''a'f'!8va)! d'af | !>!d'de aea !>!^c'^ce aea | !>!c'cd fdf !>!bBd fdf | %78
+ !>![db]Bc fcf !>!aAc fcf | !>!aA^c ece !>!gGc ece | !>![^cg]GA dAd !>!fFA dAd | %81
+ !>!fFG BGB !>!eE!>!e !>!gG!>!g | %82
+ !>![Aa]^ce aec"_rit."[Q:3/8=132] !>![Bb][Q:3/8=126]"^\n"c[Q:3/8=116]e[Q:3/8=108] !>![c^c'][Q:3/8=92]e[Q:3/8=78]"^\n"a | %83
+[M:18/8]"^A tempo"[Q:3/8=135]"^\n"!f! [dfad']3 [DFAd][DFAd][DFAd] [DFAd]2 [DFAd]2 [DFAd]2"_rit."[Q:3/8=128]"^\n" [DFd]2[Q:3/8=120]"^\n" [Ee]2[Q:3/8=110]"^\n" [Ff]2 | %84
+"^A tempo"[Q:3/8=135]"^\n" [EA^ce]3 [EAce][EAce][EAce] [EAce]2 [EAce]2 [EAce]2"_rit."[Q:3/8=128]"^\n" [EAce]2[Q:3/8=120]"^\n" [Ff]2[Q:3/8=110]"^\n" [Gg]2 | %85
+"^A tempo"[Q:3/8=135]"^\n" !arpeggio![Bdgb]3 [Bdgb][Bdgb][Bdgb] [Bdgb]2 [Bdgb]2 [Bdgb]2"_rit."[Q:3/8=128]"^\n" [Bdgb]2[Q:3/8=120]"^\n" [Aa]2[Q:3/8=110]"^\n" [Gg]2 | %86
+"^A tempo"[Q:3/8=135]"^\n" [Acfa]3 [Acfa][Acfa][Acfa] [Acfa]2 [Acfa]2 [Acfa]2"_rit."[Q:3/8=128]"^\n" [Acfa]2[Q:3/8=120]"^\n" [Gcg]2[Q:3/8=110]"^\n" [Ff]2 | %87
+"^A tempo"[Q:3/8=135]"^\n" [G^ceg]3 [Gceg][Gceg][Gceg] [Gceg]2!<(! [Gceg]2 [Gceg]2[Q:3/8=123] [Gceg]2 [Ff]2[Q:3/8=86] [Ee]2!<)![Q:3/8=110][Q:3/8=98][Q:3/8=72] | %88
+[Q:3/8=135]"^A tempo"!ff! [DFAd]3[K:bass] [D,F,A,D][D,F,A,D][D,F,A,D] [D,F,A,D]2 [D,F,A,D]2 [D,F,A,D]2 [D,F,A,D]6- | %89
+ [D,F,A,D]12- [D,F,A,D]6 |] %90
+V:2
+!ped! d2 a2 d'2 f'2!ped-up! |!ped! A2 e2 a2 ^c'2!ped-up! |!ped! B2 f2 b2 d'2!ped-up! | %3
+!ped! F2 c2 f2 a2!ped-up! |!ped! G2 d2 g2 b2!ped-up! |!ped! D2 A2 d2 f2!ped-up! | %6
+!ped! G2 d2 g2 b2!ped-up! |!ped! Aeae ^cAE^C |[K:bass]"^rit." A,E,^C,A,, E,,^C,,E,,D,,-!ped-up! | %9
+!ped! [D,,,D,,]2 [D,F,A,D]2 [D,F,A,D]3/2[D,F,A,D]3/2A,,-!ped-up! | %10
+!ped! [A,,,A,,]2 [A,,^C,E,A,]2 [A,,C,E,A,]3/2[A,,C,E,A,]3/2B,,-!ped-up! | %11
+!ped! [B,,,B,,]2 [B,,D,F,B,]2 [B,,D,F,B,]3/2[B,,D,F,B,]3/2F,,-!ped-up! | %12
+!ped! [F,,,F,,]2 [F,,A,,C,F,]2 [F,,A,,C,F,]3/2[F,,A,,C,F,]3/2[_G,,,_G,,]!ped-up! | %13
+!ped! [G,,,G,,]2 [G,,B,,D,G,]2 [G,,B,,D,G,]3/2[G,,B,,D,G,]3/2D,,-!ped-up! | %14
+!ped! [D,,,D,,]2 [D,,F,,A,,D,]2 [D,,F,,A,,D,]3/2[D,,F,,A,,D,]3/2G,,-!ped-up! | %15
+!ped! [G,,,G,,]2 [G,,B,,D,G,]2 [G,,B,,D,G,]3/2[G,,B,,D,G,]3/2A,,-!ped-up! | %16
+!ped! [A,,,A,,]2 [G,,,G,,]2 [F,,,F,,]2 [E,,,E,,]2!ped-up! | %17
+!ped! [D,,,D,,]2 A,,,D,, F,, A,,2 A,,-!ped-up! |!ped! [A,,,A,,]E,,A,,^C, E, C,2 B,,-!ped-up! | %19
+!ped! [B,,,B,,]F,,B,,D, F,B,[A,,,A,,][G,,,G,,]!ped-up! | %20
+!ped! [F,,,F,,]C,,F,,A,, C, F,2 A,,!ped-up! | %21
+!ped! [G,,,G,,]D,,G,,B,, D,G,[G,,,G,,][F,,,F,,]!ped-up! | %22
+!ped! [D,,,D,,]A,,,D,,F,, A,, D,2 G,,-!ped-up! |!ped! [G,,,G,,]D,,G,,B,, D, G,2 A,,-!ped-up! | %24
+[M:5/4]!ped! [A,,,A,,]E,,A,,^C,E, A,2 A,2 D,,-!ped-up! | %25
+[M:4/4]!ped! [D,,,D,,]A,,,D,,F,, A,,D,F,A,,-!ped-up! |!ped! [A,,,A,,]E,,A,,^C, E,A,E,B,,-!ped-up! | %27
+!ped! [B,,,B,,]F,,B,,D, F,B,F,F,,-!ped-up! |!ped! [F,,,F,,]C,,F,,A,, C,F,C,A,,-!ped-up! | %29
+!ped! [A,,,A,,]E,,A,,^C, E,A,[F,,,F,,][E,,,E,,]!ped-up! | %30
+!ped! [D,,,D,,]A,,,D,,F,, A,,D,A,,G,,-!ped-up! |!ped! [G,,,G,,]D,,G,,B,, D,G,D,A,,-!ped-up! | %32
+!ped! [A,,,A,,]E,,A,,^C, E,A,^CE!ped-up! |[K:treble]!ped! A^ceA cea^c'-!ped-up! | !fermata!c'8 | %35
+!ped! D2 A2 d2 A2!ped-up! |!ped! ^C2 A2 ^c2 A2!ped-up! |!ped! B,2 F2 B2 F2!ped-up! | %38
+!ped! F,2 C2 F2 _G,2!ped-up! |!ped! G,2 D2 G2 B2!ped-up! | %40
+[K:bass]!ped! D,/A,/D/E/ F/!8va(!A/d/A/!8va)! F/E/D/A,/ F,/E,/D,/F,/!ped-up! | %41
+!ped! G,,/D,/G,/A,/ B,/D/G/D/ B,/A,/G,/D,/ G,,/D,/G,/D,/!ped-up! | %42
+!ped! A,,/E,/A,/^C/ E/A/E/C/ A,/E,/^C,/A,,/ [A,,,A,,]/[G,,,G,,]/[F,,,F,,]/[E,,,E,,]/!ped-up! | %43
+[M:12/8]!ped! [D,,,D,,]A,,,D,, F,,A,,D, F,A,D A,F,D,!ped-up! | %44
+!ped! [A,,,A,,]E,,A,, ^C,E,A, E,C,A,, A,,,A,,A,,,!ped-up! | %45
+!ped! [B,,,B,,]F,,B,, D,F,B, F,D,B,, [B,,,B,,][A,,,A,,][G,,,G,,]!ped-up! | %46
+!ped! [F,,,F,,]C,,F,, A,,C,F, C,A,,F,, F,,,F,,F,,,!ped-up! | %47
+!ped! [G,,,G,,]D,,G,, B,,D,G, D,B,,G,, [G,,,G,,][F,,,F,,][E,,,E,,]!ped-up! | %48
+!ped! [D,,,D,,]A,,,D,, F,,A,,D, A,,F,,D,, D,,,D,,D,,,!ped-up! | %49
+!ped! [B,,,B,,]F,,B,, D,F,B, F,D,B,, B,,,B,,B,,,!ped-up! | %50
+!ped! [A,,,A,,]E,,A,, ^C,E,A,"^r. hand" z6!ped-up! | %51
+[K:bass]!ped! [D,,,D,,]A,,,D,, F,,A,,D, F,A,D A,F,D,!ped-up! | %52
+!ped! [A,,,A,,]E,,A,, ^C,E,A, E,C,A,, A,,,A,,A,,,!ped-up! | %53
+!ped! [B,,,B,,]F,,B,, D,F,B, F,D,B,, [B,,,B,,][A,,,A,,][G,,,G,,]!ped-up! | %54
+!ped! [F,,,F,,]C,,F,, A,,C,F, C,A,,G,, F,,,F,,F,,,!ped-up! | %55
+!ped! [G,,,G,,]D,,G,, B,,D,G, D,B,,G,, [G,,,G,,][F,,,F,,][E,,,E,,]!ped-up! | %56
+!ped! [D,,,D,,]A,,,D,, F,,A,,D, A,,F,,D,, D,,,D,,D,,,!ped-up! | %57
+!ped! [B,,,B,,]F,,B,, D,F,B, F,D,B,, B,,,B,,B,,,!ped-up! | %58
+!ped! [A,,,A,,]E,,A,, ^C,E,A, E,C,A,, E,,^C,,A,,,!ped-up! || %59
+!ped! [D,,,D,,]A,,,D,, F,,A,,D, F,A,D[K:treble] FAd!ped-up! | %60
+!ped! AFD[K:bass] A,F,D, D,,D,D,, C,,C,C,,!ped-up! | %61
+!ped! [B,,,B,,]F,,B,, D,F,B,[K:treble] DFB FDB,!ped-up! | %62
+!ped! F, D,2 B,,,B,,B,,, B,,A,,,A,, A,,,A,,A,,,!ped-up! | %63
+!ped! [G,,,G,,]D,,G,, B,,D,G, D,B,,G,, [G,,,G,,][F,,,F,,][E,,,E,,]!ped-up! | %64
+!ped! [D,,,D,,]A,,,D,, F,,A,,D, F,A,D A,F,D,!ped-up! | %65
+!ped! [G,,,G,,]D,,G,, B,,D,G, D,B,,G,, D,,G,,,D,,!ped-up! | %66
+!ped! [A,,,A,,]E,,A,, ^C,E,A, E,C,A,, E,,^C,,A,,,!ped-up! | %67
+!ped! [D,,,D,,]A,,,D,, F,,A,,D, F,A,D A, F,2!ped-up! | %68
+!ped! [A,,,A,,]E,,A,, ^C,E,A, E,C,A,, A,,,A,,A,,,!ped-up! | %69
+!ped! [B,,,B,,]F,,B,, D,F,B, F,D,B,, B,,, B,,2!ped-up! | %70
+!ped! [F,,,F,,]C,,F,, A,,C,F, C,A,,F,, F,,,F,,F,,,!ped-up! | %71
+!ped! [G,,,G,,]D,,G,, B,,D,G, D,B,,G,, G,,,G,,G,,,!ped-up! | %72
+!ped! [D,,,D,,]A,,,D,, F,,A,,D, A,,F,,D,, D,,,D,,D,,,!ped-up! | %73
+!ped! [G,,,G,,]D,,G,, B,,D,G, D,B,,G,, G,,,G,,G,,,!ped-up! | %74
+!ped! [A,,,A,,]E,,A,, ^C,E,A, E,C,B,, [A,,,A,,][G,,,G,,][F,,,F,,]!ped-up! | %75
+!ped! [D,,,D,,]A,,,D,, F,,A,,D, F,A,D A,F,D,!ped-up! | %76
+!ped! [A,,,A,,]E,,A,, ^C,E,A, E,C,A,, A,,,A,,A,,,!ped-up! | %77
+!ped! [B,,,B,,]F,,B,, D,F,B, F,D,B,, B,,,B,,B,,,!ped-up! | %78
+!ped! [F,,,F,,]C,,F,, A,,C,F, C,A,,F,, F,,,F,,F,,,!ped-up! | %79
+!ped! [A,,,A,,]E,,A,, ^C,E,A, E,C,A,, A,,,A,,A,,,!ped-up! | %80
+!ped! [D,,,D,,]A,,,D,, F,,A,,D, A,,F,,D,, D,,, E,,2!ped-up! | %81
+!ped! [G,,,G,,]D,,G,, B,,D,G, D,B,,A,, A,,,A,,A,,,!ped-up! | %82
+!ped! [A,,,A,,]E,,A,, ^C,E,A, E,C,=B,, [A,,,A,,][G,,,G,,][F,,,F,,]!ped-up! | %83
+[M:18/8]!ped! [D,,,D,,]3 [D,F,A,][D,F,A,][D,F,A,] [D,F,A,]2 [D,F,A,]2 [D,F,A,]2 [D,,D,]3 [C,,C,]2 A,,-!ped-up! | %84
+!ped! [A,,,A,,]3 [A,,^C,E,A,][A,,C,E,A,][A,,C,E,A,] [A,,C,E,A,]2 [A,,C,E,A,]2 [A,,C,E,A,]2 [A,,,A,,]3 [^G,,,^G,,]2 =G,,-!ped-up! | %85
+!ped! [G,,,G,,]3 [D,G,B,D][D,G,B,D][D,G,B,D] [D,G,B,D]2 [D,G,B,D]2 [D,G,B,D]2 [G,,,G,,]3 [G,,,G,,]2 F,,-!ped-up! | %86
+!ped! [F,,,F,,]3 [C,F,A,][C,F,A,][C,F,A,] [C,F,A,]2 [C,F,A,]2 [C,F,A,]2 [F,,,F,,]3 [F,,,F,,]2 A,,-!ped-up! | %87
+!ped! [A,,,A,,]3 [A,,^C,E,A,][A,,C,E,A,][A,,C,E,A,] [A,,C,E,A,]2 [A,,C,E,A,]2 [A,,C,E,A,]2"^rit." [A,,,A,,]3/2[G,,,G,,]3/2[F,,,F,,]3/2[E,,,E,,]3/2!ped-up! | %88
+!ped! [D,,,D,,]3 [D,,,D,,][D,,,D,,][D,,,D,,] [D,,,D,,]2 [D,,,D,,]2 [D,,,D,,]2 [D,,,D,,]6-!ped-up! | %89
+!ped! [D,,,D,,]12- [D,,,D,,]6!ped-up! |] %90
+

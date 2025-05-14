@@ -1,0 +1,38 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=94
+M:4/4
+K:G
+V:1 treble nm="Grand Piano"
+V:2 treble 
+V:3 bass nm="Grand Piano"
+V:4 bass 
+V:1
+ [DG]2 [DG][DG] [DF]2 [CE]D | [Fc]2 [Fc][Fc] [GB]4 | [FA]2 [GB][Gc] [Gd]2 [DB][EG] | %3
+w: James~McGranahan * * * * *|||
+ [DF]2 [^CE]>[CE] [=CD]4 | [B,G]2 [DG][DG] [DF]2 [CE][B,D] | c2 z2 z4 | %6
+w: |||
+ [FA]2 [GB][Gc] [Gd]2 [Ge][Ec] | [DB]2 [DB]>[DA] [DG]4 | [GB] [GB]2 [FA] [EG]2 [GB][GB] | %9
+w: |||
+ [^Ge] [Ge]2 [Gd] [Ac]4 | [Fc][Fc] z [Fc] [GB][GB] z [DB] | [DA]2 [^CG][CG] [DF]4 | %12
+w: |||
+ [DG]2 [DG][DG] [DF][DF][CE][B,D] | c2 z2 z4 | [FA]2 [GB][Gc] [Gd][GB][Ge][Ec] | %15
+w: |||
+ [DB]2 [DB]>[DA] [DG]4 |] %16
+w: |
+V:2
+ x8 | x8 | x8 | x8 | x8 | E>F [Gc][Ac] [GB]4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %13
+ E>F [Gc]>[Ac] [GB]4 | x8 | x8 |] %16
+V:3
+ B,2 B,B, C2 CC | A,2 A,[K:treble]D D4 | D2 DC[K:bass] B,2 G,B, | A,2 G,>G, F,4 | %4
+ G,2 B,B, A,2 G,G, | G,2 G,[K:treble]D D4 | D2 DC[K:bass] B,2 G,G, | G,2 F,>C B,4 | %8
+ B, B,2 A, G,2 B,B, | B, B,2[K:treble] E E4 | DD z D DD z[K:bass] G, | A,2 A,A, A,2 C2 | %12
+ B,2 B,B, A,A,G,G, | G,2 G,>[K:treble]D D4 | D2 DC[K:bass] B,G,G,G, | G,2 F,>C B,4 |] %16
+V:4
+ G,2 G,G, A,2 A,A, | D,2 D,D, G,4 | C2 B,A, G,2 z E, | z2 A,,>A,, D,4 | G,,2 G,,G,, D,2 z2 | %5
+ C,>D, E,F, G,4 | C2 B,A, G,2 C,C, | D,2 D,>D, G,4 | G, G,2 F, E,2 E,E, | E, E,2 E, A,4 | %10
+ D,D, z D, G,G, z2 | F,2 E,E, D,4 | G,2 G,G, D,D, z2 | C,>D, E,>F, G,4 | C2 B,A, .G,2 C,C, | %15
+ D,2 D,>D, G,4 |] %16
+

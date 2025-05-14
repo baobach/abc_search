@@ -1,0 +1,68 @@
+X:1
+T:Das Wohltemperierte Klavier, Erster Teil, 1722
+T:Das Wohltemperierte Klavier, Erster Teil, 1722
+T:BWV. 846, Praeludium I
+T:Johann Sebastian Bach
+C:Johann Sebastian Bach
+%%score { ( 1 2 ) | 3 }
+L:1/8
+Q:1/4=80
+M:4/4
+K:C
+V:1 treble nm="Harpsichord" snm="Hch."
+V:2 treble 
+V:3 bass 
+V:1
+ z G/c/ e/G/c/e/ z G/c/ e/G/c/e/ | z A/d/ f/A/d/f/ z A/d/ f/A/d/f/ | %2
+ z G/d/ f/G/d/f/ z G/d/ f/G/d/f/ | z G/c/ e/G/c/e/ z G/c/ e/G/c/e/ | %4
+ z A/e/ a/A/e/a/ z A/e/ a/A/e/a/ | z ^F/A/ d/F/A/d/ z F/A/ d/F/A/d/ | %6
+ z G/d/ g/G/d/g/ z G/d/ g/G/d/g/ | z E/G/ c/E/G/c/ z E/G/ c/E/G/c/ | %8
+ z E/A/ c/E/A/c/ z E/A/ c/E/A/c/ | z D/^F/ c/D/F/c/ z D/F/ c/D/F/c/ | %10
+ z D/G/ B/D/G/B/ z D/G/ B/D/G/B/ | z E/G/ ^c/E/G/c/ z E/G/ c/E/G/c/ | %12
+ z D/A/ d/D/A/d/ z D/A/ d/D/A/d/ | z D/F/ B/D/F/B/ z D/F/ B/D/F/B/ | %14
+ z C/G/ c/C/G/c/ z C/G/ c/C/G/c/ | z A,/C/ F/A,/C/F/ z A,/C/ F/A,/C/F/ | %16
+ z A,/C/ F/A,/C/F/ z A,/C/ F/A,/C/F/ | z G,/B,/ F/G,/B,/F/ z G,/B,/ F/G,/B,/F/ | %18
+ z G,/C/ E/G,/C/E/ z G,/C/ E/G,/C/E/ | z _B,/C/ E/B,/C/E/ z B,/C/ E/B,/C/E/ | %20
+ z A,/C/ E/A,/C/E/ z A,/C/ E/A,/C/E/ | z A,/C/ _E/A,/C/E/ z A,/C/ E/A,/C/E/ | %22
+ z B,/C/ D/B,/C/D/ z B,/C/ D/B,/C/D/ | z G,/B,/ D/G,/B,/D/ z G,/B,/ D/G,/B,/D/ | %24
+ z G,/C/ E/G,/C/E/ z G,/C/ E/G,/C/E/ | z G,/C/ F/G,/C/F/ z G,/C/ F/G,/C/F/ | %26
+ z G,/B,/ F/G,/B,/F/ z G,/B,/ F/G,/B,/F/ | z A,/C/ ^F/A,/C/F/ z A,/C/ F/A,/C/F/ | %28
+ z G,/C/ G/G,/C/G/ z G,/C/ G/G,/C/G/ | z G,/C/ F/G,/C/F/ z G,/C/ F/G,/C/F/ | %30
+ z G,/B,/ F/G,/B,/F/ z G,/B,/ F/G,/B,/F/ | z G,/_B,/ E/G,/B,/E/ z G,/B,/ E/G,/B,/E/ | %32
+ z F,/A,/ C/F/C/A,/ C/[I:staff +1]A,/F,/A,/ F,/D,/F,/D,/ | %33
+[I:staff -1] z G/B/ d/f/d/B/ d/B/G/B/ D/F/E/D/ | !fermata![EGc]8 |] %35
+V:2
+ z/ E3/2- E2 z/ E3/2- E2 | z/ D3/2- D2 z/ D3/2- D2 | z/ D3/2- D2 z/ D3/2- D2 | %3
+ z/ E3/2- E2 z/ E3/2- E2 | z/ E3/2- E2 z/ E3/2- E2 | z/ D3/2- D2 z/ D3/2- D2 | %6
+ z/ D3/2- D2 z/ D3/2- D2 | z/ C3/2- C2 z/ C3/2- C2 | z/ C3/2- C2 z/ C3/2- C2 | %9
+ z/[I:staff +1] A,3/2- A,2[I:staff -1] z/[I:staff +1] A,3/2- A,2 | %10
+[I:staff -1] z/[I:staff +1] B,3/2- B,2[I:staff -1] z/[I:staff +1] B,3/2- B,2 | %11
+[I:staff -1] z/[I:staff +1] _B,3/2- B,2[I:staff -1] z/[I:staff +1] B,3/2- B,2 | %12
+[I:staff -1] z/[I:staff +1] A,3/2- A,2[I:staff -1] z/[I:staff +1] A,3/2- A,2 | %13
+[I:staff -1] z/[I:staff +1] _A,3/2- A,2[I:staff -1] z/[I:staff +1] A,3/2- A,2 | %14
+[I:staff -1] z/[I:staff +1] G,3/2- G,2[I:staff -1] z/[I:staff +1] G,3/2- G,2 | %15
+[I:staff -1] z/[I:staff +1] F,3/2- F,2[I:staff -1] z/[I:staff +1] F,3/2- F,2 | %16
+[I:staff -1] z/[I:staff +1] F,3/2- F,2[I:staff -1] z/[I:staff +1] F,3/2- F,2 | %17
+[I:staff -1] z/[I:staff +1] D,3/2- D,2[I:staff -1] z/[I:staff +1] D,3/2- D,2 | %18
+[I:staff -1] z/[I:staff +1] E,3/2- E,2[I:staff -1] z/[I:staff +1] E,3/2- E,2 | %19
+[I:staff -1] z/[I:staff +1] G,3/2- G,2[I:staff -1] z/[I:staff +1] G,3/2- G,2 | %20
+[I:staff -1] z/[I:staff +1] F,3/2- F,2[I:staff -1] z/[I:staff +1] F,3/2- F,2 | %21
+[I:staff -1] z/[I:staff +1] C,3/2- C,2[I:staff -1] z/[I:staff +1] C,3/2- C,2 | %22
+[I:staff -1] z/[I:staff +1] F,3/2- F,2[I:staff -1] z/[I:staff +1] F,3/2- F,2 | %23
+[I:staff -1] z/[I:staff +1] F,3/2- F,2[I:staff -1] z/[I:staff +1] F,3/2- F,2 | %24
+[I:staff -1] z/[I:staff +1] E,3/2- E,2[I:staff -1] z/[I:staff +1] E,3/2- E,2 | %25
+[I:staff -1] z/[I:staff +1] D,3/2- D,2[I:staff -1] z/[I:staff +1] D,3/2- D,2 | %26
+[I:staff -1] z/[I:staff +1] D,3/2- D,2[I:staff -1] z/[I:staff +1] D,3/2- D,2 | %27
+[I:staff -1] z/[I:staff +1] _E,3/2- E,2[I:staff -1] z/[I:staff +1] E,3/2- E,2 | %28
+[I:staff -1] z/[I:staff +1] E,3/2- E,2[I:staff -1] z/[I:staff +1] E,3/2- E,2 | %29
+[I:staff -1] z/[I:staff +1] D,3/2- D,2[I:staff -1] z/[I:staff +1] D,3/2- D,2 | %30
+[I:staff -1] z/[I:staff +1] D,3/2- D,2[I:staff -1] z/[I:staff +1] D,3/2- D,2 | %31
+[I:staff -1] z/[I:staff +1] C,3/2- C,2[I:staff -1] z/[I:staff +1] C,3/2- C,2 | %32
+[I:staff -1] z/[I:staff +1] C,3/2- C,2- C,4 |[I:staff -1] z/[I:staff +1] C,3/2- C,2- C,4 | x8 |] %35
+V:3
+ C4 C4 | C4 C4 | B,4 B,4 | C4 C4 | C4 C4 | C4 C4 | B,4 B,4 | B,4 B,4 | A,4 A,4 | D,4 D,4 | %10
+ G,4 G,4 | G,4 G,4 | F,4 F,4 | F,4 F,4 | E,4 E,4 | E,4 E,4 | D,4 D,4 | G,,4 G,,4 | C,4 C,4 | %19
+ C,4 C,4 | F,,4 F,,4 | ^F,,4 F,,4 | _A,,4 A,,4 | G,,4 G,,4 | G,,4 G,,4 | G,,4 G,,4 | G,,4 G,,4 | %27
+ G,,4 G,,4 | G,,4 G,,4 | G,,4 G,,4 | G,,4 G,,4 | C,,4 C,,4 | C,,4- C,,4 | C,,4- C,,4 | %34
+ !fermata![C,,C,]8 |] %35
+

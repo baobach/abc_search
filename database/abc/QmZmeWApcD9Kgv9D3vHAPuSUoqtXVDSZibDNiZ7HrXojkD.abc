@@ -1,0 +1,35 @@
+X:1
+T:Cello Sonata in A Minor
+T:Cello Sonata in A Minor
+T:RV 44
+T:Antonio Vivaldi
+T:I. Largo
+C:Antonio Vivaldi
+%%score [ 1 2 ]
+L:1/8
+Q:1/4=35
+M:4/4
+K:C
+V:1 bass nm="Cello"
+V:2 bass nm="Continuo"
+V:1
+"^Largo" z8 | z8 | z8 | z3 uA, (!4!E/D/)(!2!C/B,/) A,A, | P!2!A,^G, z !1!B, C(TB,/A,/) !4!E(D/C/) | %5
+ P!2!CB, z !4!E (P!4!C/B,/)A, z !4!E | (!2!C/B,/C/)C/ (C/B,/C/)C/{DE} !1!F>!1!E (D/C/)(!1!B,/A,/) | %7
+ (B,/A,/B,/)B,/ (B,/A,/B,/)B,/{CD} !1!E>D (!2!C/B,/)(A,/G,/) | %8
+ (A,/B,/C/)C/ (!1!D/E/F/)!turn!!4!F/ !1!G,!4!F- F/(D/E/F/) | !3!E(!4!D/C/) (TB,>C) C2 z !2!G, | %10
+ (5:4:5(E/D/)(!2!C/B,/C/) CC PCB, z G, | (D/C/)(TB,/A,/) G,F, PF,E, z ^C | %12
+ (D/A,/) !1!D2{DE} F (E/!0!A,/) !1!E2{EF} G | (PFE) z u!4!A, (A,^G,)uG,uD | %14
+{/E} (D^C)uCPu!2!G (G=F) z/ v!4!E/(C/E/) | !4!F/(F/E/D/) !4!E/(E/{C}D/C/){C} D2 z !1!B, | %16
+ (!4!E/D/)(!2!C/B,/) A,A, P!2!A,^G, z !1!B, | (MCB,/A,/) (P!3!EPD/!2!C/) PCB, z B, | %18
+ CE,- E,/(A,/B,/C/) F,/(A,/G,/F,/) E,D, | D^F,- F,/(B,/C/D/) ^G,/(B,/A,/G,/) ^F,E, | %20
+ !4!E^G,- G,/(!1!B,/C/D/) C/(!4!E/D/C/) !1!B,A, | !2!FE- E/(F/G/!3!A/) !4!DC- C/(!1!D/E/F/) | %22
+ !1!B,A,- A,/(B,/C/D/) (^G,/A,/)B,/C/ (!1!D/E/)F/{E}D/ | !2!C(B,/A,/) T!2!^G,>A, !fermata!A,4 |] %24
+V:2
+!mp! A,E/D/ C^G, A,2 z E, | F,A,/G,/ F,^C, D,2 z A, | B,D/C/ B,^G, A,D,E,E,, | A,,2 z2 z4 | %4
+ E,(B,/A,/) ^G,E, A,2 z A,, | E,(B,/A,/) ^G,E, A,,/(C/B,/A,/) G,E, | A,(C/B,/) A,A,, D,2 z2 | %7
+ G,(B,/A,/) G,G,, C,2 z2 | F,(A,/G,/) F,D, B,,(D,/C,/) B,,G,, | C,F,G,G,, C,(E/D/) CB, | %10
+ C2 z C, G,(B,/A,/) G,B,, | G,,2 z B,, C,(C/B,/) CA, | F,(F,/E,/) F,D, ^C,(^C/B,/) CA, | %13
+ D(A,/G,/) A,F, E,3 E, | A,3 A, D,(D/^C/) DA, | D,F,G,A, D,(D/^C/) D^G, | %16
+ A,2 z A,, E,(B,/A,/) ^G,E, | A,2 z A,, E,(B,/A,/) ^G,E, | A,C,C,A,, D,2 z2 | z D,D,B,, E,2 z2 | %20
+ z E,E,^G,, A,,2 z2 | A,,2 A,,2 A,,2 A,,2 | F,2 F,2 E,2 ^G,,2 | A,,D,E,E,, !fermata!A,,4 |] %24
+

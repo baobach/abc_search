@@ -1,0 +1,53 @@
+X:1
+T:Air Bach
+T:Air Bach
+T:BACH
+C:BACH
+%%score 1 2 { ( 3 5 ) | ( 4 6 ) }
+L:1/8
+Q:1/4=70
+M:4/4
+K:D
+V:1 treble nm="Flute" snm="Fl."
+V:2 treble transpose=-14 nm="B♭ Clarinet" snm="B♭ Cl."
+V:3 treble nm="Piano" snm="Pno."
+V:5 treble 
+V:4 bass 
+V:6 bass 
+V:1
+ f8- | f8- | f2 bg edcd | c3 B A4 | a8- | af=cB e^dag | g8- | geBA dcgf | f6 ^ga | %9
+ d2 d/e/f- f e2 d | cB B/c/d d2 cB |1 A8 :|2 A8 |: c4 cd/c/ B/c/A | a6 =c2 | B2 b2 bagf | %16
+ f g3 g/f/e/d/ cB | AB c2 cd e2 | ef g4 e2 | edcB cd/e/ dc | B8 | d4 dfed | b6 a^g | %23
+ f/e/a A2 B3 c/d/ | c3 B A4 | d6 fe | e6 gf | f6 ag | g8 | A4- Aceg | ge f4 fg/a/ | d4- dfa=c' | %32
+ =c'2 b4 d2 | ce g4 B2 | A2 ef/g/ g f2 e | d/c/ B2 c c3 d | d8 |] %37
+V:2
+[K:E] E2 e2 d2 D2 | C2 c2 B2 B,2 | A,2 A2 ^A2 ^A,2 | B,2 B2 =A2 =A,2 | z2 =dc d2 bd | c2 z2 C2 c2 | %6
+ z2 fe fgaf | B2 z2 B,2 B2 | E2 e2 d2 D2 | C2 c2 ^A2 F2 | B2 E2 F2 F,2 |1 B,CDE FAGF :|2 B,8 |: %13
+ B,2 B2 A2 A,2 | G,2 G2 F2 f2 | ^e2 ^E2 G2 C2 | F2 f2 =e2 =E2 | DEFG AGAF | ^B,2 C2 D2 B,2 | %19
+ C2 A2 F2 G2 | C2 c2 B2 B,2 | ^A,2 ^A2 G2 G,2 | F,2 F2 E2 e2 | d2 D2 E2 F2 | B,2 B2 A2 A,2 | %25
+ G,2 G2 A2 A,2 | ^A,2 ^A2 B2 B,2 | ^B,2 ^B2 c2 C2 | F2 f2 e2 E2 | D2 d2 B2 d2 | e2 E2 =D2 =d2 | %31
+ c2 C2 B,2 B2 | A2 A,2 G,2 G2 | FCFA cBAG | F2 B,2 E2 A2 | B2 A2 B2 B,2 | E8 |] %37
+V:3
+ [Ad]8 | [Bd]8- | [Bd]4 [EB]4 | [EA]8 | [EA]2 [^D=c]4 [Ec]2 | [FB]4 [^DB]4 | [EB]2 [Be]4 [Geg]2 | %7
+ [EAe]4 [CEA]4 | A8- | A2 ^GA B2 G2 | A2 A4 ^G2 |1 [CA]8 :|2 [CA]8 |: [EA]8- | AB =c2- cBAG | %15
+ FGAF ^D2 [B^d]2 | [Be]4 [B,E-]4 | [CE]4 [Ge-]4 | edcB ^AB c2 | F2 ED G2 ^A2 | [DF]8 | E4 B2 A^G | %22
+ B,2 EF E4- | A6 ^G2 | A8 | A2 B=c B^c d2- | d2 cB c^d e2- | e2 ^dc de f2- | f^deB EBGE | %29
+ A2 G2 c2 A2- | A2 cd A4 | z8 | z8 | G2 B2 e4- | edcB A2 B2 | A4 GF G2 | z8 |] %37
+V:4
+ D,2 D2 C2 C,2 | B,,2 B,2 A,2 A,,2 | G,,2 G,2 ^G,2 ^G,,2 | A,,2 A,2 =G,2 =G,,2 | %4
+ F,,2 F,2 E,2 E,,2 | F,,2 F,2 ^D,2 ^D,,2 | E,,2 E,2 B,,2 B,2 | C,,2 C,2 A,,2 A,2 | D,2 D2 C2 C,2 | %9
+ B,,2 B,2 ^G,2 E,2 | A,2 D,2 E,2 E,,2 |1 A,,B,,C,D, E,G,F,E, :|2 A,,8 |: A,,2 A,2 G,2 G,,2 | %14
+ F,,2 F,2 E,2 E,,2 | ^D,,2 ^D,2 F,2 B,,2 | E,2 E2 D2 =D,2 | C,2 C2 B,2 B,,2 | ^A,,2 B,,2 C,2 A,,2 | %19
+ B,,2 G,2 E,2 F,2 | B,,2 B,2 A,2 A,,2 | ^G,,2 ^G,2 F,2 F,,2 | E,,2 E,2 D,2 D,,2 | %23
+ C,,2 C,2 D,2 E,2 | A,,2 A,2 G,2 G,,2 | F,,2 F,2 G,2 G,,2 | ^G,,2 ^G,2 A,2 A,,2 | %27
+ ^A,,2 ^A,2 B,2 B,,2 | E,2 E2 D2 D,2 | C,2 C2 A,2 C2 | D2 D,2 =C,2 =C2 | B,2 B,,2 A,,2 A,2 | %32
+ G,2 G,,2 F,,2 F,2 | E,2 E,,2 D,,2 D,2 | C,2 A,,2 D,2 G,2 | A,2 G,2 A,2 A,,2 | z8 |] %37
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | D6 E2 | F2 D2 B,2 E2 | E2 F2 B,2 E2 |1 x8 :|2 x8 |: x8 | %14
+ E2 ^DE F4 | x8 | x8 | x8 | F2 ED C2 z2 | B2 B4 FE | x8 | B,2 B2 F4 | ^G3 F GA B2 | E2 E2 F2 E2 | %24
+ E3 D CDEC | A2 D4 B2- | B2 E4 c2- | c2 F4 ^d2 | B2 z2 z4 | ECEA F2 E2 | D4 D4 | %31
+ [DA]2 [EG]2 [FA]4 | [DG-]8 | E2 E2 B2 G2 | E2 A4 G2 | F4 E2 A,2 | [A,F]8 |] %37
+V:6
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |1 x8 :|2 x8 |: x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | D,8 |] %37
+

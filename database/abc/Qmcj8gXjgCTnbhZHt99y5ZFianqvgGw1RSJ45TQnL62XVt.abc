@@ -1,0 +1,67 @@
+X:1
+T:Dance of the Sugar Plum Fairy
+T:Piotr Iljicz Czajkowski
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=80
+M:2/4
+K:G
+V:1 treble nm="Piano"
+V:2 bass 
+V:1
+"^Andante ma non troppo"!pp! z [G,B,E] z [A,CF] | z [^A,^CG] z [A,=C^D] | z [G,B,E] z [A,CF] | %3
+ z [^A,^CG] z [A,=C^D] | z .[bg']/.[ge']/ .[bg'].[af'] | .[f^d'].[ge'] .[=f^g=d']/.[fgd']/.[fgd'] | %6
+ .[eg^a^c']/.[egac']/.[egac'] .[^df=a=c']/.[dfac']/.[dfac'] | .[gb]/.e'/.[ac']/.e'/ .[gb]2 | %8
+!<(! z .[cg]/.[Ge]/ .[cg].[cf] |!<(! .[^dfc'].[egb] .[^a^c'e'g']/.[ac'e'g']/.[ac'e'g']!<)!!<)! | %10
+!>(! .[^gbd'f']/.[gbd'f']/.[gbd'f'] .[f^a^c'e']/.[fac'e']/.[fac'e'] | %11
+ .[b^d']/.f'/.[^ae']/.f'/ .[bd'] z!>)! | z .[bg']/.[ge']/ .[bg'].[af'] | %13
+!<(! .[f^d'].[ge'] .[=f^g=d']/.[fgd']/.[fgd'] | %14
+ .[eg^a^c']/.[egac']/.[egac'] .[^df=a=c']/.[dfac']/!<)!.[dfac'] | .[gb]/.e'/.[ac']/.e'/ .[gb] z | %16
+ z .[^Ae]/.[F^c]/ .[Ae].[=AB^d] | z .[^Gd]/.[EB]/ .[Gd].[=GA^c] |!<(! z .[F=c]/.[DA]/ [Fc].[GB] | %19
+ z (B/4^d/4f/4b/4 e)!<)!B, | %20
+!pp!!<(![I:staff +1] [E,G,^C]/[I:staff -1][EG^c]/[I:staff +1][F,A,^D]/[I:staff -1][FA^d]/[I:staff +1] [G,CE]/[I:staff -1][Gce]/[I:staff +1][A,DF]/[I:staff -1][Adf]/!<)! | %21
+!>(! x x x[K:bass]!p! (3(B,/C/B,/)!>)! | (3(A,/G,/B,/(3G,/B,/G,/ (3B,/G,/B,/) (3(G,/B,/A,/) | %23
+ (3(G,/F,/A,/(3F,/A,/F,/ (3A,/F,/A,/) B, | %24
+[K:treble]!p![I:staff +1] [E,G,^C]/[I:staff -1][EG^c]/[I:staff +1][F,A,^D]/[I:staff -1][FA^d]/[I:staff +1] [G,CE]/[I:staff -1][Gce]/[I:staff +1][A,DF]/[I:staff -1][Adf]/ | %25
+ x x x[K:bass] (3(B,/C/B,/) |!p! (3(A,/G,/B,/ (3G,/B,/G,/ (3B,/G,/B,/) (3(G,/B,/A,/) | %27
+ (3(G,/F,/A,/ (3F,/A,/F,/ (3A,/F,/A,/) B, | %28
+[K:treble]!p![I:staff +1] [E,G,^C]/[I:staff -1][EG^c]/[I:staff +1][F,A,^D]/[I:staff -1][FA^d]/[I:staff +1] [G,CE]/[I:staff -1][Gce]/ B | %29
+[I:staff +1] [E,G,^C]/[I:staff -1][EG^c]/[I:staff +1][F,A,^D]/[I:staff -1][FA^d]/[I:staff +1] [G,CE]/[I:staff -1][Gce]/ B | %30
+"_cresc."[I:staff +1] [E,G,^C]/[I:staff -1][EG^c]/[I:staff +1][F,A,^D]/[I:staff -1][FA^d]/[I:staff +1] [G,CE]/[I:staff -1][Gce]/ z/ [Beg]/ | %31
+ [cea]/[cea][cea]/ [B^dfb]!f! !arpeggio![FAc] | %32
+ !arpeggio![FAB] !arpeggio![FAc] !arpeggio![FAB] !arpeggio![Ace] | %33
+ !arpeggio![AB^d] !arpeggio![Ace] !arpeggio![ABd] !arpeggio![^cdg] | %34
+!8va(! !arpeggio![^d'f'] !arpeggio![c'd'g'] !arpeggio![d'f'] !arpeggio![f'a'c''] | %35
+ !arpeggio![f'a'b'] !arpeggio![f'a'c''] !arpeggio![f'a'b']!8va)!!p! z | %36
+!pp!!8va(! z .[b'g'']/.[g'e'']/ .[b'g''].[a'f''] | %37
+ .[f'^d''].[g'e''] .[=f'^g'=d'']/.[f'g'd'']/.[f'g'd''] | %38
+ .[e'g'^a'^c'']/.[e'g'a'c'']/.[e'g'a'c''] .[^d'f'=a'=c'']/.[d'f'a'c'']/.[d'f'a'c''] | %39
+ .[g'b']/.e''/.[a'c'']/.e''/ .[g'b']2 |"_cre   —   scen —   do" z .[c'g']/.[ge']/ .[c'g'].[c'f'] | %41
+ .[^d'f'c''].[e'g'b'] .[^a'^c''e''g'']/.[a'c''e''g'']/.[a'c''e''g''] | %42
+ .[^g'b'd''f'']/.[g'b'd''f'']/.[g'b'd''f''] .[f'^a'^c''e'']/.[f'a'c''e'']/.[f'a'c''e''] | %43
+!mp! .[b'^d'']/.f''/.[^a'e'']/.f''/ .[b'd'']2!pp! | z .[b'g'']/.[g'e'']/ .[b'g''].[a'f''] | %45
+ .[f'^d''].[g'e''] .[=f'^g'=d'']/.[f'g'd'']/.[f'g'd''] | %46
+ .[e'g'^a'^c'']/.[e'g'a'c'']/.[e'g'a'c''] .[^d'f'=a'=c'']/.[d'f'a'c'']/.[d'f'a'c''] | %47
+ .[g'b']/.e''/.[a'c'']/.e''/"_sempre" .[g'b']2!8va)!!pp! | z .[^ae']/.[f^c']/ .[ae'].[=ab^d'] | %49
+ z .[^gd']/.[eb]/ .[gd'].[=ga^c'] | z .[fc']/.[da]/ .[fc'].[gb] | z (B/4^d/4f/4b/4) eE |] %52
+V:2
+ [E,,E,] z [E,,E,] z | [E,,E,] z [E,,E,] z | [E,,E,] z [E,,E,] z | [E,,E,] z [E,,E,] z | %4
+ .E,.[G,B,] .E,.[A,C] | .E,.[^A,^C] .E,.[B,D] | .E,.[^CE] .E,.[^DF] | %7
+[K:treble] .[EG].[EFA] .[EG][K:bass] (E,/4D,/4C,/4B,,/4 | ^A,,)[E,G,C] =A,,[^D,F,C] | %9
+ G,,[E,G,B,] F,,[F,^A,] | F,[^G,B,] F,[^A,^C] | %11
+ [B,,F,B,][=C,F,^A,] [B,,F,B,] (B,,/4A,,/4G,,/4F,,/4 | E,,).[G,B,] .E,.[A,C] | %13
+ .E,.[^A,^C] .E,.[B,D] | .E,.[^CE] .E,.[^DF] |[K:treble] .[EG].[EF] .[EG]!>(!(G/4F/4E/4D/4!>)! | %16
+ .^C) [F,C]2 (F/4E/4D/4C/4 | .B,)[K:bass] [E,B,]2 (E/4D/4C/4B,/4 | .A,) [D,A,]2 (D/4C/4B,/4A,/4 | %19
+[K:bass] .G,)[F,A,] [E,G,][B,,,B,,] | x4 | %21
+ [B,EG]/[I:staff -1][Beg]/[I:staff +1][G,^CE]/[I:staff -1][G^ce]/[I:staff +1] [F,B,^D]/[I:staff -1][FB^d]/[I:staff +1] ([^D,F,] | %22
+ E,)(!>!^D E)([^C,E,] | =D,)(!>!^C D)[B,,,B,,] | x4 | %25
+ [B,EG]/[I:staff -1][Beg]/[I:staff +1][G,^CE]/[I:staff -1][G^ce]/[I:staff +1] [F,B,^D]/[I:staff -1][FB^d]/[I:staff +1] ([^D,F,] | %26
+ E,)(!>!^D E)([^C,E,] | =D,)(!>!^C D)[B,,,B,,] | x x x [B,,,B,,] | x x x [B,,,B,,] | %30
+ x x x [B,,,B,,] | [B,EA]/[EA]/B,/[EA]/ [B,^DF][K:treble] =D | ^D =D ^D =F | F =F ^F A | B A B d | %35
+ ^d =d ^d[K:bass] (B,,/4A,,/4G,,/4F,,/4 | .[E,,E,]).[G,B,] .E,.[A,C] | .E,.[^A,^C] .E,.[B,D] | %38
+ .E,.[^CE] .E,[K:treble].[^DF] | .[EG].[EF] .[EG] (E/4D/4C/4B,/4 | .^A,).[EGc] .=A,.[^DFc] | %41
+ .G,.[EGB] .F,.[F^A] | .F.[^GB] .F.[^A^c] | .[B,FB].[=CF^A] .[B,FB] (B/4=A/4G/4F/4 | %44
+ .E).[GB] .E.[Ac] | .E.[^A^c] .E.[Bd] | .E.[^ce] .E.[^df] | .[eg].[ef] .[eg] (g/4f/4e/4d/4 | %48
+ .^c) .[Fc]2 (f/4e/4^d/4c/4 | B) .[EB]2 (e/4!courtesy!=d/4c/4B/4 | .A) .[DA]2 (d/4c/4B/4A/4) | %51
+!<(! .G.[FA]!<)!!mf! [EG][K:bass][E,,E,] |] %52
+

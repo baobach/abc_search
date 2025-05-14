@@ -1,0 +1,74 @@
+X:1
+T:Partita N° 3 for Keyboard
+T:Partita N° 3 for Keyboard
+T:Partita No.3 in A minor, BWV 827 
+T:J.S.Bach
+C:J.S.Bach
+%%score { ( 1 4 5 ) | ( 2 3 ) }
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:5 treble 
+V:2 bass 
+V:3 bass 
+V:1
+ z/[Q:1/4=120]"^Allegro."!mf! d/c/B/ | (c>e a>e b>d | !wedge!c/)e/!<(!^f/^g/!<)! a>e!>(! b>!>)!d | %3
+ c/A/B/c/ d/e/"_dim."=f/e/ d/c/B/A/ | ^G/A/B/G/ E4- |!p! E/D/C/B,/ C/A,/C/E/ A/^G/^F/E/ | %6
+"_cresc." c/B/A/=G/ =F/D/F/A/ d/^c/B/A/ | f/e/d/=c/ B/G/B/d/ g/^f/e/d/ | %8
+ b/a/g/=f/ e/c/e/g/ c'/b/a/g/ |!f! a>d (e/d/^c/d/) (e/d/c/d/) | g>B =c4- | %11
+!f! c>B (c/B/A/B/) (c/B/A/B/) | e>^G A4- | A/!<(!d/e/f/!<)!!>(! e/d/c/B/!>)! A/^G/A/B/ | %14
+!p! .E/(B/^G/=F/ .E/)(c/A/F/ .E/)(d/B/F/ | E/)c/A/F/ E/B/^G/F/ E/c/A/F/ | %16
+ E/d/B/F/ E/c/A/F/ E/B/^G/F/ |!<(! E3/2(c/4d/4) Pd3 c/d/!<)! |!f! e2-"_dim." e/d/c/B/ c/e/c/A/ | %19
+ ^G/B/G/E/ D/F/E/D/ C/E/C/A,/ |!p! ^G,/-B,/-E- E2 :: z/ B/c/A/ | (^G>!<(!E B>!<)!!>(!D E>!>)!B, | %23
+ C/)E/F/D/!<(! E>A ^G>d!<)! | c/e/a/=g/"_dim." f/e/d/c/ B/A/^G/^F/ | E/d/c/B/ Mc4- | %26
+!p! c/B/A/=G/ A/F/"_cresc."A/c/ f/e/d/c/ | d/c/B/A/ B/G/B/d/ g/f/e/d/ | %28
+ e/d/c/B/ c/A/c/e/ a/g/f/e/ | d/c/B/A/ G/B/c/d/ c/B/A/G/ |!f! c>F (G/F/E/F/) (G/F/E/F/) | %31
+ B>D ME4- | E>D (E/D/C/D/) (E/D/C/D/) | G>B, MC4- | C/!<(!F/G/A/!<)! G/!>(!F/E/D/!>)! C/B,/C/D/ | %35
+!p! G,>B, C>G, D>G, | E>G, D>G, E>G, | F>G, E>G, F>G, | G/E/F/G/ A/F/E/D/ B/G/A/B/ | %39
+ c/A/G/F/ d/B/c/d/ e/c/B/A/ | f/d/e/f/ g/e/d/c/!f! a/f/g/a/ | MB2- B/G/A/B/ c/d/e/f/ | %42
+ g/f/!>(!a/g/ f/e/d/c/ e/d/c/B/!>)! |!mf! c2- c/G/c/d/ e/c/d/e/ |!<(! A/^c/e/g/!<)! _b>c d>e | %45
+ f2- f/A/d/e/ f/d/e/f/ |!<(! B/^d/^f/a/!<)!!f! c'>d e>f | g2- g/e/^f/^g/ a/g/f/g/ | %48
+ a>d ^c/d/e/=f/ =g/f/g/e/ | f/d/e/f/ e/=c/d/e/ d/B/c/d/ | c/A/^G/A/ d/e/f/e/ d/c/B/A/ | %51
+!p! ^G/^F/G/F/ E2- E/(=f/e/d/) |!f! c/e/^g/a/ B/d/^f/=g/"_dim." A/c/e/=f/ | %53
+ ^G/B/^d/e/ ^F/A/e/^c/ G/B/=d/B/ | =c/A/=F/E/ B/^G/E/D/!<(! A/^F/^D/C/ | %55
+ B,/A/^G/^F/ E/F/B/d/ Mc>B!<)! | e>B c>A ME>^G |!p! AE/-C/- [CE]2 :| %58
+V:2
+ z2 | A,, z C, z E, z | z/!f! ^G,/A,/B,/ C/E/D/E/ G,/E/D/E/ | A,/C/D/E/ F>^G, A,>F, | %4
+ E,2- E,/!<(!^G,/B,/!<)!!>(!G,/ E,/G,/D,/G,/!>)! | C,>E, A,,>B,, C,>E, | A,>A,, D,>E, F,>A, | %7
+ D>D, G,>A, B,>D | G>G, C>D E>C | F>F, F>F, F2- | F/D/E/F/ E/D/"^dim."C/B,/ A,/G,/F,/E,/ | %11
+ D,>D,, D,>D,, D,2- | D,/B,,/C,/D,/ C,/B,,/A,,/G,,/ F,,/E,,/D,,/C,,/ | B,,,>^G,, A,,>C,, F,,>D,, | %14
+ E,,2 z z/ (A,/ ^G,>D | C2) z z/ (B,/ C>A, | ^G,2) z z/ A,/ G,/D/B,/G,/ | A,/C/A,/E,/ PF,3 E,/F,/ | %18
+ E,/^G,/B,/G,/ z z/ (G,/ A,>C | B,2) z z/ ^G,/ A,>^F, | E,4 :: z2 | E,, z E, z ^G, z | %23
+ z/ ^G,/A,/B,/ C/E,/D,/C,/ B,,/D,/C,/B,,/ | A,,>C, D,>=F, ^G,>B, | %25
+ !wedge!E/E,/^F,/!<(!^G,/ A,/C/!<)!E/C/!>(! A,/C/=G,/!>)!C/ | =F,2- F,/E,/D,/C,/ D,>F, | %27
+ B,,>D, G,>F, E,>G, | C,>E, A,>G, F,>A, | !wedge!B,,/E/D/C/ B,/D/E/F/ B,/D/C/B,/ | %30
+ E>A,, A,>A,, A,2- | A,/F,/G,/A,/ G,/F,/E,/D,/"^dim." C,/B,,/A,,/G,,/ | %32
+ F,,/A,,/G,,/F,,/ F,>F,, F,2- | F,/D,/E,/F,/ E,/D,/C,/B,,/ A,,/G,,/F,,/E,,/ | %34
+ D,,>B,, C,>G,, A,,>F,, | .G,,/(F,/E,/D,/ .G,,/)(E,/D,/C,/ .G,,/)(D,/C,/B,,/ | %36
+"^cresc. poco a poco" .G,,/)C,/B,,/A,,/ B,,/G,,/A,,/B,,/ C,/G,,/B,,/C,/ | %37
+ D,/G,,/A,,/B,,/ C,/E,/D,/C,/ B,,/A,,/G,,/F,,/ | E,,>E, F,>F,, G,,>G, | A,>A,, B,,>B, C>C, | %40
+ D,>D E>E, F,>F | G,/B,/D/F/ E>G, F,>D | C>E, A,>F, G,>G,, | .C,/(C,,/E,,/G,,/ C,2-) C,/E,/F,/G,/ | %44
+ ^C,/E,/G,- G,/E,/F,/G,/ F,/E,/D,/C,/ | D,/(D,,/F,,/A,,/ D,2-) D,/F,/"_dim."G,/A,/ | %46
+ ^D,/^F,/A,- A,/F,/G,/A,/ G,/F,/E,/D,/ | .E,/(E,,/G,,/B,,/ E,2-) E,/C,/=D,/E,/ | %48
+ =F,/E,/F,/G,/ A,/B,/^C/D/ E>A, | D>A, =C>A, B,>E, | A,>C, F,>^G,, A,,>F,, | %51
+ E,,2- E,,!<(!^F,,/^G,,/ A,,/B,,/C,/D,/!<)! | E,>E,, E,>E,, E,>E,, | E,>E,, E,>E,, E,>E,, | %54
+ E,>C, D,>B,, C,>A,, | D,,2 D,,/E,,/^F,,/^G,,/ A,,/G,,/A,,/B,,/ | %56
+ C,/B,,/!>(!C,/D,/ E,/D,/C,/D,/!>)! E,>E,, | A,,4 :| %58
+V:3
+ x2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %18
+ z2 E,4- | E,/^G,/B,/G,/ E,4 | z2 E,,2 :: x2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %32
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %51
+ x6 | x6 | x6 | x6 | x6 | x6 | z2 A,2 :| %58
+V:4
+ x2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x2 [G,B,]2 :: x2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %37
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %56
+ x6 | A2- A2 :| %58
+V:5
+ x2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x4 :: x2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %38
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %57
+ x E x2 :| %58
+

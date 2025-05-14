@@ -1,0 +1,57 @@
+X:1
+T:Send in the Clowns
+T:Send in the Clowns
+T:Stephen Sondheim
+C:Stephen Sondheim
+%%score ( 1 2 ) 3 4 5
+L:1/8
+Q:1/4=80
+M:12/8
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass nm="Piano" snm="Pno."
+V:4 treble nm="Violins" snm="Vlns."
+V:5 bass transpose=-12 nm="Contrabasses" snm="Cbs."
+V:1
+ z6 z3!mp! [A,CF][CG][Gc] |: [DEGc]6- [DEGc]3 [A,CF][CG][Gc] | [DEGc]6- [DEGc]3 [Ed]ec | %3
+[M:9/8] [EBd][ce][ce] [ce]3 [ce][Bg][DG] |[M:12/8] [CEA]6- [CEA]3 [CA][Dc]F |1 %5
+ [CDG]6- [CDG]3 [B,D]3 | [A,CG-]3 [B,D]3- [B,DG]3 [A,CF][CG][Gc] :|2 [B,DG]6- [B,DG]3 [A,C]CB, | %8
+ [E,G,C]3 [F,A,]3 [E,G,C]3 [^F,A,]ED || E6- E3 B,ED | E6- E3 B,^FD |[M:9/8] ^FGG GAA AGE | %12
+[M:12/8] E6- E3 B,EB, |[M:9/8] CDD DEE EDA, |[M:12/8] [B,A]EB, AEB, AEB, [DF_A]cA | %15
+ BB,E AB,E GB,E [CFA]cF | [B,-DG-]6 [B,DG]3 [A,C]3 | [B,-DG-]6 [B,DG]3 [A,CF][CG][Gc] | %18
+ [DEGc]6- [DEGc]3 [A,CF][CG][Gc] | [DEGc]6- [DEGc]3 [Ed]ec | %20
+[M:9/8] [EBd][ce][ce] [ce]3 [ce][Bg][DG] |[M:12/8] [CEA]3 [CEG]3 [CEA]3 [CA][Dc]F | %22
+ [G,B,G]EB, [F,G,]B,E [F,G,]B,E [CA]cF | [B,DG]6- [B,DG]3 A,CB, | [E,G,C]6- [E,G,C]3 A,CG | %25
+ [G,DEG]6- [G,DEG]3 [Acf][cg][gc'] | %26
+ [degc']6- [degc']3[Q:1/4=60]"_rit." [Acf][Q:1/4=40]"^\n"[cg][Q:1/4=20][gc'] | %27
+[Q:1/4=80] !arpeggio![degc']12 |] %28
+V:2
+ x12 |: x12 | x12 |[M:9/8] x9 |[M:12/8] x12 |1 x12 | x12 :|2 x12 | x12 || %9
+ G,3/2A,3/2 ^F,3/2A,3/2 G,3 A,3 | G,3/2A,3/2 ^F,3/2A,3/2 G,3 A,3 |[M:9/8] [B,E]3 [B,E]3 [B,D]3 | %12
+[M:12/8] [A,C]3 B,3 C3 F,3 |[M:9/8] A,3 A,3 A,3 |[M:12/8] x12 | x12 | x12 | x12 | x12 | x12 | %20
+[M:9/8] x9 |[M:12/8] x12 | x12 | x12 | x12 | x12 | x12 | x12 |] %28
+V:3
+!p!"^C" C,,G,,D, G,,C,E, C,E,G,"^Dm7" G,, F,2 |:"^C" C,,G,,D, G,,C,E, C,E,G,"^Dm7" G,, F,2 | %2
+"^C" C,,G,,D, G,,C,E, C,E,G,"^Cmaj9" B,CA, |[M:9/8] C,,G,,D, C,E,G, C,E,G, | %4
+[M:12/8] F,,C,G, F,,C,F, F,,C,E, F,, D,2 |1 C,,G,,D, G,,D,G, G,,C,G, G,,D,G, | %6
+ G,,C,G, G,,D,G, G,,3 G,, F,2 :|2 C,,G,,D, G,,C,G, G,,B,,G, G,,3 | %8
+ C,,G,,C, A,,C,A,, C,,G,,C, G,,3 || E,,B,,C, E,,C,E, E,,B,,E, [B,,^F,]3 | %10
+ E,,B,,E, E,,C,E, E,,B,,E, [B,,^F,]3 |[M:9/8] [E,G,]3 [D,^F,]3 [C,E,]3 | %12
+[M:12/8] A,,C,E, A,,D,E, A,,C,E, ^G,,3 |[M:9/8] [G,,E,]3 [^F,,E,]3 [=F,,E,]3 | %14
+[M:12/8] [E,,D,]6- [E,,D,]3 [D,C]3 | [G,,E,G,]3 [G,,D,F,]3 [G,,E,]3 [G,,F,]3 | %16
+ C,,G,,D, G,,D,G, G,,D,G, G,,C,F, | G,,D,G, G,,D,G, G,,3 G,, F,2 | %18
+ C,,G,,D, G,,C,E, C,E,G, G,, F,2 | C,,G,,D, G,,C,E, C,E,G, B,CA, |[M:9/8] C,,G,,D, C,E,G, C,E,G, | %21
+[M:12/8] F,,C,G, F,,C,F, F,,C,E, F,, D,2 | C,,G,,C, D,3 C,3 [G,,F,]3 | %23
+ C,,G,,D, G,,D,G, G,,D,G, [G,,F,]3 | C,,G,,D, C,,G,,C, C,,G,,D, [G,,F,]3 | %25
+ C,,G,,D, C,,G,,C, C,,G,,D, [G,,F,]3 | C,,G,,D, G,,C,E, C,E,G, G,, F,2 | C,,12 |] %28
+V:4
+!ppp! [CEG]6- [CEG]3 [Gcdf]3 |: [CEG]6- [CEG]3 [Gcdf]3 | [CEG]6- [CEG]3 [CEGBd]3 |[M:9/8] z9 | %4
+[M:12/8] z12 |1 z12 | z12 :|2 z12 | z12 || z12 | z12 |[M:9/8] z9 |[M:12/8] z12 |[M:9/8] z9 | %14
+[M:12/8] z12 | z12 | z12 | z12 | z12 | z12 |[M:9/8] z9 |[M:12/8] z12 | z12 | z12 | z12 | z12 | %26
+ z12 | z12 |] %28
+V:5
+!pp! C,6- C,3 G,,3 |: C,6- C,3 G,,3 | C,6- C,3 C,3 |[M:9/8] z9 |[M:12/8] z12 |1 z12 | z12 :|2 z12 | %8
+ z12 || z12 | z12 |[M:9/8] z9 |[M:12/8] z12 |[M:9/8] z9 |[M:12/8] z12 | z12 | z12 | z12 | z12 | %19
+ z12 |[M:9/8] z9 |[M:12/8] z12 | z12 | z12 | z12 | z12 | z12 | z12 |] %28
+

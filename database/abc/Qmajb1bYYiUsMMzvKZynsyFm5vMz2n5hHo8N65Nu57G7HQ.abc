@@ -1,0 +1,104 @@
+X:1
+T:7 Mélodies, Op.2
+T:Le Colibri
+T:7. Le Colibri
+T:Ernest Chausson
+T:Leconte de Lisle
+T:7 Mélodies, Op.2
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+C:Ernest Chausson
+Z:Leconte de Lisle
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=92
+M:5/4
+K:Db
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Pas vite" z10 | z10 | z10 | z10 |"^doux" A2 B2 F G A2 z A | d2 e f c2 c z z B | %6
+w: ||||Le vert col- ib- ri, le|roi des col- li- nes, Voy-|
+ B2 c d!<(! B2 c d e f!<)! | f6 c c d e | d4 B2 G2 A B | e6 A2- A z | e d A F F3 =G (3F A B | %11
+w: ant la ro- sée et le so- leil|clair, Lui- re dans son|nid tis- sé d'her- bes|fi- nes, _|Comme un frais ray- on s'é- chap- pe dans|
+ c4- c2 z2 z2 | c c B2- B c A B (3c B A | d4 A2- A z z2 | %14
+w: l'air. _|Il se hâte _ et vo- le'aux sour- ces voi-|si- nes, _|
+"^en pressant peu à peu"[Q:1/4=130]"^T" A2 =G A F2 G A (3F G A | B6- B2- B z | %16
+w: Où les bam- bous font le bruit de la|mer, _ _|
+"^cresc."!<(! _c c B c A2 B c (3(AB)!<)! c | d4 d2- d z z2 | =d d c B d4 d d | e B e4- e z z2 | %20
+w: Où l'a- ço- ka rou- ge'aux o- deurs * di-|vi- nes _|S'ouvre et por- te'au coeur un hu-|mi- de'é- clair. _|
+!f!"^a tempo"[Q:1/4=120]"^T" f4- f4 c2 | e2 B2 B2 z2 Bc | d4- d4 =A2 | =c4 c2 z2 c2 | %24
+w: Vers _ la|fleur do- rée, il des-|cend, _ se|po- se, Et|
+"^en retenant peu à peu"[Q:1/4=110]"^T" _c6 __e2 c2 |!>(! B6 d2 B2!>)! |!>(! __B4- B4 B2!>)! | %27
+w: boit tant d'a-|mour dans la|cou- * pe|
+"^rit."[Q:1/4=100]"^T" A4"^rit."[Q:1/4=90]"^T" A4- !fermata!AA | %28
+w: ro- se _ Qu'il|
+!p!"^a tempo"[Q:1/4=120]"^T" d6- d4- | d2 c d B2 cd (3B c d | e6- e4- | %31
+w: meurt, *|* ne sa- chant s'il l'a pu- * ta-|rir! _|
+ e2 z2 z2"^rit."[Q:1/4=100]"^T" z4 |"^a tempo"[Q:1/4=120]"^T" z2!p! A B F G A2 A z | %33
+w: _|Sur ta lèv- re, pu- re,|
+ d d e f c4 B z |!<(! B B c d B2 c d e f!<)! | f6- f4 |!mf! g f e d B2- B c (3B c d | e6- e4 | %38
+w: ò ma bien– ai- mé- e,|Tel- le'aus- si mon âme eut vou- lu mou-|rir, _|Du pre- mier bai- ser, _ qui l'a par- fu-|mé- *|
+ d4- d2 z4 | z8 z2 |] %40
+w: e. _||
+V:2
+!mf! (f4 c4 c2 | e2 B2 B2) z2 (Bc | ^c4 =E4 =G2 |!>(! !arpeggio![=C_EA=c]2) A2 A2 A2 A2!>)! | %4
+!mp! ([FA]2 [FB]2 [FB]2 [FA]2 [EA]2) | ([Fd]2 [Fd]2 [Fc]2 [Fc]2 [FB]2) | %6
+ ([FB]2 [FB]2 [=EB]2!<(! [_EB]2 [EB]2)!<)! |!>(! (=AfedcB!>)! A2 A2) | (B2 B2 B2 [GB]4- | %9
+!>(! B e2 d2 c2 B2 A)!>)! | (A2 A2 A2 A2- (3:2:2A2 B) |!<(! (cdcdc!<)!d!>(!cdcd)!>)! | %12
+!p! ([E_Gc]2 [EGB]2 [EGB]2 [EGc]2 [EAc]2) |!>(! (dag_fefdA_FD)!>)! | %14
+ ([=FA]2 [DFA]4 [DFA]2 [DFA]2) |!<(! B2 (AB =G2) (AB (3GAB)!<)! | %16
+"_cresc." ([_CE_c]2 [CEc]4 [C_Fc]2 [CFc]2) |!<(! d2 (_cd B2) (cd (3Bcd)!<)! | %18
+ ([F=d]2 [Fd]4 [Fd]2 [Ad]2) |!<(! ([=G_de]2 [Gde]4 [Gde]2 [Gde]2)!<)! | %20
+!f! (!arpeggio!fcAE) (cAEC[I:staff +1] A,E,) |[I:staff -1] (eBGE) (BGEB,[I:staff +1] G,E,) | %22
+[I:staff -1] (^c=A=E^C) AEC=A,[I:staff +1] A,^C, | %23
+[I:staff -1] (=c_A_E=C) (AECA,)[I:staff +1] A,E, | %24
+[I:staff -1] (_cA_F_C) (AFCA,)[I:staff +1] A,_F, | %25
+"^en retenant peu à peu"[I:staff -1] (B=G=E^C) (GECB,[I:staff +1] G,=E,) | %26
+[I:staff -1] (__B_GD__B,) (GDB,G,[I:staff +1] __B,G,) | %27
+!p![I:staff -1] (A-[EA]-[CEA]-[A,CEA]-) [A,CEA]4- !fermata![A,CEA] z | %28
+!pp!"^a tempo" z2 (.[GBd]2 .[GBd]2 .[GBd]2 .[GBd]2 | .[GBd]2 .[GBd]2 .[GBd]2 .[GBd]2 .[GBd]2) | %30
+!>(! [Ge] (e'2 c'2 a2 edc!>)! | e) (a2 e2"^rit." d2 cBA) | %32
+!mp!"^a tempo" ([FA]2 [FA]2 [FB]2 [FA]2 [EA]2) | ([Fd]2 [Fd]2 [Fc]2 [Fc]2 [FB]2) | %34
+!mf! ([FB]2 [FB]2 [=EB]2 [_EB]2 [EB]2) | [E=A]fedcB AGFE | (.[GB]2 .[GB]2 .[GB]2 .[GB]2 .[GB]2) | %37
+!p! z2 (e4 d)cBA | z2 !arpeggio![Adf]4!pp! !arpeggio![Ada]4 | !arpeggio![ad'd'']4 z4 z2 |] %40
+V:3
+ [EA]4 x6 | [EGB]4 x6 | [^C=E]4 x6 | x10 | x10 | x10 | x10 | E2 [E=A]2 E2 E2 F2 | GFGFGF x4 | %9
+ G2 G2 G2 G2 G2 | F=EFEFE F2- F2 | =E2 [E=G]2 [EA]2 [EG]2 [_EG]2 | x10 | [DA]2 x8 | x10 | %15
+ [DE]2 [DE]4 [DE]2 [DE]2 | x10 | =E2 E4 E2 E2 | x10 | x10 | [EA]2 x8 | x10 | ^C2 x8 | x10 | x10 | %25
+ x10 | x10 | x10 | x10 | x10 | x10 | x10 | x10 | x10 | x10 | x10 | x10 | x2 G4- G2 G2 | x10 | %39
+ x10 |] %40
+V:4
+ !arpeggio![A,,E,A,C]4- [A,,E,A,C]4 z2 | !arpeggio![A,,E,G,B,]4- [A,,E,G,B,]4 z2 | %2
+ !arpeggio![_A,,=E,=A,]4- [A,,E,A,]4 z2 | !arpeggio![_A,,_E,_A,]4- [A,,E,A,]4 z2 | %4
+ (D2 D2 D2 C2 C2) | ([B,D]2 [B,D]2 [A,D]2 [A,C]2 [A,D]2) | ([=G,D]2 [G,D]2 [_G,C]2 [G,C]2 [G,C]2) | %7
+ ([F,C]2 [F,C]2 [G,C]2 [G,C]2 [F,C]2) | ([E,D]2 [E,D]2 [E,D]2 [E,D]2 [E,D]2 | %9
+ [A,C]2 [A,C]4 [A,C]2 [A,C]2) | ([D,A,]2 [D,A,]2 [D,A,]2 [C,A,]2 [C,A,]2) | %11
+ ([C,=G,]2 C2 [B,C]2 [B,C]2 [=A,C]2) | ([_A,C]2 [A,D]2 [A,D]2 [A,C]2 [G,A,]2) | %13
+ ([_F,A,]2 [F,A,]4 [F,A,]2 [D,A,]2) | %14
+"^en pressant peu à peu" ([B,,A,]2 [B,,A,]4 [B,,A,]2 [B,,A,]2) | %15
+ ([E,=G,]2 [E,G,]4 [E,G,]2 [E,G,]2) | ([A,,A,]2 [A,,A,]4 [A,,A,]2 [A,,A,]2) | %17
+ ([G,B,]2 [G,B,]4 [G,B,]2 [G,B,]2) | ([F,A,B,]2 [F,A,B,]4 [F,A,B,]2 [F,A,B,]2) | %19
+ ([E,B,]2 [E,B,]4 [E,B,]2 [E,B,]2) | !arpeggio![A,,E,C]4- [A,,-E,C]4 A,,2 | %21
+ [A,,G,B,]4- [A,,-G,B,]4 A,,2 | [=A,,=E,=A,]4- [A,,-E,A,]4 A,,2 | [_A,,_E,_A,]4- [A,,-E,A,]4 A,,2 | %24
+ [A,,_F,A,]4- [A,,-F,A,]4 A,,2 | [A,,=E,=G,]4- [A,,-E,G,]4 A,,2 | [A,,_G,]4- [A,,G,]4 A,,2 | %27
+ [A,,-E,G,]4 (G,-[E,G,]- [C,E,G,]-)[A,,C,E,G,]-!fermata![A,,C,E,G,] z | %28
+ z2 (.[E,D]2 .[E,D]2 .[E,D]2 .[E,D]2 | .[E,D]2 .[E,D]2 .[E,D]2 .[E,D]2 .[E,D]2) | %30
+ z2 [G,A,CE]4 [G,A,CE]2 [G,A,CE]2 | z2 [G,A,CE]4 [A,CE]2 [A,CE]2 | z2 (D2 D2 C2 C2) | %33
+ ([B,D]2 [B,D]2 [A,D]2 [A,C]2 [A,D]2) | ([=G,D]2 [G,D]2 [_G,C]2 [G,C]2 [G,C]2) | %35
+ [F,C]2 (F,,2 C,2 F,2 C2) | (.[E,D]2 .[E,D]2 .[E,D]2 .[E,D]2 .[E,D]2) | %37
+ z2 [E,A,C]4- [E,A,C]2 [E,A,C]2 | z2 !arpeggio![A,DF]4 !arpeggio![A,DF]4 | %39
+[I:staff -1] [Adf]4[I:staff +1] z4 z2 |] %40
+V:5
+ x10 | x10 | x10 | x10 | x10 | x10 | x10 | x10 | x10 | x10 | x10 | x10 | x10 | x10 | x10 | x10 | %16
+ x10 | x10 | x10 | x10 | x10 | x10 | x10 | x10 | x10 | x10 | x10 | x4 A,,4 x2 | E,,6- E,,4 | %29
+ E,,6- E,,4 | A,,,8 z2 | A,,,8 z2 | D,,8 z2 | x10 | x10 | x10 | x10 | A,,,6- A,,,2 x2 | %38
+ D,,6- D,,4- | D,,4 x6 |] %40
+

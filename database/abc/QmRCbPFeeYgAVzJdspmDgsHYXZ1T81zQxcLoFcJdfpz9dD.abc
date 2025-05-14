@@ -1,0 +1,30 @@
+X:1
+T:Pretty Maiden
+T:Pretty Maiden
+T:C. E. Horn
+T:A Duet, sung in the Opera of "The Haunted Tower."
+T:Scritto con MuseScore, un software libero e gratuito: http://musescore.org/it
+C:C. E. Horn
+Z:Scritto con MuseScore, un software libero e gratuito: http://musescore.org/it
+%%score { 1 | 2 }
+L:1/8
+M:6/8
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ Bc | (dBG){A} (GFG) | e3 e!wedge!f!wedge!g | (dBG){A} (GFG) | AcB ABc | (dBG){A} (GFG) | %6
+ (g3 g)fe | (edB) (dcA) | ((A3 G))!fine! :: fg | afd d^cd | (g3 g)fe | ge^c ABG | G3 F fg | %14
+ a3 ^a2 a | b3 b2 a | g3 Taga | b BB B :: ba |!p! ^g=fe dcB | %20
+ !wedge!A!wedge!c!wedge!e !wedge!a(ag) | ged cBA | GBd gBc | dag fef | gdB ecA | G(ed) cAd | %26
+ GBd g z2 :: G(ed) cAd | (B3 A2) A | A=f^c edA | (=c3 B2) d | d{=f}ed def | (age) (^cda) | %33
+ (age) (g=fB) | ((d3 c))!D.C.! :| %35
+V:2
+ z2 | (G,B,D) (G,B,D) | G,CE G,B,D | G,B,D G,B,D | D,F,A, CB,A, | G,B,D G,B,D | ^C,E,G, _B,3 | %7
+ [D,G,=B,]3 [D,F,C]3 | ([G,C]3 [G,B,]) :: z2 | D,F,A, D,F,A, | ^C,E,A, C,E,A, | ^C,E,A, C,E,A, | %13
+ ^C,E,A, D,2 z | [D,F,][D,F,][D,F,] [C,E,][C,E,][C,E,] | %15
+ [B,,^D,][B,,D,][B,,D,] [B,,D,][B,,D,][B,,D,] | [E,G,]3 [C,E,]3 | [B,,^D,]3 z :: z2 | %19
+ G,B,E ^G,B,E | A,CE A,CE | D,A,D D,A,D | G,B,D G,B,D | G,B,D G,B,D | B,DG C,E,A, | D,G,B, D,F,C | %26
+ [G,B,]3 G,, z2 :: [E,G,C]6 | [=F,A,C]6 | [D,=F,A,D]6 | [G,D]6 | [=F,G,B,]3 [F,G,B,]3 | %32
+ [E,G,C]3 [=F,A,]3 | G,3 [G,,D,=F,]3 | [C,E,][C,E,][C,E,] [C,E,G,] :| %35
+

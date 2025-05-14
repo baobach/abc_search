@@ -1,0 +1,31 @@
+X:1
+T:O voy
+T:Juan Román
+T:O voy Cancionero de Palacio.
+C:Juan Román
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=320
+M:2/1
+K:F
+V:1 treble nm="C" snm="C"
+V:2 treble-8 nm="A" snm="A"
+V:3 treble-8 nm="T" snm="T"
+V:4 bass nm="B" snm="B"
+V:1
+ d12 c4 | B8 A6 G2 | F8 F8 | z4 B8 A2 G2 | F4 B2 A2 G2 F2 E2 D2 | E2 F2 G8 ^F4 | G16 | B8 B4 B4 | %8
+ B8 c8 | d16 | d16 | d12 d4 | f6 e2 d4 c2 B2 | c6 B2 A4 G4 | A16 | B6 A2 G4 F2 E2 | F4 G8 ^F4 | %17
+ G4 _E6 F2 G4 | ^F4 G8 F4 | G16- | G16 |] %21
+V:2
+ f16 | g8 z8 | a8 A8 | B4 G4 A2 B2 c2 G2 | A4 B4 c6 d2 | c8 d8 | d16 | d12 d4 | d6 e2 f8 | f16 | %10
+ f16 | f12 f4 | b4 a2 g2 f8 | f6 e2 d4 c4 | c16 | g12 f2 e2 | d6 e2 d8 | c4 z4 c4 d4- | d4 c4 d8 | %19
+ d16- | d16 |] %21
+V:3
+ d16 | d8 d8 | d8 d8 | d16 | d8 G8 | G8 A8 | G16 | g12 g4 | g8 a8 | b16 | b16 | b12 b4 | %12
+ d'6 c'2 b4 a2 g2 | a6 g2 f4 e4 | f16 | d6 c2 B4 A2 G2 | A8 A8 | G4 c8 B4 | A4 G4 A8 | G16- | %20
+ G16 |] %21
+V:4
+ B,12 A,4 | G,8 F,6 E,2 | D,16 | G,12 F,2 E,2 | D,4 G,2 F,2 E,2 D,2 C,2 B,,2 | C,4 _E,4 D,8 | %6
+ G,,16 | G,12 G,4 | G,8 F,8 | B,16 | B,16 | B,12 B,4 | B,8 B,8 | F,12 C,4 | F,16 | G,16 | %16
+ D,6 _E,2 D,8 | _E,4 C,8 G,4 | D,4 _E,4 D,8 | G,,16- | G,,16 |] %21
+

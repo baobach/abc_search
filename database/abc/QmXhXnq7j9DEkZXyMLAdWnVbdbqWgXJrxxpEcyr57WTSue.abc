@@ -1,0 +1,35 @@
+X:1
+T:HWV56N16 - And suddenly there was with the angel
+T: Number 16, Messiah, HWV 56, 1741 - soprano recitativo appacagnato For more Handel, see http://handel.ejmaurath.com/
+T:Handel, George F. 
+T:Jennens, Charles 
+T:Sequenced by Edward James Maurath
+Z:Sequenced by Edward James Maurath
+%%score 1 2 { 3 4 }
+L:1/8
+Q:1/4=62
+M:4/4
+K:D
+V:1 treble nm="Violin" snm="VLN"
+V:2 alto1 nm="Soprano" snm="SOP"
+V:3 treble nm="Harpsi" snm="HSC"
+V:4 bass nm="Harpsi" snm="HSC"
+V:1
+ [fa]/[df]/[df]/[fa]/ [fa]/[df]/[df]/[fa]/ [ad']/[fa]/[fa]/[ad']/ [ad']/[fa]/[fa]/[ad']/ | %1
+ [gb]/[eg]/[eg]/[gb]/ [gb]/[eg]/[eg]/[gb]/ [fa]/[df]/[df]/[fa]/ [fa]/[df]/[df]/[fa]/ | %2
+ [eg]/[ce]/[ce]/[eg]/ [eg]/[ce]/[ce]/[eg]/ [eg]/[ce]/[ce]/[eg]/ [eg]/[ce]/[ce]/[eg]/ | %3
+ [df]/[Ad]/[Ad]/[df]/ [df]/[Ad]/[Ad]/[df]/ [df]/[Ad]/[Ad]/[df]/ [df]/[Ad]/[Ad]/[db]/ | %4
+ [eb]/[Bd]/[Bd]/[eb]/ [eb]/[Bd]/[Bd]/[eb]/ [eb]/[Bd]/[Bd]/[eb]/ [eb]/[Bd]/[Bd]/[eb]/ | %5
+ [eb]/[Bd]/[Bd]/[eb]/ [eb]/[Bd]/[Bd]/[eb]/ [ce]/[Ac]/[Ac]/[ce]/ [ce]/[Ac]/[Ac]/[ce]/ | %6
+ a/e/e/a/ a/e/e/a/ [fa]/[df]/[df]/[fa]/ [fa]/[df]/[df]/[fa]/ | %7
+ [ea]/[Be]/[Be]/[ea]/ [e^g]/[Be]/[Be]/[dg]/ [ca]/ z/ [ca]/ z/ z2 |] %8
+V:2
+ z8 | z8 | z4 z2 z"_Hidden continuo realization\nby Edward James Maurath" A | d z/ d/ d2 z dde | %4
+ ee z e e z/ BB/B | ddeB c2 z2 | z2 ec f2 z a | a2 e2 z4 |] %8
+V:3
+ [FAd]8 | [EG]4 [DF]4 | [EG]8 | [DF]8 | [E^GBd]8 | [E^GBd]4 [EA]4 | [EAcea]4 [FAdfa]2 [FAdfa]2 | %7
+ [^GBea]2 [GBe^g]2 [EAcea]4 |] %8
+V:4
+ [D,A,]8 | B,4 A,4 | C8 | A,7 z | [E,^G,B,D]8 | [E,^G,B,D]4 [A,C]4 | A,4 D2 D2 | %7
+ [B,E]2 [B,E]2 [A,C]4 |] %8
+

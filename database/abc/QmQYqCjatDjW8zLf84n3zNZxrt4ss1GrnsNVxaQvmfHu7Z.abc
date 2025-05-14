@@ -1,0 +1,51 @@
+X:1
+T:Non fara piu
+T:Non sarò piu
+T:Theororico Sistino
+T:Source : Cantiones trium vocum---Hamburgi---P.ab Ohr---1608. Editor : André Vierendeels (26/02/14).
+T:Notes : Original clefs : C1, C1, F4 Editorial accidentals above the staff Square bracket indicates ligature
+C:Theororico Sistino
+%%score [ 1 2 3 ]
+L:1/8
+Q:1/4=70
+M:4/4
+K:F
+V:1 treble nm="Soprano 1" snm="S 1"
+V:2 treble nm="Soprano 2" snm="S 2"
+V:3 bass nm="Bass" snm="B"
+V:1
+ z8 | z2 d2 d2 d2 | c2 c2 d3 e | f4 e4 | z2 d2 d2 d2 | c2 A4 B2- | B2 G4 A2- | A2 G4 ^F2 | %8
+w: |Non sa- ro|piu ri- tro- *|* sa,|non sa- ro|piu ri- tro-|sa, ri- tro|_ _ _|
+ G2 B2 c2 d2- | d2 ^c2 d4 | z2 c2 B2 B2 | A2 G4 ^F2 | F4 F2 G2 | FD G4 ^F2 |[M:2/4] G4 :: %15
+w: s'a chi mi se-|* * gue,|a chi mi|se- * gue,|a chi mi|se- * * *|gue,|
+[M:4/4] z2 B2 c2 d2 | ^c2 c2 d2 d2 | z2 BB A2 GF | E4 D2 d2 | B2 G2 A4 | B4 z2 d2 | B2 G2 A4 | %22
+w: se la sor-|te ri- spon- de,|se la sor- te ri-|spon de, al|mio de- si-|re, al|mio de- si-|
+ G2 d3 d d2 | d2 B2 c2 d2 | c4 B2 d2 | c2 B2 A2 A2 | G2 d2 _e2 d2- | dc c2 =B2 d2 | _e2 d2 c3 d | %29
+w: re, an zi vor-|ro ser- vi- *|* re, quei|che sof- frir per|me pe- n'e mar-|* * ti- re, pe-|n'e mar- ti- *|
+"^b" ed c4 B2 |1 A4 G4 :|2 A4 G4- || G8 |] %33
+w: |* re|(ti)- re.|_|
+V:2
+ z4 d4 | d2 B4 G2- | G2 F2 B2 G2 | z2 d2 d2 ^c2 |"^-natural" d3 e f2 f2 | e4 d4 | z2 B2 c4 | %7
+w: Non|sa- ro piu|_ ri- tro- sa,|non sa- ro|piu _ _ ri-|tro- sa,|piu ri-|
+ B4 A4 | G4 z4 | z2 G2 F2 F2 | E4 D2 d2 | c2 B2 A4 | A4 z2 d2 | d2 B2 A4 |[M:2/4] =B4 :: %15
+w: * tro-|sa,|a chi mi|se- gue, a|chi mi se-|gue, a|chi mi se-|gue,|
+[M:4/4] z2 G2 A2 A2 | A3 G F2 ED | ^C2 E3 D D2- | D2 ^C2 D2 D2 | G2 G4 ^F2 | G4 A2 D2- | %21
+w: se la for-|te ri- spon- * *|de, ri- * spon-|* * de, al|mio de- si-|re, al mio|
+ D2 G4 ^F2 | G2 B3 B B2 | B2 G2 A2 B2- | BA/G/ A2 B2 B2 |"^#" A2 G2 G2 F2 | G2 B2 c2 d2 | %27
+w: _ de- si-|re, an- zi vor-|ro ser- vi- *|* * * * re, quel|che sof- frir per|me pe- n'e mar-|
+ _e4 d2 =B2 | c2 d2 _e3 d | cB AG ^F2 G2- |1 G^F/E/ F2 G4 :|2 G^F/E/ F2 G4- || G8 |] %33
+w: ti- re, pe-|n'e mar- ti- *||* * * * re,|(ti)- * * * re.|_|
+V:3
+ G,4 G,2 ^F,2 | G,3 A, B,2 B,2 | A,4 G,4 | z4 z2 A,2 |"^-natural" ^F,2 G,2 D,E,F,G, | A,4 D,4 | %6
+w: Non fa- ra|piu _ _ ri-|tro- sa,|non|sa- ro piu _ _ _|_ ri-|
+ _E,4 C,2 C,2 | D,8 | G,,2 G,2 G,2 F,2 | E,4 D,4 | z2 A,,2 B,,2 B,,2 | C,4 D,4 | z2 D,2 B,,2 G,,2 | %13
+w: tro- sa, ri-|tro-|sa, a chi mi|se- gue,|a chi mi|se- gue,|a chi mi|
+ D,8 |[M:2/4] G,,4 ::[M:4/4] z2 G,2 F,2 D,2 | A,G, F,E, D,2 C,B,, | A,,2 G,,2 A,,4- | A,,4 D,4 | %19
+w: se-|gue,|se la for-|te _ _ _ _ _ _|_ ri- spon-|* de,|
+ z4 z2 D,2 | B,,2 G,,2 D,4 | G,2 G,,2 D,4 | G,,4 G,2 G,G, | G,2 G,2 F,4- | F,4 B,,2 B,2 | %25
+w: al|mio de- si-|re, de- si-|re, an- zi vor-|ro ser- vi-|* re, quei|
+ F,2 G,2 C,2 D,2 | G,,2 G,2 C,2 =B,,2 | C,4 G,,2 G,2 | C,2 =B,,2 C,4- | C,4 D,4- |1 D,4 G,,4 :|2 %31
+w: che sof- frir per|me pe- n' mar-|ti- re, pe-|n'e mar- ti-||* re,|
+ D,4 G,,4- || G,,8 |] %33
+w: (ti)- re|_|
+

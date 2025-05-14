@@ -1,0 +1,45 @@
+X:1
+T:Che rumore Sento fuore?
+T:Constantijn Huygens
+T:Che rumore Sento fuore?
+T:Risposta dalla finestra
+C:Constantijn Huygens
+%%score 1 2 { ( 3 5 ) | 4 }
+L:1/8
+Q:1/4=80
+M:4/4
+K:Bb
+V:1 treble nm="Soprano" snm="S"
+V:2 treble transpose=-12 nm="Viola da Gamba" snm="V.Gam."
+V:3 treble nm="Harpsichord" snm="Hpschd."
+V:5 treble 
+V:4 bass 
+V:1
+ z2 dc BBAG | ^FFGG A2 DD | GGG^G AAAA | BB=BB cc^cd | d8 :: z4 F2 F2 | G4 G2 FE | DDD=E FFG^G | %8
+w: Che ru- mo- re Sen- to|fuo- re? Ho- ra si, paz- za-|rel- lo, Sei tu quel- lo Che m'uc-|ci- di Co' tuoi stri- di Not- te e|di?|Non t'of-|fen- da, ca- ro A-|min- ta, Vo- ce spin- ta D'i- ra|
+ AAAA BB=BB |[M:3/4] c2 c2 z c | d2 e2 dc |[M:4/4] c6 GG | A2 A4 GF | =E2 F2 z2 ^CC | DD D4 z G | %15
+w: fin- ta Tra pa- ren- ti Trop- po at-|ten- ti, at-|ten- ti Not- te e|di: Che nel|se- no il più so-|ven- te Dol- ce-|men- te So- spi-|
+ =E2 E2 z2 EA | ^F2 F2 z2 GG | A4 d4- | d2 B2 AG ^F2 | z2 z A B4- | B=Bcc d4- |[M:3/4] d2 B2 A>G | %22
+w: ran- do Ra- gio-|nan- do Vò co-|si: Ca-|* ro A- min- ta, _|A- min-|* ta, ca- ro A- min-|* ta, fo- sti|
+[M:4/4] G8 :| %23
+w: qui!|
+V:2
+ d4 g2 c2 | d2 B2 A2 ^f2 | g2 =e2 a2 d2 | g2 f2 =e2 _e2 | d8 :: d6 B2 | e4 f4 | g2 f=e dd'c'b | %8
+ a2 ^f2 g4 |[M:3/4] c6 | =B2 c2 G2 |[M:4/4] c8 | f2 F4 G2 | A8 | B4 =B4 | c4 ^c4 | d4 B2 G2 | d8 | %18
+ d8 | d4 g4- | g2 c2 =B2 c2 |[M:3/4] d6 |[M:4/4] G8 :| %23
+V:3
+ [FAd]4 [GB]2 AG | [A,D^F]2 [DG]2 [EA]2 [A,D]2 | [DB]2 [=EB]2 [Fc]2 [^Fd]2 | [Gd]4 [Gc]2 [GB]2 | %4
+ [^FA]2 dc BBAG :: [B,DF]4 [B,DF]4 | [B,EG]4 [A,CF]4 | G2 [CG]2 [DF]2 [C=E]2 | %8
+ [CEA]2 [D^FA]2 [DGd]4 |[M:3/4] [EGc]6 | [DG]2 [CG]2 [DG]2 |[M:4/4] [C=EG]6 z2 | %12
+ [CFA]2 [DFA]2 [B,DG]4 | [C=E]2 [CF]2 [A,^CE]4 | [G,B,D]4 [G,=B,D]4 | [G,C=E]4 [A,^CE]4 | %16
+ [A,D^F]4 [B,DG]4 | AG ^F2 z2 F2 | G2 B2 A/B/A/B/ A2 | B2 A2 [EG]4 | [DGd]2 [Gce]2 [Gd]2 [Gc]2 | %21
+[M:3/4] [G=B]2 [G_B]2 [^FA]2 |[M:4/4] [=B,DG]8 :| %23
+V:4
+ D,4 G,2 C,2 | D,2 B,,2 A,,2 ^F,2 | G,2 =E,2 A,2 D,2 | G,2 F,2 =E,2 _E,2 | D,8 :: D,6 B,,2 | %6
+ E,4 F,4 | G,2 F,=E, D,DCB, | A,2 ^F,2 G,4 |[M:3/4] C,6 | =B,,2 C,2 G,,2 |[M:4/4] C,8 | %12
+ F,2 F,,4 G,,2 | A,,8 | B,,4 =B,,4 | C,4 ^C,4 | D,4 B,,2 G,,2 | D,8 | D,8 | D,4 G,4- | %20
+ G,2 C,2 =B,,2 C,2 |[M:3/4] D,6 |[M:4/4] G,,8 :| %23
+V:5
+ x8 | x8 | x8 | x8 | x8 :: x8 | x8 | D2 x6 | x8 |[M:3/4] x6 | x6 |[M:4/4] x8 | x8 | x8 | x8 | x8 | %16
+ x8 | D4 z2 [A,D]2 | [B,D]4 D2 C2 | [B,G]2 F2 B,4 | x8 |[M:3/4] x6 |[M:4/4] x8 :| %23
+

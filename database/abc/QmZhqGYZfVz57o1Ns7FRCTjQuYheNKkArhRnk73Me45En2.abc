@@ -1,0 +1,61 @@
+X:1
+T:Music for a while
+T:"Oedipus"
+T:Henry Purcell
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=45
+M:4/4
+K:B
+V:1 treble nm="Alto" snm="A."
+V:2 treble nm="Harpsichord" snm="Hch."
+V:4 treble 
+V:3 bass 
+V:1
+"^Andante" z8 | z8 | z8 |!p!!pp! G3 G z4 | d4- dd e/d/c/B/ | A2 z d GA/4B/4c/ B>A | %6
+w: |||Mu- sic|Mu- * sic for- * a- *|while, shall all your- * * cares be-|
+ B/A/G z G c2 z A |"^(cresc.)" d2 z G E2 z A | ^^F/^E/D z d e/d/c/B/ B>A | %9
+w: gui- le * shall all, all|all shall all, shall|all- * * shall all- * your * cares be-|
+ B/A/G z2!p! z c/>B/ A/G/F/=E/ | DD z2 z e/>d/ c/B/A/G/ | ^^FDdd d3/2e/4d/4 c>c | %12
+w: guile * * won- * * * * *|* dring, won- * * * * *|* dring, how your pains- * * * were-|
+ !>!c2 B z !>!B2 A z | !>!A2 G z G3 A | B/A/G/F/ F^E/D/ D2 z F/D/ | G>A G2 A>B A/G/A/F/ | %16
+w: eas'd * eas'd- *|eas'd * And dis-|dai- * ning- * to be * pleas'd. Till A-|lec- * to, free- * the- * * *|
+ B2 z B/G/ c4- | cB/A/ B/A/G/F/ F2 z F | FF F/=G/F/G/ F>G F/G/F/E/ | DD z!mp! d d/e/d/e/4d/4 c2- | %20
+w: dead Till A- lec-|* to * free- * the- * dead. from|their- e- ter- * * * * * * * * *|* nal, e- ter- * * * * *|
+ c/d/c/d/4c/4 B2- B/c/B/c/ dc/B/ | B4 z4 | z2 z!p! d/c/ ^B2 z e | z c z A z d z G | %24
+w: * * * * * * * * * * * nal *|bands,|Till the snakes drop,|drop drop drop drop|
+ z E z c z A z d | c2 BA/G/ G2 z G/^F/ | ^E2 z A/G/ A/B/A/G/ FE/D/ | D4 z4 |!p! G3 G z4 | %29
+w: drop drop drop drop|from * her * hands, and the|whip, and the whip- * from * out her- *|hands.|Mu- sic,|
+ d4- dd e/d/c/B/ | A2 z d GA/4B/4c/ BA | B/A/G z G c2 z A | d2 z G E2 z A | %33
+w: mu- * sic for * a *|while shall all your- * * cares be-|gui- * le shall all all|all shall all all|
+ ^^F/^E/D z d e/d/c/B/ B/4c/4(B/4B/4)A/d/ | =G^G z!mf! B/4A/4B/ c2 z f/4e/4f/ | %35
+w: all * * shall all- * * your * * * * be- *|* guile all * * all all _ _|
+ e/f/4e/4d z d ed/8(c3/2c3/8)A | G/A/4G/4=G z d e/d/c/B/ B/4c/4B/A/^G/ | (=G4 ^G4 | z4) z4 | x8 |] %40
+w: all _ _ _ all all _ _ _ all|* * * * shall all * your * cares _ _ be _|_ _|||
+V:2
+ z8 | z8 | z8 | G4- G2 F=E | D2 d2- d2 cB | ^^FABG ECDF | G2 z2 [A,C]2 z2 | [DG]2 z2 [EG]2 z2 | %8
+ [D^^F]2 G2- G2 DF | [B,G]4 [A,C]4 | D3 G- G2 E2 | D3 G EG^^FA | D2 GB B2 A z | A2 G z EGD^^F | %14
+ D3 ^^C D4 | D2 C2- C2 FD- | D2 B, z C3 F | D/^E/F- F^E F2 z2 | B,4 C4 | DA G2- G3 G | F2 F2 GEDA | %21
+ B4 GEDC | D2 D2-!mp! D2 z G | C z z F D2 z G | G2 z E D2 z D | E2 G^^F G3 G/^F/ | ^E x x2 z4 | %27
+ x8 | z2 G2- G2 F=E | D2 d2- d2 cA | ^^FABG =ECD^^F | G2 z B, C2 z C | x8 | z2 z G- G>A D^^F | %34
+ G2 z G F2 z F | d2 z d c2 z A | ^^FdBG AGDF | G8 | z8 | z8 |] %40
+V:3
+ G,,D,E,G,, A,,^E,F,A,, | B,,^^F,G,^B,, C,G,A,C, | D,^^F,G,B,, C,E,D,D,, | G,,D,E,G,, A,,^E,F,A,, | %4
+ B,,^^F,G,^B,, C,G,A,C, | D,^^F,G,B,, C,E,D,D,, | G,,D,E,G,, A,,^E,F,A,, | B,,^^F,G,^B,, C,G,A,C, | %8
+ D,^^F,G,B,, C,E,D,D,, | G,,D,E,G,, A,,^E,F,A,, | B,,^^F,G,^B,, C,G,A,C, | D,^^F,G,B,, C,E,D,D,, | %12
+ G,,D,E,G,, A,,^E,F,A,, | B,,^^F,G,^B,, C,E,D,D,, | G,,B,,A,,A,,, D,,A,,B,,D,, | %15
+ ^E,,^B,,C,E,, F,,C,D,F,, | G,,D,E,G,, A,,^E,F,A,, | B,,D,C,C,, F,,C,D,F,, | %18
+ G,,D,E,G,, A,,^E,F,A,, | B,,^^F,G,"^mf"^B,, C,G,A,C, | D,A,B,D, E,G,F,F,, | B,,F,G,D, E,G,F,F,, | %22
+ B,,C,D,D,, G,,D,E,G,, | A,,^E,F,A,, B,,^^F,G,^B,, | C,G,A,C, D,^^F,G,B,, | C,E,D,D,, G,,D,G,G,, | %26
+ A,,^^C,D,F,, G,,B,,A,,A, | DD,B,,G,, C,A,,D,D,, | G,,D,E,G,, A,,^E,F,A,, | %29
+ B,,^^F,G,^B,, C,G,A,C, | D,^^F,G,B,, C,E,D,D,, | G,,D,E,G,, A,,^E,F,A,, | B,,^^F,G,^B,, C,G,A,C, | %33
+ D,^^F,G,B,, C,E,D,D,, | G,,D,E,G,, A,,^E,F,A,, | B,,^^F,G,^B,, C,G,A,C, | D,^^F,G,B,, C,E,D,D,, | %37
+ [G,,G,]8 | z8 | z8 |] %40
+V:4
+ x8 | x8 | x8 | B,4 C4 | D3 G- G2 E2 | D4 CA,B,A, | B,2 z2 z4 | x8 | D2 B,2 ECB,A, | x8 | %10
+ G,A,GE E2 C2 | A,2 B,D DCDC | C2 B,2 C3 C | D4- DCB,A, | B,G,F^E F4 | G,4 F4 | B,A,G, z F3 C- | %17
+ CB,- B,2 A,2 z2 | x8 | D2- D2 E3 E | C2 D2 B,2- B,C | D3 F EB,-B,A, | B,2 A,2 ^B,2 z =B, | %23
+ A, z z C B,2 z D | E2 z C A,2 z G, | G,CB,D B,3 E/D/ | ^^CA/G/ FD D3 C | %27
+ D^E/^^F/ G^A/B/ CD/C/ B,A, | B,4 x4 | D3 G- G2 =E2 | D4 CA,B,A, | B,2 z B, C2 z C | %32
+ D2 z D E2 z E | D4 =ECB,A, | B,2 z B, C2 z C | D2 z G E2 z E | DAD-D =ECB,A, | x8 | x8 | x8 |] %40
+

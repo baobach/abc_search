@@ -1,0 +1,50 @@
+X:1
+T:Air
+T:from Orchestral Suite No. 3 in D major
+T:Johann Sebastian Bach
+T:BWV 1068
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=34
+M:4/4
+K:D
+V:1 bass nm="Violoncello" snm="Vlc."
+V:2 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:3 bass 
+V:1
+ F,8- | F,(B,/G,/){/F,} (E,/D,/C,/D,/) C,2 (B,,<A,,) | A,4- A,/(F,/=C,/B,,/ E,/^D,/A,/G,/) | %3
+ G,4- G,/(E,/B,,/A,,/ D,/C,/G,/F,/) | (F,3 (^G,/A,/) D,)(D,/4E,/4F,/- F,/E,/(E,/D,/) |1 %5
+ C,/B,,/(B,,/4C,/4D,/-) D,(C,/B,,/) A,,4) :|2 C,/B,,/(B,,/4C,/4D,/-) D,(C,/B,,/) A,,4 |: %7
+ C,2- (C,/D,/4C,/4B,,/4C,/4A,,/) (A,3 =C,) | %8
+ B,,B,- B,/(A,/G,/F,/) F,G,- G,/4(F,/4E,/4D,/4C,/B,,/) | %9
+ (^A,,/B,,/)C,- (C,/D,/)E,- (E,/F,/)G,- G,F, | (E,/D,/C,/B,,/ C,/D,/4E,/4D,) (C, B,,3) | %11
+ D,2- D,/(F,/E,/D,/) B,2- B,(A,/^G,/) |{/F,} E,/A,/A,, (B,,3/2C,/4D,/4) (C,>B,,) A,,2 | %13
+ (D,3 F,/E,/) (E,3 G,/F,/) | (F,3 A,/G,/) G,4 | A,,2- A,,/(C,/E,/G,/) (G,/E,/F,-) F,(F,/G,/4A,/4) | %16
+ D,2- D,/(F,/A,/=C/) B,3 D, | (C,/E,/)G,- G,D, A,,(E,/F,/4G,/4-) G,/(F,E,/) |1 %18
+ (D,/4C,/4B,,)C,/ (D,TD,/8)C,/8D,/8C,/8D,/ D,4 :|2 (D,/4C,/4B,,)C,/ (D,TD,/8)C,/8D,/8C,/8D,/ D,4 |] %20
+V:2
+ [Ad]4 [Ad]4- | [Ad]2 [EB]2 A4- | A(=c/B/ c)(a/c/ [FB]) z z2 | B(e/=d/ e/f/g/e/) [EA] z z2 | %4
+ A4- A^G/A/ BG |1 A (A2 ^G) [EA]4 :|2 A (A2 ^G) [EA]4 |: (A4- A/B/=c-) (c/B/A/G/) | %8
+ (F/G/A/F/) (^D[B^d]) e2 E2- | E z e2- e/(d/c/B/ ^A/B/c) | BB(B^A) [FB]4 | %11
+ (E2 A/^G/A =G>F G/A/B-) | B A2 ^G A4 | (AB/=c/ B/^c/d- d)(c/B/ c/^d/e-) | %14
+ e(^d/c/ d/e/f-) f/(d/e/B/ E/B/=G/E/) | (AGcA-) (Ac/d/ A2-) | (AG) A2 G4- | GB (e2- e/d/c/B/ AB) |1 %18
+ (A2 (G/)F/G) F4 :|2 [FA]2 [EG]2 [A,DF]4 |] %20
+V:3
+ .[D,,D,].[D,D].[C,C].[C,,C,] .[B,,,B,,].[B,,B,].[A,,A,].[A,,,A,,] | %1
+ .[G,,,G,,].[G,,G,].[^G,,^G,].[^G,,,^G,,] .[A,,,A,,].[A,,A,].[=G,,=G,].[=G,,,=G,,] | %2
+ .[F,,,F,,].F,.E,.E,, .^D,,.^D,.B,,.B, | .E,,.E,.D,.D,, .C,,.C,.A,,.A, | %4
+ .D,.D.C.C, .B,,.B,.^G,.E, |1 .A,.D,.E,.E,, (A,,/B,,/C,/D,/ E,/G,/F,/E,/) :|2 %6
+ .A,.D,.E,.E,, [A,,,A,,]4 |: .A,,.A,.G,.G,, .F,,.F,.E,.E,, | %8
+ .^D,,.^D,.F,.B,, .[E,,E,].[E,E].[=D,=D].[=D,,=D,] | %9
+ .[C,,C,].[C,C].[B,,B,].[B,,,B,,] .[^A,,,^A,,].[B,,,B,,].[C,,C,].[A,,,A,,] | %10
+ .[B,,,B,,].[G,,G,].[E,,E,].[F,,F,] .B,,.B,.=A,.=A,, | .^G,,.^G,.F,.F,, .E,,.E,.D,.D,, | %12
+ .C,,.C,.D,.E, .A,,.A,.=G,.G,, | .F,,.F,.G,.G,, .^G,,.^G,.A,.A,, | .^A,,.^A,.B,.B,, .E,.E.=D.D, | %15
+ .C,.C.A,.C .D.D,.=C,.=C | .B,.B,,.A,,.A, .G,.G,,.F,,.F, | .E,.E,,.D,,.D, .C,.A,,.D,.G, |1 %18
+ .A,.G,.A,.A,, D,4 :|2 .[A,,A,].[G,,G,].[A,,A,].[A,,,A,,] [D,,D,]4 |] %20
+V:4
+ x8 | x4 E4- | E ^D2 x4 x | E B2 x4 x | (D3 E F)DB,E- |1 E(FB,E) C4 :|2 E(FB,E) C4 |: %7
+ E4- E(^D/E/ F2) | x4 B2 B,2 | C/(D/E/F/ G/F/G/E/ F)E/D/ CF- | (FE/D/) (GF/E/) D4 | %11
+ B,B x2 B,E/F/ E2- | E(EFE) (E>D C/D/E/C/) | A,DG B2 E2 c- | c F2 ^d B2 x2 | E/C/E/A/ FE D2 D2- | %16
+ (DE) F2 D4 | (E/B,/E/G/ B/A/G/F/) EAAG |1 F2 EC A,4 :|2 x8 |] %20
+

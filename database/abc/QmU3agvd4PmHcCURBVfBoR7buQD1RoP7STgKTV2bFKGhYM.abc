@@ -1,0 +1,86 @@
+X:1
+T:Felicity Rag
+T:FELICITY  RAG.
+T:A  RAGTIME  TWO  STEP.
+T:SCOTT JOPLIN and SCOTT HAYDEN.
+T:Public Domain
+T:Public Domain
+T:Public Domain
+T:Public Domain
+C:Scott Joplin and Scott Hayden
+Z:Public Domain
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=70
+M:2/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+"^Tempo di Marcia."[I:staff +1] G,>^F, (G,/^G,/A,) | A,>^G, (A,/^A,/B,) | %2
+[I:staff -1] D(^C/D/ ^D/E/F/^F/) | G z !^![GBdg] z |: %4
+!mf! [Gce]/[^Fc^d]/[Gce]/[Acea]/- [Acea]/g/e/c/ | de/c/- c/c/B/_B/ | (A/^G/A/c/ e/d/c/A/) | %7
+ [Ec][EA]/[EG]/- [EG]/g/e/c/ | (A/^G/A/c/ e/d/c/A/) | [EGe]/[^D^F^d]/[EGe]/[Acea]/- [Acea]/e/c/G/ | %10
+ A/^A/B/[Bf=a]/- [Bfa][Bfg] | [fbe'][fbd'] [egd'][egc'] | %12
+ [Gce]/[^Fc^d]/[Gce]/[Acea]/- [Acea]/g/e/c/ | de/c/- c/c/B/_B/ | (A/^G/A/c/ e/d/c/A/) | %15
+ [Ec][EA]/[EG]/- [EG]/g/e/c/ | (A/^G/A/c/ e/d/c/A/) | G/c/e/[G^cf]/- [Gcf]/^c/[Gce] | %18
+ ^F/A/=c/[=FBe]/- [FBe]/B/[FBd] |1 [EGc]3 [GBf] :|2 [EGc]3 A/^F/ |:!f! (G/A/B/c/ d/e/f) | %22
+ [Af][Bf]/[Af]/- [Af]2 | (G/A/B/c/ d/^d/e) | [Ge][Ae]/[Ge]/- [Ge]2 | %25
+ [Bfb][^A^a]/[Bfb]/- [Bfb]/[Aa]/[Bfb] | a/f/d/B/ A2 | [Aea][^G^g]/[Aea]/- [Aea]/[Gg]/[Aea] | %28
+ g/e/c/A/ (G/c/B/A/) | (G/A/B/c/ d/e/f) | [Af][Bf]/[Af]/- [Af]2 | (G/A/B/c/ d/^d/e) | %32
+ [Ge][Ae]/[Ge]/- [Ge]/(c/B/_B/) | (A/^G/A/c/ e/d/c/A/) | G/c/e/[G^cf]/- [Gcf]/^c/[Gce] | %35
+ ^F/A/=c/[=FBe]/- [FBe]/B/[FBd] |1 [EGc]3 A/^F/ :|2 [EGc]2 [cegc'] z |: %38
+[K:F]!p! c/A/F/G/ A/[df][ce]/ | [Bd][Ac]/[GB]/- [GB]>B- | B/G/E/F/ G/[ce][Bd]/ | %41
+ [Ac][GB]/[FA]/- [FA]>c- | c/A/F/G/ A/c^d/ | [Ge][^F^d]/[Ge]/- [Ge]2 | f/d/=B/G/- G/f/d/g/ | %45
+ c2 [cec'] z | c/A/F/G/ A/[df][ce]/ | [Bd][Ac]/[GB]/- [GB]>B- | B/G/E/F/ G/[ce][Bd]/ | %49
+ [Ac][GB]/[FA]/- [FA]2 | ^F/A/c/[F_e]/- [Fe]/d/[Fc] | [GB]/A/B/[GBg]/- [GBg]/d/[GB] | %52
+ [FAd]/[FAc][FA]/ [Ec]/B/[EG] |1 FF/E/ (F/G/A/B/) :|2 F2 [FAf] ||[K:C] G | e3 G | g3 G | %58
+ g/^f/g/=f/- f/e/d | c z z2 |: [Gce]/[^Fc^d]/[Gce]/[Acea]/- [Acea]/g/e/c/ | de/c/- c/c/B/_B/ | %62
+ (A/^G/A/c/ e/d/c/A/) | [Ec][EA]/[EG]/- [EG]/g/e/c/ | (A/^G/A/c/ e/d/c/A/) | %65
+ [EGe]/[^D^F^d]/[EGe]/[Acea]/- [Acea]/e/c/G/ | A/^A/B/[Bfa]/- [Bfa][Bfg] | %67
+ [fbe'][fbd'] [egd'][egc'] | [Gce]/[^Fc^d]/[Gce]/[Acea]/- [Acea]/g/e/c/ | de/c/- c/c/B/_B/ | %70
+ (A/^G/A/c/ e/d/c/A/) | [Ec][EA]/[EG]/- [EG]/g/e/c/ | (A/^G/A/c/ e/d/c/A/) | %73
+ G/c/e/[G^cf]/- [Gcf]/^c/[Gce] | ^F/A/=c/[=FBe]/- [FBe]/B/[FBd] |1 [EGc]3 [GBf] :|2 %76
+ [EGc]2 !^![cegc'] z |] %77
+V:2
+"^R. H." G,,>^F,, (G,,/^G,,/A,,) | A,,>^G,, (A,,/^A,,/B,,) | D,(^C,/D,/ ^D,/E,/F,/^F,/) | %3
+ G, z !^![G,,,G,,] z |: [C,,C,][G,CE] [E,,E,][G,CE] | [G,,,G,,][G,B,F] [C,,C,][G,CE] | %6
+ [F,,F,][A,CF] [A,,A,][_A,,_A,] | [G,,G,][G,C] [C,,C,][G,CE] | [F,,F,][A,CF] [A,,A,][_A,,_A,] | %9
+ [G,,G,][G,C] [E,,E,][_E,,_E,] | [D,,D,][G,B,F] [G,,,G,,][G,B,F] | [G,,,G,,][G,B,F] [C,,C,][G,CE] | %12
+ [C,,C,][G,CE] [E,,E,][G,CE] | [G,,,G,,][G,B,F] [C,,C,][G,CE] | [F,,F,][A,CF] [A,,A,][_A,,_A,] | %15
+ [G,,G,][G,C] [C,,C,][G,CE] | [F,,F,][A,CF] [F,,F,][^D,,^D,] | [E,,E,][G,CE] [A,,,A,,][A,^CE] | %18
+ [D,,D,][A,,A,] [G,,G,][G,,,G,,] |1 [C,,C,]!^![G,,G,] !^![E,,E,]!^![D,,D,] :|2 %20
+ [C,,C,]!^![G,,G,] !^![E,,E,]!^![_E,,_E,] |: [D,,D,][G,B,F] [G,,,G,,][G,B,F] | %22
+ [D,,D,][G,B,F] [D,,D,][^D,,^D,] | [E,,E,][G,CE] [G,,,G,,][G,CE] | [C,,C,][G,CE] [C,,C,][^C,,^C,] | %25
+ [D,,D,][G,B,F] [G,,,G,,][G,B,F] | [B,,,B,,][G,B,F] [G,,,G,,][G,B,F] | %27
+ [C,,C,][G,CE] [G,,,G,,][G,CE] | [C,,C,][G,CE] [E,,E,][G,CE] | [D,,D,][G,B,F] [G,,,G,,][G,B,F] | %30
+ [D,,D,][G,B,F] [D,,D,][^D,,^D,] | [E,,E,][G,CE] [G,,,G,,][G,CE] | [C,,C,][G,CE] [E,,E,][G,CE] | %33
+ [F,,F,][A,CF] [F,,F,][^D,,^D,] | [E,,E,][G,CE] [A,,,A,,][G,^CE] | %35
+ [D,,D,][A,,A,] [G,,G,][G,,,G,,] |1 [C,,C,]!^![G,,G,] !^![E,,E,]!^![_E,,_E,] :|2 [C,,C,]G,,C,, z |: %38
+[K:F] F,[A,C] C,[A,C] | G,[B,C] C,[B,C] | G,[B,C] C,[B,C] | F,[A,C] C,[A,C] | F,[A,C] ^F,[A,C^D] | %43
+ G,[CE] G,,[G,CE] | D,[G,=B,F] G,,[G,B,F] | [CE] [G,,G,]!^![C,,C,] z | F,[A,C] C,[A,C] | %47
+ G,[B,C] C,[B,C] | G,[B,C] C,[B,C] | F,[A,C] _E,[F,A,C] | D,[^F,CD] D,,[F,CD] | %51
+ G,,[G,B,D] B,,[G,B,D] | C,[A,C] C,[B,C] |1 [F,A,C] z z2 :|2 [F,A,C] C,F,, ||[K:C] G, | C3 G, | %57
+ E3 G, | [G,B,F][G,B,F] [G,B,F][G,B,F] | [CE] !^![G,,,G,,]!^![A,,,A,,]!^![B,,,B,,] |: %60
+ [C,,C,][G,CE] [E,,E,][G,CE] | [G,,,G,,][G,B,F] [C,,C,][G,CE] | [F,,F,][A,CF] [A,,A,][_A,,_A,] | %63
+ [G,,G,][G,C] [C,,C,][G,CE] | [F,,F,][A,CF] [A,,A,][_A,,_A,] | [G,,G,][G,C] [E,,E,][_E,,_E,] | %66
+ [D,,D,][G,B,F] [G,,,G,,][G,B,F] | [G,,,G,,][G,B,F] [C,,C,][G,CE] | [C,,C,][G,CE] [E,,E,][G,CE] | %69
+ [G,,,G,,][G,B,F] [C,,C,][G,CE] | [F,,F,][A,CF] [A,,A,][_A,,_A,] | [G,,G,][G,C] [C,,C,][G,CE] | %72
+ [F,,F,][A,CF] [F,,F,][^D,,^D,] | [E,,E,][G,CE] [A,,,A,,][A,^CE] | %74
+ [D,,D,][A,,A,] [G,,G,][G,,,G,,] |1 [C,,C,]!^![G,,G,] !^![E,,E,]!^![D,,D,] :|2 [C,,C,]G,,C,, z |] %77
+V:3
+ x4 | x4 | x4 | x4 |: x4 | [FB]>[EG]- [EG] z | z2 FF | x4 | z2 FF | x4 | x4 | x4 | x4 | %13
+ [FB]>[EG]- [EG] z | z2 FF | x4 | z2 F^F | x4 | x4 |1 x4 :|2 x4 |: x4 | x4 | x4 | x4 | x4 | x4 | %27
+ x4 | x4 | x4 | x4 | x4 | x4 | z2 F^F | x4 | x4 |1 x4 :|2 x4 |:[K:F] x4 | x4 | x4 | x4 | x4 | x4 | %44
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |1 x4 :|2 x3 ||[K:C] x | x4 | x4 | x4 | x4 |: x4 | %61
+ [FB]>[EG]- [EG] z | z2 FF | x4 | z2 FF | x4 | x4 | x4 | x4 | [FB]>[EG]- [EG] z | z2 FF | x4 | %72
+ z2 F^F | x4 | x4 |1 x4 :|2 x4 |] %77
+V:4
+ x4 | x4 | x4 | x4 |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |1 %19
+ x4 :|2 x4 |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |1 x4 :|2 %37
+ x4 |:[K:F] x4 | x4 | x4 | x4 | F,2 ^F,2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | D,2 D,,2 | x4 | x4 |1 %53
+ x4 :|2 x3 ||[K:C] x | x4 | x4 | x4 | x4 |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %71
+ x4 | x4 | x4 | x4 |1 x4 :|2 x4 |] %77
+

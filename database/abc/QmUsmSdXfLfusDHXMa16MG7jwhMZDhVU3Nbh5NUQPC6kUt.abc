@@ -1,0 +1,53 @@
+X:1
+T:Partita II Rondeaux
+T:BWV 826
+T:J. S. Bach
+%%score { ( 1 3 ) | 2 }
+L:1/8
+M:3/8
+K:Eb
+V:1 treble nm="Harp"
+V:3 treble 
+V:2 bass 
+V:1
+ c'ce/4d/4e/4d/4 | e2 f | gA z | fG z | eF z | dE z | z c/=B/c/d/ | =B/=A/G z | c'cd | e2 f | %10
+ gA z | fG z | eF z | dE z | z/ c/D/F/c/=B/ | c3 | E/D/E/F/G/A/ | B/e/B/A/B- | B/f/B/A/B- | %19
+ B/g/B/A/B- | B/_d/c/B/A/G/ | A/c/f/c/a- | a/f/a/g/f/=e/ | f3- | f/a/d/e/f/d/ | c/B/c/d/e/f/ | %26
+ g/b/e/f/g/e/ | _d/c/=d/=e/f/g/ | a/c'/f/g/a/f/ | e/_d/c/=B/g- | g/c/f/e/d/c/ | =B/c/d/B/G | %32
+ c'ce/4d/4c/4d/4 | e2 f | gA z | fG z | eF z | dE z | z c/=B/c/d/ | =B/=A/G z | c'cd | e2 f | %42
+ gA z | fG z | eF z | dE z | z/ c/D/F/c/=B/ | c2 z | z/ e/c/G/A/E/ | F/A/d z | z/ d/^A/^F/G/D/ | %51
+ =E/G/c z | z/ c/A/=E/F/C/ | D/F/B z | z/ B/c/d/e/f/ | g/e/f/d/B/d/ | f/a/g/e/B/d/ | e/g/f/d/A/c/ | %58
+ d/f/e/c/_G/=A/ | c/e/d/^A/F/_A/ | B/e/B/G/E/D/ | E/B/G/^D/B,/A,/ | B,/G/E/B,/A,/D/ | %63
+[I:staff +1] G,/E/B,/G,/E, |[I:staff -1] z/ G/=A/=B/c/d/ | e/d/c/d/e/f/ | g/G/A/c/f- | f/F/G/B/e- | %68
+ e/E/F/=B/d- | d/D/E/G/c- | c/=B/c/e/a/c/ | =B/=A/G z | c'cd | e2 f | gA z | fG z | eF z | dE z | %78
+ z/ c/D/F/c/=B/ | c3 | e3- | e2 d/e/4f/4 |{e} d3- | de/f/g/e/ | c3- | c(3d/c/B/(3c/B/=A/ | %86
+ (3B/=A/G/(3c/B/A/(3B/A/G/ | G/4^F/4=E/4F/4G/4F/4=A/d/c/ | B/=A/B/d/c/e/ | d/B/G/g/=A/g/ | %90
+ B/g/c/d/e/c/ | =A/f/B/c/d/B/ | G/e/=A/B/c/A/ | ^F/d/G/=A/B/G/ | D/c/B/=A/G/^F/ | G3- | %96
+ G/c'/=b/=a/g/f/ | e2 f | g/B/A z | f/A/G z | e/G/F z | d/F/E z | z/ g/f/e/d/c/ | =B/c/d/B/G- | %104
+ G/c/B/A/G/F/ | E2 F | G/[I:staff +1]B,/A,[I:staff -1] z | F/[I:staff +1]A,/G,[I:staff -1] z | %108
+ E/[I:staff +1]G,/F,[I:staff -1] z | D/[I:staff +1]F,/E,[I:staff -1] z | %110
+ z[I:staff +1] [E,A,C][D,G,=B,] | !fermata![E,G,C]3 |] %112
+V:2
+ z3 |[K:treble] cCD | E z F | D z E | C z D | =B, z[K:bass] C | A,F,D, | G, z/ F/E/D/ | C z2 | %9
+[K:treble] cCD | E z F | D z E | C z D | =B, z[K:bass] C | A,F,G, | C,G,,E,, | C,,2 z | G,F,E, | %18
+ D,C,B,, | E,G,F, | =E,G,C, | F,A,_D, | B,C,C | B,/A,/B,/A,/G,/F,/ | B,F,A, | D,F,B,, | E,,G,B, | %27
+ =E,G,C, | F,,A,C | F,A,D, | E,A,,F, | G,,G,[K:treble] z/ F/ | E/F/G/=A/=B/G/ | cCD | E z F | %35
+ D z E | C z D | =B, z[K:bass] C | A,F,D, | G, z/ F/E/D/ | C z2 |[K:treble] cCD | E z F | D z E | %44
+ C z D | =B, z[K:bass] C | A,F,G, | C,/E,/G,/C,/E,/G,/ | CC,C- | CC,/C/B,/A,/ | B,B,,B,- | %51
+ B,B,,/B,/A,/G,/ | A,A,,A,- | A,A,,/A,/G,/F,/ | G,F,E, | B,B,,B,- | B,E,F, | G,B, z | A,G,E, | %59
+ B,,B,A, | G,G,,G,- | G,A,,G,- | G,B,,F, | E,2 z/ D,/ | E,/F,/E,/D,/C,/=B,,/ | C,/G,/=A,/=B,/C/D/ | %66
+ EF, z/ E/ | DE, z/ D/ | CD, z/ C/ | =B,C, z/ E,/ | A,G,F, | G,/F,/G,/A,/F,/G,/ | %72
+ E,/D,/E,/F,/D,/E,/ | C,CD | E z F | D z E | C z D | =B, z C | A,F,G, | C,G,,/F,,/E,,/D,,/ | %80
+ C,,CB, | =A,G,F, | B,,B,=A, | G,F,E, | =A,,=A,G, | ^F,=E,D, | G,E,C, | D,/E,/D,/C,/B,,/=A,,/ | %88
+ G,,G,=A, | B,2 C | DE, z | CD, z | B,C, z | =A,B,, z | z C,D, | G,,/A,/G,/F,/E,/D,/ | E,F,G, | %97
+ C,/[I:staff -1]c/=B/=A/G/F/ | E>GF/E/ | D>FE/D/ | C>ED/C/ | =B,>DC/_B,/ | A,AF | G/A/G/F/E/D/ | %104
+[I:staff +1] C/E/D/C/B,/A,/ | G,/C/B,/A,/G,/F,/ | E,>G,F,/E,/ | D,>F,E,/D,/ | C,>E,D,/C,/ | %109
+ =B,,>D,C,/_B,,/ | A,,/C,/F,,G,, | !fermata!C,,3 |] %112
+V:3
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %38
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %57
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %76
+ x3 | x3 | x3 | x3 | x3 | c3- | c2 F | B3- | B=A/G/^F/G/ | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %93
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %112
+

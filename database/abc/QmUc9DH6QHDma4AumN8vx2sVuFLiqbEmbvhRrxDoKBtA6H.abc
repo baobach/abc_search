@@ -1,0 +1,62 @@
+X:1
+T:Rimsky-Korsakov Harmonic Exercises,
+T:Enharmonic modulation (4)
+T:Rimsky-Korsakov Harmonic Exercises, Enharmonic modulation (4)
+T:"Practical Manual of Harmony" (1885)
+T:Diminished seventh chord
+T:        The diminished seventh chord can be resolved in six ways:
+T:        The diminished seventh chord has three enharmonic equality:
+T:        Given the enharmonic equalities, any diminished seventh chord can be resolved in any of the 24 keys. Table of all resolutions: 
+T:        Practical instructions about modulation through the diminished seventh chord from editors of "Practical Manual of Harmony" Maksimilian Steinberg and Jāzeps Vītols: to modulate from the X key to the Y key, you need to find a diminished seventh chord a semitone lower or an whole tone higher than the dominant of the Y key. Being in the key of X, you need to come to the found chord in such an inversion that allows a resolution in tonic 6-4 chord of the Y key. Before resolution, you can turn this chord into an augmented sixth chord using a passing chromatic tone. 
+%%score { ( 1 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/2=90
+M:2/1
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+ ([^GBdf]8 !breath![Ace]8) |] ([^GBdf]8 !breath![A^ce]8) |] ([^GBdf]8 !breath![Acf]8) |] %3
+ ([^GBdf]8 !breath![^G^ce]8) |] ([^GBdf]8 !breath![Adf]8) |] ([^GBdf]8 !breath![^GBe]8) |] %6
+[M:2/2]"""_=""_A:" !breath![^GBdf]8 |]"""_=""_F♯:" !breath![^GBd^e]8 |] %8
+"""_=""_E♭:" !breath![_A_cdf]8 |]"""_C:" !breath![_ABdf]8 |] %10
+[M:2/1]"""_A:" ([^GBdf]8"" !breath![A^ce]8) |]"" ([^GBdf]8"" !breath![^G^ce]8) |] %12
+"" ([^GBdf]8"" !breath![^GBe]8) |]"""_a:" ([^GBdf]8"" !breath![Ace]8) |] %14
+"" ([^GBdf]8"" !breath![Adf]8) |]"" ([^GBdf]8"" !breath![Acf]8) |] %16
+"""_F♯:" ([^GBd^e]8"" !breath![^A^c^f]8) |]"" ([^GBd^e]8"" !breath![^A^c^e]8) |] %18
+"" ([^GBd^e]8"" !breath![^G^c^e]8) |]"""_f♯:" ([^GBd^e]8"" !breath![A^c^f]8) |] %20
+"" ([^GBd^e]8"" !breath![^FBd^f]8) |]"" ([^GBd^e]8"" !breath![^FAd^f]8) |] %22
+"""_E♭:" ([_A_cdf]8"" !breath![G_B_eg]8) |]"" ([_A_cdf]8"" !breath![G_Bdg]8) |] %24
+"" ([_A_cdf]8"" !breath![_Bdf]8) |]"""_e♭:" ([_A_cdf]8"" !breath![_G_B_e_g]8) |] %26
+"" ([_A_cdf]8"" !breath![_A_c_e]8) |]"" ([_A_cdf]8"" !breath![_G_c_e_g]8) |] %28
+"""_C:" ([_ABdf]8"" !breath![Gce]8) |]"" ([_ABdf]8"" !breath![GBe]8) |] %30
+"" ([_ABdf]8"" !breath![GBdg]8) |]"""_c:" ([_ABdf]8"" !breath![Gc_e]8) |] %32
+"" ([_ABdf]8"" !breath![_Acf]8) |]"" ([_ABdf]8"" !breath![_Ac_e]8) |] %34
+[M:5/1]""[Q:1/2=70]"^C -- e♭""_C:" (e8"""_B♭:" _e8"" _e8"" =d8"" !breath!_e8) |] %35
+"""^C -- c♯""_C:" (e8"""_d:" e8"" e8"" ^d8"" !breath!^c8) |] %36
+[M:6/1]"""^C -- A♭""_C:" (E8"" G8"" _A8"" _A8"" G8"" _A8) |] %37
+V:2
+ x8 c8 |] x8 ^c8 |] x8 c8 |] x8 ^c8 |] x8 A8 |] x8 e8 |][M:2/2] x8 |] x8 |] x8 |] x8 |] %10
+[M:2/1] x8 ^c8 |] x8 ^c8 |] x8 e8 |] x8 c8 |] x8 A8 |] x8 c8 |] x8 ^A8 |] x8 ^A8 |] x8 ^c8 |] %19
+ x8 A8 |] x16 |] x16 |] x16 |] x16 |] x8 _B8 |] x16 |] x8 _e8 |] x16 |] x8 e8 |] x8 e8 |] x16 |] %31
+ x8 _e8 |] x8 c8 |] x8 c8 |][M:5/1] x40 |] x40 |][M:6/1] x48 |] %37
+V:3
+ z16 |] z16 |] z16 |] z16 |] z16 |] z16 |][M:2/2] z8 |] z8 |] z8 |] z8 |][M:2/1] z16 |] z16 |] %12
+ z16 |] z16 |] z16 |] z16 |] z16 |] z16 |] z16 |] z16 |] z16 |] z16 |] z16 |] z16 |] z16 |] z16 |] %26
+ z16 |] z16 |] z16 |] z16 |] z16 |] z16 |] z16 |] z16 |][M:5/1] (G8 _G8 _G8 _A8 _G8) |] %35
+ (G8 G4-"^c♯:" ^^F4 ^G8 ^F8 E8) |][M:6/1] (G,8 G,8 F,4"""^A♭:" _F,4 _E,8 _E,8 _E,8) |] %37
+V:4
+ x16 |] x16 |] x16 |] x16 |] x16 |] x16 |][M:2/2] x8 |] x8 |] x8 |] x8 |][M:2/1] x16 |] x16 |] %12
+ x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] %26
+ x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |][M:5/1] (c8 =A8 _B8 _B8 _B8) |] %35
+ (c8 ^c8 ^c8 ^B8 ^c8) |][M:6/1] (C8 C8 B,8 C8 _D8 C8) |] %37
+V:5
+ x16 |] x16 |] x16 |] x16 |] x16 |] x16 |][M:2/2] x8 |] x8 |] x8 |] x8 |][M:2/1] x16 |] x16 |] %12
+ x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] %26
+ x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] x16 |] %34
+[M:5/1] (C8 C4"""^e♭:" _C4 _B,8 _B,8 _E,8) |] (C8 _B,4"" A,4 ^G,8 ^G,8 ^C8) |] %36
+[M:6/1] (C,8 E,8 D,8 _E,8 _E,,8 _A,,8) |] %37
+

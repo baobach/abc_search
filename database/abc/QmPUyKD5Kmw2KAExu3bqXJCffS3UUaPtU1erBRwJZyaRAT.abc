@@ -1,0 +1,54 @@
+X:1
+T:Prelude
+T:Prelude
+T:Op. 28 No. 23
+T:Frédéric Chopin
+C:Frédéric Chopin
+%%score { 1 | ( 2 3 ) }
+L:1/8
+Q:1/4=72
+M:4/4
+K:F
+V:1 treble nm="鋼琴" snm="Pno."
+V:2 bass 
+V:3 bass 
+V:1
+"^Moderato"!p!!p! (c/[Q:1/4=98]A/F/D/ C/F/f/d/ c/A/F/D/ C/F/f/d/ | %1
+ c/A/F/D/ C/F/f/d/ c/A/F/D/ C/E/B/G/) | (A/F/D/A,/ C/F/[EB]/G/) (A/F/C/A,/ C/F/[EB]/G/) | %3
+ (A/F/D/A,/ C/F/B/^G/ A/B/d/=B/ c/e/f/a/) | (g/e/c/A/ G/c/c'/a/ g/e/c/A/ G/c/c'/a/ | %5
+ g/e/c/A/ G/c/c'/a/ g/e/c/A/ G/=B/f/d/) | (e/c/A/E/ G/c/[=Bf]/d/) (e/c/G/E/ G/c/[Bf]/d/) | %7
+ (e/c/G/E/ G/c/e/g/ c'/e'/d'/g/ d/g/d/e/) | (c'/a/f/d/ c/f/f'/d'/ c'/a/f/d/ c/f/f'/d'/ | %9
+ c'/a/f/d/ c/f/f'/d'/ c'/a/f/d/ c/e/b/g/) | (a/f/d/A/ c/f/[eb]/g/) (a/f/c/A/ c/f/[eb]/g/) | %11
+ (a/f/c/A/ c/f/a/c'/[Q:1/4=90]!8va(! f'/"^poco rit."a'/[Q:1/4=82]g'/c'/[Q:1/4=74] g/c'/[Q:1/4=66]g/a/) | %12
+[Q:1/4=98]"^a tempo" (f'/d'/b/g/ f/b/b'/g'/ f'/d'/b/g/ f/b/b'/g'/ | %13
+ f'/d'/=b/g/ f/g/=b'/g'/ f'/d'/b/g/ f/g/b'/g'/ | %14
+ f'/d'/c'/a/ g/c'/c''/a'/ f'/d'/c'/a/ g/c'/c''/a'/ | %15
+ f'/d'/c'/a/ g/c'/c''/a'/ g'/e'/c'/a/ g/c'/c''/g'/) | %16
+!pp! (c''/a'/f'/d'/ c'/f'/f''/d''/ c''/a'/f'/d'/ c'/f'/f''/d''/ | %17
+ c''/a'/f'/d'/ c'/f'/f''/d''/ c''/a'/f'/d'/ c'/e'/b'/g'/)!8va)! | %18
+!p! (a'/f'/c'/a/ f/c/[eb]/g/) (a/f/c/A/ F/"_dimin."C/[EB]/G/) | %19
+ (A/F/C/A,/ C/!p!"_e smorz"F/[EB]/G/) (A/F/C/A,/ C/F/[EB]/G/) | %20
+ (A/F/C/A,/ C/F/A/c/ f/a/c'/f'/!8va(! a'/c'/f'/a/ |!pp! !fermata!f''2)!8va)![Q:1/4=40] z2 z4 |] %22
+V:2
+"_una corda"!ped! !arpeggio![F,,C,A,]4 z4!ped-up! | %1
+!ped! C,,2({=B,,C,} !trill(!TC,2{B,,C,-} A,2!ped-up! G,2) | %2
+!ped! (F,,C,/F,/ A,!ped-up![C,G,])!ped! (F,,C,/F,/ A,!ped-up![C,G,]) | %3
+!ped! (F,,C,/F,/ A,/!ped-up!F,/D/=B,/[K:treble] C_B/^G/ A) z | %4
+[K:bass]!ped! !arpeggio![C,G,E]4 z4!ped-up! | %5
+!ped! G,,2({^F,G,} !trill(!TG,2{F,G,-} E2!ped-up! D2) | %6
+!ped! (C,G,/C/ E!ped-up![G,D])!ped! (C,G,/C/ E!ped-up![G,D]) | %7
+!ped! (3(C,G,C[K:treble] (3EB) z z4!ped-up! |[K:bass]!ped! !arpeggio![F,CA]4 z4!ped-up! | %9
+[K:treble]"^"!ped! C,2({=B,C} !trill(!TC2{B,C-} A2!ped-up! G2) | %10
+!ped! (F,C/F/ A!ped-up![CG])!ped! (F,C/F/ A!ped-up![CG]) |!ped! (3(F,CF (3A!>!_e) z z4!ped-up! | %12
+!ped! (3(B,Fd) z2 z4!ped-up! |!ped! (3(G,Fd) z2 z4!ped-up! |!ped! (3(CGc) f6!ped-up! | %15
+!ped! !arpeggio![CG-B-f]2 e6!ped-up!!ped!!ped-up! | %16
+[K:bass]"_una corda"!ped! !arpeggio![F,CA]4 z4!ped-up! | %17
+[K:treble]"^"!ped! C,2({=B,C} !trill(!TC2{B,C-} A2!ped-up! G2) | %18
+[K:bass]!ped! (F,C/F/ A!ped-up![CG])!ped! (F,,C,/F,/ A,!ped-up![C,G,]) | %19
+!ped! (F,,C,/F,/ A,!ped-up![C,G,])!ped! (F,,C,/F,/ A,!ped-up![C,G,]) | %20
+ (F,,>C, F,/A,/C/F/[K:treble] A/!>!_e/A/F/[K:bass] C/A,/F,/C,/ | !fermata!F,,2) z2 z4 |] %22
+V:3
+ x8 | x4 C,4 | x8 | x4[K:treble] x4 |[K:bass] x8 | x4 G,4 | x8 | x2[K:treble] x6 |[K:bass] x8 | %9
+[K:treble] x4 C4 | x8 | x8 | x8 | x8 | x8 | x2 x2 a z z2 |[K:bass] x8 |[K:treble] x4 C4 | %18
+[K:bass] x8 | x8 | x4[K:treble] x2[K:bass] x2 | x8 |] %22
+

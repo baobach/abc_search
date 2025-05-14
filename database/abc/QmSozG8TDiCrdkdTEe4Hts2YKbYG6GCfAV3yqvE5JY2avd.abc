@@ -1,0 +1,75 @@
+X:1
+T:Jazzy Spider Man
+%%score 1 { 2 | 3 } 4
+L:1/8
+Q:1/4=90
+M:4/4
+K:Eb
+V:1 treble transpose=-2 nm="B♭ Trumpet" snm="B♭ Tpt."
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:4 bass transpose=-12 nm="Acoustic Bass" snm="Bass"
+V:1
+[K:F]"^Swing""^\n" .D(F/A/-) A z ._A(F/D/-) D z | .D(F/A)(B/A ._A)(F/D/-) D z | %2
+ .G(B/d/-) d z .^c(B/G/-) G z | .D(F/A)(B/A ._A)(F/D/-) D(B/=A/-) | A z z2 (3AGF G(F/D/-) | D4 z4 | %6
+ .D(F/A/-) A z .G(F/D/-) D z | .D(F/A)(B/A ._A)(F/D/-) D z | .G(B/d/-) d z ._d(B/G/-) G z | %9
+ .D(F/A)(B/A) ._A(F/D/-) D(B/=A/-) | A2 z2 (3AGF G(F/D/-) | .D6 .A.B | c3 (B/A/-) .A z .G.F | %13
+ G2 F(E/F/-) F z .A.B | c3 (B/A/-) .A z .G.F | .G2 .F(G/A/-) A2 z2 | .D(F/A/-) A z ._A(F/D/-) D z | %17
+ .D(F/A)(B/A ._A)(F/D/-) D z | .G(B/d/-) d z ._d(B/G/-) G z | .D(F/A/-) A z ._A(F/D/-) D(B/=A/-) | %20
+ A2 z2 (3GGF .G(F/D/-) | D2 .F2 (3GGF .G(F/D/-) | D2 .F2 (3GGF .G(B/e/-) | e8 |] %24
+V:2
+ [GBce]/[GBce]/ z/ [Bceg]/- [Bceg]2 [E_GBc]/[EGBc]/ z/ [CGBc]/- [CGBc]2 | %1
+ [FGce]/[FGce]/ z/ [Gcef]/- [Gcef]2 [E_GBc]/[EGBc]/ z/ [GBce]/- [GBce]2 | %2
+ [GAcf]/ z [GAcf]/- [GAcf]2 [FA=Bd]/ z [FABd]/- [FABd]2 | %3
+ [Gcef]/[Gcef]/ z/ [Gcef]/- [Gcef]2 [E_GBc]/[EGBc]/ z/ [EGBc]2 z/ | %4
+ z/ [G=Bde]/ z/ [GBde]/- [GBde]2 (3[ABd][Bdf][dfa] [df][GB] | %5
+ [CEGcd]/[CEGcd]/ z/ [CEGcd]/- [CEGcd]2 z2 [D^F=Ac][EFAd] | %6
+ [B,DFGc]/[B,DFGc]/ z/ [B,DFGc]/- [B,DFGc]2 [CEFA]/[CEFA]/ z/ [CEFA]/- [CEFA]2 | %7
+ [EGcf]/[EGcf]/ z/ [EGcf]/- [EGcf]2 [E_GBc]/[EGBc]/ z/ [EGBc]/- [EGBc]2 | %8
+ [FAcg]/ z [FAcg]/- [FAcg]2 [FA=Bd]/ z [FABd]/- [FABd]2 | %9
+ [EGcf]/[EGcf]/ z/ [EGcf]/- [EGcf]2 [E_GBc]/[EGBc]/ z/ [EGBc]2 z/ | %10
+ z/ [G=Bde]/ z/ [GBde]/- [GBde]2 (3[ABd][Bdf][dfa] [df][GB] | %11
+ [CEGcd]/[CEGcd]/ z/ [CEGcd]/- [CEGcd]2 [DEGB]/[DEGB]/ z/ [FGBd]/- [FGBd]2 | %12
+ z [GBde]/[GBde]/ z z z [DEGB]/[DEGB]/ z z | z [=B,DFA=B] z [DEG_B]/[DEGB]/ z3 [DEGB] | %14
+ z [GBde]/[GBde]/ z z z [DEGB]/[DEGB]/ z z | %15
+ [DFAce] z2 (3:2:2[DFG=Bd][DFGBd]/ [DFGBd]2 [D^F=Ac][EFAd] | %16
+ [B,DFGc]/[B,DFGc]/ z/ [B,DFGc]/- [B,DFGc]2 [CEFA]/[CEFA]/ z/ [CEFA]/- [CEFA]2 | %17
+ [EGcf]/[EGcf]/ z/ [EGcf]/- [EGcf]2 [E_GBc]/[EGBc]/ z/ [EGBc]/- [EGBc]2 | %18
+ [FAcg]/ z [FAcg]/- [FAcg]2 [FA=Bd]/ z [FABd]/- [FABd]2 | %19
+ [EGcf]/[EGcf]/ z/ [EGcf]/- [EGcf]2 [E_GBc]/[EGBc]/ z/ [EGBc]2 z/ | %20
+ z/ [G=Bde]/ z/ [GBde]/- [GBde]2 (3[ABd][Bdf][dfa] [df][GB] | %21
+ [EGcd]/[EGcd]/ z/ [Gcde]/- [Gcde]2 (3[A=Bd][Bdf][dfa] [df][GB] | %22
+ [Gcde]/[Gcde]/ z/ [cdeg]/- [cdeg]2 (3[A=Bd][Bdf][dfa] [df][GB] | (3[DFA][FA=B][ABd] [=B,FAd]6 |] %24
+V:3
+!fff! G,,/B,,/C,/E,/ B,,/E,,/D,,/C,,/ E,,/_G,,/B,,/C,/ D,/E,/C,/4_C,/4B,,/ | %1
+ C,/E,/G,/F,/ E,/C,/B,,/G,,/ E,,/4G,,/4B,,/C,/E,/ C,/G,,/F,,/4=E,,/4_E,,/ | %2
+ C,,/E,,/G,,/B,,/ D,/G,/F,/D,/ B,,,/D,,/F,,/A,,F,,/-F,,/4A,,/4=B,,/ | %3
+ C,/E,/G,/F,/ E,/C,/B,,/G,,/ E,,/4G,,/4B,,/C,/E,/ C,/G,,/B,,/4D,/4G,/ | %4
+ z/ G,,/=B,,/D,/ D,,/G,,/B,,/E,/ B,,/D,/F,/A,/ F,/D,/B,,/C,/- | %5
+ C,/E,/G,/D,/ F,/G,/E,/C,D,/E,/G,/ B,/=A,/^F,/D,/ | %6
+ B,,/D,/F,/G,/ C/G,/D,/B,,/ C,/E,/G,/B,/ C/D/G,/E,/4D,/4 | %7
+ C,/E,/G,/F,/ E,/C,/B,,/G,,/ E,,/4G,,/4B,,/C,/E,/ C,/G,,/F,,/4=E,,/4_E,,/ | %8
+ C,,/E,,/G,,/B,,/ D,/G,/F,/D,/ B,,,/D,,/F,,/A,,F,,/A,,/B,,/ | %9
+ C,/E,/G,/F,/ E,/C,/B,,/G,,/ E,,/4G,,/4B,,/C,/E,/ C,/G,,/B,,/4D,/4G,/ | %10
+ z/ G,,/=B,,/D,/ D,,/G,,/B,,/E,/ B,,/D,/F,/A,/ F,/D,/B,,/C,/- | %11
+ C,/E,/G,/D,/ F,/G,/E,/C,/ E,/G,/B,/D/ C/G,/F,/E,/- | %12
+ E,/G,/B,/D/ E/D/F/4B,/4C/ B,/G,/E,/B,,/ E,/G,/F,/4D,/4E,/ | %13
+ =B,,/D,/F,/A,/ =B,/A,/_B,/G,/ E,/D,/E,/G,/ A,/G,/F,/D,/ | %14
+ E,/G,/B,/D/ E/D/F/4B,/4C/ B,/G,/E,/B,,/ E,/G,/F,/4D,/4E,/ | %15
+ D,/F,/A,/C/ E/C/D/=B,/ G,/F,/D,/B,,/ D,/=A,,/^F,,/B,,/ | %16
+ B,,/D,/F,/G,/ C/G,/D,/B,,/ C,/E,/G,/B,/ C/D/G,/E,/4D,/4 | %17
+ C,/E,/G,/F,/ E,/C,/B,,/G,,/ E,,/4G,,/4B,,/C,/E,/ C,/G,,/F,,/4=E,,/4_E,,/ | %18
+ C,,/E,,/G,,/B,,/ D,/G,/F,/D,/ B,,,/D,,/F,,/A,,F,,/A,,/B,,/ | %19
+ C,/E,/G,/F,/ E,/C,/B,,/G,,/ E,,/4G,,/4B,,/C,/E,/ C,/G,,/B,,/4D,/4G,/ | %20
+ z/ G,,/=B,,/D,/ D,,/G,,/B,,/E,/ B,,/D,/F,/A,/ F,/D,/B,,/C,/- | %21
+ C,/E,/G,/D,/ F,/G,/E,/C,/ =B,,/D,/F,/A,/ F,/D,/B,,/C,/- | %22
+ C,/E,/G,/D,/ F,/G,/E,/C,/ =B,,/D,/F,/A,/ F,/D,/B,,/C,/ | %23
+ D,/=B,,/A,,/B,,/ D,/G,/A,/G,/ F,/D,/B,,/A,,/ [G,,G,]2 |] %24
+V:4
+ C,2 E,2 G,,2 B,,2 | C,2 D,2 F,2 C,2 | F,2 G,2 F,2 =B,2 | C,2 E,2 _G,2 A,2 | G,2 E,2 D,2 F,2 | %5
+ C,2 E,2 G,2 D,2 | C,2 E,2 G,,2 B,,2 | C,2 D,2 F,2 C,2 | F,2 G,2 F,2 =B,2 | C,2 E,2 _G,2 A,2 | %10
+ G,2 E,2 D,2 F,2 | C,2 G,2 D,2 G,2 | E,2 G,2 B,2 D,2 | =B,,2 D,2 E,2 D,2 | E,2 F,2 B,2 D,2 | %15
+ z4 (3z =B,,D, G,,2 | C,2 E,2 G,,2 B,,2 | C,2 D,2 F,2 C,2 | F,2 G,2 F,2 =B,2 | %19
+ .C,2 .E,2 ._G,2 .A,2 | z2 G,,2 D,2 =B,,2 | G,,2 E,2 F,2 A,,2 | G,,2 E,2 F,2 (3z !>!A,!>!F, | %23
+ D,8 |] %24
+

@@ -1,0 +1,64 @@
+X:1
+T:Partita V Corrente
+T:BWV 829
+T:J. S. Bach
+%%score { ( 1 3 ) | 2 }
+L:1/8
+M:3/8
+K:G
+V:1 treble nm="Harp"
+V:3 treble 
+V:2 bass 
+V:1
+ d/e/f/ | g/d/B/d/G/B/ | d/B/g/d/b/g/ | a/f/d/f/A/d/ | f/d/a/f/c'/a/ | b/g/d/g/c'/a/ | %6
+ b/g/d/g/c'/a/ | b/g/a/f/g/e/ | f/d/A/d/f/d/ | g/d/a/d/b/d/ | e/c/G/c/e/c/ | f/c/g/c/a/c/ | %12
+ ^d/B/F/B/d/B/ | e/B/f/B/g/B/ | ^c/g/d/g/e/g/ | f/d/^g/d/b/d/ | ^c/d/e/c/A/G/ | F/A/d/A/f/d/ | %18
+ ^g/a/ A2- | A/B/^c/A/e/A/ | f/g/ A2- | A/B/^c/d/e/f/ | g/a/b/^c'/d'/c'/4b/4 | a/g/ff/4e/4d/4e/4 | %24
+ a/g/ff/4e/4f/4e/4 | d/A/^G/B/E/d/ | ^c/A/E/D/^C/D/ | ^c/A/F/D/^C/D/ | B/A/G/D/^C/D/ | %29
+ A/G/F/D/^C/D/ | G/F/E/D/^C/B,/ | A,/^C/E/G/^c/e/ | ad^c | d3/2 d/e/f/ | g/d/B/d/G/B/ | %35
+ d/B/g/d/b/g/ | a/f/d/f/A/d/ | f/d/a/f/c'/a/ | b/g/d/g/c'/a/ | b/g/d/g/c'/a/ | b/g/a/f/g/e/ | %41
+ f/d/A/d/f/d/ | g/d/a/d/b/d/ | e/c/G/c/e/c/ | f/c/g/c/a/c/ | ^d/B/F/B/d/B/ | e/B/f/B/g/B/ | %47
+ ^c/g/d/g/e/g/ | f/d/^g/d/b/d/ | ^c/d/e/c/A/G/ | F/A/d/A/f/d/ | ^g/a/ A2- | A/B/^c/A/e/A/ | %53
+ f/g/ A2- | A/B/^c/d/e/f/ | g/a/b/^c'/d'/c'/4b/4 | a/g/ff/4e/4d/4e/4 | d/A/^G/B/E/d/ | %58
+ ^c/A/E/D/^C/D/ | ^c/A/F/D/^C/D/ | B/A/G/D/^C/D/ | A/G/F/D/^C/D/ | G/F/E/D/^C/B,/ | %63
+ A,/^C/E/G/^c/e/ | ad^c | d3/2 z/ a | fd^c | def | g/a/b/4a/4b/4a/4b/4a/4g/4a/4 | b2 B | e^de | %71
+ acB | ga/g/f/e/ | ^dBb- | bge- | e/^d/e/d/^c/B/ | af^d- | d/^c/e/^d/c/B/ | gfe | c'ba- | %80
+ a/g/b/a/g/f/ | e2 g | ^cAB | ^cde | fde | fga | bga | bc'd' | efg | ada | b/g/d/B/d/g/ | %91
+ a/f/^d/B/A/B/ | g/e/B/G/B/e/ | =f/d/B/G/F/G/ | e/d/c/B/A/G/ | F/A/c/d/f/a/ | d'gf | g3/2 z/ a | %98
+ fd^c | def | g/a/b/4a/4b/4a/4b/4a/4g/4a/4 | b2 B | e^de | acB | ga/g/f/e/ | ^dBb- | bge- | %107
+ e/^d/e/d/^c/B/ | af^d- | d/^c/e/^d/c/B/ | gfe | c'ba- | a/g/b/a/g/f/ | e2 g | ^cAB | ^cde | fde | %117
+ fga | bga | bc'd' | efg | ada | b/g/d/B/d/g/ | a/f/^d/B/A/B/ | g/e/B/G/B/e/ | =f/d/B/G/F/G/ | %126
+ e/d/c/B/A/G/ | F/A/c/d/f/a/ | d'gf | !fermata!g3/2 z3/2 |] %130
+V:2
+ z/ z | G,B,D | B,G, z | F,A,D | A,F, z | G,B,D | GB,D | G,CA, | DD,C | B,A,G, | CC,B, | A,G,F, | %12
+ B,B,,A, | G,F,E, | A,B,^C | DB,E, | A,A,,A,- | A,F,D,- | D,/^C,/D,/C,/B,,/A,,/ | G,E,^C,- | %20
+ C,/B,,/D,/^C,/B,,/A,,/ | F,E,D, | ^C,D,E, | F,G,A, | F,G,A, | B,E,^G, | A,A,,G, | F,D,F, | %28
+ G,B,,E, | F,A,,D, | E,G,,B,, | ^C,A,G, | F,G,,A,, | D,,3/2 z/ z | G,B,D | B,G, z | F,A,D | %37
+ A,F, z | G,B,D | GB,D | G,CA, | DD,C | B,A,G, | CC,B, | A,G,F, | B,B,,A, | G,F,E, | A,B,^C | %48
+ DB,E, | A,A,,A,- | A,F,D,- | D,/^C,/D,/C,/B,,/A,,/ | G,E,^C,- | C,/B,,/D,/^C,/B,,/A,,/ | F,E,D, | %55
+ ^C,D,E, | F,G,A, | B,E,^G, | A,A,,G, | F,D,F, | G,B,,E, | F,A,,D, | E,G,,B,, | ^C,A,G, | %64
+ F,G,,A,, | D,,3/2 A,/B,/^C/ | D/A,/F,/A,/E,/G,/ | F,/A,/G,/B,/A,/C/ | B,/D/C/E/D/F/ | %69
+ G/D/B,/D/G,/B,/ | C/B,/A,/B,/G,/B,/ | F,/A,/E,/A,/^D,/A,/ | E,/G,/D,/G,/C,/A,/ | %73
+ B,/F,/^D,/F,/A,,/_E,/ | G,,/B,,/E,/B,,/G,/E,/ | ^A,/B,/ B,,2- | B,,/^C,/^D,/B,,/F,/B,,/ | %77
+ G,/A,/ B,,2- | B,,/^C,/^D,/E,/F,/G,/ | A,/B,/^C/^D/E/D/ | EG,B, | E,/B,,/G,,/B,,/E,,/E,/ | %82
+ A,,/B,,/^C,/A,,/D,/A,,/ | E,/A,,/F,/A,,/G,/A,,/ | D,/E,/F,/D,/G,/D,/ | A,/D,/B,/D,/C/D,/ | %86
+ G,/A,/B,/G,/C/G,/ | D/G,/E/G,/=F/G,/ | C/D/C/B,/A,/G,/ | F,/E,/D,/C,/B,,/A,,/ | %90
+ G,,/B,,/D,/G,/F,/E,/ | ^D,B,,D, | E,,/G,,/B,,/E,/D,/C,/ | B,,G,,B,, | C,,G,,C,- | C,F,,A,, | %96
+ B,,,C,,D,, | G,,,3/2 A,/B,/^C/ | D/A,/F,/A,/E,/G,/ | F,/A,/G,/B,/A,/C/ | B,/D/C/E/D/F/ | %101
+ G/D/B,/D/G,/B,/ | C/B,/A,/B,/G,/B,/ | F,/A,/E,/A,/^D,/A,/ | E,/G,/D,/G,/C,/A,/ | %105
+ B,/F,/^D,/F,/A,,/_E,/ | G,,/B,,/E,/B,,/G,/E,/ | ^A,/B,/ B,,2- | B,,/^C,/^D,/B,,/F,/B,,/ | %109
+ G,/A,/ B,,2- | B,,/^C,/^D,/E,/F,/G,/ | A,/B,/^C/^D/E/D/ | EG,B, | E,/B,,/G,,/B,,/E,,/E,/ | %114
+ A,,/B,,/^C,/A,,/D,/A,,/ | E,/A,,/F,/A,,/G,/A,,/ | D,/E,/F,/D,/G,/D,/ | A,/D,/B,/D,/C/D,/ | %118
+ G,/A,/B,/G,/C/G,/ | D/G,/E/G,/=F/G,/ | C/D/C/B,/A,/G,/ | F,/E,/D,/C,/B,,/A,,/ | %122
+ G,,/B,,/D,/G,/F,/E,/ | ^D,B,,D, | E,,/G,,/B,,/E,/D,/C,/ | B,,G,,B,, | C,,G,,C,- | C,F,,A,, | %128
+ B,,,C,,D,, | !fermata!G,,,3/2 z3/2 |] %130
+V:3
+ x3/2 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z FE | F3/2 z/ z | x3 | x3 | x3 | %37
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %56
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z FE | F3/2 x3/2 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %74
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %93
+ x3 | x3 | x3 | z BA | B3/2 z/ z | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %111
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z BA | %129
+ B3/2 x3/2 |] %130
+

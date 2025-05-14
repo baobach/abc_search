@@ -1,0 +1,59 @@
+X:1
+T:James Gibb editions
+T:In pace, in idipsum - Bouzignac
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=100
+M:4/4
+K:F
+V:1 treble nm="Soprano" snm="S"
+V:2 treble nm="Alto" snm="A"
+V:3 treble-8 nm="Tenor" snm="T"
+V:4 bass nm="Bass" snm="B"
+V:1
+"^Psalm 4:9a\nPsalm 132:4" z4 A4 | (c4"^In pace, in idipsum" B4) |[Q:1/4=75] !fermata!A8 | %3
+w: In|pa\- *|ce,|
+[Q:1/4=100] z4 z2 (e2- |"^Guillaume Bouzignac\n(c. 1590-1640)" e2 d3 c) c2 | (=B2 c4 B2) | %6
+w: in|* * * i-|~di\- * *|
+[Q:1/4=75] !fermata!c8 |[Q:1/4=100] (f4 c2) (dc/B/) | A4 f2 (f2- |[M:4/4] fe d3) c (c2- | %10
+w: psum|dor- * mi\- * *|am et re\-|* * * qui- es\-|
+ c2 =B2)[Q:1/4=50] !fermata!c4 ||[Q:1/4=100] c4 (d2 c2 | B4 A2 GF) | G4 F2 (c2- | cdec) f4 | %15
+w: * * cam.|Si de\- *||de- ro som\-|* * * * num|
+ e4 d2 c2 | d4[Q:1/4=50] !fermata!c4 |[Q:1/4=100] z4 z2 f2 | (e2 f2) d2 c2 | %19
+w: o- cu- lis|me- is,|et|pal\- * pe- bris|
+ B4[Q:1/4=50] !fermata!A4 |[Q:1/4=100] c2 d2 (e2 dc | f4 e2) (dc) | d4[Q:1/4=50] !fermata!c4 || %23
+w: me- is|dor- mi- ta\- * *|* * ti\- *|o- nem.|
+[Q:1/4=100] (f4 c2) (dc/B/) | A4 f2[Q:1/4=98] (f2- | %25
+w: Dor\- * mi\- * *|am et re\-|
+[Q:1/4=96] f[Q:1/4=94]e[Q:1/4=91] d3)[Q:1/4=88] c[Q:1/4=86] (c2- | %26
+w: * * * qui- e\-|
+[Q:1/4=83] c2[Q:1/4=81] =B2)[Q:1/4=50] !fermata!c4 |] %27
+w: * * scam.|
+V:2
+ z4 F4 | F8 | !fermata!F8 | (G3 F) E2 G2 | A8 | D2 G2 G4 | !fermata!E8 | z8 | (F6 C2) | %9
+w: In|pa-|ce,|in * i- di-|psum|in i- di-|psum||dor\- *|
+[M:4/4] (DC/B,/) A,A G2 G2 | G4 !fermata!E4 || z4 z2 A2- | A2 (G3 F F2- | F2) E2 F2 F2- | %14
+w: mi\- * * am et re- qui-|es- cam.|Si|* de\- * *|* de- ro som\-|
+ F2 E4 D2- | D2 C2 G2 (G2- | G2 F2) !fermata!E4 | z2 c2 (A3 G/F/ | G2 A2) GF (F2- | %19
+w: * num o\-|* cu- lis me\-|* * is,|et pal\- * *|* * pe- bris me\-|
+ F2 E2) !fermata!F4 | z2 (F3 E) (E2- | ED) D3 C (C2- | C2 =B,2) !fermata!C4 || z8 | (F6 C2) | %25
+w: * * is|dor\- * mi\-|* * ta- ti- o\-|* * nem.||Dor\- *|
+ (DC/B,/) A,A G2 G2 | G4 !fermata!E4 |] %27
+w: mi\- * * am et re- qui-|e- scam.|
+V:3
+ A4 (c4- | c4 d4) | !fermata!c8 | (e3 f) (g2 c2) | (f4 e2 f2- | f2 e2 d4) | !fermata!c8 | z4 (f4 | %8
+w: In pa\-||ce,|in * i\- *|di\- * *||psum|dor\-|
+ c2) (dc/B/) A4 |[M:4/4][K:treble-8] f4 e2 e2 | d4 !fermata!c4 || f8 | d8 | c4 A4 | A4 A4 | %15
+w: * mi\- * * am|et re- qui-|es- cam.|Si|de-|de- ro|som- num|
+ A4 =B2 c2 | =B4 !fermata!c4 | f2 (e2 f2 d2 | c2) A2 (B2 A2) | G4 !fermata!F4 | A4 A4 | A4 A4 | %22
+w: o- cu- lis|me- is,|et pal\- * *|* pe- bris *|me- is|dor- mi-|ta- ti-|
+ G4 !fermata!c4 || z4 (f4 | c2) (dc/B/) A4 | f4 e2 e2 | d4 !fermata!c4 |] %27
+w: o- nem.|Dor\-|* mi\- * * am|et re- qui-|e- scam.|
+V:4
+ z4 F,4 | (A,4 B,4) | !fermata!F,8 | C8 | F,8 | G,8 | !fermata!C,8 | F,8 | F,4 F,4 | %9
+w: In|pa\- *|ce,|in|i-|di-|psum|dor-|mi- am|
+[M:4/4] D,4 E,3 F, | G,4 !fermata!C,4 || z8 | z8 | z8 | z8 |[M:4/4] z8 | z8 | z8 | z8 | z8 | z8 | %21
+w: et re- qui-|es- cam.|||||||||||
+ z8 |[M:4/4] z8 || F,8 | F,4 F,4 | D,4 E,3 F, | G,4 !fermata!C,4 |] %27
+w: ||Dor-|mi- am|et re- qui-|e- scam.|
+

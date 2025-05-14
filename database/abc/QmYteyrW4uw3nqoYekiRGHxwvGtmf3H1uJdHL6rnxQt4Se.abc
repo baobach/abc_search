@@ -1,0 +1,42 @@
+X:1
+T:Rimsky-Korsakov Harmonic Exercises, Modulations (5)
+T:Rimsky-Korsakov Harmonic Exercises, Modulations (5)
+T:Realizations by S. Shchetnikov
+T:"Practical Manual of Harmony" (1885)
+C:Realizations by S. Shchetnikov
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/2=80
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"""^Example by Rimsky-Korsakov (a -- G):""^Periods with modulation""_a:" A4"" B4 |"" c4"" A4 | %2
+"" G4"" F4 |"""" E8 |"""_a:""_G:""_{" E4 ^F4 | G8 | G4 ^F4 | G8 |] %8
+[K:B]"""^Exercise: own composition.\n\n\nRealization (g♯ -- E):\n\n\n""_g♯:" G4"" ^^F4 | %9
+"" G4"" d4 |"" c4"" A4 |"""_g♯:""_E:""_{" B4 =A4 | G4 F4 | G4 B4 | c4 B2 =A2 | G8 |] %16
+[K:C][M:3/2]"""^Example by Rimsky-Korsakov (a -- E):""_a:""_C:""_{" c4 d4 B4 | %17
+ c4 =A4"""_C:""_a:""_{" B4 |"" ^G4"""_a:""_d:""_{" A4 =G4 |"""_d:""_a:""_{" F4"""" E8 | %20
+"""_a:""_E:""_{" E4 ^D4 ^F4 |"""""_E:""_a:""_{" B8"""_a:""_E:""_{" A4 | ^G4 ^F8 | E12 |] %24
+[K:B]"""^Exercise: own composition.\n\nRealization (B  --  e):\n""_B:" B4"" c4"""_B:""_c♯:""_{" B4 | %25
+ =A4"""_c♯:""_B:""_{" G4"" e4 |"" d4"" c4"""_B:""_e:""_{" B4 | =g4 f4"""_e:""_a:""_{" e4 | %28
+"" =d4"""_a:""_e:""_{" =c4 f4 |"""_e:""_a:""_{" e4"" =d4"""_a:""_e:""_{" =c4 | B4 e4 d4 | e12 |] %32
+V:2
+ E8 | E8 | E4 D4 | B,8 |"""" A,8 |"" D4"" C4 |"" B,4"" C4 |"" B,8 |][K:B] D8 | D8 | G4 ^^F4 | %11
+"""" D8 |"" E4"" F4 |"" E4"" G4 |"""""" F8 |"" E8 |][K:C][M:3/2]"" A4"" _A4"" G4 |"" G4"""" F8 | %18
+"""" E12 |"" D4 B,8 |"" A,4"" B,4"" ^D4 |"""" E12 |"" E4"""" ^D8 |"" E12 |][K:B]"" F12 | %25
+"" F4"" E4 F4 | F4 A4"" B4 |"""""" B12 | B4"""" =A8 |"" =G4 ^G4"" =A4 |"" =G8"" =A4 |"" =G12 |] %32
+V:3
+ C4 B,4 | A,4 C4 | C4 A,4 | ^G,8 | E,4 _E,4 | D,4 _E,4 | D,8 | D,8 |][K:B] B,4 C4 | B,4 A,4 | %10
+ G,4 A,4 | G,4 B,4 | B,8 | B,4 E4 | E4 D4 | B,8 |][K:C][M:3/2] E4 D8 | G,4 C4 D4 | B,4 A,4 _B,4 | %19
+ A,4 ^G,8 | A,4 ^F,4 B,4 | B,4 D4 C4 | B,8 A,4 | ^G,12 |][K:B] D4 E4 D4 | D4 E4 C4 | B,4 F8 | %27
+ E4 ^D4 E4 | =F4 E4 D4 | E12 | E8 F4 | E12 |] %32
+V:4
+ A,4 ^G,4 | A,4 A,,4 | C,4 D,4 | E,4 D,4 | C,8 | B,,4 C,4 | D,8 | G,,8 |][K:B] G,4 A,4 | G,4 F,4 | %10
+ E,4 D,4 | G,4 F,4 | E,4 D,4 | E,8 | =A,,4 B,,4 | E,8 |][K:C][M:3/2] A,4 F,8 | E,4 F,4 D,4 | %18
+ E,4 C,4 ^C,4 | D,4 E,4 D,4 | C,4 B,,4 A,,4 | ^G,,8 A,,4 | B,,12 | E,12 |][K:B] B,,4 A,,4 B,,4 | %25
+ ^B,,4 C,4 ^A,,4 | B,,4 C,4 D,4 | E,4 F,4 =G,4 | ^G,4 =A,4 B,4 | =C4 B,4 =A,4 | B,8 B,,4 | E,12 |] %32
+

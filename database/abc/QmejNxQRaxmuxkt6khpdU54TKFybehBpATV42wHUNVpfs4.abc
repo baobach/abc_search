@@ -1,0 +1,70 @@
+X:1
+T:Für Elise
+T:This OpenScore Edition is available for dedication.
+T:Für Elise
+T:Bagatelle No. 25 in A Minor (WoO 59)
+T:Ludwig van Beethoven
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+C:Ludwig van Beethoven
+Z:OpenScore (CC0)
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=72
+M:3/8
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+|:"^Poco moto"!pp! e/^d/ | e/^d/e/B/=d/c/ | A z/ C/E/A/ | B z/ E/^G/B/ | c z/ E/e/^d/ | %5
+ e/^d/e/B/=d/c/ | A z/ C/E/A/ | B z/ E/c/B/ |1 A2 :|2 A z/ B/c/d/ |: e3/2 G/f/e/ | d3/2 F/e/d/ | %12
+ c3/2 E/d/c/ | B z/ E/e/ z/ | z/ e/e'/ z ^d/ | e z/ ^d/e/d/ | e/^d/e/B/=d/c/ | A z/ C/E/A/ | %18
+ B z/ E/^G/B/ | c z/ E/e/^d/ | e/^d/e/B/=d/c/ | A z/ C/E/A/ | B z/ D/c/B/ |1 A z/ B/c/d/ :|2 %24
+ A z/ [Ec]/[Fc]/[EGc]/ ||{FA} c2 f/>e/ | (ed) _b/>a/ | (a/g/f/e/d/c/) | _BA{B} A/4G/4A/4B/4 | %29
+ c2 d/^d/ | e3/2 e/f/A/ | c2 d/>B/ | c/4g/4G/4g/4 A/4g/4B/4g/4 c/4g/4d/4g/4 | %33
+ e/4g/4c'/4b/4 a/4g/4f/4e/4 d/4g/4f/4d/4 | c/4g/4G/4g/4 A/4g/4B/4g/4 c/4g/4e/4g/4 | %35
+ e/4g/4c'/4b/4 a/4g/4f/4e/4 d/4g/4f/4d/4 | d/4f/4e/4^d/4 e/4B/4e/4d/4 e/4B/4e/4d/4 | e3/2 B/e/^d/ | %38
+ e3/2 (B/e/) (^d/ | e/) (^d/e/) (d/e/) (d/ | e/)^d/e/B/=d/c/ | A z/ C/E/A/ | B z/ E/^G/B/ | %43
+ c z/ E/e/^d/ | e/^d/e/B/=d/c/ | A z/ C/E/A/ | B z/ D/c/B/ | A z/ B/c/d/ | e3/2 G/f/e/ | %49
+ d3/2 F/e/d/ | c3/2 E/d/c/ | B z/ (E/e/) z/ | z/ (e/e'/) z (^d/ | e/) z ^d/e/d/ | e/^d/e/B/=d/c/ | %55
+ A z/ C/E/A/ | B z/ E/^G/B/ | c z/ E/e/^d/ | e/^d/e/B/=d/c/ | A z/ C/E/A/ | B z/ D/c/B/ | A z z | %62
+ [EG_B^c]3 | [FAd]2 [^ce]/[df]/ | [^Gdf]2 [Gdf] | [Ace]3 | [Fd]2 [Ec]/[DB]/ | [C^FA]2 [CA] | %68
+ [CA][Ec][DB] | [CA]3 | [EG_B^c]3 | [FAd]2 [^ce]/[df]/ | [df]2 [df] | [df]3 | [G_e]2 [Fd]/[_Ec]/ | %75
+ [DF_B]2 [DFA] | [DF^G]2 [DFG] | [CEA]2 z | [EB] z z |!pp! (3A,/C/E/ (3A/c/e/ (3d/c/B/ | %80
+ (3A/c/e/ (3a/c'/e'/ (3d'/c'/b/ |!8va(! (3a/c'/e'/ (3a'/c''/e''/ (3d''/c''/b'/ | %82
+ (3_b'/a'/^g'/ (3=g'/!8va)!^f'/=f'/ (3e'/^d'/=d'/ | (3^c'/=c'/b/ (3_b/a/^g/ (3=g/^f/=f/ | %84
+ e/^d/e/B/=d/c/ | A z/ C/E/A/ | B z/ E/^G/B/ | c z/ E/e/^d/ | e/^d/e/B/=d/c/ | A z/ C/E/A/ | %90
+ B z/ D/c/B/ | A z/ B/c/d/ | e3/2 G/f/e/ | d3/2 F/e/d/ | c3/2 E/d/c/ | B z/ (E/e/) z/ | %96
+ z/ (e/e'/) z (^d/ | e/) z ^d/e/d/ | e/^d/e/B/=d/c/ | A z/ C/E/A/ | B z/ E/^G/B/ | c z/ E/e/^d/ | %102
+ e/^d/e/B/=d/c/ | A z/ C/E/A/ | B z/ D/c/B/ | A z |] %106
+V:2
+|: z | z3 |!ped! A,,/E,/A,/ z/ z |!ped! E,,/!ped-up!E,/^G,/ z/ z |!ped! A,,/!ped-up!E,/A,/ z/ z | %5
+ z3 |!ped! A,,/E,/A,/ z/ z!ped-up! |!ped! E,,/!ped-up!E,/^G,/ z/ z |1 A,,/E,/A,/ z/ :|2 %9
+ A,,/E,/A,/ z/ z |:!ped! C,/G,/C/ z/ z!ped-up! |!ped! G,,/!ped-up!G,/B,/ z/ z | %12
+!ped! A,,/!ped-up!E,/A,/ z/ z | E,,/E,/E/ z[K:treble] (E/ |e/) z ^d/e/ z/ | z/ ^d/e/ z/ z | z3 | %17
+[K:bass]!ped! A,,/E,/A,/ z/ z!ped-up! |!ped! E,,/!ped-up!E,/^G,/ z/ z | %19
+!ped! A,,/!ped-up!E,/A,/ z/ z | z3 |!ped! A,,/E,/A,/ z/ z!ped-up! | %22
+!ped! E,,/!ped-up!E,/^G,/ z/ z |1 A,,/E,/A,/ z/ z :|2 A,,/E,/A,/ [_B,C]/[A,C]/[G,B,C]/ || %25
+ F,/A,/C/A,/C/A,/ | F,/_B,/D/B,/D/B,/ | F,/E/[F,G,_B,]/E/[F,G,B,]/E/ | F,/A,/C/A,/C/A,/ | %29
+ F,/A,/C/A,/C/A,/ | E,/A,/C/A,/[D,D]/F,/ | G,/E/G,/F/G,/F/ |[K:treble] [CE] z/ [FG]/[EG]/[DFG]/ | %33
+ [CEG][K:bass] [F,A,][G,B,] |[K:treble] C z/ [FG]/[EG]/[DFG]/ | [CE][K:bass] [F,A,][G,B,] | %36
+ [^G,B,] z z | z3 | z3 | z3 | z3 | A,,/E,/A,/ z/ z |!ped! E,,/E,/^G,/ z/ z!ped-up! | %43
+!ped! A,,/!ped-up!E,/A,/ z/ z | z3 |!ped! A,,/E,/A,/ z/ z!ped-up! |!ped! E,,/!ped-up!E,/^G,/ z/ z | %47
+ A,,/E,/A,/ z/ z |!ped! C,/G,/C/ z/ z!ped-up! | G,,/G,/B,/ z/ z | A,,/E,/A,/ z/ z | %51
+!ped! E,,/E,/E/ z[K:treble] (E/!ped-up! |e/) z (^d/e/) z/ | z/ (^d/e/) z/ z | z3 | %55
+[K:bass] A,,/E,/A,/ z/ z | E,,/E,/^G,/ z/ z | A,,/E,/A,/ z/ z | z3 | A,,/E,/A,/ z/ z | %60
+ E,,/E,/^G,/ z/ z | !//!A,,3 | !//!A,,3 | !//!A,,3 | !//!A,,3 | !//!A,,3 | [D,,A,,]3 | [^D,,A,,]3 | %68
+ !//![E,,A,,]2 [E,,^G,,]/[E,,G,,]/ | [A,,,A,,]/A,,/ !//!A,,2 | !//!A,,3 | !//!A,,3 | !//!A,,3 | %73
+ !//!_B,,3 | !//!_B,,3 | !//!_B,,3 | !//!B,,3 | C,2 z | [E,^G,] z z |!ped! A,,, z [A,CE]!ped-up! | %80
+ [A,CE] z [A,CE] | [A,CE] z [A,CE] | [A,CE] z z | z z z | z3 |!ped! A,,/E,/A,/ z/ z!ped-up! | %86
+!ped! E,,/!ped-up!E,/^G,/ z/ z |!ped! A,,/!ped-up!E,/A,/ z/ z | z3 |!ped! A,,/E,/A,/ z/ z!ped-up! | %90
+!ped! E,,/!ped-up!E,/^G,/ z/ z | A,,/E,/A,/ z/ z |!ped! C,/G,/C/ z/ z!ped-up! | %93
+!ped! G,,/!ped-up!G,/B,/ z/ z |!ped! A,,/!ped-up!E,/A,/ z/ z | %95
+!ped! (E,,/!ped-up!E,/E/) z[K:treble] (E/ |e/) z ^d/e/ z/ | z/ ^d/e/ z/ z | z3 | %99
+[K:bass]!ped! A,,/E,/A,/ z/ z!ped-up! |!ped! E,,/!ped-up!E,/^G,/ z/ z | %101
+!ped! A,,/!ped-up!E,/A,/ z/ z | z3 |!ped! A,,/E,/A,/ z/ z!ped-up! |!ped! E,,/!ped-up!E,/^G,/ z/ z | %105
+ [A,,,A,,] z |] %106
+

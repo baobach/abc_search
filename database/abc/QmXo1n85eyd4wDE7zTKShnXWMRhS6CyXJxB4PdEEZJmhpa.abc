@@ -1,0 +1,36 @@
+X:1
+T:That Score
+T:That Score
+T:Didn't I know where this was going
+T:Robert van der Tuuk
+C:Robert van der Tuuk
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=100
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^\n\n" A2 A2 A2 Bc | E2 z2 z4 | G2 G2 G2 AB | D2 z2 z4 :: AABc Bccd | e8 | GGAB ABBc | d8 :| %8
+ A2 Bc B c2 d | E8 | G2 AB A B2 c | D8 | A2 Bc B c2 d | e2 dc dc z A | G2 AB A B2 c | d8 | %16
+ A2 Bc Bc d2 | e8 | GGAB A B2 c | D8 | A2 Bc B c2 d | e2 dc dc z A | G2 AB A B2 c | d2 ^F2 A2 z G | %24
+ A2 Bc Bc d2 | e2 z B A4 | GGAB A B2 c | D4 G4 | A2 Bc B c2 d | e2 dc dc z A | G2 AB A B2 c | %31
+ d2 ^F2 A2 z G | A2 Bc Bc d2 | e2 z B A4 | GGAB A B2 c | D4 G4 | A2 A2 A2 Bc | E2 z2 z4 | %38
+ G2 G2 G2 AB | D8 | ^F8 | !fermata!A8 |] %42
+V:2
+!ped! [E,A,C]8!ped-up! |!ped! [E,^G,B,]8!ped-up! |!ped! [D,G,B,]8!ped-up! | %3
+!ped! [D,^F,A,]8!ped-up! ::!ped! [E,A,C]8!ped-up! |!ped! [E,^G,B,]8!ped-up! | %6
+!ped! [D,G,B,]8!ped-up! |!ped! [D,^F,A,]8!ped-up! :|!ped! [E,A,C]8!ped-up! | %9
+!ped! [E,^G,B,]8!ped-up! |!ped! [D,G,B,]8!ped-up! |!ped! [D,^F,A,]8!ped-up! | %12
+!ped! E,3 A, C3 E,!ped-up! |!ped! E,2 ^G,2 B,3 E,!ped-up! |!ped! D,2 G,2 B,2 D,2!ped-up! | %15
+!ped! D,2 ^F,2 A,3 D,!ped-up! |!ped! E,2 A,2 C3 E,!ped-up! |!ped! E,2 ^G,2 B,3 E,!ped-up! | %18
+!ped! D,2 G,2 B,2 D,2!ped-up! |!ped! D,2 ^F,2 A,3 D,!ped-up! |!ped! E,3 A, C2 E,2!ped-up! | %21
+!ped! E,3 ^G, B,2 E,2!ped-up! |!ped! D,3 G, B,2 D,2!ped-up! |!ped! D,3 ^F, A,2 D,2!ped-up! | %24
+!ped! E,3 A, C2 E,2!ped-up! |!ped! E,3 ^G, B,2 E,2!ped-up! |!ped! D,3 G, B,2 D,2!ped-up! | %27
+!ped! D,3 ^F, A,2 D,2!ped-up! |!ped! E,2 A,3 C A,2!ped-up! |!ped! E,2 ^G,3 B, G,2!ped-up! | %30
+!ped! D,2 G,3 B, G,2!ped-up! |!ped! D,2 ^F,3 A, F,2!ped-up! |!ped! E,2 A,,3 C, A,,2!ped-up! | %33
+!ped! E,2 ^G,,3 B,, G,,2!ped-up! |!ped! D,2 G,,3 B,, G,,2!ped-up! | %35
+!ped! D,2 ^F,,3 A,, F,,2!ped-up! |!ped! E,2 A,2 C3 A,!ped-up! |!ped! E,2 ^G,2 B,3 G,!ped-up! | %38
+!ped! D,2 G,2 B,3 G,!ped-up! |!ped! D,2 ^F,2 A,4!ped-up! |!ped! [D,^F,A,]8!ped-up! | [A,,,A,,]8 |] %42
+

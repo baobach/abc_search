@@ -1,0 +1,32 @@
+X:1
+T:Rimsky-Korsakov Harmonic Exercises,
+T:Polytonic progressions
+T:Rimsky-Korsakov Harmonic Exercises, Polytonic progressions (1)
+T:"Practical Manual of Harmony" (1885)
+T: 
+T:Remark by Bernard Greenberg: We will use the expression “Polytonic” progressions in the following sections, for what Rimsky-Korsakov calls "ложные последовательности”, elliptical (in the original sense of “ellipsis”, i.e., a deliberate omission) progressions, following the 1910 French edition. The English edition calls them “false progressions”, a terminology not commonly used, and falsely implying that the are erroneous (yet, he gives guidelines for them). The extremely common “false cadence” he gives is called a “deceptive cadence” in English, but “deceptive” is not a fair characterization of all these “abrupt modulations”. Hence, we will go with the polytonique of the French edition, noting how they join two tonalities (-BSG). 
+T:Next, the text of Rimsky-Korsakov: 1) Any connection of two chords that belong to different keys is called a polytonic progression. 2)To use the polytonic progression, you need smooth voice leading and, if possible, leave the common tones motionless. 3)The more common tones in a polytonic progression, the softer it sounds. 4) The most common are deceptive cadences and polytonic progression of seventh chords. 
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/2=50
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"""""_C:""^Deceptive cadences" (d8 |"" !breath!c8) |] %2
+[Q:1/2=90]"^Three options for continuing:" (d8 | c8 | c8 | c8 | B8 | !breath!c8) |] (d8 | c8 | d8 | %11
+ c8 | B8 | !breath!c8) |] (d8 | c8 | _d8 | c8 | B8 | !breath!c8) |][K:Eb][Q:1/2=50] (=B8 | %21
+ !breath!c8) |][Q:1/2=70] (=B8 | c8 | c8 | =B8 | c8) |] %27
+V:2
+ (B8 | c8) |] (B8 | c8 | _A8 | G8 | G4 F4 | E8) |] (B8 | c8 | _A8 | G8 | G4 F4 | E8) |] (B8 | c8 | %16
+ _A8 | G8 | G4 F4 | E8) |][K:Eb] (G8 | =A8) |] (G8 | =A8 | G8 | G4 F4 | E8) |] %27
+V:3
+ (G4 F4 | _E8) |] (G4 F4 | _E8 | F8 | =E8 | D8 | C8) |] (G4 F4 | _E8 | F8 | =E8 | D8 | C8) |] %14
+ (G4 F4 | _E8 | F8 | =E8 | D8 | C8) |][K:Eb] (D8 | E8) |] (D8 | E8 | E8 | D8 | C8) |] %27
+V:4
+ (G,8 | _A,8) |] (G,8 | _A,8 | F,8 | G,8 | G,8 | C,8) |] (G,8 | _A,8 | F,8 | G,8 | G,8 | C,8) |] %14
+ (G,8 | _A,8 | F,8 | G,8 | G,8 | C,8) |][K:Eb] (G,8 | ^F,8) |] (G,8 | ^F,8 | G,8 | G,8 | C,8) |] %27
+

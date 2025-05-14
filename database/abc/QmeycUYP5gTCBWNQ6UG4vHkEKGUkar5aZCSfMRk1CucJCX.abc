@@ -1,0 +1,64 @@
+X:1
+T:In stille aanbidding
+T:In stille aanbidding
+T:Jef Tinel (1885 - 1972)
+T:Ad van de Wege
+T:Ad van de Wege
+C:Jef Tinel (1885 - 1972)
+Z:Ad van de Wege
+%%score { ( 1 2 5 ) | ( 3 6 ) | 4 }
+L:1/8
+Q:1/4=52
+M:3/4
+K:Eb
+V:1 treble nm="Orgel" snm="Org."
+V:2 treble 
+V:5 treble 
+V:3 bass 
+V:6 bass 
+V:4 bass 
+V:1
+"^Lento (langzaam)"!p! G2 | A3 A GF | B4 cd | e2 de gf | e2 d2 cd | e2 ((B2 B)(A | A2)) G2 Gc | %7
+ B4 =A2 | G4 G2 | A3 A GF | B4 cd | e2 defc | c2 d2 de | d2 c2 cd | c2 B2 =AG | FG=ABcd | %16
+ (B2 B)!pp!=ABc | (_d6 | d)_dcBAG | B2 AGAB | (_c6 | c)_cBA_GF | A2 _G z z2 || %23
+[M:4/4]"^Langzamerhand zwellen" z4 z ABc | _d2 c2 BBc=d | e B2 =A _A3 G | c_G (G2 G)F=G_A | %27
+"^een weinig versnellen en immer zwellen" BFGE cGAF | d=ABG fcdf | %29
+"^verminderen en vertragen"!f! f e2 d d c2 B | B8 | (([FB]4 !fermata![FB]2))!p! G2 || %32
+[M:3/4][Q:1/4=52]"^Tempo I" A3 (A (3(A)G)F | B4 (3(Bc)d | e2 de gf | e2 d2 (3(dc)B | %36
+ e2 (B2 (3(B)c)(A | A2) (G2 (3(G)=A)c | B4 =A2 | G4 G2 | A3 (A (3(A)G)F | B3 (B (3(B)A)G | %42
+ c3 (c (3(c)d)=e | f2 (a4 |"^poco riten ..." a)gfece | %45
+ e2"^molto riten ..." B2"^a tempo" !fermata!BE | BAGEGF |"^Riten......................" E4 D2 | %48
+ (E6 | !fermata!E2) z4 |] %50
+V:2
+ (E2 | E2) D4 | F2 E2 A2 | G2 B3 A | G2 F4 | E4 D2 | E2 F2 E2 | D2 G2 ^F2 | D4 (E2 | E2) D4 | %10
+ F2 E2 A2 | G4 (F2 | (F6) | F2) =E2 (_E2 | E2) D2 ^C2 | D2 (F2 G)=A | (F2 F) z z2 | z c BAGF | %18
+ =E6 | G=E F z z2 | z BA_GFE | =D6 | FDEEF_G ||[M:4/4] A2 _G2 (F4 | F2) _E2 _D2 EF | %25
+ E2 C2 E=D _D2 | C2 =A,2 (B,4 | B,4) C4 | D2 E2 (F2 [FB]2) | [FB]2 [_G=A]2 [F_A]2 ([E=G]2 | %30
+ F2) x2 G4 | E4 D2 E2 ||[M:3/4] E2 D4 | F2 E2 A2 | G2 (B2 B)A | G2 F4 | E4 D2 | E2 F2 _E2 | %38
+ D2 G2 ^F2 | D4 E2 | E2 D4 | F2 E2 =E2 | G2 F2 B2 | A2 (c4 | c)BAG F2 | (E4 E) z | _E3 C3 | %47
+ B,2 =A,2 _A,2 | A,2 (G,4 | G,2) x4 |] %50
+V:3
+ B,2 | (B,6 | B,4) A,2 | B,2 E2 C2 | (B,6 | (B,6) | B,2) =B,2 CG, | G,2 B,2 (C2 | C2) B,2 (B,2 | %9
+ (B,6) | B,4) A,2 | C6 | _B,4 =B,2 | _B,4 =A,2 | _A,4 G,=A, | B,2 CD E2 | E2 D z z2 | z2 z F,G,A, | %18
+ G,4 A,B, | _D2 C z z2 | z2 z E,F,_G, | F,4 _G,A, | _C2 B, z z2 ||[M:4/4] z8 | %24
+ z F,=G,=A, B,2 _A,2 | _G,4 F,2 =E,2 | _E,3 C, D,2 E,F, | D,2 E,2 =E,2 F,2 | ^F,2 G,2 _A,4 | (B,8 | %30
+ (B,8) | (B,4) B,2) (B,2 ||[M:3/4] B,6) | B,4 A,2 | B,2 E2 C2 | (B,6 | (B,6) | B,2) =B,2 CG, | %38
+ G,2 B,2 (C2 | C2) B,2 B,2 | (B,6 | B,4) (C2 | C4) B,2 | C2 (F,4 | F,)G,A,B,C_C | %45
+ (([G,B,]4 !fermata![G,B,])) z | _DCB,G,B,A, | G,2 ^F,2 =F,2 | (E,6 | E,2) z4 |] %50
+V:4
+!p! E,2 | F,4 A,2 | G,4 F,2 | G,4 A,2 | B,4 A,2 | G,4 F,2 | E,2 D,2 C,2 | D,6 | G,4 E,2 | F,4 A,2 | %10
+ G,4 F,2 | C,2 B,2 =A,2 | _A,6 | G,4 _G,2 | F,4 =E,2 | F,4 F,,2 | (B,,2 B,,) z z2 |!pp! B,,6 | %18
+ C,6 | (F,2 F,) z z2 | A,,6 | B,,6 | (E,2 E,) z z2 ||[M:4/4] z A,,B,,C, _D,2 C,2 | (B,,8 | (B,,8) | %26
+ (B,,8) | (B,,8) | (B,,8) | (B,,8) | (B,,8) | (B,,4) B,,2)!p! E,2 ||[M:3/4] F,4 A,2 | G,4 F,2 | %34
+ G,4 A,2 | B,4 A,2 | G,4 F,2 | E,2 D,2 C,2 | D,6 | G,4 E,2 | F,4 A,2 | G,4 B,2 | A,4 G,2 | %43
+ F,4 E,2 | D,E,F,G,A,F, | (B,,4 !fermata!B,,) z | G,,_A,,B,,C, A,,2 | B,,6 | %48
+"_27 december 1917\ntijdsduur 3'00''\n" (E,,6 | E,,2) z4 |] %50
+V:5
+ x2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 ||[M:4/4] x8 | x8 | x8 | x8 | x8 | x8 | x8 | EDEF F2 E2 | x8 ||[M:3/4] x6 | x6 | %34
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %50
+V:6
+ x2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 ||[M:4/4] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 ||[M:3/4] x6 | x6 | x6 | %35
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z4 A,2 | x6 | x6 | (B,,6 | (B,,6) | B,,2) x4 |] %50
+

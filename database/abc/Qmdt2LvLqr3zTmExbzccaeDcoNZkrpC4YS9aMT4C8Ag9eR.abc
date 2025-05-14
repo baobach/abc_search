@@ -1,0 +1,79 @@
+X:1
+T:The Ecstasy of Gold
+T:The Ecstasy of Gold
+T:Piano solo
+T:Ennio Morricone Arr: Anders Thue 
+C:Ennio Morricone
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=85
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+!p! ([A,B,]/C/A,/E,/) (B,/C/A,/E,/) (B,/C/A,/E,/) (B,/C/A,/E,/) | %1
+ (B,/C/A,/E,/) (B,/C/A,/E,/) (B,/C/A,/E,/) (B,/C/A,/E,/) | %2
+ (!tenuto!A,/E,/A,/E,/) !tenuto!E/-E,/A,/E,/ (B,/C/A,/E,/) (B,/C/A,/E,/) | %3
+ z/ (G,/C/G,/) (D/E/C/G,/) (D/E/C/G,/) (D/E/C/G,/) | %4
+ (!tenuto!G/G,/C/G,/) (!tenuto!E/-G,/C/G,/) (D/E/C/G,/) (D/E/C/G,/) | %5
+[M:2/4] (D/E/C/G,/) (D/E/C/G,/) |[M:4/4] z/ A,/D/E/ D/A,/E/D/ A,>E DA, | %7
+ (!tenuto!A,/F,/A,/!tenuto!B,/) (!tenuto!A,/F,/A,/F,/) (B,/C/A,/F,/) (B,/C/A,/F,/) | %8
+[M:2/4] (B,/C/A,/F,/) (B,/C/A,/F,/) | %9
+[M:4/4] ([A,B,]/C/A,/E,/) (B,/C/A,/E,/) (B,/C/A,/E,/) (B,/C/A,/E,/) | %10
+ (!tenuto!A,/E,/A,/E,/) !tenuto!E/-E,/A,/E,/ (B,/C/A,/E,/) (B,/C/A,/E,/) | %11
+ (B,/D/B,/A,/) (B,/D/B,/A,/) (B,/D/B,/A,/) (B,/D/B,/A,/) | %12
+ !tenuto!B/B,/D/B,/ !tenuto!G/B,/D/B,/ A,/B,/A,/D,/ A,/B,/A,/D,/ | %13
+ A,/B,/A,/D,/ A,/B,/A,/D,/ A,/B,/A,/D,/ A,/B,/A,/D,/ | z/ G,/E/G/ E/D/C/D/ E>G CD | %15
+[M:6/4]"_cresc." [G,CE]4 [A,B,E]4[Q:1/4=87] [^G,B,E]4 | %16
+[M:4/4][Q:1/4=90]!mf! (!tenuto!A,/E,/A,/E,/) !tenuto!E/-E,/A,/E,/ (B,/C/A,/E,/) (B,/C/A,/E,/) | %17
+ (!tenuto!G/G,/C/G,/) (!tenuto!E/-G,/C/G,/) (D/E/C/G,/) (D/E/C/G,/) | %18
+[M:2/4] (D/E/C/G,/) (D/E/C/G,/) |[M:4/4] z/ A,/D/E/ D/A,/E/D/ A,>E DA, | %20
+ (!tenuto!A,/F,/A,/!tenuto!B,/) (!tenuto!A,/F,/A,/F,/) (B,/C/A,/F,/) (B,/C/A,/F,/) | %21
+ (!tenuto!A,/E,/A,/E,/) !tenuto!E/-E,/A,/E,/ (B,/C/A,/E,/) (B,/C/A,/E,/) | %22
+ !tenuto!B/B,/D/B,/ !tenuto!G/B,/D/B,/ A,/B,/A,/D,/ A,/B,/A,/D,/ | z/ G,/E/G/ E/D/C/D/ E>G CD | %24
+ [A,B,E]4 [^G,B,E]4 | [E,A,]2 [A,CE]2- [A,CE]4 | [G,CG]2 [G,CE]2- [G,CE]4 | %27
+[M:2/4] z D/E/ D/A,/E/D/ |[M:4/4] !tenuto!A,2 !tenuto![A,C]2 !tenuto![A,CF]2 !tenuto![A,CFA]2 | %29
+[M:2/4] !tenuto![G,CEG]4 | %30
+[M:4/4][Q:1/4=93]"_cresc." !tenuto![^G,B,E]2 !tenuto![B,E^G]2 !tenuto![EGB]2 !tenuto![EGBd]2 | %31
+[Q:1/4=95] !tenuto![CEAc]4 !tenuto![D^FAd]4 |: %32
+!f![Q:1/4=97] !tenuto![A,CEA]2 !tenuto![EAce]2 !tenuto![Aa]2 !tenuto![ee']2 | %33
+ !tenuto![Gceg]2 !tenuto![EGce]2 !tenuto![gg']2 !tenuto![ee']2 | %34
+ !tenuto![^F,A,D]2 !tenuto![A,D^FA]2 !tenuto![dd']2 !tenuto![aa']2 | %35
+ !tenuto![CFAc]2 !tenuto![CFA]2 [c'c'']2 [aa']2 :| %36
+ [CFAc]2[Q:1/4=90] [CFA]2[Q:1/4=80]"_ritardando" [F,A,C]2[Q:1/4=55] [C,-F,A,-]2 | %37
+[Q:1/4=50] !tenuto!!fermata![C,E,A,]8 |] %38
+V:2
+!ped! [A,,,A,,]8- | [A,,,A,,]8!ped-up! |!ped! A,,,8!ped-up! |!ped! [C,,C,]8- | C,,8- | %5
+[M:2/4] C,,4!ped-up! |[M:4/4]!ped! D,,8!ped-up! |!ped! F,,8- |[M:2/4] F,,4!ped-up! | %9
+[M:4/4]!ped! [A,,,A,,]8!ped-up! |!ped! A,,,8!ped-up! |!ped! [G,,,G,,]8- | G,,,8- | G,,,8!ped-up! | %14
+!ped! [C,,C,]4- [C,,C,]C,- C,2!ped-up! | %15
+[M:6/4]!ped! C,,2 C,2!ped-up!!ped! E,,2 E,2!ped-up!!ped! E,,,2 E,,2!ped-up! | %16
+[M:4/4]!ped! A,,,8!ped-up! |!ped! C,,8- |[M:2/4] C,,4!ped-up! |[M:4/4]!ped! D,,8!ped-up! | %20
+!ped! F,,,8!ped-up! |!ped! A,,,8!ped-up! |!ped! G,,,8!ped-up! |!ped! C,,2 C,2 C,,2 C,2!ped-up! | %24
+!ped! E,,,2 E,,2!ped-up!!ped! E,,,2 E,,2!ped-up! | %25
+!ped! [A,,,A,,][A,,,A,,]/[A,,,A,,]/ [A,,,A,,][A,,,A,,]/[A,,,A,,]/ [A,,,A,,][A,,,A,,]/[A,,,A,,]/ [A,,,A,,][A,,,A,,]/[A,,,A,,]/!ped-up! | %26
+!ped! [C,,G,,C,][C,,G,,C,]/[C,,G,,C,]/ [C,,G,,C,][C,,G,,C,]/[C,,G,,C,]/ [C,,G,,C,][C,,G,,C,]/[C,,G,,C,]/ [C,,G,,C,][C,,G,,C,]/[C,,G,,C,]/!ped-up! | %27
+[M:2/4]!ped! [D,,A,,D,]4!ped-up! |[M:4/4]!ped! F,,,2 F,,2 F,,,2 F,,2!ped-up! | %29
+[M:2/4]!ped! C,,2 C,2!ped-up! |[M:4/4]!ped! E,,,2 E,,2 E,,,2 E,,2!ped-up! | %31
+!ped! [A,,,A,,]2 [A,,E,A,]2!ped-up!!ped! [D,,,D,,]2 [D,^F,A,]2!ped-up! |: %32
+!ped! [A,,,A,,][A,,,A,,]/[A,,,A,,]/ [A,,,A,,][A,,,A,,]/[A,,,A,,]/!ped-up!!ped! [A,,,A,,][A,,,A,,]/[A,,,A,,]/ [A,,,A,,][A,,,A,,]/[A,,,A,,]/!ped-up! | %33
+!ped! [C,,G,,C,][C,,G,,C,]/[C,,G,,C,]/ [C,,G,,C,][C,,G,,C,]/[C,,G,,C,]/!ped-up!!ped! [C,,G,,C,][C,,G,,C,]/[C,,G,,C,]/ [C,,G,,C,][C,,G,,C,]/[C,,G,,C,]/!ped-up! | %34
+!ped! [D,,A,,D,][D,,A,,D,]/[D,,A,,D,]/ [D,,A,,D,][D,,A,,D,]/[D,,A,,D,]/!ped-up!!ped! [D,,A,,D,][D,,A,,D,]/[D,,A,,D,]/ [D,,A,,D,][D,,A,,D,]/[D,,A,,D,]/!ped-up! | %35
+!ped! [F,,,F,,][F,,,F,,]/[F,,,F,,]/ [F,,,F,,][F,,,F,,]/[F,,,F,,]/!ped-up!!ped! [F,,,F,,][F,,,F,,]/[F,,,F,,]/ [F,,,F,,][F,,,F,,]/[F,,,F,,]/!ped-up! :| %36
+!ped! [F,,,F,,][F,,,F,,]/[F,,,F,,]/ [F,,,F,,][F,,,F,,]/[F,,,F,,]/!ped-up! [F,,,F,,][F,,,F,,]/[F,,,F,,]/ [F,,,F,,][F,,,F,,] | %37
+ !tenuto!!fermata![A,,,,A,,,]8 |] %38
+V:3
+ x8 | x8 | x2 E2 E4 | x8 | G2 E2 E/ x7/2 |[M:2/4] x4 |[M:4/4] x8 | x8 |[M:2/4] x4 |[M:4/4] x8 | %10
+ x2 E2 E4 | x8 | B2 G2 x4 | x8 | x8 |[M:6/4] x12 |[M:4/4] x2 E2 E4 | G2 E2 E/ x7/2 |[M:2/4] x4 | %19
+[M:4/4] x8 | x8 | x2 E2 E4 | B2 G2 x4 | x8 | x8 | x8 | x8 |[M:2/4] x4 |[M:4/4] x8 |[M:2/4] x4 | %30
+[M:4/4] x8 | x8 |: x8 | x8 | x8 | x8 :| x8 | x8 |] %38
+V:4
+ x8 | x8 | A,,6 A,,2 | x8 | C,4 C,2 C,2 |[M:2/4] C,2 C,2 |[M:4/4] D,4- D,D,>D,-D, | x8 | %8
+[M:2/4] x4 |[M:4/4] x8 | A,,6 A,,2 | x8 | G,,4 G,,2 G,,2 | G,,2 G,,2 G,,2 G,,2 | x8 |[M:6/4] x12 | %16
+[M:4/4] A,,2 A,,2 A,,2 A,,2 | C,2 C,2 C,2 C,2 |[M:2/4] C,2 C,2 |[M:4/4] D,2 D,2- D,D,>D,-D, | %20
+ z2 F,,2 F,,2 F,,2 | z2 A,,2 A,,2 A,,2 | z2 G,,2 G,,2 G,,2 | x8 | x8 | x8 | x8 |[M:2/4] x4 | %28
+[M:4/4] x8 |[M:2/4] x4 |[M:4/4] x8 | x8 |: x8 | x8 | x8 | x8 :| x8 | x8 |] %38
+

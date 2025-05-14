@@ -1,0 +1,29 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=95
+M:3/4
+K:G
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 treble nm="Choir Pad, Asilomar, 87.87 D"
+V:4 bass 
+V:1
+ B>c B3 A | GE D2 G2 | A>A A3 ^G | A_B =B2 G2 | B>c B3 A | GE D2 G2 | A>A A3 G | BA G4 | %8
+w: By~John~Harrison~Tenney,~1897 * * *||||||||
+ [B,G]>[CA] [DB]3 [=Fd] | [Ec][DB] [DB]2 [DG]2 | [DG]>[DF] [CE]3 [DF] | [DG][Ec] B2 A2 | %12
+w: ||||
+ [DB]>[Dc] [Dd]3 [Dc] | [DB][^DA] AG [CE]2 | [Ec]>[^Dc] [=DB]3 [DA] | [DG][DF] [DG]4- | [DG]4 z2 |] %17
+w: |||||
+V:2
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z2 D4 | x6 | z2 E2 z2 | x6 | x6 | x6 |] %17
+V:3
+ D>E D3 C | B,C B,2 B,2 | C>C C3 B, | C^C D2 B,2 | D>E D3 C | B,C B,2 B,2 | C>[K:treble]C C3 B, | %7
+ DC[K:bass] B,4 | G,>G, G,3 G, | G,G, G,2 B,2 | G,>G, G,3 A, | G,G, G,2 F,2 | G,>A, B,3 A, | %13
+ G,F, E,2 G,2 | G,>G, G,3 C | B,A, B,4- | B,4 z2 |] %17
+V:4
+ G,,2 G,,4 | z2 G,,4 | D,2 D,4- | D,2 G,,4 | G,,2 G,,4- | G,,2 G,,4 | D,2 D,4- | D,2 G,,4 | z6 | %9
+ z2 z2 G,2 | B,,>B,, C,3 C, | B,,C, D,4 | G,,>G,, G,,3 A,, | B,,B,, C,2 C,2 | C,>C, D,3 D, | %15
+ D,D, G,,4- | G,,4 z2 |] %17
+

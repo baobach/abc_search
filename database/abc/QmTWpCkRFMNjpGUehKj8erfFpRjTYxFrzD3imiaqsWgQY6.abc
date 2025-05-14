@@ -1,0 +1,51 @@
+X:1
+T:Zemlja pleše
+T:Zemlja pleše (g-dur) 
+T:Mojmir Sepe
+T:Gregor Strniša
+C:Mojmir Sepe
+Z:Gregor Strniša
+%%score 1 { 2 | 3 }
+L:1/8
+M:2/2
+K:G
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+ z8 | z8 | z8 | z8 |: G2 A2 A4 | F2 G2 G4 | E2 F2 F2 D2 | B,4 D2 ^D2 | E3 E- E4- | E2 z2 D2 ^D2 | %10
+w: ||||Sre- di zvezd|noč in dan|se vr- ti naš|svet. Zem- lja|ple- še *|* tja med|
+ E3 E- E4- | E6 z2 | A2 B2 B4 | G2 A2 A4 | F2 G2 G2 E2 | C4 D2 ^D2 | E3 E- E4- | E2 z2 D2 ^D2 | %18
+w: zve- zde. *||Pa- de sneg,|pri- de maj,|pri- de spet je-|sen. Ti- soč|let že *|* zem- lja|
+ E3 E- E4- | E6 z2 | G2 A2 A4 | F2 G2 G4 | E2 F2 F2 D2 | B,4 D2 ^D2 | E3 E- E4- | E2 z2 G2 ^G2 | %26
+w: ple- še. *||O- ri- on|sa- sko- fon|me- sec kon- tra-|bas. Zem- lja|ple- še. *|* tja med|
+ A3 A- A4- | A6 z2 | A2 B2 B4 | G2 A2 A4 | F2 A2 A2 G2 | B2 c2 c2 B2 | E3 E- E4 |1 F4 F4 | G8- | %35
+w: zve- zde *||in znjo grad,|vsak o- blak|in vse ce- ste|in ce- lo ta|na- jin *|ma- li|dom.|
+ G4 z4 :|2 F4 F4 || B8 | B2 c2 c2 B2 | E4 E4 | B4 B4 | G8- | G8- | G8- | G8 |] %45
+w: |ma- li|dom,|in ce- lo ta|na- jin|ma- li|dom.||||
+V:2
+ [^DGB]4 [=DFc]4 | [^C^EA]3 [=C=EB]- [CEB]4 | D2- [G,A,D]2 ^D2- [G,^CD]2 | %3
+ [G,CE]2 [F,B,D]2 [G,CE]2 [A,DF]2 |: [B,-EG]2 [B,FA]2 [B,FA]4 | [B,DF]2 [EG]2 [B,EG]4 | %6
+ [B,-E]2 [B,F]2 [^A,-F]2 [A,D]2 | [G,B,]4 D2 [F,^A,^D]2 | %8
+ E2 ([G,-B,-E]2 [G,-B,-D]2) [G,-B,-^D][G,B,E-] | E2- [G,B,E]2 D2 ^D2 | %10
+ E2 [G,-C-E]2 [G,-C-D]2 [G,-C-^D][G,CE-] | E2 ((([G,CE-]2 E2))) [G,CE]2 | [C-EA]2 [CGB]2 [CGB]4 | %13
+ [CEG]2 [FA]2 [CFA]4 | [DF]2 [CEG]2 [C-G]2 [CE]2 | [A,C]4 D2 ^D2 | %16
+ E2 ([G,-C-E]2 [G,-C-D]2) [G,-C-^D][G,CE-] | E2- [F,CE]2 D2 ^D2 | E2- [G,B,E]2 D2 B,[E,A,C]- | %19
+ [E,A,C]2 [F,B,D]2 [G,CE]2 [A,DF]2 | [B,-EG]2 [B,FA]2 [B,FA]4 | [B,DF]2 [EG]2 [B,EG]4 | %22
+ [B,-E]2 [B,F]2 [^A,-F]2 [A,D]2 | [G,B,]4 D2 [F,^A,^D]2 | %24
+ E2 ([G,-B,-E]2 [G,-B,-D]2) [G,-B,-^D][G,B,E-] | E2- [G,B,E]2 [B,-E-G]2 [B,E^G]2 | %26
+ A2 [C-E-A]2 [C-E-G]2 [C-E-^G][CEA-] | A2 (([CEA-]2 A2)) [CE]2 | [C-E-A]2 [CEB]2 [CEB]4 | %29
+ [C-^D-G]2 [CDA]2 [CDA]4 | [B,-D-F]2 [B,DA]2 [B,-D-A]2 [B,DG]2 | %31
+ [A,-^D-G-B]2 [A,DGc]2 [=D-F-c]2 [DFB]2 | [B,-^C-E]3 [B,CE]- [B,CE]4 |1 [CEF]4 [CEF]4 | [B,EG]8 | %35
+ [G,CE]2 [F,B,D]2 [G,CE]2 [A,DF]2 :|2 [CEF]4 [CEF]4 || [D^EB]8 | [DB]2 [Ec]2 [Ec]2 [DB]2 | %39
+ [B,^CE]4 E4 | [C^DB]4 B4 | [B,DG]8- | [B,DG]8- | [B,DG]8 | [GBdg]8 |] %45
+V:3
+ A,4 ^G,4 | G,3 F,- F,4 | B,,4 ^A,,4 | A,,4 D,,4 |: G,,4 D,,4 | G,,4 D,,4 | G,,4 D,,4 | %7
+ G,,2 F,,2 E,,2 D,,2 | G,,4 D,2 ^D,E,- | E,4 ^G,,4 | A,,4 D,2 ^D,E,- | E,4 E,,4 | A,,4 E,,4 | %13
+ A,,4 E,,4 | A,,4 E,,4 | A,,2 E,,2 B,,2 ^A,,2 | A,,4 D,2 ^D,E,- | E,4 D,2 D,,2 | G,,4 ^G,,3 A,,- | %19
+ A,,4 D,,4 | G,,4 D,,4 | G,,4 D,,4 | G,,4 D,,4 | G,,2 F,,2 E,,2 D,,2 | G,,4 D,2 ^D,E,- | %25
+ E,4 [G,,^E,]4 | [C,E,]4 G,2 ^G,A,- | A,4 G,4 | C,4 G,4 | A,2 G,2 ^E,2 ^D,2 | D,4 G,,4 | %31
+ ^E,,4 [=E,,^G,]4 | [A,,G,]8 |1 [D,F,]4 D,,4 | G,,4 D,,4 | A,,4 D,,4 :|2 D,4 A,,4 || %37
+ B,,2 D,2 ^E,2 A,2 | [E,,^G,]4 F,,2 ^G,,2 | [A,,G,]8 | [D,F,]4 D,,4 | G,,2 A,,2 A,,4 | %42
+ F,,2 G,,2 G,,3 E,,- | E,,2 F,,2 F,,2 D,,2 | G,,,8 |] %45
+

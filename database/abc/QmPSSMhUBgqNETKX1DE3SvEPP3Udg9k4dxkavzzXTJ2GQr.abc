@@ -1,0 +1,80 @@
+X:1
+T:Durch Adam's Fall ist ganz verderbt
+T:Durch Adam's Fall ist ganz verderbt
+T:J.S. Bach Arrt.   F. Busoni
+T:BWV 637 (Prelude)
+C:J.S. Bach Arrt for Piano  F. Busoni
+%%score { ( 1 2 4 7 ) | ( 3 5 6 ) }
+L:1/8
+Q:1/4=32
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:4 treble 
+V:7 treble 
+V:3 bass 
+V:5 bass 
+V:6 bass 
+V:1
+"^Andante mesto""^Einförmig klagend" z2 !tenuto!A2 | !tenuto!A2 !tenuto!A2 !tenuto!G2 !tenuto!A2 | %2
+ !tenuto!=F2 !tenuto!E2 !tenuto!D2 !tenuto!A2 | !tenuto!=c2 !tenuto!d2 !tenuto!A2 !tenuto!B2 | %4
+ !tenuto!c4 !tenuto!A2 !tenuto!A2 | !tenuto!A2 !tenuto!A2 !tenuto!G2 !tenuto!A2 | %6
+ !tenuto!=F2 !tenuto!E2 !tenuto!D2 !tenuto!A2 | !tenuto!=c2 !tenuto!d2 !tenuto!A2 !tenuto!B2 | %8
+ !tenuto!c4 !tenuto!A2 !tenuto!c2 | !tenuto!c2 !tenuto!G2- !tenuto!_A2 !tenuto!D2 | %10
+ !tenuto!A2 !tenuto!G2 !tenuto!F2 !tenuto!A2 | !tenuto!A2 !tenuto!A2 !tenuto!G2 !tenuto!A2 | %12
+ !tenuto!=F2 !tenuto!E2 D2 !tenuto!A2 | !tenuto!A2 !tenuto!G2 !tenuto!A2 !tenuto!=B2 | %14
+ !tenuto!c2 !tenuto!A2 !tenuto!G2 !tenuto!d2 | %15
+ !tenuto!e2 !tenuto!d2[Q:1/4=30]"^T""^allarg." !tenuto!A2[Q:1/4=28]"^T" !tenuto!c2 | %16
+[Q:1/4=26]"^T" !tenuto![EB]!tenuto![^FA-][Q:1/4=24]"^T" A^G !tenuto!!fermata![EA]2 |] %17
+V:2
+ z!p! A/G/ ^F/E/=F | E^D/E/ ^FE/F/ G2 ED/E/ | F/^C/D B,/_B,/A,/=G,/ DA/G/ ^F/E/=F | %3
+ EF- F/D/^G A/E/D/^C/ D/B,/E- | E/D/ E/F/ G>G- G/_B/A/G/ ^F/E/=F/G/ | E^D/E/ ^FE/F/ G^C/D/ ED/E/ | %6
+ F/^C/D- B,/_B,/A,/=G,/ DA/G/ ^F/E/=F | EF- F/D/^G A/E/D/^C/ D/B,/E- | %8
+ E/D/ E/F/ G>G- G/E/F z z/ _B/ | A/G/_A (c>_B) G/G/F/E/ D/_A,/G,/[I:staff +1]F,/ | %10
+[I:staff -1] EA,/=B,/ C/B,/^C D2 ^F/E/=F | E^D/E/ ^FE/F/ G^C/D/ ED/E/ | F/^C/D D^C !tenuto!D2 E>E | %13
+ F/G/^F GC/D/ _ED/C/ =B,/C/B,/[I:staff +1]A,/ | x4[I:staff -1] B,2 z z/ =F/ | %15
+ E/[I:staff +1]D/[I:staff -1]E/^F/ G/A/^G A/B/A/G/ F/E/=D | B,/C/4D/4C/B,/ C/B,/^C/D/ C2 |] %17
+V:3
+"_die Figuration sehr gebunden" z2 z3/2"_Legatissime le semicrome" D/ | %1
+ ^C/B,/A,/G,/ ^F,/B,,/[I:staff -1]B,[I:staff +1] E,/F,/G,- G,/G,/=F,/E,/ | %2
+ z ([F,,F,].[^G,,,^G,,].[A,,,A,,] !tenuto![D,,,D,,]2) z2 | %3
+ A,/C/[I:staff -1]B,/[I:staff +1]A,/- A,/^G,/ x C,/^C,/D,/E,/- E,/F,/E,/D,/ | %4
+ z (.[_B,,,_B,,].[C,,,C,,].[E,,,E,,] !tenuto![F,,,F,,]2) z2 | %5
+ ^C/B,/A,/G,/ ^F,/B,,/[I:staff -1]B,[I:staff +1] E,/F,/G,- G,/G,/=F,/E,/ | %6
+ D,>[I:staff -1].=C[I:staff +1] x2 F,/G,/F,/E,/ D,/A,/D/^G,/ | %7
+ A,/C/[I:staff -1]B,/[I:staff +1]A,/- A,/^G,/ x C,/^C,/D,/E,/- E,/F,/E,/D,/ | %8
+ z (.[_B,,,_B,,].[C,,,C,,].[E,,,E,,] !tenuto![F,,,F,,]2) _E/F/=E | %9
+ F>[I:staff -1]F-[I:staff +1] !tenuto![C,,C,]2 C/=B,/[I:staff -1]^C[I:staff +1] !tenuto![=B,,,=B,,]2 | %10
+ C/[I:staff -1]=A,/G,/F,/ E,/G,/F,/E,/[I:staff +1] D,/[I:staff -1]A,/[I:staff +1][K:treble]A/G/ z[K:bass] z/ D/ | %11
+ ^C/B,/A,/G,/ ^F,/B,,/[I:staff -1]B,[I:staff +1] E,/F,/G,- G,/G,/=F,/E,/ | %12
+ z (.[F,,F,].[^G,,,^G,,].[A,,,A,,]) !tenuto![D,,,D,,]2 z2 | %13
+ z (.[A,,A,] !tenuto![_B,,,_B,,]2) z (.[C,,C,] !tenuto![^D,,,^D,,]2) | %14
+ G,[I:staff -1]^F,/G,/ A,/C/B,/C/[I:staff +1] D,/^F,/G,/A,/ _B,/C/=B, | %15
+ CC, B,,/=F,/E,/D,/ C,/E,/^F,/^G,/ A,/B,/^G,/A,/ | x6 |] %17
+V:4
+ x4 | x4 x ^C/^D/ x2 |[I:staff +1] D,>[I:staff -1]=C D^C x4 | x8 | %4
+[I:staff +1] A,[I:staff -1]=G,/F,/ (E,/.G,/C-) C^C D/[I:staff +1]A,/D/ x/ | x8 | %6
+ x2[I:staff -1] D^C x4 | x8 |[I:staff +1] A,[I:staff -1]=G,/F,/ (E,/.G,/C-) C[I:staff +1]C/D/ x2 | %9
+ x2[I:staff -1] F/F/E/D/ x4 | x8 | x8 | %12
+[I:staff +1] D,>[I:staff -1]=C B,/_B,/A,/=G,/ ^F,/^G,/A,/=B,/[I:staff +1] =C/D/^C | %13
+[I:staff -1] D>_E D/_B,/[I:staff +1]A,/G,/ =F,/G,/^F,- F,/A,/G,/F,/ | x8 | x8 | %16
+ x2[I:staff -1] E2 x2 |] %17
+V:5
+ x4 | z (.[=C,=C] !tenuto![^D,,^D,]2) z (.[_B,,_B,] !tenuto![^C,,^C,]2) | %2
+ x4 F,/G,/F,/E,/ D,/A,/D/^G,/ | z (.A,, !tenuto![B,,,B,,]2) z (.[F,,F,] !tenuto![^G,,,^G,,]2) | %4
+ x8 | z (.[=C,=C] !tenuto![^D,,^D,]2) z (.[_B,,_B,] !tenuto![^C,,^C,]2) | %6
+ z (.[F,,F,].[^G,,,^G,,].[A,,,A,,] !tenuto![D,,,D,,]2) z2 | %7
+ z (.A,, !tenuto![B,,,B,,]2) z (.[F,,F,] !tenuto![^G,,,^G,,]2) | x6 z2 | %9
+ z .[=B,,=B,] x2 z .[A,,A,] x2 | %10
+ z (.[D,,D,].[E,,,E,,].[A,,,A,,] !tenuto![D,,,D,,]2)[K:treble] z2[K:bass] | %11
+ z (.[=C,=C] !tenuto![^D,,^D,]2) z (.[_B,,_B,] !tenuto![^C,,^C,]2) | x8 | x8 | %14
+ z [_E,,_E,-] [^F,,,^F,,]2 [G,,,G,,]2 z2 | z4 z (.[C,C].[^D,,^D,]) (.[=F,,=F,] | %16
+.[^G,,,^G,,]) (.[^D,,^D,] !tenuto![E,,,E,,]2) .!fermata![A,,,A,,]2 |] %17
+V:6
+ x4 | x8 | x8 | x5/2 F,/E,/D,/ x4 | x8 | x8 | x8 | x5/2 F,/E,/D,/ x4 | x8 | x8 | %10
+ x5[K:treble] x2[K:bass] x | x8 | x8 | x8 | E,/=D,/C,/D,/ E,D,- x4 | x8 | x6 |] %17
+V:7
+ x4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x6 F!tenuto!G | x8 | x8 | x8 | x8 | x8 | x8 | %16
+ x2 B2 x2 |] %17
+

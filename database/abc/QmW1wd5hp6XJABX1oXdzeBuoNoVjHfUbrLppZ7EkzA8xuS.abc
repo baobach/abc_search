@@ -1,0 +1,34 @@
+X:1
+T:Simple Gifts for Winds
+T:Simple Gifts for Winds
+T:Aaron Copland
+T:Mara Hermogeno
+C:Aaron Copland
+Z:Mara Hermogeno
+%%score [ ( 1 2 ) 3 4 ] 5
+L:1/8
+M:4/4
+K:A
+V:1 treble nm="Flute"
+V:2 treble 
+V:3 treble nm="Oboe"
+V:4 treble transpose=-3 nm="A Clarinet" snm="A Cl."
+V:5 bass nm="Bassoon"
+V:1
+ z2 | c2 cd ecef | g2 f2 e2 dc | B4 A4 | G8 | A3 G A2 B2 | E2 F2 E3 z | b2 bc' b2 aa | b2 ag a3 z | %9
+ e'4 c'3 b | c'd'c'b a3 b | c'2 c'd' e'2 c'2 | b2 bc' b2 b2 | a2 z2 e3 e | A4 A2 A2 | G2 E2 E2 D2 | %16
+ D2 D2 E4 |] %17
+V:2
+ x2 | x8 | x8 | x8 | x8 | x8 | x8 | B2 Bc B2 AA | B2 AG A3 z | e4 c3 B | cdcB A3 B | c2 cd e2 c2 | %12
+ B2 Bc B2 B2 | A2 z2 z4 | x8 | x8 | x8 |] %17
+V:3
+ E2 | A2 AB cAcd | e2 ed c2 BA | B2 E2 B2 A2 | BcBG E2 E2 | AGAB c2 BB | c2 d2 e3 e | G4 F3 E | %8
+ D4 C3 z | A4 A3 B | E6 D2 | F4 G2 E2 | E6 E2 | C2 z2 C3 B, | F4 E2 F2 | E2 B,2 E2 D2 | E2 D2 C4 |] %17
+V:4
+[K:C] z2 | G8- | G8- | G4 F4 | G3 E D4 | G6 G2 | c2 d2 c3 z | d8 | A2 ed c3 z | g8 | g6 F2 | c8 | %12
+ B2 Bc B2 z2 | g2 z2 c3 d | e2 ef g2 fe | d2 d2 e2 ed | c2 c2 c4 |] %17
+V:5
+ z2 | A,8 | A,8 | G,4 F,4 | E,6 D,2 | C,3 B,, A,,2 G,,2 | F,,2 B,,,2 C,,3 z | E,4 D,3 C, | %8
+ A,,2 E,2 A,,3 z | C4 A,3 G, | A,B,A,G, F,3 E, | D,4 C,4 | C,6 z2 | A,2 G,2 F,2 G,2 | %14
+ F,2 E,D, C,2 D,2 | E,2 G,,2 A,,2 D,D, | C,2 B,,2 A,,4 |] %17
+

@@ -1,0 +1,49 @@
+X:1
+T:Gran vals
+T:Gran Vals
+T:arr. for piano by Arpicembalo
+T:Francisco de Asís Tárrega y Eixea
+T:1902 / 2020
+C:Francisco de Asís Tárrega y Eixea
+Z:2020
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=144
+M:3/4
+K:A
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^Allegro"{/C} E2 |S E6 | F6 | F6 | G6 | G4 A2 | A4 G2 |{/G} F6 | z6 | F6 | G4 A2 | c6 | B6 | %13
+ ed F2 G2 | cB D2 E2 | BA C2 E2 | z2 z2{/C} E2 | E6 | F6 | F6 | G6 | G6 | A6 | e6 | d6 | F6 | d6 | %27
+ c6 | E6 | F6 | B6 | [CEA]6- || [CEA]2 z2!fine! | e^d fe |:[K:E] Pc2 .[GB]2 [EGB]2 | z B, EG EG | %36
+ PA2 z4 | z z fd ec | e2 .[Ad]2 [Ad]2 | z z dB cA | Pc2 .[GB]2 [EGB]2 | z z ed fe | %42
+ Pc2 .[GB]2 [EGB]2 | z[K:bass] E, G,B,[K:treble] E2 | B2 z4 |[K:bass] z F, G,A, B,C | %46
+ PC2[K:treble] z z z2 | e2 d2 c2 | D2 E4- | z2 E4 | z z ed fe :| Pc2 .[GB]2 [EGB]2 | %52
+ z[K:bass] E, G,B,[K:treble] E2 | B2 z4 |[K:bass] z F, G,A, B,C | PC2[K:treble] z z z2 | e2 d2 c2 | %57
+ D2 E4- || z2 E4 |:[K:B] z z .[DF]2 [DF]2 | B,2 .[DF]2 [DF]2 | z z .[CF]2 [CF]2 | C2 G,2 F,2 | %63
+ z z .[DF]2 [DF]2 | B,2 .[DF]2 [DF]2 | PA,2 ^^G,2 A,2 | E2 G2 F2 | D6 | D6 | D6 | A6 | [DF]2 z4 | %72
+ D4 [A,C]2 |[K:bass]"_a tempo" [D,F,B,]6- | [D,F,B,]2 z2[K:treble] z2 ::{/G} B2 [EB]2 .G2 G2 | %76
+ [B,B]2 .G2 G2 | [FB]2 .=A2 A2 | z2 de ^ef | ed .=A2 A2 | z2 FD EC | ED z4 | z2 z2{/G} B2 | %83
+ [B,B]2 .G2 G2 | [FB]2 .=A2 A2 | z2 de ^ef | ed .=A2 A2 | cB .D2 D2 | [G,B,E]6- | [G,B,E]2 z4 :| %90
+{/C} E2!D.S.! |] %91
+V:2
+ z2 | A,,2 .[A,C]2 [A,C]2 | E,,2 .[A,C]2 [A,C]2 | A,,2 .[A,C]2 [A,C]2 | E,,2 .[A,C]2 [A,C]2 | %5
+ A,,2 .[A,C]2 [A,C]2 | E,,2 .[A,C]2 [A,C]2 | B,,2 .[B,D]2 [B,D]2 | B,,2 C,2 D,2 | %9
+ E,,2 .[B,D]2 [B,D]2 | B,,2 .[B,D]2 [B,D]2 | E,,2 .[DG]2 [DG]2 | E,2 .[DG]2 [DG]2 | E,,6 | E,,6 | %15
+ A,,6 | !fermata!A,,6 | A,,2 .[A,C]2 [A,C]2 | E,,2 .[A,C]2 [A,C]2 | A,,2 .[A,C]2 [A,C]2 | %20
+ E,,2 .[A,C]2 [A,C]2 | A,,2 .[A,C]2 [A,C]2 | A,,2 .[A,C]2 [A,C]2 | D,2[K:treble] .[FB]2 [FB]2 | %24
+[K:bass] D,2[K:treble] .[FB]2 [FB]2 |[K:bass] B,,2 .[B,D]2 [B,D]2 | D,2[K:treble] .[=FA]2 [FA]2 | %27
+"^ritard." E,2 .[EA]2 [EA]2 |[K:bass] E,,2 .[A,C]2 [A,C]2 | E,,2 .[B,^D]2 [B,D]2 | %30
+"_a tempo" E,2 .[DG]2 [DG]2 | A,,2 E,2 C,2 || A,,2 z2 | z2 z2 |:[K:E] E,,6 | E,,6 | %36
+ F,2 .[B,D]2 [B,D]2 | B,4 z2 | F,2 .B,2 B,2 | B,,6 | E,,6 | E,,6 | E,,6 | E,,4 z2 | %44
+ A,,2 .[F,A,C]2 !arpeggio![F,A,C]2 |"^ritard. - - - - - - -" A,,4 z2 | B,,2 [G,B,E]2 z2 | %47
+"^a piacere" [CE]2 [B,D]2 [A,C]2 | [B,,F,A,]2 [E,G,B,]2- .B,,2 | .G,,2 [E,,E,G,B,]4 | z6 :| E,,6 | %52
+ E,,4 z2 | A,,2 .[F,A,C]2 !arpeggio![F,A,C]2 | A,,4 z2 | B,,2 [G,B,E]2 z2 | [CE]2 [B,D]2 [A,C]2 | %57
+ [B,,F,A,]2 [E,G,B,]2- .B,,2 || .G,,2 [E,,E,G,B,]4 |:[K:B] [B,,F,]6 | F,,6 | [C,B,]6 | F,,6 | %63
+ [B,,F,]6 | F,,6 |"^ritard." C,6 | F,,6 | B,,2 .[F,B,]2 [F,B,]2 | A,,2 .[^^F,C]2 [F,C]2 | %69
+ G,,2 .[G,B,]2 [G,B,]2 |"^ritard." E,,2[K:treble] .[CE]2 [CEG]2 |[K:bass] [F,,F,]2 [D,B,]2 [G,E]2 | %72
+ [F,,F,]2 ^E,2 [F,,=E,]2 | B,,2 .F,2 .D,2 | B,,2 z2 z2 :: z8 | z6 | z6 | B,6 | F,2 .B,2 B,2 | %80
+ B,,6 | E,,2 .G,2 [E,G,]2 |{/!fermata!G,,} !fermata!B,,4 z2 | z6 | z6 | B,6 | F,2 .B,2 B,2 | %87
+ B,,2 .B,2 B,2 | E,2 B,,2 G,,2 | E,,2 z4 :| z2 |] %91
+

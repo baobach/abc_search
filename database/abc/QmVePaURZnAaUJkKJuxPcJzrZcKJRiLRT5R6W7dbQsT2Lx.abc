@@ -1,0 +1,21 @@
+X:1
+T:Now Listen to my Story
+T:Now Listen to my Story
+T:Stephen Duro
+C:Stephen Duro
+%%score { 1 | 2 }
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ z2 .c2 d>c ^G>A |: F D3 F4 | z2 .C2 D>F G>D | F8 | z2 .C2 D>F G>D | F D3 F4 | z ^G A>G A>=G .F2 | %7
+ G8 | z2 c2 d>c ^G>A | F D3 F4 | z .A2 ^G A>=G .F2 | B8 | z2 B2 A2 G2 | A .c2 d- d>_A G>F | %14
+ G2 G>_A G>F .D2 |1 F8 | z2 .c2 d>c ^G>A :|2 F8- || !fermata![A,CF]8 |] %19
+V:2
+ z8 |: z4 [B,D]3 [A,C]- | [A,C] z z2 z4 | z4 [B,D]3 [A,C]- | [A,C] z z2 z4 | z4 [B,D]3 [A,C]- | %6
+ [A,C] z z2 z4 | z4 [F,=B,]3 [E,_B,]- | [E,B,] z z2 z4 | z4 [B,D]3 [A,C]- | [A,C] z z2 z4 | %11
+ z4 [B,,D,F,]3 [B,,D,F,]- | [B,,D,F,]4 z4 | C,8- | C,2 C,4- C, z |1 z4 [B,D]3 [A,C]- | %16
+ [A,C]2 z2 z4 :|2 z4 [B,,B,D]4 || !fermata!F,,8 |] %19
+

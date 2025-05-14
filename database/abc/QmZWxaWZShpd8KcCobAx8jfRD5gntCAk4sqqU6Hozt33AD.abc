@@ -1,0 +1,103 @@
+X:1
+T:7 Mélodies, Op.2
+T:Nanny
+T:7 Mélodies, Op.2
+T:1. Nanny
+T:Ernest Chausson
+T:Leconte de Lisle
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+C:Ernest Chausson
+Z:Leconte de Lisle
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=60
+M:3/4
+K:E
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Lentement" z6 | z6 |!p!!>(! e2 d2 =d d | c2- c z z =c!>)! | B4 G E | E2 E2 z2 | %6
+w: ||Bois chers aux ra-|miers, _ pleu-|rez, doux feuil-|la- ges,|
+ z3/2!mf! =c/"^cresc." c2 c3/2 c/ | =d2 d2 z3/2!mf! d/ |"^cresc." ^d4 d3/2 d/ |!f! =f4- f f | %10
+w: Et  toi, sour- ce|vi- ve, et|vous, frais sen-|tiers, * Pleu-|
+!>(! e2 d d (3=d d d | =c2!>)!!mp! =F2 z!>(! c | B3/2 B/ B"^rit."[Q:1/4=56] z z[Q:1/4=54] =G | %13
+w: rez, ô bru- yè- res sau-|va- ges, Buis-|sons de  houx et|
+ =G[Q:1/4=52] E!>)!!p! E2 z!f!"^Poco"[Q:1/4=70] B |"^animato" B4 B, B, | =C2 C C E D | D2 D2 z2 | %17
+w: d'é- glan- tiers. Prin-|temps, roi fleu-|ri de la ver- te‿an-|né- e,|
+ z2!f! B2 G G | D2 z2 (DC) | C2 z c (3c c c | c3!mf! C C C | =D3 D F ^E | ^E2 E2 z c | =d3 =G G2- | %24
+w: O jeu- ne|Dieu, pleu- *|re! E- té mû- ris-|sant, cou- pe ta|tres- se cou- ron-|né- e; Et|pleu- re,‿Au- tom-|
+!<(! =G3 G B =d!<)! | ^d4- d!mf![Q:1/4=60]"^Tempo I" B[Q:1/4=56][Q:1/4=52] |!>(! e2 d2 =d2 | %27
+w: * ne rou- gis-|sant. _ L'an-|gois- se d'ai-|
+ c4 ^A A!>)! | =c4- c B | B2 B2 z2 |!<(! B B =d2- d d!<)! | ^d2- d z z2 | %32
+w: mer brise un|cœur _ fi-|dè- le.|Ter- re‿et ciel, _ pleu-|rez! _|
+!f![Q:1/4=58]"^en retenant" =g3 e =c B | ^A4-[Q:1/4=56]"^rit." A z | %34
+w: Oh! Que je l'ai-|mais! _|
+[Q:1/4=50]"^un peu plus lent" z2 z2!p! B =G | F3 F (3=c c c |"^dim." B2 B2 z =d | %37
+w: Cher pa-|ys, ne par- le plus|d'el- le; Nan-|
+ c2-[Q:1/4=48]"^en retenant" c z z =c |[Q:1/4=46] B B =G3 E |!pp! E4- E z | !fermata!z6 |] %41
+w: ny _ ne|re- vien- dra ja-|mais!  _||
+V:2
+!mf!!>(! e2 d2 =d2 | c4 =c2!>)! |!p! B2 x4 | (^A/F/C/^A,/) (c/A/F/C/) (=c/F/D/B,/) | %4
+ (B/G/E/B,/) (B/G/E/B,/) (G/E/B,/G,/) | %5
+ (E/B,/[I:staff +1]G,/E,/)[I:staff -1] (E/B,/[I:staff +1]G,/E,/)[I:staff -1] (E/B,/[I:staff +1]G,/E,/) | %6
+!mf![I:staff -1] (=c/A/E/=C/) (c/A/E/C/) (c/A/E/C/) | (B/G/=D/B,/) (B/G/D/B,/) (B/G/D/B,/) | %8
+ (=c/F/^D/B,/) (c/F/D/B,/) (c/F/D/B,/) |!f! (=f/B/G/=D/) (f/B/G/D/) (f/B/G/D/) | e2 ^d2 =d2 | %11
+ =c2 x4 | (B/=G/E/B,/) (B/G/E/B,/) (G/E/=C/=G,/) | (=G/E/B,/=G,/) (G/E/B,/G,/) (G/E/B,/G,/) | %14
+!mf!"^Poco animato" (B/F/D/B,/) (F/D/B,/F,/) (D/B,/[I:staff +1]F,/D,/) |[I:staff -1] x4 ED | %16
+ (D/B,/[I:staff +1]F,/D,/)!<(![I:staff -1] (F/D/[I:staff +1]B,/F,/)[I:staff -1] (B/F/D/B,/)!<)! | %17
+ (B/G/D/B,/) (G/D/B,/G,/) (D/B,/[I:staff +1]G,/D,/) |[I:staff -1] x2 x2 DC | %19
+ x2 x2"_cresc." G/(C/E/G/) | (c/G/^E/C/) (G/E/C/G,/) (E/C/[I:staff +1]G,/^E,/) | %21
+[I:staff -1] x4 F^E | (^E/C/[I:staff +1]G,/^E,/)[I:staff -1] (G/E/C/G,/) (c/G/E/C/) | %23
+"_cresc." (=d/B/=G/=D/) (B/G/D/B,/) (G/D/B,/=G,/) | (B,/=G,/B,/=D/) (=G/B,/D/G/) (B/D/G/B/) | %25
+!f! (^d/!>(!B/A/"^rit."!courtesy!^D/) (B/A/F/B,/) (A/F/D/A,/)!>)! |!mf! e2 d2 =d2 | c4 x2 | %28
+!mp! =c2 c2 cB | B4 x2 | e6 | ^d4 d2 |!f! =g2 e2 =cB | ^A4 x2 | %34
+!p! (B/=G/E/B,/) (B/G/E/B,/) (B/G/E/B,/) | (=c/F/D/B,/) (c/F/D/B,/) (d/=c/A/D/) | x2 d2 =d2 | %37
+ c4 =c2 | B2 =G2 E2 | x6 | x6 |] %41
+V:3
+ (e/B/G/E/) (d/B/G/D/) (=d/B/G/=D/) | c/^A/E/C/ (c/A/E/C/) (=c/F/D/B,/) | %2
+ (B/G/E/B,/) (B/G/D/B,/) (B/G/=D/B,/) | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %10
+ (e/c/A/E/) (^d/=c/F/D/) (=d/B/G/=D/) | (=c/A/=F/=C/) (c/A/F/C/) (c/A/^D/C/) | x6 | x6 | x6 | %15
+ (E/=C/[I:staff +1]A,/E,/)[I:staff -1] (E/C/[I:staff +1]A,/E,/)[I:staff -1] (E/C/[I:staff +1]A,/F,/) | %16
+ x6 | x6 | %18
+ (G,/D,/G,/B,/)[I:staff -1] (D/B,/[I:staff +1]G,/D,/)[I:staff -1] (D/B,/[I:staff +1]G,/E,/) | x6 | %20
+ x6 | %21
+[I:staff -1] (F/=D/[I:staff +1]B,/F,/)[I:staff -1] (F/D/[I:staff +1]B,/F,/)[I:staff -1] (F/D/[I:staff +1]B,/G,/) | %22
+ x6 | x6 | x6 | x6 |[I:staff -1] e/B/G/E/ d/B/G/D/ =d/B/G/=D/ | %27
+ (c/^A/^^F/C/) (c/A/F/C/) (c/A/F/C/) | (=c/^F/D/=C/) (c/F/D/C/) (c/F/D/B,/) | %29
+ (B/G/E/B,/) (B/G/E/B,/) (B/G/E/B,/) | (e/B/G/E/) (e/B/G/E/) (e/B/G/E/) | %31
+ (d/=c/A/D/) (d/c/A/D/) (d/B/A/D/) | ([=G=g]/e/=c/G/) (e/c/G/E/) (c/G/E/=C/) | %33
+ (^A/=G/E/^A,/) (A/G/E/A,/) (A/G/E/A,/) | x6 | x6 | (e/B/G/E/) (d/B/G/D/) (=d/B/G/=D/) | %37
+ (c/^A/E/C/) (c/A/E/C/) (=c/F/D/B,/) | (B/=G/E/B,/) (G/E/B,/=G,/) (E/B,/[I:staff +1]G,/E,/) | x6 | %40
+ x6 |] %41
+V:4
+!ped! (3(E,,B,,G,) (3(E,,B,,G,)!ped-up!!ped! (3(E,,B,,G,)!ped-up! | %1
+!ped! (3(E,,C,^A,) (3(E,,C,A,)!ped-up!!ped! (3(E,,B,,=A,)!ped-up! | %2
+!ped! (3(E,,B,,G,) (3(E,,B,,G,)!ped-up!!ped! (3E,,B,,G,!ped-up! | %3
+!ped! (3(E,,C,^A,) (3(E,,C,A,)!ped-up!!ped! (3(E,,B,,=A,)!ped-up! | %4
+!ped! (3(E,,B,,G,) (3(E,,B,,G,) (3(E,,B,,E,)!ped-up! | (3(E,,^A,,B,,) (3(E,,A,,B,,) (3(E,,A,,B,,) | %6
+!ped!!<(! (3(E,,=C,A,) (3(E,,C,A,) (3E,,C,A,!ped-up! | (3(E,,B,,G,) (3(E,,B,,G,) (3(E,,B,,G,) | %8
+ (3(E,,B,,A,) (3(E,,B,,A,) (3(E,,B,,A,)!<)! | (3(E,,=D,B,) (3(E,,D,B,) (3E,,D,B, | %10
+!>(! (3(E,,C,A,) (3(E,,^D,A,) (3(E,,=D,G,) | (3(E,,=C,A,) (3(E,,C,A,) (3(E,,B,,A,) | %12
+ (3(E,,B,,=G,) (3(E,,"^rit."B,,G,) (3(E,,=C,E,) | (3(E,,B,,E,) (3(E,,B,,E,) (3(E,,B,,!>)!!p!E,) | %14
+ [B,,,B,,]6 | [A,,,A,,]4 [F,,,F,,]2 | [B,,,B,,]6 | [G,,,G,,]6- | [G,,,G,,]2 [F,,,F,,]2 [E,,,E,,]2 | %19
+[I:staff -1] C/[I:staff +1](C,/E,/G,/ C/)G,/C/E/ x2 | [C,,C,]6 | [B,,,B,,]4 [G,,,G,,]2 | [C,,C,]6 | %23
+ [B,,,B,,]6- | [B,,,B,,]6 | [B,,,,B,,,]6 |!>(! (3(E,,B,,G,) (3(E,,B,,G,) (3(E,,B,,G,) | %27
+ (3(E,,C,^A,) (3(E,,C,A,) (3(E,,C,A,)!>)! | (3(E,,B,,=A,) (3(E,,B,,A,) (3(E,,B,,A,) | %29
+ (3(E,,B,,G,) (3(E,,B,,G,) (3(E,,B,,G,) |!<(! (3(E,,B,,G,) (3(E,,B,,G,) (3(E,,B,,G,) | %31
+ (3(E,,B,,F,) (3(E,,B,,F,) (3(E,,B,,A,)!<)! | (3(E,,=C,=G,) (3(E,,C,G,) (3(E,,C,G,) | %33
+!>(! (3(E,,^C,=G,) (3(E,,C,G,)"^rit." (3(E,,C,G,)!>)! | (3(E,,B,,=G,) (3(E,,B,,G,) (3(E,,B,,G,) | %35
+ (3(E,,B,,A,) (3(E,,B,,A,) (3(E,,B,,F,) |!>(! (3(E,,B,,G,) (3(E,,B,,G,) (3(E,,B,,G,) | %37
+ (3(E,,C,^A,)"^en retenant" (3(E,,C,A,) (3(E,,B,,=A,) | (3(E,,B,,=G,) (3(E,,B,,E,) (3(E,,^A,,B,,) | %39
+ (B,/=G,/E,/B,,/)!pp! (B,/G,/E,/B,,/) B,/-[G,B,]/-[E,G,B,]/-[B,,E,G,B,]/-!>)! | %40
+!ppp! !fermata![B,,E,G,B,]6 |] %41
+V:5
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ [C,,,C,,]6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %37
+ x6 | x6 | E,,6- | !fermata![E,,,E,,]6 |] %41
+

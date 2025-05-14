@@ -1,0 +1,44 @@
+X:1
+T:Title
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=100
+M:4/4
+K:Db
+V:1 treble nm="Akkordion"
+V:2 bass nm="Grand Piano"
+V:4 bass 
+V:3 bass 
+V:5 bass 
+V:1
+ F2 FF F2 F2 | G4 G4 | G2 FG A2 G2 | F6 A2 | A3 A G2 F2 | B4 B3 B | A2 F2 E3 D | F8 | F2 FF F2 F2 | %9
+w: Guy~C.~Latchaw * * * *|||||||||
+ G4 G3 G | G2 FG A2 G2 | F6 A2 | A3 A G2 F2 | d3 c B3 B | A2 F2 F3 C | D8 | d2 cB A2 B2 | F4 A3 A | %18
+w: |||||||||
+ d2 cB A2 F2 | E6 E2 | F2 F2 A2 d2 | d4 B4 | A2 GF E3 D | D8 |] %24
+w: ||||||
+V:2
+ F,A,[K:treble]DF FDA,[K:bass]F, | G,[K:treble]CEG GEC[K:bass]G, | G,[K:treble]CEG GEC[K:bass]G, | %3
+ F,A,[K:treble]DF D2 A2 | .F2 z2 G2 F2 | B4 B4 | AFDA, A,CEG | FD[K:bass]A,F, F,A,DF | %8
+ F,A,[K:treble]DF FDA,[K:bass]F, | G,[K:treble]CEG GEC[K:bass]G, | G,[K:treble]CEG GEC[K:bass]G, | %11
+ F,A,[K:treble]DF D2 A2 | A4 G2 F2 | [Bd]3 [Ac] [GB]3 B | AFDA, A,CAG | FDA,F D4 | %16
+ FD[K:bass]A,F, F,A,D[K:treble]F | FD[K:bass]A,F, F,A,D[K:treble]F | %18
+ FD[K:bass]A,F, F,A,D[K:treble]F | GECG E2 E2 | DFAd DFAd | [Bd]4 B4 | AFDA GECF | FAFD D4 |] %24
+V:3
+ [D,,D,]4 [A,,,A,,]4 | [E,,E,]4 [A,,,A,,]4 | [E,,E,]4 [A,,,A,,]4 | [D,,D,]6 F2 | %4
+ z2 z F [C,,C,]2 [D,,D,]2 | [B,,,B,,]4 z2 z B, | [A,,,A,,]4 [A,,,A,,]4 | [D,,D,]8 | %8
+ [D,,D,]4 [A,,,A,,]4 | [E,,E,]4 [A,,,A,,]4 | [E,,E,]4 [A,,,A,,]4 | [D,,D,]6 F2 | z2 z F [D,,D,]4 | %13
+ [G,,G,]4 z2 z G | [A,,,A,,]4 [A,,,A,,]4 | z4 [F,A,]4 | [D,,D,]4 [A,,,A,,]4 | [D,,D,]4 [A,,,A,,]4 | %18
+ [D,,D,]4 [A,,,A,,]4 | [E,,E,]4 [A,,,A,,]2 C2 | [D,,D,]4 z2 z[K:treble] _c | z4 G4 | %22
+ [A,,A,]4 [A,,,A,,]4 | z4 [E,A,]4 |] %24
+V:4
+ x2[K:treble] x5[K:bass] x | x[K:treble] x6[K:bass] x | x[K:treble] x6[K:bass] x | %3
+ x2[K:treble] x6 | A-[DA-][A,A]A z A, z A, | z FDB, z GDB | x8 | x2[K:bass] x6 | %8
+ x2[K:treble] x5[K:bass] x | x[K:treble] x6[K:bass] x | x[K:treble] x6[K:bass] x | %11
+ x2[K:treble] x6 | z FDA z C z D | x8 | x8 | x8 | x2[K:bass] x5[K:treble] x | %17
+ x2[K:bass] x5[K:treble] x | x2[K:bass] x5[K:treble] x | x8 | x8 | x8 | x8 | x8 |] %24
+V:5
+ x8 | x8 | x8 | x8 | [D,,D,]4 z4 | z4 [G,,,G,,]4 | x8 | x8 | x8 | x8 | x8 | x8 | [D,,D,]4 z4 | %13
+ z4 [G,,,G,,]4 | x8 | [D,,D,]8 | x8 | x8 | x8 | x8 | z4 [F,,F,]4[K:treble] | [G,,G,]8 | x8 | %23
+ [D,,D,]8 |] %24
+

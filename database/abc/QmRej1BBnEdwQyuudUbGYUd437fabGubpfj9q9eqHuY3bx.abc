@@ -1,0 +1,41 @@
+X:1
+T:Kantate
+T:Kantate
+T:'Schweight stille, plaudert nicht' ( 'Kaffeekantate' ) 
+T:Johann Sebastian Bach (1685-1750)
+T:BWV 211
+C:Johann Sebastian Bach (1685-1750)
+Z:BWV 211
+%%score 1 2 { 3 | 4 }
+L:1/8
+Q:1/4=71
+M:4/4
+K:G
+V:1 treble-8 nm="Tenore"
+V:2 bass nm="Violoncello"
+V:3 treble nm="Cembalo"
+V:4 bass 
+V:1
+"^RECITATIV." z2 z!f! d g d z =f/ e/ |[Q:1/4=50]"^Largo" e z/ c/ ^f f z a/ c/ A d | %2
+w: Schweight stil- le, plau- dert|nicht, und hö- ret, was jetz- und ge-|
+[Q:1/4=50]"^a tempo" B2 z D G G G A | B z/ G/ B c d d B G | e z/ E/ E F G G E A | F2 z2 z f f B | %6
+w: schicht: Da kömmt Herr Schlen- dri-|an mit sei- ner Toch- ter Lies- chen|her; er brummt ja wie ein Zie- del-|Bär; hört sel- ber.|
+ z B/ B/ ^c d dA z2 | !fermata!z8 |] %8
+w: was sie ihm ge- than! *||
+V:2
+ G,2 z2 z2 G, z | G, z z2 F,2 z2 | .G,"_con pompa" .G,,/>G,,/ .G,,.G,,/>G,,/ .G,, z z2 | %3
+ z .G,,/>G,,/ .G,, z z4 | z .^C,,/>C,,/ .C,, z z4 | %5
+ z .D,,/>D,,/ .D,,.D,,/>D,,/ .D,, z z G,,/>G,,/ | G,, z E,, z .A,,.A,,/>A,,/ .A,,.A,,/>A,,/ | %7
+ !fermata!D,,8 |] %8
+V:3
+ !arpeggio![B,DG]2 z2 z2 [B,DG] z | [CEG] z z2 [DFAc]2 z2 | %2
+ .[B,DG]"_con pompa" .[B,DG]/>[B,DG]/ .[B,DG].[B,DG]/>[B,DG]/ .[B,DG] z z2 | %3
+ z .[B,DG]/>[B,DG]/ .[B,DG] z z4 | z [^CEG]/>[CEG]/ .[CEG] z z4 | %5
+ z [DFA]/>[DFA]/ .[DFA][DFA]/>[DFA]/ .[DFA] z z .[B,DG]/>[B,DG]/ | %6
+ .[B,DG] z [E^GBd] z .[DFA].[DFA]/>[DFA]/ .[^CEA].[CEA]/>[CEA]/ | !arpeggio!!fermata![DFAd]8 |] %8
+V:4
+ G,2 z2 z2 G, z | G, z z2 D,2 z2 | .G, .G,,/>G,,/ .G,,.G,,/>G,,/ .G,, z z2 | %3
+ z .G,,/>G,,/ .G,, z z4 | z .^C,,/>C,,/ .C,, z z4 | %5
+ z .D,,/>D,,/ .D,,.D,,/>D,,/ .D,, z z G,,/>G,,/ | G,, z E,, z .A,,.A,,/>A,,/ .A,,.A,,/>A,,/ | %7
+ !fermata!D,,8 |] %8
+

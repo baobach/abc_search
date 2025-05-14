@@ -1,0 +1,68 @@
+X:1
+T:L'Auguste
+T:L'Auguste
+T:Allemande
+T:François Couperin
+C:François Couperin
+%%score { ( 1 5 6 ) | ( 2 3 4 ) }
+L:1/8
+Q:1/4=45
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:5 treble 
+V:6 treble 
+V:2 bass 
+V:3 bass 
+V:4 bass 
+V:1
+"^Moderato" g/ |:!mf! [Bdg]2- [Bdg]3/4 (G/4{AB}A/>B/){BcB} c{B}A{dc} (d>A) | %2
+({ABA)} (B{A}G) ([GBd]>=e){efe} f{e}d (g!wedge!^f/>)g/ | %3
+{g^fg} f>a{b} Ta3/2{g}a/!>(!{aba} (b>a){aga} g>g | %4
+ (g3/2f/4=e/4)!>)!{efe} f>f (f3/2_e/4d/4){ded} (e>f) | %5
+{ede} d{c}B{ede} (d>e)"_cresc."{efe} (f>e) (d/>c/{Bc}B/>A/) | %6
+{AGA} (G>g)!<(!{c} (T=B>c){cdc} d(d3/4e/8f/8) Te>d | %7
+{ede} e2!<)!{ede} d>d!>(!{dc} (d>e){d} (Tc3/2B/4c/4) |1 !fermata!d d- d4-!>)! d3/2 g/ :|2 %9
+ !fermata!d d- d4- d3/2 a/ |:!mf! a2- a3/2 c'/ (b/a/)(g/^f/){f} (g{=fg}f/>=e/) | %11
+{=e} f4- f/>g/!>(!{f_ef}e/>d/{d} e2-!>)! | %12
+ e3/2!>(!e/8(A/8B/8c/8) (d/>e/)(d3/4e/8f/8){dcd} (c/>d/)(c3/4d/8e/8){B} TA>B!>)! | %13
+!p! ([DFB]>c) d/>(=e/{efe}f/>)g/{fef} e{d}c{fe} f>!turn!f | %14
+ g{gag}(a/>b/){a} T[=eg]>f!<(! !arpeggio![Adf]>f ([dfb]>a) | %15
+{aga} g>g{g} Tf{_ef}g/>d/!<)!{ded} (e>d){cdcd}(c>B) | %16
+{AB} A/>(A/"_cre"{BA}B/>!turn!c/ d2-) d/>(G/"_scendo"{AG}A/>!turn!B/ c2-) | %17
+ c{Bc}B/>A/ (d>=e)!mf! ^fg{B} TA>B |1,2 %18
+{!fermata!A!fermata!G!fermata!A} !fermata!G G- G4- G3/2 a/ :|2 %19
+{GA} G3/2"_cre"(3(A/4B/4c/4) d2- d/>(G/"_scendo"{AG}A/>!turn!B/ c2-) || %20
+ c{Bc}B/>A/ (d>=e)!mf! ^fg{B} TA>B |{!fermata!A!fermata!G!fermata!A} !fermata!G G- G4- G2 |] %22
+V:2
+ z/ |: z D,{G,^F,} G,2- A,4 |{G,^F,} G,2 B,C- CD- DC | D,[K:treble] (D/=E/) ^F2 (G>A) B2 | %4
+ A2[K:bass]"^di     -          min" A,2 C2- CC | (G,2{G,F,G,} F,E,) D,3 D, | %6
+ (B,/A,/G,) (F,E,) z2 [D,G,-]2 | (G,A,){G,A,} (B,A,) z2 A,2 |1 %8
+ !fermata!D,2- D,2{D,^C,} (D,=C,{B,,C,}B,,A,,) :|2 D,2- D, z{D,^C,} D,4 |: %10
+ z A,{D^C} D2 =C2 (B,{A,B,}A,/>)G,/ | z{D^C} D3- DD =C2- | CC B,2{E,D,} (E,C,) F,2 | %13
+ z F,{B,A,} B,2- C2- C/C/{DC}D | (=EF) C2 z D- D z | z G,- [D,G,-]2 G,2 (^F,G,) | %16
+ ^F,2 z G,- G,2 z A,- | A,2{G,^F,} [D,G,]2{A,,B,,} (A,,G,,) D,2 |1,2 %18
+ !fermata!G,,3 D,{G,^F,} (G,/>B,/A,/>G,/){F,G,} F,=E, :|2 z E, z G,- G,2 z A,- || %20
+ A,2 [D,G,]2{A,,B,,} (A,,G,,) D,2 | G,,4{G,,^F,,} G,,4 |] %22
+V:3
+ x/ |: G,,4 G,2 ^F,D, | G,G,, G,2 [=F,A,]2 [_E,G,]2 | x[K:treble] x ^FD GG, BG | %4
+ A[K:bass]A,- A,F, C2 C,2 | G,G,, x2 D,F,- [F,B,]2 | E,2 D,C, =B,,3 G,, | C,2 G,F, E,3 E, |1 %8
+ D,2 (D,,A,,) x4 :|2 D,3 A,, D,2 D,,2 |: D,8 | D,3 =C =B,2 CC, | D,2- D,D, x2 (F,F,,) | %13
+ B,,2 B,2 B,>B, A,2 | G,F, CC, D,3 B,, | _E,2 (=B,,G,,) (C,_B,,) (A,,G,,) | %16
+ (D,C,) =B,,2 (C,_B,,) A,,2 | z D,- B,,>B,, x2 D,D,, |1,2 x8 :|2 E,,2 =B,,2 C,_B,, A,,2 || %20
+ z D,- B,,>B,, x2 D,D,, | G,,2 z D,, x2 G,,,2 |] %22
+V:4
+ x/ |: x2 G,2 x4 | x8 | x[K:treble] x7 | x[K:bass] x7 | x8 | x4 z D,- x2 | x4 z G,2- G, |1 x8 :|2 %9
+ x2 D,,4 x2 |: x8 | x8 | x8 | x8 | x8 | x8 | x8 | B,,2 x6 |1,2 x8 :|2 x8 || B,,2 x6 | %21
+ x2 G,,,4 x2 |] %22
+V:5
+ x/ |: x8 | x7/2 z/ x4 | x8 | z/ c3/2 x2 z/ c3/2 x2 | x8 | x8 | x8 |1 %8
+ x d/A/- [^FA]4- [FA]3/2 x/ :|2 x d/A/- [^FA]4- [FA]3/2 x/ |: [d^f]2- [df]3/2 x9/2 | %11
+ z z/ (_e/ d/c/{Bc}B/A/ d) z z3/4 (G/<c/B/4) |{AB} (A{G}F/) z/ x6 | x8 | x8 | x8 | %16
+ x2 z/ z/4 (D/<G/F/4{F} =E/) z/ z z/ z/4 E/<A/G/4 |{G} ^F x d/>B/G !arpeggio![Ac][Bd] F3/2 z/ |1,2 %18
+ z (G/D/- [B,D]4-) [B,D]3/2 x/ :|2 x2 z/ z/4 (D/<G/F/4 =E/) z/ z z/ z/4 (E/<A/G/4) || %20
+{G} ^F x (d/>B/G) !arpeggio![Ac]!arpeggio![Bd] F z | z (G/D/- [B,D]4-) [B,D]2 |] %22
+V:6
+ x/ |: x8 | x8 | x8 | x5 G x2 | x8 | x8 | x8 |1 x8 :|2 x8 |: x8 | x8 | x8 | x8 | x8 | x8 | x8 | %17
+ x8 |1,2 x8 :|2 x8 || x8 | x8 |] %22
+

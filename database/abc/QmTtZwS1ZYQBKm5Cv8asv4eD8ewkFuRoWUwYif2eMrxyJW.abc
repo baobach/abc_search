@@ -1,0 +1,36 @@
+X:1
+T:Polonaise.
+T:2. Polonaise
+T:Carl Philipp Emmanuel Bach
+T:Helm 1/2 (BWV Anh. 123)
+T:in G minor
+T:4 Pieces for Anna Magdalena Bach
+C:Helm 112 (BWV Anh. 123)
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=90
+M:3/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ gg/^f/g z z2 | aa/g/a z z2 | ba/g/ ba/g/ ag/^f/ | gd/e/ dccB | gg/^f/g z z2 | aa/g/a z z2 | %6
+ ba/g/ ba/g/ ag/^f/ | g z z2 !fermata!G2!fine! :| z2 z b/a/b z | z2 z c'/b/c' z | f/g/f bfed | %11
+ d/B/d/c/ c4 | f/e/g/f/ f4 | e/d/f/e/ e4 | d/c/e/d/- d/c/e/d/- d/c/e/d/- | d/c/e/d/ cgfe | %16
+ d>d c2- c<c | c/F/B/A/ B4!D.C.! || %18
+V:2
+ BB/A/B z z2 | cc/B/c z z2 | dc/B/ dc/B/ cB/A/ | BB/c/ BAAG | BB/A/B z z2 | cc/B/c z z2 | %6
+ dc/B/ dc/B/ cB/A/ | BB/d/ GB/d/ x2 :| z2 z d/c/d z | z2 z e/d/e z | d/e/d ddcB | BB/A/ A4 | %12
+ A2 _A/G/_B/A/ G2- | G2- G/F/=A/G/ F2- | F4 B2- | B2- BABc | c/A/B- B/A/B/G/ AF/E/ | D-D/C/ D4 || %18
+V:3
+ G,,2 z B,,/G,,/ D,2 | z2 z ^F,,/D,,/ D,2 | G,,2 G,2 C,D, | G,,2 z2 z2 | G,,2 z B,,/G,,/ D,2 | %5
+ z2 z ^F,,/D,,/ D,2 | G,,2 G,2 C,D, | G,B,/D/ G,B,/D/ !fermata!G,2 :| D,D,/C,/D, z z2 | %9
+ C,C,/B,,/C, z z2 | B,,2 z B,-B,/A,/B, | F,2- F,/E,/G,/F,/ E,/D,/F,/E,/ | %12
+ D,/C,/E,/D,/ C,/=B,,/D,/C,/ B,,/=A,,/C,/B,,/ | C,/=B,,/D,/C,/ _B,,/A,,/C,/B,,/ A,,/G,,/B,,/A,,/ | %14
+ B,,B,A,A,,G,,G, | F,F,,=E,,_E,D,C, | B,,G,E,C,F,F,, | B,,F,B,F,B,,A,, || %18
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 :| B,,B,,/A,,/B,, x3 | A,,A,,/G,,/A,, z z2 | x6 | x6 | x6 | %13
+ x6 | x6 | x6 | x6 | x6 || %18
+

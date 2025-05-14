@@ -1,0 +1,34 @@
+X:1
+T:Nun danket alle Gott
+T:Johann Sebastian Bach
+T:MuseScore 2012
+Z:MuseScore 2012
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=72
+M:4/4
+K:F
+V:1 treble transpose=-2 nm="BaccidentalFlat Trumpet" snm="BaccidentalFlat Tpt."
+V:2 treble transpose=-2 nm="BaccidentalFlat Trumpet" snm="BaccidentalFlat Tpt."
+V:3 treble transpose=-7 nm="Horn" snm="Hn."
+V:4 bass nm="Trombone" snm="Trb."
+V:1
+[K:G]"^Andante"!mf! d2 |: d2 d2 e2 e2 | !fermata!d4 z2 B2 | c2 B2 A2 B>c |1 %4
+ A4 !breath!!fermata!G2 d2 :|2 A4 !breath!!fermata!G2 A2 || A2 A2 B2 B2 | !fermata!A4 z2 A2 | %8
+ B^c d2 d2 ^c2 | !fermata!d4 z2 d2 | e2 d2 c2 B2 | !fermata!c4 z2 B2 | A2 B>c A3 G | %13
+ !fermata!G6 x2 |] %14
+V:2
+[K:G]!mf! G2 |: G2 G2 G2 G2 | !fermata!G4 z2 G2 | A2 G2 F2 G2 |1 GE F2 !breath!!fermata!D2 G2 :|2 %5
+ GE F2 !breath!!fermata!D2 FE || D2 D2 D2 D2 | !fermata!D4 z2 F2 | G2 F2 E2 E2 | %9
+ !fermata!F4 z2 G2 | GA B2 B A2 ^G | !fermata!A4 z2 G2 | F2 G2 G2 F2 | !fermata!D6 x2 |] %14
+V:3
+[K:C]!mf! E2 |: E2 E2 F2 F2 | !fermata!E4 z2 A2 | G2 G2 G2 G2 |1 %4
+ GF/E/ F2 !breath!!fermata!E2 E2 :|2 GF/E/ F2 !breath!!fermata!E2 DC || B,C D2 DC/B,/ C2 | %7
+ !fermata!B,4 z2 G2 | G2 G2 E2 D2 | !fermata!D4 z2 E2 | F2 E2 A2 _BA | !fermata!A4 z2 G2 | %12
+ G2 GA AF D>G | !fermata!E6 x2 |] %14
+V:4
+!mf! F,,2 |: F,G,A,F, B,,C,D,B,, | !fermata!F,4 z2 F,2 | E,2 F,2 C,B,,A,,F,, |1 %4
+ C,4 !breath!!fermata!F,,2 F,,2 :|2 C,4 !breath!!fermata!F,,2 C,2 || C,D,E,C, F,,G,,A,,F,, | %7
+ !fermata!C,,4 z2 C,2 | F,G,A,E, F,D,G,G,, | !fermata!C,4 z2 F,,2 | B,,A,,G,,^F,, G,,B,,C,D, | %11
+ !fermata!G,,4 z2 A,,B,, | C,2 F,D, B,,G,,C,C,, | !fermata!F,,6 x2 |] %14
+

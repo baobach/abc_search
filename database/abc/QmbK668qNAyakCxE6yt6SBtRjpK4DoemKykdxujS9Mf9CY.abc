@@ -1,0 +1,32 @@
+X:1
+T:Do you Hear The People Sing
+T:Do You Hear The People Sing
+T:Les Misérables 
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=80
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+|:"^\n"!mf!{/B} A>G [CF]>G A>B{/A} [Gc]2 | (3AGF [DE]>D E>F{/D} [A,C]2 |1 %2
+ (3DCB, [G,A,]>C F>A PG>^F | G>D [B,F]>E E>F !arpeggio![B,CEG]2 :|2 %4
+ (3D!<(!CB, [F,A,]>C F>A (3P[CFG]^FG!<)! |!f! [DEB]>E [A,CF]4!mp!!8vb(! E,>E, || %6
+[K:C][K:treble] [C,A,]>^G, A,>B, !>![E,C]>B, A,>C | [E,B,]>A, G,>A, !>![D,E,B,]3 B,/C/ | %8
+ [A,D]>C B,>C [G,A,D] C2 B,/D/ | [G,A,C]>B, A,>B, !>![D,E,G,C]2!8vb)! z z/ A/ | %10
+!<(!!<(!!<(!!<(! (3[EGAc]BA (3[DGAc]BA (3[CGAc]BA (3[GAc]Bc!<)!!<)!!<)!!<)! | %11
+!f! [DGBd]4 z z [ce]>d |: c>d e>f [G_Bdg]2!mf!!<(! (3e(dc)!<)! | %13
+ B>A B>c [DEG]2!mf!!<(! (3(AG)F!<)! |1 E>G c>e Pd>^c d>A | c>B B>c [FGBd]2 e>d :|2 %16
+ E>G c>e (3Pd^cd [GBf]>B |!ff! [CEGc]4 [FAcd]4 |] [GBde]4 [Gdfb]4 | %19
+ df [dfgb]2!fff! !arpeggio![cegc']4 |] %20
+V:2
+|: z2 [F,,F,]4 [E,,E,]2 | z2 [B,,B,]4 [F,,F,]2 |1 z2 [F,,F,]4 [E,,E,]2- | %3
+ [E,,E,]2 [C,,C,]3 [C,,C,] !arpeggio![E,,E,]2 :|2 z2 [D,,D,]4 [B,,B,]2 | [G,,G,]2 [F,,F,]4 z2 || %6
+[K:C] [A,,A,]2- [A,,E,A,]2 [A,,A,]2- [A,,E,A,]2 | [E,,E,]4 [E,,E,]2 [E,,E,]2 | %8
+ [F,,F,]4 [F,,F,]2 [F,,F,]2 | [A,,A,]2- [A,,E,A,]2 [G,,A,]2 [G,,A,]2 | %10
+ [A,,A,]2 [G,,G,]2 [D,,D,]2 [F,,F,]2 | [G,,G,]4 (3[D,,D,][E,,E,][C,,C,]- [C,,C,]2 |: %12
+ [C,C]4 [E,CE]2 [C,C]2 | [G,,G,]2 G,F, [E,,E,]4 |1 [C,,C,]4 [F,,F,]3- [F,,D,F,] | %15
+ [G,,G,]3- [G,,D,G,] [G,,G,]4 :|2 [C,,C,]4 [F,,F,]2 [D,,D,]2 | !arpeggio![C,,G,,C,]4 [G,,D,G,]4 |] %18
+ [A,,E,A,]4 [E,,E,]4 | z2 [F,G,B,]2 !arpeggio![C,G,C]4 |] %20
+

@@ -1,0 +1,78 @@
+X:1
+T:Sonata
+T:Sonata in B-flat major, K.292
+T:Allegro
+T:Mozart
+T:arr. Jeff Slade
+C:Mozart
+Z:arr. Jeff Slade
+%%score 1 2
+L:1/8
+Q:1/4=120
+M:4/4
+K:Bb
+V:1 bass nm="Violoncello I" snm="Vc.I"
+V:2 bass nm="Violoncello II" snm="Vc.II"
+V:1
+"^Allegro" B,6 (D>B,) | F6 (D>B,) | G,6 (E>C) | (A,3/2B,/4C/4 B,) z (C3/2D/4E/4 D) z | %4
+ (E3/2F/4G/4 F) z B,4- | B,(A,G,F,) E4- | E(C^CD) D,4- | D,(C,E,G,) (=B,CEG) | %8
+ (GF)(PED) (DC)(P_B,A,) |{A,} B,2 B,, z z2 z F, | B,2 B,3 (A,B,A,) |{A,} B,2 B,3 C/D/ CB, | %12
+{=B,} C2 C3 (B,CB,) | C2 C3 D/E/ DC | (D3 B,) (E3 C) | (F3 D) B,2 z D | (=B,C)(DE) (^FG)(G,C) | %17
+ (_B,4 A,2) z2 | z (F=EF) (CDB,C) | .A,.G,.A,.B, .C.D.=E.F | %20
+ (3(^CD).D (3(=B,=C).C (3(A,_B,).B, (3(^G,A,).A, | (3(=G,A,).^F, (3(G,A,).F, G,2 z D | %22
+ (3(=B,C).C (3(A,_B,).B, (3(^G,A,).A, (3(^F,=G,).G, | (3(=F,G,).=E, (3(F,G,).E, F,2 z C | %24
+ (3(A,B,).B, (3(^G,A,).A, (3(^F,=G,).G, (3(=E,=F,).F, | =E,4 T=E3 D/E/ | %26
+ F/=E/D/C/ B,/A,/G,/F,/ (^C2 D) z | (B,>G,) (B,>G,) (F,3 G,/=E,/) | F,2 z2 z4 | B,6 (G,>=E,) | %30
+ (C4 A,2) z F | (^CD).B,.G, F,2 G,2 | (^G,4 A,2) z2 | B,6 (G,>=E,) | (C4 A,2) z F | %35
+ (^CD).B,.G, F,2 =E,2 | F,/G,/A,/B,/ =C/A,/G,/F,/ =E,/F,/G,/A,/ B,2 | %37
+ A,/G,/A,/B,/ C/A,/G,/F,/ =E,/F,/G,/A,/ B,2 | A,FF,F D,F=B,,F | C,4 TG,4 | %40
+ F,/G,/A,/B,/ C/A,/G,/F,/ =E,/F,/G,/A,/ B,2 | A,/G,/A,/B,/ C/A,/G,/F,/ =E,/F,/G,/A,/ B,2 | %42
+ A,FF,F D,F=B,,F | C,4 TG,4 | .F,(FD=B,) .C(G,A,_B,) | (B,3 G, A,2) z2 ::!f! (D3 =B, C2) z2 | %47
+!p! (F3 D E2) z2 | z!f! (EDC _B,A,DC) | (B,/C/B,/A,/) G,D D2 z2 | %50
+ (C/D/C/B,/) (A,/B,/A,/G,/) ^F,2 G,A, | (B,/C/B,/A,/) G,D D2 z2 | %52
+ (C/D/C/B,/) (A,/B,/A,/G,/) (^F,2 G,A,) | B,D D2 z ^C C2 | z =C C2 z =B, B,2 |!p! (_B,4 A,2 G,2) | %56
+!f! ^F,4 T^F3 =E/F/ | G/=F/_E/D/ C/B,/A,/G,/ (D2 E) z | (C<A,) (C<A,) G,3 (A,/^F,/) | %59
+ .G,(GE^C) .D!p!(A,B,=C) | (C3 A, B,2) z2 | (E3 ^C D2) z2 |{G,} G8- | G2{F} E2{D} C2{B,} A,2 | %64
+ B,6 (D>B,) | F6 (D>B,) | G,6 (E>C) | (A,3/2B,/4C/4 B,) z (C3/2D/4E/4 D) z | %68
+ (E3/2F/4G/4 F) z B,4- | B,A,G,F, E4- | EC^CD D,4- | (D,C,E,G,) (=B,CEG) | GFED DC_B,A, | %73
+{A,} B,2 B,,2 z2 z F, | B,2 B,3 (A,B,A,) | B,2 B,3 C/D/ CB, |{=B,} C2 C3 B,CB, | %77
+{=B,} C2 C3 D/E/ DC | (D3 B,) (E3 C) | (F3 D) B,2 z D | (=B,C)(DE) (^FG)(G,C) | (_B,4 A,2) z2 | %82
+ z (F=EF) (_EFCE) | .D.E.F.E .D.C.B,._A, | (3(^F,G,).G, (3(G,=B,).B, (3(B,C).C (3(^CD).D | %85
+ (3(EF).D (3(EF).D E2 z G, | (3(=E,F,).F, (3(F,A,).A, (3(A,B,).B, (3(=B,C).C | %87
+ (3(DE).C (3(DE).C D2 z F, | (3(D,E,).E, (3(E,G,).G, (3(^G,A,).A, (3(A,B,).B, | (3(=B,C).C E4 E,2 | %90
+ D,2 F4 _A,2 | G,/=A,/B,/C/ D/E/F/G/ (=B,2 C) z | ((E>C)) (E>C) (B,3 C/A,/) | B,2 z2 z4 | %94
+ E6 (C>A,) | (F4 D2) z B, | (^FG).E.C B,2 C2 | (^C4 D2) z2 | E6 (C>A,) | (F4 D2) z B, | %100
+ (^FG).E.C B,2 A,2 | B,/C/D/E/ =F/D/C/B,/ A,/B,/C/D/ E2 | D/C/D/E/ F/D/C/B,/ A,/B,/C/D/ E2 | %103
+ DB,F,B, D,B,B,,B, | F,,4 TC4 | B,/C/D/E/ F/D/C/B,/ A,/B,/C/D/ E2 | %106
+ D/C/D/E/ F/D/C/B,/ A,/B,/C/D/ E2 | DB,F,B, D,B,B,,B, | F,,4 TC4 | B,(=EFE) .F!p!(CD_E) | %110
+ (E3 C D2) z2 :| %111
+V:2
+ z2 .B,,2 (D,2 B,,2) | z2 .B,,2 (D,2 B,,2) | z2 (E,>D,) .E,2 .C,2 | (F,2 D,) z (A,,2 B,,) z | %4
+ (C,2 D,) z z (G,F,=E,) | F,4 z (CB,A,) | B,4 z (B,,G,,F,,) | E,,4 E,4 | D,2 G,2 E,2 F,2 | %9
+ B,,2 z B, DB,F,D, | B,,B,,(B,,C,) (D,E,D,C,) | B,,B,,B,,B,, B,,B,,B,,B,, | %12
+ A,,A,,A,,A,, A,,A,,A,,A,, | A,,A,,A,,A,, A,,A,,A,,A,, | B,,B,, D,2 z C, E,2 | %15
+ z D, F,2 z (B,G,F,) | E,6 =E,2 | z (F,=E,F,) (C,D,B,,C,) | A,,4 A,2 G,2 | %19
+ .F,.=E,.F,.G, .A,.B,.C.A, | B,2 A,2 G,2 F,2 | =E,2 z2 (3=E,,.E,.F, (3.G,.A,.B, | %22
+ A,2 G,2 F,2 =E,2 | D,2 z2 (3D,,.D,.=E, (3.F,.G,.A, | G,2 F,2 =E,2 D,2 | C,C,C,C, B,,B,,B,,B,, | %26
+ A,,2 z2 (A,2 B,) z | z2 B,,2 C,2 C,2 | (F,,A,,C,=E,) (F,C,A,,F,,) | (G,,C,G,,C,) (B,,C,B,,C,) | %30
+ (A,,C,D,=E,) (F,^C,D,A,,) | B,,B,,B,,B,, =C,C,C,C, | (F,=E,F,C,) (=B,,C,A,,F,,) | %33
+ (G,,C,G,,C,) (_B,,C,B,,C,) | (A,,C,D,=E,) (F,^C,D,A,,) | B,,B,,B,,B,, =C,C,C,C, | %36
+ F,,3 A, B,G,=E,C, | F,3 A, B,G,=E,C, | F,,2 F,2 D,2 =B,,2 | C,C,C,C, C,C,C,C, | %40
+ F,,3 A, B,G,=E,C, | F,3 A, B,G,=E,C, | F,,2 F,2 D,2 =B,,2 | C,C,C,C, C,C,C,C, | %44
+ F,,2 z2 z (=E,F,G,) | (G,3 =E, F,2) z2 ::!f! (B,3 ^G, A,2) z2 |!p! (D3 =B, C2) z2 |!f! ^F,,8 | %49
+ G,,2 z B, (^F,G,)(A,B,) | A,2 z .E, (D,C,)(B,,A,,) | G,,2 z .B, (^F,G,)(A,B,) | %52
+ A,2 z .E, (D,C,)(B,,A,,) | G,,2 z ^G, A,3 =G, | ^F,2 z F, G,3 G, |!p! ^C,8 | %56
+!f! D,D,D,D, =C,C,C,C, | B,,2 z2 (=B,2 C) z | z2 C,2 D,2 D,2 | G,,2 z2 z!p! (^F,G,A,) | %60
+ (A,3 ^F, G,2) z2 | (C3 A, B,2) z2 | z8 | z8 | z2 .B,,2 (D,2 B,,2) | z2 .B,,2 (D,2 B,,2) | %66
+ z2 (E,>D,) .E,2 .C,2 | (F,2 D,) z (A,,2 B,,) z | (C,2 D,) z z (G,F,=E,) | F,4 z (CB,A,) | %70
+ B,4 z (B,,A,,F,,) | E,,4 E,4 | D,2 G,2 E,2 F,2 | B,,2 z TB, DB,F,D, | B,,B,,B,,C, D,E,D,C, | %75
+ B,,B,,B,,B,, B,,B,,B,,B,, | A,,A,,A,,A,, A,,A,,A,,A,, | A,,A,,A,,A,, A,,A,,A,,A,, | %78
+ B,,(B,, D,2) z (C, E,2) | z (D, F,2) z (B,G,F,) | E,6 =E,2 | z (F,=E,F,) (_E,F,C,E,) | D,4 A,,4 | %83
+ B,, z .D.C .B,._A,.G,.F, | E,2 F,2 E,2 D,2 | C,2 z2 (3C,(C=B,) (3C(C,^C,) | D,2 E,2 D,2 =C,2 | %87
+ B,,2 z2 (3B,,(B,A,) (3B,(B,,=B,,) | C,2 C,4 _B,,2 | A,,2 (3z C,B,, (3A,,B,,C, (3F,,G,,A,, | %90
+ B,,2 (3z F,G, (3_A,F,D, (3B,,C,D, | E,2 z2 (D,2 E,) z | z2 E,2 F,2 F,,2 | %93
+ (B,,D,F,A,) (B,F,D,B,,) | (C,F,C,F,) (E,F,E,F,) | (D,F,G,A,) (B,^F,G,D,) | E,E,E,E, =F,F,F,F, | %97
+ (B,A,B,F,) (=E,F,D,B,,) | (C,F,C,F,) (_E,F,E,F,) | (D,F,G,A,) (B,^F,G,D,) | E,E,E,E, F,F,F,F, | %101
+ B,,3 D ECA,F, | B,3 D ECA,F, | B,2 F,2 D,2 B,,2 | F,F,F,F, F,,F,,F,,F,, | B,,3 D ECA,F, | %106
+ B,3 D ECA,F, | B,2 F,2 D,2 B,,2 | F,F,F,F, F,,F,,F,,F,, | B,,2 z2 z!p! (A,B,C) | (C3 A, B,2) z2 :| %111
+

@@ -1,0 +1,37 @@
+X:1
+T:Title
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Grand Piano"
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+ z4 z2[Q:1/4=96] GA | [DB][DB][DB][DB] [CA][B,G][B,G][B,D] | [CE]2 [EG]4 [DF][CE] | %3
+ [B,D][B,D][B,D][B,G] [DB][DB][^CA][CE] | [CA]6 [B,G][CA] | [DB][DB][DB][DB] [CA][B,G][B,G][B,D] | %6
+ [CE]2 [EG]4 [DF][CE] | [B,D][B,D][B,D][B,G] [DB]2 [CA]2 |[M:5/8] [B,G]-[B,G]- [B,G]3 | %9
+[M:3/8] dee |[M:4/4] d6 z2 |[M:3/4] B6[K:bass] |[M:1/4][K:treble] B2 | %13
+[M:4/4] [Fd][FA][FA][GB] [Fc][Fc] [FB]>[FA] |[M:5/8] B-B- B3 |[M:3/8] dee |[M:4/4] d6 z2 | %17
+[M:3/4] B6[K:bass] |[M:1/4][K:treble] B2 | %19
+[M:35/32] [Fd][FA][FA][GB][Fc]/ [EFc]2- [EFc]/[Q:1/4=92](3:2:4[DFB]3/2-[Q:1/4=76][DFB]/4[CFA]3/4-[CFA]/8[Q:1/4=94][Q:1/4=90][Q:1/4=88][Q:1/4=86][Q:1/4=84][Q:1/4=82][Q:1/4=80][Q:1/4=78][Q:1/4=74] | %20
+[M:3/4] [B,DG]6 |] %21
+V:2
+ z4 z2 B,C | G,,D,G,D, G,,D,G,D, | C,G,CG, C,G,CG, | G,,D,G,D, G,,D,E,A,, | D,E,F,E, D,C,B,,A,, | %5
+ G,,D,G,D, G,,D,G,D, | C,G,CG, C,G,CG, | G,,D,G,D, D,,D,E,F, |[M:5/8] G,E,D, B,,G,, | %9
+[M:3/8][K:treble] BBB |[M:4/4] B6 z2 |[M:3/4] [DG]6 |[M:1/4] [G,DG]2 | %13
+[M:4/4][K:bass] [D,D][D,C][D,C][D,B,] [D,A,][D,A,] [D,D]>[D,D] |[M:5/8][K:treble] D z z z2 | %15
+[M:3/8] BBB |[M:4/4] B6 z2 |[M:3/4] [DG]6 |[M:1/4] [G,DG]2 | %19
+[M:35/32][K:bass] [D,D][D,C][D,C][D,B,][D,A,]/ D,2- D,/(3:2:4D,3/2-D,/4D,3/4-D,/8 |[M:3/4] G,6 |] %21
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:5/8] x5 |[M:3/8] x3 |[M:4/4] z DEB, DBcc | %11
+[M:3/4] z[K:bass] D, G,A, B,2 |[M:1/4][K:treble] x2 |[M:4/4] x8 |[M:5/8] z DE B,D |[M:3/8] x3 | %16
+[M:4/4] z DEB, DBcc |[M:3/4] z[K:bass] D, G,A, B,2 |[M:1/4][K:treble] x2 |[M:35/32] x35/4 | %20
+[M:3/4] x6 |] %21
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:5/8] x5 |[M:3/8][K:treble] x3 | %10
+[M:4/4] z G,G,G, G,[DG][EG][^DG] |[M:3/4] x6 |[M:1/4] x2 |[M:4/4][K:bass] x8 | %14
+[M:5/8][K:treble] [G,G]-[G,G]- [G,G]3 |[M:3/8] x3 |[M:4/4] z G,G,G, G,[DG][EG][^DG] |[M:3/4] x6 | %18
+[M:1/4] x2 |[M:35/32][K:bass] x35/4 |[M:3/4] x6 |] %21
+

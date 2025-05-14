@@ -1,0 +1,49 @@
+X:1
+T:Suite IV in E minor, Gigue
+T:Handel, George Frideric 
+T:8 Great Suites (1720) 
+T: HWV 429
+T:Oli 2020
+Z:Oli 2020
+%%score { ( 1 4 5 ) | ( 2 3 ) }
+L:1/8
+Q:1/4=154
+M:12/8
+K:G
+V:1 treble nm="Piano"
+V:4 treble 
+V:5 treble 
+V:2 bass 
+V:3 bass 
+V:1
+"^Allegro" B | e2 B cBA G3 TA3 | BAG FGE ^D3 z z E | FGA AGF GFE z z E | Bcd dcB c3 z z c | %5
+ Bcd cdB TA3 z z G | A2 D CB,A, B,3 z z d | g2 d =fed eg^f g2 c | BAG GAF G3- G2 :: d | %10
+ gfe dec B3 z z c | d2 G =FED E3 z z B | cBA e3- ed^c de=f | edc cBA A3 z z A | %14
+ d2 A e2 A f2 x z z e | ded ^cdB ^A3 z z f | b2 f agf g2 ^A B2 e | efd de^c B3 z z ^d | %18
+ e2 B f2 B g3 z eg | f2 g e2 f ^d3 z z f | b2 f agf g3 z z ^g | a2 e gfe f3 z z f | %22
+ gfe ^def e3 Bc=d | c2 B A^GA ABc BcA | GFE EF^D E3- E2 :| %25
+V:2
+ z | z2 z z z B, E2 B, CB,A, | G,3 A,3 B,A,G, F,G,E, | z z F, B,3 E,=D,C, B,,C,A,, | %4
+ z z B,, E,2 E, A,2 E, F,E,D, | G,3 z z G, DCB, A,B,G, | F,2 G, A,2 D, G,F,E, D,E,C, | %7
+ z z D, G,3 C,2 D, E,2 F, | G,2 C, A,B,C B,3- B,2 :: z | z2 z z z[I:staff -1] D GFE DEC | %11
+[I:staff +1] B,2 C D2 G, CB,A, ^G,A,B, | z2 z E3 A,3 B,3 | B,2 A, ^G,2 E,, A,3 =G,F,E, | %14
+ F,E,D, ^C,D,E, D,2 E, F,2 ^A,, | B,,2 D, E,F,G, F,2 ^C, E,D,C, | D,3 ^D,3 E,2 F, G,F,E, | %17
+ F,2 B,, F,2 F,, [^D,F,B,]3 x3 |[I:staff -1] GFE ^DEF B,^CD E2[I:staff +1] E, | %19
+ D3 C3 B,2 F, A,G,F, | G,F,E, ^D,3 E,3 z z E, | A,3 z z A, D,3 z z D, | %22
+ G,2 A, B,2 B,, CB,A, ^G,A,B, | A,2 B, CB,A, B,2 A, =G,2 F, | %24
+ B,2 A,, F,G,[I:staff -1]A,[I:staff +1] E,3- E,2 :| %25
+V:3
+ x | x12 | x12 | ^D,3 z z B,, x2 x4 | ^G,,3 z z G,, A,,6 | B,,3 C,3 D,3 x3 | x12 | %7
+ B,,3 z z B,, x6 | x3 D,3 G,2 D, G,,2 :: x | x12 | x12 | E,3- E,3 =F,3 B,,3 | %13
+ E,3 E,2 x A,,2 E, x x2 | x12 | x12 | x12 | x6 B,,3 x3 | z12 | x12 | x12 | x12 | x12 | x12 | %24
+ E,2[I:staff -1] C[I:staff +1] B,,2 B,, E,,3- E,,2 :| %25
+V:4
+ x | x12 | x12 | x12 | x6 z z E D3 | z z D EFG F3 x3 | x12 | x6 c3 z GA | D2 E x3 D3- D2 :: x | %10
+ x12 | x12 | x3 ^GAB A3- A3 | ^G2 E x2 D [^CE]3 x3 | x6 d^cB ^ABc | F3 G2 E ^C3 x3 | %16
+ B3[I:staff +1] B,3[I:staff -1] x6 | ^A2 B B2 A z z F =AGF | x11 x | z B2 z A2 [FB]3 x3 | %20
+ x3 z z B e2 B =dcB | c3 z z ^c d2 A =cBA | B3 z z A G2 A x3 | E2 ^D E2 F D3 E2 F | %24
+ x6 [G,B,]3- [G,B,]2 :| %25
+V:5
+ x | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x11 :: x | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %17
+ x12 | x6 z z B =c3 | x12 | x12 | x12 | x12 | x12 | x11 :| %25
+

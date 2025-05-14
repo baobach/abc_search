@@ -1,0 +1,23 @@
+X:1
+T:Title
+T:Dvorak Variatons for Violin and Clarinet
+T:J.Silva
+C:Composer
+%%score 1 2
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Violino" snm="Vno."
+V:2 treble transpose=-2 nm="Clarinete em B♭" snm="Cl. B♭"
+V:1
+ z6 z G | =B>d e>g e2 d>=B | G>A =Bd- d4 | G8 | d8 | d8 | G4 A2 =B2 | A3 G G4 | G4 A2 =B2 | d8 | %10
+ =B>d d2 B>A G2 | =B>B B2 B>A G2 | =B4 d2 ^f2 | g8 | g3 ^f g2 =B2 | A2 c2 =B2 A2 | g3 ^f g2 =B2 | %17
+ A2 c2 =B2 A2 | =B>B BB B2 e2 | e6 z d | e z d z e z z d | e4 d2 =Bd | e8 |!p! c4 A4 | =B4 c4 | %25
+ c>A =B4 z B | d>A d>A dG- G2 |!p! c4 A4 | =B4 c4 | c>A =B4 z B |!mf! d>A d>A dG- G2 | G8 |] %32
+V:2
+[K:G] A,A,- A,6 | A,A,- A,6 | A,A,- A,6 | EF/A/ FE F/A/F E2 | A2 ^c2 e2 e2 | e8 | ^c3 e e4 | %7
+ ^c2 B2 A4 | B2 ^c2 e2 c2 | B8 | ^C>C C2 C>B, A,2 | ^c>e e2 c>B A2 | ^c4 e2 e2 | A8 | %14
+ A,3 A, A,2 A,2 | A,8 | A,3 A, A,2 A,2 | A,8 | ^CCCC C/C/C/C/ F2 | F4 ^G2 A2 | ^G3 F F4 | F4 E4 | %22
+ F8 |!f! f4 e3 b | ^g2 e2 d2 d2- | d^c e6 | e6 z e | f3 e b2 ^g2 | e2 d2 d3 ^c | e8 | %30
+!mf! e3 d ^c2 B2 | ^c8 |] %32
+

@@ -1,0 +1,50 @@
+X:1
+T:XXXXX
+T:The Point of No Return
+T:Andrew Lloyd Webber
+%%score { 1 | 2 } 3 4
+L:1/8
+Q:1/4=98
+M:4/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass nm="Voice" snm="Vo."
+V:4 bass transpose=-12 nm="Acoustic Bass" snm="Bass"
+V:1
+!mp!"^Allegretto" C4- CF=EF | G3 A G4 | z4 z F GF | =A2 c4 e2 | e2 f2 d2 c2 | B3 c d2 e2 | %6
+w: Past _ the point of|no re- turn.|No back- ward|glan- ces, our|games of make be-|lieve are at an|
+ C2 B2 B2 A2 |!<(!!ped! =Edd!<)!!>(!d d2 C2!ped-up!!>)! |"^più mosso" C4- CF=EF | G3 A G4 | %10
+w: ||Past _ all thoughts of|"if" or "when".|
+ z4 z F!<(! GF | =A2 c4!<)!!mf! e2 | e2 f2 d2 z c | B3 c d2 e2 | c8 | z2 c2 c2 c2 | c2 d2 F2 A2 || %17
+w: No use re-|sist- ing, a-|ban- don thought and|let the dream de-|scend.|What ra- ging|fire shall flood the|
+[K:Gb] B3 B B2 B2 | B2 c2 G2 E2 | __E2 G2 c2 c2 | d2!>(! B2 G3 D!>)! ||[K:Ab]!mp! D8 | %22
+w: soul? What rich de-|sire un- locks its|door? What sweet se-|duc- tion lies be-|fore|
+!<(!!ped! =Edd!<)!!>(!d d2 C2!ped-up!!>)! || C4- CF=EF | G3 A G4 | z4 z F!<(! GF | %26
+w: |Past _ the point of|no re- turn.|The fi- nal|
+ =A2 c4!<)!!mf! e2 | e2 f2 d2 c2 | B2 c2 d2 e2 |"^rall."[Q:1/4=94] c6!mp! c2 | %30
+w: thres- hold, what|warm un- spo- ken|se- crets will we|learn? Be-|
+[Q:1/4=84] c2 d2 F2 A2 |[Q:1/4=76] B4[Q:1/4=62] =E4 | F8 |] %33
+w: yond the point of|no re-|turn.|
+V:2
+"Fm"!mp! [F,A,]8 |"C7" [=E,B,C]8 |"Fm" [F,A,C]8 |"F" [F,=A,C]8 |"Db"!<(! [D,F,A,]8!<)! | %5
+"Eb7"!>(! [E,G,B,D]8!>)! |"Ab" [A,CE]8 |"C7b9" [C,_F,B,]8 |"Fm" [F,A,]8 |"C7" [=E,B,C]8 | %10
+"Fm" [F,A,C]8 |"F" [F,=A,C]8 |"Db" [D,F,A,]8 |"Eb7" [E,G,B,D]8 |"Ab" [A,CE]8 |"Ab7" [A,CE_G]8 | %16
+"Db" [D,F,A,]8 ||[K:Gb]"Gb" [G,B,DG]4"Gb7" [G,B,D!courtesy!_F]4 |"Cb" [E,G,C]8 |"Cbm" [__E,G,C]8 | %20
+"Gb/Db" [D,G,B,]8 ||[K:Ab]"Gm7b5"!mp! [D,F,B,]8 |"C7b9" [C,_F,B,]8 ||"Fm" [F,A,]8 |"C7" [=E,B,C]8 | %25
+"Fm" [F,A,C]8 |"F" [F,=A,C]8 |"Db"!<(! [F,_A,E]8!<)! |"Eb7"!>(! [G,B,G]4 [G,B,G]4!>)! | %29
+"Ab""_rall." [A,CEG]4"Ab7" [A,C_G]4 |"Db"!mp!!<(! [F,_A,E]8!<)! |"Gb" [_G,B,D]4"^C7" [=E,B,C]4 | %32
+"Fm" [F,A,C]8 |] %33
+V:3
+!pp! [F,,F,A,C]8 | [C,,C,=E,B,C]8 | [F,,F,A,C]8 | [F,,F,=A,C]8 | [D,DFA]8 | [E,,E,G,B,D]8 | %6
+ [A,,A,CE]8 | [C,,C,_F,B,]8 | [C,,C,F,A,C]8 | [C,,C,=E,B,C]8 | [F,,F,A,C]8 | [F,,F,=A,C]8 | %12
+ [D,,D,F,A,]8 | [E,,E,G,B,D]8 | [A,,A,CE]8 | [A,,A,CE_G]8 | [D,,D,F,A,]8 || %17
+[K:Gb] [G,,G,B,DG]4 [G,,G,B,D!courtesy!_F]4 | [C,,E,G,C]8 | [C,,__E,G,C]8 | [D,,D,G,B,]8 || %21
+[K:Ab] [D,,D,F,B,]8 | [C,,C,_F,B,]8 || [F,,F,A,C]8 | [C,,C,=E,B,C]8 | [F,,F,A,C]8 | [F,,F,=A,C]8 | %27
+ [D,DFA]8 | [E,,E,G,B,D]8 | [A,,A,CE]4 [A,,A,CE_G]4 | [D,DFA]8 | [_G,,_G,B,D_G]4 [C,,C,=E,B,C]4 | %32
+ [F,,F,A,C]8 |] %33
+V:4
+!p! F,8 | C,8 | F,8 | F,8 | D8 | E,8 | A,8 | C,8 | C,8 | C,8 | F,8 | F,8 | D,8 | E,8 | A,8 | A,8 | %16
+ D,8 ||[K:Gb] G,4 G,4 | C,8 | C,8 | D,8 ||[K:Ab] D,8 | C,8 || F,8 | C,8 | F,8 | F,8 | D8 | E,8 | %29
+ A,4 A,4 | D8 | _G,4 C,4 | F,8 |] %33
+

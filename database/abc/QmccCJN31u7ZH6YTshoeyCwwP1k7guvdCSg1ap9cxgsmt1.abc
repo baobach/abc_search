@@ -1,0 +1,85 @@
+X:1
+T:Dem Schmerz sein Recht
+T:Alban Berg op. 2 N°1
+T:Friedrich Hebbel (1813 - 1863)
+T:Schlafen, Schlafen
+T:Aus: “Dem Schmerz sein Recht”
+C:Alban Berg
+Z:Stefan Georg
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=30
+M:6/8
+K:F
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Sehr langsam" z6 | z2 z!pp![Q:1/4=25]"^T" (F2 !breath!A,) | z2 z (F2 !breath!_B,) | %3
+w: |Schla- fen|Schla- fen,|
+ z2 z z!<(! (=B,"^poco" =F!<)! | =F3 E3) | z2 z z!<(! (^D =E!<)! |!p! ^F3 =F3- | F) z z ((^DE) ^F | %8
+w: nichts als|Schla- fen!|Kein Er-|wa- chen,|_ kei- * nen|
+!>(! (=F2!>)!!pp! =E)) z2 z |[Q:1/4=40]"^T" z2 z z!<(!"^cresc." (=D!<)! =A | %10
+w: Traum! *|Je- ner|
+!mf!!>(! _B2!>)! =A z =G =F |!>(! =c2!>)! =B) z z2 |!p! ((=c2 =B- B/) A/ A =G | %13
+w: We- hen, die mich|tra- fen,|Lei- * * se- stes Er-|
+!<(! =d2!<)! ^c!>(! (_B2!>)! =B)) | z =B!<(! =c (B/ c/ =d _e!<)! | %15
+w: in- nern kaum, _|dass ich, wenn des Le- bens|
+"^Breiter werdend" (=f3- f!>(!_e) =d)!>)! |!mp!!<(! (=f2!<)!!>(! _e =d3- | %17
+w: Fül- * * le|nie- der klingt|
+ d2!>)![Q:1/4=35]"^T"!p!"^dim." _d =c2 =B | (=B3 !breath!^A))!<(! (=c3/2!<)! =B/ | %19
+w: _ in mei- ne|Ruh' _ nur noch|
+ =B2 =F) z (=E _E | _B3!>(! =A2)!>)! !breath!z |!pp![Q:1/4=35]"^T""^dim." (_B2 =A A3- | %22
+w: tie- fer mich ver-|hül- le,|fe- ster zu|
+ A2[Q:1/4=25]"^T" ^G (=G^G) =A |!ppp![Q:1/4=20]"^T" D2) z z2 z | z6 |[Q:1/4=30]"^Tempo I." z6 | %26
+w: _ die Au- * gen|tu!|||
+ z6 |[Q:1/4=20]"^T" z6 | z6 | !fermata!z6 |] %30
+w: ||||
+V:2
+!ppp! z6 | F3 x3 | F3 x3 | [=A,=F]3 x3 | (F3 E3- | E3- E)!<(!(^DE!<)! | ^F3 =F3- | %7
+ F2 =E ^D!<(!E^F!<)! | =F2 =E) (^DE^F |!<(!"_cresc." =F=E)"^poco" (^F =FE)!<)! ([=G,^F] | %10
+!>(! [=G,=B,=F]/ z/8"^r. H" (=G,/8B,/8=F/8 _E/-)!>)!E/8=g/8"^r. H"=b/8f'/8 _e')!p! z z2 | %11
+ z/ z/ z/8"_l. H" (F/8A/8e/8) d/- d z ([=G,=G][=F,=F] | [^C=F=c]2 [=B,=B]- [B,B][=A,=A][=G,=G] | %13
+!<(! ^F [^F^f]!<)![=F=f]) z!>(! ([^F^f][=E=e])!>)! | %14
+!<(! z ([=F=f]!<)![=E=e])"_cresc." z (([=F=f][_E_e]) | %15
+!f! [=C^F_B=d]2) ([=c^f_b=d'] !arpeggio![=B=f=a^c']2) (!arpeggio![=B,=F=A^c] | %16
+!f! [=C^F_B=d]2) ([=c^f_b=d'] !arpeggio![=B=f=a^c']2)!>(! (!arpeggio![=B,=F=A^c] | %17
+ [=C=G=d]2)!>)!!mf!!<(! ([=g_d'] ([g=c']2- [gc']/!<)!=b/) | %18
+!>(! ([c=b]3!>)! !breath![ca]))!mp!!<(! (([=G=c]>=B)!<)! |!>(! ([=C=B]2!>)! =A))!<(! (^G=A!<)!=B | %20
+ _B3 !breath!=A2)!p! (!tenuto![=B=b] |"_l. H" [_B_b]3 [=A=a]3- | %22
+ [Aa] [=D=d]2)!<(! z z!p! [=A=a]!<)! | [=D=d]3 z z!pp! (=A | =D3) ^D!<(!E^F!<)! | %25
+!>(! =F3!>)! E2!<(! (^F!<)! | %26
+"^dim."!>(! [=F,=A,]3!>)![I:staff +1] [=F,=A,=B,]2)!<(! [=E,_A,=B,]!<)! | %27
+!>(![I:staff -1] [=F,=G,_B,=F]3!>)![I:staff +1] [=F,=G,_B,]2!<(! _E,!<)! | %28
+!>(![I:staff -1] [=F,=A,=D=F]3 [D,F,A,]3-!>)! | !fermata![D,F,A,]6!pppp! |] %30
+V:3
+ (D,,A,,D,,-) D,,(A,,D,,-) | (D,,A,,D,,-) D,,(A,,D,,) | (_B,,D,,B,,-) B,,(D,,_A,,) | %3
+ (=B,,D,,B,,) z (=A,,D,,-) | D,,(A,,D,,- D,,2) (A,, | D,,2 A,,- A,,2 A,, | %6
+!p! _E,,)(=A,,E,,- E,,2)!>(! (A,, | D,,3-!>)! D,,2) (A,, |!>(! D,,3-!>)! D,,2)!<(! (A,,!<)! | %9
+ D,,2) ([_E,,A,,] D,,2) _E,,/D,,/ | %10
+!mf! (^C,,/8!p!"_l. H"=G,,/8=B,,/8=F,/8 _E,/-E,/8"^l. H"[I:staff -1]=G/8=B/8=f/8 _e/- e)"_l. H"[I:staff +1] z"^r. H" [=E,_B,=D]2 | %11
+"_l. H" (=B,,/-!pp!(=B,,/8"^r. H"!>(!=F,/8=A,/8E/8 =D/-)D/8"^r. H"[I:staff -1]f/8a/8e'/8!>)! d')[I:staff +1] =E,,"_l. H"!p!!<(! [=E,_B,=D]2 | %12
+ (_E,,/-!<)!!>(!_E,,/8!ppp!=A,,/8!>(!^C,/8=G,/8!>)! =F,2)!>)! z [^F,=C=E]2 | (_B,2 =B, !>!D2 ^C) | %14
+ [=G,_E]3 [=G,_E]3 | [_A,,=D,=A,]2 (_A, =G,2) ([=G,,=D,_A,] | %16
+ [_A,,=D,=A,]2) (_A, =G,2) ([=G,,=D,_A,] | [=A,,_E,=G,]2) (^A, =B,=C=C | !>!=D3- D) [=E,=A,]2 | %19
+ (_A,=A,[I:staff -1][_B,_D])[I:staff +1] G,,2 ((=D, | D,)!>(!=G,,D,-) D,D!>)!G, | %21
+ ^C(=G,C- [G,C]3) | [^F,=C]3- [F,C]2 [=G,^C] | (!>!=F2 !>!=E!<(! !>!^D!>!E!>!^F!<)! | %24
+!p! =F2 =E z) z!<(! (!>!=A, |!mp! _A,,)!<)!(=D,A,,- A,,)(=D,^D,, | =E,,)(=B,,E,,- E,,)=B,,=C,, | %27
+ ^C,,(=G,,C,,- C,,)=G,,(^G,,, |"^l. H"!8vb(! =A,,,=D,,,A,,,- (A,,,D,,,)A,,,- | %29
+ A,,,D,,,A,,, D,,,A,,,!fermata!D,,,)!8vb)! |] %30
+V:4
+ x6 | F,3 [F,A,]3 | [F,_A,]3 [F,_B,]3 | x3 [=F,=B,]3 | x6 | x6 | x6 | x6 | x6 | x6 | %10
+ !>!^C,,2 x !>!^F,,3 | !>![=B,,,=B,,]3 E,,3 | !>!_E,,3 !>!^G,,3 | !>![^C,=G,]3 [C,G,]3 | %14
+ (=C,2 =B,, _B,,2 =A,,) | x6 | x6 | x2 [_E=G] [=E=A]3 | D3- D =B,,=C,/^C,/ | =D,2 =G,,- x3 | x6 | %21
+ x G,2 x3 | x6 | [^F,=C]2- [F,C]3 [=G,^C] | [^F,=C]3- [F,C]2 x | x6 | x6 | x6 |!8vb(! =D,,6 | %29
+ x6!8vb)! |] %30
+V:5
+ x6 | x6 | x6 | x6 | [^F,=C]6- | [F,C]6 | [=G,^C]6 | [^F,=C]3- [^F,C]2 [=G,^C] | %8
+ [^F,=C]3- [^F,C]2 [=G,^C] | [^F,=C]2 [=G,^C] [^F,=C]2 ^C | z6 | x6 | x6 | ^F=d^c (_B2 =B) | %14
+ (_B=B=c =d2) _c | x2 [=D=A] [=D_A]2 x | z2 [=D=A] [=D_A]2 x | x2 _d =d^d-d | e2 =f ^f =D^D | %19
+ =E =F2 ([=C=D=F]2 [=C_E^F] | [=B,-=D=F-]3 [B,F]3) | !>!^F3- F2 (!>!=F- | %22
+ F2"_l. H"!p! !>!=E !>!^D!>!E!>!^F) | x6 | x5 [=G,^C] | [^F,=C]3- [F,C]2 [=G,^C] | [=D=F]3 x2 ^F | %27
+ x5 [_B,^C^F] | [DF]6- | [DF]6 |] %30
+

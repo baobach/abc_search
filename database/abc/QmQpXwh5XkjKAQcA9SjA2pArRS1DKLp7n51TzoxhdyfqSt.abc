@@ -1,0 +1,36 @@
+X:1
+T:Aequale No. 1
+T:This OpenScore Edition is available for dedication.
+T:Aequale No. 1
+T:WAB 114
+T:Anton Bruckner
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+C:Anton Bruckner
+Z:OpenScore (CC0)
+%%score 1 2 3
+L:1/8
+Q:1/2=50
+M:2/2
+K:Eb
+V:1 alto nm="Alto Trombone" snm="A. Tbn."
+V:2 tenor nm="Tenor Trombone" snm="T. Tbn."
+V:3 bass nm="Bass Trombone" snm="B. Tbn."
+V:1
+ C8 | D4 E4 | =E4 F4 | !fermata!_E8 || E4 G4 | F4 E4 | E8 | !fermata!D8 || E8 | F4 G4 | G4 A4 | %11
+ !fermata!G8 || G4 F4 | F4 E4 | E4 D4 | !fermata!E8 || G8 | F4 E4 | (G2 F2 =E2 F2) | D4 F4 | %20
+ (F2 E2 D2 E2) | D4 C4 | C8 | !fermata!=B,8 || G6 G2 | (B2 A2 G2 A2) | G8 | G4 F4 | !fermata!=E8 || %29
+ F8 | _E4 D2 C2 | C4 =B,2 =A,2 | =B,8 | !fermata![G,C]8 |] %34
+V:2
+ E,8 | F,4 ^F,4 | G,4 A,4 | !fermata!G,8 || G,4 E4 | D4 C4 | C8 | !fermata!=B,8 || G,4 C4 | D4 E4 | %10
+ =E4 F4 | !fermata!=E8 || A,8 | _G,8 | F,4 =G,2 A,2 | !fermata!G,8 || B,8 | A,4 G,4 | %18
+ (B,2 A,2 G,2 A,2) | F,4 A,4 | (A,2 G,2 F,2 G,2) | F,4 E,4 | E,8 | !fermata!D,8 || B,6 B,2 | %25
+ (_D2 C2 =B,2 C2) | _B,8 | A,8 | !fermata!G,8 || F,8 | _G,4 _E,4 | E,4 D,2 C,2 | D,4 E,2 F,2 | %33
+ !fermata![=E,G,]8 |] %34
+V:3
+ C,8 | C,8 | C,4 F,,4 | !fermata!C,8 || C,8 | A,4 ^F,4 | G,8 | !fermata!G,,8 || C,8 | C,8 | %10
+ C,4 =B,,4 | !fermata!C,8 || F,,4 B,,4 | =A,,8 | B,,8 | !fermata![E,,E,]8 || E,8 | E,8 | B,,8 | %19
+ B,,4 =B,,4 | C,8 | A,,8 | G,,8 | !fermata!G,,8 || E,8 | A,,8 | E,8 | =B,,8 | !fermata!C,8 || %29
+ A,,8 | A,,8 | G,,8 | G,,8 | !fermata![C,,C,]8 |] %34
+

@@ -1,0 +1,33 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Grand Piano, Staff 1"
+V:2 treble 
+V:3 bass nm="Choir Pad, Nicht so Traurig"
+V:4 bass 
+V:5 bass 
+V:1
+ [CF]3 [CG] [CF]2 C2 | [DF]2 [EG]2 [FA]4 | [CA]2 [Fc]2 [FB]2 [FA]2 | [FG]2 [EG]2 F4 | %4
+w: By~Johann~Georg~Ebeling,~1666 * * *||||
+ [CF]3 [CG] [CF]2 C2 | [DF]2 [EG]2 [FA]4 | [CA]2 [Fc]2 [FB]2 [FA]2 | [FG]2 [EG]2 F4 | %8
+w: ||||
+ [CA]2 [FA]2 [EG]2 [Gc]2 | [G=B]2 [Gd]2 [Ec]4 | [CA]3 [CG] [B,B]2 [CA]2 | [DG]2 G-[B,G] [A,F]4- | %12
+w: ||||
+ [A,F]4 z4 |] %13
+w: |
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z2 .C2 z4 | x8 |] %13
+V:3
+ A,3 G, A,2 A,2 | A,2 C2 C4 | F,2 A,2[K:treble] D2 C2 | .C4 A,4 | A,3[K:bass] G, A,2 A,2 | %5
+ A,2 C2 C4 | F,2 A,2[K:treble] D2 C2 | .C4 A,4 | A,2 C2 C2 C2 | D2[K:bass] =B,2 C4 | %10
+ F,3 G, F,2 F,2 | F,2 E,2 F,4- | F,4 z4 |] %13
+V:4
+ F,3 E, F,2 F,E, | D,2 C,2 F,4 | z2 F,2 D,2 F,2 | B,,2 z B, F,4 | F,3 E, F,2 F,E, | D,2 C,2 F,4 | %6
+ z2 F,2 D,2 F,2 | C,2 z B, F,4 | F,2 F,2 C,2 E,2 | G,2 G,2 C,4 | z2 z E, D,2 z2 | B,,2 C,2 F,,4- | %12
+ F,,4 z4 |] %13
+V:5
+ x8 | x8 | x8 | z2 C,2 z4 | x8 | x8 | x8 | z2 C,2 z4 | x8 | x8 | x8 | x8 | x8 |] %13
+

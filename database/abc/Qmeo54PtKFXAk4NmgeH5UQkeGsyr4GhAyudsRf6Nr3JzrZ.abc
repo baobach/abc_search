@@ -1,0 +1,111 @@
+X:1
+T:The Well-Tempered Clavier Book I - XXII
+T:BWV 867    (A = 415 Hz)
+T:J. S. Bach
+%%score { ( 1 2 6 ) | ( 3 4 5 ) }
+L:1/8
+Q:1/4=80
+M:4/4
+K:Db
+V:1 treble 
+V:2 treble 
+V:6 treble 
+V:3 bass 
+V:4 bass 
+V:5 bass 
+V:1
+"^Praeludium" z B/c/ [Bd][Bd] [Bd][=Ac]/[Bd]/ [ce][Ace] | %1
+ [ce][Bd]/[ce]/ [df][Bdf] [df][ce]/[df]/ [eg][eg] | gf/e/ ff fe/d/ cd/e/ | =A f2 =g/=a/ b3 a/b/ | %4
+ c'3 c'/b/ =a3 a/c'/ | f8- | ff/e/ de/c/ dB/c/ dd | dc/B/ cc cB/A/ BB | BA/=G/ AA AG/A/ BG | %9
+ =Ec- cB/A/ BB- BA/=G/ | AA- AG/F/ Gd- dc/B/ | =ec f4 e2 | f2 z f/e/ =d2 z e/f/ | %13
+ g2 z e/d/ c2 z d/e/ | f2 z d/c/ BB gg/f/ | ee c'c'/b/ =aa bb/_a/ | gggg gf fg/f/ | %17
+ ee/d/ cc/d/ ec/d/ ed/c/ | d4- dg/f/ e/d/c/B/ | =AF/=G/ A[FA] [FA][=EG]/[FA]/ [GB][GB] | %20
+ [=GB]=A/[GB]/ [Ac][Ac] [Ac][GB]/[Ac]/ [Bd][Bd] | %21
+ [Bd][=Ac]/[Bd]/ [ce][ce]/[df]/ !fermata![eg]2 z f | de/c/ dc/B/ B4- | !fermata!B8 |[M:2/2] z8 | %25
+[Q:1/4=120]"^Fuga" B4 F4 | z2 g2 f2 e2 | d2 c2 d2 e2 | f2 =ef =g4- | g2 a=g f4- | f2 ed e2 f2 | %31
+ g6 fe | f2 =g2 a4- | a2 =gf g2 =a2 | b6 =a=g | =a2 b2 c'4- | c'2 b=a b2 _a2 | g2 f2 e4- | %38
+ e2 fg f2 e2 | d8 | c8 | B8- | B6 e2 | A8- | A4 d4 | c4 f4- | f4 e2 d2 | c4 d4- | d4 c4 | d4 A4 | %50
+ z2 _c'2 b2 a2 | g2 f2 g2 a2 | b2 =ab c'4- | c'2 b4 =a2 | b8- | b4 a4 | g8 | f4 _f4 | e8- | %59
+ e4 a4- | a4 =g4 | a4 z4 | z2 f2 e2 d2 | c2 A2 B2 c2 | d8- | d4 c4 | d2 _cB c4- | c2 BA B2 =c2 | %68
+ d6 cB | c2 =d2 e4- | e2 dc dede | f4 e4- | e2 e2 d2 c2 | %73
+ BcdB A/4G/4A/4G/4A/4G/4A/4G/4 A/4G/4A/4G/4A/4G/4A/4G/4 | f4 B4 | z2 _c'2 b2 a2 | g4 _f2 e2 | %77
+ =d4 e4- | e4 =d4 | e4 z4 | z2 f2 e2 d2 | c2 B2 c2 d2 | e2 g2 f2 e2 | =d2 f2 e2 _d2 | c4 d4- | %85
+ d2 c4 B2 | =A2 g2 f2 e2 | d4 c4 | B8 | A8 | G8 | z4 B4 | F4 z2 g2 | f2 e2 d2 c2 | d2 e2 f2 e2 | %95
+ d2 c2 B4- | B2 c2 d4- | d2 d2 c2 B2 | B4 =A4 | !fermata!B8 |] %100
+V:2
+ z F z F G2 z[I:staff +1] G | F2[I:staff -1] z[I:staff +1] F[I:staff -1] =A2 z A | ed z d B2 z B | %3
+ FB/c/ d2- dc/d/ e2- | eg/f/ e2- e-e/d/ c2- | c=A/B/ cc/d/ ec/d/ e2- | ed/c/ B=A B2 z B | %7
+ BA z A A=G z G | =GF z F FD z D | CF/=E/ FF FE/=D/ EE | =EF/_E/ DD DB/=A/ B2 | c2 z c dB z c | %12
+ cc/B/ c2 z _c/B/ A2 | z G/A/ B2 z E/F/ G2 | z A/G/ FF GG BB | B=A/B/ cc ff ff | fe ee ed/c/ BB | %17
+ B=A/B/ BA/B/ AA/B/ cB/A/ | B2 z B B2 z G | F2 z E D2 z =E | =EF z F F2 z F | %21
+ GG[G=A][GA] [GAc]2 z c | BB [FB][E=A] BF/G/ _AA | AG- GF/E/ !fermata!F4 |[M:2/2] x8 | x8 | x8 | %27
+ F4 B,4 | z2 d2 c2 B2 | A2 =G2 A2 B2 | c6 B=A | B2 c2 d4- | d2 cB c2 =d2 | e6 dc | d2 e2 f4- | %35
+ f2 ed e4- | e2 fe d2 c2 | B6 =AB | c2 =A2 B2 c2- | c2 B=A B4- | B4 A4- | A8 | G8- | G8 | F4 B4 | %45
+ A4 d4- | d2 c2 B4 | A8- | A2 B2 A2 G2 | F2 E2 F2 G2 | A4 F4 | B4 E4 | z2 g2 f2 e2 | d4 c4 | %54
+ =d4 e4 | f8- | f2 e=d e4- | e4 d4- | d2 e_f e2 d2 | _c4 _f4 | _fe d2- dfed | c4 z4 | x8 | x8 | %64
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | z2 d2 c2 B2 | =ABcA F2 _A2 | x8 | F4 B4 | E4 z2 f2 | e2 d2 c4 | %77
+ B8- | B8 | B4 E4 | z2 d2 c2 B2 | =A2 =G2 A2 B2 | c2 e2 d2 _c2 | B2 =d2 c2 B2 | =A4 B4 | E4 =E4 | %86
+ F2 =A2 B2 c2- | c2 B4 =A2 | B2 A2 G2 F2 | E2 DE F4- | F2 F2 E2 D2 | F8 | F4 B,4 | z2 c2 B2 =A2 | %94
+ B2 =A2 B2 c2 | B2 =A2 B4 | A2 G2 F4 | =G8 | F2 G2 F2 E2 | =D8 |] %100
+V:3
+ D2 z D E2 z [CE] | D2 z D C2 z C | %2
+[I:staff -1] B2[I:staff +1] z[I:staff -1] B =G_G[I:staff +1] z[I:staff -1] G | %3
+ F2[I:staff +1] z F G4- | G[I:staff -1]e/d/ c2- cc/B/[I:staff +1] =A2- | %5
+ AF/=G/[I:staff -1] =A2- AA/B/ cA |[I:staff +1] F3 G/E/ F2 z[I:staff -1] F | %7
+ EE[I:staff +1] z[I:staff -1] F FF[I:staff +1] z[I:staff -1] F | %8
+ =EC[I:staff +1] z[I:staff -1] C D[I:staff +1]B, z B, | =G,A,- A,G,/F,/ G,G,G,C | %10
+ CC- CB,/=A,/ B,G,/F,/ G,2 | =G,A,/G,/ F,2- F,=E,/F,/ G,G, | %12
+ F,2[I:staff -1] A2[I:staff +1] z A/G/ F2 | z E/F/ G2 z C/D/ E2 | z F/E/ DD DD EE/F/ | %15
+ GG GF[I:staff -1] cc BB | BB B=A/B/ c[I:staff +1]F/^D/ _DD | DC/D/ E[I:staff -1]F GG FF | %18
+ F2[I:staff +1] z[I:staff -1] F G2[I:staff +1] z[I:staff -1] E/D/ | %19
+ C[I:staff +1]=A,/B,/ CC B,2 z D | CC/D/ EE DD/C/ B,B,/A,/ | G,G,/F,/ G,G, !fermata![E,G,]2 z F | %22
+ FB,/[I:staff -1]G/[I:staff +1] F,2- F,F,/E,/ =D,/C,/E,/D,/ | =D,E,/F,/ G,G, !fermata!F,4 | %24
+[M:2/2] z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | F,4 B,,4 | z2 D2 C2 B,2 | %38
+ =A,2 F,2 =G,2 A,2 | B,2 C,2 D,2 E,2 | F,2 G,2 A,4 | B,8- | B,8 | C2 C,2 D,2 E,2 | %44
+ F,2 E,2 F,2 G,2 | A,2 B,C B,2 A,2 | G,2 A,2 B,2 CD | A,8- | A,8- | A,4 z4 | z8 | z8 | z8 | %53
+ B,4 F,4 | z2 G2 F2 E2 | =D2 B,2 C2 D2 | E2 F,2 G,2 A,2 | B,2 _C2 D4 | E2 =G,2 A,2 B,2 | %59
+ _C2 B,2 A,2 G,2 | _F,4 E,4- | E,2 A,2 G,2 F,2 | E,2 D,2 B,4 | A,2[I:staff -1] G2 F2 E2 | %64
+ D2 G4 F2 | E8 |[I:staff +1] A,4[I:staff -1] A2 GF | G2 D4 E2 | %68
+[I:staff +1] A,2[I:staff -1] AG A2 E2- | E2 F2[I:staff +1] B,4- | %70
+ B,2[I:staff -1] F4[I:staff +1] B,2 | DCB,A, G,F,G,E, | F,4 B,,4 | %73
+[I:staff -1] G2[I:staff +1] F2 E4- | E2 DC D4 |[I:staff -1] E4 =D4 | E2 B2 A2 G2 | %77
+[I:staff +1] F,4 B,,4 | z2 _C2 B,2 A,2 | G,2 F,2 G,2 A,2 | B,2 CD E4- | E2 D2 C2 B,2 | =A,4 _A,4- | %83
+ A,4 G,4- | G,2 F,2 E,2 D,2 | B,6 C2 | D2 C2 D2 E2 | F8- | F4 E2 D2 | _C8 | %90
+[I:staff -1] B,2 D2 C2 B,2 |[I:staff +1] =A,4 B,4 | =A,4 z4 | F,4 B,,4 | z2 C2 B,2 =A,2 | %95
+ B,2 C2 D2[I:staff -1] E2 |[I:staff +1] B,8 | z8 | C4 F,4- | F,8 |] %100
+V:4
+ B,B,B,B, B,B,B,B, | B,B,B,B, B,B,B,B, | B,B,/C/ DD DC/D/ EE | ED/E/ FF FE/D/ CB, | %4
+ =A,3 A,/B,/ C3 C/D/ | E3 E/D/ CC/B,/ =A,=G,/F,/ | B,4- B,D/C/ B,A, | %7
+ =G,A,/G,/ F,E, =D,G,/F,/ =E,G, | C,F,/E,/ D,C, B,,B,,B,,B,, | B,,A,,D,D, D,C,/B,,/ C,C, | %10
+ C,F,,B,,B,, B,,B,,B,,B,, | B,,A,,D,C, B,,D,C,C, | F,,2 z F, B,2 z B, | E,2 z D, A,2 z A, | %14
+ D,2 z D, G,G,/F,/ E,E, | CC/B,/ =A,A, EF/E/ =DD | EE/D/ CC/B,/ =A,A, B,B,/_A,/ | x8 | %18
+ B,,B,,/A,,/ G,,G,,/F,,/ E,,E,,E,,E,, | F,,F,F,F, F,F,F,F, | F,F,F,F, F,F,F,F, | %21
+ F,E,/D,/ [C,E,][C,E,]/[B,,D,]/ [=A,,C,]2 z =A, | B,G,/E,/ F,F,, B,,B,,B,,B,, | B,,B,,B,,B,, B,,4 | %24
+[M:2/2] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | B,,4 F,,4 | %40
+ z2 G,2 F,2 E,2 | =D,2 B,,2 C,2 D,2 | E,2 F,2 E,2 D,2 | C,2 A,,2 B,,2 C,2 | D,4 B,,4 | F,4 D,4 | %46
+ E,2 F,2 G,4- | G,2 F,2 E,2 D,2 | A,4 A,,4 | D,4 z4 | x8 | x8 | x8 | x8 | x8 | x8 | E,4 B,,4 | %57
+ z2 _C2 B,2 A,2 | =G,2 E,2 F,2 G,2 | A,2 G,2 _F,2 E,2 | D,2 B,,2 E,2 E,,2 | A,,4 B,,2 A,,2 | %62
+ G,,4 G,4- | G,2 F,2 G,2 A,2 | B,4 G,4 | A,2 B,2 A,2 G,2 | F,6 E,D, | E,2 F,2 G,4- | %68
+ G,2 F,E, F,2 =G,2 | A,6 =G,F, | =G,2 =A,2 B,CB,C | x8 | x8 | z2 D2 C2 B,2 | =A,2 _A,4 G,F, | %75
+ G,2 A,2 B,4 | E,4 A,,4- | A,,2 G,,2 F,,2 E,,2 | B,,8 | E,6 F,2 | G,8- | G,2 F,2 E,2 D,2 | %82
+ C,4 F,4 | B,,4 E,4- | E,2 D,2 C,2 B,,2 | G,4 =G,4 | F,8- | F,4 F,,4 | G,,8- | %89
+ G,,2 F,,2 E,,2 =D,,2 | E,,4 E,4- | E,2 D,C, D,2 E,2 | F,2 E,2 D,2 C,2 | D,2 =A,,2 B,,4 | %94
+ F,,4 z2 G,2 | F,2 E,2 D,2 C,2 | D,2 E,2 F,G,=E,F, | =E,,8 | F,,8 | !fermata!B,,8 |] %100
+V:5
+ x8 | x8 | B, z z2 z4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %18
+ x8 | x8 | x8 | x8 | x8 | x8 |[M:2/2] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %36
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %55
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %74
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %93
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %100
+V:6
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | cF/=G/ AA AG/A/ BB | BA/=G/ A2 z4 | x8 | %14
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z4 =DD/E/ FF | FE- E=D/C/ z4 |[M:2/2] x8 | x8 | x8 | x8 | %28
+ x8 | x8 | x8 | x8 | x8 | x8 |[I:staff +1] B,4 F,4 |[I:staff -1] z2[I:staff +1] G2 F2 E2 | %36
+ D2 C2 B,2 CD | E2 F2 G4 | F2 E2 D2 C2 |[I:staff -1] D2 E2 F2 G2 | C4 F4- | F2 =D2 E2 F2- | %42
+ F2 E=D E4- | E8 | D4 F4- | F8 | B2 A2 G2 F2 | E4 F4 | E8 | D2 C2 D2 E2 | F4 =D4 | E6 F2 | %52
+ G2 F2 =A2 =GF | B2 f2 e4 | B8- | B8- | B8- | B8- | B8 | A2 B2 _c4 | B8 | A4 z4 | x8 | x8 | x8 | %65
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | F4 G4 | F8 | E4 B,4 | x8 | x8 | x8 | %83
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | C2 E4 D2 | C4 B,4 |[I:staff +1] F,4[I:staff -1] z2 G2 | %94
+ F2 E2[I:staff +1] D2 C2 | D[I:staff -1]E F4 G2 | F2 E2 D4 | =G4 C4- | C8 | B,8 |] %100
+

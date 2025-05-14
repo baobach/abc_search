@@ -1,0 +1,25 @@
+X:1
+T:Kinrara
+T:Kinrara
+T:William Marshall
+C:William Marshall
+%%score { 1 2 }
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+V:2 bass 
+V:1
+"^Slow" B | (B,>B) (B>c) (B>G) (F>D) | (B,<B){cBA} Bc/d/ c2 C{E}D/C/ | %3
+ B,<B f>d (g>f) !fermata!b3/2{abc'ba}g | (f>d) (Tc>d) B2 BB | (B,>B) (B>c) (B>G) (F>D) | %6
+ B,<B{cBA} Bc/d/ c2 C{E}D/C/ | B,<B f>d (g>f) !fermata!b3/2{abc'ba}g | (f>d) (Tc>d) B2 B || %9
+{edc} (d/e/) | [df]>[eg] [df]<d (B>d) (F>B) | G>FE>D C2 Cd/e/ | f>gf>d (fg/a/ b)B | %13
+ edeg Tg2 (f{edc}d/e/) | (f.d) .B.d (f>.d) .B.d | G<c c>B{Bc} d2{ed} cD/C/ | %16
+ B,<B (f>d) (g>f) !fermata!b3/2{ababc'ba}g | (f<d) (Tc>d) B2- B |] %18
+V:2
+ z | B,,2 B,,2 D,>E, D,B,, | D,2 B,,2 F,2 E,2 | D,2 D,2 E,2 !tenuto!D,>E, x/ | %4
+ F,2 F,,2 B,,B,B,, z | B,,2 B,,2 D,>E, D,B,, | D,2 B,,2 F,2 E,2 | D,2 D,2 E,2 !tenuto!D,>E, x/ | %8
+ F,2 F,,2 B,,B,B,, || z | B,,2 B,,2 B,,2 D,2 | E,>D,C,>B,, F,2 F, z | B,,2 B,,2 B,,E, D,B,, | %13
+ G,F,G,E, B,,2 B,, z | [B,,D,F,B,]4 [B,,D,F,B,]4 | E,2 E,2 F,3 z | D,2 D,2 E,2 !fermata!D,>E, x/ | %17
+ F,2 F,,2 B,,B,B,, |] %18
+

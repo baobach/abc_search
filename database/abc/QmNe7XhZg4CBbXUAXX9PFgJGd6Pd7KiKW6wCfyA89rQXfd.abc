@@ -1,0 +1,60 @@
+X:1
+T:Fanciullo
+T:Fanciullo
+T:Gio.Girolamo Kapsperger
+C:Gio.Girolamo Kapsperger
+%%score [ 1 2 ] { ( 3 5 ) | ( 4 6 ) }
+L:1/8
+Q:1/4=120
+M:3/2
+K:F
+V:1 treble nm="Soprano 1" snm="S 1"
+V:2 treble nm="Soprano 2" snm="S 2"
+V:3 treble nm="BC" snm="BC"
+V:5 treble 
+V:4 bass 
+V:6 bass 
+V:1
+ d4 f4 e4 | d8 d4 | c4 _e4 d4 | _e8 e4 | d4 d4 c4 | d8 d4 | f4 _e4 d4 | c8 c4 | _e4 d4 c4 | %9
+w: Fan- ciul- lo'ar-|cie- ro,|ti- ran- no'al-|tie- ro,|chi vuol- ti|se- gna,|ch'io nel tuo'im-|pe- ro,|non piu de-|
+w: Non piu se-|pol- to,|tra'i lac- c'in-|vol- to,|di duo Crin|d'o- ro,|m'en giac- cio'ac-|col- to,|non piu di|
+w: Gio- i- sci'e|go- di,|che tron- c'i|no- di,|'ha'l- cru- do'A-|mo- re,|in- gan- ni'e|fro- di,|non piu te-|
+ B4 A4 c4 | B4 A8 | G12 :: A4 A4 B4 | c8 c4 | B6 c2 B4 | A8 A4 | A4 B4 c4 | d6 _e2 f4 | _e6 e2 d4 | %19
+w: sio la pa-|ce'o tre-|gua,|il cor ge-|la- to|piu non t'ha|fe- de,|sei trop in-|gra- to, cru-|de- l'e spie-|
+w: duol tra- fit-|to mo-|ro,|sciol- to'e quel|lac- cio|spien- to'e quel|fo- co,|son fuor d'im-|pac- cio, son|tut- to di|
+w: mer dis- cio-|sto co-|re,|le fiam- me'ar-|den- ti|al- ma d'A-|mo- re,|gia piu non|sen- ti, O|gio- 'e con-|
+ c8 c4 | _e4 d4 c4 | B4 A4 c4 | B4 A8 | G12 |] %24
+w: ta- to|col cor io|ti ri- vol-|go'il pie-|de.|
+w: giac- co|e gia d'A-|mor mi bur-|lo'e gio-|co.|
+w: ten- ti|in li- ber-|ta tri- on-|fa'il co-|re.|
+V:2
+ B4 d4 ^c4 | d8 d4 | A4 c4 =B4 | c8 c4 | B4 B4 A4 | B8 B4 | d4 c4 B4 | A8 A4 | c4 B4 A4 | %9
+w: Fan- ciul- lo'ar-|cie- ro,|ti- ran- no'al-|tie- ro,|chi vuol- ti|se- gna,|ch'io nel tuo'im-|pe- ro,|non piu de-|
+w: Non piu se-|pol- to,|tra'i lac- c'in-|vol- to,|di duo Crin|d'o- ro,|m'en giac- cio'ac-|col- to,|non piu di|
+w: Gio- is- ci'e|go- di,|che tron- c'i|no- di,|ti'ha'l cru- do'A-|mo- re,|in gan- ni'e|fro- di,|non piu- te-|
+ G4 ^F4 A4 | G4 G6 ^F2 | G12 :: ^F4 F4 G4 | A8 A4 | G6 A2 G4 | ^F8 F4 |"^#" F4 G4 A4 | B6 c2 d4 | %18
+w: sio la pa-|ce'o tre- *|gua,|il cor ge-|la- to,|piu non t'ha|fe- de,|sei trop in-|gra- to, cru-|
+w: duol tra- fit-|to mo- *|ro,|sciol- to'e quel|lac- cio|spien- to'e quel|fo- co,|son fuor d'im-|pac- cio, son|
+w: mer dis- cio-|sto co- *|re,|le fiam- me'ar-|den- ti|al- ma d'A-|mo- re,|gia piu non|sen- ti, O|
+ c6 c2 =B4 | c8 c4 | c4 B4 A4 | G4 ^F4 A4 | G4 G4 ^F4 | G12 |] %24
+w: de- l'e spie-|ta- to,|col cor io|ti ri- vol-|go'il pie- *|de.|
+w: tut- to di|giac- co|e gia d'A-|mor mi bur-|lo'e gio- *|co.|
+w: gio- 'e con|ten- ti|in li- ber-|ta tri- on-|fa'il co- *|re.|
+V:3
+ [DGB]4 [FA]4 [E^c]4 | [^FAd]12 | [Ac]4 [G_e]4 [=Bd]4 | [G_e]12 | [FB]4 [GB]4 [Ac]4 | [Fd]12 | %6
+ [df]4 [G_e]4 [FB]4 | [FAc]12 | [G_e]4 [FB]4 [Ac]4 |"^-natural" [GB]4 [^FA]4 [EA]4 | B4 d8 | %11
+ [DG=B]12 :: [^FA]8 [DB]4 | [EA]12 | [DB]12 | [^FA]12 | [^Fd]4 [DB]4 [Ac]4 | [Fd]12 | %18
+ [GB]4 [Ac]4 [D=B]4 | [_EGc]12 | [G_e]4 [FB]4 [Ac]4 |"^-natural" [GB]4 [^FA]4 [EA]4 | B4 d8 | %23
+ [DG=B]12 |] %24
+V:4
+ G,4 D,4 A,4 | D,8 D,4 | F,4 C,4 G,4 | C,8 C,4 |"^b" D,4 E,4 F,4 | B,,8 B,,4 | %6
+"^b" B,,4 C,4 D,2 E,2 | F,8 F,4 |"^b" C,4 D,6 E,2 | _E,8 C,4 | G,,4 D,6 D,2 | G,,12 :: D,8 G,,4 | %13
+ C,8 C,4 | G,,8 G,,4 | D,8 D,4 | D,4 G,4 F,4 | B,,8 B,,4 | _E,4 F,4 G,4 | C,8 C,4 | %20
+"^b" C,4 D,4 E,4 | _E,8 C,4 | G,4 A,2 G,2 ^F,4 | [G,,G,]12 |] %24
+V:5
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | D4 G6 ^F2 | x12 :: x12 | x12 | x12 | %15
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | D2 E2 ^F2 G2 A4 | x12 |] %24
+V:6
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 :: x12 | x12 | x12 | x12 | %16
+ x12 | x12 | x12 | x12 | x12 | x12 | G,,4 D,8 | x12 |] %24
+

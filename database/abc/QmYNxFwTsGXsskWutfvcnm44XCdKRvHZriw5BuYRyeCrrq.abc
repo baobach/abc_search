@@ -1,0 +1,48 @@
+X:1
+T:卡农
+T:卡农
+T:C大调简易版
+T:Johann Pachelbel
+C:Johann Pachelbel
+%%score { 1 | 2 }
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ E4 D4 | C4 B,4 | A,4 G,4 | A,4 B,4 | [Ge]4 [Gd]4 | [Ec]4 [EB]4 | [CA]4 [CG]4 | [CA]4 [DB]4 | %8
+ [Ge]4 [Gd]2 F2 | c4 B2 G2 | A4 G2 E2 | [FA]4 [DG]2 F2 | cBcE G2 B2 | c2 e2 gega | fedf edcB | %15
+ AF c2 BGcB | cBcE G2 B2 | c2 ec gega | fedf edcB | AG F2 c>G Bd/G/ | e>G e/d/c/d/ d>e f/e/d/e/ | %21
+ c>c cB/c/ BG/E/ EG | A2 Bc G2 EG | [FA]2 F/A/c c>B B/c/d/G/ | e>G e/d/c/d/ d>e f/e/d/e/ | %25
+ c>c cB/c/ BG/E/ EG | A2 Bc G2 EG | [FA]2 F/A/c c>B B/c/d/G/ | ge/f/ ge/f/ g/B/A/B/ c/d/e/f/ | %29
+ ec/d/ eE/F/ G/A/G/F/ G/c/B/c/ | Ac/B/ AG/F/ G/F/E/F/ G/A/B/c/ | Ac/B/ cB/c/ B/A/B/c/ d/e/f/g/ | %32
+ ge/f/ ge/f/ g/B/A/B/ c/d/e/f/ | ec/d/ eE/F/ G/A/G/F/ G/c/B/c/ | Ac/B/ AG/F/ G/F/E/F/ G/A/B/c/ | %35
+ Ac/B/ cB/c/ B/A/B/c/ d/e/f/g/ | ec/d/ ed/c/ d/B/c/d/ e/d/c/B/ | cA/B/ cC/D/ E/F/E/D/ E/c/B/c/ | %38
+ Ac/B/ AG/F/ G/F/E/F/ G/A/B/c/ | Ac/B/ cB/A/ B/c/d/c/ B/c/A/B/ | c8 | z8 | z8 | z8 | %44
+ z e/f/ ge z d/e/ fd | z c/d/ ec z e/d/ cB | z A/B/ cA z G/A/ cG | z A/B/ cB/A/ z/ G/A/B/ dB | %48
+ z e/f/ ge z d/e/ fd | z/ A/c/d/ ec z g/f/ eg | aa/g/ fa gg/f/ eg | %51
+ a/g/f/a/ g/f/a/g/ b/a/g B/c/d/G/ | [Ge]2 e/d/c/d/ d>e e/f/d/e/ | d>c cB/c/ E/G/B/c/ e/g/b/c'/ | %54
+ b/a/g/f/ g/f/e/d/ e/d/c/B/ c/B/A/G/ | A/G/F/G/ A/F/A/c/ B/A/G/c/ c/G/d/G/ | [ce]2 ef gagf | %57
+ [ce]2 cd efed | [Fc]2 A/B/c/c/ c/cc/ c/c/B/c/ | [FA]2 F/A/c/d/ c/BB/ B/c/d/G/ | [ce]2 ef gagf | %61
+ [ce]2 cd efed | [Fc]2 A/B/c/c/ c/cc/ c/c/B/c/ | [FA]2 F/A/c/d/ c/BB/ B/c/d/G/ | e4 d4 | c4 B4 | %66
+ A4 G4 | A4 B4 | e4 d4 | c4 B4 | A4 G4 | A4 B4 | [Ec]8 |] %73
+V:2
+ C,4 G,,4 | A,,4 E,,4 | F,,4 G,,4 | F,,4 G,,4 | C,4 G,,4 | A,,4 E,,4 | F,,4 C,4 | F,,4 G,,4 | %8
+ C,G,CE B,,D,G,B, | A,,E,A,C E,,E,G,B, | F,,C,F,A, C,E,G,C | F,,C,F,A, G,,D,G,B, | %12
+ C,E,G,C G,,D,G,B, | A,,E,A,C E,,E,G,B, | F,,C,F,A, C,E,G,C | F,,C,F,A, G,,D,G,B, | %16
+ C,E,G,C G,,D,G,B, | A,,E,A,C E,,E,G,B, | F,,C,F,A, C,E,G,C | F,,C,F,A, G,,D,G,B, | %20
+ C,E,G,C B,,D,G,B, | A,,E,A,C E,,E,G,B, | F,,C,F,A, C,E,G,C | F,,C,F,A, G,,D,G,B, | %24
+ C,E,G,C G,,D,G,B, | A,,E,A,C E,,E,G,B, | F,,C,F,A, C,E,G,C | F,,C,F,A, G,,D,G,B, | %28
+ C,G, C2 G,,D, B,2 | A,,E, C2 E,,E, G,2 | F,,C, A,2 C,G, C2 | F,,C, A,2 G,,D, B,2 | %32
+ C,G, C2 G,,D, B,2 | A,,E, C2 E,,E, G,2 | F,,C, A,2 C,G, C2 | F,,C, A,2 G,,D, B,2 | %36
+ C,G, C2 G,,D, B,2 | A,,E, C2 E,,E, G,2 | F,,C, A,2 C,G, C2 | F,,C, A,2 G,,D, B,2 | %40
+ C,G,CE G,,D,G,B, | A,,E,A,C E,,E,G,B, | F,,C,F,A, C,G,CE | F,,C,F,A, G,,D,G,B, | %44
+ C,E,G,C G,,D,G,B, | A,,E,A,C E,,E,G,B, | F,,C,F,A, C,E,G,C | F,,C,F,A, G,,D,G,B, | %48
+ C,E,G,C G,,D,G,B, | A,,E,A,C E,,E,G,B, | F,,C,F,A, C,E,G,C | F,,C,F,A, G,,D,G,B, | %52
+ C,E,G,C G,,D,G,B, | A,,E,A,C E,,E,G,B, | F,,C,F,A, C,E,G,C | F,,C,F,A, G,,D,G,B, | %56
+ C,E,G,C G,,D,G,B, | A,,E,A,C E,,E,G,B, | F,,C,F,A, C,E,G,C | F,,C,F,A, E,,E,G,B, | %60
+ C,E,G,C G,,D,G,B, | A,,E,A,C E,,E,G,B, | F,,C,F,A, C,E,G,C | F,,C,F,A, G,,D,G,B, | %64
+ C,G,CE B,,D,G,B, | A,,E,A,C E,,E,G,B, | F,,C,F,A, C,E,G,C | F,,C,F,A, G,,D,G,B, | %68
+ C,G,CE B,,D,G,B, | A,,E,A,C E,,E,G,B, | F,,C,F,A, C,E,G,C | F,,C,F,A, G,,D,G,B, | [C,G,]8 |] %73
+

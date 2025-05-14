@@ -1,0 +1,38 @@
+X:1
+T:Title
+%%score { ( 1 3 5 ) | ( 2 4 ) }
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Grand Piano"
+V:3 treble 
+V:5 treble 
+V:2 bass 
+V:4 bass 
+V:1
+ z4 z2[Q:1/4=100] (3FFF | [DB]3 [DA] [DG]>[DF] [CE]>D | F2 E2 z2 (3EEE | A3 G F2 E2 | D6 (3FFF | %5
+ [DB]3 [DB] [DB]>[Fd] [Fc]>[FB] | c2 G2 z2 (3GG[FG] | [=Ec]3 [Ed] [Ec]>[EB] [EA]>[EG] |[M:3/4] F6 | %9
+[M:12/8] F3 d-[Fd-][Fd-] [Fd-][Fd-][Fd-] dcB | F3 c6 z3 | z3 A6 z3 | z3 G6[K:bass] z3 | %13
+ z3[K:treble] d6- d z z | .d3 c6 z3 | z3 d3 z3 c3 |[M:9/8] z3 B6- | B6 z3 |] %18
+V:2
+ z4 z2 (3F,F,F, | [B,,F,]3 [B,,F,] [B,,F,]>[B,,F,] [B,,F,]>[B,,F,B,] | %2
+ [F,B,D]2 [F,A,C]2 z2 (3[F,A,C][F,A,C][F,A,C] | [F,CE]3 [F,B,E] [F,A,D]2 [F,A,C]2 | %4
+ [B,,F,B,]6 (3F,F,F, | [B,,F,]3 [B,,F,] [B,,F,]>[B,,B,] [C,A,]>[D,B,] | %6
+ [E,G,E]2 [E,B,E]2 z2 (3[E,B,E][E,B,E][D,=B,] | [C,C]3 [C,C] [C,C]>[C,C] [C,C]>[C,B,] | %8
+[M:3/4] [A,C]2 z2 z2 |[M:12/8] z3 [B,,B,][B,,B,][B,,B,] [B,,B,][B,,B,][B,,B,] [B,,B,]3 | %10
+ [B,,B,]3 [E,G,E][E,G,][E,G,] [E,G,][E,G,][E,G,] [E,B,E]3 | %11
+ G2 G[K:bass] [F,CE][F,C][F,C] [F,C][F,C][E,C] [F,CE]3 | [F,CE]3 [B,,B,]B,,B,, B,,B,,B,, B,,3 | %13
+ B2 c[K:bass] [B,,B,][B,,B,][B,,B,] [B,,B,][B,,B,][B,,B,] [B,,B,]3 | %14
+ [B,,B,]3 [E,G,E][E,G,][E,G,] [E,G,][E,G,][E,G,] [C,C]3 | z3 F3 .D3 E3 |[M:9/8] .E3 F,3 z3 | z9 |] %18
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:3/4] z2 D2 E2 |[M:12/8] z3 .F3 z3 F3 | dcB z EE EEE G3 | %11
+ c2 B z EE EEE AGF | AGF z[K:bass] B,B, [=E,_D][E,D][E,D] [F,=DF]3 | z3[K:treble] FFF FFF z cB | %14
+ F-[F-c][FB] z EE EEE [Ge]3 | edc z B,B, F2 d z A,A, |[M:9/8] F2 c D3 _D3 | D3 z3 z3 |] %18
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:3/4] F,2- [F,-B,]2 [F,C]2 |[M:12/8] x12 | x12 | %11
+ x3[K:bass] x9 | x12 | x3[K:bass] x9 | x12 | z3 [F,B,]F,F, [F,B,]2- [F,B,F] [F,A,]F,F, | %16
+[M:9/8] [F,A,]2- [F,A,E] B,,3- [B,,-G,]3 | [B,,F,]3 z3 z3 |] %18
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:3/4] x6 |[M:12/8] x12 | x12 | x12 | x4[K:bass] x8 | %13
+ z6[K:treble] z3 F3 | x12 | x12 |[M:9/8] x9 | x9 |] %18
+

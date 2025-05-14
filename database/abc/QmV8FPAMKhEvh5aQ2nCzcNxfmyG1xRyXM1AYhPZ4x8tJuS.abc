@@ -1,0 +1,50 @@
+X:1
+T:Premier Livre de Pièces de Clavecin
+T:Jean-Philippe Rameau
+T:4. Courante
+T:Premier Livre de Pièces de Clavecin
+C:Jean-Philippe Rameau
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/2=63
+M:3/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+ e |: e6 c2{c} d3 e | B3 B c2 A2{A} B3 c |{A} T^G6 A2 B3 c | A3 A d2 dc{c} B3 e | %5
+{d} Tc4{B} A2 a2 e3 ^f | g6 ^f2{f} g3 a |{e} T^d3 ^c B2 e=d =c3 B | ^f3 ^d e2- ef{g} Tf3 e |1 %9
+ e6- e4 z e :|2 e6- e4 z b || b6 ^g2{g} a3 b | e3 d c2 B2{B} c3 d |{d} Tc3 B A2 a2 Pe3 g | %14
+ f2 ^c2 d3 e{f} Te3 d | d6 f2 f4 | f6 e2 e4 | e6 d2 d4 | d6 c2 c4 | (c2 B>)^G A2- AB{c} TB3 A | %20
+ A6- A4 z b | b6 ^g2{g} a3 b | e3 d c2 B2{B} c3 d |{d} Tc3 B A2 a2 Pe3 g | f2 ^c2 d3 e{f} Te3 d | %25
+ d6 f2 f4 | f6 e2 e4 | e6 d2 d4 | d6 c2 c4 | (c2 B>)^G A2- AB{c} TB3 A | A6 f2 f4 | f6 e2 e4 | %32
+ e6 d2 d4 | d6 c2 d4 | (c2 B>)^G A2- AB{c} TB3 A | A6- A6 | [A,CEA]12 |] %37
+V:2
+ z |: z2 E,2- [E,A,-]2 A,6 | [DF]4 E2- E4 D2- | [B,D]4 C4 ^G,4 | [C,A,]4 B,,2 A,,2 E,2 [E,,E,]2 | %5
+ A,,6[K:treble] A2 PG2 ^F2 |[K:bass] E3 D CB, A,2 G,2 ^F,2 | G,4- G,^F, E,2 ^F2 E2 | %8
+ ^D2 ^F2 B,2 E2 D4 |1 E3 B, ^G,2 E,2 B,,2 E,,2 :|2 E3 B, ^G,2 E,2 B,,2 ^G,,2 || %11
+ E,,2- [E,,B,,]2- [E,,B,,E,]2 D2 C2 B,2 | A2 ^G2 A2 E6 | A,6- A,6- | A,2 G,2 A,2 D2 ^C2- [CG]2 | %15
+ D4 [D,A,]2 z2 D4 | G3 F ED C2 C,4 | F,3 E,D,C, B,,2 B,4 | E3 D CB, A,2 A,,4 | %19
+ z2 z z/ B,/ C2 A,2 ^G,4 | A,3 C A,2 E,2 C,2 A,,2 | E,,2- [E,,B,,]2- [E,,B,,E,]2 D2 C2 B,2 | %22
+ A2 ^G2 A2 E6 | A,6- A,6 | A,2 G,2 A,2 D2 ^C2- [CG]2 | D4 [D,A,]2 z2 D4 | G3 F ED C2 C,4 | %27
+ F,3 E,D,C, B,,2 B,4 | E3 D CB, A,2 A,,4 | z2 z z/ B,/ C2 A,2 ^G,4 | A,4 [A,,E,]2 z2 D4 | %31
+ G3 F ED C2 C,4 | F,3 E,D,C, B,,2 B,4 | E3 D CB, A,2 A,,4 | z2 z z/ B,/ C2 A,2 ^G,4 | %35
+ A,3 E, C,2 A,,2 E,,2 C,,2 | [A,,,A,,]12 |] %37
+V:3
+ x |: z c-[Ac]-[EAc]- [EAc]2 x6 | x12 | x12 | E2 ^F3 ^G A4 G2 | z6 z2 c4 | B6 c2 B2 A2- | %7
+ A6 G2 x4 | A4 B2 c2 B2 A2 |1 z B [^GB]4- [GB]4 z2 :|2 z B [^GB]4- [GB]4 z2 || %11
+ z ^g-[eg]-[Beg]- [Beg]2 z6 | x12 | x12 | x12 | z A- [FA]4 A2 B3 c | B6 B2{B} c3 B | %17
+ A6 A2{A} B3 c | ^G6 A=G F3 E | F4 E2 z2 z2 D2 | z E [CE]4- [CE]4 z2 | z ^g-[eg]-[Beg]- [Beg]2 z6 | %22
+ x12 | x12 | x12 | z A- [FA]4 A2 B3 c | B6 B2{B} c3 B | A6 A2{A} B3 c | ^G6 A=G F3 E | %29
+ F4 E2 z2 z2 D2 | z E- [CE]4 A2 B3 c | B6 B2{B} c3 B | A6 A2 B3 c | ^G6 A=G F3 E | F4 E2 z2 z2 D2 | %35
+ z E [CE]4- [CE]6 | x12 |] %37
+V:4
+ x |: F,,4- x2 F,,6 | A,2 ^G,2 =G,2 ^F,2 =F,4 | E,6 C,2 D,4 | x12 | x6[K:treble] x6 |[K:bass] x12 | %7
+ x8 A,2 B,2 | C3 ^D, G,2 A,2 B,4 |1 x12 :|2 x12 || x12 | C2 B,2 A,2 ^G,2 ^F,2 E,2 | %13
+ A,3 G,F,E, D,2 ^C,2 A,,2 | D,2 E,2 F,2 G,2 A,4 | z2 z A,- x8 | x12 | x12 | x12 | D,4 C,2 D,2 E,4 | %20
+ x12 | x12 | C2 B,2 A,2 ^G,2 ^F,2 E,2 | A,3 G,F,E, D,2 ^C,2 A,,2 | D,2 E,2 F,2 G,2 A,4 | %25
+ z2 z A,- x8 | x12 | x12 | x12 | D,4 C,2 D,2 E,4 | z2 z E, x4 z4 | x12 | x12 | x12 | %34
+ D,4 C,2 D,2 E,4 | x12 | x12 |] %37
+

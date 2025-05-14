@@ -1,0 +1,29 @@
+X:1
+T:Ode to Clouseau
+T:Ode to Clouseau
+T:(from Blake Edwards' "Revenge of the Pink Panther")
+T:comp. by Henry Mancini arr. by Alexander Dockins 
+T:1978
+C:Henry Mancini
+Z:1978
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=66
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+!pp! [A,CFA]2 [A,CFA]2 [A,CFc]2 [A,CF]2 | [G,_B,D]2 [G,CE]B, [F,A,CF]3 z | %2
+ [F,A,DF]2 [F,A,DFA]2 [DGB]2 [DGd]2 | [DGBe]2 [DGBf]d [CEGc]3 z | %4
+ [^G,C^Gc]2 [G,CGc]d [=G,_B,=G^d]2 [G,B,G_B]2 | [^G,C^G]2 [G,CGc]2 [=G,C^D=G]4 | %6
+ [G,B,DG]2 [G,B,DG]F [G,CE]2 [G,CEG]2 | [A,D^FA]2 [A,DF]2 [G,DGB]3 z | %8
+ [CEGc]2 [CEGc]G [A,DFA]2 [CEG]2 | [A,CF]2 [G,CE]2 [F,B,D]2 [C,E,G,C]2 | %10
+ [CEGc]2 [CEGc]G [A,DFA]2 [CEG]2 | [A,D^FA]2 [A,DF]C [G,DGB]2 [G,D=FB]2 | %12
+ [CEGc]2 [CEGc]G [A,DFA]2 [CEG]2 | [A,CF]2 [G,CE]2 [F,B,D]2 [C,E,G,C]2 | %14
+ [^G,C_E]2 z [G,C] [G,C]2 [G,CE]2 | [E,G,CE]4- [E,G,_B,CE]2 G2 :| [A,CF]8- | [A,CF]3 z z2 z2 |] %18
+V:2
+ F,,2 E,,2 D,,2 C,,2 | _B,,,2 C,,B,,, F,,3 z | D,,4 G,,4 | G,,2 G,,2 C,3 z | F,4 _E,4 | F,4 C,4 | %6
+ B,,4 C,4 | D,4 G,3 z | G,2 C,2 F,2 C,2 | F,2 C,2 G,,2 C,,2 | C,4 F,2 C,2 | D,4 G,4 | C,4 F,2 C,2 | %13
+ F,2 C,2 G,,2 C,,2 | G,,4- G,,4 | C,4- C,4 :| [F,,,F,,]8- | [F,,,F,,]3 z z2 z2 |] %18
+

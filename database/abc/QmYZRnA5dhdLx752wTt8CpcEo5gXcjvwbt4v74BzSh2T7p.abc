@@ -1,0 +1,21 @@
+X:1
+T:Title
+T:Piano Concerto #1 Mov.3 Bar 144-148
+T:F. Chopin
+C:Composer
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=104
+M:2/4
+K:E
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^Vivace"!<(! (3(^E/B/d/ (3^e/b/d'/ (3^e'/f'/e'/ (3d'/e'/d'/!<)! | %1
+ (3^^c'/!tenuto!^e'/c'/ (3!>!b/!tenuto!e'/b/ (3^a/f'/a/ (3g/!tenuto!e'/g/) | %2
+ (3(^^f/d'/f/ (3!>!=e/^a/e/ (3d/a/d/ (3c/a/c/) | %3
+ (3(B/!tenuto!d/B/ (3!>!A/!tenuto!d/A/ (3G/e/G/ (3F/!tenuto!d/F/ | c) z2 z |] %5
+V:2
+!ped! .G,,[B,D] .^E,[B,D]!ped-up! |!ped! .^A,,[G,^^C] .^E,[G,C]!ped-up! | %2
+!ped! .D,,[^^F,C] .D,[F,C]!ped-up! |!ped! .G,,[^F,^B,] z B,!ped-up! | .A,, z2 z |] %5
+

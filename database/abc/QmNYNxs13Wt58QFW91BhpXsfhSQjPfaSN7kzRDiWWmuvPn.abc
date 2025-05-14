@@ -1,0 +1,41 @@
+X:1
+T:Title
+%%score { ( 1 4 5 ) | ( 2 3 6 ) }
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Grand Piano"
+V:4 treble 
+V:5 treble 
+V:2 bass 
+V:3 bass 
+V:6 bass 
+V:1
+ z4 z2[Q:1/4=100] [DGB]2 | [DAd]>[FA] [DFA]2- [DFA][GB][DAc][Fd] | [DGB]6 [EGB]2 | %3
+ [B,FB]3 [^DF] [B,DF]2 [B,FA]2 |[M:3/4] [B,EG]6 |[M:1/4] [B,EG]2 |[M:4/4] [EA]4 z4 | %7
+ [Fd]3 [Fd] [^C=F^c]2 [DFB]2 | [FA]4 z4[K:bass] |[M:3/4] D6[K:treble] |[M:1/4] [CFd]2 | %11
+[M:4/4] [B,Gd]>[DGB] [DGB]2 z2 [DGB]2 | [EGe]>[EGB] [EGB]2 z2 [FGB]2 | [EGc]3 [Gc] [EG]2 [^DGA]2 | %14
+[M:3/4] [DGB]6 |[M:1/4] [DGB]2 |[M:4/4] [CGc]2 [=FGB]2 [EGe]2 [Gd]2 | [DFd]3 [Fc] [DGB]2 [G,DG]2 | %18
+ [G,CE]2 cB [CFA]3 [B,G] |[M:3/4] [B,G]6 |] %20
+V:2
+ z4 z2 G,2 | z z/ D/ D,2 z D z D | G,2 B,A, G,F, E,2 | ^D,2 z B, D,2 B,,2 |[M:3/4] E,2 G,F, E,2 | %5
+[M:1/4] D,2 |[M:4/4] ^C,2 z E B,,2 A,,2 | B,4 z4 | A,,2 z D A,,2 A,,2 |[M:3/4] D,2 C,2 B,,2 | %10
+[M:1/4] A,,2 |[M:4/4] G,,>G, G,2 z2 G,F, | E,>E, E,2 z2 D,2 | C,2 z E C,2 C,2 | %14
+[M:3/4] G,,2 D,2 G,2 |[M:1/4] =F,2 |[M:4/4] E,2 D,2 C,2 B,,2 | z2 D,2 z4 | C,2 A,B, D,3 G,, | %19
+[M:3/4] G,,6 |] %20
+V:3
+ x8 | F,2 z2 F,2 D,2 | x8 | z2 B,,2 z4 |[M:3/4] x6 |[M:1/4] x2 |[M:4/4] z2 ^C,2 z4 | %7
+ B,,2 z B, ^G,,2 G,,2 | z2 A,,2 z4 |[M:3/4] x6 |[M:1/4] x2 |[M:4/4] x8 | x8 | z2 C,2 z4 | %14
+[M:3/4] x6 |[M:1/4] x2 |[M:4/4] x8 | A,,2 z D G,,2 B,,2 | z2 A,,2 z4 |[M:3/4] x6 |] %20
+V:4
+ x8 | x8 | x8 | x8 |[M:3/4] x6 |[M:1/4] x2 |[M:4/4] A,2 z A [DGB]2 [^CG^c]2 | x8 | %8
+ D2 z F [A,^CF]2[K:bass] [G,CE]2 |[M:3/4] F,4[K:treble] G,2 |[M:1/4] x2 |[M:4/4] x8 | x8 | x8 | %14
+[M:3/4] x6 |[M:1/4] x2 |[M:4/4] x8 | x8 | z2 E2 z4 |[M:3/4] x6 |] %20
+V:5
+ x8 | x8 | x8 | x8 |[M:3/4] x6 |[M:1/4] x2 |[M:4/4] z2 A,2 z4 | x8 | z2 A,2 z4[K:bass] | %9
+[M:3/4] x4[K:treble] x2 |[M:1/4] x2 |[M:4/4] x8 | x8 | x8 |[M:3/4] x6 |[M:1/4] x2 |[M:4/4] x8 | %17
+ x8 | x8 |[M:3/4] x6 |] %20
+V:6
+ x8 | x8 | x8 | x8 |[M:3/4] x6 |[M:1/4] x2 |[M:4/4] x8 | z2 A,,2 z4 | x8 |[M:3/4] x6 |[M:1/4] x2 | %11
+[M:4/4] x8 | x8 | x8 |[M:3/4] x6 |[M:1/4] x2 |[M:4/4] x8 | x8 | x8 |[M:3/4] x6 |] %20
+

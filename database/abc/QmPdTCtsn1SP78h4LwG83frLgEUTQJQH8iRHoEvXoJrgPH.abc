@@ -1,0 +1,60 @@
+X:1
+T:Contigo en la distancia
+T:Contigo en la distancia
+T:César Portillo de la Luz 
+C:César Portillo de la Luz
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=114
+M:4/4
+K:C
+V:1 treble nm="Soprano" snm="S."
+V:2 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Moderato" z8 | z4 !fermata!z2 z D || c d2 c d2 Bd | A2 G4 CD | d3 e/d/ (3c2 d2 c2 | B6 z B | %6
+w: |noex-|is- teun- mo- men- to del|di- a en que|pue- daol- vi- dar- me de|ti. El|
+ A B2 A B2 AG | ^F2 E6 | ^f2 ef e3 ^G/A/ | d8- | d2 z D E^FGE |: A4 A4- | AE^FG A3 F | B8- | %14
+w: mun- do pa- re- ce dis-|tin- to|cuan- do noes- tás jun- toa|mi|_ Nohay be- lla me- lo-|dí- a|_ en que no sur- jas|tu|
+ B2 z ^F GABG | c4 c4- | c^GAB c3 B | d8 | z2 B^c (3^d2 e2 ^f2 | g4 g4- | g2 z g ^fed^c | ^f4 f4- | %22
+w: _ ni yo quie- roes- cu-|char- la|_ cuan- do me fal- tas|tú.|Es que tehas con- ver-|ti- do|_ en par- te de mi|al- ma|
+ f2 z =f edcB | e4 e4- | e2 z e dcBc | d8 | (3z2 E2 ^F2 (3^G2 A2 B2 | c4 c4- | c3 c BAG^F | %29
+w: _ y na- da me con-|for- ma|_ si noes- tás tú tam-|bien.|Más a- llá de tus|la bios|_ el sol y las es-|
+ d4 d4- | d2 z D E^FGE | G G3- GCEG |1 BB- B4 D2 ||1 G8- || G2 z D E^FGE :|2 B B3 z2 d2 || g8- | %37
+w: tre- llas|_ con- ti- goen la dis-|tan- cia _ a- ma- da|mi- a _ es-|toy.|_ Nohay be- lla me- lo|mi- a es-|toy|
+ g8- | g8- | g2 z2 z4 |] %40
+w: _|||
+V:2
+!f! c2 G2 E4 | E2 B2 _E2 z D || [EG]4 ^F4 | D6 ^CD | G4 ^F4 | [DGB]6 z B | A B2 A B2 AG | B,4 z4 | %8
+ [A^c]4 G3 z | d8- | [^FAd]2 z D EFGE |: A4 A4- | AE^FG A3 F | B8- | B2 z ^F GABG | c4 c4- | %16
+ c^GAB c3 B | d8 | z2 B^c (3^d2 e2 ^f2 | g4 g4- | g2 z g ^fed^c | ^f4 f4- | f2 z =f edcB | e4 e4- | %24
+ e2 z e dcBc | d8 | (3z2 E2 ^F2 (3^G2 A2 B2 | c4 c4- | c3 c BAG^F | d4 d4- | [GBd]2 z D E^FGE | %31
+ G G3- GCEG |1 BB- B4 D2 ||1 G8- || G2 z D E^FGE :|2 B B3 [^B,^F]2 d2 || g8- | g8- | g8- | %39
+ [Beg]2 z2 z4 |] %40
+V:3
+ gedc BABc | C4 !fermata!C2 z2 || c d2 c d2 Bd | A2 G4 z2 | d3 e/d/ (3c2 d2 c2 | x8 | E4 ^D4 | %7
+ ^F2 E6 | ^f2 ef e3 ^G/A/ | [^FA]4 [^E^G]4 | x8 |: z [CEG]2 [CEG] z [CEG] z [CEG] | %12
+ z C3 z [CE] z [CD] | z [D^F]2 [DF] z [DF] z [DF] | z [B,E]2 z D4 | z [EG]2 [EG] z [EG] z [EG] | %16
+ z [CE]3 ^F4 | z [^FB]2 [FB] z [FB] z [FB] | [EB] z x2 A4 | z [Be]2 [Be] z [Be] z [Be] | %20
+ z [^Ae]2 [Ae] z A z [EA] | z [Bd]2 [Bd] z [Bd] z [Bd] | z [Bd]2 [Bd] z [E^G] z [DG] | %23
+ z [Ac]2 [Ac] z [^Gc] z [Gc] | z [Gc]2 [Gc] z [^FA] z [FA] | z [GB]2 [GB] z [GB] z [GB] | z4 D4 | %27
+ z [EA]2 [EA] z [E^G]2 [EG] | z [EG]2 [EG] ^D4 | z [GB]2 [GB] z [^Fc] z [Fc] | x8 | C4 z4 |1 %32
+ [C^F]6 z2 ||1 z [B,E]2 [B,E] z [B,E] z [B,E] || z [B,E]2 z D2 ^C2 :|2 [^CG]4 z4 || %36
+ z [Bd]2 [Bd] z [Bd] z [Bd] | z [A_e]2 [Ae] z [Ae] z [Ae] | z [Be]2 [Be] z [Be] z [Be] | x8 |] %40
+V:4
+ [A,,E,]4 [C,G,]4 | [G,A,]4 !fermata![D,^F,]2 z2 || A,4 [D,C]4 | [G,B,]4 B,,4 | [A,,E,]4 [D,A,]4 | %5
+ G,2 ^F,2 E,2 D,2 | [C,G,]4 [B,,^F,]4 | [E,G,]3 B,, E,^F,G,B, | A,4 A,,4 | D,8- | [D,C]2 z2 z4 |: %11
+ A,,4 E,2 E,,2 | A,,4 D,2 D,,2 | G,,4 D,2 D,,2 | G,,4 B,,2 E,2 | A,,4 E,2 E,,2 | A,,4 D,2 D,,2 | %17
+ G,,4 D,2 D,,2 | G,, z z2 [B,,^F,]4 | E,4 D,2 D,2 | ^C,4 ^F,,2 F,,2 | B,,4 A,,2 A,,2 | %22
+ ^G,,4 E,,2 E,2 | A,,4 E,2 E,,2 | A,,4 D,2 D,,2 | G,,4 G,2 F,2 | E,4 E,,4 | A,,4 E,2 E,,2 | %28
+ A,,4 C,4 | B,,4 A,,2 A,,2 | G,,2 z2 B,,4 | A,,3 E, A,,4 |1 D,4 D,,4 ||1 %33
+ [G,,D,]4 [G,,D,]2 [G,,D,]2 || [G,,D,]2 z2 B,,2 _B,,2 :|2 [A,,E,]4 [^G,,^D,]4 || %36
+ [G,,D,]4 [G,,D,]2 [G,,D,]2 | [F,,C,]4 [F,,C,]2 [F,,C,]2 | [G,,D,]4 [G,,D,]2 [G,,D,]2 | %39
+ [G,,D,]2 z2!8vb(! G,,,2 z2!8vb)! |] %40
+V:5
+ x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | C4 B,4 | x8 |: x8 | x8 | x8 | x8 | x8 | x8 | x8 | %18
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |1 x8 ||1 x8 || x8 :|2 x8 || %36
+ x8 | x8 | x8 | x4!8vb(! x4!8vb)! |] %40
+

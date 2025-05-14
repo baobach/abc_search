@@ -1,0 +1,32 @@
+X:1
+T:Eternal Wind
+T:Eternal Wind
+T:Reflections in Crystal 
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=87
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^\n" d6 g2 | e6 c2 | d2 e6- | e8 | d6 e2 | c6 d2 | B8- | B8 | d6 g2 | e6 c2 | d2 e6- | e8 | %12
+ d6 e2 | c6 d2 | B8 | %15
+"^accel."[Q:1/4=60] B4[Q:1/4=79]"^.4" B[Q:1/4=81]"^.7"B/[Q:1/4=82]"^.8"c/[Q:1/4=83]"^.8" d/[Q:1/4=84]"^.8"e/[Q:1/4=85]"^.7"^f/[Q:1/4=86]"^.6"^g/ | %16
+[Q:1/4=87] [Aa]4- [Aa][Ee][Ge][Gg] | [Aa]2 [cc']2 [Bb]2 g2 | [Aa]4- [Aa][Ee][Ee][Dd] | %19
+ [Ee]4 [Ge]2 [Gg]2 |{/d} g3 d ddde |{/e} f2 f2 e2 d2 | [Ee]8 | [^G^g]2 [^G,B,E]2 [B,EG]2 [EGB]2 | %24
+ [Aa]4- [Aa][Ee][Ge][Gg] | [Aa]2 [cc']2 [Bb]2 g2 | [Aa]4- [Aa][Ee][Ee][Dd] | %27
+"^rit."[Q:1/4=87] [Ee]8[Q:1/4=77]"^.8"[Q:1/4=73]"^.7"[Q:1/4=70]"^.7"[Q:1/4=68]"^.1"[Q:1/4=65]"^.8"[Q:1/4=63]"^.7" | %28
+[Q:1/4=87] !arpeggio!!fermata![^A,Fda]4 z agf | e2 d2 c2 d2 | !arpeggio!!fermata![B,DAe]8 | %31
+ !arpeggio!!fermata![e^gbe']8 |] %32
+V:2
+ [C,,C,]3 [E,G,B,]2 [E,G,B,]3 | [C,,C,]3 [E,G,B,]2 [E,G,B,]3 | [A,,A,]3 [E,G,C]4- [E,G,C] | %3
+ [A,,A,]3 [E,G,C]3 G,,2 | [F,,F,]3 [A,CE]2 [A,CD]3 | [F,,F,]3 [A,CE]2 [A,CD]3 | %6
+ [E,,E,]3 [G,B,D]3 [G,B,D]2 | [E,,E,]3 [G,B,D]3- [^G,,G,B,D]2 | A,,3 [E,G,C]2 [E,G,C]3 | %9
+ G,,2 .[G,_B,D] C,2 [B,CE]3 | F,,3 [F,A,C]3 [A,CE]2 | [G,^CE]3 G,,3 [G,CE]2 | %12
+ _G,,3 [A,CE]2 [A,CD]3 | F,,3 [A,CE]2 [A,CD]3 | E,,3 [G,B,D]3 [G,B,D]2 | !trill(!T[E,,^G,B,DE]8 | %16
+ [F,,F,C]A,ED CA,EA, | [F,,A,]CB,A, EA,GA, | [E,,E,]B,DG, ^FG,DE, | [E,,E,]B,AB, EB,EB, | %20
+ [D,,D,]F,A,F, DA, D2 | [D,D]A,DA, EA, D/A,/F,/D,/ | [^C,,^C,]/E,/^G,/B,/ D/E/^G/B/ GE^CE | %23
+ !trill(!T[E,,E,]8 | [F,,F,C]A,ED CA,EA, | [F,,A,]CB,A, EA,GA, | [E,,E,]B,DG, ^FG,DE, | %27
+ [E,,E,]B,AB, GB, ^G2 | z8 | z8 | z8 | !arpeggio!!fermata!E,,,8 |] %32
+

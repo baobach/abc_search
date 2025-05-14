@@ -1,0 +1,42 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/8
+Q:1/4=98
+M:4/4
+K:G
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 bass nm="Choir Pad, Countless Mercies, Kirkland"
+V:4 bass 
+V:5 bass 
+V:1
+ [B,D]>[B,D] [B,E]>[CF] [DG]>[DF] [DG]>[FA] | [GB]2 [Gc]2 [Gd]4 | %2
+w: By~Charles~Hutchinson~Gabriel * * * * * * *||
+ [Ac]>[Ac] [Ac]>[GB] [FA]>[GB] [FA]>[EG] | z4 A4 | [B,D]>[B,D] [B,E]>[CF] [DG]>[DF] [DG]>[FA] | %5
+w: |||
+ [GB]2 [Gc]2 [Gd]4 | [G^c]>[Gc] [Gc]>[Gd] [Gc]>[GB] [FA]>[EG] | [DF]2 [^CE]2 D4 | d4 z4 | %9
+w: ||||
+ [Fc]>[Ec] [Dc]>[Ec] [Fc]4 | c4 z4 | [Gd]>[Ad] [Bd]>[Ad] [Gd]4 | d4 z4 | %13
+w: ||||
+ [Ec]>[Fc] [Gc]>[Fc] [Ec]4 | [Cc]>[Fc] [GB]>[FA] [GB]>[Gc] [Gd]>G | [GB]2 [DA]2 [DG]4- | %16
+w: |||
+ [DG]4 z4 |] %17
+w: |
+V:2
+ x8 | x8 | x8 | [DF]2 [EG]2 F2 C2 | x8 | x8 | x8 | x8 | G>G G>G [GB]2 G2 | x8 | %10
+ F>F F>F [FA]2 [DF]2 | x8 | G>G G>G [GB]2 [=FG]2 | x8 | x8 | x8 | x8 |] %17
+V:3
+ G,>G, G,>A, B,>A, B,>[K:treble]D | D2 A,2 B,4 | D>D D>D D>D D>[K:bass]A, | A,2 ^C2 =C>C, F,>A,, | %4
+ G,>G, G,>A, B,>A, B,>D | D2 A,2 B,4 | A,>A, A,>A, A,>A, A,>A, | A,2 G,2 F,4 | B,>B, B,>B, D2 B,2 | %9
+ A,>G, F,>G, A,4 | A,>A, A,>A,[K:treble] C2 C2 | B,>C D>C[K:bass] B,4 | B,>B, B,>B, D2 B,2 | %13
+ G,>F, E,>F, G,4 | F,>A,[K:treble] D>D D>A, B,>D | D2 C2 B,4- | B,4 z4 |] %17
+V:4
+ z2 z z/ G,/ G,>G, G,>D, | G,2 G,2 G,4 | D,>D, D,>D, D,>D, D,>D, | z4 D,4 | %4
+ z2 z z/ G,/ G,>G, G,>D, | G,2 G,2 G,4 | z8 | z2 A,,2 D,4 | G,>G, G,>G, G,2 G,2 | D,2 D,2 D,4 | %10
+ D,>D, D,>D, D,2 D,2 | G,2 G,2 G,4 | G,>G, G,>G, G,2 G,2 | C,2 C,2 C,4 | D,>D, D,>D, G,>G, G,>B,, | %15
+ D,2 D,2 G,,4- | G,,4 z4 |] %17
+V:5
+ x8 | x8 | x8 | A,,2 A,,2 z2 A,,2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %16
+ x8 |] %17
+

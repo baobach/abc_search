@@ -1,0 +1,55 @@
+X:1
+T:Le Piccadilly
+T:Erik Satie 1866-1925 
+T:1904
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=84
+M:2/4
+K:Bb
+V:1 treble nm="Piano à queue" snm="Pia."
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+!f!{.cd=e} .f.a.f.d | (f<c)!ff! [c=egc']2 | .D._D/.D/ (C/A,/C/=D/ | F2 D2) || %4
+[K:bass]!pp! z [A,C]/[A,C]/ z [A,D] | z [A,C]/[A,C]/ z [=E,C] | z [A,C]/[A,C]/ z [A,D] | %7
+ z [A,C]/[A,C]/ z [=E,C] |[K:treble]!p! (A/c)(d/ f).d | (c/A).G/ .F.D | (C/F)(D/ C/F)D/ | %11
+ z .[Bc]/.[Bc]/ [Bc][Bc] | =E/G(E/ D/E/G) | .D/.D/.F/.F/ .D/.C/!>!F | (=E_E D=E/G/ | %15
+ C)(D/F/ =E)(G/_A/) |!f! ([Aa]/[cc'])([dd']/ [ff']).[dd'] | ([cc']/[Aa])([Gg]/ [Ff]).[Dd] | %18
+ ([Cc]/[Ff])(.[Dd]/ [Cc]/([Ff]).[Dd]/ | [Aa]2 [Gg])(.[Ff]/.[Dd]/ | %20
+ [FA]/-[DF-A-d])(.[FAc]/ .A/.G/.F) | (D/F)(.D/ C2) | ([Cc]/[Ff])(.[Dd]/ [Cc]/[Dd])(.[Dd]/ | %23
+ [Cc]/[Dd])(.[Dd]/ [FAcf]2)!fine! |[K:bass]!f!{F,G,A,} B,2 z (D/C/) |{F,G,A,} B,2 z (D/C/) | %26
+{F,G,A,} B,2 z (D/C/) |{F,G,A,} B,2 z (D/C/) |[K:treble]!p! ED/D/ CD/E/ | (F/A)(F/ A).F/.E/ | %30
+ (D/F).G/ .B(G | FDFG) | (A/c).A/ c(A/c/ | G/B).G/ (BG/D/) |!<(! C/C/D/D/ E/E/=E/E/!<)! | %35
+ !>!F!<(! [Ff]/[Ff]/ [Ff][Ff]!<)! |!f! .[Ee].[Dd]/.[Dd]/ .[Cc].[Dd]/.[Ee]/ | %37
+ ([Ff]/[Aa])([Ff]/ [Aa]).[Ff]/.[Ee]/ | ([Dd]/[Ff]).[Gg]/ .[Bb].[Gg] | .[Ff].[Dd].[Cc].[B,B] | %40
+!ff! !>![Bb]/.[Bb].[Gg]/ !>![Bb].[Gg]/.[Bb]/ | !>![Bb]/.[Bb].[Ff]/ !>![Bb].[Ff]/.[Gg]/ | %42
+ !>![Gg]/.[Gg].[Ff]/ !>![Gg].[Ff]/.[Dd]/ | !tenuto!.[B,B]2- [B,B] z!D.C.! |] %44
+V:2
+{CD.=E} .F.A.F.D | (F<C)[K:bass] [C,,C,]2 | .D,._D,/.D,/ (C,/A,,/C,/=D,/ | [F,,F,]2 [D,,D,]2) || %4
+ .[F,,,F,,] z .[D,,,D,,] z | .[F,,,F,,] z .[A,,,A,,] z | .[F,,,F,,] z .[D,,,D,,] z | %7
+ .[F,,,F,,] z .[A,,,A,,] z | [F,,F,][A,CF] [D,,D,][A,DF] | [F,,F,][A,C] [D,,D,][F,A,] | %10
+ [F,,F,][A,C] [C,,C,][A,C] | [G,,G,][B,C] [C,,C,][B,C] | [G,,G,][B,C] [C,,C,][B,C] | %13
+ [F,,F,][A,C] [C,,C,][A,C] | [G,,,G,,][^F,A,C] [G,,G,][=F,G,=B,] | [C,,C,]D,/F,/ =E,G,/_A,/ | %16
+ [F,,F,][A,CF] [D,,D,][A,DF] | [F,,F,][A,C] [D,,D,][F,A,] | [F,,F,][A,C] [C,,C,][A,C] | %19
+ z[K:treble] [B,DF]/[B,DF]/ [B,DF] z |[K:bass] z3/2 (.C/ .A,/.G,/.F,) | (D,/F,)(.D,/ C,2) | %22
+ [A,,,A,,][F,A,] [B,,,B,,][F,G,] | [C,,C,][=E,B,] [F,,,F,,][F,A,C] | ([B,,,B,,]2 [G,,,G,,]) z | %25
+ ([B,,,B,,]2 [G,,,G,,]) z | ([B,,,B,,]2 [G,,,G,,]) z | ([B,,,B,,]2 [G,,,G,,]) z | C,2 x z | %29
+ B,,2 x z | B,,2 x (G, | F,D,F,G,) | (!>![C,,C,][E,F,A,]) F,, z | !>![B,,,B,,][D,F,G,] G,, z | %34
+ E,[D,F,B,] ^F,G, | z =F,/F,/ F,F, | [C,,C,][E,F,A,] [E,,E,][E,F,A,] | %37
+ [C,,C,][E,F,A,] [F,,,F,,][E,F,A,] | [B,,,B,,][D,F,B,] [D,,D,][D,F,B,] | %39
+ [B,,,B,,][D,F,] [F,,,F,,][D,F,] | [E,,,E,,][G,B,] E,,[G,B,] | D,,[F,B,D] D,,[F,B,D] | %42
+ C,,[B,CE] F,,[A,E] | [B,,,B,,] z [B,,,B,,] z |] %44
+V:3
+ x4 | x4 | x4 | x4 ||[K:bass] F,4- | F,2 A,2 | F,4- | F,2 A,2 |[K:treble] x4 | x4 | x4 | =E2- E z | %12
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | z ([Bf]/[Bf]/) x2 | .[Cc]2 x2 | x4 | x4 | x4 | %24
+[K:bass] x [F,B,D] x [G,B,] | x [F,B,D] x [G,B,] | x [F,B,D] x [G,B,] | x [F,B,D] x [G,B,] | %28
+[K:treble] x4 | x4 | x4 | x4 | [EF]2- [EF] z | [DF]2- [DF] z | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %41
+ x4 | x4 | z [DF]/[DF]/ !>![DF] z |] %44
+V:4
+ x4 | x2[K:bass] x2 | x4 | x4 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %17
+ x4 | x4 | [G,,,G,,]3[K:treble] z |[K:bass] [C,,C,]2 x2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %28
+ (C,[F,A,] E,) x | (B,,[E,F,] F,,) x | (B,,[D,F,] F,,) x | x4 | x4 | x4 | x2 [C,B,]2 | %35
+ [=F,,,=F,,]2 z2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %44
+

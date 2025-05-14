@@ -1,0 +1,45 @@
+X:1
+T:Title
+%%score { ( 1 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=100
+M:3/4
+K:Db
+V:1 bass nm="Grand Piano"
+V:2 bass 
+V:3 bass 
+V:4 bass 
+V:5 bass 
+V:1
+ z2 z[K:treble] F FF | [B,F]2 [A,F]2[K:bass] [F,D]2 | z2 z[K:treble] F FF | [CG]6[K:bass] | %4
+ z2 z[K:treble] G GG | [EG]2 [CG]2 [A,G]2 | z2[K:bass] z[K:treble] G GG | [A,F]6 | D,2 z D E_F | %9
+ [A,F]2 [A,F]2 [DF]2 | z2[K:bass] z[K:treble] F FF | [B,G]6 | [B,G]3 G BG | [B,G]2 F2 F2 | %14
+ [CG]>G G2 G2 | [DF]6 | [FA]3 [FA] [GA][GA] | [FA]2 [Fd]2 F>G | [FA]3 F [CE][EG] | [DF]4 z2 | %20
+ F3 F [EF][EF] | [DF]2 [DB]2 [Fd]2 | c3 B A=G | A4 G2 | F3 F GG | A2 A2 [Fd]2 | %26
+ [Gd]3 [GB] [Gc][=Gd] | [Ge]6 | [Af]3 [Fd] [FA][_F=G] | [GB]2 [FA]2 [Fd]2 | %30
+ [Fd]4 c-[Gc][Q:1/4=98][Q:1/4=97][Q:1/4=95][Q:1/4=94][Q:1/4=92][Q:1/4=91][Q:1/4=89][Q:1/4=88][Q:1/4=86][Q:1/4=84][Q:1/4=83][Q:1/4=81][Q:1/4=80][Q:1/4=78][Q:1/4=77] | %31
+ [Fd]6 |] %32
+V:2
+ [A,F]4[K:treble] z2 | x4[K:bass] x2 | [A,F]4[K:treble] z2 | z2[K:bass] C,2 A,,2 | %4
+ [A,G]4[K:treble] z2 | x6 | [B,G]4[K:bass][K:treble] z2 | x6 | [F,D]4 z2 | x6 | %10
+ [CF]4[K:bass][K:treble] z2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z A, A,2 z2 | x6 | x6 | x6 | %23
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | z2 z2 .E2 | x6 |] %32
+V:3
+ z2 A,,2[K:treble] z2 | x4[K:bass] x2 | z2 A,,2[K:treble] z2 | x2[K:bass] x4 | %4
+ z2 A,,2[K:treble] z2 | x6 | z2[K:bass] A,,2[K:treble] z2 | x6 | z2 A,,2 z2 | x6 | %10
+ z2[K:bass] A,,2[K:treble] z2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %24
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %32
+V:4
+ [D,,D,]2 z D CB, | [D,,D,]2 [A,,,A,,]2 z2 | [D,,D,]2 z D CB, | [E,,E,]2 C,,2 A,,,2 | %4
+ [C,,C,]2 z E DC | [C,,C,]2 [A,,,A,,]2 z2 | [C,,C,]2 z B, CB, | D,,2 F,,2 A,,2 | D,,2 z F, G,=G, | %9
+ [D,,D,]2 [A,,,A,,]2 z2 | [D,,D,]2 z C DC | G,,2 B,,2 D,2 | G,,2 z B, DB, | z2 A,2 D2 | %14
+ z z/ B,/ A,2 E2 | [D,,D,]6 | [D,D]3 [D,D] [E,C][E,C] | [F,D]2 [D,A,]2 D>E | z2 A,2 z2 | %19
+ [D,A,]D, D,2 z2 | [D,A,D]3 [D,A,D] [C,=A,][C,A,] | [B,,B,]2 [B,,F,]2 [B,,B,]2 | %22
+ [E,A,E]3 [E,DE] [E,CE][E,B,D] | [A,C]6 | [D,A,D]3 [D,A,D] [E,A,C][E,A,C] | %25
+ [F,A,D]2 [F,A,D]2 [D,A,]2 | [G,B,]3 [G,D] [E,C][E,B,] | [A,C]6 | [D,D]3 [D,D] [D,D][D,D] | %29
+ [D,D]2 [D,D]2 [D,A,]2 | A,2 z2 z2 | [D,A,]6 |] %32
+V:5
+ z2 A,,,2 z2 | x6 | z2 A,,,2 z2 | x6 | z2 A,,,2 z2 | x6 | z2 A,,,2 z2 | x6 | z2 B,,,2 z2 | x6 | %10
+ z2 B,,,2 z2 | x6 | z2 B,,2 z2 | [D,,D,]4 z2 | A,,4 z2 | x6 | x6 | x6 | A,A, z D [A,,A,]2 | x6 | %20
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | D,F, A,2 [A,,A,]2 | x6 |] %32
+

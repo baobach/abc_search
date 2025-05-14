@@ -1,0 +1,36 @@
+X:1
+T:Rimsky-Korsakov Harmonic Exercises,
+T:Polytonic progressions (3)
+T:Rimsky-Korsakov Harmonic Exercises, Polytonic progressions (3)
+T:"Practical Manual of Harmony" (1885)
+T:Examples by Rimsky-Korsakov
+T:Polytonic progressions involving seventh chords
+T:You can connect a major or minor triad with a dominant seventh chord whose root tone is distant by a major or minor third from the root tone of the triad: 
+T:You can connect a dominant seventh chord with major triads whose root tone is distant from the root tone of the triad by a major or minor third. (R-K's remark: the example in m.9 is worse than others, because it is like an incorrect suspension): 
+T:You can connect two dominant seventh chords whose roots are distant by a major or minor third up or down: 
+%%score ( 1 2 )
+L:1/8
+Q:1/2=70
+M:2/1
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:1
+ ([GBd]8"" !breath![F_A_Bd]8) |] ([GGd]8"" !breath![F_A_Bd]8) |] ([GBd]8"" !breath![^FAB^d]8) |] %3
+ ([G_Bd]8"" !breath![^FA=B^d]8) |] ([GBd]8"" !breath![^GBde]8) |] ([G_Bd]8"" !breath![^G=Bde]8) |] %6
+ ([GBd]8"" !breath![G_B_d_e]8) |] ([G_Bd]8"" !breath![G_B_d_e]8) |] %8
+"""_C:""_This dominant seventh chord can relate to the С major or с minor.\nThis applies to all the dominant seventh chords and all keys in this sheet.\n" ([GBdf]8"""_B♭:" !breath![F_Bdf]8) |] %9
+"""_C:" ([GBdf]8"""_B:" !breath![^FB^d^f]8) |]"""_C:" ([FGBd]8"""_E:" !breath![E^GBe]8) |] %11
+"""_C:" ([FGBd]8"""_E♭:" !breath![_EG_B_e]8) |]"""_C:" ([GBdf]8"""_E♭:" !breath![_A_Bdf]8) |] %13
+"""_C:" ([GBdf]8"""_E:" !breath![AB^d^f]8) |]"""_C:" ([GBdf]8"""_A:" !breath![^GBde]8) |] %15
+"""_C:" ([GBdf]8"""_A♭:" !breath![G_B_d_e]8) |]"""_C:" ([GBdf]8"""_G:" !breath![Ac^f]8) |] %17
+"""_C:" ([GBdf]8"""_F:" !breath![Gce]8) |] %18
+[M:6/1]""[Q:1/2=120] ([GBdf]8"" [GBce]8"" [FAce]8"" [FABd]8"" [EGBd]8"""_etc." !breath![EGAc]8) |] %19
+[M:12/1]""[Q:1/2=200]"_C:""_These examples are only a small part of all possible polytonic progressions. An inquisitive student can find\nmany other examples.\n" ([GBdf]8"""_F:" [G_Bce]8"""_B♭:" [FAc_e]8"""_E♭:" [F_A_Bd]8"""_A♭:" [_EG_B_d]8"""_D♭:" [_E_G_Ac]8"""_G♭:""_=" [_DF_A_c]4-"""_F♯:" [^C^E^G=B]4"""_B:" [^C=E^F^A]8"""_E:" [B,^D^F=A]8"""_A:" [B,=DE^G]8"""_D:" [A,^CE=G]8"""_G:"[Q:1/2=200] [A,=CD^F]8 | %20
+[M:4/2]"""_C:"[Q:1/2=200] [G,B,D=F]8""[Q:1/2=200] [C,CE]8) |] %21
+[M:4/2]""[Q:1/2=80]"_G:" (([Acd^f]8"""_D♭:" [_Ac_e_g]8)) |] %22
+V:2
+ G8 x8 |] _B8 x8 |] B8 x8 |] _B8 x8 |] d8 x8 |] d8 x8 |] d8 x8 |] d8 x8 |] x16 |] x16 |] x16 |] %11
+ x16 |] x16 |] x16 |] x16 |] x16 |] x8 d8 |] x8 _B8 |][M:6/1] x48 |][M:12/1] x96 |[M:4/2] x8 C8 |] %21
+[M:4/2] x16 |] %22
+

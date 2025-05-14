@@ -1,0 +1,93 @@
+X:1
+T:6 Lieder, Op.7
+T:Nachtlied
+T:der Frau Baronin Bettina von Arnim geb. Brentano in tiefster Verehrung gewidmet von J. Mathieux
+T:1. Nachtlied
+T:Johanna Kinkel
+T:6 Lieder, Op.7 
+T:Emanuel Geibel
+T:Creative Commons copyright waiver (CC0 1.0 Universal)
+T:Creative Commons copyright waiver (CC0 1.0 Universal)
+C:Johanna Kinkel (originally published under the name J. Mathieux)
+Z:Emanuel Geibel
+Z:Creative Commons copyright waiver (CC0 1.0 Universal)
+%%score ( 1 2 ) { ( 3 5 ) | 4 }
+L:1/8
+Q:1/4=92
+M:9/8
+K:F
+V:1 treble nm="Gesang\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:5 treble 
+V:4 bass 
+V:1
+"^Andantino" z9 | z9 | z9 | z9 | z9 | z2 z z |: %6
+w: ||||||
+w: ||||||
+"^Mistake in IMSLP edition:\nmeasure is 5/8 duration (not 6/8).\nRests in piano part are wrong.\n" z z!mp! C3 | %7
+w: Der|
+w: Und|
+"^The first rests of the piano part of measure 6 belong in the previous partial measure, \nwhich becomes 4/8, so that together they add up to a complete 9/8 measure.\nThis corresponds to the way that the final 4/8 measure (measure 22) joins to make 9/8 \nwhen the repeat is taken\n" F3- F2 A B2 d | %8
+w: Mond _ kommt still ge-|
+w: auf _ den Lüf- ten|
+ d3 c2 z z2 c | c2 c (c2 A) (F2 G) | A3- A z z z2 G | A2 A (f3 e2) d | c3 =B2 z z2 d | %13
+w: gan- gen mit|sei- nem gold'- * nen _|Schein, _ da|schläft in hol- * dem|Pran- gen die|
+w: schwan- ken aus|man- chem treu- * en _|Sinn, _ viel|tau- send Lie- bes- ge-|dan- ken *|
+ e3- ed c GE D | C3 z2 z z2 C | %15
+w: mü- * * de Er- * de|ein. Im|
+w: ü- * ber die Schlä- * fer|hin. Und|
+ B3-[Q:1/4=90] B2 B"^Modern spelling:\n\"Tal\"            v.2\n"[Q:1/4=86] c2 B | %16
+w: Traum _ die Wip- fel|
+w: drun- ten im Tal da|
+[Q:1/4=92] A3 F2 z z2 A | c3- c2 c c2 B | A3- A z z z2 z |!<(! A3- A A A A G E!<)! | %20
+w: we- ben, die|Quel- * len rau- schen|sacht; _|sin- * gen- de En- gel durch-|
+w: fun- keln die|Fen- ster von Lieb- chens|Haus; _|ich a- * ber bli- cke im|
+!mf!!>(! F3 D2 z z2 D!>)! |!mp! C3- C2 F A2 G | F3 !fermata!z :| %23
+w: schwe- ben die|blau- * e Ster- nen-|nacht.|
+w: Dun- keln *|still in die Welt hin-|aus.|
+V:2
+ x9 | x9 | x9 | x9 | x9 | x4 |: x5 | x9 | x9 | x9 | x9 | x9 | x3 x3 x2 z | e3- e d c x3 | x9 | x9 | %16
+ x9 | x9 | x9 | A3 A2 A x3 | x3 x2 x x2 z | C3 C2 F x2 x | x4 :| %23
+V:3
+!pp! [Ac][Ac][Ac] [Ac]!<(![Ac][Ac] [Ac][Ac][Ac]!<)! | %1
+!p! [Ac]!pp![Ac][Ac] [Ac]!<(![Ac][Ac] [Ac][Ac][Ac]!<)! | %2
+!p! [Ac]!pp!!<(![Ac][Ac] [Ac][Ac][Ac] [Ac][Ac][cf]!<)! | %3
+!mp! .[fa]!p!!<(!.[fa].[fa] .[fa].[fa].[fa] .[fa].[fa].[ac']!<)! | %4
+!mf! .[c'f'] z z !arpeggio!.[cfac'f'] z z !arpeggio!.[cfac'f'] z z | %5
+"^Split measure: \nexcluded from\nmeasure count\n" !arpeggio!.[cfac'f'] z z z |: %6
+!p! .[Ac].[Ad] .[Ae].[Af].[Ag] | !>!a3- agf efd |!<(! d3 c3-!<)! cdc | %9
+ !>!a3- ag!>(!f .[Ac].[FA].[CF]!>)! | [A,F]3!<(! z .c.[=Bd] .[_Be].[Af].[GBg]!<)! | %11
+ !>!a3- agf efd |!>(! c3!>)! =B3 .[dfg].[dfa].[dfg] | !>!e'3- e'd'c' [eg][ce][Gd] | %14
+!pp! [Ec]3 z!<(! .c.[cd] .[c^d].[ce].[cf]!<)! | %15
+ !>![c^f]3 (.[cg]"_ritard.".[cf].[c=f]) (.[ce].[cd].c) | !>!c'3- (.c'.c'.b .[ca].[cg].[cf]) | %17
+ !>!a3- a_ag _gfe | d'3- d'_d'c' =b_ba | a3-!<(! aa=b [eg^c'][egd'][ege']!<)! | %20
+!mf!!8va(! f'3 f'e'd' ^c'!>(!d'b!8va)! | a3-!>)!!mp! a!>(!gf [Ac][FA][CG]!>)! | %22
+!pp! [A,F][A,F][A,F] !fermata![A,F] :| %23
+V:4
+ z2 z z .D.C .=B,.C.A, | [F,,C,F,]3 z .D.C .=B,.C.A, | [F,,C,F,]3[K:treble] z2 .C .Fz.A | %3
+ .c z z z2 .A .cz.f | .a z z[K:bass] [F,C] z z [F,C] z z | [F,C] z z z |:!ped! CC CCC | %7
+ [F,,F,] [F,CF][F,CF] [F,CF][F,CF][F,CF]!ped-up! [F,DF][F,DF][F,DF] | %8
+!ped! [E,C][E,C][E,C] [E,C][E,C][E,C] [E,C][E,C][E,C]!ped-up! | %9
+!ped! [F,C][F,C][F,C] [F,C][F,C][F,C] [F,C]z!ped-up![C,E,B,] | %10
+!ped! [F,,C,F,][F,,C,F,][F,,C,F,] [F,,C,F,] z z z2!ped-up! !>![CE] | %11
+!ped! [F,,F,] .[F,CF].[F,CF]!ped-up! .[F,^CF].[F,CF].[F,CF] .[F,DF].[F,DF].[F,DF] | %12
+!ped! .[G,DF].[G,DF].[G,DF] .[G,DF].[G,DF].[G,DF] .[G,=B,F].[G,B,F].[G,B,F]!ped-up! | %13
+!ped! !>![C,C] [G,CE][G,CE] [G,CE][G,CE][G,CE] [G,CE]z!ped-up![G,=B,F] | %14
+!ped! [C,G,C][C,G,C][C,G,C] [C,G,C] z z z2 z | %15
+ [C,C][K:treble] [CEB][CEB] [CEB][CEB][CEB] [CEB][CEB][CEB]!ped-up! | %16
+[K:bass]!ped! [C,A,C][K:treble] [CFA][CFA] [CFA][CFA][CFA] [CFA][CFA][CFA]!ped-up! | %17
+[K:bass]!ped! [C,B,C][K:treble] [CEB][CEB] [CEB][CEB][CEB] [CEB][CEB][CEB]!ped-up! | %18
+[K:bass]!ped! [C,A,C][K:treble] [CFA][CFA] [CFA][CFA][CFA] [CFA][CFA][CFA]!ped-up! | %19
+[K:bass]!ped! [^C,A,^C][K:treble] [^CEA][CEA] [CEA][CEA][CEA][K:bass] [A,,A,][K:treble] [CEA][CEA]!ped-up! | %20
+[K:bass]!ped! [D,A,D][K:treble] [FA][FA]!ped-up![K:bass]!ped! !arpeggio![B,,F,D] [DF][DF]!ped-up!!ped! [B,,B,] [B,D][B,D]!ped-up! | %21
+!ped! [C,C] [CF][CF] [CF][CF][CF] [CF]z!ped-up![C,E,B,] | %22
+!ped! [F,,C,F,][F,,C,F,][F,,C,F,] !fermata![F,,C,F,]!ped-up! :| %23
+V:5
+ x9 | x9 | x9 | x9 | x3 A x2 A x2 | A x3 |: x5 | [Ac][Ac][Ac] [Ac][Ac][Ac] BBB | %8
+ [GB][GB][GB] [GB][GB][GB] [GB][GB][GB] | [Ac][Ac][Ac] [Ac][Ac][Ac] x3 | x9 | %11
+ [Ac][Ac][Ac] AAA AAA | GGG GGG x3 | [eg][eg][eg] [eg][eg][eg] x3 | x9 | x9 | %16
+ [cf][cf][cf] [cf][cf][cf] x3 | [ce][ce][ce] [ce][ce][ce] ccc | %18
+ [cf][cf][cf] [cf][cf][cf] [cf][cf][cf] | [eg][eg][eg] [eg][eg][eg] x3 | %20
+!8va(! [fa][fa][fa] [fb][fb][fb] [dg][dg][dg]!8va)! | [Acf][Acf][Acf] [Ac][Ac][Ac] x3 | x4 :| %23
+

@@ -1,0 +1,22 @@
+X:1
+T:Lorena
+T:Lorena (D)
+%%score 1 2 3
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Violin"
+V:2 treble nm="Violin"
+V:3 treble nm="Violin"
+V:1
+"^Section A:" A2 |"D" A3 A(BA) (3:2:2(f2 e) |"G" (d4 B2) z d |"A7" c3 d (ed) (3:2:2(f2 e) | %4
+"D" d6 z A |"D" A3 A(BA) (3:2:2(f2 e) |"G" d4 B2 z B |"A7" A3 A A2 (Be) | %8
+"D" d4 z2"^Section B:" B>B |"Bm" B3 BBB d>d |"F#m" c6 z c |"F#7" f3 cc c(e/d/) c | %12
+"Bm" B4"A7" cd/c/ B2 |"D""D" A3 A(BA) (3:2:2(f2 e) |"G""G" (d4 B2) z d |"A7" A3 A A2 Bc |"D" d6 :| %17
+V:2
+ z2 | D4 F4 | G6 z G | A3 G (GA) (3:2:2(A2 B) | A6 z A | (F3 E) D2 A2 | G6 z2 | (A3 G) E2 A2 | %8
+ D4 z2 F2 | F4 F2 AB | A6 z z | c4 F2 D2 | D4 E4 | D4 F4 | G6 z z | E3 F G2 GA | F6 :| %17
+V:3
+ z2 | (F3 E) D2 D2 | D6 z D | E4 E2 A2 | F6 z2 | D4 F4 | D6 z G | E3 E C2 E2 | F4 z2 D2 | %9
+ D4 DE F2 | F6 z2 | ^A4 A2 A2 | F4 G4 | F4 A4 | B6 z2 | C4 E2 E2 | D6 :| %17
+

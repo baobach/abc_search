@@ -1,0 +1,66 @@
+X:1
+T:6 Lieder, Op.4
+T:Lied in der Ferne
+T:6 Lieder, Op.4
+T:6. Lied in der Ferne 
+T:Emilie Zumsteeg
+T:Theodor Hell
+T:Hoffend? Ja, dies ist mein Sinn; Einst mit den geliebten Meinen Wiederum mich zu vereinen,  Dies erfüllt mein Herz.  
+T:4.
+T:Glücklich? Nein, das bin ich nicht; Denn bei still geweinten Tränen Fühl ich wehmutsvolles Sehnen  Nach der Heimat hin. .
+T:3. 
+T:Traurig? Nein, das bin ich nicht; Denn ich weiss, dass in Gedanken Meine Teuren mich umranken  Und mir nahe sind. 
+T:2.
+T:Modern spelling: v.2, line 3:  "Teu-ren" v.3, line 1:  "Glück-lich" v.3, line 2:  "Trä-nen" v.3, line 3:  "weh-muts-vol-les" v3, line 4:  "Hei-mat" 
+T:Nb. Die 4te Strophe wird etwas schneller vorgetragen
+T:von Theodor Hell.
+T:Creative Commons copyright waiver (CC0 1.0 Universal)
+C:Emilie Zumsteeg
+Z:Theodor Hell
+Z:Creative Commons copyright waiver (CC0 1.0 Universal)
+%%score 1 { 2 | ( 3 4 5 ) }
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:4 bass 
+V:5 bass 
+V:1
+!f!"^Innig, mit sanfter Bewegung." ^A2 B2 z4 | A2 z2 z!mp! G F E |!<(! D2 z2 z2 F F!<)! | %3
+w: Ein- sam?|Nein, das bin ich|nicht, denn die|
+!>(! G3 F E3 F | E2 D2!>)! z2!mp!!<(! F F | F3 B,!<)!"^Modern spelling:\n\"Hei-mat\"\n"!>(! B3 A | %6
+w: gei- ster mei- ner|Lie- ben, die in|fer- ner Hei- mat|
+ A2 G2!>)! z2!p!!<(! F F | E4 ^E4 | F4 z2 ^G G!<)! |!mf!!>(! (B2 A4) A2 | D2!>)! z2 z2!mf! d d | %11
+w: blie- ben, sie um-|schwe- ben|mich, sie um-|schwe- * ben|mich, sie um-|
+[Q:1/4=118]!<(! (d4!<)!!>(! (A4)!>)! | D4) z4 |[Q:1/4=116] z8[Q:1/4=110] | z8 :| %15
+w: schwe- ben|mich.|||
+V:2
+!f! .[CE^A]2 .[D=FB]2 z4 |!f! [DEA]2 [A,DE]2 z2!p! [G,A,E]2 | %2
+!p! DxF[I:staff +1]A,[I:staff -1] DxF[I:staff +1]A, | %3
+[I:staff -1] G[I:staff +1]B,[I:staff -1]G[I:staff +1]D[I:staff -1] GEG^C | %4
+ DxF[I:staff +1]A,[I:staff -1] DxF[I:staff +1]A, | %5
+[I:staff -1] FxF[I:staff +1]B,[I:staff -1] FxF[I:staff +1]B, | %6
+[I:staff -1] E[I:staff +1]B,!p![I:staff -1]G[I:staff +1]B,[I:staff -1] G[I:staff +1]B,[I:staff -1]F=D | %7
+!<(! [B,DE] !>![B,DE]2 [B,DE] [B,D^E] !>![B,DE]2 [B,DE] | [A,DF] [A,DF]2 [A,DF]2 [B,DG]2 [D=F^G] | %9
+ [D^F]A,[^DF]A, [EG]A,[CE]A, | %10
+ D[I:staff +1]A,[I:staff -1]F[I:staff +1]A,[I:staff -1] D[I:staff +1]A,[I:staff -1]FD | %11
+ [G,G]D[G,G]D!<)!!f! [F,F]!>(!D[A,E](C | %12
+ [A,D])!mp!A,!>)!"^decresc."F[I:staff +1]A,[I:staff -1] ^E[I:staff +1]^G,[I:staff -1]F[I:staff +1]A, | %13
+[I:staff -1] D[I:staff +1] A,,[F,A,]A,, [^E,^G,]A,,[F,A,]A,, | [D,F,]2 [D,F,]2 !fermata![D,F,]4 :| %15
+V:3
+"_I have used a closer spacing for the great stave to try to improve the readability of the cross-staff notes\n" .G,2 .^G,2 z4 | %1
+ A,2 z2 A,,2 z2 | [D,,D,]2 A,,2 [D,,D,]2 A,,2 | [D,,D,]2 B,,2 [D,,_B,,]2 A,,2 | %4
+ [D,,D,]2 A,,2 [D,,D,]2 A,,2 | [^D,,^D,]2 B,,2 [D,,D,]2 B,,2 | [E,,E,]2 B,,2 [E,,E,]2 F,,2 | %7
+ G,,2 [G,,,G,,]2 [^G,,,^G,,]2 [G,,,G,,]2 | [A,,,A,,]2 [=C,,=C,]2 [B,,,B,,]2 [_B,,,_B,,]2 | %9
+"_Deficient duration in ths bar; have \nchosen to add dot rather than a rest\n" [A,,,A,,]6 [A,,,A,,]2 | %10
+ F,xF, x F,xA, x | B,,2 _B,,2 A,,2 (G,,2 | F,,2) z2 z2 ([A,,,A,,]2 | D,,2) z2"^ritard." z2 (A,,,2 | %14
+ D,,2) [D,,A,,]2 [D,,A,,]4 :| %15
+V:4
+ x8 | x8 | F,A,F, x F,A,F, x | G, x G, x G, x G, x | F,A,F, x F,A,F, x | F,B,A, x F,B,A, x | %6
+ G, x G, x G, x A, x | x8 | x8 | x8 | x8 | x8 | x2 F, x ^E, x F, x | F, x7 | x8 :| %15
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | [D,,D,]2 A,,2 [D,,D,]2 =C,2 | D,,4- D,,4 | %12
+ D,,2 x6 | x8 | x8 :| %15
+

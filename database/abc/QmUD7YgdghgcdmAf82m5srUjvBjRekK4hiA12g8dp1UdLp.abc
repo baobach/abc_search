@@ -1,0 +1,49 @@
+X:1
+T:The Well-Tempered Clavier Part I Praeludium XX
+T:BWV 865
+T:J. S. Bach
+%%score { ( 1 3 4 ) | ( 2 5 ) }
+L:1/8
+Q:1/4=132
+M:9/8
+K:C
+V:1 treble nm="Harp"
+V:3 treble 
+V:4 treble 
+V:2 bass 
+V:5 bass 
+V:1
+"^Allegro" A/B/ce cAE Ace | B/c/df dB^G Bdf | d/e/f^g fdB dfg | ag/f/e/d/ c z z4 | g3 z2 z4 | %5
+ c3- c/B/c/B/c/B/ c/g/^f/e/^d/e/ | ^d3- d/e/^f/e/f/e/ f/e/d/f/B/A/ | G3- GEG Be^A | %8
+ g3- g/^f/g/f/g/f/ g/=f/e/d/^c/B/ | f3- f/e/f/e/f/e/ f/e/d/c/B/A/ | e3- e/d/e/d/e/d/ c/g/f/e/d/c/ | %11
+ B/e/d/c/B/A/ G/c/B/A/G/F/ E/A/G/F/E/D/ | E/F/Gc GEC EGc | F/G/Ac AFC FAc | B/c/df dBG Bdf | %15
+ e6- e3 | _e3 d3 a z z | _B6- B3 | _B3 A3 e z z | F3- F/E/F/A/d/A/ f/e/d/c/B/A/ | %20
+ ^g3- g/a/b/a/g/^f/ e/=f/e/d/c/B/ | A/B/ce cAE e/d/c/B/A/^G/ | A/B/ca ecA a/^^f/^e/=e/^^c/^B/ | %23
+ f/e/d/c/B/A/ d/c/B/A/^G/^F/ B/A/G/F/E/D/ | E/A/G/F/E/D/ C/F/E/D/C/B,/ A,/D/C/B,/A,/^G,/ | %25
+ A,/B,/^C/D/E/F/ GEC _B/C/A/C/G/C/ | F/A/B/^c/d/e/ z z z a/^g/a/g/a/g/ | a6 z2 z |] %28
+V:2
+ A,,3 A,/^G,/A,/G,/A,/G,/ A,E,C, | A,,3 A,/^G,/A,/G,/A,/G,/ A,F,D, | %2
+ A,,3 A,/^G,/A,/G,/A,/G,/ A,F,D, | A,,3 z AE CA,^D | E,/^F,/G,B, G,E,B,, E,G,B, | %5
+ ^F,/G,/A,C A,F,^D, F,A,C | A,/B,/C^D CA,^F, A,CD | EE,/^F,/G,/A,/ B, z z4 | %8
+[I:staff -1] E/^F/GB GEB, ^CEA | D/E/FA FDA, B,DG | C/D/EG ECG, A,CF | %11
+[I:staff +1] G,B,D FDB, G,B,G, | C3- C/A,/G,/F,/E,/D,/ C,/D,/E,/F,/G,/E,/ | %13
+ A,3- A,/C,/D,/E,/F,/G,/ A,/G,/F,/E,/D,/C,/ | D,3- D,/E,/D,/C,/B,,/A,,/ G,,/A,,/G,,/F,,/E,,/D,,/ | %15
+ C,, z z E/D/C/B,/C/G,/ E,/G,/F,/E,/D,/C,/ | ^F,F,F, F,F,F, F,F,F, | %17
+ G, z z _B,/A,/G,/^F,/G,/D,/ _B,,/D,/C,/B,,/A,,/G,,/ | ^C,C,C, C,C,C, C,C,C, | %19
+ D,/E,/F,A, F,D,A,, D,F,A, | D,/E,/F,^G, F,D,B,, D,F,G, | C,3 A,/^G,/A,/G,/A,/G,/ A,E,C, | %22
+ F,,3 A,/^G,/A,/G,/A,/G,/ A,B,C | D,E,F, B,,C,D, ^G,,A,,B,, | C,,3- C,,C,D, E,D,E, | %25
+ A,,3- A,,/B,,/^C,/D,/E,/F,/ G,F,E, | D,3- D,/A,/B,/^C/D/E/ FED | E6 z2 z |] %28
+V:3
+ x9 | x9 | x9 | x9 | e3 z2 z4 | A3 z2 z4 | [^FAc]3 z2 z4 | x9 | [Be]3 z2 z4 | [Ad]3 z2 z4 | %10
+ [Gc]3 z2 z4 | x9 | x9 | x9 | x9 | z2 c- c3- c3 | z/ A/_B/c/B/A/ z/ A/B/c/B/A/ z/ A/B/c/B/A/ | %17
+ z2 G- G3- G3 | z/ E/F/G/F/E/ z/ E/F/G/F/E/ z/ E/F/G/F/E/ | x9 | x9 | x9 | x9 | x9 | x9 | x9 | %26
+ z3 fdB- B3 | e6 z2 z |] %28
+V:4
+ x9 | x9 | x9 | x9 | B3 e/^d/e/d/e/d/ e/B/A/G/^F/E/- | E3 z2 z4 | x9 | x9 | x9 | x9 | x9 | x9 | %12
+ x9 | x9 | x9 | z/ d/c/B/c/G/ G3- G3 | x9 | z/ A/G/^F/G/D/- D3- D3 | x9 | x9 | x9 | x9 | x9 | x9 | %24
+ x9 | x9 | x9 | ^c6 z2 z |] %28
+V:5
+ x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | z3 z3 C,3- | C,6- C,3- | %14
+ C,3 C,/ z/ z z4 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | A,,6- A,,3- | %26
+ A,,3- A,,/A,/- A,2- A,3- | A,6 z2 z |] %28
+

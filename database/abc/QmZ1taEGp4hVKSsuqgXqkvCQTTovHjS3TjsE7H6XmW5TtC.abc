@@ -1,0 +1,43 @@
+X:1
+T:Prelúdio em G
+T:V
+T:Op. 23 Nº 5
+T: Sarguei Rachmaninoff
+C:Rachmaninoff
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=108
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+"^Alla Marcia" !tenuto!.G, [B,D]/[B,D]/[B,D] z2 [B,D] !tenuto!.B, [B,D] | %1
+ !tenuto!.G, [B,D]/[B,D]/[B,D] z2 [B,D] !tenuto!.B, [B,D] | %2
+ !tenuto!.G, [B,D]/[B,D]/[B,D]"_cresc." (D/F/ G3) B,/(D/ | F3) z z [Gcg]/[Gcg]/[Gcg] z | %4
+ z [^Fd^f]/[Fdf]/[Fdf]"^Dim." z z4 | D,3 z2 [G,D=E] G, [B,DE] | D,3 z z4 | z8 | z8 | z8 | z8 | z8 | %12
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %31
+ z8 |] %32
+V:2
+!p! !tenuto!.[G,,,G,,] [D,G,]/[D,G,]/[D,G,] !tenuto!.[B,,,B,,] !tenuto!.[D,,D,] [D,G,] !tenuto!.[B,,,B,,] [D,G,] | %1
+!p! !tenuto!.[G,,,G,,] [D,G,]/[D,G,]/[D,G,] (!tenuto!.[A,,,A,,]/[B,,,B,,]/!tenuto!.[D,,C,]) [D,G,] !tenuto!.[B,,,B,,] [D,G,] | %2
+ !tenuto!.[G,,,G,,] [D,G,]/[D,G,]/[D,G,] (D,/F,/ [G,,G,]3) B,,/(D,/ | %3
+ [F,,F,]3) (B,,/D,/ [E,,E,]3) (G,,/A,,/ | %4
+!f! [D,,D,]3) !tenuto!.[^F,,,^F,,] !tenuto!.[B,,,B,,] [D,=E,] !tenuto!.[G,,,G,,] [D,E,] | %5
+ [D,,,D,,]3 (^F,,/A,,/B,,) [D,=E,] [G,,,G,,] [D,E,] | [D,,,D,,]3 z z4 | z8 | z8 | z8 | z8 | z8 | %12
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %31
+ z8 |] %32
+V:3
+ x8 | x8 | x4 z [GB]/[GB]/[GB] z | z [Bd]/[Bd]/[Bd] (B,/D/ E3) (G,/A,/ | %4
+ D3) !tenuto!.^F, !tenuto!.B, [G,D=E] !tenuto!.G, [B,DE] | z [D^Fd]/[DFd]/[DFd] z2 x x2 | %6
+ z [D^Fd]/[DFd]/[DFd] z z4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %21
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %32
+V:4
+ x8 | x8 | x4 z [D,B,D]/[D,B,D]/[D,B,D] x | %3
+ z [D,B,D]/[D,B,D]/[D,B,D] z z [G,A,C]/[G,A,C]/[G,A,C] z | z [^F,A,D]/[F,A,D]/[F,A,D] z z4 | %5
+ z [A,,^F,A,]/[A,,F,A,]/[A,,F,A,] (^F,,,/A,,,/B,,,) x x2 | z [A,,^F,A,]/[A,,F,A,]/[A,,F,A,] z z4 | %7
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %26
+ x8 | x8 | x8 | x8 | x8 | x8 |] %32
+

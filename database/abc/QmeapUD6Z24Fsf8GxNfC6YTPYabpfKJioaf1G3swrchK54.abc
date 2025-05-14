@@ -1,0 +1,38 @@
+X:1
+T:Title
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+M:6/8
+K:C
+V:1 treble nm="Grand Piano"
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:1
+ z3 z2[Q:1/4=100] E | EF[A,_E^F] [G,=EG]2 [Ec] | dcA c2 A | [EG]A[CEG] [CE][DF][G,CE] | %4
+ [B,D]3- [B,D] z [B,F] | [CE][DF][_E^F] [=EG]2 [Ec] | dcA c2 A | GAc dA[DFB] | [CEc]3- [CEc] z E | %9
+ [Ec]2 [Ec] cB[EA] | A^GA B2 E | AB[Ec] [Ec]B[C^FA] | G6 | [CE]F[A,_E^F] [G,=EG]2 [Ec] | dcA c2 A | %15
+ GAc dA[DFB] |[M:5/8] [CEc]- [CEc]3 z |[M:1/8] [G,EG] | %18
+[M:3/4] [G,EG]2 [G,EG][G,EG]- [G,EG]/[G,DF]/[G,CE] | [CE][B,D] [B,D] [B,D]2 A | A2 AA- A/G/F | %21
+[M:5/8] FEE E2 |[M:1/8] G |[M:3/4] [Ge]2 [Ge][_Be]- [Be]/[Bd]/[EBc] | [Ad][Ac] A A2 A | %25
+ G>G G [^Fc]2 B |[M:5/8] d3 [Ec]2 |] %27
+V:2
+ z3 z2 [C,G,C] | .C3 z3 | [F,A,F]2 [F,CF] [F,A,F]2 [F,CF] | .[C,C]3 z3 | %4
+ [G,,G,]3- [G,,G,] z [G,,G,] | [C,G,]2 [C,A,] [C,G,]2 [C,G,] | [F,A,F]2 [F,CF] [F,A,F]2 [F,CF] | %7
+ [G,CE]2 [G,CE] [B,F]C[K:bass]G, | C,3- C, z E, | [A,,A,]2 [A,,A,] [A,,A,][B,,^G,][C,A,] | %10
+ .[E,E]3 z3 | [C,A,][B,,^G,][A,,A,] z DD, | z[K:treble] DC DCG, | z DC, C,2 [C,G,] | %14
+ [F,A,F]2 [F,CF] [F,A,F]2 [F,CF] | [G,CE]2 [G,CE] [G,F]-[G,CF][K:bass]G, |[M:5/8] C,- C,3 z | %17
+[M:1/8] C, |[M:3/4] C,2 C,C,- C,/C,/C, | [G,,G,][G,,G,] [G,,G,] [G,,G,]2[K:treble] [G,B,F] | %20
+ [G,B,F]2 [G,B,F][G,B,F]- [G,B,F]/[K:bass][G,B,E]/[G,B,D] |[M:5/8] [C,G,D][C,G,C][C,G,C] [C,G,C]2 | %22
+[M:1/8] G, |[M:3/4] [C,C]2 [C,C][C,C]- [C,C]/[C,C]/C, | [F,F][F,F] [F,CF] [F,CF]2 [F,CF] | %25
+ [E,C]>[E,C] [E,C] [D,A,]2[K:treble] [G,F] |[M:5/8] [G,B,F]3[K:bass] [C,C]2 |] %27
+V:3
+ x6 | [C,G,]-[C,G,D]C, C,2 [C,G,] | x6 | z FC, C,B,,C, | x6 | x6 | x6 | z3 .G,3[K:bass] | x6 | x6 | %10
+ CB,[E,A,E] [E,^G,E]2 [D,G,] | z3 .D,3 | G,6[K:treble] | .C,3 z3 | x6 | z3 .B,3[K:bass] | %16
+[M:5/8] x5 |[M:1/8] x |[M:3/4] x6 | x5[K:treble] x | x9/2[K:bass] x3/2 |[M:5/8] x5 |[M:1/8] x | %23
+[M:3/4] x6 | x6 | x5[K:treble] x |[M:5/8] x3[K:bass] x2 |] %27
+V:4
+ x6 | x6 | x6 | z3 .G,3 | x6 | x6 | x6 | x6 | x6 | z3 .E3 | x6 | .E3 .^F3 | B,2 E FE[B,DF] | x6 | %14
+ x6 | x6 |[M:5/8] x5 |[M:1/8] x |[M:3/4] x6 | x6 | x6 |[M:5/8] x5 |[M:1/8] x |[M:3/4] x6 | x6 | %25
+ x6 |[M:5/8] x5 |] %27
+

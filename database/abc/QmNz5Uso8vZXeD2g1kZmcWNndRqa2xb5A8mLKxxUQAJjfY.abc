@@ -1,0 +1,35 @@
+X:1
+T:Title
+%%score { 1 | ( 2 3 ) }
+L:1/8
+M:2/4
+K:G
+V:1 treble nm="Grand Piano"
+V:2 bass 
+V:3 bass 
+V:1
+ z2 z[Q:1/4=84] [B,D] | [B,D][DB] [DB][CA] | [CA] [B,G]2 [DG] | [EA][EG] [DF][CE] | [B,D]3 [B,D] | %5
+ [B,G][B,G] [DG]A | B d2 B | [^CB][CA] [CA][CB] |[M:3/8] [DA]3 |[M:1/8] [CD] | %10
+[M:2/4] [B,D][DB] [DB][CA] | [CA] [B,G]2 [DG] | [EA][EG] [DF][CE] | [B,D]3 B/c/ | dd dd | %15
+ e d2 [EGc] | [DGB][DGB] [CFA][CDA] |[M:3/8] [B,DG]3 |[M:1/8] B |[M:2/4] d d2 d | e d2 B | %21
+ [DFA][DFA] [DG][DFA] | B3 B | d d2 d | e d2 B | [^CGB][CGA] [CGA][CGB] |[M:3/8] [DFA]3 | %27
+[M:1/8][K:bass] [F,CD] |[M:2/4] [B,D][K:treble][DB] [DB][CA] | [CA] [B,G]2 [DG] | %30
+ [EA][EG] [DF][CE] | [B,D]3 B/c/ | dd dd | e d2 [EGc] | [DGB][DGB] [CFA][CDA] | %35
+[M:11/8] [B,DG]3 z z z z z z z2 |] %36
+V:2
+ z2 z [G,,G,] | [G,,G,][G,,G,] [G,,G,][G,,D,] | [G,,D,] [G,,D,]2 [B,,G,] | [C,C][C,C] [C,C][C,G,] | %4
+ [G,,G,]3 [G,,G,] | [G,,D,][G,,D,] [B,,G,][D,F,D] | [G,D] [G,B,D]2 [G,D] | %7
+ [A,,G,][A,,G,] [A,,G,][A,,G,] |[M:3/8] [D,F,]3 |[M:1/8] [D,F,] | %10
+[M:2/4] [G,,G,][G,,G,] [G,,G,][G,,G,] | [G,,D,] [G,,D,]2 [B,,G,] | [C,C][C,C] [C,C][C,G,] | %13
+ z2 z [G,D] | [G,B,G][G,B,G] [G,B,G][G,B,G] | [G,CG] [G,B,G]2[K:bass] C, | D,D, D,D, | %17
+[M:3/8] G,,3 |[M:1/8][K:treble] [G,D] |[M:2/4] [G,B,G] [G,B,G]2 [G,B,G] | [G,CG] [G,B,G]2 [G,DG] | %21
+ D,C, B,,D, | [G,DG]3 [G,DG] | [G,B,G] [G,B,G]2 [G,B,G] | [G,CG] [G,B,G]2 [G,DG] | E,E, A,,A,, | %26
+[M:3/8] D,3 |[M:1/8] D, |[M:2/4] [G,,G,][G,,G,] [G,,G,][G,,G,] | [G,,D,] [G,,D,]2 [B,,G,] | %30
+ [C,C][C,C] [C,C][C,G,] | z2 z [G,D] | [G,B,G][G,B,G] [G,B,G][G,B,G] | [G,CG] [G,B,G]2[K:bass] C, | %34
+ D,D, D,D, |[M:11/8] G,,3 z z z z z z z2 |] %36
+V:3
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |[M:3/8] x3 |[M:1/8] x |[M:2/4] x4 | x4 | x4 | %13
+ [G,,G,]3 z/ A,/ | x4 | x3[K:bass] x | x4 |[M:3/8] x3 |[M:1/8][K:treble] x |[M:2/4] x4 | x4 | x4 | %22
+ x4 | x4 | x4 | x4 |[M:3/8] x3 |[M:1/8] x |[M:2/4] x4 | x4 | x4 | [G,,G,]3 z/ A,/ | x4 | %33
+ x3[K:bass] x | x4 |[M:11/8] x11 |] %36
+

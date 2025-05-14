@@ -1,0 +1,37 @@
+X:1
+T:Se Tu mi accogli
+T:J. S. Bach (BWV 88/7)
+T:testo it. Gino Stefani
+T:Scritto con MuseScore, un software libero e gratuito: http://musescore.org/it 
+Z:Scritto con MuseScore, un software libero e gratuito: http://musescore.org/it
+%%score 1 2 3 4
+L:1/8
+Q:1/4=48
+M:4/4
+K:Bb
+V:1 treble nm="Soprano" snm="S."
+V:2 treble nm="Alto" snm="A."
+V:3 bass nm="Tenor" snm="T."
+V:4 bass nm="Bass" snm="B."
+V:1
+"^Grave" D2 |"Gm" G2"D" A2"Gm" B2"D" A2 |"Eb" G2"Cm" AG"D" ^F2 D2 |"Dm" z2 =F2"Gm7" F2"F" E2 | %4
+"Bb" D2"Eb" G2"Gm" (G2"D" ^F2) |"Gm" G6 :| A2 |"Gm" B2"F" c2"Bb" d2"Gm" d2 | %8
+"Eb" (cB)"F" c2"Bb" !breath!!fermata!B2 d2 |"D7" c2"Gm" B2"D" A2"Eb" GA | %10
+"Gm" B2"D" A2"Gm" !fermata!G2!D.C.! |] %11
+V:2
+ B,2 | D2 D2 D2 D2 | B,2 E2 D2 A,2 | z2 D2 D2 C2 | B,2 (B,C) D4 | D6 :| ^F2 | G2 =F2 F2 G2 | %8
+w: ||||||Ti|chia\- me rò, mio|
+w: Se|Tu mi~͜~ac\- co\- gli,|Pa\- dre buo\- no,|pri\- ma che|ven\- ga * se|ra,|||
+w: se|Tu mi do\- ni~͜~il|tuo per\- do\- no,|a\- vrò la|pa\- ce * ve-|ra:|||
+ GG FE !breath!D2 F2 | ^F2 G2 (G^F) G2 | G2 ^F2 D2 |] %11
+w: Sal\- * va\- * tore, e|tor\- ne\- rò, * Ge-|sù, con Te.|
+w: |||
+w: |||
+V:3
+ G,2 | B,2 A,2 G,2 ^F,2 | G,2 (CB,) A,2 ^F,2 | z2 A,2 B,2 =F,2 | F,2 (G,A,) (B,2 A,2) | B,6 :| D2 | %7
+ D2 C2 B,2 B,2 | B,2 A,2 !breath!B,2 B,2 | C2 D2 (ED/)C/ B,C | D2 DC B,2 |] %11
+V:4
+ G,2 | G,2 ^F,2 G,2 D,2 | E,2 C,2 D,2 D,2 | z2 D,2 G,,2 A,,2 | B,,2 E,2 D,4 | G,,6 :| D,2 | %7
+ G,2 G,2 B,2 G,2 | E,E, F,2 !breath!!fermata!B,,2 B,2 | A,2 G,2 C,D, E,2 | %10
+ D,C, D,2 !fermata!G,,2 |] %11
+

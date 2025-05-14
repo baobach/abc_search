@@ -1,0 +1,40 @@
+X:1
+T:Maiden Fair
+T:John Playford (1623 - 1686) Arr. Marieh 
+T:"Musick's Delight on the Cithren" (1666), No.17
+C:John Playford (1623 - 1686)
+%%score { ( 1 2 ) ( 3 4 ) } { 5 6 }
+L:1/8
+Q:1/2=80
+M:2/2
+K:D
+V:1 treble-8 nm="Bouzouki (4 chœurs)"
+V:2 treble-8 
+V:3 tab stafflines=6 strings=E2,A2,D3,G3,B3,E4 nostems nm="Guitare classique (Tablature)"
+V:4 tab stafflines=6 strings=E2,A2,D3,G3,B3,E4 nostems 
+V:5 treble-8 nm="Guitare classique"
+V:6 tab stafflines=6 strings=E2,A2,D3,G3,B3,E4 nostems nm="Guitare classique (Tablature)"
+V:1
+"D" [df]2 [df]2 [df]4 |"D" e2 f2 d2 cd |"A" [ce]2 [ce]2 [ce]3 f |"A" [ce]4"D" [Ad]4 :: %4
+"D" B2 c2 [Ad]4 |"D" e2 f2 [Ad]2 cd |"A" e2 e2 e2 f2 |"A" [ce]4"D" [Ad]4!D.C.! :| %8
+V:2
+ D4 D4 | D4 D4 | A,4 A,4 | A,4 D4 :: D4 D4 | D4 D4 | A,4 A,4 | A,4 D4 :| %8
+V:3
+[K:F] [!2!D!1!^F]2 [!2!D!1!F]2 [!2!D!1!F]4 | !1!E2 !1!^F2 !2!D2 !2!^C !2!D | %2
+ [!2!^C!1!E]2 [!2!C!1!E]2 [!2!C!1!E]3 !1!^F | [!2!^C!1!E]4 [!3!A,!2!D]4 :: %4
+ !2!=B,2 !2!^C2 [!3!A,!2!D]4 | !1!E2 !1!^F2 [!3!A,!2!D]2 !2!^C !2!D | !1!E2 !1!E2 !1!E2 !1!^F2 | %7
+ [!2!^C!1!E]4 [!3!A,!2!D]4 :| %8
+V:4
+[K:F] !4!D,4 !4!D,4 | !4!D,4 !4!D,4 | !5!A,,4 !5!A,,4 | !5!A,,4 !4!D,4 :: !4!D,4 !4!D,4 | %5
+ !4!D,4 !4!D,4 | !5!A,,4 !5!A,,4 | !5!A,,4 !4!D,4 :| %8
+V:5
+"D" !arpeggio![DAdf]4 !arpeggio![DAdf]4 |"D" !arpeggio![DAdf]4 !arpeggio![DAdf]4 | %2
+"A" !arpeggio![A,EAc]4 !arpeggio![A,EAc]4 |"A" !arpeggio![A,EAc]4"D" !arpeggio![DAdf]4 :: %4
+"D" !arpeggio![DAdf]4 !arpeggio![DAdf]4 |"D" !arpeggio![DAdf]4 !arpeggio![DAdf]4 | %6
+"A" !arpeggio![A,EAc]4 !arpeggio![A,EAc]4 |"A" !arpeggio![A,EAc]4"D" !arpeggio![DAdf]4 :| %8
+V:6
+ [!4!D,!3!A,!2!D!1!F]4 [!4!D,!3!A,!2!D!1!F]4 | [!4!D,!3!A,!2!D!1!F]4 [!4!D,!3!A,!2!D!1!F]4 | %2
+ [!5!A,,!4!E,!3!A,!2!C]4 [!5!A,,!4!E,!3!A,!2!C]4 | [!5!A,,!4!E,!3!A,!2!C]4 [!4!D,!3!A,!2!D!1!F]4 :: %4
+ [!4!D,!3!A,!2!D!1!F]4 [!4!D,!3!A,!2!D!1!F]4 | [!4!D,!3!A,!2!D!1!F]4 [!4!D,!3!A,!2!D!1!F]4 | %6
+ [!5!A,,!4!E,!3!A,!2!C]4 [!5!A,,!4!E,!3!A,!2!C]4 | [!5!A,,!4!E,!3!A,!2!C]4 [!4!D,!3!A,!2!D!1!F]4 :| %8
+

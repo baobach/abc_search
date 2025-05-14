@@ -1,0 +1,79 @@
+X:1
+T:Aurora lucis rutilat
+T:(Hymnus ad Laudes matutinas
+T:Tempore Paschali usque ad Ascensionem)
+T:mel. "Vexilla Regis" arr. Andris Solims
+T:Text from the 5th century, ascribed to St. Ambrose
+T:Aurora lucis rutilat (Hymnus ad Laudes matutinas Tempore Paschali usque ad Ascensionem)
+C:mel. "Vexilla Regis"
+C:arr. Andris Solims
+Z:Text from the 5th century,
+Z:ascribed to St. Ambrose
+%%score [ ( 1 2 3 ) ( 4 5 ) ]
+L:1/8
+Q:1/4=80
+M:6/8
+K:Ab
+V:1 treble nm="P1"
+V:2 treble 
+V:3 treble 
+V:4 bass nm="P2"
+V:5 bass 
+V:1
+!mf!"^Andante maestoso" CFG A2 F | (=EF)G F3 | AAB c2 A | (GA)B A3 | ccc d2 c | (Bc)A G3 | %6
+w: 1. ro- ra lu- cis|ru- * ti- lat,|cæ- lum re- sul- tat|lau- * di- bus,|1. dus ex- sul- tans|iu- * bi- lat,|
+w: 3. le, quem clau- sum|la- * pi- de|mi- les cus- to- dit|a- * cri- ter,|3. um- phans pom- pa|no- * bi- li|
+ Bcd c2 A | (GA)B A3 ||"^(All other voices sing \"A- - - -\" as a background)"!mp! A6 | GAB A3 | %10
+w: ge- mens in- fer- nus|u- * lu- lat,|||
+w: vic- tor sur- git de|fu- * ne- re.|||
+!mf! c2 d e2 c | Bcd c3 | c3 B=Bc | dc=B c3 | GAB ABc- | c6 ||!mp!"^Soprano solo" CFG A2 F | %17
+w: ||||||4. fer- ni iam ge-|
+w: |||||||
+ (=EF)G F3 | AAB c2 A | (GA)B A3 |!mf! ccc d2 c | (Bc)A G3 | Bcd c2 A |"^rit.""^rit." (GA)B A3 || %24
+w: mi- * ti- bus|so- lu- tis et do-|lo- * ri- bus,|4. a sur- re- xit|Do- * mi- nus|re- splen- dens cla- mat|an- * ge- lus.|
+w: |||||||
+"^(A- - - -)"!p! c3 f/e/d/c/d | c6- |!mf! c2 d e2 c | Bcd c3 |!f! e3 f2 e | dec B3 | def e2 c | %31
+w: |||||||
+w: |||||||
+ Bcd c3 ||"^Tutti"!mf! CFG A2 F | (=EF)G F3 | AAB c2 A | (GA)B A3 |!f! ccc/c/ d2 c | %37
+w: |6. su, sit ti- bi|glo- * ri- a,|qui mor- te vi- cta|præ- * ni- tes,|6. Pat- re et al- mo|
+w: ||||||
+ ([df][ce])[B=d] [Be]3 |"^rit." Bc_d e2 [df] |"^rit." e2 e !fermata![ce]3 || %40
+w: Spi- * ri- tu,|in sem- pi- ter- na|sæ- cu- la.|
+w: |||
+ !fermata![df]3 !fermata![ce]3 |] %41
+w: A- men.|
+w: |
+V:2
+ z6 | z6 | FFG A2 E | E2 G E3 | AAA A2 A | A2 F E3 | GGG A2 F | (=EF)G F3 || F6 | =EFG F3 | %10
+ A2 B c2 A | GAB A3 | A3- A2 G- | GAF =E3- | EFG F3 | =EFG F3 || C6 | D3 C3 | F6 | =E3 F3 | F6 | %21
+ =EF=D C3 | =E3 FGF | =EF/=D/E F3 || A3- A2 B/A/ | GAB A3- | A2 G A3 | GAG A3 | AGA d2 c | %29
+ G2 A G3- | G3 ABA | G2 F/G/ A3 || CCD F2 D | C2 C C3 | FFG (AG)F | E2 D C3 | AA_G/G/ (A=G)A | %37
+ BcA G3 | GAB c2 A | (GA)B A3 || (A2 G) A3 |] %41
+V:3
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 || x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 || x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 || x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 || x6 | x2 (F/=E/) x3 | x6 | x6 | %36
+ x6 | x6 | x6 | x6 || x6 |] %41
+V:4
+ C,A,B, C2 A, | (G,A,)B, A,3 | CCD E2 C | (B,C)D C3 | FFF F2 E | F2 =D B,3 | _DEF E2 C | C2 C C3 || %8
+"^Bassosolo"!f! C6- | C6 | E6- | E6 | F3- F2 =E- | EF=D C3- | C2 =E C3- | C6 || %16
+!p!"^(A- - - -)" A,6 | B,3 A,3 | C6 | D3 C3 |!mp! A,3 B,2 A, | G,A,F, =E,3 | G,A,B, A,B,C- | C6 || %24
+"^Bassosolo"!mf! F6 | =E=DE F3 |!f! _E6- | E6 |!ff! E3 A3 | E6- | E6- | E6 || C,A,B, C2 A, | %33
+ (B,A,)G, A,3 | CCD E2 =D | (_DC)B, A,3 | EEE/E/ (FE)E | (FG)F E3 | EEE E2 D | (B,C)D C3 || %40
+ D3 C3 |] %41
+V:5
+ C,F,F, F,2 F, | C,2 C, F,3 | F,F,E, A,2 A, | E,2 E, [A,,A,]3 | F,F,F, B,,2 C, | D,2 =D, E,3 | %6
+w: ||||||
+ E,E,E, A,2 F, | C,2 C, F,3 || C,F,G, A,2 F, | (=E,F,)G, F,3 | A,A,B, C2 A, | (G,A,)B, A,3 | %12
+w: ||2. il- le rex for-|tis- * si- mus,|mor- tis con- fra- ctis|vi- * ri- bus,|
+ CCC D2 C | (B,C)A, G,3 | B,CD C2 A, | (G,A,)B, A,3 || F,6- | F,6 | F,2 G, A,2 F, | B,A,G, F,3 | %20
+w: 2. de con- cul- cans|tar- * ta- ra|sol- vit ca- te- na|mi- * se- ros.|||||
+ F,3 B,,2 C,- | C,6- | C,3 F,3 | C/B,/A,G, F,3 || C,F,G, A,2 F, | (=E,F,)G, F,3 | A,A,B, C2 A, | %27
+w: ||||5. to pe- ren- ne|men- * ti- bus|pa- scha- le, Ie- su,|
+ (G,A,)B, A,3 | CCC D2 C | (B,C)A, G,3 | B,CD C2 A, | (G,A,)B, A,3 || C,F,F, (F,E,)D, | %33
+w: gau- * di- um,|5. nos re- na- tos|gra- * ti- æ|tu- is tri- um- phis|ag- * gre- ga.||
+ C,2 C, F,3 | F,F,=E, _E,2 E, | E,2 E, A,,3 | A, (C/B,/)A,/E,/ (D,B,,)A,, | (D,E,)F, E,3 | %38
+w: |||||
+ DCB, (A,_G,)F, | E,2 E, !fermata![A,,A,]3 || (!fermata!D,2 E,) !fermata![A,,A,]3 |] %41
+w: |||
+

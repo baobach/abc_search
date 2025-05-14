@@ -1,0 +1,56 @@
+X:1
+T:Seufzer
+T:Seufzer.
+T:op. 21, No. 2
+T:Franz Xaver Mozart (1791-1844)
+T:Ludwig Christoph Heinrich Hölty (1748-1776)
+C:Franz Xaver Mozart (1791-1844)
+Z:Ludwig Christoph Heinrich Hölty (1748-1776)
+%%score 1 2 { 3 | 4 }
+L:1/8
+Q:1/4=82
+M:3/4
+K:C
+V:1 treble nm="Singstimme."
+V:2 treble nm="Stimme" snm="St."
+V:3 treble nm="Piano Forte."
+V:4 bass 
+V:1
+"^Mit Gefühl." A2 B2 c2 | B2 z2 z2 | !turn!B4 e d | c2 z c c c | ^c2 d d d d | ^d2 e e c A | %6
+w: Die Nach- ti-|gall,|singt ü- ber-|all, auf grü- nen|Rei- sen, die bes- ten|Wei- sen, dass rings- um|
+ (^G2- G/B/) f/e/ =d/c/ B/A/ | !fermata!^G2 z[Q:1/4=102]"^un poco piú mosso." =G A B | c2 z c B c | %9
+w: Wald * * und * U- * fer *|schallt. Manch jun- ges|Paar geht dort, wo|
+ d2 z d ^c d | f2 G G A B | d2 c c G c | %12
+w: klar das Bäch- lein|rau- schet, und steht, u.|lau- schet mit fro- hem|
+ e2[Q:1/4=102] z"^ritard."[Q:1/4=101]"^.1" (.e[Q:1/4=98]"^.9" .d[Q:1/4=95]"^.9" .c) | %13
+w: Sinn der Sän- ge-|
+[Q:1/4=92] !fermata!d2 z[Q:1/4=102]"^à Tempo." d d e | f2 z A A B | c2 z c B A | %16
+w: rin. Ich hö- re|bang' im düs- tern|Gang der Nach- ti-|
+ B>[Q:1/4=102]^G"^rallent."[Q:1/4=98]"^.2" E[Q:1/4=93]"^.3" c[Q:1/4=89]"^.2" B[Q:1/4=85]"^.5" A | %17
+w: gal- * len Ge- sän- ge|
+[Q:1/4=82] !fermata!B{cBAB}d/>c/ !fermata!B[Q:1/4=102]"^à Tempo." ^c d e[Q:1/4=22] | %18
+w: schal- * * len; denn ach! al-|
+ f2[Q:1/4=102] z"^rallent."[Q:1/4=91]"^.5" d[Q:1/4=84]"^.2" B[Q:1/4=77]"^.9" e | %19
+w: lein irr' ich im|
+[Q:1/4=72] A2 z2 z2 |] %20
+w: Hain.|
+V:2
+ z6 | z6 | B2- B/ (3c/ B/ A/ B/ z2 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %15
+ z6 | z6 | (3:2:8B- B/4 (3c/4 B/4 A/4 B/4 d/ c/ z4 | z6 | z6 |] %20
+V:3
+!p! [A,CE][I:staff +1]E,[I:staff -1][A,CE][I:staff +1]E,[I:staff -1][A,CE][I:staff +1]E, | %1
+[I:staff -1] [^G,B,E][I:staff +1]E,[I:staff -1][G,B,E][I:staff +1]E,[I:staff -1][G,B,E][I:staff +1]E, | %2
+[I:staff -1] [^G,E][G,E][A,E][A,E][B,E][B,E] | [CE]2 z2 [G,C]2 | %4
+ [A,-^C]2 [A,D][A,=CD][G,B,D][G,B,D] | (([G,-B,^D]2 [G,CE])) z z2 | %6
+ [B,E][I:staff +1]E,[I:staff -1][B,E][I:staff +1]E,[I:staff -1] [A,CE][I:staff +1]E, | %7
+!p![I:staff -1] !fermata![^G,B,E]2!f! [=G,B,=F]4 | [CE]G,[CE]G,[CE]G, | [CF]A,[CF]A,[CF]A, | %10
+ [B,F]G,[B,F]G,[B,F]G, | [B,F]G,[CE][CE][CE][CE] | [CE]2 z [EGe][FGd][EGc] | %13
+ !fermata![DGB]2 z [_Bd][Ad][A^ce] | [Adf]2 z [FA][EA][E^GB] | [EAc]2 z2 [Ace]E | %16
+ [^GBe]E[GBe]E[Ace]E | !fermata![E^GBe]2- !fermata![EGBe]!<(! [_B^c][Ad][G^ce]!<)! | %18
+!mp! [Fdf]2 z2!pp! [D^G]2 | [CA]2 z2 z2 |] %20
+V:4
+ A,,6 | E,,6 | E,,2 ^F,,2 ^G,,2 | A,,2 z2 E,2 | F,3 ^F,G,G, | C,2- C, z z2 | E,,4 E,,2 | %7
+ !fermata!E,,2 D,,4 | C,,2 z2 C,2 | C,4 C,2 | C,4 C,2 | C,3 [C,G,][C,G,][C,G,] | %12
+ C,2 z"^ritard." [C,G,][B,,G,][C,G,] | !fermata![G,,G,]2 z G,F,E, | D,2 z D,C,B,, | A,,2 z2 E,2 | %16
+ E,4 E,2 | !fermata!E,2- !fermata!E, G,F,E, | D,2 z2 [E,,E,]2 | [A,,E,]2 z2 z2 |] %20
+

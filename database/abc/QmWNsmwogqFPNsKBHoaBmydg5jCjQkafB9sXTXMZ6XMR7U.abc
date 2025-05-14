@@ -1,0 +1,55 @@
+X:1
+T:L'Inverno
+T:L'Inverno - II
+T:For Flute and Piano
+T:Antonio Vivaldi
+T:Public Domain
+T:Public Domain
+C:Antonio Vivaldi
+Z:Public Domain
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=30
+M:4/4
+K:Eb
+V:1 treble nm="Flute"
+V:2 treble nm="Piano"
+V:3 bass 
+V:4 bass 
+V:1
+"^Largo"!mf! e(b/a/) g(f/e/) fB z B | (a/g/)(f/e/) da ag z g | f(g/a/) b(c'/d'/) e(f/g/) a(b/c'/) | %3
+ d(e/f/) g(a/b/) c(d/e/) f(g/e/) | d2- d/(B/=A/B/) f2- f/(B/A/B/) | %5
+ g2- g/(B/=A/B/) =a2- a/(f/e/f/) | bB z b (b/!courtesy!=a/)(g/f/) (e/d/)(c/B/) | Tc3 B B2 z2 | %8
+ B(f/e/) d(c/B/) cF z F | (e/d/)(c/B/) =Ae Ted z B | (a/g/)(f/e/) da Tag z g | %11
+ c(d/e/) f(g/a/) d(e/f/) g(a/b/) | e(f/g/) a(b/c'/) d3 (d/e/) | f/(d/c/B/) (g/a/b/)g/ fB z (d/e/) | %14
+ f/(d/c/B/) (g/a/b/)g/ fB z (f/b/) | g(f/e/) d>e Te4- | e8 | !fermata!e8 |] %18
+V:2
+!f! [Be]/[eg]/[gb]/[eg]/ [Be]/[eg]/[gb]/[eg]/ [Bd]/[df]/[fb]/[df]/ [Bd]/[df]/[fb]/[df]/ | %1
+ [Bd]/[df]/[fa]/[df]/ [Bd]/[df]/[fa]/[df]/ [Be]/[eg]/[gb]/[eg]/ [Be]/[eg]/[gb]/[Bg]/ | %2
+ [df]/[da]/[gb]/[fa]/ [gb]/[fa]/[eg]/[df]/ [eg]/[cg]/[fa]/[eg]/ [fa]/[eg]/[df]/[ce]/ | %3
+ [df]/[Bf]/[eg]/[df]/ [eg]/[df]/[ce]/[Bd]/ [ce]/[Ae]/[df]/[ce]/ [df]/[ce]/[Bd]/[=Ac]/ | %4
+ [B=d]/[df]/[fb]/[df]/ [Bd]/[df]/[fb]/[df]/ [Bd]/[df]/[fb]/[df]/ [Bd]/[df]/[fb]/[df]/ | %5
+ [Be]/[eg]/[gb]/[eg]/ [Be]/[eg]/[gb]/[eg]/ [cf]/[f=a]/[ac']/[fa]/ [cf]/[fa]/[ac']/[ca]/ | %6
+ [Bd]/[df]/[fb]/[df]/ [Bd]/[df]/[fb]/[df]/ [Bc]/[cf]/[fb]/[cf]/ [Bc]/[cf]/[fb]/[cf]/ | %7
+ [=Ac]/[cf]/[f=a]/[cf]/ [Ac]/[cf]/[fa]/[Ac]/ [FB]/[Bd]/[df]/[Bd]/ [FB]/[Bd]/[df]/[Bd]/ | %8
+ [FB]/[Bd]/[df]/[Bd]/ [FB]/[Bd]/[df]/[FB]/ [F=A]/[Ac]/[cf]/[Ac]/ [FA]/[Ac]/[cf]/[Ac]/ | %9
+ [F=A]/[Ac]/[ce]/[Ac]/ [FA]/[Ac]/[ce]/[Ac]/ [Bd]/[df]/[fb]/[df]/ [Bd]/[df]/[fb]/[df]/ | %10
+ [Bd]/[df]/[f_a]/[df]/ [Bd]/[df]/[fa]/[df]/ [Be]/[eg]/[gb]/[eg]/ [Be]/[eg]/[gb]/[eg]/ | %11
+ [ce]/[ea]/[ce]/[ea]/ [cf]/[fa]/[cf]/[fa]/ [df]/[fb]/[df]/[fb]/ [dg]/[gb]/[dg]/[gb]/ | %12
+ [eg]/[gc']/[eg]/[gc']/ [ea]/[ac']/[ea]/[ac']/ [Bd]/[df]/[fb]/[df]/ [Bd]/[df]/[fb]/[df]/ | %13
+ [Bd]/[df]/[fb]/[df]/ [Be]/[eg]/[gb]/[Be]/ [Bd]/[df]/[fb]/[df]/ [Bd]/[df]/[fb]/[df]/ | %14
+ [Bd]/[df]/[fb]/[df]/ [Be]/[eg]/[gb]/[Be]/ [Bd]/[df]/[fb]/[df]/ [Bd]/[df]/[fb]/[Bf]/ | %15
+ [Be]/[eg]/[gb]/[Be]/ [Bd]/[df]/[fb]/[df]/ [Be]/[eg]/[gb]/[eg]/ [Be]/[eg]/[gb]/[Be]/ | %16
+ [GB]/[Be]/[eg]/[Be]/ [GB]/[Be]/[eg]/[Be]/ [EG]/[GB]/[Be]/[GB]/ [EG]/[GB]/[Be]/[GB]/ | %17
+ !fermata![EG]8 |] %18
+V:3
+!p! E,E,E,E, B,,B,,B,,B,, | B,,B,,B,,B,, E,E,E,E, | D,D,D,D, C,C,C,C, | %3
+ B,,B,,B,,B,, A,,A,,=A,,A,, | B,,B,,B,,B,, B,,B,,B,,B,, | E,E,E,E, E,E,E,E, | %6
+ B,,B,,B,,B,, F,,F,,F,,F,, | F,,F,,F,,F,, B,,B,,B,,B,, | B,,B,,B,,B,, F,,F,,F,,F,, | %9
+ F,,F,,F,,F,, B,,B,,B,,B,, | B,,B,,B,,B,, E,E,E,E, | A,,A,,A,,A,, B,,B,,B,,B,, | %12
+ C,C,C,C, B,,B,,B,,B,, | B,,B,,B,,B,, B,,B,,B,,B,, | B,,B,,B,,B,, B,,B,,B,,B,, | %15
+ E,,E,,B,,B,, E,,E,,E,,E,, | E,,E,,E,,E,, E,,E,,E,,E,, | E,,8 |] %18
+V:4
+ B,8- | B,8- | B,6 A,2- | A,2 G,4 F,2 | F,6 B,2 | B,4 C3 =A, | F,8- | F,8- | F,8- | F,8- | %10
+ F,2 B,2 B,4 | C4 D4 | E,4 F,4 | B,8- | (B,8 | B,,8-) | B,,8- | B,,8 |] %18
+

@@ -1,0 +1,42 @@
+X:1
+T:Title
+%%score { ( 1 3 5 ) | ( 2 4 6 ) }
+L:1/8
+M:6/8
+K:D
+V:1 treble nm="Grand Piano"
+V:3 treble 
+V:5 treble 
+V:2 bass 
+V:4 bass 
+V:6 bass 
+V:1
+ z3 z2[Q:1/4=100] [FA] | [FA][=F^G][^FA] F2 F | FGF D2 [FA] | [FA][GB][Fc] [Fd]2 [Fd] | %4
+ dcB [FA]2 [FA] | [FA][GB][Gc] [Fd]2 [Fd] | dcB [FA]2 [FA] | %7
+ [DGB][B,DA][B,EG] [A,DF]2[K:bass] [G,CE] | [F,D]6 | z2[K:treble] A ABc | d6- | d2 z z3 | A6- | %13
+ A2 z z3 | A6- | A2 z z3 | B6- | B2 z z3 | d6- | d2 z z3 | A6- | A2 z z3 | F6- | F2 z z3[K:bass] | %24
+[M:5/8] [F,D]-[F,D]- [F,D]3 |] %25
+V:2
+ z3 z2 [D,D] | [D,D][D,D][D,D] [D,A,D]2 [D,A,D] | [D,A,D][D,B,D][D,A,D] [D,F,]2 [D,D] | %3
+ [D,D][D,D][D,A,] [D,A,]2 [D,A,] | [G,B,G][G,CG][G,DG][K:bass] [D,D]2 [D,D] | %5
+ [D,D][D,D][D,A,] [D,A,]2 [D,A,] | [G,B,G][G,CG][G,CG][K:bass] [D,D]2 [D,D] | G,,G,,G,, A,,2 A,, | %8
+ D,6 | z2[K:treble] F FGG | F6- | F2[K:treble] z z3 | F6- | F2 z[K:treble] z3 | F6- | %15
+ F2[K:treble] z z3 | D6 | z2 G FGG | F6- | F2[K:treble] z z3 | F6- | F2[K:treble] z z3 | D6- | %23
+ D2 z z3 |[M:5/8] D,-D,- D,3 |] %25
+V:3
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x5[K:bass] x | x6 | x2[K:treble] x4 | z2 A, A,A,A, | z2 d dcB | %12
+ z2 D DDD | D2 D FGB | z2 D DDD | D2 F FED | z2 G, G,G,G, | G2 B ABc | z2 A, A,A,A, | z2 d dcB | %20
+ z2 D DDD | z2 A BAG | z2 A, A,A,A, | A,2 [A,DF] [A,DF]2[K:bass] [G,CE] |[M:5/8] x5 |] %25
+V:4
+ x6 | x6 | x6 | x6 | x3[K:bass] x3 | x6 | x3[K:bass] x3 | x6 | x6 | x2[K:treble] x4 | %10
+ z2 D, D,D,D, | z2[K:treble] F BAG | z2 D, D,D,D, | D,3[K:treble] DEG | z2 D, D,D,D, | %15
+ z2[K:treble] D D .C2 | x6 | [G,D]3 z3 | z2 D, D,D,D, | z2[K:treble] F BAG | z2 D, D,D,D, | %21
+ z2[K:treble] F GFE | z2 D, D,D,D, | A,,2 A,, A,,2 A,, |[M:5/8] x5 |] %25
+V:5
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x5[K:bass] x | x6 | x2[K:treble] x4 | x6 | A,3 z3 | x6 | x6 | %14
+ x6 | x6 | x6 | x6 | x6 | A,3 z3 | x6 | D3 z3 | x6 | x5[K:bass] x |[M:5/8] x5 |] %25
+V:6
+ x6 | x6 | x6 | x6 | x3[K:bass] x3 | x6 | x3[K:bass] x3 | x6 | x6 | x2[K:treble] x4 | x6 | %11
+ D,3[K:treble] z3 | x6 | x3[K:treble] x3 | x6 | D,3[K:treble] z3 | x6 | x6 | x6 | %19
+ D,3[K:treble] z3 | x6 | D,3[K:treble] z3 | x6 | x6 |[M:5/8] x5 |] %25
+

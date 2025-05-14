@@ -1,0 +1,92 @@
+X:1
+T:Andante con moto
+T:Andante con moto
+T:Sechs Lieder ohne Worte
+T:Felix Mendelssohn Bartholdy
+T:Op. 19, Nr 1
+T:für das Pianoforte
+T:(ERTES HEFT)
+C:Felix Mendelssohn Bartholdy
+%%score { 1 | ( 2 3 ) }
+L:1/8
+Q:1/4=82
+M:4/4
+K:E
+V:1 treble nm="Piano"
+V:2 bass 
+V:3 bass 
+V:1
+"^Andante con moto" z8 | x8 |: G2 F2 E2 (!>!e2 | d2 c2 B2) c2 | A2 BF G2 BA | (G4 F) z (A2 | %6
+ G2 F2 E2) (!>!e2 | d2 c2 B2)!f! (g2 | c6)!p! (g2 | c6) (c2 | c2!<(! e2!<)!!>(! d2!>)! cG) | %11
+ (B4 ^A4) | (=A4 G) z G2 |!<(! (^A2 B2!<)! d2 c>B) |1 B4 z2 (=A2 :|2 B4) z2 FF || %16
+"^cresc." =G2 FE A2 AA | B2 A=G =c2 cc | =d2 =cB!f! =g2 fe | =d2 d2!ff! d/f/a/=c'/ b/a/=g/f/ | %20
+ e/^d/f-"_dim." f/e/=d/=c/ B/A/^G/A/ G/A/!p!B/c/ | (=d2 B2 A2 e2) | (=d2 B2 A2) B=c | %23
+ B(B=dB) B"^dim."(A=GA) | B8- |!pp! B(B=dB) B(A=GA) | B6 (^A2 | B4) z2 (=c2 | %28
+"^cresc." B4) z2!f! (A2 | ^G2 F2 E2) (e2 | d2 c2 B2) c2 |!f! (AcBF G)(GBA) | (G4 F)"^dim." z GA | %33
+!p! (B2 G2 F2 c2) | (B2 G2 F2 e2) | (e2 B3) (BcB) | (A4 GFGA) | (B2"^cresc." G2 F2 c2) | %38
+ (B2 G2 F2 e2) | (d2 c2)!f! (Bdfa | gdfe dcAF) |"^dim." (E4[K:bass] D4 | =D4 C) z (C2 | %43
+ D2) E2[K:treble] G2 F>E | E4 z2[K:bass] (=D2 |"_dim." C4) z2 (=C2 | B,4) z2[K:treble] GF | %47
+ E4 z2!pp! (G2 | E4) E4 | !fermata![G,E]8 |] %50
+V:2
+ B,,/E,/G,/B,/ B,,/E,/G,/B,/ B,,/E,/G,/B,/ B,,/E,/G,/B,/ | %1
+ B,,/D,/A,/B,/ B,,/D,/A,/B,/ B,,/D,/A,/B,/"^cantabile" B,,/D,/F,/B,/ |: %2
+ B,,/E,/[I:staff -1] G,/B,/[I:staff +1] B,,/D,/[I:staff -1] A,/B,/[I:staff +1] B,,/E,/[I:staff -1] G,/B,/[I:staff +1] F,/C/[I:staff -1] E/F/ | %3
+[I:staff +1] F,/B,/[I:staff -1] D/F/[I:staff +1] F,/^A,/[I:staff -1] E/F/[I:staff +1] F,/B,/[I:staff -1] D/F/[I:staff +1] G,/B,/[I:staff -1] C/G/ | %4
+[I:staff +1] F,/=A,/[I:staff -1] C/E/[I:staff +1] F,/A,/[I:staff -1] B,/D/[I:staff +1] E,/G,/[I:staff -1] B,/E/[I:staff +1] E,/F,/[I:staff -1] C/E/ | %5
+[I:staff +1] E,/G,/[I:staff -1] B,/E/[I:staff +1] E,/G,/[I:staff -1] B,/E/[I:staff +1] D,/F,/[I:staff -1] B,/D/[I:staff +1] B,,/F,/[I:staff -1] A,/B,/ | %6
+[I:staff +1] B,,/E,/[I:staff -1] G,/B,/[I:staff +1] B,,/D,/[I:staff -1] A,/B,/[I:staff +1] C,/E,/[I:staff -1] G,/B,/[I:staff +1] F,/C/[I:staff -1] E/F/ | %7
+[I:staff +1] F,/B,/[I:staff -1] D/F/[I:staff +1] F,/^A,/[I:staff -1] E/F/[I:staff +1] F,/B,/[I:staff -1] D/F/[I:staff +1] B,/C/[I:staff -1] G/B/ | %8
+[I:staff +1] B,/C/[I:staff -1] G/B/[I:staff +1] B,/C/[I:staff -1] G/B/[I:staff +1] B,/C/[I:staff -1] G/B/[I:staff +1] B,/C/[I:staff -1] G/B/ | %9
+[I:staff +1] B,/C/[I:staff -1] G/B/[I:staff +1] B,/C/[I:staff -1] G/B/[I:staff +1] B,/C/[I:staff -1] G/B/[I:staff +1] B,/C/[I:staff -1] G/B/ | %10
+[I:staff +1] ^A,/C/[I:staff -1] F/^A/[I:staff +1] B,/C/[I:staff -1] E/F/[I:staff +1] B,/C/[I:staff -1] D/F/[I:staff +1] E,/G,/C/[I:staff -1] E/ | %11
+[I:staff +1] F,/B,/[I:staff -1] D/F/[I:staff +1] F,/B,/[I:staff -1] D/F/[I:staff +1] F,/[I:staff -1] C/E/F/[I:staff +1] F,/"^dim."[I:staff -1] C/E/F/ | %12
+[I:staff +1] F,/[I:staff -1] ^B,/D/F/[I:staff +1] F,/[I:staff -1] B,/D/F/[I:staff +1] E,/[I:staff -1] G,/C/E/[I:staff +1] E,/[I:staff -1] G,/C/E/ | %13
+[I:staff +1] E,/[I:staff -1] ^A,/E/F/[I:staff +1] E,/[I:staff -1] B,/E/F/[I:staff +1] F,/C/[I:staff -1] E/F/[I:staff +1] F,/^A,/[I:staff -1] E/F/ |1 %14
+[I:staff +1] F,/B,/[I:staff -1] D/F/[I:staff +1] F,/B,/[I:staff -1] D/F/[I:staff +1] D,/F,/[I:staff -1] B,/D/[I:staff +1] D,/F,/[I:staff -1] B,/D/ :|2 %15
+[I:staff +1] F,/B,/[I:staff -1] D/F/[I:staff +1] F,/B,/[I:staff -1] D/F/[I:staff +1] D,/F,/[I:staff -1] B,/D/[I:staff +1] D,/F,/[I:staff -1] B,/D/ || %16
+[I:staff +1] B,,/E,/[I:staff -1] =G,/B,/[I:staff +1] B,,/E,/[I:staff -1] G,/B,/[I:staff +1] =C,/=D,/[I:staff -1] A,/=C/[I:staff +1] D,/F,/[I:staff -1] C/=D/ | %17
+[I:staff +1] =D,/=G,/[I:staff -1] B,/=D/[I:staff +1] E,/G,/[I:staff -1] B,/E/[I:staff +1] E,/A,/[I:staff -1] =C/E/[I:staff +1] _E,/A,/[I:staff -1] C/^F/ | %18
+[I:staff +1] =D,/=G,/[I:staff -1] =D/=G/[I:staff +1] G,/B,/[I:staff -1] D/G/[I:staff +1] G,/E/[I:staff -1] G/=c/[I:staff +1] G,/E/[I:staff -1] G/c/ | %19
+[I:staff +1] F,/=C/[I:staff -1] =D/A/[I:staff +1] =G,/C/[I:staff -1] D/=G/[I:staff +1] [F,A,C=D]2 z2 | %20
+ z8 | %21
+ z/ B,/[I:staff -1] =D/=G/[I:staff +1] =G,/B,/[I:staff -1] D/G/[I:staff +1] G,/A,/[I:staff -1] E/G/[I:staff +1] G,/A,/[I:staff -1] E/G/ | %22
+[I:staff +1] =G,/B,/[I:staff -1] =D/=G/[I:staff +1] G,/B,/[I:staff -1] D/G/[I:staff +1] G,/A,/[I:staff -1] ^C/G/[I:staff +1] A,/=C/[I:staff -1] D/A/ | %23
+[I:staff +1] =G,/B,/[I:staff -1] =D/=G/[I:staff +1] G,/B,/[I:staff -1] D/G/[I:staff +1] E,/A,/[I:staff -1] ^C/E/[I:staff +1] E,/A,/[I:staff -1] C/E/ | %24
+!ped![I:staff +1] ^D,/F,/[I:staff -1] B,/^D/[I:staff +1] D,/F,/[I:staff -1] B,/D/[I:staff +1] D,/F,/[I:staff -1] B,/D/[I:staff +1] D,/F,/[I:staff -1] B,/D/!ped-up! | %25
+[I:staff +1] =D,/=G,/[I:staff -1] B,/=G/[I:staff +1] D,/G,/[I:staff -1] B,/G/[I:staff +1] E,/A,/[I:staff -1] =C/E/[I:staff +1] E,/A,/[I:staff -1] C/E/ | %26
+[I:staff +1] ^D,/F,/[I:staff -1] B,/^D/[I:staff +1] F,/A,/[I:staff -1] B,/D/[I:staff +1] E,/=G,/[I:staff -1] B,/E/[I:staff +1] E,/G,/[I:staff -1] B,/E/ | %27
+[I:staff +1] D,/F,/[I:staff -1] B,/D/[I:staff +1] F,/A,/[I:staff -1] B,/D/[I:staff +1] E,/=G,/[I:staff -1] B,/E/[I:staff +1] E,/G,/[I:staff -1] B,/E/ | %28
+[I:staff +1] D,/F,/[I:staff -1] B,/D/[I:staff +1] D,/F,/[I:staff -1] B,/D/[I:staff +1] F,/A,/[I:staff -1] B,/D/[I:staff +1] D,/F,/[I:staff -1] B,/D/ | %29
+[I:staff +1] B,,/E,/[I:staff -1] G,/B,/[I:staff +1] B,,/D,/[I:staff -1] A,/B,/[I:staff +1] B,,/E,/[I:staff -1] G,/B,/[I:staff +1] F,/C/[I:staff -1] E/F/ | %30
+[I:staff +1] F,/B,/[I:staff -1] D/F/[I:staff +1] F,/^A,/[I:staff -1] E/F/[I:staff +1] F,/B,/[I:staff -1] D/F/[I:staff +1] G,/B,/[I:staff -1] C/G/ | %31
+[I:staff +1] A,/C/[I:staff -1] E/F/[I:staff +1] F,/A,/[I:staff -1] B,/D/[I:staff +1] E,/G,/[I:staff -1] B,/E/[I:staff +1] C,/E,/A,/[I:staff -1] E/ | %32
+[I:staff +1] E,/G,/[I:staff -1] B,/E/[I:staff +1] E,/G,/[I:staff -1] B,/E/[I:staff +1] D,/F,/[I:staff -1] B,/D/[I:staff +1] D,/F,/[I:staff -1] B,/D/ | %33
+[I:staff +1] E,/G,/[I:staff -1] B,/E/[I:staff +1] E,/G,/[I:staff -1] B,/E/[I:staff +1] E,/F,/[I:staff -1] B,/E/[I:staff +1] E,/F,/[I:staff -1] C/E/ | %34
+[I:staff +1] E,/G,/[I:staff -1] B,/E/[I:staff +1] E,/G,/[I:staff -1] B,/E/[I:staff +1] E,/F,/[I:staff -1] ^A,/E/[I:staff +1] F,/^A,/[I:staff -1] E/F/ | %35
+[I:staff +1] G,/B,/[I:staff -1] E/G/[I:staff +1] G,/B,/[I:staff -1] E/G/[I:staff +1] A,/B,/[I:staff -1] E/F/[I:staff +1] A,/B,/[I:staff -1] D/F/ | %36
+[I:staff +1] F,/A,/[I:staff -1] B,/D/[I:staff +1] F,/A,/[I:staff -1] B,/D/[I:staff +1] E,/G,/[I:staff -1] B,/E/[I:staff +1] E,/G,/[I:staff -1] B,/E/ | %37
+[I:staff +1] E,/G,/[I:staff -1] B,/E/[I:staff +1] E,/G,/[I:staff -1] B,/E/[I:staff +1] E,/F,/[I:staff -1] C/E/[I:staff +1] D,/F,/[I:staff -1] D/F/ | %38
+[I:staff +1] E,/G,/[I:staff -1] B,/E/[I:staff +1] E,/G,/[I:staff -1] B,/E/[I:staff +1] E,/F,/[I:staff -1] C/E/[I:staff +1] F,/^A,/[I:staff -1] E/F/ | %39
+[I:staff +1] F,/B,/[I:staff -1] D/F/[I:staff +1] ^A,/C/[I:staff -1] E/=G/[I:staff +1] B,/D/[I:staff -1] F/A/[I:staff +1] D/F/[I:staff -1] A/B/ | %40
+[I:staff +1] B,/E/[I:staff -1] G/B/[I:staff +1] ^B,/E/[I:staff -1] G/^B/[I:staff +1] A,/C/[I:staff -1] E/F/[I:staff +1] E,/F,/[I:staff -1] A,/=C/ | %41
+[I:staff +1] B,,/E,/[I:staff -1] G,/B,/[I:staff +1] B,,/E,/[I:staff -1] G,/B,/[I:staff +1] B,,/[I:staff -1] F,/A,/B,/[I:staff +1] B,,/[I:staff -1] F,/A,/B,/ | %42
+[I:staff +1] B,,/[I:staff -1] ^E,/G,/B,/[I:staff +1] B,,/[I:staff -1] E,/G,/B,/[I:staff +1] A,,/[I:staff -1] C,/F,/A,/[I:staff +1] A,,/!<(![I:staff -1] E,/F,/A,/ | %43
+[I:staff +1] A,,/[I:staff -1] D,/A,/B,/[I:staff +1] A,,/!<)![I:staff -1] E,/A,/B,/[I:staff +1] B,,/F,/[I:staff -1] A,/B,/[I:staff +1] B,,/D,/[I:staff -1] A,/B,/ | %44
+[I:staff +1] B,,/E,/[I:staff -1] G,/B,/[I:staff +1] B,,/E,/[I:staff -1] G,/B,/[I:staff +1] B,,/E,/[I:staff -1] G,/B,/[I:staff +1] B,,/E,/[I:staff -1] G,/B,/ | %45
+[I:staff +1] A,,/C,/[I:staff -1] E,/A,/[I:staff +1] A,,/C,/[I:staff -1] E,/A,/[I:staff +1] A,,/C,/[I:staff -1] E,/A,/[I:staff +1] A,,/=C,/[I:staff -1] E,/A,/ | %46
+[I:staff +1] F,,/B,,/[I:staff -1] D,/A,/[I:staff +1] F,,/B,,/[I:staff -1] D,/A,/[I:staff +1] F,,/B,,/[I:staff -1] D,/A,/[I:staff +1] B,,/D,/[I:staff -1] A,/B,/ | %47
+[I:staff +1] B,,/E,/[I:staff -1] G,/B,/[I:staff +1] B,,/E,/[I:staff -1] G,/B,/[I:staff +1] B,,/E,/[I:staff -1] G,/B,/[I:staff +1] B,,/E,/[I:staff -1] G,/B,/ | %48
+[I:staff +1] B,,/E,/[I:staff -1] G,/B,/[I:staff +1] B,,/E,/[I:staff -1] G,/B,/[I:staff +1] B,,/E,/[I:staff -1] G,/B,/[I:staff +1] B,,/E,/[I:staff -1] G,/B,/ | %49
+[I:staff +1] !fermata![E,,B,,]8 |] %50
+V:3
+ E,,4 G,,4 | F,,4 B,,,2[I:staff -1] A2 |:[I:staff +1] (E,,2 F,,2 G,,2 ^A,,2) | %3
+ (B,,2 C,2 D,2 ^E,2) | F,2 B,,2 E,2 A,,2 | B,,4 B,, z D,,2 | E,,2 F,,2 G,,2 ^A,,2 | %7
+ B,,2 C,2 D,2 E,2- | E,2 G,2 E,4- | E,2 G,2 ^E,4 | F,2 ^A,,2 B,,2 E,2 | F,2 z2 z2 F,,2- | %12
+ F,,2 F,,2 E,,2 D,,2 | C,,2 B,,2 ^A,,2 F,,2 |1 B,,6 z2 :|2 B,,6 z2 || E,,4 F,,2 =D,2 | =G,,4 A,,4 | %18
+ B,,4 =C,4 | B,,2 E,2 x4 | x8 | z2 B,,2 =C,4 | =D,4 E,2 F,2 | =G,2 z2 =C,4 | B,,8 | =G,,4 =C,4 | %26
+ B,,8 | B,,8 | B,,6 z2 | E,,2 F,,2 G,,2 ^A,,2 | B,,2 C,2 D,2 ^E,2 | F,2 B,,2 E,2 C,2 | B,,6 A,,2 | %33
+ G,,4 A,,4 | B,,4 C,4 | B,,4 B,,4 | E,2 B,,2 E,2 z2 | z2 B,,2 ^A,,2 =A,,2 | G,,2 B,,2 ^A,,2 C,2 | %39
+ B,,2 E,2 D,2 B,2 | E,2 G,2 A,2 A,,2 | B,,2 z2 z2 B,,,2- | B,,,2 B,,,2 A,,,2 G,,,2 | %43
+ F,,,2 E,,2 D,,2 B,,,2 | E,,4 E,,4- | E,,4 E,,4- | E,,4 E,,4- | E,,4 E,,4- | E,,2 E,,2 E,,2 E,,2 | %49
+ x8 |] %50
+

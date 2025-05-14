@@ -1,0 +1,57 @@
+X:1
+T:Toselli's Serenade
+T:Enrico Toselli
+T:for Flute and Celtic Harp
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=70
+M:3/4
+K:D
+V:1 treble nm="Flute" snm="Fl."
+V:2 treble nm="Harp" snm="Hrp."
+V:3 bass 
+V:1
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |"^pp" d3 (ABF) | (A4 D2) | (D2 F2 c2) | (B4 A2) | %13
+ e3 (fgd) | c3 (deB) |!>(! (ABc!>)!AEF) | D6- | D2 z2 z2 |"^p" d'3 (abf) | (a4 d2) | (d2 f2 c'2) | %21
+ (b4 a2) | e'3 (f'g'd') | c'3 (d'e'b) |!>(! (abc'!>)!aef) | d6- | d2 z2 z2 | (DE) (F3 A) | %28
+ (AE) E4 |!<(! (EF) (G3 B) | (BF) F3!<)! D | d4!>(! (cB) | (AFDEFA) | (F4!>)! E2) | A6 | %35
+!<(! (B3 ded)!<)! | f6- | f(dcBAD) | G4 (EF/G/) | A3 B (3(ced) | F3 G (3(AcB) | %41
+ (BE) !fermata!E2- E/4F/4G/4A/4B/4c/4d/4e/4 | f3 a[Q:1/4=60] (g/f/e/d/) | %43
+ d/4e/4f/4e/4-[Q:1/4=40] Te4 d |[Q:1/4=70] (de) (f3 a) | (ae) e4 |!<(! (ef) (g3 b) | %47
+ (bf) f3!<)! d | d'4!>(! (c'b) | (afdefa) | (f4!>)! e2) | a6 |!<(! (b2- bd'e'd')!<)! | f'6- | %54
+ f'(d'c'bad) | g6- | gfedBG | F6- | F(afcBA) | (E2 F2 G2) | B4 (AG) | F4 (EF/G/) | (A3 B) (3(ced) | %63
+ (F3 G) (3(AcB) | (BE) !fermata!E2- (E/4F/4G/4A/4B/4c/4d/4e/4 |!>(! (f3) (a) g/f/e/d/)!>)! | %66
+ Te4- ed | d4 z2 | z4!pp! d2 | (d2 f2 c'2) | (b4 a2) | e'3 (f'g'd') | c'3 (d'e'b) | (abc'ae'f') | %74
+ (d'4 b2 | (d'4) e'2 | f'6-) | f'4 z2 |] %78
+V:2
+"^pp" z F AF z F | z F AF z F | z F z F z F | z G AG z G | z c gc z A | z A eA z A | z A z A z C | %7
+ z F AF z F | z F AF z F | z F AF z F | z F AF z F | z F AF z F | z G AG z G | z E AE z G | %14
+ z G AG z B | z G AG z G | z F AF z F | z A dA z A | z F AF z F | z F AF z F | z F AF z F | %21
+ z G AG z G | z E AE z G | z G AG z B | z G AG z G | z F AF z F | z A dA z A | z F AF z F | %28
+ z G AG z G | z G AG z G | z F AF z F | z F BF z F | z F AF z F | z F AF z G | z G AG z G | %35
+ z F BF z E | z (FAdfa | d') z z2 z2 | z EG B z z | z F AF z F | z B, FD z F | z E GE z2 | %42
+ z FA z z2 | z GA z z2 | z F AF z F | z G AG z G | z G AG z G | z F AF z F | z F BF z F | %49
+ z F AF z F | z F AF z G | z G AG z G | z F BF z E | z (FAdfa | d') z z2 z2 | z (EGBeg | %56
+ b) z z2 z2 | z (FAcfa | c') z z2 z2 | z B, DG z B, | z F ED z D | z F AF z F | z F AF z F | %63
+ z B, FD z F | z E GE z2 | z FA z z2 | z GA z z2 | z F AF z F |!pp! A4 z F | z F AF z F | %70
+ z G AG z G | z E AE z G | z G AG z B | z G AG z B | z F AF z B | z F AF z G | z FAdfa | %77
+ !fermata![ad']4 [F,D]2 |] %78
+V:3
+"^pp" D,2- D,(A,,B,,F,,) | A,,4"^ppp" D,,2 |!<(! D,,2!<)! F,,2 C,2 |"^p" B,,4 A,,2 | %4
+"^p" E,2-!>(! E,(F,G,!>)!D,) |"^p" C,2-!>(! C,(D,E,!>)!B,,) |!>(! (A,,B,,C,!>)!A,,E,,F,,) | %7
+ [D,,D,] z z2 A,, z | [D,,D,] z z2 A,, z | [D,,D,] z z2 A,, z | D, z z2 A,, z | D, z z2 A,, z | %12
+ !tenuto!E, z z2 A,, z | G, z z2 A,, z | E, z z2 A,, z | [A,,,A,,] z z2 A,, z | %16
+ [D,,D,] z z2 A,, z | D, z z2 A,, z | [D,,D,] z z2 A,, z | D, z z2 A,, z | D, z z2 A,, z | %21
+ !tenuto!E, z z2 A,, z | G, z z2 A,, z | E, z z2 A,, z | [A,,,A,,] z z2 A,, z | %25
+ [D,,D,] z z2 A,, z | D, z z2 A,, z | [D,,D,] z z2 A,, z | E, z z2 A,, z | G, z z2 A,, z | %30
+ F, z z2 D, z | [G,,G,] z z2 z2 | A,, z z2 z2 |"^p" A, z z2 A,, z | E, z z2 A,, z | %35
+ [G,,G,] z z2 z2 | [A,,F,] z z2 z2 | z6 | [A,,E,] z z2 z2 | [F,,,F,,] z z2 z2 | %40
+ [B,,,B,,] z z2 [A,,,A,,] z | [G,,,G,,] z z2 z2 | [A,,,A,,] z z2 z2 | [A,,,A,,] z z2 z2 | %44
+ [D,,D,] z z2 A,, z | E, z z2 A,, z | G, z z2 A,, z | F, z z2 D, z | [G,,G,] z z2 z2 | %49
+ A,, z z2 z2 |"^p" A, z z2 A,, z | E, z z2 A,, z | [G,,G,] z z2 z2 | [A,,F,] z z2 z2 | z6 | %55
+ [A,,E,] z z2 z2 | z6 | A,, z z2 z2 | z6 | G,, z z2 z2 | [E,,E,] z z2 z2 | %61
+ [A,,,A,,] z z2 [G,,,G,,] z | [F,,,F,,] z z2 z2 | [B,,,B,,] z z2 [A,,,A,,] z | [G,,,G,,] z z2 z2 | %65
+ [A,,,A,,] z z2 z2 | [A,,,A,,] z z2 z2 | D,, z z2 A,, z | F,,F,A,F,A,, z | D, z z2 A,, z | %70
+ E, z z2 A,, z | G, z z2 A,, z | E, z z2 A,, z | A,,, z z2 A,, z | [D,,D,] z z2 A,, z | %75
+ [D,,D,] z z2 A,, z | [D,,D,]6 |[K:treble] !fermata!f4[K:bass] [D,,A,,]2 |] %78
+

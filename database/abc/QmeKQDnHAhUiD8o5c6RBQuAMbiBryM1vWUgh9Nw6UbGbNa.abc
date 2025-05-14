@@ -1,0 +1,32 @@
+X:1
+T:Pequeños preludios
+T:Pequeños preludios
+T:del "Libro de Clave" (Klavierbüchlein) de Wilhelm Friedemann Bach
+T:J. S. Bach BWV 924
+C:J. S. Bach
+Z:BWV 924
+%%score { ( 1 3 ) | 2 }
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="1"
+V:3 treble 
+V:2 bass 
+V:1
+ z/ G/c/e/ z/ G/c/e/ z/ G/c/d/ z/ B/d/g/ | z/ A/d/g/ z/ A/d/f/ z/ A/d/e/ z/ c/e/a/ | %2
+ z/ B/e/a/ z/ B/e/g/ z/ c/e/f/ z/ G/d/f/ | z/ G/d/e/ z/ G/c/e/ z/ A/c/d/ z/ E/B/d/ | %4
+ z/ E/B/c/ z/ E/A/c/ z/ F/A/_B/ z/ C/G/B/ | z/ C/G/A/ z/ C/F/A/ z/ D/F/=B/ z/ E/G/c/ | %6
+ z/ D/G/c/ z/ D/G/B/ z/ C/G/B/ z/ C/^F/A/ | z/ B,/D/A/ z/ B,/D/G/ z/ A,/C/G/ z/ A,/C/=F/ | %8
+ !arpeggio![B,DF]2 z2 x4 | x2 F/G/B/d/ B/ G/B/d/ f/g/b/f/ | %10
+ e/c'/g/f/ e/c'/g/e/ d/c'/f/e/ d/b/f/d/ | c/b/e/d/ c/a/e/c/ B/a/d/c/ B/g/d/B/ | %12
+ A/g/c/B/ A/^f/c/A/ B/=f/d/c/ B/f/d/B/ | G/e/c/B/ A/e/c/A/ ^F/d/B/A/ G/d/B/G/ | %14
+ E/c/A/G/ ^F/c/A/F/ D/c/PB/A/ B/G/d/=F/ | G/E/=F/d/ c/B/A/G/ f/d/_e/c/ ^F/e/d/c/ | %16
+ B/d/B/G/ _A/=F/G/D/ _E/^F/=A/c/ z/ cB/ | [EGc]8 |] %18
+V:2
+ C,2 E,2 MG,2 G,,2 | MD,2 F,2 MA,2 A,,2 | E,2 ME2 A,2 MB,2 | C2 E,2 ^F,2 M^G,2 | A,2 C,2 D,2 ME,2 | %5
+ F,2 E,2 PD,2 C,2 | MG,2 G,,2 MG,2 G,,2 | MG,2 G,,2 MG,2 G,,2 | %8
+ MG,2 z2 z/ G,,/B,,/D,/ F,/G,/B,/D/ | B,/ G,/B,/D/ x2 x4 | [G,,G,]8- | [G,,G,]8- | [G,,G,]8- | %13
+ [G,,G,-]8 | [G,,G,-]8 | [G,,G,]8- | [G,,G,]8 | [C,,C,]8 |] %18
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x6 D=F | x8 |] %18
+

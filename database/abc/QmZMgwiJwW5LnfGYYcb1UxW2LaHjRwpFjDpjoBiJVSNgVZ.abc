@@ -1,0 +1,72 @@
+X:1
+T:Nacht und Traume
+T:von Collin/Schubert
+%%score 1 ( 2 3 )
+L:1/8
+Q:1/4=48
+M:4/4
+K:G
+V:1 treble nm="Voice"
+V:2 treble-8 nm="Guitar"
+V:3 treble-8 
+V:1
+"^Lento" z8 | z8 | z8 | z8 | %4
+"^Heil     -      -     -      -      -     -     -     -     -     -    -   -   ge          Nacht,                                                    du       sink   -   est" B4- B3 F | %5
+ G4- GGAB | %6
+"^nie    -     -      -     -      -      -    der;                                           nie  -     -     -     -     -     der       wal  -  len      auch     die" D4 B,2 z2 | %7
+ B3 A AGFE | %8
+[K:G]"^Trau  -     -     -    -     -    -    me,                                         wie                                  dein      Mond - licht     durch    die" A4 F2 z2 | %9
+ B3 A AGFE | %10
+"^Rau   -     -      -      -     -    -    me,                                                durch                der              Men  -    -    -   schen" A4 F2 z2 | %11
+ (DG)(AB) c2 B2 | %12
+"^stil  -     -    -    le,                   stil    -      -     -    le                     brust." B2 A2 G2 F2 | %13
+ G4 z4 | %14
+ z7"^Die   be  -  lau  -   -   -   -  schen                     sie                 mit" G/>G/ | %15
+ G2 G2 (G_E)(G_B) | %16
+"^Lust," c7"^Die   be  -  lau  -   -   -   -  schen                      sie                  mit" c/>c/ | %17
+ c2 c2 (c_A)(_Ec) | %18
+"^Lust;                                                                                             ru  -    -    -    -    fen,     wenn der Tag             er - wacht;" _B6 z2 | %19
+ c2 AA/A/ c>_B A2 | %20
+"^Keh  -   -   -   -   -   -   -    -   re    wie  -  der,        heil -  - ge          Nacht!                                                                       hol -" B2- B>A AGFE | %21
+ A6 z (c | %22
+"^-   -    -    -     -       -      -       de  Trau - me,        keh  -  ret             wie   -     -      -     -     -     -    der," B7/2) A/ AGFE | %23
+ A4 F2 z2 | %24
+"^hol    -   -     -    de             Trau  -    -    -   me,                      keh  -    -   -   -  ret                    wie     -     -    -    -    -   -   -  ." (DG)(AB) c2 B2 | %25
+ B2 A2 (G2 F2) |"^- der." G4 z4 | z8 | z8 |] %29
+V:2
+ [GB]/D/[GB]/D/ [GB]/D/[GB]/D/ [GB]/D/[GB]/D/ [GB]/D/[Bd]/D/ | %1
+ [Bd]/D/B/D/ [Ac]/D/A/D/ [Ac]/D/A/D/ [GB]/D/G/D/ | %2
+ !0![Gb]/^D/G/D/ [fa]/D/f/D/ !3!!4![Fa]/!1!B,/[Eg]/B,/ [Gf]/B,/[Ge]/B,/ | %3
+ [ce]/A/[ce]/A/ c/A/[c^d] [c=d][cd][cd][cd] | %4
+ [GB]/D/[GB]/D/ [GB]/D/[GB]/D/ [GB]/D/[GB]/D/ [GB]/D/[GB]/D/ | %5
+ [GB]/D/[GB]/D/ [GB]/D/[GB]/D/ [GB]/D/[GB]/D/ [GB]/D/[GB]/D/ | %6
+ !3!!4![Fc]/!1!D/[Fc]/D/ [Fc]/D/[Fc]/D/ [GB]/D/[GB]/D/ [GB]/D/[GB]/D/ | %7
+ [GB]/^D/[GB]/D/ [GB]/D/[GB]/D/ [GB]/E/[GB]/E/ [GB]/E/[GB]/E/ | %8
+[K:G] [G^c]/E/[Gc]/E/ [Gc]/E/[Gc]/E/ [Fd]/A/[Fd]/A/ [Fd]/A/[Fd]/A/ | %9
+ [AB]/^D/[AB]/D/ [AB]/D/[AB]/D/ [GB]/E/[GB]/E/ [GB]/E/[GB]/E/ | %10
+ [G^c]/E/[Gc]/E/ [Gc]/E/[Gc]/E/ [Fd]/A/[Fd]/A/ [Fd]/A/[Fd]/A/ | %11
+ [Gd]/D/[Gd]/D/ [Gd]/D/[Gd]/D/ !2!!3!!1![A,Fd]/!4!D/[A,Fd]/D/ !2!!1![^G,=Fd]/!4!D/[G,Fd]/D/ | %12
+ [Bd]/E/[Bd]/E/ [Ac]/E/[Ac]/E/ [DGB]/B,/[DB]/B,/ [DA]/C/[DA]/C/ | %13
+ [B,G]/D/[GB]/D/ [GB]/D/[GB]/D/ [GB]/D/[GB]/D/ [GB]/D/[GB]/D/ | %14
+[K:G] _B/G/B/G/ B/G/B/G/ B/G/B/G/ B/G/B/G/ | _B/G/B/G/ B/G/B/G/ B/G/B/G/ B/G/B/G/ | %16
+ [_Ac]/_E/[Ac]/E/ [Ac]/E/[Ac]/E/ [Ac]/E/[Ac]/E/ [Ac]/E/[Ac]/E/ | %17
+ [_Ac]/_E/[Ac]/E/ [Ac]/E/[Ac]/E/ [Ac]/E/[Ac]/E/ [Ac]/E/[Ac]/E/ | %18
+ _B/G/B/G/ B/G/B/G/ B/G/B/G/ B/G/B/G/ | %19
+ [F,^DA]/C/[F,DA]/C/ [F,DA]/C/[F,DA]/C/ [F,DA]/C/[F,DA]/C/ [F,DA]/C/[F,DA]/C/ | %20
+ [^DAB]/G/[DAB]/G/ [DAB]/G/[DAB]/G/ [GB]/E/[GB]/E/ [GB]/E/[GB]/E/ | %21
+ [G^c]/E/[Gc]/E/ [Gc]/E/[Gc]/E/ [Fd]/A/[Fd]/A/ [Fd]/A/[Fd]/A/ | %22
+ [^DAB]/G/[DAB]/G/ [DAB]/G/[DAB]/G/ [GB]/E/[GB]/E/ [GB]/E/[GB]/E/ | %23
+ [G^c]/E/[Gc]/E/ [Gc]/E/[Gc]/E/ [Fd]/A/[Fd]/A/ [Fd]/A/[Fd]/A/ | %24
+ [Gd]/D/[Gd]/D/ [Gd]/D/[Gd]/D/ [A,Fd]/D/[A,Fd]/D/ [^G,=Fd]/D/[G,Fd]/D/ | %25
+ [EBd][EBd][EAc][EAc] [DGB]/B,/[DB]/B,/ [DA]/C/[DA]/C/ | %26
+ G/D/[GB]/D/ [GB]/D/[GB]/D/ [Ac]/^D/[FAc]/D/ [Ac]/F/[Ac]/F/ | %27
+ [GB]/D/[GB]/D/ [GB]/D/[GB]/D/ [Ac]/^D/[Ac]/D/ [Ac]/F/[Ac]/F/ | [G,DGB]8 |] %29
+V:3
+ G,G,G,G, G,G,G,G, | F,F,F,F, G,G,G,G, | B,B,B,B, E,2 E,2 | %3
+ F,/D/F,/D/ F,/D/F/D/ A,/F/D/F/ D/F/A,/D/ | G,G,G,G, G,G,G,G, | G,G,G,G, G,G,G,G, | %6
+ !2!G,G,G,G, G,G,G,G, | G,G,G,G, G,G,G,G, |[K:G] A,A,A,A, DDDD | F,F,F,F, G,G,G,G, | %10
+ A,A,A,A, DDDD | B,B,B,B, x4 | A,A,A,A, DDDD | G,G,G,G, G,G,G,G, |[K:G] _EEEE EEEE | _EEEE EEEE | %16
+ _A,A,A,A, A,A,A,A, | _A,A,A,A, A,A,A,A, | _EEEE EEEE | x8 | F,F,F,F, G,G,G,G, | A,A,A,A, DDDD | %22
+ F,F,F,F, G,G,G,G, | A,A,A,A, DDDC | B,B,B,B, x4 | z/ A,A,A,A,/ DDDD | G,G,G,G, G,G,G,G, | %27
+ G,G,G,G, G,G,G,G, | x8 |] %29
+

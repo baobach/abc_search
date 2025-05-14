@@ -1,0 +1,82 @@
+X:1
+T:Wehmut
+T:Franz Schubert
+T:M. von COLLIN
+T:Copyright © 2009 by the Choral Public Domain Library (http://www.cpdl.org) Edition may be freely distributed, duplicated, performed, or recorded.
+T:Wehmut
+T:Copyright © 2009 by the Choral Public Domain Library (http://www.cpdl.org) Edition may be freely distributed, duplicated, performed, or recorded.
+T:Copyright © 2009 by the Choral Public Domain Library (http://www.cpdl.org) Edition may be freely distributed, duplicated, performed, or recorded.
+C:Franz Schubert
+Z:M. von COLLIN
+Z:Copyright © 2009 by the Choral Public Domain Library (http://www.cpdl.org)
+Z:Edition may be freely distributed, duplicated, performed, or recorded.
+%%score 1 { ( 2 5 6 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=60
+M:2/2
+K:F
+V:1 treble nm="Voice" snm="Voice"
+V:2 treble nm="Piano" snm="Pno."
+V:5 treble 
+V:6 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Langsam" z8 | z8 | D2 DD A3 A | d3 e ^c3 c | ^c3 c c2 c2 | d3 A A3 A | e3 d e3 d | A4 z2 ^c2 | %8
+w: ||Wenn ich durch Wald und|Flu- ren geh', es|wird mir dann so|wohl und weh in|un- ruh vol- ler|Brust, so|
+ d3 A A>AA=B | ^c4- cccc | ^c3 ^A (^G=BA)G | ^F6 A2 | A3 ^F (EG{AG}F)E | D4 z4 | z8 | z4 z2 z A | %16
+w: wohl, so weh, wenn ich die|Au' _ in ihr- er|Schön- heit Fül- * * le|schau, und|all' die Früh- * * lings-|lust.||Denn|
+ A3 A A3 A | B3 A A3 A | B3 B B3 B | _c3 B B>BB>B | =B4- B>BB>A | G3 =B B3 A | %22
+w: was im Win- de|tö- nend weht, was|auf- ge- thürmt gen|Him- mel steht, und auch der|Mensch, _ so hold ver-|traut mit all' der|
+ (^Ge) (^d^c) =B3 (c/A/) | ^G6 A2 | A6 A2 | (d4 f3) e | ^c8 | z4 ^c4 | (d3 A) A4 | z8 | =B8 | ^c8 | %32
+w: Schön- * heit, _ die er _|schaut, ent-|schwin- det|und _ ver-|geht,|ent-|schwin- * det||und|ver-|
+ d8- | d8 | B8 | A8 | D8 | z8 | z8 |] %39
+w: geht,|_|und|ver-|geht.|||
+V:2
+ D4 [EA]4 | ([DF]3 E/D/ ^C4) |!p! D4 [EA]4 |!>(! d4!>)! [A^c]4 | ([GB^c]3 [GBc] [GBc]2 [GBc]2) | %5
+ ([^FA-d-]4 [=FAd]4) |!>(! ([GA^ce]3!>)! [FAd])!>(! ([GAce]2!>)! [FAd]2) | %7
+ ([EA^c]3 [GBc] [GBc]2 [GBc]2) | ([^FA-d-]4 [=FAd]4) | [EA^c]4 !arpeggio![^C^E=Bc]4 | %10
+ [^C^F^A^c]4 !arpeggio![=B,^E^Gc]4 | [^A,^F^A^c]4 !arpeggio![=A,^CF=A]4 | %12
+ [A,D^FA]4 !arpeggio![^CEA]4 | (A3 ^F) (EG{AG}FE) | D4 =F3 E | %15
+!pp! !//-![^CE] (24:8:1x A, (24:8:1x !//-![CE] (24:8:1x A, x x2 | %16
+ !//-![^CE] (24:8:1x A, (24:8:1x !//-![CE] (24:8:1x A, x x2 | %17
+ !//-![D=F] (24:8:1x A, (24:8:1x !//-![DF] (24:8:1x A, x x2 | %18
+"^cresc." !//-![DF] (24:8:1x _B, (24:8:1x !//-![DF] (24:8:1x B, x x2 | %19
+!<(! !//-![_E_G] (24:8:1x B, (24:8:1x !//-![EG] (24:8:1x!<)! B, x x2 | %20
+!f!!>(! !//-![^D^F] (24:8:1x =B, (24:8:1x!>)!!p! !//-![DF] (24:8:1x B, x x2 | %21
+ !//-![=E=G] (24:8:1x =B, (24:8:1x !//-![^D^F] (24:8:1x B, x x2 | %22
+ !//-![E^G] (24:8:1x =B, (24:8:1x !//-![^D^F] (24:8:1x B, x x2 | %23
+ (12:8:24[E^G]/=B,/[EG]/B,/[EG]/B,/"^cresc." [EG]/^B,/[EG]/B,/[EG]/B,/!<(! [EG]/^C/[EG]/C/[EG]/C/ [E=GA]/A,/[EGA]/A,/[EGA]/!<)!A,/ | %24
+!f! [A,DFA]4!<)!!<(! [A,EA]4 |!>(! [Dd]8!>)! |!pp! [EA^c]8 | ([E_B^c]8 | [DAd]8) | (d4 A4) | %30
+ ([D^G]8 | [A,E=G]8) | [A,-^F]8 | [A,=F]8 |[I:staff +1] ([G,_E]8 | [=E,^C]8) | [F,A,D]8 | %37
+ !>!F6 E2 | !fermata![F,A,D]8 |] %39
+V:3
+!f! [F,A,]4 A,4 | A,2 ^G,2 A,4 | [F,A,]4!<)!!<(! A,4 | [B,,,B,,]4 [A,,,A,,]4 | [A,,,A,,]8 | %5
+ [A,,,A,,]8 | [A,,,A,,]4 [A,,,A,,]4 | [A,,,A,,]4 [A,,,A,,]2 [A,,,A,,]2 | [A,,,A,,]4 [A,,,A,,]4 | %9
+ [A,,,A,,]4 [^G,,,^G,,]4 | [^F,,,^F,,]4 [^C,,^C,]4 | [^F,,,^F,,]4 [F,,,F,,]4 | [A,,,A,,]4 =G,4 | %13
+ [^F,D]4 [G,^C]4 | ^F,4 [^G,D]4 | !//-!A,,, (24:8:1x A,, (24:8:1x !//-!A,,, (24:8:1x A,, x x2 | %16
+ !//-!A,,, (24:8:1x A,, (24:8:1x !//-!A,,, (24:8:1x A,, x x2 | %17
+ !//-!A,,, (24:8:1x A,, (24:8:1x !//-!A,,, (24:8:1x A,, x x2 | %18
+ !//-!_B,,, (24:8:1x _B,, (24:8:1x !//-!B,,, (24:8:1x B,, x x2 | %19
+ !//-!B,,, (24:8:1x B,, (24:8:1x !//-!B,,, (24:8:1x B,, x x2 | %20
+ !//-!=B,,, (24:8:1x =B,, (24:8:1x !//-!B,,, (24:8:1x B,, x x2 | %21
+ !//-!=B,,, (24:8:1x =B,, (24:8:1x !//-!B,,, (24:8:1x B,, x x2 | %22
+ !//-!=B,,, (24:8:1x =B,, (24:8:1x !//-!B,,, (24:8:1x B,, x x2 | %23
+ (12:8:24=B,,,/=B,,/B,,,/B,,/B,,,/B,,/ ^B,,,/^B,,/B,,,/B,,/B,,,/B,,/ ^C,,/^C,/C,,/C,/C,,/C,/ C,,/C,/C,,/C,/C,,/C,/ | %24
+ [=D,,=D,]4 [=C,,=C,]4 | [_B,,,_B,,]8 | [A,,,A,,]8 | [=G,,,=G,,]8 | [^F,,,^F,,]8 | [=F,,,=F,,]8 | %30
+ [E,,,E,,]8 | [A,,,A,,]8 | D,,8- | D,,8 | [G,,,G,,]8 | [A,,,A,,]8 | [D,,D,]8 | [D,,D,]8 | %38
+ !fermata![D,,A,,]8 |] %39
+V:4
+ [D,,D,]4 [C,,C,]4 | [B,,,B,,]4 [A,,,A,,]4 | [D,,D,]4 [=C,,=C,]4 | x8 | x8 | x8 | x8 | x8 | x8 | %9
+ x8 | x8 | x8 | x4 [A,,,A,,]4 | [D,,D,]4 [D,,A,,]4 | [D,,A,,]4 [=B,,,=B,,]4 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %38
+ x8 |] %39
+V:5
+ x8 | x8 | x8 | D4 E4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | (A4 ^G4) | x8 | x8 | x8 | [DA]8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %37
+[I:staff +1] [G,B,^C]8 | x8 |] %39
+V:6
+ x8 | x8 | x8 | A2 ^G2 x4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %18
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %37
+ x8 | x8 |] %39
+

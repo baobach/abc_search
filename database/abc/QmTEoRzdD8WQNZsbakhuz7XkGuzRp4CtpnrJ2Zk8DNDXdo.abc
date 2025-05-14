@@ -1,0 +1,44 @@
+X:1
+T:Saint John Passion
+T:Darnach bat Pilatum Joseph von Arimathia
+T: BWV 245 NBA #38 Darnach bat Pilatum Joseph von Arimathia
+T: Recitativo secco for the Evangelist, Saint John Passion More at http://bach.ejmaurath.com This was uploaded with Musescore 2
+T:Johann Sebastian Bach (1685--1750) 
+T:Saint John, from Martin Luther's Heilige Schrift 
+T:Sequenced by Edward J. Maurath
+C:Johann Sebastian Bach (1685--1750)
+Z:Saint John
+Z:Sequenced by Edward J. Maurath
+%%score 1 { 2 | 3 } 4
+L:1/8
+Q:1/4=48
+M:4/4
+K:Bb
+V:1 treble transpose=-12 nm="Tenor" snm="TEN"
+V:2 treble nm="Cembalo\nContinuo" snm="CEM"
+V:3 bass 
+V:4 bass nm="Violoncello\nContinuo" snm="VCO\nB.C."
+V:1
+"^48" z"^Evangelista" F c2 fcAB | cA/F/ ef/c/ _dd z d/B/ | GGfe _dc z G | GC/G/ _dd/c/ _AA z f/g/ | %4
+ _af/d/ =B_A/G/ fdgg | z2 GG dd/e/ fe/d/ | .e2 c/c/d/e/ _AG/F/ fd | =Bc FF/E/ C2 z2 | %8
+ z2 z G cc/d/ ee/f/ | gc z e e^FGA | .D>D c/c/e/d/ B2 z/ B/A/G/ | =ee z g ^cc/d/ ec/A/ | %12
+ gg/=e/ ae ff z/ A/d/e/ | ff=ed gg z g | B>B B/B/d/B/ GG/A/ BA | AA c/F/e/d/ dF=EF | FC z2 z2 z c | %17
+ AA/B/ cF ee z/ e/d/c/ | ^ff/g/ ad gg z d/B/ | GGAB E2 z/ E/E/E/ | _dd B/_D/F/E/ C2 z C | %21
+ GG =ED/C/ _AA z A/B/ | cc _AG/F/ dd z/ d/d/F/ | EG =B>c cG z2 | z8 |] %25
+V:2
+ [F,C]8 | [F,C]4 [E,G,_D]4 | [E,G,_D]4 [G,C]4 | [G,C]2 [G,B,_D=E]2 [_A,CF]4 | _A,4 [F,G,D]4 | %5
+ [F,G,D]8 | [E,G,]2 [G,C]2 [_A,C]4 | [F,=B,]4 z2 [D,B,]2 | [E,G,]8 | [E,G,]4 [E,^F,_A,C]4 | %10
+ [A,D]2 [A,C^F]2 [G,B,]4 | [_F,B,]4 [G,A,^C]4 | [G,A,=E]4 [F,A,]4 | [F,A,]4 [G,C]4 | [G,B,C]8 | %15
+ [A,C]2 [A,CEF]2 [F,D]4 | z2 [A,F][G,B,C=E] [A,CF]4 | [A,CF]4 [A,CE]4 | [^F,CD]4 [G,D]4 | %19
+ [G,B,D]4 [G,E]4 | [G,B,_D]4 [G,B,C]4 | [G,B,C=E]4 [_A,C]4 | [_A,CF]4 [F,G,D]4 | %23
+ [G,CE]2 [=B,DF_A=B]>c [EGc]2 [G,CEc][G,B,DFGB] | [G,CEc]8 |] %25
+V:3
+ A,,8 | A,,4 B,,4 | B,,4 =E,4 | =E,4 F,4 | F,4 =B,,4 | =B,,8 | C,2 E,2 F,4 | _A,,4 z2 G,,2 | C,8 | %9
+ C,8 | ^F,,4 G,,4 | G,,8 | ^C,4 D,4 | D,4 =E,4 | =E,8 | F,4 B,,4 | z2 C,2 F,,4 | F,,4 ^F,,4 | %18
+ C,4 B,,4 | B,,4 G,,4 | G,,4 =E,,4 | =E,,4 F,,4 | F,,4 =B,,4 | C,2 _A,,2 z2 G,,2 | C,,8 |] %25
+V:4
+ A,,8- | A,,4 B,,4- | B,,4 =E,4- | E,4 F,4- | F,4 =B,,4- | B,,8 | C,2 E,2 F,4 | _A,,4 z2 G,,2 | %8
+ C,8 | C,8 | ^F,,4 G,,4- | G,,8 | ^C,4 D,4- | D,4 =E,4- | E,8 | F,4 B,,4 | z2 C,2 F,,4- | %17
+ F,,4 ^F,,4 | C,4 B,,4- | B,,4 G,,4- | G,,4 =E,,4- | E,,4 F,,4- | F,,4 =B,,4 | C,2 _A,,2 z2 G,,2 | %24
+ C,,8 |] %25
+

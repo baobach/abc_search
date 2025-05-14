@@ -1,0 +1,53 @@
+X:1
+T:Prelude
+T:Prélude
+T:M.Ravel
+C:M.Ravel
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=60
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+"^Assez lent et très expressif(d'un rythme libre)  = 60" z!p!!ped! (e[Q:1/4=58]^fd[Q:1/4=56]e[Q:1/4=52]f!ped-up! | %1
+[Q:1/4=58] b2!ped![Q:1/4=60] g2"^environ" d2- | d2[Q:1/4=58] e2[Q:1/4=56] G2)!ped-up! | %3
+[Q:1/4=58] ([D^FB]4!ped![Q:1/4=56] [^C=F!courtesy!=c]2!ped-up!!ped!!ped-up![Q:1/4=60] | %4
+[Q:1/4=60] [=G,=CE]3!ped! [^DG][Q:1/4=56] [CE]2)!ped-up!!ped!!ped-up![Q:1/4=58] | %5
+[Q:1/4=60]!<(! (B3!ped!!<)![Q:1/4=58] d!p![Q:1/4=56] !courtesy!=d!ped-up!!ped!c!ped-up! | %6
+[Q:1/4=58] [CE]2!ped![Q:1/4=60] [GB]3[Q:1/4=58] [CE]!ped-up! | [G,B,E]6!ped![Q:1/4=60] | %8
+[Q:1/4=58] A,2)[Q:1/4=56] z2[Q:1/4=52] z2!ped-up![Q:1/4=50] | %9
+!pp![Q:1/4=58] z!ped! (e'-[Q:1/4=60] [ee'][dd'] [ee']2-!ped-up! | %10
+ [ee']2!ped![Q:1/4=58]!<(! [dd'][Bb] [Aa][Bb]!<)!!ped-up! | %11
+!p![Q:1/4=60]!>(! [ee']2!ped! [dd'][Gg]!>)! [Bb]2-!ped-up! | %12
+!pp! [Bb]2!ped![Q:1/4=58]!<(! [Aa][Gg] [Ee][Gg]!ped-up! | %13
+ [Bb]!ped!!p![dd']!<)! [Bb]3 [Aa]!ped-up! | %14
+!ped! [Bb]"^Ralenti"!>(![Ee][Q:1/4=54] [Gg]3)[Q:1/4=50]!>)! ([Gg]!ped-up!!ped! | %15
+!p!"^au Mouvt"[Q:1/4=60] !arpeggio![G_A=cg]4!ped-up! f2 | %16
+!ped! [^DA]3 [=D=c][Q:1/4=56] [^DA]2)!ped-up!!ped! |[Q:1/4=60] (!arpeggio![G_A=cg]3 f gc!ped-up! | %18
+!ped! [^DA]3[Q:1/4=56] [=D=c][Q:1/4=54] [^DA]2)!ped-up!!ped! | %19
+[Q:1/4=58]!<(! (!arpeggio![_B,=DA]2[Q:1/4=60] G2 F2 | A3 F[Q:1/4=56]D_B,!<)![Q:1/4=58] | %21
+[Q:1/4=60] D4)!ped-up![Q:1/4=54]!>(! (!tenuto!D2- | %22
+[K:bass][Q:1/4=60] D2!ped!"^Ralenti"[Q:1/4=58] C3[Q:1/4=56][Q:1/4=50] B,!ped-up! | %23
+ [C,E,B,]6)!ped![Q:1/4=58] | %24
+[Q:1/4=56] z2[Q:1/4=54] z2!>)![K:treble][Q:1/4=48] z!pp!"^Très lent" (e!ped-up! | %25
+[Q:1/4=46] ^f!ped!d[Q:1/4=44]ef[Q:1/4=30] b2- | !fermata!b2) z2!ped-up! z2 |] %27
+V:2
+ z6 | z (A,,E,G,CE |[K:treble] Gc) z2 z2 |[K:bass] z (E,,E,^F, ^G,2) | z (A,,E,B, G,2) | %5
+ z (E,,E,^F, ^G,2) | z (A,,E,B, G,2) | z (D,,!>(!A,,D,E,^F,- | ^F,[K:treble]DE^FAd)!>)! | %9
+ ([=fa]4 [gb]2 | [fa]4 [df][eg] | [fa]4 [^d^f]2) | ([=ce]4 [^A^c]2 | [=ce] [^d^f]2 [eg] [ce]2 | %14
+ [ce] [B^d]2 [_B=d] [A^c]2) | z (F,CG _A2) |[K:bass] z ^C,^E,B,- B,2 |[K:treble] z (F,CFG_A) | %18
+[K:bass] z B,,^F,A,- A,2 | z (G,,=D,=F,_B,D |[K:treble] z [_Bd]- [Bd]2) z2 | z6 |[K:bass] E,,6 | %23
+ z A,,,E,,B,,C,E, |[K:treble] B,CEB c2 | B2 cd [ce]2- | !fermata![c'e']2 z2 z2 |] %27
+V:3
+ x6 | x6 | x6 | x6 | x6 | [=D^F]4 [^DF]2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %14
+ x4 x3/2 x/8 x/8x/8x/8 | x6 | x4 x3/2 x/8 x/8x/8x/8 | x6 | x4 x3/2 x/4 x/8x/8 | x6 | x6 | x6 | %22
+[K:bass] [^F,^G,-]2 [E,G,]2 [D,F,]2 | x6 | x4[K:treble] x2 | x6 | x6 |] %27
+V:4
+ x6 | x6 |[K:treble] x6 |[K:bass] x6 | x6 | x6 | x6 | x6 | x[K:treble] x5 | x6 | x6 | x6 | x6 | %13
+ x6 | x6 | x6 |[K:bass] x6 |[K:treble] x6 |[K:bass] x6 | x6 |[K:treble] x6 | x6 |[K:bass] x6 | x6 | %24
+[K:treble] x6 | x6 | [ce]2 x4 |] %27
+

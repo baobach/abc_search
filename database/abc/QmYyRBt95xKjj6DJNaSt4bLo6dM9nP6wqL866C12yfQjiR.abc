@@ -1,0 +1,25 @@
+X:1
+T:Title
+%%score 1 2 3
+L:1/8
+Q:1/4=100
+M:2/4
+K:C
+V:1 treble nm="Grand Piano"
+V:2 bass nm="Grand Piano, Melody"
+V:3 bass nm="Grand Piano"
+V:1
+ z2 ed | c2 cd | ed ee | g2 ge | d2 cd | e>d ef | ge de | g2 ga | g2 ed | c2 cd | e>d ee | g2 ge | %12
+ d2 cB | A>B cd | ed ge | a2 ed | e4 | z2 cd | e>d cB | A>B cd | e2 ec | d2 cd | e>d ef | ge de | %24
+ g2 ga | g2 ed | c2 cd | ed ee | g2 ge | d2 cB | A>B cd | ed ge | a2 ed | e4 |] %34
+V:2
+ z2 CB, | A,2 A,B, | A,G, E,E, | C>D EC | D2 EG | A>G ED | C[K:bass]A, G,E, | G,2 G,A, | G,2 E,G, | %9
+ A,2 A,B, | A,G, E,E, | C>D EC | D2 EG | A>G ED | C[K:bass]A, G,E, | A,2 A,B, | A,4 | %17
+ z2[K:treble] EG | A>G ED | C>D EF | G>E GA | G2 EG | A>G ED | C[K:bass]A, G,E, | G,2 G,A, | %25
+ G,2 E,G, | A,2 A,B, | A,G, E,E, | C>D EC | D2 EG | A>G ED | C[K:bass]A, G,E, | A,2 A,B, | A,4 |] %34
+V:3
+ z2 A,2 | A,2 A,G, | A,2 E,E, | C,>D, E,E, | G,2 E,2 | A,>G, E,E, | C,2 D,E, | G,2 G,A, | G,2 A,2 | %9
+ A,2 CB, | A,2 E,E, | C,>D, E,E, | G,2 E,2 | A,>G, E,E, | C,2 D,E, | A,2 E,E, | A,,4 | z2 A,2 | %18
+ A,>G, A,B, | C>A, G,A, | C2 CA, | G,2 E,2 | A,>G, E,E, | C,2 D,E, | G,2 G,A, | G,2 A,2 | A,2 CB, | %27
+ A,2 E,E, | C,>D, E,E, | G,2 E,2 | A,>G, E,E, | C,2 D,E, | A,2 E,E, | A,,4 |] %34
+

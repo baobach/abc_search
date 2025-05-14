@@ -1,0 +1,57 @@
+X:1
+T:Джон Грэй.
+T:Джон Грэй.
+T:Фокс-трот.
+T:Музыка Матвея БЛАНТЕРА
+C:Матвей Блантер
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=116
+M:2/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+"^Allegretto."{g=a=b} (c'>g a>e) | (c>G"^Леониду Сигизмундовичу ГУБЕР." AE) | %2
+ (C>G, A,!fermata![F,=B,E]) | z [G,CE]z[G,CE] |: ([EGe] [EGd]2 [EGc] | [EG=B][EGc] [EGd][EGc]) | %6
+ ([CEB] [CEA]2 [CEG] | [CE^F][CEG] [CEA][CEG]) | (=A2 =B2) | z ([CD^Fc] [CDF=B][CDF=A] | %10
+ [DGd] [=B,F=B]2 [=B,FA]- |[B,FA] [=B,FG][B,F][B,=F^F]) | ([EGe] [EGd]2 [EGc] | %13
+ [EG=B][EGc] [EGd][EGc]) | ([CEB] [CEA]2 [CEG] | [CE^F][CEG] [CEA][CEG]) | ((D2 E2) | %17
+ z [G,=B,F][G,B,E][F,B,D] | [E,G,C]4-) | [E,G,C] (DE^F | [=B,FA] [B,FG]2 [B,-=F^F-] | %21
+[B,=F^F][_B,=FG] [B,FA][B,FG]) | (([CEA] [CEG]2 [CE^F]-) |[CEF] [CEG][CEA][CEG]) | %24
+ ([=EB_d] [EBc]2 [EB_c] | [=EB_c][EB=c] [EB_d][EBc]) | ([FA_d]>[FAc] [GAc][FA=B]) | %27
+ [FAc]2 !fermata![FAc=d]2 |!p! ([EGe] [EGd]2 [EGc] | [EG=B][EGc] [EGd][EGc]) | %30
+ ([CEB] [CEA]2 [CEG] | [CE^F][CEG] [CEA][CEG]) |!<(! (D2 E2)!<)! |!f! z ([G,=B,F] [G,B,E][F,B,D] | %34
+ [E,G,C]4-) | [E,G,C]D E^F |: z ([A,A] !^![G,G]2) | z [CE]z[G,C] | z (DCD | EDEF) | %40
+ z ([G,G] !^![A,A]2) | z [G,G] !^![=A,=A]2 | z ([G,DFG] [=B,FG=B][Cc]) | ([DF=Bd][Ff] [FBe][FBd]) | %44
+ z [A,A] [G,G]2 | z [^F,^F] [E,E]2 | z (DCD | ED EG) | ([A,C-]4 |1 [=A,C]4) | [=A,C]4 | %51
+ [G,=B,]4 :|2 [=A,C]4 | [DF]4 | [EGc]2 z2 |] %55
+V:2
+[I:staff -1]{G=A=B} (c>G A>E) |[I:staff +1] (C>G, A,E,) | (C,>G,,) A,,!fermata!G,, | %3
+ [C,,C,]z[G,,,G,,] z |:"^staccato" C,G,!mf! G,,G, | C,G, G,,G, | C,G, G,,G, | C,G, G,,G, | %8
+ [D,,D,]2 [^F,,^F,]2 | [D,,D,]2 [=E,,=E,][^F,,^F,] | [G,,D,] [G,,D,]2 [G,,D,]- | %11
+[G,,D,] [G,,D,][G,,D,][G,,D,] | C,G, G,,G, | C,G, G,,G, | C,F, G,,G, | C,G, G,,G, | %16
+ ([F,,,F,,]2 [^F,,,^F,,]2 | ([G,,,G,,]2) [=A,,,=A,,][=B,,,=B,,] | ([C,,C,]>)A,, G,,E,, | %19
+ C,,) z z2 |"^cresc." D,G, G,,G, | D,G, G,,G, | B,,G, G,,G, | C,G, G,,G, | %24
+!f! G,,[=E,G,B,C] C,,[E,G,B,C] |!<(! E,,[=E,G,B,C] C,,[E,G,B,C] | F,,C, C,,C, | %27
+ F,,2!<)! !fermata![D,,D,]2 | C,G, G,,G, | C,G, G,,G, | C,G, G,,G, | C,G, G,,G, | %32
+ ([F,,,F,,]2"_legato" [^F,,,^F,,]2 | [G,,,G,,]2 [=A,,,=A,,][=B,,,=B,,] | [C,,C,]>)(A,, G,,E,, | %35
+ C,,) z z2 |: [C,,C,]z[G,,,G,,] z | [C,,C,]z[G,,,G,,] z | x [D,G,][C,G,][D,G,] | %39
+ [E,G,][D,G,][E,G,]F, | [D,,D,]z[G,,,G,,] z | [D,,D,]z[G,,,G,,] z | [D,,D,] z [G,,,G,,]2- | %43
+ ([G,,,G,,]2 [=A,,,=A,,][=B,,,=B,,] | [C,,C,])z[G,,,G,,] z | [C,,C,]z[G,,,G,,] z | %46
+ [C,,C,]z[G,,,G,,] z | [E,G,][D,G,][E,G,]G, | [F,,D,]4 |1 [^F,,D,]4 | [^F,,D,]4 | [D,G,]4 :|2 %52
+ [^F,,D,]4 | [G,,D,]4 | [C,,C,]2!8vb(! C,,,2!8vb)! |] %55
+V:3
+ x4 | x4 | x4 | x4 |: x4 | x4 | x4 | x4 | z [CD^F]z[CDF] | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %16
+ z [F,A,C]z[^F,=A,C] | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %32
+ z [F,A,C]z[^F,=A,C] | x4 | x4 | x4 |: z [CE]z[CE] | z ([^F,^F] !^![E,E]2) | x4 | x4 | %40
+ z [DF]z[DF] | z [DF]z[DF] | x4 | x4 | z [CE]z[CE] | z [CE]z[G,C] | x4 | x4 | D>D DE |1 D3 D | %50
+{/F} ED E^F | G=F ED :|2 D3 A | GA=A=B | x4 |] %55
+V:4
+ x4 | x4 | x4 | x4 |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |: x4 | x4 | %38
+ [C,,C,]z[G,,,G,,] z | [C,,C,]z[G,,,G,,] z | x4 | x4 | x4 | x4 | x4 | x4 | x [D,G,][C,G,][D,G,] | %47
+ [C,,C,]z[G,,,G,,] z | x4 |1 x4 | x4 | G,,A,, =A,,=B,, :|2 x4 | G,F,E,D, | x2!8vb(! x2!8vb)! |] %55
+

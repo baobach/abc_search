@@ -1,0 +1,45 @@
+X:1
+T:James Gibb editions
+T:Thousand stars in heaven - Barnby
+%%score [ ( 1 2 ) ( 3 4 ) ] { ( 5 7 ) | ( 6 8 ) }
+L:1/8
+Q:1/4=80
+M:4/2
+K:A
+V:1 treble nm="Midi_74"
+V:2 treble 
+V:3 bass nm="Midi_74"
+V:4 bass 
+V:5 treble nm="Midi_20"
+V:7 treble 
+V:6 treble 
+V:8 treble 
+V:1
+"^87. 87. 87""^Thousand stars in heaven""^Joseph Barnby\n(1838-96)" c2 e2 e2 c2 | c2 A2 B2 A2 || %2
+ d2 c2 B2 A2 | B3 c B4 ||[M:4/4] e2 ^d2 c2 B2 | c2 B2 A2 F2 || B2 G2 E2 A2 | F3 E E4 || %8
+ A3 B B2 A2 | A3 B B2 A2 | d2 c2 BF GA | A4 B4 | A8 || A4 A4 |] %14
+V:2
+ A2 A2 A2 A2 | A2 F2 G2 A2 || A2 A2 G2 F2 | F2 ^D2 E4 ||[M:4/4] G2 F2 E2 F2 | E2 G2 F2 C2 || %6
+ E2 ^D2 E2 C2 | ^D3 E E4 || A3 B B2 A2 | A3 B B2 A2 | d2 c2 BF GA | A4 B4 | A8 || F4 E4 |] %14
+V:3
+ E2 C2 C2 E2 | E2 C2 D2 C2 || F2 E2 E2 C2 | B,2 A,2 G,4 ||[M:4/4] B,2 F,G, A,2 A,2 | %5
+ G,2 !courtesy!=D2 C2 A,2 || G,2 B,2 G,2 A,2 | A,3 G, G,4 || A,3 B, B,2 A,2 | A,3 B, B,2 A,2 | %10
+ D2 C2 B,F, G,A, | A,4 B,4 | A,8 || D4 C4 |] %14
+V:4
+ A,2 A,,2 A,,2 C,2 | C,2 F,2 E,2 A,2 || D,2 A,,2 E,2 F,2 | ^D,2 B,,2 E,4 || %4
+[M:4/4] B,,2 B,,2 C,2 ^D,2 | E,2 ^E,2 F,2 A,,2 || B,,2 B,,2 C,2 F,,2 | B,,3 E, E,4 || %8
+ A,3 B, B,2 A,2 | A,3 B, B,2 A,2 | D2 C2 B,F, G,A, | A,4 B,4 | A,8 || D,4 A,,4 |] %14
+V:5
+[K:C] z8 | z8 || z8 | z8 ||[M:4/4] z8 | z8 || z8 | z8 ||[K:A][M:4/4][K:treble] A3 B B2 A2 | %9
+ A3 B B2 A2 | d2 c2 BF GA | A6 G2 | A8 || A4 A4 |] %14
+V:6
+[K:C] x8 | x8 || x8 | x8 ||[M:4/4] x8 | x8 || x8 | x8 ||[K:A][M:4/4][K:bass] A,3 B, B,2 A,2 | %9
+ A,3 B, B,2 A,2 | [F,B,D]2 [F,^A,C]2 [F,B,]2 G,=A, | A,4 [E,B,]4 | A,8 || A,4 A,4 |] %14
+V:7
+[K:C] x8 | x8 || x8 | x8 ||[M:4/4] x8 | x8 || x8 | x8 || %8
+[K:A][M:4/4][K:treble] E2 [C=G]2 [DF]2 [DF]2 | [C=G]2 [CG]2 [DF]2 [DF]2 | F2 [EF]2 [DF]2 [DF]2 | %11
+ [CE]4 [DEB]4 | [CE]8 || [DF]4 [CE]4 |] %14
+V:8
+[K:C] x8 | x8 || x8 | x8 ||[M:4/4] x8 | x8 || x8 | x8 ||[K:A][M:4/4][K:bass] C,2 A,,2 D,2 A,,2 | %9
+ E,2 A,,2 D,2 F,2 | B,,2 C,2 D,2 [B,,F,]2 | E,4 E,,4 | A,,8 || D,4 A,,4 |] %14
+

@@ -1,0 +1,36 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=100
+M:4/4
+K:D
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 treble nm="Choir Pad, Bass"
+V:4 bass 
+V:1
+ [DF][EG] [FA]2 [FA]2 [GB][FA] | [DF]D [DF]2 [CE]2 [CE]2 | [CE][DF][EG][EG] [Gc][GB] [GA]2 | %3
+w: By~John~Robson~Sweney * * * * *|||
+ [EG]2 [DF]6 | [DF][EG] [FA]2 [FA]2 [GB][FA] | [Ad][Ac] [Ac]2 [GB]2 [GB]2 | .e2 z2 z4 | %7
+w: ||||
+ [Ge]2 [Fd]6 | [Fd]2 [Gc]2- [Gc][Ge] [EG]2 | [GB]2 [FA]2- [FA][Fd] [DF]2 | %10
+w: |||
+ [DF]2 [CE]2 [EA][Ac][^Ge][Gd] | [^Gc][GB] A2 EF =G2 | [GA]2 [Fd]2- [Fd][Fd] [Fd]2 | %13
+w: |||
+ [DF]2 [CG]2 [DA]2 [DB]2 | .e2 z2 z4 | [Ge]2 [Fd]6- | [Fd]2 z2 z4 |] %17
+w: ||||
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | G-[Gd][Gc][Gc] [Gc][GB] [GA]2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %14
+ G-[Gd][Gc][Gc] [Gc][GB] [GA]2 | x8 | x8 |] %17
+V:3
+ A,2 D2 D2 DD | A,F, A,2 A,2 A,2 | A,2[K:treble] CC ED C2 | A,2 A,6 | A,2 D2 D2[K:treble] DD | %5
+ DD D2 D2 D2 | B,2 A,A, A,D C2 | A,2 A,6 | D2 EE EC C2 | C2 DD D[K:bass]A, A,2 | %10
+ A,2 A,2 C[K:treble]EDB, | ED C2 CD E2 | C2 D2- D[K:bass]A, A,2 | A,2 A,2 A,2 G,2 | %14
+ B,2 A,A, A,D C2 | A,2 A,6- | A,2 z2 z4 |] %17
+V:4
+ D,2 D,2 D,2 D,D, | D,D, A,,2 A,,2 A,,2 | z2 A,A, A,A, A,2 | C,2 D,6 | D,2 D,2 D,2 D,D, | %5
+ F,F, G,2 G,2 G,2 | G,2 z2 z A, A,2 | A,,2 D,6 | D,2 A,A, A,A, A,2 | A,,2 D,D, D,D, D,2 | %10
+ D,2 E,2 E,E,E,E, | E,E, A,6 | A,2 D,2- D,D, D,2 | D,2 E,2 F,2 z2 | G,2 z2 z A, A,2 | A,,2 D,6- | %16
+ D,2 z2 z4 |] %17
+

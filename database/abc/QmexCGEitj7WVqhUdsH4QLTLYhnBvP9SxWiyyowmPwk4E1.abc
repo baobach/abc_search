@@ -1,0 +1,50 @@
+X:1
+T:Jurassic Park
+T:Jurassic Park
+T:Main Theme
+T:John Williams
+C:John Williams
+%%score 1 2 3
+L:1/8
+Q:1/4=55
+M:6/4
+K:F
+V:1 treble transpose=-2 nm="B♭ Trumpet" snm="B♭ Tpt."
+V:2 treble transpose=-7 nm="Horn in F" snm="F Hn."
+V:3 bass nm="Trombone" snm="Tbn."
+V:1
+[K:G]!mp! G2 c2 _A2 g6 | z12 |[M:3/4] z6 |[M:6/4]!p! d6 g2 f2 gg/f/ | g2 a3 g/a/ a4- a!mp!g/f/ | %5
+[M:4/4] g8 | DB/c/ dD C!tenuto!G!tenuto!E!tenuto!A, |"^A" z8 | z8 | z8 |[M:6/4] z8 G2 F!mf!G/F/ | %11
+[M:4/4] G3 G/F/ G3 G/F/ | G>A A>c c3 B/G/ | A>F DB/G/ A3 d/G/ | c>B B>A A3 g/f/ | %15
+ gd cg/f/ gd cg/f/ | f<g dG =f3 g/^f/ | gd cg/^f/ gd cg/^f/ |!<(! g z z c/B/ c z z!f! g/f/!<)! | %19
+ g4 f4 | g4 g/G/c/A/ g/G/c/A/ | g/f/d/f/ g/f/d/f/ g/d/c/d/ f/ z3/2 | %22
+"^B" G/F/G/d/ G/F/D/F/ G/F/G/d/ G/F/D/F/ | G/F/G/d/ A/^G/A/d/ =G/F/G/d/ G/F/D/F/ | %24
+ A/D/d/D/ A/D/G/D/ A/D/d/D/ A!ff!d/G/ | c>B B>A A/D/d/D/ AG/F/ | G3 G/F/ G3 G/F/ | %27
+ GD dc/B/ c3!<(! d/A/ | c>B Ad/A/ cd/A/ cd/A/ | c>B Ac/e/!<)!!fff! f2 z2 |"^C"!mp! D2 A,2 D2 G,2 | %31
+ D2 G,2 C3!mf! g/f/ | gd cg/f/ gd cg/f/ | f<g dG g2 f!mp!g/f/ | gd c2 D2 G2 | %35
+[M:2/4] B,2!mf!!<(! cA!<)! |[M:4/4]!f!!>(! g4 f4 | g8!>)! |!mf! g8 |] %39
+V:2
+[K:C] z12 | z12 |[M:3/4]!p! C2 F2 _D2 |[M:6/4] G2 B4 G2 d3 A | d2 c3 B c2 d3 z | %5
+[M:4/4] z!mp! G,ED GCDF | z G,DB, A,F/E/ DG, |!mf! C3 C/B,/ C3 C/B,/ | C>D D>F F3 E/C/ | %9
+ D>B, G,E/C/ D3 G/C/ |[M:6/4] F>EE>D D4 A2 G z |[M:4/4]!mf! G,2 G,G, F2 FF | E>B B>A A3 A | %13
+ B2 GG B4 | c>c c>B B4 | E2 A2 E2 A2 | EcGc c4 | E2 c2 E2 c2 | %18
+!<(! EG/^F/ G z z d/^c/ d!f!=c/B/!<)! | FG/^F/ G2- GG/F/ G2 | c8 | E4 z4 |!ff! G,3 G, A,3 A, | %23
+ G,>B, B,>C C2 CG, | B,2 G,G, B,3 c | c>c c>B B3 z | CC/B,/ C2 CC/B,/ C2 | CC/B,/ C2 CC/B,/ C2 | %28
+!<(! c>c BB _B z2 =B | c>c Ad!<)!!fff! d3!mf! c/B/ | cG Fc/B/ cG Fc/B/ | B<c GC _B4 | %32
+!mp! E2 G2 E2 G2 | E<c c2 F2 d2 | E2 Ac/!mf!B/ cG Fc/B/ |[M:2/4] B<c!<(! FD!<)! | %36
+[M:4/4]!f!!>(! G4 d4 | G/D/C C/D/C G/D/C C/D/C!>)! |!mf! E8 |] %39
+V:3
+ z12 |!pp! F,2 B,2 _G,2 F6 |[M:3/4] z6 |[M:6/4]!p! A,2 B,4 A,2 B,3 B, | C2 B,3 C _D2 _E3 z | %5
+[M:4/4]!mp! F,,8 | F,,8 | A,,3 A,, B,,3 B,, | A,,2 C,2 C,3 C, | C,2 C,F,, C,3 A,, | %10
+[M:6/4] B,,>C,C,>C, C,2 C,2- C, C,2 C, |[M:4/4] F,,2 F,,F,, B,,2 B,,B,, | C,2 C,>D, F,,2 F,,F,, | %13
+ C,2 E,G, C,2 C,A,, | D,>C, C,>C, C,2 C,2 | F,,F,,B,,B,, F,,F,,B,,B,, | F,,F,,F,,F,, B,,B,,B,,B,, | %17
+ F,,F,,B,,B,, F,,F,,B,,B,, |!<(! F,,2 G,,2 C,2 F,2!<)! |!f! F,, B,,2 C,- C, C,2 C, | %20
+ F,,2- F,,/F,,/C,/C,/ F,,2 F,,/F,,/C,/C,/ | F,,3 F,, B,,2 C,/ z/!ff! F,/E,/ | %22
+ F,3 F,/E,/ F,3 F,/E,/ | F,>G, G,>B, B,3 A,/F,/ | G,>E, C,A,/F,/ G,3 C, | D,>C, C,>C, C,C,C,C, | %26
+ F,,3 F,, B,,3 B,, | F,,3 F,, F,,3 F,, |!<(! C,C,C,C, _E,,E,,E,,C, | %29
+ D,>C, B,,G,,!<)!!fff! C,C,C,!mp!C, | F,,F,,B,,B,, F,,F,,B,,B,, | F,,F,,A,,A,, B,,B,,B,,B,, | %32
+ F,,F,,B,,B,, F,,F,,B,,B,, | F,,F,,F,,F,, C,C,F,,F,, | F,,2 B,,2 F,2 D2 | %35
+[M:2/4] C!<(! F,,2 F,,!<)! | %36
+[M:4/4] z/!ff! B,,/A,,/G,,/ z/ A,,/G,,/C,/ z/ C,/4B,,/4A,,/G,,/ z/ C,C,/ | %37
+!mf! F,,F,,F,,B,, F,F,F,B,, | F,,8 |] %39
+

@@ -1,0 +1,50 @@
+X:1
+T:6 Lieder, Op.9
+T:Ferne
+T:Fanny (Mendelssohn) Hensel
+T:Johann Ludwig Tieck
+T:6 Lieder, Op.9
+T:2. Ferne
+T:OpenScore (CC0)
+C:Fanny (Mendelssohn) Hensel
+Z:Johann Ludwig Tieck
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=90
+M:3/4
+K:Bb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:4 bass 
+V:1
+"^Andante" z6 |!p! d2 d2 d2 | e4 d2 | ^c4 z2 | d2 A2 B2 | d4 c2 | B4 z2 | G2 G2 G2 | ((A4 c2) | %9
+w: |1. O al- te|Hei\- math|süss!|wo find' ich|wie\- der|dich?|welch ei- ne|Qual _|
+w: |2. O fer- ner|Lie- bes-|schein,|glimmst wie- der|nach mir|her,|soll dies mein|Glük- *|
+w: |3. Bald such' ich|Lin- de-|rung|bei dir, o|Thrä- nen-|guss,|denk' dann es|ist *|
+"^cresc." (=B4) d2) | c2 z2 z2 | z6 |!f! c2 c2 c2 | e4 d2 | ^c2 z2 z2 |"^dim." d2 A2 B2 | %16
+w: _ ist|dies!||Wa- rum ver-|folgst du|mich?|war- um er\-|
+w: * ke|sein?||Mir fällt das|Leid zu|schwer,|wer denkt wohl|
+w: ge- *|nung.||Dann denk' ich|ih\- ren|Kuss|und dass ich|
+ !>!d4 c2 | B2 z2 z2 |!p! G2 G2 G2 |!<(! G6-!<)! |!>(! G6- | G4 G2!>)! |!pp! D4 z2 | z6 :| z6 | %25
+w: tö\- dtest|mich?|wa- rum er-|tö-||* dtest|mich?|||
+w: mei\- ner,|wer?|wer denkt wohl|mei\--||* ner,|wer?|||
+w: wan- dern|muss,|und dass ich|wan-||* dern|muss.|||
+ z6 | z6 |] %27
+w: ||
+w: ||
+w: ||
+V:2
+!p![I:staff +1] G,B,[I:staff -1]DGB,D |[I:staff +1] B,[I:staff -1]DGBDG | %2
+[I:staff +1] B,[I:staff -1]EGBEG | B,=EGBEG | A,D^FADF | A,D^FADF | B,DGBDG | G,B,DGB,D | G,CEGCE | %9
+ G,DFG=B,F | G,CEGCE | G,CEGCE | G,CEGCE | G,CEGCE | G,B,EGB,E | ^F,D^FADF | A,D^FADF | B,DGBDG | %18
+ G,B,DGB,D | _A,CE_ACE | =B,FG=BFG | CEGcEG | A,CDGCD | A,CD^FCD :| z B,DGBG | DB,G, x xx | z6 |] %27
+V:3
+ G,,6- | G,,6 | G,,6 | G,6 | ^F,6 | D,6 | G,6 | B,,6 | C,6 | D,6 | E,6- | E,6 | E,,6- | E,,6 | %14
+ E,6 | D,6 | ^F,,6 | G,,6 | B,,6 | C,6 | D,6 | E,6 | D,6 | D,6 :| [G,,G,]6- | [G,,G,]6 | %26
+ [G,,,G,,]2 z2 z2 |] %27
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 :| x6 | x2 x D,B,,D, | x6 |] %27
+

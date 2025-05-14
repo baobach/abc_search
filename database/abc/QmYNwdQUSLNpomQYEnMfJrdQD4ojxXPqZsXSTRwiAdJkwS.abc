@@ -1,0 +1,55 @@
+X:1
+T:Missa sopra La
+T:Joachim Kelecom (°1977)
+T:Missa sopra La
+T:Kyrie - pseudo-dorico
+T:©
+T:©
+T:©
+T:©
+C:Joachim Kelecom
+C:(°1977)
+Z:©
+%%score [ 1 2 ] { ( 3 5 ) | 4 }
+L:1/8
+Q:1/4=100
+M:6/8
+K:C
+V:1 treble nm="S/A"
+V:2 treble-8 nm="T/B"
+V:3 treble nm="Orgel" snm="Org."
+V:5 treble 
+V:4 bass 
+V:1
+ (AB)G (AB)c | (BG)E A A2 | z3 (BA)G | (ABc d) e2 | (ed)c (BA)G | (Ac)A B B2 | z3 (ed)c | %7
+w: Heer, _ ont- ferm _ U,|Heer, _ ont- ferm U.|Heer, _ ont-|ferm _ _ _ U.|Heer, _ ont- ferm _ U,|Heer, _ ont- ferm U.|Heer, _ ont-|
+ (BAG A) !fermata!A2!fine! ||[M:2/2] z2 A4 ^G2 | z2 c4 B2 | (A4 ^G4) | c4 (B2 A2) | ^G4 E4 | %13
+w: ferm _ _ _ U.|Chris- tus,|Chris- tus,|Chris- *|tus ont- *|ferm U.|
+ z2 A4 ^G2 | z2 c4 B2 | (c2 B2) A2 G2 | (A2 B2 c2 d2 | B8) | A8!D.C.! |] %19
+w: Chris- tus,|Chris- tus,|Chris- * tus, ont-|ferm _ _ _|_|U.|
+V:2
+ z3 (AB)G | (ABc d) d2 | (ed)c (dc)B | (cB)G A A2 | z3 (dc)B | (cde e) e2 | (cB)A (cB)A | %7
+w: Heer, _ ont-|ferm _ _ _ U.|Heer, _ ont- ferm _ U,|Heer, _ ont- ferm U.|Heer, _ ont-|ferm _ _ _ U,|Heer, _ ont- ferm _ U,|
+ (BG)B A !fermata!A2 ||[M:2/2] (A4 B4) | c4 d4 | (e8- | e4 d2 c2) | B8 | (A4 B4) | c4 d4 | (e8- | %16
+w: Heer, _ ont- ferm U.|Chris- *|tus, ont-|ferm|_ _ _|U.|Chris- *|tus, ont-|ferm|
+ e2 d2 c2 B2 | A4 G4) | A8 |] %19
+w: _ _ _ _||U.|
+V:3
+ [EA]6 |"^Instrument change" [GB]3 [^Fd]3 |"^Instrument change" [Ee]3"^Instrument change" [Fd]3 | %3
+"^Instrument change" [GB]3"^Instrument change" A3 | %4
+"^Instrument change" [EA]3"^Instrument change" [FA]3 | %5
+"^Instrument change" [EA]3"^Instrument change" [EG]3 |"^Instrument change" [EA]3 [Ac]3 | %7
+"^Instrument change" [GB]3 !fermata![CEA]3 || %8
+[M:2/2]"^Instrument change" z4"^Instrument change" [AB]2 [^GB]2 | %9
+"^Instrument change" [Ac]4"^Instrument change" [Gd]4 |"^Instrument change" [Be]8 | %11
+"^Instrument change" [ce]4 [Bd]2 [Ac]2 |"^Instrument change" [^GB]8 | %13
+"^Instrument change" z4 [AB]2 [^GB]2 |"^Instrument change" [Ac]4"^Instrument change" [Gd]4 | %15
+"^Instrument change" [Ge]8 |"^Instrument change" [Ac]2 [GB]2 [FA]2 [GB]2 | %17
+"^Instrument change" [EB]8 |"^Instrument change" [CEA]8 |] %19
+V:4
+ A,,6 | E,3 D,3 | C,3 D,3 | E,3 A,,3 | A,,3 D,3 | A,,3 E,3 | A,,6 | E,3 !fermata!A,,3 || %8
+[M:2/2] z4 E,4 | A,4 G,4 | E,8 | A,,4 D,4 | E,8 | z4 E,4 | A,4 G,4 | C,8 | A,,8 | E,8 | A,,8 |] %19
+V:5
+ x6 | x6 | x6 | x3 B c2 | x6 | x6 | x6 | x6 ||[M:2/2] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %17
+ x8 | x8 |] %19
+

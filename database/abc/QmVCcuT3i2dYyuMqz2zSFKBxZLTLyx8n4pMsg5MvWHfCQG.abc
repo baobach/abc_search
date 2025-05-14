@@ -1,0 +1,53 @@
+X:1
+T:She is Fooling Thee
+T:She is Fooling Thee
+T:Anonymous
+T:Henry Wadsworth Longfellow
+T:She'll give thee a garland woven fair, Take care, take care, It's a fool's cap for thee to wear, Beware, beware, Trust her not, trust her not, She is fooling thee, She is fooling thee. 
+T:She has hair of a golden hue, Take care, take care, And what she says, it is not true, Beware, beware, Trust her not, trust her not, She is fooling thee, She is fooling thee. 
+T:She has two eyes, so soft and brown, Take care, take care, She gives a side-glance and looks down, Beware, beware, Trust her not, trust her not, She is fooling thee, She is fooling thee. 
+T:by IMSLP - Public Domain - Editor Philadelphia: Lee and Walker, 1847. Plate 357 
+T:by IMSLP - Public Domain - Editor Philadelphia: Lee and Walker, 1847. Plate 357 
+C:Anonymous
+Z:Henry Wadsworth Longfellow
+Z:by IMSLP - Public Domain - Editor Philadelphia: Lee and Walker, 1847. Plate 357
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=67
+M:4/4
+K:Db
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+"^Andantino con espressione" z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 || %12
+w: ||||||||||||
+S"^Con Grazia." A2 A2 F2 D2 | d7/2 c/ c2 z2 |"^Express:" G2- G2 E2 A2 | (G3 A/G/ F2) z2 | %16
+w: I know a mai\- den|fair to see,|Take * care, take|care, _ _ _|
+ A2 A2 F2 D2 | d7/2 c/ c2 z2 |!f! G2- G2 E2 (B,C) | %19
+w: She can both false and|friend\- ly be,|Be _ ware, be _|
+"^Calando." D2"^Ritard." z2"^Ad lib:" E3 (F/=G/) | (B2{cB} A) z (e3 d) | ((ce) B!>!d/)c/ A2 z2 | %22
+w: ware Trust her *|not, * Trust *|her * * * * not|
+!p! A A (=GA) (_GA) F2 |"^A tempo." d3 (A/F/) A3 G | (EB)!>(! (B2 A2)!>)! D2 | z8 | z8 | z8 | %28
+w: She is foo- * ing * thee,|She is fool _ _|ing * * * thee.||||
+ z8!D.S.! |] %29
+w: |
+V:2
+ !turn!A4 F2 D2 | d7/2 c/!>(! c4!>)! |{F} G4 E2 B>A | G4 F4 | !turn!A4 F2 D2 | d7/2 c/ c4 | %6
+{F} G4 E2 B>A |{C} D6 z2 |!pp! .A.A.=G.A (._G.A) .F2 |!ff! .F.F.=E.F (._E.F) .D2 | %10
+ .!turn!A.=A.B.=B .c.d.f>.e | d/c/e/d/ !>!.f.e{C} D2 z2 || z (FDA,) z (FDA,) | z (GEA,) z (GEA,) | %14
+ z (GEA,) z (GEA,) | z (FDA,) z (FDA,) | z (FDA,) z (FDA,) | z (GEA,) z (GEA,) | %18
+!f! z (GEA,) z (GEA,) | !fermata![F,A,D]4 [=G,E]3 ([A,F]/[B,G]/) | %20
+ (([D=GB]2 [CA])) z ((!fermata![ce]3 [Bd])) | [Ac]2 [EB]2 !fermata![CEA]4 | .F.F.=E.F (._E.F) .D2 | %23
+ z/ d/A/F/DF z/ c/A/G/EG | z [GB] [GB]2 [FA]2 !fermata![F,A,D]2 |!pp! .A.A.=G.A (._G.A) .F2 | %26
+!ff! .F.F.=E.F (._E.F) .D2 | .!turn!A.=A.B.=B .c.d.f>.e | .d/.c/.e/.d/ !>!.f.e{C} D2 z2 |] %29
+V:3
+"^Legato." (D,,F,,A,,D,) (D,,F,,A,,D,) | A,,C,E,A, A,,C,E,A, | A,,C,E,A, A,,C,E,A, | %3
+ D,,F,,A,,D, D,,F,,A,,D, |"^Con Anima." D,,F,,A,,D, D,,F,,A,,D, | A,,C,E,A, A,,C,E,A, | %6
+ A,,C,E,A, A,,C,E,A, | D,4 D,,2 z2 | .F,.F,.=E,.F, (._E,.F,) .D,2 | .D,.D,.C,.D, (.C,.D,) .F,,2 | %10
+ A,,C,E,A, A,,C,E,A, | D,4 D,,2 z2 || [D,,D,]4 [D,,D,]4 | [A,,,A,,]4 [A,,,A,,]4 | %14
+ [A,,,A,,]4 [A,,,A,,]4 | [D,,D,]4 [D,,D,]4 | [D,,D,]4 [D,,D,]4 | [A,,,A,,]4 [A,,,A,,]4 | %18
+ [A,,,A,,]4 [A,,,A,,]4 | !fermata!F,2 D,,2 [E,,E,]4 |"^Ritardando." z8 | z4 !fermata![A,,A,]4 | %22
+ F,F,=E,F, E,F, D,2 | [D,,D,]4 [B,,,A,,]4 | [B,,,A,,]6 !fermata![D,,D,]2 | %25
+ .F,.F,.=E,.F, ._E,.F, .D,2 | .D,.D,.C,.D, .C,.D, .F,,2 | (A,,C,E,A,) (A,,C,E,A,) | D,4 D,,2 z2 |] %29
+

@@ -1,0 +1,38 @@
+X:1
+T:Title
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+M:6/4
+K:F
+V:1 treble nm="Grand Piano"
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+ z6 z4[Q:1/4=100] [DF]2 | [Fd]4 [Fd]2 c2 B2 [B,_EG]2 | [B,DF]3 [B,D] [^CG]2 [DF]4 [DF]2 | %3
+ B4 B2 G2 A2 B2 |[M:5/4] c2- c2- c6 |[M:1/4] F2 |[M:6/4] [Fd]4 [Fd]2 [Fd]2 [DB]2 [G_e]2 | %7
+ c4 c2 c4 F2 | c4 c2 c2 F2 d2 | [DB]4 [FB]2 [GB]2 [FA]2 [_EG]2 | F2 B2 d2 d4 c2 | %11
+[M:5/4] [DB]2- [DB]2- [DB]6 |[M:1/4] [_EF]G |[M:6/4] F4 _e2 .e4 FG | .[DF]4 [Fd]2 .[Fd]4 [Fd][Fd] | %15
+ [_Ed]3 [Ec] [EB]2 G2 A2 B2 | c12 | [DF]4 [Fd][Fd] [Fd]2 [E^c]2 [Fd]2 | B2 c2 d2 [G_e]4 GG | %19
+ F2 [G_e]2 [Fd]2 .[CEc]4 [C_EA]2 |[M:5/4] [DB-]4 B2 z4 |] %21
+V:2
+ z6 z4 [B,,B,]2 | z6 .B,6 | z2 z F, [B,,E,]2 [B,,F,]4 [B,,B,]2 | z6 .C6 | %4
+[M:5/4][K:bass] [F,A,_E]2- [F,A,E]2- [F,A,E]6 |[M:1/4] [F,A,_E]2 | %6
+[M:6/4] [B,,B,]4 [B,,B,]2 [B,,B,]4 [B,,B,]2 | [F,A,F]4 [G,B,E]2 [A,C_E]4 [F,CE]2 | %8
+ [F,A,_E]4 [F,A,E]2 [F,A,E]4 [F,A,F]2 | z6 .B,6 | [F,B,D]4 [F,B,F]2 [F,A,F]4 [F,A,_E]2 | %11
+[M:5/4] [B,,F,]2- [B,,F,]2- [B,,F,]6 |[M:1/4] z _E |[M:6/4] [F,A,_E]4 [F,A,E]2 .[F,A,E]4 [F,A,E]2 | %14
+ .[B,,B,]4 [B,,B,]2 .[B,,B,]4 [B,,B,][B,,B,] | z6[K:treble] .C6 | %16
+ [F,CF]4 [G,C]2[K:bass] [A,C]4 [F,C_E]2 | [B,,B,]4 [B,,B,][B,,B,] [B,,B,]4 [B,,B,]2 | %18
+ z2[K:treble] A2 [B,_A]2[K:bass] [_E,B,]4 [=E,B,^C][E,B,C] | [F,B,D]2 [F,B,]2 [F,B,]2 z2 G2 F,2 | %20
+[M:5/4] z2 F,2 G,2 [B,,F,]4 |] %21
+V:3
+ x12 | z6 .G6 | x12 | x12 |[M:5/4] x10 |[M:1/4] x2 |[M:6/4] x12 | x12 | x12 | x12 | x12 | %11
+[M:5/4] x10 |[M:1/4] x2 |[M:6/4] x12 | x12 | x12 | z4 E2 _E4 F2 | x12 | x12 | x12 | %20
+[M:5/4] B,2 z2 _E2 [DB]4 |] %21
+V:4
+ x12 | [B,,B,]4 [B,,B,]2 _E,2- [E,_E]2 E,2 | .B,,6 z6 | [G,B,D]4 [G,B,D]2 [B,E]2 [A,F]2 [G,CE]2 | %4
+[M:5/4][K:bass] x10 |[M:1/4] x2 |[M:6/4] x12 | x12 | x12 | [B,,B,]4 [D,B,]2 _E,2- [E,C]2 [E,B,]2 | %10
+ x12 |[M:5/4] x10 |[M:1/4] [F,A,]2 |[M:6/4] x12 | x12 | %15
+ [C,G,]3 [C,G,] [C,C]2[K:treble] [B,_E]2 [A,F]2 [G,CE]2 | x6[K:bass] x6 | x12 | %18
+ .B,6[K:treble][K:bass] z6 | z6 .C,6 |[M:5/4] B,,6 z4 |] %21
+

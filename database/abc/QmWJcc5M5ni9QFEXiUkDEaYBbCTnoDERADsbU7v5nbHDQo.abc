@@ -1,0 +1,36 @@
+X:1
+T:Choral hypocrite
+T:Choral hypocrite
+T:from Choses vues à droite et à gauche (sans lunettes)
+T:Erik Satie (1866-1925)
+C:Erik Satie
+%%score 1 { ( 2 3 5 ) | 4 }
+L:1/8
+Q:1/4=43
+M:4/4
+K:C
+V:1 treble nm="Violine" snm="Vl."
+V:2 treble nm="Klavier" snm="Klav."
+V:3 treble 
+V:5 treble 
+V:4 treble 
+V:1
+"_Sourdine""^Grave"!pp! ((v[Ec]2 B2) ([FA]2 G2) | !breath!!fermata![DA]8) | %2
+ ((v[DB]2 [Ec]2) ([EB]2 [Ec]2) | !breath!!fermata![Dd]8) | ((v[cg]2 [ce]2) d4 | %5
+ !breath!!fermata![Ae]8) | ((u[Bf]2 g2) (u[cf]2 e2) | !breath!!fermata!d8) | %8
+ !breath!!tenuto!.!fermata!vG,2[Q:1/4=53]"^Large" ([Ge]2 (f2[Q:1/4=45] B2) | %9
+[Q:1/4=53] !breath!c2)"_ralentir avec bonté"[Q:1/4=48] (([Ae][Q:1/4=43]d) [Gc]2- !fermata![Gc])"_17 Janvier 1914" z || %10
+V:2
+!pp! ([^ge']4 [ac']2 [e^c']2 | [dd']8) | ([fg]2 [ec']2 [ee']4 | d'4 f'2 !fermata!e'2) | %4
+"_la main sur la conscience" [_bc']2 [ae']2 [af']4 | !fermata![be']8 | %6
+!pp!"_très en dehors" [be']4 [gc']4 | !fermata![ab]8 | z4 ([^GBf]4 | %9
+ [Ad]2)"_ralentir avec bonté" ([^fa]2 [gd']2- [gd']) z || %10
+V:3
+[I:staff +1] [Ec]4 [Fc]2 [=GA]2 | A8 | ([DG]2 [C^G]2 [A,A]4 | [DA]4 [Cc]2 [DB]2) | %4
+[I:staff -1] ([ef]2 [cg]2 [df]4 | [Aa]8) |!p! (e2 d2 c2 BA | [Gd]8) | %8
+[I:staff +1] x4!pp![I:staff -1] ([DE]4 | [CF]2) ([ce]2 [Gd]2- [Gd])[I:staff +1] z || %10
+V:4
+ x8 | G4 !fermata!F4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || %10
+V:5
+ x8 | x8 | x8 | !courtesy!=g4 g2 ^g2 | x8 | x8 | x8 | x8 | x8 | x8 || %10
+

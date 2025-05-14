@@ -1,0 +1,44 @@
+X:1
+T:В.А. Моцарт 
+T:"Свадьба Фигаро". Каватина Фигаро
+T:Переложение для фортепиано в 4 руки Ж. Металлиди
+%%score { 1 | 2 } { 3 | 4 }
+L:1/8
+Q:1/4=120
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 treble nm="Piano" snm="Pno."
+V:4 bass 
+V:1
+"^Allegretto"!p! f2 f2 f2 | f3 e f2 | [eg]2 [df]2 [eg]2 | [fa]2 [cf]2 z2 | a2 a2 a2 | a3 g a2 | %6
+ [gb]2 [fa]2 [gb]2 | [ac']2 a2 z2 | [ac']2 a2 d'2 | b2 g2 c'2 | a2 g2 b2 | g2 z4 | %12
+ [eg]2 [eg]2 [eg]2 | a3 b c'2 | [eg]2 [df]2 [eg]2 | [fa]2 c'2 z2 | [eg]2 [df]2 [eg]2 | %17
+ [fa]2 f'2 z2 | [eg]2 [df]2 [eg]2 |"^(""^)" f2 z4 ||!f! [Gc]2 [Gc]3 [Gc] | [ce]2 [Gc]2 z2 | %22
+!p! .[ce]2 .f2 .d2 | .e2 .g2 z2 |!f! [Gc]2 [Gc]3 [Gc] | [ce]2 [Gc]2 z2 |!p! .[ce]2 .f2 .d2 | %27
+ .[eg]2 .c'2 z2 | .[ce]2 .f2 .d2 | .[eg]2 .e'2 z2 | .[ce]2 .f2 .[=Bd]2 | .c2 z4!D.C.! |] %32
+V:2
+ A2 A2 A2 | A3 G A2 | c2 c2 c2 | c2 A2 z2 | f2 f2 f2 | f3 e f2 | c2 c2 c2 | f2 c2 z2 | a2 f2 b2 | %9
+ g2 e2 a2 | f2 d2 g2 | e2 z4 | [cg]2 [cg]2 [cg]2 | f3 g a2 | c2 c2 c2 | c2 z4 | c2 c2 c2 | c2 z4 | %18
+ c2 c2 c2 |"^(""^)" A2 z4 || E2 E2 E2 | G2 E2 z2 | .A2 .d2 .=B2 | .c2 z4 | E2 E2 E2 | G2 E2 z2 | %26
+ .A2 .d2 .=B2 | .c2 z4 | .A2 .d2 .=B2 | .c2 z4 | .A2 .d2 .G2 | C2- CD/E/ F/G/A/=B/ |] %32
+V:3
+ [A,F]2 [A,F]2 [A,F]2 | [A,F]3 [G,E] [A,F]2 | [EG]2 [DF]2 [EG]2 | [FA]2 [A,F]2 z2 | %4
+ [FA]2 [FA]2 [FA]2 | [FA]3 [EG] [FA]2 | [GB]2 [FA]2 [GB]2 | [Ac]2 [FA]2 z2 | [Ac]2 [FA]2 [Bd]2 | %9
+ [GB]2 [EG]2 [Ac]2 | [FA]2 [DF]2 [GB]2 | [EG]2 z4 | [EG]2 [EG]2 [EG]2 | [FA]3 [GB] [Ac]2 | %14
+ [EG]2 [DF]2 [EG]2 | [FA]2 c2 z2 | [EG]2 [DF]2 [EG]2 | [FA]2 f2 z2 | [EG]2 [DF]2 [EG]2 | %19
+"^(""^)" F2 z4 || [G,C]2 [G,C]3 [G,C] | [CE]2 [G,C]2 z2 | .[CE]2 .[DF]2 .[=B,D]2 | .[CE]2 .G2 z2 | %24
+ [G,C]2 [G,C]3 [G,C] | [CE]2 [G,C]2 z2 | .[CE]2 .[DF]2 .[=B,D]2 | .[EG]2 .c2 z2 | %28
+ .[CE]2 .[DF]2 .[=B,D]2 | .[EG]2 .e2 z2 | .[CE]2 .[DF]2 .[=B,D]2 | C2 z4 |] %32
+V:4
+ [A,,F,]2 [A,,F,]2 [A,,F,]2 | [F,,A,,F,]3 [G,,E,] [A,,F,]2 | [C,G,]2 [C,F,]2 [C,G,]2 | %3
+ [F,A,]2 [A,,F,]2 z2 | [F,A,]2 [F,A,]2 [F,A,]2 | [F,A,]3 [C,G,] [F,A,]2 | %6
+ [C,G,B,]2 [F,A,]2 [G,B,]2 | [F,A,C]2 [F,A,]2 z2 | [F,A,C]2 [F,A,]2 [B,D]2 | %9
+ [C,G,B,]2 [E,G,]2 [A,C]2 | [D,F,A,]2 [D,F,]2 [B,,G,B,]2 | [C,G,]2 z4 | [C,G,]2 [C,G,]2 [C,G,]2 | %13
+ [F,A,]3 [G,B,] [A,C]2 | [C,G,]2 [C,F,]2 [C,G,]2 | [F,A,]2 z4 | [C,G,]2 [C,F,]2 [C,G,]2 | %17
+ [F,A,]2 z4 | [C,G,]2 [C,F,]2 [C,G,]2 |"^(""^)" [F,A,]2 z4 || [C,E,]2 [C,E,]2 [C,E,]2 | %21
+ [C,E,G,]2 [C,E,]2 z2 | .A,2 .[F,A,]2 .G,2 | .[C,G,]2 z4 | [C,E,]2 [C,E,]2 [C,E,]2 | %25
+ [C,E,G,]2 [C,E,]2 z2 | .A,2 .[F,A,]2 .G,2 | .[C,G,]2 z4 | .A,2 .[F,A,]2 .G,2 | .[C,G,]2 z4 | %30
+ .A,2 .[F,A,]2 G,2 | [C,E,]G, [C,E,]G, [C,E,]G, |] %32
+

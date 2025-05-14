@@ -1,0 +1,52 @@
+X:1
+T:Brahms' Lullaby remake 
+T:Score
+%%score [ 1 2 3 ]
+L:1/8
+M:3/4
+K:E
+V:1 treble nm="Violin I"
+V:2 treble nm="Violin II"
+V:3 treble nm="Classical Guitar" snm="Guit."
+V:1
+ z4 ee[Q:1/4=90] |"^Emaj" e'4 c'a | !fermata!b6 | (3c'ba (3gfe"^Bmaj" !fermata!B3/2c/4d/4 | %4
+"^C#m" e2 BA (3egb |"^Bmaj" !fermata!f'4"^Emaj" e'2 | z4 GG | B4 GG |"^Emaj" B4 GB | %9
+"^Emaj" e2 d2 c2 |"^Bmaj" c2 B2 FG |"^B6" A2 F2 FG |"^B6" A4 FA |"^B6" dc B2 d2 |"^Emaj" e4 EE | %15
+"^C#m" e4 cA |"^Emaj" B4 GE |"^F#maj, G,   A" (3AGA (3Bcd e2 |"^Emaj" ab c'2{d'c'} b2 | %19
+ g4{A} (3GFE |"^C#m" ef e2 cA |"^C#m" B4 GE |"^C#m,   Bmaj, A" (3cBA (3BAG (3AGF |"^C#m" E6 | %24
+[M:9/8]!p!"^C#m" e6- e3- |"^C#m" e3 z2 z4 | z9 | z9 | z9 | z9 | z9 | z9 | z9 | z9 | z9 | z9 | z9 | %37
+ z9 |[M:9/8] z2"^F#m" .B!f! .c2 .B .c3 |"^Bmaj" z2 .c .d2 .c .d3 | g6- g3 |[M:3/4]"^C#m" z6 | %42
+ z2 z"^Happier Strumming" z2 z | z4"^Emaj" gg |!f!"^Emaj" b4 gg |"^Emaj" b4 gb | %46
+"^Emaj" e'2 d'2 c'2 |"^Bmaj" c'2 b2 fg |!ff!"^B6" a2 f2 fg |"^B6" a4 fa |"^B6" d'c' b2 d'2 | %51
+!ff!"^Emaj" e'4 ee |"^C#m" e'4 c'a |"^C#7" !>!!fermata!b6 |"^F#m" fg a4 |"^Amaj" ga d'4 | %56
+ z"^Bmaj" e de gb |"^C#m" .b/.a/.b/a/ .f2 .e2 |"^Bmaj" .a/.g/.a/.g/ .e2 .d2 |"^Emaj" f4 z b | %60
+"^C#m" d2 B2 e2 |"^Bmaj" c2 B2 A2 |"^Amaj" G4 AF |"^C#m, Bmaj, A" A2 G2 F2 |"^C#m" G6 | %65
+"^C#m" a4 .g.f |"^Bmaj" g4 .f.e |"^Amaj" f4 .e.d |"^C#m" e6 | (e/f/)e/d/ c/d/c/B/ A/B/A/G/ | %70
+ (F/G/)A/B/ c/B/A/G/"^Bmaj" AF/E/ |[M:9/8]"^Bmaj" E6 z2 z | z9 | z9 |!p!"^Bmaj" e'6- e'3 | %75
+!p!"^Bmaj" a6- a3 |!p!"^Emaj" b6-!p! b3 |] %77
+V:2
+ z6 |!p! d2 c2 z2 | G6 | z4 F>B | G6 | !fermata!e4 g2 | z6 |"^pizz" EG eg b2 | Ee gb g2 | %9
+!f!"^arco" ed dc cB | BG FE B2 | e2 a2 AG | F4 DG | Bc d2 B2 | ge BE D2 | c'4 ae | %16
+ e>f g2 A/G/F/E/ | f2 g2 a2 | fg a2{ba} g2 | a4 c2 |{/e} e'4 AF | b4 BG | c2 B2 A2 | c6 | %24
+[M:9/8]!p! c6- c3- | c3 z2 z4 |!f!"^C#m" e'3 d'3 g3 |"^Amaj" a3 b3 d'3 |"^Bmaj" b6 e'3 | %29
+"^F#m" f2 g a6 |"^Amaj" g2 a d'6 |"^C#m" e'2 d' f2 e c3 |"^Bmaj7" B6 d3 |"^Bmaj" F4- FG B3 | %34
+"^Amaj" d6 B3 |"^B6" G6 E3 |"^Bmaj" F4- FG B3 |"^C#m" f4- fe g3 |[M:9/8] a6- a3 | b6- b3 | %40
+"^C#m" c'6- c'3 |[M:3/4] z6 |"^pizz"!ff!"^Emaj" ed BG EG | gf ed ec | [Eb]g fe z2 | [Eb]g fg z2 | %46
+"^arco" (3.E!mf!.E.E (3.F.F.F (3.G.G.G | (3.B!mf!.B.B (3.c.c.c (3.d.d.d |!ff! c2 B2 Bd | %49
+ e/d/c/B/!>(! A/G/F/E/ ef!>)! | Bc d2 f2 |!ff! g4 e/d/c/B/ | ee AF E2 | !>!!fermata![=c=f]6 | %54
+ ag f4 | d2 f4 | G z z4 | .c/.B/.c/.B/ .A2 .G2 | .e/.d/.e/.d/ .B2 .^A2 | e4 z/ g/e | AB cd e2 | %61
+ cB AG F2 | e2 d2 z2 | ef ga b2 | e6 | .c.e .c.e .c2 | .B.d .B.d .B2 | .A.c .A.c .A2 | [CE]6 | z6 | %70
+ z6 |[M:9/8] z9 |"^Bmaj" e2 e e'6- |"^Bmaj" e'6 e3- | e6 f3- | f6- f3 | g6- g3 |] %77
+V:3
+ z6 | z6 | [EGBe]6 | z4 [Bdfb]2 | [Gceg]6 | [Bdfb]4 [EGBe]2 | z6 | E!ff!G Be gb | GB eg bg | %9
+ EG Be gb | B,D FB df | B,D FG Bg | FB df gb | B,D FG Bg | FG Bd fg | ed BG Be | ce cG EG | %17
+ [F^Acf]2 [GBdg]2 [FAc^a]2 | EG Be gb | z6 | ec GE Gc | ge cG EG | [Gceg]2 [Bdgb]2 [Acea]2 | %23
+ ec Ge cG |[M:9/8]!ff! gec ecG cGE | ecG cGE Gce |!ff! gec GEC EGc | Ace aec AEC | B,DF Bdf bgd | %29
+ cfa fcA FAf |!f! Ace aec AEC | Gce gec egc | Bdf gfd BGF | EFB dfb fdB | Ace aec ecA | %35
+ Bdf gfd Bdf | bgd BGB dgb | ecG ceg ecG |[M:9/8]!f! FAc fcA FAc | Bdf bfd GBf | Gce gec ecG | %41
+[M:3/4] [Gceg]6 | ed BG Bd |!ff! Be ge BG | EG Be gb | ge BG EG |!f! Be gb ge | Bd fb fd | %48
+!fff! Bd fg fd | gf df dB | dB df gf | ec BG Be | ce ge cG | [B=c=fb]6 | FA cf cA | ce ae cA | %56
+ Bd fb fd | ce ge cG | Bd fd Bd | eB GB eg | ec Ac eg | Bd fd Bd | ec Ac ea | %63
+ [cea]2 [Bdf]2 [Ace]2 | [Gce]6 | ce ge cG | dB fd BG | ae Be cA | [CEGc]6 | z6 | z4 [Bdfb]2 | %71
+[M:9/8] Bcf bfd geB | bfd Bdf dBG | eBG BGE eBG | Bdf bfd BdB | Bdf bfd BdB | [EGBe-]6 [EGBe]3 |] %77
+

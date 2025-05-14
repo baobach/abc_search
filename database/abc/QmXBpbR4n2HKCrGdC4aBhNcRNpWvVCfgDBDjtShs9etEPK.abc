@@ -1,0 +1,30 @@
+X:1
+T:German Dance No. 4
+T:German Dance No. 4
+T:D. 420.4
+T:Franz Schubert
+T:Public Domain (PianoXML typeset) | 12 German Dances D.420 - 1817
+C:Franz Schubert
+Z:Public Domain (PianoXML typeset) | 12 German Dances D.420 - 1817
+%%score { 1 | ( 2 3 ) }
+L:1/8
+Q:3/4=55
+M:3/4
+K:A
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:3 bass 
+V:1
+!p!{fe^d} (e2 ac=de) | (d2 f2) z2 |{edc} (d2 fBcd) | (c2 e2) z2 |!f!{bag} (a2 c'eac') | %5
+ (b2 e'2) z2 |{gf^e} (f2 aB^df) | e4 z2 ::!f!{bag} (a2 c'eac') | (b2 e'2) z2 |{gf^e} (f2 bB.fa) | %11
+ (g2 e2) z2 |{edc} (d2 fGdf) | (e2 a2) z2 |{cB^A} (B2 edcB) | A4 z2 :| %16
+V:2
+ A,2 [CE]2 [CE]2 | E,2 [G,DE]2 [G,DE]2 | E,2 [G,DE]2 [G,DE]2 | A,2 [CE]2 [CE]2 | %4
+[K:treble] z2 [CEA]2 [CEA]2 | z2 [EG]2 [EG]2 |[K:bass] B,,2 [^D,A,B,]2 [D,A,B,]2 | [E,G,B,]4 z2 :: %8
+[K:treble] A,2 [CEA]2 [CEA]2 |[K:bass] E,2 [G,B,E]2 [G,B,E]2 | B,,2 [^D,A,B,]2 [D,A,B,]2 | %11
+ E,2 [G,B,E]2 [G,B,E]2 | E,2 [G,DE]2 [G,DE]2 | E,2 [A,CE]2 [A,CE]2 | E,2 [G,DE]2 [G,DE]2 | %15
+ !stemless![A,CE]4 z2 :| %16
+V:3
+ x6 | x6 | x6 | x6 |[K:treble] A,6 | B,6 |[K:bass] x6 | x6 ::[K:treble] x6 |[K:bass] x6 | x6 | x6 | %12
+ x6 | x6 | x6 | x6 :| %16
+

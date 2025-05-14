@@ -1,0 +1,111 @@
+X:1
+T:Souhait
+T:Souhait
+T:Cécile Chaminade
+T:Georges Vanor
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+C:Cécile Chaminade
+Z:Georges Vanor
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 5 ) | ( 4 6 ) }
+L:1/8
+Q:1/4=90
+M:4/4
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:5 treble 
+V:4 bass 
+V:6 bass 
+V:1
+"^Allegretto" z8 | z8 | z8 | z8 | A2 =G G A A E E | G G C C (D2 E) z |!<(! A A!<)! c2 B B E E | %7
+w: ||||Si quel- que bon- ne fée a-|vait cou- su des ai- les|A mon dos fa- ti- gué du|
+ ^F F ^G G E4 | =G2 =F F (E2 D) z |!<(! (CD) E F G A B d | (G2 _B2)!<)! A4 | %11
+w: far- deau du mal- heur,|Je n'i- rais pas _|ain- * si que ces pa- pil- lons|frê- * les|
+ D2 E2"^poco rit." A2 F D |!p!"_a tempo""^a tempo"!>(! C D E F G2 (Bd)!>)! | c4 z4 | z8 | %15
+w: Me ber- cer dans le|doux ca- li- ce de la *|fleur.||
+!p! E2 B B E E B, B, | E E (3(FG) A (B2 E) z |!f! G2 d d G G D D | G G (3(A_B) c d2 z!f! A | %19
+w: Rem- pli d'un seul dé- sir, j'ou-|blie- rais dans * ma cour- se|Les ar- bres pleins de nids qui|char- ment les * che- mins, Du|
+ e4- e E!>(! (3(E^G) B!>)! |!p! d4- d!>(! D (3(D^F)A!>)! | c4- c z!p! A A |!<(! A3 A A G A!<)! _B | %23
+w: doux * ga- zouil- * le-|ment * des oi- * *|seaux, * et la|source Où boi- vent les en-|
+ c8- | c z!pp! A c({Bc)} B2 A B | E2 z2 z4 | z8 |!p! E E B2 E E B, B, | E E (3(FG) A (B2 E2) | %29
+w: fants|* dans le creux de leurs|mains.||Loin des blés so- leil- lés qu'un|ma- tin d'or * ar- ro- se,|
+!f! G2 d d G G D D |!<(! G G (3(AB) c!<)! d4 |!>(! c c B B A A G2!>)! | %32
+w: Sans m'é- ni- vrer joy- eux à|l'ur- ne d'un * lys blanc,|Sans po- ser mon lé- ger pied|
+"^dolce""^poco rit.""_poco rit." F F E E (A2 E2) |"_a tempo""^a tempo"!<(! G4 F G A A!<)! | %34
+w: sur la ro- se, ro- se,|Loin des co- que- li-|
+ (c2 G4) z2 |!<(! E3 E F2 A c!<)! |!f! e8 | A A G2 A A E E | G G C C (D2 E) z | A A c2 B B E E | %40
+w: cots *|je pren- drais mon é-|lan.|J'ac- cou- rais, lu- tin bleu, vers|toi, d'où tout ray- on- ne|Sur tes lè- vres en fleurs je|
+ ^F F ^G G E3!mf! E | =G G _B B A3 E |!p!"_rit.""^rit." G G _B B (AG) !fermata!F!<(! D | %43
+w: sau- rais me po- ser, Puis|je m'en- vo- le- rais de|ta bou- che mi- gnon- * ne A-|
+"^a piacere" D E F A!<)!!f! (!breath!e{!breath!e)} d A B | %44
+w: yant bu ton ha- leine et cueil- li|
+!pp!"_a tempo""^a tempo"({cd)} c2({Bc)} B2 A4 |] %45
+w: ton bai- ser.|
+V:2
+"_leggiero." z !arpeggio![^GBe] z !arpeggio![dfb] z !arpeggio![GBe] z !arpeggio![DFA] | %1
+ z !arpeggio![^GBe] z !arpeggio![dfb] z !arpeggio![GBe] z !arpeggio![DFA] | %2
+ z !arpeggio![^GBe] z !arpeggio![e^gb] z !arpeggio![gbe'] z !arpeggio![egb] | %3
+ z !arpeggio![^gbe'] z !arpeggio![egb] z !arpeggio![gbe'] z !arpeggio![egb] | %4
+ z [eae'] z [Beg] z [cea] z [Ace] | z [Bdg] z [EGc] z [FAd] z [^GBe] | %6
+ z [c^d^fa] z [dfac'] z [egb] z [GBe] | z [Ace] z [AB^d] z [^GBe] z [GBe] | %8
+ z [=Gc=g] z [GBf] z [Gce] z [GBd] | (g2 f2 e2 d2 | g2 f2 e4) | (a2 g2 fe d2) |!>(! g4 g4!>)! | %13
+ z"_marcato" !arpeggio!!^![Gce] z !arpeggio!!^![ceg] z !arpeggio!!^![Gce] z !arpeggio!!^![ceg] | %14
+ z !arpeggio!!^![^GBe] z !arpeggio!!^![Be^g] z !arpeggio!!^![GBe] z !arpeggio!!^![Beg] | %15
+!p! z [^GBe] z [dfb] z [GBe] z [FAd] | z [^GBe] z [dfb] z [GBe] z [GBe] | %17
+ z [_Bdg] z [^fad'] z [Bdg] z [^FAd] | z [_Bdg] z [GBd] z [Ad=f] z [FAd] | %19
+ z [cea] z [Be^g] z [^Ae^^f] z [Beg] | z [Bd=g] z [Ad^f] z [^Gd^e] z [Adf] | %21
+"_legato." z !>![Ac=f]2 [Ace]- [Ace] !>![Ac_e]2"_cresc." !>![FAc]- | %22
+ [FAc] !>![Ac_e]2 !>![FAc]- [FAc] [_B_d=e]2 !>![GBd]- | %23
+ [GBd] !>![Acf]2 !>![Ace]-"_dim." [Ace] !>![Ac_e]2 !>![FAc]- | %24
+ [FAc] !>![Ac^d]2 !>![^DAc]- [DAc] !>![Acd]2 [DAc] | %25
+!mf! z"_marcato." !arpeggio![EBe] z !arpeggio![dfb] z !arpeggio![^GBe] z !arpeggio![EGB] | %26
+ z !arpeggio![FAd] z !arpeggio![dfa] z !arpeggio![FAd] z !arpeggio![DFA] | %27
+ z !arpeggio![^GBe] z [dfb] z [GBe] z [FAd] | z [^GBe] z [dfb] z [GBe] z [GBe] | %29
+ z [Bdg] z [=fad'] z [Bdg] z [FAd] |!<(! z [Bdg] z [fad'] z [cfa]!<)! z [dfb] | %31
+!>(! z [cec'] z [ceb] z [Bda] z!>)! [Gcg] | z [GBf] z [Gce] z [ce] z [ce] | %33
+!<(! z [cg] z [cg] (=FGAA)!<)! | (cgGg)({fg)} (fGed) |!<(! e4 !>!d4!<)! | %36
+!mf! c[E=G]B[DF] A[CE]^G[B,E] | (!>!A[cea]) (!>!G[Bdg]) (!>!A[cea]) (!>!E[Ace]) | %38
+ (!>!G[Bdg]) (!>!C[EAc]) (!>!D[FAd]) (!>!E[^GBe]) | %39
+ (!>!A[cea]) (!>!c[^d^fc']) (!>!B[egb]) (!>!E[GBe]) | (^F[Ac^f]) (^G[B^d^g]) (E[GBe]) z [GBe] | %41
+ z [G_B^c] z [GBd] z ([ea]e'a) | z [G_B^c] z [GBd] ([Ae][cg] [Adf]) !fermata!z | %43
+!<(! z4!<)! !arpeggio![B,DFAda]4 | z [CEA] z [B,D^G] z .[A,CA] [ac'a']2 |] %45
+V:3
+ !>!E2 !>!B2 !>!E2 !>!B,2 | !>!E2 !>!B2 !>!E2 !>!B,2 | !>!E2 !>!B2 !>!e2 !>!B2 | %3
+ !>!d2 !>!E2 c2 B2 | !arpeggio![A,EA]2 =G2 A2 E2 | G2 C2 D2 E2 | A2 c2 B2 E2 | ^F2 ^G2 E4 | %8
+ (E2 D2 E2 F2) | z [Gc] z [GB] z [Gc] z [GB] | z [Gc] z _B z (A^cA) | z [Ad] z [A^c] z2 z A | %12
+ z [Gc] z [Gc] z [GB] z [GB] | x8 | x8 | E2 B2 E2 B,2 | E2 B2 E4 | !arpeggio![G,DG]2 d2 G2 D2 | %18
+ !arpeggio!G2 D2 !arpeggio!F2 D2 | x2 EE !>!C2 E2 | =G2 DD !>!_B,2 D2 | x8 | x8 | x8 | x8 | %25
+ x2 !>!B2 !>!E2 !>!B,2 | E2 !>!B2 !>!E2 !>!B,2 | E2 B2 E2 B,2 | E2 B2 E4 | [=G,D=G]2 d2 G2 D2 | %30
+ G2 d2 G2 G,2 | A2 G2 F2 E2 | D2 C2 !>!^F4 | G4 (DEFF) | E4 D2 EF | z [^G=B] z [GB] z [FA] z [FA] | %36
+ c2 B2 A2 ^G2 | A2 G2 A2 E2 | G2 C2 D2 E2 | A2 c2 B2 E2 | ^F2 ^G2 E4 | !>!E2 !>!D2 !>![^CEGA]4 | %42
+ (E2 D2) (^CA, D) x | (FEDC) x4 | x6 [EAc]2 |] %45
+V:4
+!p! x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[K:] (G2 F2 G2 A2) |[K:treble] (E2 D2 ^C2 EG) | %11
+ (F2 E2 DE F2) |!p!!ped! E4[K:bass][K:treble] F4[K:bass]!ped-up! | %13
+!mf! !^![C,,C,]2 !^![G,E] x !^![C,G,] x !^![G,E] x | %14
+ !^![E,,E,]2 !^![B,E] x !^![E,B,] x !^![B,E] x | x8 | x8 | x8 | x8 | [A,,,A,,]2 x6 | x8 | %21
+ [=F,,C,]2 [C,C][C,C] [F,,C,]2 [C,C][C,C] | [F,,C,]2 [C,C][C,C] [F,,C,]2 [C,C][C,C] | %23
+ [F,,C,]2 [C,C][C,C] [F,,C,]2 [C,C][C,C] | [F,,C,]2 [C,A,]!pp![C,A,] [F,,C,]2 [C,A,][C,A,] | %25
+ !arpeggio![E,,B,,^G,]2 x6 | x8 | x8 | x8 |!f! x8 | x8 | x8 | x4 !>!D,4 | G,,2 z2 z4 | x8 | %35
+[I:staff -1] E2[I:staff +1] !>!E,4 !>!E,,2- | E,,2 !>!E,,,4 x2 | %37
+!p! [A,,,A,,]2 B,2 !arpeggio![A,,E,C]2 A,2 | !arpeggio![A,,E,_B,]2 A,2 [A,,F,]2 E,2 | %39
+ !arpeggio![A,,E,C]2 A,2 !arpeggio![E,,B,,G,]2 [G,B,]2 | [A,C]2 [B,^D]2 !arpeggio![E,,B,,^G,]4 | %41
+ x8 |!p! x8 | x8 | E,2 E,,2!ped! A,,,2 x2!ped-up! |] %45
+V:5
+ x8 | x8 | x8 | d4 x4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x2 E2 x4 | x8 | x8 | x8 | %37
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %45
+V:6
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[K:] x8 |[K:treble] x8 | x8 | %12
+ x2[K:bass] G,,2[K:treble] x2[K:bass] G,,2 | x8 | x8 | x8 | x8 | x8 | G,2 x2 D,2 x2 | x8 | x8 | %21
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %40
+ x8 | x8 | x8 | x8 | x8 |] %45
+

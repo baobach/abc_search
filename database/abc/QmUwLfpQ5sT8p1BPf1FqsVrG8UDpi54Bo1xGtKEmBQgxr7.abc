@@ -1,0 +1,33 @@
+X:1
+T:Title
+%%score ( 1 2 ) ( 3 4 5 )
+L:1/8
+Q:1/4=120
+M:6/8
+K:F
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 bass nm="Voice"
+V:4 bass 
+V:5 bass 
+V:1
+ [CE]!mf![DF][EG] | [FA]2 [^CA]3 x | [DA]3 [DA]!mf!!mp![DB][Dc] | [FA]3 [EG]3 | %4
+ [DF]3 [DF][^CG][DA] | [DB]3 [^CA]3 | [DF]3 [DG]2 x | [CF]3- [CF]2 [DF] |!p! E3 x3 | [FA]3 [^CA]3 | %10
+ [Dd]3 [Dd][_E=c][EA] |!ped! [DB]3 A2 G | [DF]3 [DF][DG][D^G] | [CA]3 A[E=G]F | %14
+!mp! [E-G]2 [EG]2 F |!ped! F6 || F2 C3 | D3 DC!ped!A, | %18
+V:2
+ x3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | E2!mf! (([CE][DF]))[EG] x | x6 | x6 | x3 ^C3 | x6 | %13
+ x3 FEF | x4 F | F6 || F2 C2 x | D3 DC.A, | %18
+V:3
+ [C,E,][D,F,][E,G,] | [F,A,]3 [E,G,]3 | [D,F,]3 [D,F,][D,F,][D,F,] | [C,F,]3 [^C,B,]3 | %4
+ [D,A,]2 [D,A,][E,B,][F,A,] x | G,3 (A,2 G,) | [B,,F,]3 [B,,B,]3 | [C,A,-]2 [C,A,]2 [=B,,_A,] x | %8
+ !arpeggio![C,_B,]3 (([C,E,][D,F,]))[E,G,] | [F,A,]3 [E,G,]3 | [D,^F,]2 [D,F,][F,A,][F,C] x | %11
+ [G,B,]3 (A,2 A,,) | [B,,B,]3 [=B,,_A,][B,,=G,][B,,F,] | [C,F,]3 [C,C][^C,_B,][D,A,] | %14
+ [=C,B,]2-!ped! [C,B,]2 [F,,A,] |!ped! [F,,A,]6 || F,3 x2 | D,3!p! x3 | %18
+V:4
+ x3 | x6 | x6 | x6 | x6 | G,3 A,,3 | x6 | x6 | x6 | x6 | x6 | x3 A,2 x | x6 | x6 | x5 | x6 || %16
+ F,2 C,3 | D,2 D,C,A,, x | %18
+V:5
+ x3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x5 | x6 || x2 C,3 | %17
+ x2 D,C,A,, x | %18
+

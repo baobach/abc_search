@@ -1,0 +1,85 @@
+X:1
+T:Sechs Lieder ohne Worte
+T:Lieder ohne Worte
+T:Op.30 No.1
+T:Felix Mendelssohn Bartholdy
+C:Felix Mendelssohn Bartholdy
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=92
+M:4/4
+K:Eb
+V:1 treble nm="ピアノ" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Andante espressivo"!p! z4 z2 (E2 |: G3 A B2 E2 | A2 D2 E3) (D | C3 F!<(! A3 F!<)! | %4
+!>(! (e2 d2-)!>)! d"^dim."cBA | (G3) A B2 E2 | A2 D2 E3) (E | F2- (3FED!<(! CEGc!<)! | %8
+ f2- (3fed c)"_dim."(G=A_B) |!p! (B2 F2) F2 F2 |!p! (c4 B4) |1!p! z4 z2!mf! B,2 :|2 %12
+!p! z4 z2 (3z (_GA |:!p! B2 _c>A F2 (3F(._G).A) |!<(! (B2!<)! e>_c F2!>(! (3A)((._G.A))!>)! | %15
+ (B2 !>!_c>A F2- (3F)((._G.A)) |!<(! (B2 e>!<)!_c"_cresc." A2- (3A)((.B._c)) |!f! x4 _c4 | x4 _c4 | %19
+!p! x4 [EA_c-e-]2 x2 |!p! x4 [EA_c-e-]2"_cresc." x2 | [EA_c-e-]2 (3[ce][B_d][A_c] [EAce]4- | %22
+ [EAce]3 (=d!>(! fe_cA!>)! | (=G3) A B2 E2 | A2 D2 E3) (D |"_cresc." C3 F!f! Ac g>f | %26
+ e2 d4) (3(dcB) | x7/2 x/ A4 | x4 ([Ee]2"^dim." [Dd]2) |!p! x4 ([GB][FA][EG][DF]) |1 %30
+!p! ([A,B,F]4 [G,B,E]2) (3z ([E_G][FA]) :|2 F4 E4 || z2 !>!e4 G2 | (B2 A2) z A(AF) | %34
+ (E4 =D) z!mf! (B,2 | G3"^cresc." A B2 E2 |!f! !>!A8) | .f' x (AG) (GF).E.D | (F6 E2) | E8- | %40
+ !fermata![G,B,E]8 |] %41
+V:2
+ (3z G,B, (3EB,G, (3z G,B, (3EB,G, |: (3z G,B, (3EB,G, (3z G,B, (3EB,G, | %2
+ (3z A,B, (3DB,A, (3z[I:staff +1] E,G, (3CG,E, | x8 |[I:staff -1] z2 (3AFD (3AFD (3AFD | %5
+ (3z G,B, (3EB,G, (3z G,B, (3EB,G, | (3z A,B, (3DB,A, (3z[I:staff +1] E,G, (3CG,E, | %7
+[I:staff -1] (3z[I:staff +1] F,G, (3=B,G,F, x4 |[I:staff -1] (3z FG (3=BGF x4 | %9
+ (3z B,D (3FDB, (3z =A,C (3FCA, | (3z DE (3FDE (3FDE (3F_AG |1 (3FAG (3FED (3CB,=A, (3_A,G,A, :|2 %12
+ (3(FAG (3FED (3CB,=A, (3B,)(EF |: (3_GB,E (3_cE_C (3=DF,B, (3D(.E).F) | %14
+ (3(_GEG (3_cAE (3A-_C_D (3F)((.E.F)) | (3(_GB,_D (3_cF_C (3=DF,B, (3D)((.E.F)) | %16
+ (3(_GEG (3_cAE (3F_C_D (3F).[DG].[CA] | [B_d]2 [_GB]>_g ([Gg]2 [Ff]2) | %18
+ [B_d]2 [_GB]>_g ([Gg]2 [Ff]2) | [_GB]2 [E_G]>[_ce] x2 (3([ce][B_d][A_c] | %20
+ [_GB]2) [E_G]>[_ce] x2 (3[ce][B_d][A_c] | x8 | x8 | (3z G,B, (3EB,G, (3z G,B, (3EB,G, | %24
+ (3z A,B, (3DB,A, (3z[I:staff +1] E,G, (3CG,E, | x8 |[I:staff -1] z2 (3(AFD) (3AFD A2 | %27
+ [GB]2 [EG]>e ([Ee]2 [Dd]2) | [GB]2 [EG]>e A4 | [EG]2 [CE]>[GB] C2 x2 |1 x8 :|2 %31
+ (3z (GA (3BGA (3BGA (3B_dc || (3B_dc (3BGA (3BAG (3FE_D) | (3z C_D (3ECD (3EC_D (3E_DC | %34
+ (3z A,B,"^cresc." (3_CA,B, (3:2:2C2 B, (3A,G,A, | (3z G,B, (3EB,G, (3z G,B, (3EB,G, | %36
+ (3z A,B, (3DFB (3dfa bd' | x8 | (3z (G,B, (3GB,G, (3z G,B, (3G)B,G, | %39
+ (3z G,B, (3GB,G, (3z G,B, (3GB,-G,- | x8 |] %41
+V:3
+!ped! (3z B,,E, (3G,E,B,, (3z B,,E, (3G,E,B,, |: (3z B,,E, (3G,E,B,, (3z B,,E, (3G,E,B,,!ped-up! | %2
+!ped! (3z B,,D, (3F,D,B,,!ped-up!!ped! (3z G,,C, (3E,C,G,,!ped-up! | %3
+!ped! (3z A,,C, (3F,C,A,,- (3z C,F, (3A,F,C,!ped-up! | %4
+!ped! (3z F,A, (3B,A,F, (3B,A,F, (3B,A,F,!ped-up! | %5
+!ped! (3z B,,E, (3G,E,B,, (3z B,,E, (3G,E,B,,!ped-up! | %6
+!ped! (3z B,,D, (3F,D,B,,!ped-up!!ped! (3z G,,C, (3E,C,G,,!ped-up! | %7
+!ped! (3z G,,D, (3F,D,G,,!ped-up!!ped! (3z G,,C, (3E,C,G,,!ped-up! | %8
+!ped! (3z D,G, (3DG,D,!ped-up! (3z!ped! E,G, (3CG,E,!ped-up! | %9
+!ped! (3z D,F, (3B,F,D, (3z E,F, (3=A,F,E,!ped-up! | %10
+!ped! (3z ((F,G, (3_A,F,G, (3A,F,G, (3A,F,E,!ped-up! |1 %11
+!ped! (3D,F,B, (3A,G,F, (3E,D,E, (3F,E,D,)!ped-up! :|2 %12
+!ped! (3D,F,B, (3A,G,F, (3E,D,E, (3D,B,,A,,)!ped-up! |: %13
+!ped! [_G,,,_G,,]2 [A,,,A,,]2 [B,,,B,,]4!ped-up! | %14
+!ped! [B,,,B,,]2!ped! [_C,,_C,]2!ped-up!!ped! [_D,,_D,]4!ped-up! | %15
+!ped! [_G,,,_G,,]2!ped! [A,,,A,,]2!ped-up!!ped! [B,,,B,,]4!ped-up! | %16
+!ped! [B,,,B,,]2!ped! [_C,,_C,]2!ped! [_D,,_D,]4!ped-up! | %17
+!ped! (3z _G,B, (3_DB,G,!ped-up!!ped! (3z A,_C (3DCA,!ped-up! | %18
+!ped! (3z _G,B, (3_DB,G,!ped-up!!ped! (3z"^dim." A,_C (3=DCA,!ped-up! | %19
+!ped! (3z E,_G, (3B,G,E,!ped-up!!ped! (3z E,A, _C2!ped-up! | %20
+!ped! (3z E,_G, (3B,G,E,!ped-up!!ped! (3z E,A, _C2 | (3z E,A, _C2!f! (3z E,A, (3_CA,E, | %22
+"^dim." (3_CA,E,!<(! C2!<)! z4!ped-up! | (3z B,,E, (3G,E,B,, (3z B,,E, (3G,E,B,, | %24
+ (3z B,,D, (3F,D,B,, (3z G,,C, (3E,C,G,, | (3z A,,C, (3F,C,A,, (3z C,F, (3A,F,C, | %26
+ (3z F,A, (3B,A,F, (3B,A,F, (3B,A,F, | %27
+!ped! (3z E,G, (3B,G,E,!ped-up!!ped! (3z F,A, (3B,A,F,!ped-up! | %28
+!ped! (3z E,G, (3B,G,E,!ped-up!!ped! (3z F,A, (3=B,A,F,!ped-up! | %29
+!ped! (3z C,E, (3G,E,C,!ped-up!!ped! (3x x x A,2!ped-up! |1 (3z B,,D, (3F,D,B,, (3z B,,E, E,, z :|2 %31
+ E,8 || E,8 | E,8 | E,8 | E,,2 x2 E,,2 x2 |!ped! E,,2 x2[K:treble] x4 | .d' z z2 z4!ped-up! | %38
+!ped! E,,2 x2 E,,2 x2!ped-up! | E,,2 z2 E,,2 z2 | !fermata!E,,8 |] %41
+V:4
+ E,,2 x2 E,,2 x2 |: E,,2 x2 E,,2 x2 | B,,,2 x2 C,,2 x2 | A,,,2 x2 [A,,,A,,]2 x2 | %4
+ [B,,,B,,]2 x2 x4 | E,,2 x2 E,,2 x2 | B,,,2 x2 C,,2 x2 | C,,2 x2 C,,2 x2 | C,,2 x2 C,,2 x2 | %9
+ F,,2 x2 F,,2 x2 | ((B,,8 |1 B,,2) x2 z4 :|2 B,,2) x2 z4 |: x8 | x8 | x8 | x8 | %17
+ [_D,,_D,]2 x2 [D,,D,]2 x2 | [_D,,_D,]2 x2 [=D,,=D,]2 x2 | E,,2 x2 A,,2 x2 | E,,2 x2 A,,2 x2 | %21
+ A,,2 x2 A,,2 x2 | x8 | B,,,2 x2 B,,,2 x2 | B,,,2 x2 C,,2 x2 | [A,,,A,,]2 x2 [F,,,F,,]2 x2 | %26
+ [B,,,B,,]2 x2 x2 D,2 | E,,2 x2 [B,,,B,,]2 x2 | E,,2 x2 [=B,,,=B,,]2 x2 | C,,2 x2 A,,2 B,,2 |1 %30
+ E,,2 z2 E,,2 x2 :|2 (3z (B,C (3_DB,C (3DB,C (3DB,A, || (3G,B,A, (3G,B,C (3_DFE (3DCB,) | %33
+ (3z A,B, (3CA,B, (3CA,B, (3CB,A, | (3z F,G, (3A,F,G, (3:2:2A,2 G, (3F,E,D, | %35
+ (3z B,,E, (3G,E,B,, (3z B,,E, (3G,E,B,, | (3z D,F, (3A,B,D[K:treble] (3FBd"^dim." fb | x8 | %38
+ (3z B,,E, (3G,E,B,, (3z B,,E, (3G,E,B,, | (3:2:1z x22/3 | x8 |] %41
+

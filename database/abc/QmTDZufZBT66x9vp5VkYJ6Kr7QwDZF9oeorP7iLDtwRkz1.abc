@@ -1,0 +1,38 @@
+X:1
+T:Title
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+M:6/8
+K:A
+V:1 treble nm="Grand Piano"
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:1
+ z3 z2[Q:1/4=100] [CE] | [CE]2 [CE] [DF]2 [CE] | [EA]2 B c2 d | c2 B B2 [Ec] | %4
+ [DEB]2 [CEA] [CA]G[CF] | [CE]2 [CE] [DF]2 [CE] | [EA]2 B c2 d | cBA [EAc]2 [DEB] | %8
+[M:5/8] [CEA]-[CEA]- [CEA]3 |[M:1/8] [CE] |[M:3/4] [CE]2 [CE] [DF]2 [CE] | [EA]2 B c2 d | %12
+ c2 B B2 [Ec] | [DEB]2 [CEA][CA] G[CF] | [CE]2 [CE] [DF]2 [CE] | [EA]2 B c2 d | cB A [EAc]2 [DEB] | %17
+[M:5/8] [CEA]-[CEA]- [CEA]3 |[M:1/8] z |[M:3/4] [EAc]3 [EAc] [EGB][EAc] | [CEA]3 [A,E]3 | %21
+ [DGB]3 [DGB] A[B,GB] | [Ec]6 | [Ec]3 c B[^EA] | [FA]3 F3 | E2 EE F[B,DG] | %26
+[M:5/8] [A,CA]-[A,CA]- [A,CA]3 |] %27
+V:2
+ z3 z2 [A,,A,] | [A,,A,]2 [A,,A,] [A,,A,]2 [A,,A,] | z3[K:treble] .E3 | %3
+ [E,A,E]2 [E,G,E] [E,G,E]2 [E,A,] | A,,2 A,, z B,[A,,A,] | [A,,A,]2 [A,,A,] [A,,A,]2 [A,,A,] | %6
+ [C,A,]2 [E,G,E][K:treble] [A,E]2 [A,F] | [A,EA][K:bass][G,E][F,^D] E,2 E, |[M:5/8] A,,-A,,- A,,3 | %9
+[M:1/8] [A,,A,] |[M:3/4] [A,,A,]2 [A,,A,] [A,,A,]2 [A,,A,] | [C,A,]2 [E,G,E][K:treble] E2 F | %12
+ [E,A,E]2 [E,G,E] [E,G,E]2 [E,A,] | A,,2 .A,,2 B,[A,,A,] | [A,,A,]2 [A,,A,] [A,,A,]2 [A,,A,] | %15
+ [C,A,]2 [E,G,E][K:treble] [A,E]2 [A,F] | [A,EA][K:bass][G,E] [F,^D] E,2 E, | %17
+[M:5/8] A,,-A,,- A,,3 |[M:1/8] z |[M:3/4] A,3 A, A,A, | A,3 C,3 | E,4 CE, | [A,,A,]6 | %23
+ [A,,A,]3 [A,,A,] [B,,G,][C,A,] | [D,D]3 [D,A,D]3 | [E,A,C]2 [E,A,C][E,D]- [E,A,D]E, | %26
+[M:5/8] A,,-A,,- A,,3 |] %27
+V:3
+ x6 | x6 | [C,A,]2 [E,G,E][K:treble] A,2- [A,F] | x6 | z3 .A,,3 | x6 | x3[K:treble] x3 | %7
+ x[K:bass] x5 |[M:5/8] x5 |[M:1/8] x |[M:3/4] x6 | z2 z[K:treble] A,3 | x6 | z2 z .A,,3 | x6 | %15
+ x3[K:treble] x3 | x[K:bass] x5 |[M:5/8] x5 |[M:1/8] x |[M:3/4] x6 | x6 | z2 z .E,3 | x6 | x6 | %24
+ x6 | z2 z G, z2 |[M:5/8] x5 |] %27
+V:4
+ x6 | x6 | x6 | x6 | z3 .E3 | x6 | x6 | x6 |[M:5/8] x5 |[M:1/8] x |[M:3/4] x6 | x6 | x6 | %13
+ z2 z .E3 | x6 | x6 | x6 |[M:5/8] x5 |[M:1/8] x |[M:3/4] x6 | x6 | x6 | x6 | z2 z .E3 | x6 | x6 | %26
+[M:5/8] x5 |] %27
+

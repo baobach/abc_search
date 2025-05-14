@@ -1,0 +1,36 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=90
+M:6/8
+K:G
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 bass nm="Choir Pad, Bass"
+V:4 bass 
+V:1
+ [B,D][B,G][CA] [DB][DB][CA] | [B,G][CA][CG] [CE] [B,D]2 | [B,D][B,G][CA] [DB][DB][DA] | %3
+w: By~William~J.~Henry,~1907 * * * * *|||
+ [^CG] [DA]2- [DA]2- [DA]/ z/ | D[DG][DA] [GB][GB][DA] | [DG][EA][EG] [CE] [B,D]2 | %6
+w: |||
+ [B,D][DG][EA] [DB][DA][DG] | [DA] [DG]2- [DG]2- [DG]/ z/ | [DB]/[DB]<[Gd][Gd]/ [Gd][Ge][Gd] | %9
+w: |||
+ z d2- d2- d/ z/ | [DB][Gd]>[Gd] [Gd][Ge][Gd] | z A2- A2- A/ z/ | D[DG][DA] [GB][GB][DA] | %13
+w: ||||
+ [DG][EA][EG] [CE] [B,D]2 | [B,D][DG][EA] [DB][DA][DG] | [DA] [DG]2- [DG]3- | [DG]3 z3 |] %17
+w: ||||
+V:2
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | [GB] G2 F G2 | x6 | [GB] F2 F F2 | x6 | x6 | x6 | %15
+ x6 | x6 |] %17
+V:3
+ G,G,G, G,G,D, | D,E,E, G, G,2 | G,G,G, G,G,A, | A, F,2- F,2- F,/ z/ | B,B,[K:treble]C DDC | %5
+ B,CC[K:bass] G, G,2 | G,G,G, G,CB, | C B,2- B,2- B,/ z/ | G,/G,<B,B,/ B,CB, | G, B,2 C D2 | %10
+ G,B,>B, B,[K:treble]CB, | D D2 D D2 | B,B,C DDC | B,CC[K:bass] G, G,2 | G,G,G, G,CB, | %15
+ C B,2- B,3- | B,3 z3 |] %17
+V:4
+ G,,G,,G,, G,,G,,G,, | G,,C,C, C, G,,2 | z3 z2 F, | E, D,2- D,2- D,/ z/ | G,G,G, G,G,G, | %5
+ G,C,C, C, G,,2 | G,,B,,C, D,D,D, | D, G,,2- G,,2- G,,/ z/ | z G,>G, G,G,G, | z G,2 A, B,2 | %10
+ z G,>G, G,G,G, | G, D,2 D, D,2 | G,G,G, G,G,G, | G,C,C, C, G,,2 | G,,B,,C, D,D,D, | %15
+ D, G,,2- G,,3- | G,,3 z3 |] %17
+

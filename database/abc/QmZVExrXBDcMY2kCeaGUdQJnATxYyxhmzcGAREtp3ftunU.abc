@@ -1,0 +1,60 @@
+X:1
+T:夏 の 林檎夏
+T:Natsu No Ringo 
+T:Kalafina
+C:Kalafina
+%%score 1 { 2 | 3 }
+L:1/8
+M:6/8
+K:Ab
+V:1 treble+8 nm="Блокфлейта" snm="Бл.фл."
+V:2 treble nm="Фортепиано" snm="Ф-но"
+V:3 bass 
+V:1
+ z3 z/[Q:1/4=72]{/F} F/F/G/A/B/ |: c3/2fe/ c/d/e{/d}d/c/ | B/c/de c2{/A} A/B/ | %3
+ c3/2fe/ c/d/e{/d}d/c/ | d/c/Bc c2{/A} A/B/ | c3/2fe/ c/d/ed/c/ | B/c/de c>BA/G/ | FGA BGE/F/ | %8
+ F6 |:[K:G] z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 ||[K:F] z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %25
+ z6 | z6 | z6 | z6 ||[K:A] z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %40
+ z3 z/ F/F/G/A/B/ | c3/2fe/ c/d/e{/d}d/c/ | B/c/de c2{/A} A/B/ | c3/2fe/ c/d/e{/d}d/c/ | %44
+ d/c/Bc c2{/A} A/B/ | c3/2fe/ c/d/ed/c/ | B/c/de c>BA/G/ |1 FGA BGE/F/ | F6 :|2 %49
+[Q:1/4=65] FGA[Q:1/4=50] BGE/F/ |[Q:1/4=40]!>(! F6!>)![Q:1/4=25] |] %51
+V:2
+ z6 |: z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |:[K:G] E3/2B3/2 B3/2GG/ | A/B/AG F/G/AF | %11
+ E3/2B3/2 B3/2GG/ | A/B/AB B3 | E3/2B3/2 B3/2GG/ | A/B/AG F/G/AF | E/F<GE/ F/E/DF | G/F/ E2- E3 || %17
+[K:F] D3/2A3/2 A3/2FF/ | G/A/GF/F/ E/F/GE | D3/2A3/2 A3/2F3/2 | G/A/GA A3 | D3/2A3/2 A3/2FF/ | %22
+ G/A/GF E/F<GE/ | F/E/DD E/F<EE/ | F/E/ D2- D3 | [DF]/G/A/B/c/B/ A[DG]>[DA] | [DA]6 | %27
+ [DF]/G/A/B/c/B/ AGA | A2 B A3 ||[K:A] [FA]/[FA]<[FA][EG]/ [FA][EG][DF] | %30
+ E/F/E[B,D] [A,C]/[B,D]/ [CE]2 | [FA]/[FA]<[FA][EG]/ [FA][EG][DF] | G/A/G[EA] [CA]3 | %33
+ [FA]/[FA]<[FA][EG]/ [FA][EG][DF] | E/F/E[B,D] [A,C]/[B,D]/ [CE]2 | %35
+ [FA]/[FA]<[FA][EG]/ [FA][EG][DF] | G/A/G[DA] [CA]A/B/c/d/ | c4 A/B/c/d/ | B2- B/c/ cA/B/c/d/ | %39
+ c4 A/B/c/d/ | B->B-B/A/ A/ z/ z2 | z6 | z6 | z6 | z6 | z6 | z6 |1 z6 | z6 :|2 z6 | %50
+ z3 !arpeggio![F^A]3 |] %51
+V:3
+ z6 |: F,,/A,,/C,/F,C,/ D,/A,,/D,/F,/D,/A,,/ | E,,/B,,/E,/G,/E,/B,,/ A,,/E,/C/E,/B,/E,/ | %3
+ F,,/A,,/C,/F,C,/ D,/A,,/D,/F,/D,/A,,/ | E,,/B,,/E,/G,/E,/B,,/ A,,/E,/B,/E,/A,/G,,/ | %5
+ F,,/A,,/C,/F,C,/ D,/A,,/D,/F,/D,/A,,/ | E,,/B,,/E,/G,/E,/B,,/ F,,/A,,/C,/F,/C,/A,,/ | %7
+ D,/F,/A,/C/A,/F,/ C,/E,/G,/C/G,/E,/ | B,,/D,/F,/B,/F,/D,/ C,/E,/G,/C/E/G/ |: %9
+[K:G] E,,/B,,/E,/G,/E,/B,,/ C,/E,/G,/C/G,/E,/ | D,/F,/A,/D/A,/F,/ B,,/D,/F,/B,/F,/D,/ | %11
+ E,,/B,,/E,/G,/E,/B,,/ C,/E,/G,/C/G,/E,/ | D,/F,/A,/D/A,/F,/ G,,/D,/B,/D,/A, | %13
+ E,,/B,,/E,/G,/E,/B,,/ C,/E,/G,/C/G,/E,/ | D,/F,/A,/D/A,/F,/ B,,/D,/F,/B,/F,/D,/ | %15
+ A,,/C,/E,/G,/E,/C,/ B,,/D,/F,/A,/F,/D,/ | E,,/B,,/E,/A,/E,/B,,/ G,E,B,, || %17
+[K:F] D,/F,/A,/D/A,/F,/ B,,/D,/F,/B,/F,/D,/ | C,/E,/G,/C/G,/E,/ A,,/C,/E,/A,/C/A,/ | %19
+ D,/F,/A,/D/A,/F,/ B,,/D,/F,/B,/F,/D,/ | C,/E,/G,/C/G,/E,/ F,/C/F/C/E,/C/ | %21
+ D,/F,/A,/D/A,/F,/ B,,/D,/F,/B,/F,/D,/ | C,/E,/G,/C/G,/E,/ A,,/C,/E,/A,/C/A,/ | %23
+ G,,/B,,/D,/F,/D,/B,,/ A,,/C,/E,/G,/E,/C,/ | D,,/A,,/D,/A,,/E,/A,,/ F,/E,/D,A,, | %25
+ B,,/D,/F,/B,/F,/D,/ B,,/D,/F,/B,/F,/D,/ | A,,/E,/A,/C/A,/E,/ E/A,/E,/C/A,/E,/ | %27
+ G,,/B,,/D,/G,/D,/B,,/ B,/D,/B,,/G,/D,/B,,/ | A,,D/A,/E, A,,E/D/A,/E,/ || %29
+[K:A] F,,/C,/F,/C,/A, D,,/A,,/D,/A,,/F, | E,,/B,,/E,/B,,/G, A,,/E,/A,/E,/G,,/E,/ | %31
+ F,,/C,/F,/C,/A, D,,/A,,/D,/A,,/F, | E,,/B,,/E,/B,,/G, A,,/C,/[E,A,]/[C,B,]/[G,,C]/[C,E]/ | %33
+ F,,/C,/F,/C,/A, D,,/A,,/D,/A,,/F, | E,,/B,,/E,/B,,/G, A,,/E,/A,/E,/G,,/E,/ | %35
+ F,,/C,/F,/C,/A, D,,/A,,/D,/A,,/F, | E,,/B,,/E,/B,,/G, A,,/E,/A,/[E,B,]/[A,C]/[B,D]/ | %37
+ F,,/C,/[F,A,]/[C,B,]/[A,C]/[B,,D]/ [D,,C-]/[A,,C]/D,/E,/F,/A,/ | %38
+ E,,/B,,/E,/B,,/G, A,,/E,/A,/B,/C | %39
+ F,,/C,/[F,A,]/[C,B,]/[A,C]/[B,,D]/ [D,,C-]/[A,,C]/D,/E,/F,/A,/ | %40
+ E,,/B,,/E,/B,,/G, A,,/E,/A,/E,/A,/E,/ | F,,/A,,/C,/F,C,/ D,/A,,/D,/F,/D,/A,,/ | %42
+ E,,/B,,/E,/G,/E,/B,,/ A,,/E,/C/E,/B,/E,/ | F,,/A,,/C,/F,C,/ D,/A,,/D,/F,/D,/A,,/ | %44
+ E,,/B,,/E,/G,/E,/B,,/ A,,/E,/B,/E,/A,/G,,/ | F,,/A,,/C,/F,C,/ D,/A,,/D,/F,/D,/A,,/ | %46
+ E,,/B,,/E,/G,/E,/B,,/ F,,/A,,/C,/F,/C,/A,,/ |1 D,/F,/A,/C/A,/F,/ C,/E,/G,/C/G,/E,/ | %48
+ B,,/D,/F,/B,/F,/D,/ C,/E,/G,/C/E/G/ :|2 D,/F,/A,/C/A,/F,/ C,/E,/G,/C/G,/E,/ | %50
+ F,,/F,/B,/C/F/C/ !arpeggio![C,F,^A,]3 |] %51
+

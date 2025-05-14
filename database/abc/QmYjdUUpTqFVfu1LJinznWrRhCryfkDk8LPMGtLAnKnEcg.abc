@@ -1,0 +1,57 @@
+X:1
+T:Prelude
+T:Prelude
+T:Op. 28 No. 18
+T:Frédéric Chopin
+C:Frédéric Chopin
+%%score { ( 1 2 ) | 3 }
+L:1/8
+Q:1/4=144
+M:2/2
+K:Ab
+V:1 treble nm="鋼琴" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:1
+"^Molto allegro"!p! (C/!<(!D/=A,/B,/ G,/B,/G/!<)!!mp!F/!>(! F3!>)!!p! =E) | %1
+ (C/!<(!D/=A,/B,/ G,/B,/G/!<)!!mp!F/!>(! F3!>)!!p! =E) | %2
+!<(! (C/D/=A,/B,/ G,/B,/G/F/ ^D/=E/B/_A/ ^F/G/_d/c/ | %3
+ =A/B/!<)!!mf!d'/!>(!g/ c'/b/_a/g/ f/=e/g/B/ (5:4:5=B/c/d/G/!>)!c/) | %4
+!p! (B/!<(!=A/F/_G/ =D/E/c/!<)!!mf!B/!>(! B3!>)!!p! =A) | %5
+ (F/!<(!_G/=D/E/ C/E/c/!<)!!mf!B/!>(! B3!>)!!p! =A) | %6
+ (F/_G/=D/E/"_cresc." C/E/c/B/ ^G/=A/_g/f/ =d/e/_d'/c'/ | %7
+[Q:1/4=120] (22:16:22b/=a/e'/=e/f/_g/c/d/f/_e/d/!f!c/B/=A/c/=E/F/_G/C/F/_E/D/ | %8
+[Q:1/4=144]!>(! C!>)!!p!B,) .[F,G,B,DF] z"_cresc." (d/G/A/=A/ c/B/_A/G/ | %9
+ F/=E/) z .[G,B,DE] z!>(! (a/B/a/g/ =e/d/B/!>)!!p!G/ | %10
+ =E/F/) z .[F,CF] z!>(! (c'/f/^f/g/ (5:4:5b/a/=f/d/c/!>)! | %11
+ c/=B/) z .[A,=B,=DA] z[Q:1/4=60]"^senza rigore"!8va(!!>(! (17:16:17(a'/4=d'/4e'/4[Q:1/4=70]=e'/4g'/4f'/4[Q:1/4=80]d'/4=b/4!8va)!g/4a/4f/4=d/4=B/4G/4A/4F/4!>)!!mp!=D/4) | %12
+[Q:1/4=144]!<(! (=B,/C/F/E/)!<)! .[CEAc] z!>(! (3([__e__e'][dd'][cc']!>)!!mp! (3[cc'][cc'][cc']) | %13
+!<(! (=B,/C/F/=E/)!<)! .[CEAc] z!>(! (3([__e__e'][dd']!>)!!mp![cc'] [cc']/[cc']/[cc']/[cc']/) | %14
+!mp!!<(! (=B,/C/G/F/)!<)! .[CFAc] z!mp!!<(! (B,/C/_B/A/)!<)! .[CEAc] z | %15
+ .[CEAc]!>![cc'] .[=EBd=e]!>![dd'] .[FAdf]!>![aa']!ff! .[Gdfg]!>![gg'] | %16
+ .[_C_c] z[Q:1/4=120]!8va(! (!>![f'f''-] f''/4e''/4d''/4a'/4f'/4e'/4d'/4a/4!8va)!f/4e/4d/4A/4F/4E/4D/4[K:bass]A,/4F,/4E,/4D,/4A,,/4) | %17
+[Q:1/4=144] (TF,,4[Q:1/4=114] (3.=E,,/).F,,/.D,/ (3.C,/.G,,/._C,/ (3._G,,/.B,,/.F,,/ (3.=A,,/.F,,/._A,,/ | %18
+ .C,,2 z2 z4 | z4!fff! [C,G,C]4 |[Q:1/4=80] !fermata![C,F,A,C]8 |] %21
+V:2
+ x4 z ([G,B,].[G,B,]) x | x4 z ([G,B,].[G,B,]) x | x8 | x8 | x4 z ([CE].[CE]) z | %5
+ x4 z ([CE].[CE]) z | x8 | x319/40 | x8 | x8 | x8 | x4!8va(! x28/15!8va)! x21/10 | x8 | x8 | x8 | %15
+ x8 | x2!8va(! x3!8va)! x7/4[K:bass] x5/4 | x8 | x8 | x8 | x8 |] %21
+V:3
+ z4!ped! z [C,,D,][C,,D,]!ped-up! z | z4!ped! z [C,,D,][C,,D,]!ped-up! z | %2
+ z4 z (B,/_A,/ ^F,/G,/D/C/ | %3
+ =A,/B,/[K:treble]d/G/ c/B/_A/G/ F/=E/G/B,/[K:bass] (5:4:5=B,/C/D/G,/C/ | %4
+ B,/=A,/) z z2!ped! z [F,,_G,][F,,G,]!ped-up! z | z4!ped! z [F,,_G,][F,,G,]!ped-up! z | %6
+ z2 z (C/B,/ ^G,/=A,/[K:treble]_G/F/ =D/E/_d/c/ | %7
+ (22:16:22B/=A/e/=E/F/_G/C/D/F/_E/[K:bass]D/C/B,/=A,/C/=E,/F,/_G,/C,/F,/_E,/D,/ | %8
+ C,B,,)!ped! .[B,,,B,,] z!ped-up! (D/G,/A,/=A,/ C/B,/_A,/G,/ | %9
+ F,/=E,/) z!ped! .[B,,,B,,] z!ped-up![K:treble] (A/B,/A/G/ =E/D/B,/G,/ | %10
+[K:bass] =E,/F,/) z!ped! .[A,,,A,,] z!ped-up![K:treble] (c/F/^F/G/ (5:4:5B/A/=F/D/C/ | %11
+ C/=B,/) z[K:bass]!ped! .[F,,,F,,] z!ped-up![K:treble] (17:16:17(a/4=d/4e/4=e/4g/4f/4d/4=B/4G/4A/4F/4=D/4[K:bass]=B,/4G,/4A,/4F,/4=D,/4) | %12
+ (=B,,/C,/F,/E,/)!ped! .[E,,A,,E,] z!ped-up! (3([__E,__E][D,D][C,C]!ped! (3[C,C][C,C][C,C])!ped-up! | %13
+ (=B,,/C,/F,/=E,/)!ped! .[=E,,G,,C,_E,] z!ped-up! (3([__E,__E][D,D][C,C]!ped! [C,C]/[C,C]/[C,C]/[C,C]/)!ped-up! | %14
+ (=B,,/C,/G,/F,/)!ped! .[F,,C,A,] z!ped-up! (B,,/C,/_B,/A,/)!ped! .[_G,,A,,_G,] z!ped-up! | %15
+!ped! .[_G,,A,,_G,]!>![C,C]!ped-up!!ped! .[=G,,=G,]!>![D,D]!ped-up!!ped! .[A,,D,A,]!>![A,A]!ped-up!!ped! .[B,,D,B,]!>![G,G]!ped-up! | %16
+!ped! .[_C,,_C,] z[K:treble] !arpeggio!!>![_CDFd]2 z4!ped-up! | %17
+[K:bass] (TF,,,4 (3.=E,,,/).F,,,/.D,,/ (3.C,,/.G,,,/._C,,/ (3._G,,,/.B,,,/.F,,,/ (3.=A,,,/.F,,,/._A,,,/ | %18
+ .C,,,2 z2 z4 | z4!ped! [C,,G,,]4!ped-up! |!ped! !fermata![F,,,F,,]8!ped-up! |] %21
+

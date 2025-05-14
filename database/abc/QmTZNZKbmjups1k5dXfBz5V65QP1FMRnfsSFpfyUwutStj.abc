@@ -1,0 +1,24 @@
+X:1
+T:Allegro in B
+T:Allegro in B
+T:K. 3
+T:W. A. Mozart
+C:W. A. Mozart
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=110
+M:2/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^Allegro" f | (dB) (Ac) | (BF) z F | GGAA | B2 z F | GGAA | B2 z d | (cF) (=EB) | (AF) z F | %9
+{A} G^F GA | F2 z F | (G/^F/)(G/F/) GA | F3 :: f | (fd) (d=B) | =B2 z G | cGdG | e2 z e | %18
+ (ec)(cA) | A2 z F | BFcF | d2 z f | (dB) (Ac) | (BF) z F | GGAA | B2 z F | GGAA | B2 z B | %28
+{d} cB cd | B2 z B | (c/=B/)(c/B/) cd | B3 :| %32
+V:2
+ z | B,2 C2 | D2 z D | EE CC | [B,D]2 z D | EE CC | [B,D]2 z B, | A,2 G,2 | F,2 z A, | B,2 C2 | %10
+ D2 z A, | B,3 C | F,3 :: z | z4 | G,2 F,2 | E,2 =B,,2 | C,2 z2 | z4 | F,2 E,2 | D,2 A,,2 | %21
+ B,,2 z2 | B,2 C2 | D2 z D | EE CC | [B,D]2 z D | EECC | [B,D]2 z D, | E,2 F,2 | G,2 z D, | %30
+ E,2 F,2 | B,,3 :| %32
+

@@ -1,0 +1,42 @@
+X:1
+T:Title
+%%score { ( 1 4 ) | ( 2 3 5 ) }
+L:1/8
+M:6/8
+K:F
+V:1 treble nm="Grand Piano"
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:5 bass 
+V:1
+ z3 z2[Q:1/4=66] C/F/ | [CA]>_A=A [DB]A_A | [CA]>AA [A,F]2 [_EF]/F/ | [DF]EF [DG]F[K:bass][B,D] | %4
+ [A,C]3- [A,C]2 C/C/ | [B,G]>^FG BAG |[M:5/8] [A,F]FG A2 |[M:1/8] [DF]/[DF]/ | %8
+[M:3/4] [CE]>F G[DF] E[K:bass][=B,D] | [E,C]6 | [DFB]>[EB] [EB][EB] [EA][E_A] | %11
+ [CFA][FA] [FA] [A,CF]2 [_EF]/F/ | [DF]E FB FG | z2 z A,2 A/A/ | A_A =Ad cA | [DB]A B D2 D/D/ | %16
+ [A,C]F E[EB] [EA][CEG] |[M:5/8] [A,F]-[A,F]- [A,F]3 |[M:1/8] c/c/ | %19
+[M:3/4] [Ec]>[Fc] [Gc][DBc] [CAc][Gc] | c3 A z2 | [^CFA]>[_EA] [=EA][GA] [DFA][CEA] | %22
+ [DFA]4- [DFA][_EFA] | [DFA][DFG] [Fd] [Fd]2 [Fd] | [CG][CF] [Fc] [^Fc]3 | %25
+ [DGB][CDA] [B,DG][Fc]/[CFA]/- [CFA][B,CG] |[M:5/8] [A,CF]-[A,CF]- [A,CF]3 |] %27
+V:2
+ z3 z2 A,/A,/ | z z/ =B,/C z CB, | z z/ C/C F,2 z/ _E/ | z ^CD z DF, | F,,A,,C, F,2 A,/A,/ | %5
+ z z/ A,/B, DCB, |[M:5/8] z A,[C,C] [F,C]2 |[M:1/8] [F,,F,] |[M:3/4] G,,->[G,,-D] [G,,E]2 CF, | %9
+ C,4- C,C/C/ | z z/[K:treble] D/ DD C=B, | z C C F,2 z/ _E/ | z[K:treble] D DD DD | %13
+ A,,^C, E, A,,2 ^C/C/ | CC CC DD | z ^C D _A,2 A,/A,/ | z A, G,D CB, |[M:5/8] F,,C,A,, F,,2 | %18
+[M:1/8] [F,A,F]/[F,A,F]/ |[M:3/4] [C,G,]>[C,A,] [C,B,]C, C,[C,B,] | A,4 z2 | z z/ =B,/ ^CE A,,A,, | %22
+ D,4- D,C, | B,,B,, [B,,B,] [=B,,_A,]2 [B,,A,] | [C,A,][C,A,] [C,A,] [D,A,]3 | %25
+ G,,A,, B,,[C,A,]/C,/- C,C, |[M:5/8] F,,-F,,- F,,3 |] %27
+V:3
+ x6 | F,,3 F,3 | F,,3 z2 A,, | B,,3 B,,3 | x6 | C,6 |[M:5/8] D,2 z z2 |[M:1/8] x |[M:3/4] G,6 | %9
+ x6 | C,6[K:treble] | F,,4 z A,, | B,,6[K:treble] | x6 | z2 z A,3 | G,3 [=B,,F,]3 | C,6 | %17
+[M:5/8] x5 |[M:1/8] x |[M:3/4] x6 | [F,F]3- [F,CF] F,C, | A,,4 z2 | x6 | x6 | x6 | x6 | %26
+[M:5/8] x5 |] %27
+V:4
+ x6 | x6 | x6 | z3 .B,3[K:bass] | .F,3 z3 | x6 |[M:5/8] x5 |[M:1/8] x |[M:3/4] x5[K:bass] x | x6 | %10
+ x6 | x6 | x6 | [^CA]6 | x6 | x6 | x6 |[M:5/8] x5 |[M:1/8] x |[M:3/4] x6 | x6 | x6 | x6 | x6 | x6 | %25
+ x6 |[M:5/8] x5 |] %27
+V:5
+ x6 | x6 | x6 | x6 | x6 | x6 |[M:5/8] x5 |[M:1/8] x |[M:3/4] z2 z G,,3 | x6 | x3/2[K:treble] x9/2 | %11
+ x6 | x[K:treble] x5 | x6 | [D,^F,-]4 F,2 | x6 | x6 |[M:5/8] x5 |[M:1/8] x |[M:3/4] x6 | x6 | x6 | %22
+ x6 | x6 | x6 | x6 |[M:5/8] x5 |] %27
+

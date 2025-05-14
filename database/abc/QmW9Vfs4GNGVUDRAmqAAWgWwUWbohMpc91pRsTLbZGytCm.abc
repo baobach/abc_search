@@ -1,0 +1,63 @@
+X:1
+T:Jouons tout en riant
+T:Jouons beau jeu
+T:Jean de Castro
+T:Source : Livre de chansons à 3 parties---Paris---A.le Roy & R.Ballard---1575. Editor : André Vierendeels (22/09/15).
+T:Notes : Original clefs :  C1, C3, C4 Editorial accidentals above the staff In S, m 12 and m 54, 16th notes, notated in eighth notes in original print  
+C:Jean de Castro
+%%score [ 1 2 3 ]
+L:1/8
+Q:1/4=120
+M:2/2
+K:F
+V:1 treble nm="Superius" snm="S"
+V:2 treble nm="Altus" snm="A"
+V:3 treble-8 nm="Tenor" snm="T"
+V:1
+ z8 | z8 | z8 | z4 d4 | c2 c2 BAGF | G2 B2 B2 A2 | B6 B2 | A2 G2 F4 | z2 A2 B2 c2 | dcBA B2 G2 | %10
+w: |||Tout|en ri- ant, _ _ _|_ jou- ons beau|jeu tout|en ri- ant,|tout- en ri-|ant, _ _ _ _ sy|
+ B2 B2 A2 G2 | ^F2 G3 F/E/ F2 | G2 B2 A2 G2 | d4 z4 | z8 | z4 d4 | c2 c2 BAGF | G2 B2 B2 A2 | %18
+w: fai- sons che- re|li- * * * *|e, et si beu-|vons||ce|vin fri- ant, _ _ _|_ et si beu-|
+ B6 B2 | A2 G2 F4 | z2 A2 B2 c2 | dcBA B2 G2 | B2 B2 A2 G2 | ^F2 G3 F/E/ F2 | G2 d2 d2 c2 | %25
+w: vons ce|vin fri- ant,|ce vin fri-|ant, _ _ _ _ lais-|ant me- len- co-|li- * * * *|e, mais en beu-|
+ B2 A2 G2 c2 | B3 B A4 | z4 z2 d2- | d2 c4 B2 | A2 G2 F2 E2 | DEFG A4 | z2 A2 B2 c2 | d2 G2 B4 | %33
+w: vant, soy- ons, soy-|ons de- het,|mais|_ en beu-|vant soy- ons de-|het, _ _ _ _|chan- tant la|chan- son net-|
+ A2 d2 d2 c2 | B3 G B4 | A4 z2 A2 | F2 D2 A3 A | F2 D2 z2 A2 | F2 D2 F2 G2 | F2 ED E4 | ^F4 A4 | %41
+w: te, chan- tant la|chan- son- net-|te, chan-|tant la chan- son-|net- te, chan-|tant la chan- son-|net- * * *|te, di-|
+ B4 A4 | G2 F2 G4 | F8 | z8 | z4 d4 | c2 c2 BAGF | G2 B2 B2 A2 | B6 B2 | A2 G2 F4 | z2 A2 B2 c2 | %51
+w: sant par|a- mou- ter-|te,||tout|en ri- ant, _ _ _|_ jou- ons beau|jeu tout|en ri- ant,|tout en ri-|
+ dcBA B4- | B2 B2 A2 G2 | ^F2 G3 F/E/ F2 | !fermata!G8 |] %55
+w: ant, _ _ _ _|_ en cour- ti-|net- * * * *|te.|
+V:2
+ D4 F2 E2 | D4 z2 ^C2 | D2 E2 F4 | z2 C2 F4- | F2 A2 GFED | C2 G2 G2 ^F2 | G6 D2 | F2 E2 D4 | %8
+w: Jou- ons beau|jeu tout|en ri- ant,|tout en|_ ri- ant, _ _ _|_ jou- ons beau|jeu tout|en ri- ant,|
+ z2 F2 F2 E2 | D8 | z2 D2 C2 B,2 | A,2 G,2 A,4 | =B,2 D2 F2 E2 | D4 z2 ^C2 | D2 E2 F4 | z2 C2 F4- | %16
+w: tout en ri-|ant,|fai- sons che-|re li- *|e, et si beu-|vons ce|vin fri- ant,|ce vin|
+ F2 A2 GFED | C2 G2 G2 ^F2 | G6 D2 | F2 E2 D4 | z2 F2 F2 E2 | D8 | z2 D2 C2 B,2 | A,2 G,2 A,4 | %24
+w: _ fri- ant, _ _ _|_ et si beu-|vons ce|vin fri- ant,|ce vin fri-|ant,|lais- sant me-|len- co- li-|
+ G,2 G2 F2 E2 | D2 C2 B,2 A,2 | G,A,B,C D2 A2 | G2 ^F2 G2 G2 | F3 F E2 F2 | E2 D2 C2 G2 | %30
+w: e, mais en beu-|vant, soy- ons de-|het, _ _ _ _ mais|en beu- vant soy-|ons de- het, soy-|ons de- het, soy-|
+ F2 D2 CB,A,G, | A,2 F2 G2 A2 | D2 E2 F2 G2 | z2 F2 E2 E2 | G3 C G4 |"^-natural" ^F2 A2 F2 D2 | %36
+w: ons de- het, _ _ _|_ chan- tant la|chan- son- net- te,|chan- tant la|chan- son- net-|te, chan- tant la|
+"^-natural" A3 A F2 D2 | z2 A2 F2 D2 | AGFE D3 D |"^-natural" ^C2 D3 C/B,/ C2 | D4 z2 D2 | D4 F4 | %42
+w: chan- son- net- te,|chan- tant la|chan- * * * * son-|net- * * * *|te, di-|sant par|
+ E2 D2 C4 | D4 z2 ^C2 | D2 E2 F4 | z2 C2 F4- | F2 A2 GFED | C2 G2 G2 ^F2 | G6 D2 | F2 E2 D4 | %50
+w: a- mou- ret-|te, tour|en ri- ant,|tour en|_ ri- ant, _ _ _|_ jou- ons beau|jeu tout|en ri- ant,|
+ z2 F2 F2 E2 | D8 | z2 D2 C2 B,2 | A,2 G,2 A,4 | !fermata!=B,8 |] %55
+w: tout en ri-|ant,|en cour- ti-|net- * *|te.|
+V:3
+ z8 | G4 B2 A2 | G4 z2 F2 | G2 A2 B2 B2 | A2 F2 G4 | z2 G2 G2 D2 | G4 G4 | F2 C2 DEFG | %8
+w: |ons beau jeu|tout en|ri- ant, tout en|ri- ant, jou-|ons beau jeu|tout en|ri- ant, tout _ _ _|
+ A2 d2 d2 c2 | BAGF G2 G2 | G2 D2 F2 G2 | D8 | G4 z4 | G4 B2 A2 | G4 z2 F2 | G2 A2 B2 B2 | %16
+w: _ en ri- ant,|sy _ _ _ _ fai-|sons che- re li-|e,|et|si beu- vons|ce vin|fri- ant, ce vin|
+ A2 F2 G4 | z2 G2 G2 D2 | G4 G4 | F2 C2 DEFG | A2 d2 d2 c2 | BAGF G2 G2 | G2 D2 F2 G2 | D8 | %24
+w: fri- ant, et|si beu- vons|ce vin|fri- ant, ce _ _ _|_ vin fri- ant,|lais- _ _ _ _ sons|me- len- co- li-|e,|
+ G4 z4 | z8 | d4 d2 c2 | B2 A2 G2 G2 | DEFG A2 d2 | c2 B2 A2 G2 | B2 B2 AGFE | D4 z2 A2 | %32
+w: mais||en beu- vant|soy- ons de- het,|soy- _ _ _ _ ons|de- het, soy- ons|de- het, chan- _ _ _|_ tant|
+ B2 c2 d2 G2 | d4 A4 | z4 G4 | D8- | D8- | D8 | d4 B2 G2 | A2 B2 A4 | D4 z2 D2 | G4 F4 | %42
+w: la chan- son- net-|te, chan-|tant,|chan-|_||tant la chan-|son- net- te,|di- sant|par a-|
+ C2 D2 _E4 | D2 d2 B2 A2 | G6 F2 | G2 A2 B2 B2 | A2 F2 G4 | z2 G2 G2 D2 | G4 G4 | F2 C2 DEFG | %50
+w: mou- ret- te,|tout en ri- ant,|tout en|ri- ant, tout en|ri- ant, jou-|ons beua jeu|tout en|ri- ant, tout _ _ _|
+ A2 d2 d2 c2 | BAGF G4- | G2 D2 F2 G2 | D8 | !fermata!G8 |] %55
+w: _ en ri- ant,|en _ _ _ _|_ cour- ti- net-|te.||
+

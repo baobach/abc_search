@@ -1,0 +1,64 @@
+X:1
+T:The Art of Fugue Contrapunctus III (A = 415 Hz)
+T:BWV 1080
+T:J. S. Bach
+%%score { 1 | 2 } { 3 | 4 }
+L:1/8
+M:4/4
+K:E
+V:1 alto1 nm="Harp"
+V:2 alto 
+V:3 tenor nm="Harp"
+V:4 bass 
+V:1
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | c4 G4 | B4 d4 | e4 d2 c2 | ^B4- BG^AB | c4- ccde | %13
+ f^A^Bc d2 c2- | c^B =B4 ^A=A | G=G^G^A B2 ^B2- | B2 cd e2 d2- | dG^A^B c3 d | ^B2 e2 c2- cd | %19
+ G2 c4 ^B=B- | B^A =d2 B2- Bc | F2 B4 ^A=A- | AG g4 c2- | cd e3 f g2- | gf a4 gf | e4- ed^ef | %26
+ g2 c2- cf^Bc | defd e4- | eedc B3 c | d2 z2 z4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %40
+ z8 | z8 | d4 G4 | B4 d4 | e4 d2 c2 | B4- BG^A^B | cB^AG A2 B2- | B^ABc dcB=A | G2 A3 GAB | %49
+ cBA=G F4- | F^EFG AGAB | c^Bcd e2 ^e2- | e2 fg a2 g2- | gcd^e f4- | f^ef g2 e f2 | z8 | z8 | %57
+ c4 G3 ^A | B3 c d3 c | e4- e d2 c | ^B2 =B3 G^A^B | c4- ccde | f3 ^e f3 =g | g4- ggfe | %64
+ f2 ed c^Bcd | efed ef g2 | B4- B^EFG | A4 G4- | G^E F3 FED | ^EF G2 C4- | C3 ^B, C4- | %71
+ !fermata!C8 |] %72
+V:2
+ z8 | z8 | z8 | z8 | G4 C4 | E4 G4 | A4 G2 F2 | E4- EDEF | G2 F4 ^E=E | D=D^D^E F2 =G2- | %10
+ G2 ^G^A B2 A2- | ADEF G2 F2- | F^EFG A2 G2 | F4- FDEF | G3 F ^ED =E2- | E4- EGFE | FDEF G4- | %17
+ G^B,CD EFGA | D2 G4 =GF- | F^E A2 F2- FG | C2 F4 ^E=E- | ED =G2 E3 F | B,2 B4 ^A=A | %23
+ G=G^G^A B2 ^B2- | B2 cd ec d2- | dG^A^B c4- | cBAG A4- | A2 G3 c=G^G | ^A4- AG/F/ ^E=E | %29
+ D=D^D^E F2 =G2- | G2 ^G^A BG A2- | AD^E=G ^G4- | GAGF ^E2 =E2- | EGFE D2 =D2- | DFE=D C3 ^D | %35
+ EDEF GF G2- | GFAG FE F2- | FB,CD ED E2- | ED/C/ D2 E3 F | B,2 G4 =GF- | F^E/D/ E2 F3 G | %41
+ C2 ^A4 =AG- | G=G F4 ^E=E | D=D^D^E F2 =G2- | G2 ^G^A B2 A2- | AD^E=G ^GF=ED | E^EF G2 F=ED | %47
+ CFG^A BDEF- | FE=DC B,EFG | AC=DE A,^A,B,C | =D2 ^B,D C^E F2- | FG A3 cBA | BGAB c4- | c4- c^Bcd | %54
+ G4 C3 D | E3 F G3 F | A4- A G2 F | E4- ED^E=G | G^A B2 A^B c2 | ^B=BAG A2 ^A2 | GF^EG C4- | %61
+ C^EFG A^A^Bc | dc=dG AB c2- | c2 B^A G2 d2- | ddc^B cGAF | G4- GAGF | ^EF G2 C4- | C4- C=DCB, | %68
+ A,C^B, D2 DCB, | C2- CB, A,4- | A,G, A,4- A,2- | A,G,A,F, !fermata!G,4 |] %72
+V:3
+ C4 G,4 | B,4 D4 | E4 D2 C2 | ^B,4- B,G,^A,B, | C2 B,4 ^A,=A, | G,=G,^G,^A, B,2 ^B,2- | %6
+ B,2 CD E2 D2- | DG,^A,^B, CB,CD | EDC^B, C2 C,2 | G,^A, B,3 DCB, | ^A,^A,,B,,C, D,^E,=G,D, | %11
+ G,2 F,2 E,2 D,2 | C,CD^E F2 =E2 | D2 C2 ^B,2 C2 | D4 C4- | C2 B,^A, G,2 z2 | z2 C2- C^A,^B,D | %17
+ G,2 z2 z4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z2 D4 G,2- | G,^A, B,3 C D2- | %30
+ DC E4 DC | B,4- B,^A,^B,C | D4- DG,^A,B, | C4- CF,G,A, | B,A, B,4 E,2- | E,F, G,3 A, B,2- | %36
+ B,A, C4 B,A, | G,4- G,F,G,^A, | B,F, B,4 ^A,=A,- | A,G, E2 C3 D | G,2 C4 ^B,=B,- | %41
+ B,^A, F2 D3 ^E | ^A,3 ^B, C3 C | B,^A,B,G, A,3 B, | C B,2 ^A,2 G,2 =G, | G,2 z2 z4 | %46
+ z C,D,^E, F,2 G,=E, | F,EDC B,B,,C,D, | E,2 F,=D, E,=DCB, | A,A,,B,,C, =D,E,D,C, | %50
+ B,,C,D,^E, F,3 =D, | C,2 z F, E,A, G,2- | G,2 F,3 D,^E,G, | C,^E,F,G, A, z z2 | %54
+ z C^B, =B,2 B,^A,=A, | G,=G,^G,^A, B,2 ^B,2- | B,2 CD E2 D2 | z G,^A,^B, CG, C,2 | %58
+ D,=D,^D,^E, F,3 =G, | G,2 z4 D2 | D2 z2 z4 | z8 | G,4 C,4 | E,4 G,4 | A,4 G,2 F,2 | %65
+ E,4- E,D,^E,F, | G,4- G,C,D,^E, | F,4- F,^E,F,G, | A,2 G,F, G,4- | G,4- G,G,F,^E, | F,8- | %71
+ F,^E,F,D, !fermata!E,4 |] %72
+V:4
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | G,4 C,4 | E,4 G,4 | %16
+ A,4 G,2 F,2 | E,4- E,D,E,F, | G,G,, z G,, A,,G,,^A,,^B,, | C,C,, z C, =D,C,^D,^E, | %20
+ F,F,, z F,, =G,,F,,^G,,^A,, | B,,B,,, z B,, =C,B,,^C,D, | E,E,, z E,, ^E,,F,, z F, | %23
+ E,D,C,C G,A,G,F, | E,D, C,3 F, ^B,,2 | C,2 z G,, A,,A,G,F, | ^E,3 D,/E,/ F,=E,D,C, | %27
+ ^B,,2 ^B,^A,/B,/ C=B,A,G, | =G,4 ^G,2 G,,^A,, | B,,2 z G,, D,E,D,C, | B,,^A,, G,,3 C, =G,,2 | %31
+ G,,B,,C,D, E,2 D,C, | ^B,,G,,^A,,B,, C,D,C,=B,, | ^A,,F,,G,,A,, B,,C,B,,=A,, | %34
+ G,,F,,G,,E,, A,,G,,A,,B,, | C,3 D, E,3 C, | F,3 E, D,C,D,B,, | E,2 D,2 C,4 | %38
+ B,,2 z B,, =C,B,,^C,D, | E,E,, z E, A,,G,,^A,,^B,, | C,C,, z C, =D,C,^D,^E, | %41
+ F,F,, z F, B,,^A,,^B,,=D, | D,3 D, E,F, G,2- | G,3 G, F,^E, D,2- | D,E,D,C, B,,2 D,2 | %45
+ G,,2 z2 z4 | z8 | z8 | z8 | z8 | B,,4 F,,4 | A,,4 C,4 | =D,4 C,2 B,,2 | A,,4- A,,G,,^A,,^B,, | %54
+ C,2 D,^E, F,2 z F, | C,2 z C, B,,C, D,2- | D,F,E,D, C,2 ^B,,2 | C,4- C, B,,2 ^A,, | %58
+ G,,4 F,,G,, A,,2 | G,,C,D,E, F,2 =G,2 | G,A,G,F, ^E,2 F,G, | A,B,A,G, F,E,D,C, | %62
+ ^B,,2 =B,,4 ^A,,=A,, | G,,=G,,^G,,^A,, B,,2 ^B,,2- | B,,2 C,D, E,2 D,2- | D,G,,^A,,^B,, C,4- | %66
+ C,B,,A,,G,, A,,4- | A,,G,,A,,F,, C,4- | C,8- | C,8- | C,4- C,G,,A,,F,, | !fermata!C,,8 |] %72
+

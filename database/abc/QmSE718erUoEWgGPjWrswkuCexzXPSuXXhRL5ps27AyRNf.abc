@@ -1,0 +1,41 @@
+X:1
+T:Andante from Vivladi's Concerto for Two Mandolins
+T:Andante from Vivaldi's Concerto for Two Mandolins
+T:Arr. Micah Zuelke
+C:Arr. Micah Zuelke
+%%score { 1 | 2 }
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+!p!"^Andante" z8 | (3GBA (3GFE E2 E2 | (3FcB (3AGF F2 F2 | (3GBA (3GFE E2 E2 | %4
+ (3FcB (3AGF F2{FGA} F2 | (3[EG]BA (3[EG]FE (3[EG]BA (3[EG]FE |!mp! [Ac]2 [Ac]2 [Ac]2 [Ac]2 | %7
+!p! (3FAG (3FED (3FAG (3FED |!mp! [GB]2 [GB]2 [GB]2 [GB]2 |!p! (3EGF (3EDC (3EGF (3EDC | %10
+ (3[FA][FA][GB] (3[Ac][GB][FA] (3z [FA][GB] (3[Ac][GB][FA] | %11
+ (3z [B,G][CA] (3[DB][CA][B,G] (3z [B,G][CA] (3[DB][CA][B,G] | %12
+ (3[FA][Ac][GB] (3[FA][Ac][GB] (3[FA][Ac][GB] (3[FA][Ac][FA]!mf! | [GB][GB][FA][EG] T[FA]3 G | %14
+!mp! [B,DG]8 || [E^G]>[EG] [FA]>[GB] [B,E]>[EG] [FA]>[GB] | [Ec]2 [CA]2 z ABc | %17
+ [FA]>[FA] [GB]>[Ac] [^DF]>[DF] [EG]>[FA] | [GB]A [EG]2 (3z EF (3GAB | (3EEF (3GAB (3EEF (3GAB | %20
+ (3cBc (3AGA (3FDE (3FGA | (3BAB (3GFG (3ECD (3EFG | (3AGA (3FEF (3^DB,^C (3DEF | %23
+ (3[EG][EG][GB] (3[EG][EG][GB] (3[EG][EG][GB] (3[EG][EG][GB] | %24
+ (3[^DF][DF][FB] (3[DF][DF][FB] (3[DF][DF][FB] (3[DF][DF][FB] | [EG][GB][FA][EG] [^DFB]3 E | %26
+ (3EEF (3GAB (3EEF (3GAB | (3EEF (3GAB (3cEF (3GAB | (3cAB (3cBA (3AAB (3cBA | %29
+ (3AAF (3^DFD (3B,AF (3DFD | %30
+"^rit. -------------------------------------------" (3B,EF (3GFE (3B,EF (3GFE | %31
+ !tenuto!!fermata!B,!pp!"^A Tempo"[GB]!<(![GB][GB] [GB][GB][GB][GB]!<)! | %32
+!mp! [GB]2 [FA][EG] T[^DF]3 E | (3E[EG][FA] (3[GB][EG][FA] (3[GB][EG][FA] (3[GB][EG][FA] | %34
+!p! (3[GB][EG][FA] (3[GB][EG][FA] (3[GB][EG][FA] (3[GB][EG][FA] | [GB][GB][FA][EG] T[^DF]3 E | %36
+ E8 |] %37
+V:2
+ E,2 E,2 E,2 E,2 | E,2 E,2 E,2 E,2 | _E,2 _E,2 _E,2 B,,2 | E,2 E,2 E,2 E,2 | _E,2 _E,2 _E,2 B,,2 | %5
+ E,2 E,2 E,2 E,2 | (3CED (3CB,A, (3CED (3CB,A, | D2 D2 D2 D2 | (3B,DC (3B,A,G, (3B,DC (3B,A,G, | %9
+ C2 C2 C2 C2 |[K:bass]!mf! D,2 D,2!p! D,2 D,2 |!mf! D,2 D,2!p! D,2 D,2 | D,2 D,2 D,2 D,2 | %13
+ G,4 D,4 | G,8 ||!p! E,2 E,2 E,2 E,2 | E,2 E,2 E,2 E,2 | B,,2 B,,2 B,,2 B,,2 | E,2 E,2 E,2 E,2 | %19
+ E,2 E,2 E,2 E,2 |[K:treble] [CA]2 [F,D]2 d2 d2 | [G,G]2 [B,,G,]2 c2 c2 | [A,F]2 [F,,E,]2 B2 B2 | %23
+[K:bass] E,2 E,2 E,2 E,2 | (_E,2 _E,2)!pp! B,!<(!F, _E,2!<)! |!p! E,2 E,2 z2 B,2 | %26
+ E,2 E,2 E,2 E,2 | E,2 E,2 A,2[K:treble] e2 | e2[K:bass] A,2 F,,2[K:treble] e2 | %29
+ e2[K:bass] B,,,2 A,,,2 F,,,2 | E,,,8 | z8 | z2 z2 _E,4 | E,2 E,2 E,2 E,2 | E,2 E,2 E,2 E,2 | %35
+!>(! E,4 _E,4!>)! | [E,G,B,]7 !>!!tenuto!.E,, |] %37
+

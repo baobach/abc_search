@@ -1,0 +1,42 @@
+X:1
+T:Bach Concerto in F moll
+T:Arioso from Cantata BWV 156
+T:Johann Sebastian Bach
+T:for Violin and Piano
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=35
+M:4/4
+K:C
+V:1 treble nm="Violin" snm="Vln."
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:1
+ z8 | z8 | E2- E/F/G/A/ D2- D/E/F/G/ | Cc/A/ F2- F/d/B/G/ TFE/F/ | ED/C/- C z c2- c/A/B/c/ | %5
+ D2- D/^F/A/c/ B2- B/G/E/D/ | C2- C/E/G/B/ A2- A/^F/D/C/ | B,/D/^F/G/ G2- G/A/c/e/ TF>G || %8
+ G2 z2 _B2- B/G/E/D/ | ^C2- C/D/E/F/ G/A/_B/^c/ eG | FE/D/ f2- f/e/d/e/4^c/4 d2- | %11
+ d/c/_B/A/ G/F/E/^c/ (d>e) e>!breath!d | d2 !breath!z2 F2- F/E/D/F/ | %13
+ E2- E/C/D/E/ F/G/A/_B/ c/B/4A/4B- | BA z/ D/E/F/ (3(B,/A,/)B,/(3(C/B,/)C/ (3(D/C/)D/(3(E/D/)E/ | %15
+ (3(F/E/)F/d- d/E/F/D/ E/G/c/A/ G/F/B/c/ | TED z2 (E2- E/F/G/A/) | D2- D/E/F/G/ (Cc/A/ F2- | %18
+ F/)(d/B/G/) (FE/F/) E/G/E/C/ _B,A,/B,/ | (A,2- A,/B,/)(B,/C/) (C/B,/)(C/A,/)({C} TB,>C) | %20
+ C2- C/(E/A/^F/ G/c/)(.=F/.E/){CDE} (TD>C) | !fermata!C4 z4 |] %22
+V:2
+ z [G,CE][CEG] z z [G,D][B,DG] z | z [G,C][F,CF] z z [G,B,D][B,DG] z | %2
+ z [G,CE][CEG] z z [G,D][B,DG] z | z [G,C][F,CF] z z [B,DF][FBd] z | %4
+ z [EGc][G,CE] z z [A,CE][CEA] z | z [CDA][A,CD] z z [G,B,D][B,DG] z | %6
+ z [G,C][C,G,B,] z z [A,D][D,A,C] z | z [CD][B,DG][G,D^F] [G,CE][CEAc][B,DF][A,C] || %8
+ z [G,CD][B,G][G,DF] z [DG_B][_B,DG] z | z [G,_B,E][E,G,B,] z2 [B,EG][E,G,A,] z | %10
+ z [A,DF] [D,F,A,]2- [D,F,A,][DFA] [F,A,D]2- | [F,A,D][EGd][_B,D][E,^CG] [A,DF][=B,E][D,E,A,][CG] | %12
+ z [DFA][FAd] !breath!z z [A,DF][D,F,G,] z | z [E,G,][E,G,C] z2 [C,F,C][F,CD][G,CE] | %14
+ z [A,CF][CFA] z2 [C,F,C][D,F,B,][E,F,A,] | [D,F,G,][F,DA][G,DG][B,DF] [G,CE][CGc][CFB][C,A,C] | %16
+ z [D,G,C][D,G,B,] z2 [G,CE][CEG] z | z [G,D][B,DG] z2 [G,C][F,CF] z | %18
+ z [B,DF][FBd] z2 [G,CE][E,G,_B,][E,G,C] | z [C,F,A,][D,A,D][F,G,C] z [D,C][D,F,B,]F, | %20
+ z [E,C][G,CG][A,C^F] [A,CG][A,C][C,F,G,]B, | z [CEG] [EGc]2- [EGc]4 |] %22
+V:3
+ C,3 C, B,,3 B,, | A,,3 A,, G,,3 G,, | C,3 C, B,,3 B,, | A,,3 A,, G,,3 G,, | C,3 B,, A,,3 G,, | %5
+ ^F,,3 F,, G,,3 G,, | E,,3 E,, ^F,,3 F,, | G,,3 B,, C,A,,D,D,, || G,,3 z E,,3 G,, | %9
+ A,,3 _B,, ^C,,3 A,,, | D,,3 D, C,3 C, | _B,,3 B,, A,,G,,A,,A,, | D,3 C, B,,3 G,, | %13
+ C,3 _B,, A,,3 C, | F,,3 E,, D,,3 C,, | B,,,3 G,,, C,,E,,A,,F,, | G,,3 B,, C,3 C, | %17
+ B,,3 B,, A,,3 A,, | G,,3 G,, C,3 C,, | F,,3 D,, G,,3 G,, | A,,2 z D,, G,,F,,G,,G,, | %21
+ !fermata!C,4 z4 |] %22
+

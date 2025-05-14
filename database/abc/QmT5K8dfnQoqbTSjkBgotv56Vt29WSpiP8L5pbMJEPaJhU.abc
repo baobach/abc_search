@@ -1,0 +1,46 @@
+X:1
+T:In the Hall of the Mountain King from 'Peer Gynt'
+T:In the Hall of the Mountain King from 'Peer Gynt'
+T:Edward Grieg
+C:Edward Grieg
+%%score { 1 2 } { 3 | 4 }
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass nm="Piano"
+V:4 bass 
+V:1
+!mp! cdef ge g2 | ^fd f2 =f_d f2 | cdef gegc' | bgeg b4 ::!mf! gggg gg g2 | gg g2 gg g2 | %6
+ gggg gg g2 | gg g2 g4 :|!8va(! c'd'e'f' g'e' g'2 | ^f'=d' f'2 =f'_d' f'2 | c'd'e'f' g'e'g'c'' | %11
+ b'g'e'g' b'4!8va)! | z2!f!{/=b} [=ac']2 z4 | z2{/=b} [=ac']2 z4 | %14
+!mf!!8va(! c'd'!<(!e'f' g'e'g'c'' | =b'g'b'd''!<)!!f! c''4!8va)! | z2{/=b} [=ac']2 z4 | %17
+ z2{/=b} [=ac']2 z4 |!mf!!8va(! c'!<(!d'e'f' g'e'g'c'' | =b'g'b'd''!<)!!f! c''4!8va)! |!8va(! z8 | %21
+ z2{/=b'} [=a'c'']2 z4 | z2{/=b'} [=a'c'']2{/b'} [a'c'']2{/b'} [a'c'']2 | %23
+{/=b'} [=a'c'']2{/b'} [a'c'']2{/b'} [a'c'']2{/b'} [a'c'']2!8va)! | z8 | z2 z!f! c!<(! cccc!<)! | %26
+ z2!fff!!8va(!{/=b'} [=a'c'']2 z4!8va)! |] %27
+V:2
+!p! CCCC GG G2 | CC C2 GG G2 | CCCC GGGG | EEEE E4 :: G=A=Bc dB d2 | e=B e2 dB d2 | G=A=Bc dB d2 | %7
+ e=B e2 d4 :| gggg gg g2 | gg g2 gg g2 | gggg gggg | gggg g4 | z2 [e^f]2 z4 | z2 [e^f]2 z4 | %14
+ z2 c2 z2 c2 | z2 [=Bd]2 [ce]4 | z2 [e^f]2 z4 | z2 [e^f]2 z4 | z2 c2 z2 c2 | z2 [=Bd]2 [ce]4 | %20
+ z2!8va(! [e'^f']2 z4 | z2 [e'^f']2 z4 | z2 [e'^f']2 [e'f']2 [e'f']2 | %23
+ [e'^f']2 [e'f']2 [e'f']2 [e'f']2!8va)! | z4!p! C!<(!CCC | CCCC CCCC!<)! | z2 [e^f]2 z4 |] %27
+V:3
+!p! z2 [C,E,G,]2 z2 [C,E,G,]2 | z2 [C,^F,G,]2 z2 [_D,=F,A,]2 | z2 [E,G,]2 z2 [E,G,]2 | %3
+ z2 [E,G,B,]2 z2 [E,G,B,]2 ::!mf! z2 [G,=B,D]2 z2 [G,B,D]2 | z2 [G,=B,E]2 z2 [G,B,D]2 | %6
+ z2 [G,=B,D]2 z2 [G,B,D]2 | z2 [G,=B,E]2 z2 [G,_B,D]2 :|[K:treble] z2 [EGc]2 z2 [EGc]2 | %9
+ z2 [^FGc]2 z2 [=FA_d]2 | z2 [EGc]2 z2 [EGc]2 | z2 [EGB]2 z2 [EGB]2 |!f! z2 [E^F=Ac]2 z4 | %13
+ z2 [E^F=Ac]2 z4 |!mf! z2!<(! [CEG]2 z2 [CEG]2 | z2 [DG]2!<)!!f! [CE]4 | z2 [E^F=Ac]2 z4 | %17
+ z2 [E^F=Ac]2 z4 |!mf! z2!<(! [CEG]2 z2 [CEG]2 | z2 [DG]2!<)! [CE]4 | z2 [E^F=Ac]2 z4 | %21
+ z2 [E^F=Ac]2 z4 | z2 [E^F=Ac]2 [EFAc]2 [EFAc]2 | [E^F=Ac]2 [EFAc]2 [EFAc]2 [EFAc]2 | z8!p! | z8 | %26
+!fff! z2 [E^F=Ac]2 z4 |] %27
+V:4
+ C,,2 G,,2 C,,2 G,,2 | C,,2 G,,2 C,,2 G,,2 | C,,2 G,,2 C,,2 G,,2 | E,,2 B,,2 E,,2 B,,2 :: %4
+ G,,2 D,2 G,,2 D,2 | E,,2 =B,,2 G,,2 B,,2 | G,,2 D,2 G,,2 D,2 | E,,2 =B,,2 G,,2 B,,2 :| %8
+ C,,2 G,,2 C,,2 G,,2 | C,,2 G,,2 C,,2 G,,2 | C,,2 G,,2 C,,2 G,,2 | E,,2 B,,2 E,,2 B,,2 | %12
+ [C,,C,]2 E,2 z4 | [C,,C,]2 E,2 z4 | A,,2 C,2 G,,2 C,2 | G,,2 =B,,2 C,4 | [C,,C,]2 E,2 z4 | %17
+ [C,,C,]2 E,2 z4 | A,,2 C,2 G,,2 C,2 | G,,2 =B,,2!f! C,4 | [C,,C,]2 E,2 z4 | [C,,C,]2 E,2 z4 | %22
+ [C,,C,]2 E,2 E,2 E,2 | E,2 E,2 E,2 E,2 | z4!<(! !//-!C,,2 C,2 | !//-!C,,2 C,2 !//-!C,,2 C,2!<)! | %26
+ [C,,,C,,]2 [C,,C,]2 z4 |] %27
+

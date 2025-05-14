@@ -1,0 +1,37 @@
+X:1
+T:The Merry Farmer
+T:Robert Schumann
+T:Op. 68, No. 10
+T:Public Domain (PianoXML typeset)
+Z:Public Domain (PianoXML typeset)
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="Piano"
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+"^Allegro animato" z |!p! z .[CFA].[CFA] z z .[FAc].[FAc] z | z .[FBd].[Bd] z z .[FAc].[FAc] z | %3
+ z .[EBc] .[EBc]2 z .[CFA] .[CFA]2 | z!>(! .[CG] z .[FG=B] z .[EGc] .[EGc]2!>)! | %5
+ z .[CFA].[CFA] z z .[FAc].[FAc] z | z .[FBd].[Bd] z z .[FAc].[FAc] z | %7
+ z .[EBc] .[EBc]2 z .[CFA] .[CFA]2 | z!>(! .[CG] z .[FG=B] z .[EGc].[EGc]!>)! (C || B3 A G3) ((C | %10
+ B)AGF G3) (C | F3) (A c3) F | (Bdfd c3) z | z .[EBc] .[EBc]2 z .[CFA].[CFA].[CFA] | %14
+ z .[DG] z .[B,C] z .[A,CF].[A,CF] (C | B3) A G3 ((C | B)AGF G3) (C | F3) (A c3) (F | Bdfd c3) z | %19
+ z .[EBc] .[EBc]2 z .[CFA].[CFA].[CFA] |!>(! z .[DG] z .[B,C] z .[A,CF].[A,CF]!>)! z |] %21
+V:2
+!f! (C, | F,3 A, C3 F, | B,DFD C3) (A, | B,G,C,B, A,F,C,A, | E,2 D,2 C,2) z!f! (C, | F,3 A, C3 F, | %6
+ B,DFD C3) (A, | B,G,C,B, A,F,C,A, | E,2 D,2 C,2) z (C, || G,3 F, E,3) (C, | G,F,E,D, E,3)!f! (C, | %11
+ F,3) (A, C3) (F, | B,DFD C3) (A, | B,G,C,B, A,F,C,A, | G,2 E,2 F,2) x (C, | G,3) (F, E,3) (C, | %16
+ G,F,E,D, E,3)!f! (C, | F,3) (A, C3) (F, | B,DFD C3) (A, | B,G,C,B, A,F,C,A, | G,2 E,2 F,2) z2 |] %21
+V:3
+ x | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || z .[CE].[CE] z z .[B,C].[B,C] z | %10
+ z .C.C.=B, z .C.C z | z .[A,C].[A,C] z z .[FA].[FA] z | z .[FB] z .[FB] z .[FA].[FA] z | x8 | x8 | %15
+ z .[CE].[CE] z z .[B,C].[B,C] z | z .C.C.=B, z .C.C z | z .[A,C].[A,C] z z .[FA].[FA] z | %18
+ z .[FB] z .[FB] z .[FA].[FA] z | x8 | x8 |] %21
+V:4
+ x | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | B,,2 C,2 F,2 z x | x8 | x8 | %17
+ x8 | x8 | x8 | B,,2 C,2 x2 x2 |] %21
+

@@ -1,0 +1,44 @@
+X:1
+T:Title
+%%score ( 1 2 )
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 perc nm="Drumset, MIDI Out" snm="D. Set"
+K:none
+I:percmap A A 41 normal
+I:percmap ^a a 49 x
+I:percmap ^b b 57 x
+I:percmap ^e e 46 x
+I:percmap ^f f 51 x
+I:percmap ^g g 42 x
+I:percmap _f f 53 diamond
+I:percmap c c 40 normal
+I:percmap d d 45 normal
+I:percmap e e 47 normal
+I:percmap f f 48 normal
+V:2 perc 
+K:none
+I:percmap A A 43 normal
+I:percmap F F 36 normal
+I:percmap ^D D 44 x
+V:1
+ z/ c3/2 f/e/d ^a^g [c^g]^g/^g/ | ^g/^g/^g/^g/ c/^g/^g/^g/ ^g^g [c^g]^g/^g/ | %2
+ ^g/^g/^g/^g/4^g/4 [c^g]/^g/^g/^g/ ^e^g [c^g]^g/^g/ | ^g/^g/^g/^g/ c/^g/^g/^g/ ^g^g [c^g]^g/^g/ | %4
+ ^g/^g/^g/^g/4^g/4 cd/e/ ^b^g/^g/ [c^g]/^g/^g | ^g^g/^g/ [c^g]^g/^g/ ^g/^g/^g/^g/ [c^g]^g/^g/ | %6
+ ^g/^g/^g/^e/ [c^g]^g ^g^g [c^g]^g/^e/ | %7
+ ^g/^g/^g/^e/ [c^g]/^g/^g/^e/ ^g/^e/^g/^e/ [c^g]/^e/^g/^e/ | f/>e/d e>A ^a_f/^f/ [c^g]/^g/_f/^f/ | %9
+ ^g/^g/_f/^f/ [c^g]/^g/_f/^f/ ^g/^g/_f/^f/ [c^g]/^g/_f/^f/ | %10
+ ^g/^g/_f/^f/ [c^g^b]/^g/_f/^f/ [^g^b]/^g/_f/^f/ [c^g]/^g/_f/^f/ | %11
+ ^g/^g/_f/^f/ [c^g]/^g/_f/[c^a]/ ^g/4f/4^g/8d/4 z/8 z [c^g]/^gA/ | %12
+ [f^g]/[c^g]/c/d/ [c^g]/[c^g]/A/c/ [^g^b]/^g/_f/^f/ [c^g]/^g/_f/^f/ | %13
+ ^g/^g/_f/^f/ [c^g]/^g/_f/^f/ ^g/^g/_f/^f/ [c^g]/^g/_f/^f/ | %14
+ ^g/^g/_f/^f/ [c^g]/^g/_f/^f/ ^g/^g/_f/^f/ [c^g]/^g/_f/^f/ | %15
+ ^g/^g/_f/^f/ [c^g]/^g/_f/^f/ [c^g]/[f^g]/e [f^g]/[c^g]/e/c/ | [f^g]/[e^g]/e/d/ [d^g]/^g/c z4 |] %17
+V:2
+ [^DF][^DF]/F/ ^D^D/A/ F>F z F | F2 z F/F/ z/ F/F z F | F2 z2 F>F z F | F2 z F/F/ z/ F/F z F | %4
+ F2 ^D^D F>F z F | F2 z F/F/ z/ F/F z F | F2 z2 F>F z z/ F/ | z z/ F/ z z/ F/ z/ FF/ z/ F3/2 | %8
+ [^DF]^D^D[^DA] F>F z F | F2 z F/F/ z/ F/F z F | F2 z2 F>F z F | F2 z F/F/ z/ F/[^DFA] ^D[^DA] | %12
+ ^D^D^D^D F>F z F | F2 z F/F/ z/ F/F z F | F2 z2 F>F z F | F2 z2 z ^D^D^D | ^D^D ^D/A/^D/F/ z4 |] %17
+

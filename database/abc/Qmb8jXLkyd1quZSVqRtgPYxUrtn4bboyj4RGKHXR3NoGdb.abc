@@ -1,0 +1,38 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=95
+M:4/4
+K:C
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 bass nm="Choir Pad, Faith Discerns a Country"
+V:4 bass 
+V:1
+ [EG]>[EG] [Ec]2 [Ec]2 [_EB]2 | [_EA]2 [=EG]2 [FA]>[EG] [CE]2 | C>[CE] [EG]>[EG] [EG]>[CG] [DF]2 | %3
+w: By~Bejnamin~Newton~Hultsman,~Jr. * * * *|||
+ [CE]>[B,D] [CE]6 | [EG]>[EG] [Ec]2 [Ec]2 [_EB]2 | [_EA]2 [=EG]>[FA] [EG]>[DF] [CE]2 | %6
+w: |||
+ [EG]>[EG] [D^F]>[D=F] [D^F]>[DA] [Fc]2 | [^FB]>[FA] G6 | [FA]>[FB] [Ec]2 [_EB]>[EA] [=EG]2 | %9
+w: |||
+ [CE]>[CE] [^CA]2 [EG]>[CE] [DF]2 | [B,D]>[CE] [B,F]2 [FB]>[FA] [FG]2 | z2 e4 z2 | %12
+w: |||
+ [FA]>[FB] [Ec]2 [_EB]>[EA] [=EG]2 | [_E^F]>[=EG] [=FA]2 [F^G]>[FA] [^Fd]2 | %14
+w: ||
+ [^Fd]>[Fc] [=FB]2 [FB]>[FA] [FG]2 | z2 c6- | c4 z4 |] %17
+w: |||
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | [Fd][Ge] E>F GE [FB]2 | x8 | x8 | x8 | %15
+ [Fd]>[Ge] E2 G>F E2- | E4 z4 |] %17
+V:3
+ C>C G,2 G,2 ^F,2 | ^F,2 G,2 C>C G,2 | E,>G,[K:treble] C>C C>C B,2 | G,>G, G,6 | C>C G,2 G,2 ^F,2 | %5
+ ^F,2 G,>[K:treble]C C>G, G,2 | C>C[K:bass] A,>^G, A,>^F, A,2 | D>C B,6 | G,>G, G,2 ^F,>F, G,2 | %9
+ G,>G, A,2 A,>A, A,2 | G,>G, G,2 G,>C B,2 | B,2 C>G, G,C D2 | G,>G, G,2 ^F,>F, G,2 | %13
+ C>_B, A,2 =B,>[K:treble]C D2 | A,>D D2 D>C[K:bass] B,2 | B,>B, C2 B,>A, G,2- | G,4 z4 |] %17
+V:4
+ C,>C, C,2 C,2 C,2 | C,2 C,2 C,>C, C,2 | C,>C, C,>C, C,>E, G,2 | G,,>G,, C,6 | C,>C, C,2 C,2 C,2 | %5
+ C,2 C,>C, C,>C, C,2 | C,>C, D,>D, D,>D, D,2 | D,>D, G,,6 | z2 C,2 C,>C, C,2 | %9
+ C,>C, A,,2 A,,>A,, D,2 | F,>E, D,2 G,,>G,, G,,2 | G,,2 C,>D, E,C, G,2 | z2 C,2 C,>C, C,2 | %13
+ C,>C, F,2 F,>F, D,2 | D,>D, G,2 G,>G, G,2 | G,>G, C,6- | C,4 z4 |] %17
+

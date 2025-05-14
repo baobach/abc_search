@@ -1,0 +1,30 @@
+X:1
+T:Arabesque
+T:Friedrich Burgmüller 
+T:Op. 100, No. 2
+C:Public Domain (PianoXML typeset)
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=126
+M:2/4
+K:C
+V:1 treble nm="Piano"
+V:2 bass 
+V:1
+!p!"^Allegro scherzando" z4 | z4 |:"_leggiero" (A/B/c/B/ .A) z | (A/B/c/d/ .e) z | %4
+"_cresc." (d/e/f/g/ .a) z |!f! (a/b/)c'/d'/ .e' z |!mf! z .e(ef | .d) z !>!d2- | d(gde |1 %9
+ c) z!sfz! e2 ||2 (c2 .c') z ::!mf! (e3 B | c3) (A | e3 B | c3) (A |!f! !5!a3 e | !3!f3) (e | %17
+!>(! d!3!cBA | !2!^G2 !5!e2)!>)! |!p!"^a tempo" (A/B/c/B/ .A) z | (A/B/c/d/ .e) z | %21
+!<(! (d/e/f/g/ .a) z | (a/b/c'/d'/ .e')!<)!!f! z | z .B(Bc | .A) z !>!e2- | e.B(Bc |1 A4) :|2 %27
+ (A/B/c/B/ .A) z || (d/e/f/g/ .a) z | (a/b/c'/b/ .a) z | (d'/e'/f'/g'/ .a') z | %31
+!f!"^risoluto" (E/D/C/B,/ .A,) z |!sfz! !fermata![ca]4 |] %33
+V:2
+ .[A,CE]2 .[A,CE]2 | .[A,CE]2 .[A,CE]2 |: .[A,CE]2 .[A,CE]2 | .[A,CE]2 .[A,CE]2 | %4
+ .[A,DF]2 .[A,DF]2 | .[A,CE]2 .[A,CE]2 | .[G,CE]2 .[G,CE]2 | .[G,B,F]2 .[G,B,F]2 | %8
+ .[G,B,F]2 .[G,B,F]2 |1 .[CE] z E2 ||2 [CE]3 z :: (^G,/A,/B,/A,/ .G,) z | (A,/B,/C/D/ .E) z | %13
+ (^G,/A,/B,/A,/ .G,) z | (A,/B,/C/D/ .E) z | (^C/D/)E/D/ .C z |[K:treble] (D/E/F/G/ .A) (G | %17
+"^rit." FED!2!^D | EDCB,) |[K:bass] .[A,CE]2 .[A,CE]2 | .[A,CE]2 .[A,CE]2 | .[A,DF]2 .[A,DF]2 | %22
+ .[A,CE]2 .[A,CE]2 | .[A,DE]2 .[A,DE]2 | .[A,CE]2 .[A,CE]2 | .[A,DE]2 .[A,DE]2 |1 %26
+ .[A,CE]2 .[A,CE]2 :|2 .[A,CE]2 .[A,CE]2 || .[A,DF]2 .[A,DF]2 | .[A,CE]2 .[A,CE]2 | %30
+ .[A,DF]2 .[A,DF]2 | (E,/D,/C,/B,,/ .A,,) z | !fermata![A,E]4 |] %33
+

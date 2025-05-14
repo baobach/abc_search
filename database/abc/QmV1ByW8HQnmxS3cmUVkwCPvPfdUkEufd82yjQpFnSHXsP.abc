@@ -1,0 +1,146 @@
+X:1
+T:Prélude pour la Lute
+T:Prelude pour Luth
+T:J.S. Bach
+T:bwv 999
+C:J.S. Bach
+%%score { 1 | 2 } ( 3 4 ) 5
+L:1/8
+Q:1/4=78
+M:3/4
+K:Bb
+V:1 treble nm="Clavecin" snm="Cla."
+V:2 bass 
+V:3 tab stafflines=7 strings=D2,G2,C3,F3,A3,D4,G4 nostems nm="Luth [Tablature]"
+V:4 tab stafflines=7 strings=D2,G2,C3,F3,A3,D4,G4 nostems 
+V:5 tab stafflines=7 strings=D2,G2,C3,F3,A3,D4,G4 nostems nm="Luth" snm="Lt."
+V:1
+ z/ C/ E/ G/ E/ C/ E/ C/ z/ .C C/ | z/ C/ E/ G/ E/ C/ E/ C/ z/ .C C/ | %2
+ z/ C/ F/ _A/ F/ C/ F/ C/ z/ .C C/ | z/ C/ F/ _A/ F/ C/ F/ C/ z/ .C C/ | %4
+ z/ =B,/ D/ F/ D/[K:bass] B,/ D/ B,/ z/ .B, B,/ | %5
+ z/ =B,/[K:treble] D/ F/ D/ B,/ D/[K:bass] B,/ z/ .B, B,/ | %6
+ z/ G,/ C/[K:treble] E/ C/ G,/ C/ G,/ z/[K:bass] .G, G,/ | z/ G,/ C/ E/ C/ G,/ C/ G,/ z/ .G, G,/ | %8
+ z/ G,/[K:treble] C/ E/ C/ G,/ C/[K:bass] G,/ z/ .G, G,/ | %9
+ z/ G,/ C/[K:treble] E/ C/ G,/ C/ G,/ z/[K:bass] .G, G,/ | z/ A,/ C/ E/ C/ A,/ C/ A,/ z/ .A, A,/ | %11
+ z/ A,/[K:treble] C/ E/ C/ A,/ C/[K:bass] A,/ z/ .A, A,/ | %12
+ z/ A,/ B,/ D/ B,/ A,/ B,/ A,/ z/ .A, A,/ | z/ A,/ B,/ D/ B,/ A,/ B,/ A,/ z/ .A, A,/ | %14
+ z/ B,/[K:treble] D/ G/ D/ B,/ D/[K:bass] B,/ z/ .B, B,/ | %15
+ z/ A,/ E/[K:treble] G/ E/ A,/ E/ A,/ z/ .A, A,/ | z/ A,/ C/ ^F/ C/[K:bass] A,/ C/ A,/ z/ .A, A,/ | %17
+ z/ A,/[K:treble] C/ ^F/ C/ A,/ C/[K:bass] A,/ z/ .A, A,/ | %18
+ z/ B,/ D/[K:treble] G/ D/ B,/ D/ B,/ z/ .B, B,/ | z/ C/ ^F/ A/ F/ C/ F/ C/ z/ .C C/ | %20
+ z/ D/ G/ B/ G/ D/ G/ D/ z/ .D D/ | z/ D/ ^F/ c/ F/ D/ F/ D/ z/ .D D/ | %22
+ z/ _D/ G/ B/ G/ D/ G/ D/ z/ .D D/ | z/ C/ E/ A/ E/ C/ E/ C/ z/ .C C/ | %24
+ z/ B,/ =E/ G/ E/[K:bass] B,/ E/ B,/ z/ .B, B,/ | %25
+ z/ A,/[K:treble] C/ G/ C/ A,/ C/[K:bass] A,/ z/ .A, A,/ | %26
+ z/ A,/ C/[K:treble] ^F/ C/ A,/ C/ A,/ z/[K:bass] .A, A,/ | %27
+ z/ G,/ B,/ =E/ B,/ G,/ B,/ G,/ z/ .G, G,/ | z/ ^F,/ A,/ E/ A,/ F,/ A,/ F,/ z/ .F, F,/ | %29
+ z/ G,/ B,/ D/ B,/ G,/ B,/ G,/ z/ .G, G,/ | z/ G,/ A,/ C/ A,/ G,/ A,/ G,/ z/ .G, G,/ | %31
+ z/ ^F,/ A,/ C/ A,/ F,/ A,/ F,/ z/ .F, F,/ | z/ ^F,/ A,/ C/ A,/ F,/ A,/ F,/ z/ .F, F,/ | %33
+ z/ G,/ A,/ C/ A,/ G,/ A,/ G,/ z/ .G, G,/ | z/ A,/[K:treble] C/ ^F/ C/ A,/ C/ A,/ z/ .A, A,/ | %35
+ z/ C/ ^F/ A/ F/ C/ F/ C/ z/ .C C/ | z/ =B,/ D/ G/ D/[K:bass] B,/ D/ B,/ z/ .B, B,/ | %37
+ z/ =B,/[K:treble] D/ G/ D/ B,/ D/[K:bass] B,/ z/ .B, B,/ | %38
+ z/ G,/ C/[K:treble] E/ C/ G,/ C/ G,/ z/[K:bass] .G, G,/ | z/ ^F,/ C/ E/ C/ F,/ C/ F,/ z/ .F, F,/ | %40
+ z/ ^F,/ C/ E/ C/ F,/ C/ F,/ z/ .F, F,/ | z/ G,/ =B,/ D/ B,/ G,/ B,/[K:treble] D/ E/ C/ A,/ ^F/ | %42
+ [=B,DG]2 z2 z2 |] %43
+V:2
+ C,2 z2 G, E, | C,2 z2 G, E, | C,2 z2 _A, F, | C,2 z2 _A, F, | C,2 z2 _A, F, | C,2 z2 _A, F, | %6
+ C,2 z2 E, C, | B,,2 z2 E, C, | _A,,2 z2 E, C, | G,,2 z2 E, C, | ^F,,2 z2 E, C, | ^F,,2 z2 ^F, D, | %12
+ G,,2 z2 D, B,, | G,,2 z2 B,, G,, | E,,2 z2 G, E, | C,2 z2 C, A,, | D,,2 z2 D, A,, | %17
+ D,,2 z2 C, A,, | D,,2 z2 D, B,, | D,,2 z2 E, C, | D,,2 z2 G, D, | D,,2 z2 A, ^F, | E,,2 z2 G, E, | %23
+ D,,2 z2 ^F, D, | D,,2 z2 =E, _D, | D,,2 z2 E, C, | D,,2 z2 D, A,, | D,,2 z2 _D, B,, | %28
+ D,,2 z2 C, A,, | D,,2 z2 B,, G,, | D,,2 z2 E, C, | D,,2 z2 D, A,, | G,,2 z2 E, C, | %33
+ G,,2 z2 D, =B,, | G,,2 z2 E, C, | G,,2 z2 E, C, | G,,2 z2 G, D, | G,,2 z2 _A, F, | G,,2 z2 E, C, | %39
+ G,,2 z2 E, C, | G,,2 z2 E, C, | G,,2 z2 z2 | G,,2 z2 z2 |] %43
+V:3
+ x/ !3!C/ !2!E/ !1!G/ !2!E/ !3!C/ !2!E/ !3!C/ x/ .!3!C !3!C/ | %1
+ x/ !3!C/ !2!E/ !1!G/ !2!E/ !3!C/ !2!E/ !3!C/ x/ .!3!C !3!C/ | %2
+ x/ !3!C/ !2!F/ !1!_A/ !2!F/ !3!C/ !2!F/ !3!C/ x/ .!3!C !3!C/ | %3
+ x/ !3!C/ !2!F/ !1!_A/ !2!F/ !3!C/ !2!F/ !3!C/ x/ .!3!C !3!C/ | %4
+ x/ !3!=B,/ !2!D/ !2!F/ !2!D/[K:bass] !stemless!B,/ !stemless!D/ !stemless!B,/ z/ .!stemless!B, !stemless!B,/ | %5
+ z/ !stemless!=B,/[K:treble] !stemless!D/ !stemless!F/ !stemless!D/ !stemless!B,/ !stemless!D/[K:bass] !stemless!B,/ z/ .!stemless!B, !stemless!B,/ | %6
+ z/ !stemless!G,/ !stemless!C/[K:treble] !stemless!E/ !stemless!C/ !stemless!G,/ !stemless!C/ !stemless!G,/ z/[K:bass] .!stemless!G, !stemless!G,/ | %7
+ z/ !stemless!G,/ !stemless!C/ !stemless!E/ !stemless!C/ !stemless!G,/ !stemless!C/ !stemless!G,/ z/ .!stemless!G, !stemless!G,/ | %8
+ z/ !stemless!G,/[K:treble] !stemless!C/ !stemless!E/ !stemless!C/ !stemless!G,/ !stemless!C/[K:bass] !stemless!G,/ z/ .!stemless!G, !stemless!G,/ | %9
+ z/ !stemless!G,/ !stemless!C/[K:treble] !stemless!E/ !stemless!C/ !stemless!G,/ !stemless!C/ !stemless!G,/ z/[K:bass] .!stemless!G, !stemless!G,/ | %10
+ z/ !stemless!A,/ !stemless!C/ !stemless!E/ !stemless!C/ !stemless!A,/ !stemless!C/ !stemless!A,/ z/ .!stemless!A, !stemless!A,/ | %11
+ z/ !stemless!A,/[K:treble] !stemless!C/ !stemless!E/ !stemless!C/ !stemless!A,/ !stemless!C/[K:bass] !stemless!A,/ z/ .!stemless!A, !stemless!A,/ | %12
+ z/ !stemless!A,/ !stemless!B,/ !stemless!D/ !stemless!B,/ !stemless!A,/ !stemless!B,/ !stemless!A,/ z/ .!stemless!A, !stemless!A,/ | %13
+ z/ !stemless!A,/ !stemless!B,/ !stemless!D/ !stemless!B,/ !stemless!A,/ !stemless!B,/ !stemless!A,/ z/ .!stemless!A, !stemless!A,/ | %14
+ z/ !stemless!B,/[K:treble] !stemless!D/ !stemless!G/ !stemless!D/ !stemless!B,/ !stemless!D/[K:bass] !stemless!B,/ z/ .!stemless!B, !stemless!B,/ | %15
+ z/ !stemless!A,/ !stemless!E/[K:treble] !stemless!G/ !stemless!E/ !stemless!A,/ !stemless!E/ !stemless!A,/ z/ .!stemless!A, !stemless!A,/ | %16
+ z/ !stemless!A,/ !stemless!C/ !stemless!^F/ !stemless!C/[K:bass] !stemless!A,/ !stemless!C/ !stemless!A,/ z/ .!stemless!A, !stemless!A,/ | %17
+ z/ !stemless!A,/[K:treble] !stemless!C/ !stemless!^F/ !stemless!C/ !stemless!A,/ !stemless!C/[K:bass] !stemless!A,/ z/ .!stemless!A, !stemless!A,/ | %18
+ z/ !stemless!B,/ !stemless!D/[K:treble] !stemless!G/ !stemless!D/ !stemless!B,/ !stemless!D/ !stemless!B,/ z/ .!stemless!B, !stemless!B,/ | %19
+ z/ !stemless!C/ !stemless!^F/ !stemless!A/ !stemless!F/ !stemless!C/ !stemless!F/ !stemless!C/ z/ .!stemless!C !stemless!C/ | %20
+ z/ !stemless!D/ !stemless!G/ !stemless!B/ !stemless!G/ !stemless!D/ !stemless!G/ !stemless!D/ z/ .!stemless!D !stemless!D/ | %21
+ z/ !stemless!D/ !stemless!^F/ !stemless!c/ !stemless!F/ !stemless!D/ !stemless!F/ !stemless!D/ z/ .!stemless!D !stemless!D/ | %22
+ z/ !stemless!_D/ !stemless!G/ !stemless!B/ !stemless!G/ !stemless!D/ !stemless!G/ !stemless!D/ z/ .!stemless!D !stemless!D/ | %23
+ z/ !stemless!C/ !stemless!E/ !stemless!A/ !stemless!E/ !stemless!C/ !stemless!E/ !stemless!C/ z/ .!stemless!C !stemless!C/ | %24
+ z/ !stemless!B,/ !stemless!=E/ !stemless!G/ !stemless!E/[K:bass] !stemless!B,/ !stemless!E/ !stemless!B,/ z/ .!stemless!B, !stemless!B,/ | %25
+ z/ !stemless!A,/[K:treble] !stemless!C/ !stemless!G/ !stemless!C/ !stemless!A,/ !stemless!C/[K:bass] !stemless!A,/ z/ .!stemless!A, !stemless!A,/ | %26
+ z/ !stemless!A,/ !stemless!C/[K:treble] !stemless!^F/ !stemless!C/ !stemless!A,/ !stemless!C/ !stemless!A,/ z/[K:bass] .!stemless!A, !stemless!A,/ | %27
+ z/ !stemless!G,/ !stemless!B,/ !stemless!=E/ !stemless!B,/ !stemless!G,/ !stemless!B,/ !stemless!G,/ z/ .!stemless!G, !stemless!G,/ | %28
+ z/ !stemless!^F,/ !stemless!A,/ !stemless!E/ !stemless!A,/ !stemless!F,/ !stemless!A,/ !stemless!F,/ z/ .!stemless!F, !stemless!F,/ | %29
+ z/ !stemless!G,/ !stemless!B,/ !stemless!D/ !stemless!B,/ !stemless!G,/ !stemless!B,/ !stemless!G,/ z/ .!stemless!G, !stemless!G,/ | %30
+ z/ !stemless!G,/ !stemless!A,/ !stemless!C/ !stemless!A,/ !stemless!G,/ !stemless!A,/ !stemless!G,/ z/ .!stemless!G, !stemless!G,/ | %31
+ z/ !stemless!^F,/ !stemless!A,/ !stemless!C/ !stemless!A,/ !stemless!F,/ !stemless!A,/ !stemless!F,/ z/ .!stemless!F, !stemless!F,/ | %32
+ z/ !stemless!^F,/ !stemless!A,/ !stemless!C/ !stemless!A,/ !stemless!F,/ !stemless!A,/ !stemless!F,/ z/ .!stemless!F, !stemless!F,/ | %33
+ z/ !stemless!G,/ !stemless!A,/ !stemless!C/ !stemless!A,/ !stemless!G,/ !stemless!A,/ !stemless!G,/ z/ .!stemless!G, !stemless!G,/ | %34
+ z/ !stemless!A,/[K:treble] !stemless!C/ !stemless!^F/ !stemless!C/ !stemless!A,/ !stemless!C/ !stemless!A,/ z/ .!stemless!A, !stemless!A,/ | %35
+ z/ !stemless!C/ !stemless!^F/ !stemless!A/ !stemless!F/ !stemless!C/ !stemless!F/ !stemless!C/ z/ .!stemless!C !stemless!C/ | %36
+ z/ !stemless!=B,/ !stemless!D/ !stemless!G/ !stemless!D/[K:bass] !stemless!B,/ !stemless!D/ !stemless!B,/ z/ .!stemless!B, !stemless!B,/ | %37
+ z/ !stemless!=B,/[K:treble] !stemless!D/ !stemless!G/ !stemless!D/ !stemless!B,/ !stemless!D/[K:bass] !stemless!B,/ z/ .!stemless!B, !stemless!B,/ | %38
+ z/ !stemless!G,/ !stemless!C/[K:treble] !stemless!E/ !stemless!C/ !stemless!G,/ !stemless!C/ !stemless!G,/ z/[K:bass] .!stemless!G, !stemless!G,/ | %39
+ z/ !stemless!^F,/ !stemless!C/ !stemless!E/ !stemless!C/ !stemless!F,/ !stemless!C/ !stemless!F,/ z/ .!stemless!F, !stemless!F,/ | %40
+ z/ !stemless!^F,/ !stemless!C/ !stemless!E/ !stemless!C/ !stemless!F,/ !stemless!C/ !stemless!F,/ z/ .!stemless!F, !stemless!F,/ | %41
+ z/ !stemless!G,/ !stemless!=B,/ !stemless!D/ !stemless!B,/ !stemless!G,/ !stemless!B,/[K:treble] !stemless!D/ !stemless!E/ !stemless!C/ !stemless!A,/ !stemless!^F/ | %42
+ !stemless![=B,DG]2 z2 z2 |] %43
+V:4
+ !5!C,2 x2 !4!G, !5!E, | !5!C,2 x2 !4!G, !5!E, | !5!C,2 x2 !4!_A, !4!F, | !5!C,2 x2 !4!_A, !4!F, | %4
+ !stemless!C,2 z2[K:bass] !stemless!_A, !stemless!F, | %5
+ !stemless!C,2[K:treble] z2[K:bass] !stemless!_A, !stemless!F, | %6
+ !stemless!C,2[K:treble] z2 !stemless!E,[K:bass] !stemless!C, | %7
+ !stemless!B,,2 z2 !stemless!E, !stemless!C, | %8
+ !stemless!_A,,2[K:treble] z2[K:bass] !stemless!E, !stemless!C, | %9
+ !stemless!G,,2[K:treble] z2 !stemless!E,[K:bass] !stemless!C, | %10
+ !stemless!^F,,2 z2 !stemless!E, !stemless!C, | %11
+ !stemless!^F,,2[K:treble] z2[K:bass] !stemless!^F, !stemless!D, | %12
+ !stemless!G,,2 z2 !stemless!D, !stemless!B,, | !stemless!G,,2 z2 !stemless!B,, !stemless!G,, | %14
+ !stemless!E,,2[K:treble] z2[K:bass] !stemless!G, !stemless!E, | %15
+ !stemless!C,2[K:treble] z2 !stemless!C, !stemless!A,, | %16
+ !stemless!D,,2 z2[K:bass] !stemless!D, !stemless!A,, | %17
+ !stemless!D,,2[K:treble] z2[K:bass] !stemless!C, !stemless!A,, | %18
+ !stemless!D,,2[K:treble] z2 !stemless!D, !stemless!B,, | %19
+ !stemless!D,,2 z2 !stemless!E, !stemless!C, | !stemless!D,,2 z2 !stemless!G, !stemless!D, | %21
+ !stemless!D,,2 z2 !stemless!A, !stemless!^F, | !stemless!E,,2 z2 !stemless!G, !stemless!E, | %23
+ !stemless!D,,2 z2 !stemless!^F, !stemless!D, | %24
+ !stemless!D,,2 z2[K:bass] !stemless!=E, !stemless!_D, | %25
+ !stemless!D,,2[K:treble] z2[K:bass] !stemless!E, !stemless!C, | %26
+ !stemless!D,,2[K:treble] z2 !stemless!D,[K:bass] !stemless!A,, | %27
+ !stemless!D,,2 z2 !stemless!_D, !stemless!B,, | !stemless!D,,2 z2 !stemless!C, !stemless!A,, | %29
+ !stemless!D,,2 z2 !stemless!B,, !stemless!G,, | !stemless!D,,2 z2 !stemless!E, !stemless!C, | %31
+ !stemless!D,,2 z2 !stemless!D, !stemless!A,, | !stemless!G,,2 z2 !stemless!E, !stemless!C, | %33
+ !stemless!G,,2 z2 !stemless!D, !stemless!=B,, | %34
+ !stemless!G,,2[K:treble] z2 !stemless!E, !stemless!C, | %35
+ !stemless!G,,2 z2 !stemless!E, !stemless!C, | %36
+ !stemless!G,,2 z2[K:bass] !stemless!G, !stemless!D, | %37
+ !stemless!G,,2[K:treble] z2[K:bass] !stemless!_A, !stemless!F, | %38
+ !stemless!G,,2[K:treble] z2 !stemless!E,[K:bass] !stemless!C, | %39
+ !stemless!G,,2 z2 !stemless!E, !stemless!C, | !stemless!G,,2 z2 !stemless!E, !stemless!C, | %41
+ !stemless!G,,2 z2[K:treble] z2 | !stemless!G,,2 z2 z2 |] %43
+V:5
+ !5!C,2 x2 !4!G, !5!E, | !5!C,2 x2 !4!G, !5!E, | !5!C,2 x2 !4!_A, !4!F, | !5!C,2 x2 !4!_A, !4!F, | %4
+ !5!C,2 x2 !4!_A, !4!F, | !5!C,2 x2 !4!_A, !4!F, | !5!C,2 x2 !5!E, !5!C, | !6!B,,2 x2 !5!E, !5!C, | %8
+ !6!_A,,2 x2 !5!E, !5!C, | !6!G,,2 x2 !5!E, !5!C, | !7!^F,,2 x2 !5!E, !5!C, | %11
+ !7!^F,,2 x2 !4!^F, !5!D, | !6!G,,2 x2 !5!D, !6!B,, | !6!G,,2 x2 !6!B,, !6!G,, | %14
+ !7!E,,2 x2 !4!G, !5!E, | !5!C,2 x2 !5!C, !6!A,, | !7!D,,2 x2 !5!D, !6!A,, | %17
+ !7!D,,2 x2 !5!C, !6!A,, | !7!D,,2 x2 !5!D, !6!B,, | !7!D,,2 x2 !5!E, !5!C, | %20
+ !7!D,,2 x2 !4!G, !5!D, | !7!D,,2 x2 !3!A, !4!^F, | !7!E,,2 x2 !4!G, !5!E, | %23
+ !7!D,,2 x2 !4!^F, !5!D, | !7!D,,2 x2 !5!=E, !5!_D, | !7!D,,2 x2 !5!E, !5!C, | %26
+ !7!D,,2 x2 !5!D, !6!A,, | !7!D,,2 x2 !5!_D, !6!B,, | !7!D,,2 x2 !5!C, !6!A,, | %29
+ !7!D,,2 x2 !6!B,, !6!G,, | !7!D,,2 x2 !5!E, !5!C, | !7!D,,2 x2 !5!D, !6!A,, | %32
+ !6!G,,2 x2 !5!E, !5!C, | !6!G,,2 x2 !5!D, !6!=B,, | !6!G,,2 x2 !5!E, !5!C, | %35
+ !6!G,,2 x2 !5!E, !5!C, | !6!G,,2 x2 !4!G, !5!D, | !6!G,,2 x2 !4!_A, !4!F, | %38
+ !6!G,,2 x2 !5!E, !5!C, | !6!G,,2 x2 !5!E, !5!C, | !6!G,,2 x2 !5!E, !5!C, | !6!G,,2 x2 x2 | %42
+ !6!G,,2 x2 x2 |] %43
+

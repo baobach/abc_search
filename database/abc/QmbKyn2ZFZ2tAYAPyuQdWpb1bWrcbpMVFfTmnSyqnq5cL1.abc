@@ -1,0 +1,55 @@
+X:1
+T:Sonatina
+T:Sonatina
+T:Op. 157, No. 1
+T:Fritz Spindler
+T:Public Domain (PianoXML typesetter)
+T:Public Domain (PianoXML typesetter)
+C:Fritz Spindler
+Z:Public Domain (PianoXML typesetter)
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=115
+M:2/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^Allegro"!mf! (!2!c/d/e/c/ | .d).G (!2!d/e/f/d/ | .e).c (!2!e/f/g/e/ | .!5!a).g.f.e | %4
+ !tenuto!d2 (c/d/e/c/ | .d).G (d/e/f/d/ | .e).c (e/g/^f/e/ | .d).c.B.A | %8
+ !tenuto!G2!p!!8va(! (c'/d'/e'/c'/ | .d').g (d'/e'/f'/d'/ | .e').c' (e'/f'/g'/e'/ | .a').g'.f'.e' | %12
+ !tenuto!d'2 (c'/d'/e'/c'/ | .d').g (d'/e'/f'/d'/ | .e').c' (e'/g'/^f'/e'/ | .d').c'.b.a | %16
+ !tenuto!g2!8va)!!p! (!1!G/A/B/G/ | .B).A (A/B/c/A/ | .c).B (B/c/d/B/ | .d).c (c'^f | %20
+ g2)!f! (c'^f | .a).g!p! (c'^f | g2)!f! z .[GA] | ([GA]F) z .[FG] | ([FG]E) z .[eg] | %25
+ z .[df] .[ce] .[Bd] | !tenuto!c2!p! (G/A/B/G/ | .B).A (A/B/c/A/ | .c).B (B/c/d/B/ | .d).c (c'^f | %30
+ g2)!f! (c'^f | .a).g!>(! (c'^f | g2)!>)!!f! z .[GA] | ([GA]F) z .[FG] | ([FG]E) z .[eg] | %35
+ z .[df] .[ce] .[Bd] | !tenuto!c2 |][M:6/8]"^Tarantella"[Q:1/8=400]"^Vivace"!f! (!1!cde def | %38
+ efg g2) z | (!5!gfe def | edc c2) z |!p! (c'd'e' d'e'f' | e'f'g' g'2) z |!f! (!4!c'ba !1!g!4!^fe | %44
+ !2!^de^f !1!gab | !4!c'ba g!4!^fe | ^de^f !3!e2) z | (!4!=fgf efe | ded ceg | fgf efe | ded ceg | %51
+ fgf efe | ded c!2!d!1!c | !3!B!4!cB ABA | G2) z!f! (!2!_A_BA | G2) z!p! (_A_BA | G2) z!f! (_A_BA | %57
+ G2) z (!5!=A3 | !1!D3 E3 | F3 !1!G3 | A3 !fermata!B3) |!f! (cde def | efg g2) z | (gfe def | %64
+ edc c2) z |!8va(! (c'd'e' d'e'f' | e'f'g' g'2) z | (!2!a'!<(!b'c''!<)! !fermata!c''3) | %68
+!f! (!5!g'f'e' d'e'd' | c')(!3!e'd' c'!4!ba!8va)! | gf!3!e ded | c)(!3!ed c!4!BA | GF!3!E DED | %73
+ !1!CDE !1!DEF | !1!EFG G2) z |!<(! (!2!FG_A A2) z | (!2!^F=Ac c2) z | (!1!B!2!d!5!g g2)!<)! z | %78
+!ff! (!1!ceg Bdg | ceg Bdg | cag Bag | cag Bag | c2) z z z2 |!f! [egc']2 z z z2 | %84
+ !fermata![EGc]6 |] %85
+V:2
+ (!2!!1![CE]G, | [B,F]G,[B,F]G, | [CE]G,[CE]G, | .!1!F).E.D.C | !tenuto!B,2 ([CE]G, | %5
+ [B,F]G,[B,F]G, | [CE]G,CA, | .!3!B,).C.D.D, | !tenuto!G,2 ([CE]G, | [B,F]G,[B,F]G, | %10
+ [CE]G,[CE]G, | .F).E.D.C | !tenuto!B,2 ([CE]G, | [B,F]G,[B,F]G, | [CE]G,CA, | .B,).C.D.D, | %16
+ !tenuto!G,2 (!1!B,G, | CG,CG, | DG,DG, | _EG,[A,C]G, | [B,D]G,[C_E]G, | [B,D]G,[A,C]G, | %22
+ [B,D]2) (A,/B,/^C/A,/ | ED) (G,/A,/B,/G,/ | D=C) (C,/D,/E,/C,/ | D,/E,/F,/D,/ .G,) .G,, | %26
+ !tenuto!C,2 (B,G, | CG,CG, | DG,DG, | _EG,[A,C]G, | [B,D]G,[C_E]G, | [B,D]G,[A,C]G, | %32
+ [B,D]2) (A,/B,/^C/A,/ | ED) (G,/A,/B,/G,/ | DC) (C,/D,/E,/C,/ | D,/E,/F,/D,/ .G,) .G,, | %36
+ !tenuto!C,2 |][M:6/8] .[CE]2 z .[G,D]2 z | [CE]3- [CE]2 z | .[CE]2 z .[G,D]2 z | [CE]3- [CE]2 z | %41
+ .[CE]2 z .[G,D]2 z | [CE]3- [CE]2 z | (!2!A,3 !1!B,3 | !5!B,,3 !3!E,!2!^F,!1!G, | !2!A,3 !1!B,3 | %46
+ !5!B,,^C,^D, E,2) z | .[G,D]2 z .[CE]2 z | .[G,D]2 z .[CE]2 z | .[G,D]2 z .[CE]2 z | %50
+ .[G,D]2 z .[CE]2 z | .[G,D]2 z (!3!C3 | !1!F3 E3 | !3!D3 !4!C3 | !5!B,2) z (([F,C]3 | %55
+ [G,B,]2)) z ((([F,C]3 | [G,B,]2))) z (([F,C]3 | [G,B,]2)) z (!1!C3 | !3!B,3 ^C3 | D3 !3!E3 | %60
+ F3 !fermata!D3) | .[CE]2 z .[G,D]2 z | [CE]3- [CE]2 z | .[CE]2 z .[G,D]2 z | [CE]3- [CE]2 z | %65
+!p! .[CE]2 z .[G,D]2 z | [CE]3- [CE]2 z | [^F,CD]3- !fermata![F,CD]3 | .[E,CE]2 z .[G,B,F]2 z | %69
+ !tenuto![CE]2 z z2 z | z2 z .[G,B,F]2 z | !tenuto![CE]2 z z2 z | z2 z .[G,,B,,F,]2 z | %73
+ (C,D,E, D,E,F, | E,F,G, G,2) z | (F,G,_A, A,2) z | (^F,=A,C C2) z | [G,DF]3- [G,DF]2 z | %78
+ .[CE]2 z .[G,D]2 z | .[CE]2 z .[G,D]2 z | .[CE]2 z .[G,D]2 z | .[CE]2 z .[G,D]2 z | [CE]2 z z z2 | %83
+ [C,G,]2 z z z2 | !fermata![C,G,]6 |] %85
+

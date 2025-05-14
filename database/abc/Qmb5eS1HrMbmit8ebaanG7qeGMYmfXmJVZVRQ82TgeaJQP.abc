@@ -1,0 +1,27 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=120
+M:4/4
+K:Eb
+V:1 treble nm="Grand Piano, Treble Clef       "
+V:2 treble 
+V:3 bass nm="Grand Piano, Bass Clef         "
+V:4 bass 
+V:1
+ [EG]4 [CE]2 [CE]2 | [DF]6 [EG]2 | [EA]2 [EA]2 [EG]4 | [EB]4 [Ec]2 [DB]2 | %4
+ [EG]2 [CF]2 [B,G]2 [EB]2 | [EA]2 [EG]2 F2- [DF]2 | E4 z4 | [EB]4 [Ec]2 [Fd]2 | [Ge]6 [FB]2 | %9
+ [EG]2 [E=A]2 [DB]4 | E4 [EA]2 [EG]2 | [DF]2 [EB]2 [Ec]2 [DB]2 | [CA]2 [EG]2 F2- [DF]2 | E4 z4 | %14
+ [CE]4 [B,E]4 |] %15
+V:2
+ x8 | x8 | x8 | x8 | x8 | z4 E2 z2 | x8 | x8 | x8 | x8 | x8 | x8 | z4 E2 z2 | x8 | x8 |] %15
+V:3
+ B,4 A,2 G,2 | B,6 B,2 | C2 C2 B,4 | G,4 A,2 F,2 | E,2 F,2 E,2 B,2 | C2 B,2 B,4 | G,4 z4 | %7
+ G,4 G,2 B,2 | B,6 B,2 | B,2 E,2 F,4 | B,4 C2 B,2 | B,2 B,2 A,2 F,2 | F,2 B,2 B,4 | G,4 z4 | %14
+ A,4 G,4 |] %15
+V:4
+ E,4 A,,2 C,2 | B,,6 E,2 | C,2 A,,2 E,4 | E,4 A,,2 B,,2 | C,2 D,2 z2 G,,2 | A,,2 E,2 B,,4 | %6
+ E,,4 z4 | E,4 C,2 B,,2 | E,6 D,2 | E,2 C,2 B,,4 | G,,4 A,,2 E,2 | B,,2 G,,2 A,,2 B,,2 | %12
+ F,,2 G,,2 B,,4 | E,,4 z4 | A,,4 E,,4 |] %15
+

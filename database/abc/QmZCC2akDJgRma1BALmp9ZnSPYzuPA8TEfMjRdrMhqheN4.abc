@@ -1,0 +1,35 @@
+X:1
+T:Zwölf Gesänge
+T:Der Spinnerin Nachtlied
+T:9. Der Spinnerin Nachtlied
+T:Louise Reichardt
+T:Clemens Brentano
+T:Zwölf Gesänge
+T:OpenScore (CC0)
+C:Louise Reichardt
+Z:Clemens Brentano
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=70
+M:2/4
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:4 bass 
+V:1
+"^Sehr herzlich" C | F F A A | G G z B | A F B A | G3 G | A A d c | =B3 c | A/ G/ A/ B/ (AG) | %8
+w: 1.~Es|sang vor lan- gen|Iah- ren wohl|auch die Nach- ti-|gall! das|war wohl süs- ser|Schall, da|wir zu- sam- men wa- *|
+ F3 :| z2 z |] %10
+w: ren.||
+V:2
+ z | F/C/F/C/ [FA]/C/[FA]/C/ | [=EG]/C/[EG]/C/ [Ec]/C/[GB]/C/ | [FA]/C/F/C/ [=EB]/C/[FA]/C/ | %4
+ [=EG]/C/[EG]/C/ [EG]/C/[EG]/C/ | [FA]/C/[FA]/D/ [Fd]/A/[Fc]/A/ | [=D=B]/A/[DB]/A/ [DB]/A/[Cc]/G/ | %7
+ [FA]/C/[FA]/C/ [FA]/C/[=EG]/C/ | F/C/F/C/ F/C/ :|"^Zum Schlus." [CF]2 z |] %10
+V:3
+ z | [F,,F,]2 [F,,F,]2 | [C,,C,]2 C,=E, | F,A,G,F, | C,2 C,2 | F,2 F,2 | F,3 =E, | F,2 C,C, | %8
+ [F,,F,]2 z :| [F,,F,]2 z |] %10
+V:4
+ x | A,/ x/ A,/ x/ x2 | x4 | x4 | x4 | x4 | x4 | x4 | A,/ x/ A,/ x/ x :| A,2 x |] %10
+

@@ -1,0 +1,30 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=110
+M:4/4
+K:G
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 bass nm="Choir Pad, Saxony (Hammerschmidt)"
+V:4 bass 
+V:1
+ [EG]2 [CG]2 [CA]2 [DA]2 | B2 z2 z4 | [Gd]2 [Dd]2 [Ec]2 [Fc]2 | z2 A2 A4 | G8 | %5
+w: By~Andreas~Hammerschmidt,~1658 * * *|||||
+ [EG]2 [CG]2 [CA]2 [DA]2 | B2 z2 z4 | [Gd]2 [Dd]2 [Ec]2 [Fc]2 | z2 B2 A4 | G8 | %10
+w: |||||
+ [Ec]2 [Fc]2 [GB]2 [DB]2 | [EA]2 [DA]2 [B,G]4 | z4 =F2 z2 | [CD]2 [B,D]2 C4- | C4 z4 |] %15
+w: |||||
+V:2
+ x8 | DE [=FB]2 [Ec]4 | x8 | [GB]2 G4 F2 | x8 | x8 | DE [=FB]2 [Ec]4 | x8 | [GB]2 G4 F2 | x8 | x8 | %11
+ x8 | [CG]2 [CG]2 A,B, [CE]2 | x8 | x8 |] %15
+V:3
+ C2 G,2 =F,2 F,2 | G,2 G,2 G,4 | B,2 G,2 G,2[K:treble] C2 | D2 D2 D4 | B,8 | %5
+ C2[K:bass] G,2 =F,2 F,2 | G,2 G,2 G,4 | B,2 G,2 G,2[K:treble] C2 | D2 D2 D4 | B,8 | %10
+ A,2 C2 D2[K:bass] G,2 | G,2 F,2 G,4 | G,2 E,2 =F,2 G,2 | A,2 G,2 E,4- | E,4 z4 |] %15
+V:4
+ C,2 E,2 z2 D,2 | z2 G,,2 C,4 | G,,2 B,,2 C,2 A,,2 | B,,2 G,,2 D,4 | G,,8 | C,2 E,2 z2 D,2 | %6
+ z2 G,,2 C,4 | G,,2 B,,2 C,2 A,,2 | B,,2 G,,2 D,4 | G,,8 | A,,2 A,,2 G,,2 B,,2 | C,2 D,2 G,,4 | %12
+ E,2 C,2 D,2 C,2 | =F,,2 G,,2 C,4- | C,4 z4 |] %15
+

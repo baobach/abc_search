@@ -1,0 +1,85 @@
+X:1
+T:Telemann - Viola Concerto 1st Movement 
+T:Mehrzad Zamini
+T:Lagro
+%%score ( 1 2 ) { ( 3 5 ) | ( 4 6 ) }
+L:1/8
+Q:1/4=104
+M:3/2
+K:G
+V:1 alto nm="Viola, Viola" snm="Vla."
+V:2 alto 
+V:3 treble nm="Piano, Piano" snm="Pno."
+V:5 treble 
+V:4 bass 
+V:6 bass 
+V:1
+ z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z4 B,3 C D4 | G,4 E3 F G4 | .C4 .C4 .C4 | %11
+ C3 A, B,4 z4 | z4 G3 A B4 | E4 F3 G A4 | D4 E3 F G4 | ^C3 A, D3 A, E3 A, | F3 D G3 D A3 D | %17
+ z4 z2 z z/4 z/8 F/8-F/8 z/8 z/4 z4 | D8 z4 | z12 | z12 | z4 F3 G A4 | D4 G3 A B4 | E4 c3 A F3 A | %24
+ ^D3 B, E3 B, F3 B, | G3 E A3 E B3 E | c3 A =F6 EF | E3 ^G B3 d c3 B | %28
+ c3 E/-(3E/4 z/4 c/4 (7:8:7B/4c/4B/4c/4B/4c/4B/4 c/4B/4c/4B/4 (7:8:5z/16 .c3/16B/4c3/16B3/16 z/8 .c3/8 (3z/4 c/4 z/4 .B/4c/4.B/ A2 | %29
+ A4 z4 z4 | z12 | z12 | z12 | z4 A3 B c4 | B4 G,3 A, B,4 | E,4 G3 A B4 | A4 F,3 G, A,4 | %37
+ D,4 B3 G e4 | z4 A3 F d4 | z4 G3 E c4 | F3 D G3 D A3 D | B3 G c3 G d3 G | %42
+ e3 E/ z/4 z/8 G/8 (7:8:7F/4G/4F/4G/4F/4G/4F/4 G/4F/4G/4F/4 (7:8:5z/16 .G3/16F/4G3/16F3/16 z/8 G/4F/8-(3:2:4F/8 z/8 G/4 z/4 .F/4G/4.F/ G2 | %43
+ G4 E,3 F, G,4 | C,4[Q:1/4=104] F,3 G,[Q:1/4=104] A,4[Q:1/4=12][Q:1/4=12] | %45
+ (3D,F,A, C2 (3F,A,C ED ^CD (3FAc | ed^cd (3=cFA (3cdf c'4[Q:1/4=12] | %47
+[Q:1/4=104] z2 z D F3 A c2 BA | %48
+ d3 c/ z/4 z/8 B/8 (7:8:7A/4B/4A/4B/4A/4B/4A/4 B/4A/4B/4A/4 (7:8:5z/16 .B3/16A/4B3/16A3/16 z/8 B/4A/8-(3:2:4A/8 z/8 B/4 z/4 .A/4B/4.A/ G2 | %49
+ G4 z4 z4 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | %57
+ z12[Q:1/4=102][Q:1/4=101][Q:1/4=99][Q:1/4=98][Q:1/4=96][Q:1/4=95][Q:1/4=93][Q:1/4=92][Q:1/4=90][Q:1/4=89][Q:1/4=87][Q:1/4=86][Q:1/4=84][Q:1/4=83][Q:1/4=81][Q:1/4=80] | %58
+[Q:1/4=78] z12[Q:1/4=12][Q:1/4=78] |] %59
+V:2
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %16
+ x12 | %17
+ B3 G/ z/4 z/8 F/8 (3E/F/E/(3F/.E/.F/ E/4F/4(3:2:2E/F/4 z/8 .E3/8 (3:2:2z/4 E/ (5:4:4F/4 z/8 E3/8F/E/4F/4 z/8 .E3/8 D2 | %18
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | z4 z4 z/4 z/8 B/8-B/8 z/8 z/4 z z2 | %29
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %45
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 |] %59
+V:3
+ [G,B,DG]4 z4 [DAd]4 | [B,G]4 e3 f [GBg]4 | .[EAc]4 .[Ac]3 G .[Fc]3 A | z4 z4 e4- | e4 z4 d4- | %5
+ d4 z4 z4 | f3 e d3 .[cf] [Bg]3 .f | [ca]3 g [Adf]6 [dg]2 | [GBdg]4 z4 [A,DA]4 | %9
+ [B,EG]4 z4 [B,EG]4 | [CEG]4 z4 C4- | [CDG]4 G4 [DGB]4 | [G,E]4 z4 [B,^D]4 | [B,E]4 z4 [CFc]4 | %14
+ [DFB]4 z4 [B,EB]4 | [^CEA]4 z4 [CEA]4 | [DFA]4 z4 [FAd]4 | [EBd]4 [EA^c]8 | [FAd]4 f3 g [Aea]4 | %19
+ [FBd]4 b3 ^c' [dfd']4 | z4 e4 g4 | [Ag]4 [df]4 [A,DF]4 | [G,DG]4 z4 [B,DG]4 | [CEG]4 z4 [CFA]4 | %24
+ [B,^DF]4 z4 [DFB]4 | [EGB]4 z4 [B,EG]4 | [CEA]4 z4 [D=F]4 | [DE]4 z4 [CEA]4 | [C=FA]4 [B,E^G]8 | %29
+ [^CEA]4 ^c3 d [EAe]4 | [DFA]4 f3 ^g [Ada]4 | [GBd]4 g3 a [Bdb]4 | [Ada]4 [Bdg]4 [A^cg]4 | %33
+ [Adf]4 z4 [DAc]4 | [DGB]4 z4[K:bass] [D,B,]4 | [E,G,]4 z4[K:treble] [DB]4 | %36
+ [FA]4 z4[K:bass] [F,A,]4 | [D,G,]4 z4[K:treble] [EB]4 | [EA]4 z4 [DA]4 | [DG]4 z4 [CG]4 | %40
+ [A,FA]4 z4 [Fd]4 | [GB]4 z4 [DGd]4 | [Ec]4 [DFA]8 | [B,EG]4 z4 [B,EG]4 | [CF]8 z4 | z12 | z12 | %47
+ [A,DF]12 | [G,DG]4 [A,DF]8 | [B,DG]4 B3 c [DAd]4 | [B,EG]4 g3 a [Bfb]4 | [Aea]4 z4 [^cg]4 | %52
+ g4 z4 b4- | b4 z4 a4- | a4 z4 z4 | .[Ec]3 B .[Ac]3 G .[Fc]3 E | D3- [DA] B3 c d3 g | e3 c z4 D,4 | %58
+ [B,DG]12 |] %59
+V:4
+ G,,4[K:treble] B3 c[K:bass] [F,,F,]4 | [E,,E,]4 z4 [E,,E,]4 | A,,3 G,, F,,3 E,, D,,3 F,, | %3
+ z2 z[K:treble] A D4[K:bass] [G,,G,]4 | [F,,F,]4 z4 [F,,F,]4 | [E,,E,]4 z4 [E,E]4 | %6
+ [D,D]3 [C,C] [B,,B,]3 [A,,A,] z2 z .A | z2 z[K:treble] B[K:bass] D,4 z2[K:treble] B2 | %8
+ G,,4 z4 F,,4 | E,,4 z4 [E,,E,]4 | A,,4 z4 [D,,D,]4 | G,,4 B,3 A G,,4 | C,4 z4 B,,4 | C,4 z4 A,,4 | %14
+ B,,4 z4 G,,4 | A,,4 z4 A,,4 | D,4 z4 D,4 | G,4 A,4 A,,4 | [D,,D,]4 z4 [^C,,^C,]4 | %19
+ [B,,,B,,]4 z4 [B,,,B,,]4 | [E,,E,]3 [D,,D,] [^C,,^C,]3 [B,,,B,,] [A,,,A,,]3 [C,,C,] | %21
+ z2 z[K:treble] e A4[K:bass] C,4 | B,,4 z4 G,,4 | C,4 z4 A,,4 | B,,4 z4 B,,4 | E,4 z4 E,4 | %26
+ A,,4 z4 B,,4 | ^G,,4 z4 A,,4 | D,4 E,4 E,,4 | [A,,,A,,]4 z4 [^C,,^C,]4 | [D,,D,]4 z4 [F,,F,]4 | %31
+ [G,,G,]4 z4 [G,,G,]4 | [F,,F,]4 z2 z[K:treble] f z2 z a | [D,,D,]4[K:treble] A3 B[K:bass] F,4 | %34
+ G,4 z4 G,,4 | C,4[K:treble] G3 A[K:bass] G,,4 | D,4 z4 C,,4 | B,,,4 z4 G,,4 | F,,4 z4 F,,4 | %39
+ E,,4 z4 [E,,E,]4 | [D,,D,]4 z4 [D,D]4 | [G,D]4 z4 [B,,G,]4 | z2 z[K:treble] B[K:bass] D,4 z2 G2 | %43
+ E,,4 z4 E,,4 | A,,8 z4 | z12 | z12 | [C,,C,]8 [A,,,A,,]4 | [B,,,B,,]3 [C,,C,] [D,,D,]4 [D,,D,]4 | %49
+ [G,,,G,,]4 z4 [F,,F,]4 | [E,,E,]4 z4 [D,,D,]4 | [^C,,^C,]4[K:treble] g3 f[K:bass] z2 z a | %52
+ [D,,D,]4 z4 [D,D]4 | [C,C]4 z4 [C,C]4 | [B,,B,]4 z4 [B,,B,]4 | [A,,A,]3 G, F,3 E, D,3 C, | %56
+ z2 z[K:treble] F G4[K:bass] [B,,,B,,]4 | [C,,C,]4 [D,,D,]4 z2 G2 | [G,,,G,,]12 |] %59
+V:5
+ x12 | x12 | x12 | [Dc]4 B3 G [EB]4 | [DA]4 A3 F [DA]4 | [DG]4 g3 e [cgc']4 | A4 z4 z4 | e4 z4 z4 | %8
+ x12 | x12 | z4 z4 [DF]4 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %20
+ .[Beg]4 g3- [dg] ^c3 e | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %33
+ x12 | x8[K:bass] x4 | x8[K:treble] x4 | x8[K:bass] x4 | x8[K:treble] x4 | x12 | x12 | x12 | x12 | %42
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | A3- [Ae] f3 d [Bf]4 | %53
+ [Be]4 e3 c [Ae]4 | [Ad]4 d3 B [Gdg]4 | x12 | [Ac]4 z4 G4- | G4 [DFA]8 | x12 |] %59
+V:6
+ x4[K:treble] x4[K:bass] x4 | x12 | x12 | G,,4[K:treble] z4[K:bass] z4 | x12 | x12 | %6
+ z4 z4 [G,,G,]4 | C,4[K:treble][K:bass] z4 D,,4[K:treble] | x12 | x12 | x12 | x12 | x12 | x12 | %14
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | [D,,D,]4[K:treble] z4[K:bass] z4 | x12 | x12 | x12 | %25
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | z4 [E,,E,]4[K:treble] A,,4 | %33
+ x4[K:treble] x4[K:bass] x4 | x12 | x4[K:treble] x4[K:bass] x4 | x12 | x12 | x12 | x12 | x12 | %41
+ x12 | [C,G,]4[K:treble][K:bass] z4 D,,4 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %51
+ z4[K:treble] z4[K:bass] A,,4 | x12 | x12 | x12 | x12 | B,,8[K:treble][K:bass] z4 | z4 z4 D,,4 | %58
+ x12 |] %59
+

@@ -1,0 +1,94 @@
+X:1
+T:Etude No. 2 Op. 10 Fredric Chopin
+T:Etude No. 2 Op. 10 Fredric Chopin
+T:Fredric Chopin
+T:Fredric Chopin
+T:Fredric Chopin
+T:Fredric Chopin
+T:Fredric Chopin
+T:Fredric Chopin
+T:Fredric Chopin
+T:Fredric Chopin
+T:Fredric Chopin
+C:Fredric Chopin
+Z:Fredric Chopin
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=144
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ [CEA]/^A/B/c/ [E=A^c]/d/^d/e/"_cresc." [^A=df]/^f/g/^g/ [^d=fa]/^a/b/=c'/ | %1
+ [e=a^c']/d'/^d'/e'/ [a=c'f']/e'/d'/=d'/ [ea^c']/=c'/b/_b/ [=cea]/^g/=b/a/ | %2
+ [Be^g]/=g/^f/=f/ [^GBe]/^d/f/e/ [Acd]/=d/^c/=c/ [EAB]/c/d/c/ | %3
+ [E^GB]/c/B/c/ [^DAB]/c/B/c/ [EGB]/e/^d/=d/ [=DG^c]/=c/B/_B/ | %4
+ [CEA]/^A/B/c/ [E=A^c]/d/^d/e/"_cresc." [A=df]/^f/g/^g/ [d=fa]/^a/b/=c'/ | %5
+ [e=a^c']/d'/^d'/e'/ [a=c'f']/e'/d'/=d'/ [ea^c']/=c'/b/_b/ [=cea]/^g/=b/a/ | %6
+ [Be=g]/^g/a/^a/ [e=gb]/c'/b/a/ [^d^f=a]/^g/=g/f/ [Ad^e]/f/g/f/ | %7
+!>(! [^GB=e]/=f/^d/e/"_dim." [FA=d]/e/^c/d/ [EA=c]/d/B/d/ [DGB]/c/^A/B/!>)! | %8
+ [CE=A]/^A/B/c/ [E=A^c]/d/^d/e/"_cresc." [A=df]/^f/g/^g/ [d=fa]/^a/b/=c'/ | %9
+ [e=a^c']/d'/^d'/e'/ [a=c'f']/c'/b/=b/ [ea^c']/=c'/b/_b/ [=cea]/^g/=b/a/ | %10
+ [Be^g]/=g/^f/=f/ [^GBe]/^d/f/e/ [Acd]/=d/^c/=c/ [EAB]/c/d/c/ | %11
+ [E^GB]/c/B/c/!>(! [^DAB]/c/B/c/ [EGB]/e/^d/=d/ [=DG^c]/=c/B/_B/!>)! | %12
+ [CEA]/^A/=B/c/ [E=A^c]/d/^d/e/ [A=df]/^f/g/^g/ [d=fa]/^a/b/=c'/ | %13
+ [e=a^c']/d'/^d'/e'/ [a=c'f']/e'/d'/=d'/ [ea^c']/=c'/b/_b/ [=cea]/^g/=b/a/ | %14
+ [df_b]/=b/c'/^c'/!8va(! [f_bd']/^d'/e'/f'/ [^gd'=e']/"_cresc."f'/^f'/=g'/ [d'^g']/a'/^a'/=b'/!8va)! | %15
+!8va(! [c'=f'=a']/^g'/=g'/^f'/ [ac'=f']/e'/_e'/d'/ [=ea^c']/=c'/b/_b/ [=c'e'a']/^g'/=g'/^f'/!8va)! | %16
+ [_Bd=f]/e/_e/d/!>(! [FB^c]/d/f/d/ [=EA=B]/"_dim."=c/=e/c/ [D^G^A]/B/e/B/!>)! | %17
+!<(! [CE=A]/^A/B/c/ [E^G^c]/d/^d/e/ ([=A=c=a]/^g/!>(!=g/^f/ =f/e/_e/=d/)!<)!!>)! | %18
+!p! [E_B_d]/c/=B/c/ [F_B^c]/=d/^d/e/ [Af]/^f/g/^g/ [=ca]/e/=f/=d/ | %19
+ [_B_d]/c/=B/c/ [E_B^c]/"_cresc."=d/^d/e/ [F_Af]/^f/g/_a/ [=Bg]/f/=f/e/ | %20
+ [c_e]/d/^c/d/ [^F=ce]/=e/f/^f/ [_Bg]/^g/a/_b/ [da]/f/=g/_e/ | %21
+ [cd]/_e/^c/d/ [^F=ce]/=e/f/^f/ [G_Bg]/^g/a/_b/ [^ca]/g/=g/^g/ | %22
+"_cresc." [d=f]/e/^d/e/ [^G=df]/^f/=g/^g/ [=ca]/^a/b/c'/ [eb]/_b/=a/^g/ | %23
+ [d=g]/^f/=f/e/!<(! [^Gdf]/^f/=g/^g/ [ca]/^a/b/c'/ [e=a^c']/d'/^d'/e'/!<)! | %24
+!f! [af']/e'/_e'/d'/ [fa^c']/=c'/b/_b/ [dfa]/^g/=g/^f/!>(! [^Gd=f]/=e/^d/e/!>)! | %25
+ [=g_e']/d'/^c'/=c'/ [_eg=b]/_b/a/^g/ [ce=g]/^f/=f/=e/ [^Fc_e]/d/^c/d/ | %26
+ [g_bd']/^c'/=c'/=b/"_cresc." [^cg_b]/a/_a/g/ [=Ad^f]/g/^g/=a/ [=c=fb]/=b/c'/b/ | %27
+ [fad']/c'/_b/a/ [=Bf_a]/g/^f/=f/ [Gce]/f/^f/g/ [_B_e^g]/=a/_b/a/ | %28
+ [_e=gc']/_b/a/!f!_a/ [_Beg]/!>(!^f/=f/=e/ [GB_e]/d/_d/c/ [^CG_B]/=A/^G/=G/!>)! | %29
+ [A,D^F]/G/!p!^G/A/ [^C=G_B]/A/^G/=G/ [A,DF]/G/^G/A/ [C=GB]/A/^G/=G/ | %30
+ [A,D^F]/G/^G/A/!>(! [^D=c]/B/_B/A/ [=B,EG]/!>(!A/^A/=B/ [D=Ac]/B/_B/A/!>)!!>)! | %31
+ [=B,E^G]!>(! z [^gbe']/f'/=d'/e'/ [eac']/d'/b/c'/ [cea]/b/=g/a/!>)! | %32
+ [Acf]/g/e/(f/ [fad']/)!>(!e'/c'/d'/ [dfb]/c'/a/b/ [Bd^g]/a/f/=g/!>)! | %33
+ [^GBe]/f/^d/e/!>(! [eac']/=d'/b/c'/ [cea]/b/=g/a/ [Acf]/g/e/f/!>)! | %34
+ [FAd]/e/c/d/ [DFB]/c/A/B/ [B,D^G]/!<(!F/^D/E/ F/^F/=G/^G/!<)! | %35
+ [CEA]/^A/B/c/ [E=A^c]/d/^d/e/ [A=df]/^f/g/^g/ [d=fa]/^a/b/=c'/ | %36
+ [e=a^c']/d'/^d'/e'/ [a=c'f']/e'/d'/=d'/ [ea^c']/=c'/b/_b/ [=cea]/^g/=b/a/ | %37
+ [Be^g]/=g/^f/=f/ [^GBe]/^d/f/e/ [Acd]/=d/^c/=c/ [EAB]/c/d/c/ | %38
+ [E^GB]/c/B/c/ [^DAB]/c/B/c/ [EGB]/e/^d/=d/ [=DG^c]/=c/G/_G/ | %39
+ [CEA]/^A/B/c/ [E=A^c]/d/^d/e/ [A=df]/^f/g/^g/ [d=fa]/^a/b/=c'/ | %40
+ [e=a^c']/d'/^d'/e'/ [a=c'f']/e'/d'/=d'/ [ea^c']/=c'/b/_b/ [=cea]/^g/=b/a/ | %41
+"_cresc." [df_b]/=b/c'/^c'/!8va(! [f_bd']/^d'/e'/f'/ [^gd'=e']/f'/^f'/=g'/ [d'^g']/a'/^a'/=b'/!8va)! | %42
+!f!!8va(! [c'f'=a']/^g'/=g'/^f'/ [ac'=f']/e'/_e'/d'/ [=e'a'^c'']/=c''/b'/_b'/ [=c'e'a']/^g'/=g'/^f'/!8va)! | %43
+ [_Bd=f]/e/_e/d/ [FB^c]/!>(!d/f/d/ [=EA=B]/=c/=e/c/ [D^G^A]/B/e/B/!>)! | %44
+ [C=A]/^A/B/c/ [D=A^c]/d/^d/e/"_cresc." [A=df]/^f/g/^g/ [dea]/^a/b/=c'/ | %45
+"_cresc." [ce=a]/^a/b/c'/ [d=a^c']/d'/^d'/e'/!8va(! [a=d'f']/^f'/g'/^g'/ [d'e'a']/^a'/b'/c''/!8va)! | %46
+!f!!8va(! [c'e'=a']/^g'/=g'/^f'/ [ad'=f']/e'/_e'/d'/ [fa^c']/=c'/b/_b/ [d'f'a']/^g'/=g'/^f'/!8va)! | %47
+ [Ad=f]/=e/_e/d/ [FA^c]/=c/=B/_B/ [DFA]/^G/=G/^F/ [A,D=F]/=E/_E/D/ | !>!!fermata![E,A,^C]8 |] %49
+V:2
+!p! .C, z .[E,A,=C] z .A,, z .[F,A,D] z | .[A,,,A,,] z .[E,A,C] z .[A,=CE] z z2 | %2
+ .E,, z .[E,B,D] z .A,, z .[E,A,C] z | .[E,B,] z (((!>![F,B,]2 [E,B,]))) z z2 | %4
+ .A,, z .[E,A,=C] z .A,, z .[F,A,D] z | .[A,,,A,,] z .[E,A,C] z .[A,^CE] z z2 | %6
+ .B,, z .[B,EG] z .B,, z .[B,^FB] z | .[E,E]2 [E,,E,]2 z2 [E,,E,]2 | %8
+ .A,, z .[E,A,=C] z .A,, z .[F,A,D] z | .[A,,,A,,] z .[E,A,C] z .[A,=CE] z z2 | %10
+ .E,, z .[E,B,D] z .A,, z .[E,A,C] z | .[E,B,] z!f! (([F,B,]2 [E,B,])) z z2 | %12
+ .A,, z .[E,A,=C] z .A,, z .[F,A,D] z | .[A,,,A,,] z .[E,A,C] z .[A,=CE] z z2 | %14
+ .[D,,D,] z .[D,F,_B,D] z .[E,,E,] z .[E,=B,D] z | .[F,,F,] z .[A,CF] z .[=C,,=C,] z .[E,A,E] z | %16
+ .D,, z ([D,F,_B,D]2 [E,A,C]2) (!>!E,2 | [A,,A,]2) ([E,,E,]2 [A,,,C,]2) z2 | %18
+ .[C,,C,] z .[=C,G,=C] z .F,, z .[C,A,C] z | .C,, z .[=C,G,=C] z ._D,, z .[_D,_A,^B,] z | %20
+ .=D,, z .[D,=A,=C] z .F,, z .[D,G,_B,] z | .D,, z .[D,A,=C] z ._E,, z .[_E,_B,^C] z | %22
+ .=E,, z .[=E,=B,D] z .A,, z .[E,A,CE] z | .E,, z .[E,B,D] z [A,,A,]2 [=G,,=G,]2 | %24
+ .[F,,F,]2 (!>![B,,B,]4 [E,E]2) | [_E,,_E,]2 (!>![A,,A,]4 [D,D]2) | %26
+ [G,,G,]2 ([_E,_E]2 [D,D]2) ([=A,,=A,]2 | [F,,F,]2) [_D,_D]2 [C,C]2 ([=G,,=G,]2 | %28
+ [_E,,_E,]) z [E,_E]4 (([E,,E,]2 | [D,,D,])) z ((!>![_E,,A,,]2 [D,,D,]2)) ((!>![E,,A,,]2 | %30
+ [D,,D,]2)) (([=F,,=B,,]2 [=E,,=E,]2)) (([F,,B,,]2 | (([E,,E,]8)) | (([E,,E,]8)) | (([E,,E,]8)) | %34
+ [E,,E,]8)) | .A,, z .[E,A,=C] z .A,, z .[F,A,D] z | .[A,,,A,,] z .[E,A,C] z .[A,=CE] z z2 | %37
+ .A,, z .[E,B,D] z .A,, z .[E,A,C] z | .[E,B,] z ((!>![F,B,]2 [E,B,])) z z2 | %39
+ .A,, z .[E,B,D] z .A,, z .[E,A,C] z | .[A,,,A,,] z .[E,A,C] z .[A,=CE] z z2 | %41
+ .[D,,D,] z .[D,F,_B,D] z .[E,,E,] z .[E,=B,D] z | .[F,,F,] z .[A,CF] z .[=C,,=C,] z .[E,A,E] z | %43
+ .[D,,D,] z ([D,F,_B,D]2 [E,A,C]2) !>![E,=B,]2 | [A,,A,] z (!>![F,,F,]4 [E,,E,]2) | %45
+ [A,,,A,,] z (!>![F,,,F,,]4 [E,,,E,,]2) | (([A,,,A,,]8 | (([A,,,A,,]8)) | !fermata![A,,,A,,]8)) |] %49
+

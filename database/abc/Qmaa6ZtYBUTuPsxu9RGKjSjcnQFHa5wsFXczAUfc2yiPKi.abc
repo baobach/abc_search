@@ -1,0 +1,59 @@
+X:1
+T:Vedrò con mio diletto
+T:Vedrò con mio diletto
+T:Antonio Lucio Vivaldi (1678-1741)
+C:Antonio Lucio Vivaldi (1678-1741)
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+Q:1/4=70
+M:3/4
+K:Db
+V:1 treble nm="Piano"
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:1
+ z [DF] [DF][Fd] [Fd][DG] | [CEG][CF] [CF][Fc] [Fc][CF] | [B,DF][B,E] [B,E][EB] [EB][B,E] | %3
+ [=A,CE]2 z [Ec] [Ec][CE] | [B,E][B,D] [B,D][DB] [DB][DF] | [CE][Ec] D[DB] [=A,C][C=A] | [DB]2 z4 | %7
+ z6 | z [DF] [DF][Fd] [Fd][DG] | [CEG][CF] [CF][Fc] [Fc][CF] | [B,DF][B,E] [B,E][EB] [EB][B,E] | %11
+ Ec DB C=A | [DB][DF] [DF][Fd] [Fd][DG] | [CEG][CF] [CF][Fc] [Fc][CF] | %14
+ [B,DF][B,E] [B,E][EB] [EB][B,E] | [A,CE][A,D] [A,D][DA] [DA][A,D] | %16
+ [G,B,D][G,C] [G,C][CA] [CA][Ec] | [DA][DF] [DF][Ad] [Ad][_CA] | [DB][B,DG] [B,DG][EBe] [EBe][GB] | %19
+ [Ec][CA] [CA][Ace] [Ace][EAc] | [DAd][DA] [DA][Af] [Af][Ad] | [EB][EB] [CA][CA] [CA][CE] | %22
+ [A,F][F,A,D] [F,A,D][A,F] [A,F][DFA] | [DFA][FAd] [FAd][Af] [Af][FA] | %24
+ [B,F][B,F] [FB][F_c] [FB][B,FA] | [B,EG][FB] [EGB][Bg] [Bg][G_c] | [FA_c][FB] [FB][Bf] [Bf][FB] | %27
+ [EGB][EA] [EA][Ae] [Ae][E-A] | [EFA][=DF] [DF][FA] [FA][FA=d] | [GB][GBe] [Gce][ceg] [ceg][Gce] | %30
+ [ce][Bd] [FBd][Fdf] [Fdf][DFB] | [DFB][DF] [DF][DFB] [DGB][DGd] | %32
+ [EGc][CEG] [CEG][CEGc] [CEGc][CFA] | [DFB][B,DF] [B,DF][B,DFB] [B,DFB][B,EG] | %34
+ [CE=A][=A,CE] [A,CE][A,CEA] [A,CEA][A,CEF] | [B,DF][B,D] [B,D][DFB] [DFB][DFBd] | %36
+ [EGB][B,EG] [B,EG][EGB] [EGB][GBe] | [F=Ae][=A,CF] [A,CF][FAc] [FAc][CEFA] | %38
+ [DFB][B,DF] [=A,CF][CFB] [CFB][CF=A] | [DFB][DF] [DF][Fd] [Fd][DG] | [CEG][CF] [CF][Fc] [Fc][CF] | %41
+ [B,DF][B,E] [B,E][EB] [EB][B,E] | [CE][=Ac] [B,D][DB] [=A,C][CA] | %43
+ !fermata![DB]2 z2 z [DB]!fine! | =Gc c[d=e] [ce][Bc] | [Ac][=GB] [FA]c dd | B=G Gc cG | AF FB BF | %48
+ =G=E Ec c[EG] | AF F[=Gc] [Fc][Fd] | B=G Gc cB | AF FB BF | =G=E Ec c[EG] | FA Ac cA | %54
+ FF- =Gc c=E | [CF]6!D.C.! |] %56
+V:2
+ B,,B, B,B, B,B, | =A,,=A, _A,,_A, A,A, | =G,,=G, _G,,_G, G,G, | [F,,F,]2 z [F,=A,] [F,A,][F,A,] | %4
+ F,F, F,F, F,B, | =A,A, B,B, F,F, | [B,,F,]2 z4 | z6 | B,,B, B,B, B,D | =A,2 _A,3 A, | %10
+ =G,2 _G,3 G, | [=A,C]2 B,2 A,2 | B,,B, B,B, B,B, | =A,,=A, _A,,_A, A,A, | =G,,=G, _G,,_G, G,G, | %15
+ F,,F, F,F, F,F, | E,,E, A,,G, G,G, | F,A, A,F, F,F, | G,G, G,G, G,,E, | A,,E, E,E, G,,E, | %20
+ F,,F, F,D, D,F, | G,,G, A,,E, E,A, | D,,D, D,D, D,D, | D,D, D,D, D,D, | E,,E, E,E, E,E, | %25
+ E,,E, E,E, E,E, | =D,,=D, _D,,_D, D,D, | C,,C, _C,,_C, C,C, | B,,,B,, B,,B,, B,,B,, | %29
+ E,,E, =A,,,=A,, A,,A,, | B,,,B,, B,,B,, B,,B,, | B,,B, B,B, B,,B, | =A,,=A, _A,,_A, A,A, | %33
+ =G,,=G, _G,,_G, G,G, | F,,F, F,F, F,F, | B,,,B,, B,,B,, B,,B,, | E,,E, E,E, E,E, | %37
+ F,,F, F,F, F,F, | B,,2 F,2 F,,2 | B,,B, B,B, B,B, | =A,2 _A,4 | =G,2 _G,4 | %42
+ [F,=A,]2 [B,,F,]2 F,F,, | !fermata![B,,F,]2 z2 z B, | [=E,=G,C]6 | [F,A,C]4 [F,A,]2 | D2 C4- | %47
+ C2 B,4 | =E,2 G,4 | [F,A,C]4 [F,A,]2 | D3 C3- | C3 B,3 | =E,2 G,4 | [F,A,C]6- | %54
+ [F,A,C-]2 [C,=G,C]4 | [F,A,]6 |] %56
+V:3
+ B,,6 | _A,,2 A,,4 | _G,,2 G,,4 | x6 | B,,4 B,,2 | C,2 F,2 F,,2 | x6 | x6 | B,,4 B,2 | x6 | x6 | %11
+ F,6 | B,,6 | =A,,2 _A,,4 | =G,,2 _G,,4 | F,,6 | E,,2 A,,4 | D,4 D,2 | G,,4 G,,2 | A,,4 G,,2 | %20
+ F,,6 | G,,2 A,,4 | D,,6- | D,,6 | E,,6 | E,,6 | =D,,2 _D,,4 | C,,2 _C,,4 | B,,,6 | E,,2 =A,,,4 | %30
+ B,,,6 | B,,4 B,,2 | =A,,2 _A,,4 | =G,,2 _G,,4 | F,,6 | B,,,6 | E,,6 | F,,6 | x6 | B,,6 | x6 | x6 | %42
+ x6 | x6 | x6 | x6 | [=E,=G,-]2 [_E,G,]4 | [=D,F,-]2 [_D,F,]4 | [C,B,]6 | x6 | %50
+ [=E,=G,-]2 [_E,G,]4 | [=D,F,-]2 [_D,F,]4 | [C,B,]6 | x6 | x6 | x6 |] %56
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | G2 z4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %38
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z F2 F =EC | x6 |] %56
+

@@ -1,0 +1,40 @@
+X:1
+T:Title
+T:Lagrime mie d'affano
+T:Fernando Sor (1778-1839) 
+C:Composer
+%%score 1 ( 2 3 4 )
+L:1/8
+Q:1/4=60
+M:2/4
+K:C
+V:1 treble nm="Voix"
+V:2 treble-8 nm="Guitare"
+V:3 treble-8 
+V:4 treble-8 
+V:1
+"^Larghetto" c(3c/B/A/ ^GA/B/ | A2 E z/ E/ | Ac Bd/c/4B/4 | (A2 ^G) z/ E/ | cB/A/ (AG/)G/ | %5
+w: La gri * me mi e d'af|fan no, sos|pi- ri del mi o *|cor , all'|i- dol * mi- o ti|
+ G e2 ^c | dA/A/ !invertedturn!Bc/>d/ |{/d} c2 z2 | ee/>e/ ^d>d | e2 B z/ B/ | %10
+w: ran- o spie-|ga- te il mi- o do|lor,|ma, che mi gio- vail|pian- to, che|
+ (dd/4)c/4B/4A/4 (A(5:4:5A/4)B/4A/4^G/4A/4 | (B3 B) ||[K:A] cd/>c/ B/A/G/A/ | %13
+w: gio * * va * sos- * * * * pi-|rar- *|se la cru- del * in- *|
+ ^A3/2(3B/4c/4B/4 E z | cd/>c/ (3c/B/A/(3A/G/F/ | ^E4 | (=E2 E)(3(G/F/)E/ | E/A/4c/4 e2 d | %18
+w: tan- * * * to|ri- de del mi- o pe- * * *|nar,|se _ la * cru-|del in- * tan- to|
+ (c/8e/8)c/8^B/8c/8G/8A/8F/8E z/ F/8E/8^D/8E/8E/!fermata!c/4=B/4 |{/B} A z z2 |] %20
+w: ri- * * * * * * * de del * * * mi- o pe-|nar|
+V:2
+x/e/c/e/ d/e/d/e/ |x/e/c/e/ c/e/c/e/ | A,/e/c/e/ D/f/B/f/ | E/e/c/e/ B/e/d/B/ | %4
+ c/e/A,/e/ B,/d/F/e/ | E/G/c/G/ E,/^c/_B/c/ | F,/d/[Af]/d/ G,/d/[Gf]/B/ | C/c/[Ge]/c/ z2 | %8
+x/[Be]/[Be]/[Be]/ A,/[c^f]/[cf]/[cf]/ |x/[Be]/[Be]/[Be]/ [Be]/E/^G,/e/ | A,/e/[Ec]/e/ F,[A^d] | %11
+ E,/[^Ge]/[Ge]/[Ge]/ e2 ||[K:A] [Ac]/E/[Ac]/E/ [Ac]/E/[Ac]/E/ | [Gd]/E/[Gd]/E/ [Gd]/E/[Gd]/E/ | %14
+ [Ac]/E/A/E/ D/B/F/B/ | C/[GB]/[GB]/[GB]/ [GB]/[GB]/[GB]/[GB]/ | %16
+"_Source: Music for voice and guitar (Editions Chanterelle, 2005)\n\n" D/[GBe]/[GBe]/[GBe]/ D/[GBe]/[GBe]/[GBe]/ | %17
+ C/A/=G/e/ D/F/d/B/ | E/A/c/A/ E,/e/G/d/ | [Ac][Aca] z2 |] %20
+V:3
+ A,4 | A,4 | A,2 D2 | x4 | AA, B,G | C2 E,2 | F,2 G,2 | C2 C z | ^G,2 A,2 | ^G,3 G, | A,2 F,2 | %11
+ E,2 ^G2 ||[K:A] A,4 | E,4 | A,2 D2 | C4 | D2 D2 | C2 D2 | E2 E,2 | A,2 A, z |] %20
+V:4
+ x A BB | x A AA | x A x A | EA ^G z | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 ||[K:A] x4 | x4 | x4 | %15
+ x4 | x4 | x4 | x4 | x4 |] %20
+

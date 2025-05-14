@@ -1,0 +1,64 @@
+X:1
+T:Frédéric Chopin
+T:Mazurka Op. 7 No. 2
+C:Frédéric Chopin
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:1
+!p! (e2 | !>!f>e d2 f2) | (!>!f4 e2) |!<(! (3(d/e/d/^c d^deB!<)! |!mf!!>(! =d4 =c2)!>)! | %5
+!p! (3(A"_cresc."BA .^G2 .A2 | .B2) !>!e4 |!f!"_stretto" (BGEB!<(! ^D2!<)! | E4)!p! (e2!ff! | %9
+!>(! f>e!>)! d2 f2 |!>(! !>!f4 e2)!>)! |!pp!!<(! (3(d/e/d/^c d^deB!<)! | %12
+!mp!!>(!{/B} !>!=d4 =c2)!>)! |"_poco rall." (3(A_BA G2!<(! A2!<)! | _B2 d2)!mf! !fermata!z2 | %15
+"^a tempo" (!>!A>^G [DE]2 [DG]2 | [CA]4) z2!fine! ::!p! (B2 | cd _e2)!<(! (e>f!<)! | %19
+!mf!!>(! !>!_e4 d2)!>)! |!p!!<(! (cd _e2) (e>f!<)! |!mf! _e4 d2) |!f!!>(! (_b4!p! ^c2!>)! | %23
+!mf!!>(! a4!>)!!p! =c2 |!mf!!>(! _a4!>)!!p! =B2 | g3!<(! _B=A)(e!<)! |!p! !>!fe d2 f2 | %27
+!>(! !>!f4 e2)!>)! |!pp!!<(! (3(d/e/d/^c) (d^deB!<)! |!mf!!>(! !>!=d4) =c2!>)! | %30
+"_poco rall." (3(A_BA!<(! G2 A2 | _B2!<)!!f! d2) !fermata!z2 |"_a tempo" (!>!A>^G [DE]2 [DG]2 |1 %33
+ A4) z2 :|2 A6 ||[K:A]"^dolce""_sempre legato"!mf! c z/ (c/!>(! d2!>)! B2 | %36
+!<(! ^G>E A3)!<)! ([GB]!mf! | c>e!>(! .d2)!>)! (B2 |!<(! (3^G^FE A3)!<)! ([GB]!mf! | %39
+ (3.[=Gc].[Gc].[Gc]!>(! [Fd]2 !>![=FB]2!>)! |!mp!!<(! (3.[D^G].[D^F].[DE] [CA]3)!<)! ([GB] | %41
+ (3.[=Gc].[Gd].[Ge]!>(! [Fd]2 !>![=FB]2!>)! |!mp!!<(! (3.[D^G].[D^F].[DE] [CA]4)!<)!!mf! |: %43
+!f! !>![Ac] z/ ([Ac]/ .[Bd]2) .[GB]2 | (3(!>![Ac][GB][FA] .[Bd]2) .[GB]2 | %45
+ !>![Ac] z/ ([Ac]/ .[Bd]2) .[GB]2 | (3(!>![Ac][GB][FA]) [ff']2 [ff']2 | %47
+ !>![Ac] z/ ([Ac]/ .[Bd]2) .[GB]2 | (3(!>![Ac][GB][FA] .[B=d]2) .[GB]2 | %49
+"^riten."!<(! (!tenuto!c!tenuto!^d!<)!!fff! !tenuto!e4) |!ff! (c^d{/f} e3 =d | %51
+"^a tempo" c) z/!mf! (c/!>(! d2 B2!>)! |!mp!!<(! G>E [CA]3)!<)! ([GB] | %53
+!mf! c>e!>(! .[Fd]2) ([=FB]2!>)! |!mp!!<(! (3^G^FE [CA]3)!<)!!mf! ([GB] | %55
+ (3.[=Gc].[Gc].[Gc]!>(! [Fd]2 !>![=FB]2!>)! |!mp!!<(! (3.[D^G].[D^F].[DE] [CA]3) ([GB]!<)!!mf! | %57
+ (3.[Gc].[Gd].[Ge]!>(! .[Fd]2) (!>![=FB]2!>)! |1!mp!!<(! (3.[D^G].[D^F].[DE] [CA]4)!<)!!mf! :|2 %59
+!<(! (3(.[D^G].[D^F].[DE]!mf! .[CA]2)!<)!!D.C.! |] %60
+V:2
+ z2 | z2 (.[A,DF]2 .[A,DF]2) | z2 (.[A,CF]2 .[A,CE]2) | z2 (.[E,^G,D]2 .[E,G,D]2) | %4
+ z2 (A,,2 [E,C]2) | z2 ([E,C]2 A,,2) | z2 ([E,G,B,]2 B,,2) | z2 [B,,G,B,]2 [B,,^F,B,]2 | %8
+ [E,^G,B,]2 E,,2 z2 | z2 (.[A,DF]2 .[A,DF]2) | z2 (.[A,CF]2 .[A,CE]2) | z2 (.[E,^G,D]2 .[E,G,D]2) | %12
+ z2 (.[F,A,D]2 .[F,A,C]2) | z2 (.[F,C_E]2 .[F,CE]2) | (D2 F2) !fermata!z2 | %15
+ z2 (.[E,=B,]2 .[E,B,]2 | .[A,C]2) A,,2 z2 :: z2 | z2 (.[_A,C^F]2 .[A,CF]2) | %19
+ z2 (.[G,C^F]2 .[G,B,G]2) | z2 (.[_A,C^F]2 .[A,CF]2) | z2 (.[_A,_C=F]2 .[A,_B,F]2) | %22
+ z2 (.[G,_B,G]2 .[G,B,=E]2) | z2 (.[G,A,E]2 .[^F,A,_E]2) | z2 (.[=F,_A,_E]2 .[F,A,D]2) | %25
+ z2 (.[=E,G,D]2 [E,G,^C]2 | [D,A,D]2) (.[A,DF]2 .[A,DF]2) | z2 (.[A,DF]2 .[A,CE]2) | %28
+ z2 (.[E,^G,D]2 .[E,G,D]2) | z2 (.[F,A,D]2 .[F,A,C]2) | z2 (.[F,C_E]2 .[F,CE]2) | %31
+ (D2 F2) !fermata!z2 | z2 [E,=B,]2 [E,B,]2 |1 [A,,E,]2 A,,,2 z2 :|2 z2 [A,,A,]2 [A,,A,-]2 || %35
+[K:A] [A,,A,]2 D,2!mp! (D,,2 | E,,2 A,,2) (E,2 | A,2 D,2)!mp! (D,,2 | E,,2 A,,2) (E,2 | %39
+ A,2 D,2) (D,,2 | E,,2 A,,2) (E,2 |!mf! A,2 D,2) (D,,2 | E,,2 A,,2) E,2 |: C>(C .D2) .B,2 | %44
+ (3(CB,A, .D2) .B,2 | C>(C .D2) .B,2 | (3(CB,A,) [F,,F,]2 [F,,F,]2 | C z/ (C/ .D2) .B,2 | %48
+ (3(CB,A, .D2) .B,2 | (!tenuto!C!tenuto!B,-) B,4 | (CB,-) B,4 | A,2 D,2 (D,,2 | E,,2 A,,2) (E,2 | %53
+ A,2 D,2) (D,,2 | E,,2 A,,2) (E,2 | A,2 D,2) (D,,2 | E,,2 A,,2) (E,2 | A,2 D,2) (D,,2 |1 %58
+ E,,2 A,,2) E,2 :|2 E,,2 [A,,,A,,]2 |] %60
+V:3
+ x2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | _B,4 x2 | x6 | x6 :: x2 | %18
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | _B,4 x2 | x6 |1 x6 :|2 x6 || %35
+[K:A] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |: F,6 | F,6 | F,6 | F,2 x4 | F,6 | F,6- | F,2 E,4- | %50
+ E,2 E,4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |1 x6 :|2 x4 |] %60
+V:4
+ x2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 :: x2 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |1 C2 x4 :|2 %34
+ z2 (.[^CE]2 .[CE]2) ||[K:A] (=G2 F2 =F2 | D2 C3) x | =G2 F2 =F2 | D2 C3 x | x6 | x6 | x6 | x6 |: %43
+ x6 | x6 | x6 | x6 | x6 | x6 | (A2 G4) | A2 G4 | =G2 F2 =F2 | D2 x4 | =G2 x4 | D2 x4 | x6 | x6 | %57
+ x6 |1 x6 :|2 x4 |] %60
+

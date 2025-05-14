@@ -1,0 +1,75 @@
+X:1
+T:DUETTO III.
+T:DUETTO III.
+T:BWV 804
+T:Johann Sebastian Bach
+C:Bach
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=76
+M:12/8
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ z2 z G/F/E/D/.B .A z z G/F/E/D/.c | .B z z d/B/A/G/e/c/ d/B/A/G/c/A/ c/B/A/G/A/F/ | %2
+ G/D/E/F/G/A/ B/d/c/B/c/A/ B/G/A/B/c/d/ e/g/f/e/d/^c/ | %3
+ a/d/e/f/g/a/ b/a/g/f/g/e/ f/a/g/f/e/d/ ^c/d/e/f/g- | g/e/f/d/^c/d/ G =f2- f/d/e/=c/B/c/ F e2- | %5
+ e/c/d/B/A/B/ E/B/c/A/G/A/ D/A/B/G/F/G/ C/G/A/F/E/F/ | %6
+ B,/D/E/F/G/A/ B/d/c/B/A/G/ F/G/A/B/c/d/ e/a/g/f/e/d/ | %7
+ g/d/e/f/g/a/ b/g/f/g/c/a/ B/g/f/g/A/c/ F/G/A/B/c- | cB z d/B/A/G/.e .d z z c/B/A/G/.g | %9
+ .f z z g/f/e/d/b/g/ a/f/e/d/g/e/ g/f/e/d/e/^c/ | d3- d/F/G/E/D/E/ c2- c>EF/D/^C/D/ | %11
+ B3- B/E/^D/E/F/G/ ABc- c/B/A/G/F/E/ | ^D/E/F/G/A- A/F/G/E/D/E/ B,/E/G/E/D/E/ B,/E/G/E/=D/E/ | %13
+ ^C/D/E/F/G- G/E/F/D/C/D/ A,/D/F/D/C/D/ A,/D/F/D/=C/D/ | %14
+ B,/C/D/E/=F- F/E/^D/E/A/E/ c/A/^G/A/^d/A/ fBA | %15
+ G/B/^c/^d/e/f/ g/b/a/g/f/e/ d/c/d/e/f/g/ a/f/e/d/c/B/ | %16
+ e/g/f/e/a/f/ g/b/a/g/a/f/ g/b/a/g/f/e/ ^d/e/f/B/a- | ag z B/G/F/E/.c .B2 z A/G/F/E/.e | %18
+ .^d2 z e/=d/^c/B/g/e/ f/d/c/B/e/c/ e/d/c/B/c/_B/ | B3- B/^A/B/d/^c/e/ dBPc d^gb | %20
+ d3- d/^G/A/c/B/d/ cAPB cfa | c3- c/A/B/G/F/G/ E/B/c/A/G/A/ F/c/d/B/A/B/ | %22
+ G/d/e/c/B/c/ A/e/=f/d/c/d/ B g2- g/c/f/e/d/c/ | %23
+ B/c/B/A/G/=F/ E/G/F/E/D/C/ B,/C/D/E/F/G/ A/d/c/B/A/G/ | %24
+ c/G/A/B/c/d/ e/g/=f/e/f/d/ e/c'/b/c'/a/f/ g/c/B/c/f- | f/d/e/c/B/c/ ^fac'- c'/c/d/B/A/B/ E d2- | %26
+ d/B/c/A/^G/A/ e/B/c/A/G/A/ f/c/d/B/A/B/ g/d/e/c/B/c/ | %27
+ a/g/f/e/d/c/ B/d/c/B/A/G/ F/e/d/c/B/A/ G/F/E/D/.B | %28
+ .A z z z/ A,/B,/C/D/E/ F/G/A/B/c/d/ G/F/E/D/.c | .B z z4 z2 z d/B/A/G/e/c/ | %30
+ d/B/A/G/c/A/ B/d/c/B/c/A/ B/G/F/E/A/F/ G/B/A/G/A/F/ | %31
+ G/E/D/C/=F/D/ E/G/F/E/F/D/ E/F/G/A/D/F/ E/A/B/c/E/G/ | %32
+ ^F/G/A/B/E/G/ F/B/c/d/F/A/ G/A/B/c/F/A/ G/c/d/e/G/B/ | %33
+ A/G/A/B/c/d/ c/B/A/G/.=f .e z z d/^c/B/A/.g | .f z z a/f/e/d/.c' b/g/a/b/e/g/ c/f/g/a/d/f/ | %35
+ B/d/e/=f/B/d/ G/B/c/d/G/B/ D/G/A/B/D/G/ B,/D/E/=F/B,/D/ | %36
+ .G, z z E/D/C/B,/.=F .E z z G/^F/E/D/.c | Mc z z c/B/A/G/e/c/ d/B/A/G/c/A/ c/B/A/G/A/F/ | %38
+ !fermata!G12 |] %39
+V:2
+ G,,B,,D, G,B,G, D,F,A, DF,D, | G,D,B,, G,,B,,C, B,,E,F, G,DD, | %2
+ .G, z z D,/B,,/A,,/G,,/.E, .D, z z C,/B,,/A,,/G,,/.G, | %3
+ .F, z z G,/F,/E,/D,/B,/G,/ A,/F,/E,/D,/G,/E,/ G,/F,/E,/D,/E,/^C,/ | %4
+ D,DA, B,/C/D/B,/G,/B,/ C,CG, A,/B,/C/A,/F,/A,/ | B,,B,F, G,A,E, F,G,D, E,F,D, | %6
+ .G, z z G,,/F,,/E,,/D,,/.B,, .A,, z z G,,/F,,/E,,/D,,/.C, | %7
+ .B,, z z D,/B,,/A,,/G,,/E,/C,/ D,/B,,/A,,/G,,/C,/A,,/ C,/B,,/A,,/G,,/A,,/F,,/ | %8
+ G,,/D,,/E,,/F,,/G,,/A,,/ B,,/D,/C,/B,,/C,/A,,/ B,,/G,,/A,,/B,,/C,/D,/ E,/G,/F,/E,/D,/^C,/ | %9
+ A,/D,/E,/F,/G,/A,/ B,/A,/G,/F,/G,/E,/ F,/A,/G,/F,/E,/D,/ ^C,/D,/E,/F,/G,- | %10
+ G,/E,/F,/D,/^C,/D,/ B,- B,2- B,/D,/E,/=C,/B,,/C,/ A,3- | %11
+ A,/F,/G,/E,/^D,/E,/ C- C2- C/B,/A,/G,/F,/E,/ D,E,C, | %12
+ B,,B,/A,/G,/F,/ E,E,,F,, G,,B,,A,, G,,E,,E, | A,,/B,,/^C,/D,/E,/C,/ D,D,,E,, F,,A,,G,, F,,D,,D, | %14
+ G,,/A,,/B,,/C,/D,/B,,/ C,CF, A,^D,F, B,,/^C,/D,/E,/F,/=D,/ | %15
+ E,E,, z E,/^D,/^C,/B,,/.G, .F,2 z E,/D,/C,/B,,/.A, | %16
+ .G,2 z B,/G,/F,/E,/C/A,/ B,/G,/F,/E,/A,/F,/ A,/G,/F,/E,/F,/^D,/ | %17
+ E,/B,,/^C,/^D,/E,/F,/ G,/B,/A,/G,/A,/F,/ G,/E,/F,/G,/A,/B,/ ^C/E/^D/C/B,/_B,/ | %18
+ F/B,/^C/^D/E/F/ G/F/E/=D/E/C/ DD,G, E,F,F,, | %19
+ B,,/F,/^G,/^A,/B,/^C/ D/C/D/B,/A,/B,/ F,/B,/D/B,/A,/B,/ =F,/B,/D/B,/=A,/B,/ | %20
+ E,/B,/E/D/C/B,/ A,/B,/C/A,/^G,/A,/ E,/A,/C/A,/G,/A,/ _E,/A,/C/A,/=G,/A,/ | %21
+ D,/A,/D/C/B,/A,/ G,G,,B,, C,A,,C, D,B,,D, | E,C,E, =F,A,,F,- F,/E,/F,/B,,/A,,/B,,/ E,A,F, | %23
+ G,G,, z C,/B,,/A,,/G,,/.E, .D, z z C,/B,,/A,,/G,,/.=F, | %24
+ .E, z z G,/E,/D,/C,/A,/=F,/ G,/E,/D,/C,/F,/D,/ F,/E,/D,/C,/D,/B,,/ | %25
+ C,CG, A,/B,/C/A,/G,/F,/ B,B,,F, ^G,/A,/B,/G,/F,/E,/ | A,,A,B, CA,C DB,D ECA, | %27
+ F,D, z G,/F,/E,/D,/.B, .A, z z B,/D/C/B,/A,/G,/ | %28
+ F,/E/D/C/B,/A,/ G,/F,/E,/D,/.C .B, z z z/ D,/C,/D,/E,/F,/ | %29
+ G,/A,/B,/C/D/E/ D/B,/A,/G,/E/C/ D/B,/A,/G,/C/A,/ B,/D/C/B,/C/A,/ | %30
+ B,/G,/F,/E,/A,/F,/ G,/B,/A,/G,/A,/F,/ G,/B,/A,/G,/C/A,/ B,/G,/F,/E,/F,/^D,/ | %31
+ E,/G,/=F,/E,/A,/F,/ G,/E,/D,/C,/D,/B,,/ C,CB, CA,C | D,D^C DB,D E,E^D E=CE | %33
+ F,E,D, G,C,/B,,/A,,/G,,/ C,/G,/A,/B,/C/D/ ED,/^C,/B,,/A,,/ | %34
+ D,/A,/B,/^C/D/E/ FG,/F,/E,/D,/ G,E,C, A,,D,D,, | %35
+ .G,, z z z/ D/E/=F/B,/D/ G,/B,/C/D/G,/B,/ D,/=F,/G,/A,/D,/F,/ | %36
+ B,,/D,/E,/=F,/B,,/D,/ G,,A,,B,, C,/D,/E,/^F,/G,/A,/ B,/D/C/B,/A,/G,/ | %37
+ F,/A,/G,/F,/E,/D,/ G,E,C, G,B,,E, C,D,D,, | !fermata!G,,12 |] %39
+

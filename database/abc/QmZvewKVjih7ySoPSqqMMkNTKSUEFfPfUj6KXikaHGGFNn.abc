@@ -1,0 +1,57 @@
+X:1
+T:The Well-Tempered Clavier Part II Fuga XXI
+T:BWV 890
+T:J. S. Bach
+%%score { ( 1 2 ) | 3 }
+L:1/8
+Q:1/4=184
+M:3/4
+K:Bb
+V:1 treble nm="Harp"
+V:2 treble 
+V:3 bass 
+V:1
+"^Presto" z6 | z6 | z6 | z6 | z g fe fB | Ad cB cA | FB BA AG | Gc cB BA | A2 _A4- | Ag fe f_A | %10
+ G2 g4- | gf ed ec' | d4- d2- | de dc df | _ag gf fe | ed dc cB | B6- | B2 A4- | AG GF F=E | %19
+ =E2 F2 G2 | AB AG Ac | f6- | f6- | f4 e2- | ee dc dB | Gd cB cA | F2 B4- | B2 A2 z2 | z6 | %29
+ z d cB cA | F A2 G F=E | F z z2 z2 | z2 CD E2- | E2 D=E F2- | F2 =EF G2- | GF G2 A3/2B/4c/4 | %36
+ F2 E2 D2 | E2 C2 D2 | E2 D2 C2- | C c' ba bf | dg fe fd | Be ed dc | cf fe ed | d6- | dd cB cA | %45
+ _G2 =G2 A2- | A2 d2 B2 | G2 A2 _G2 | G6 | A6 | D2 d4- | d2 cd e2- | ee dc dB | G_A GF GB | %54
+ EF ED EB | e6 | f6 | B_d dc cB | _A6- | AG FE FD | E2 G2 c2 | =Bc d4- | dd c=B cG | E_A GF GE | %64
+ CF FE ED | DG GF FE | E4 e2- | ef ed ec | d6- | d2 cB c2- | c2 BA B2- | B2 _AG A2- | A2 GF G2- | %73
+ G2 FE F2- | F2 ED E2- | EF ED EC | D2 =E4 | Fg f=e fc | Ad cB cA | FB B_A AG | Gc cB BA | AB c4- | %82
+ c2 Bc d2- | d2 cd e2- | ed cB cA | Bc BA BG | e6- | e2 z2 e2 | dA Bc df | b2 z2 z2 | z g fe fd | %91
+ B d2 c BA | B6 |] %93
+V:2
+ x c BA BF | DG FE FD | B,E ED DC | CF FE ED | DE DC B,D | CF ED CE | D2 =E2 F2- | F2 =ED E2 | %8
+ FE DC DF | B,2 D2 B,2 | ED CB, CE | A,2 C2 F2 |[I:staff +1] B,2[I:staff -1] D2 F2 | B6- | B6- | %15
+ B6 | BE ED DC | CF FE ED | D6 | C2 D2 =E2 | F2 z2 z2 | z B AG AF | ed dc cB | BA AG GF | F6 | %25
+ =E2 _E4 | D2 _D2 B,2 | =E2 F2 z2 | z _A AG GF | =E6 | F2 D2 G,2 | A,G F=E FC | A,D CB, CA, | %33
+[I:staff +1] A,B, B,A, A,G, | G,C CB, B,A, |[I:staff -1] A,2 B,2 C2- | C[I:staff +1]B, B,_A, A,G, | %37
+[I:staff -1] G,2 A,2 B,2- | B,A, A,G, G,F, |[I:staff +1] F,2[I:staff -1] z2 z2 | z2 F4 | G6 | A6 | %43
+ Dc BA BA | E6- | ED DC[I:staff +1] CB, | B,4[I:staff -1] z2 | z2 C2 A,2 | B,G, =E^F G2- | %49
+ G2 ^FG A2- | AG GF FE | E_A AG GF | F6- | FF ED E[I:staff +1]B, | G,C B,_A, B,G, | %55
+ F,_A, A,G, G,F, | F,B, B,_A, A,G, | G,2[I:staff -1] G2 =E2 | C2 DE F2 | =B,6 | C2 E2 F2- | %61
+ FA GF GD | E[I:staff +1]F, E,D, E,G, | C2 G,_A, B,2- | B,2 =A,=B, C2- | C2[I:staff -1] =B,C D2- | %66
+ DD C[I:staff +1]=B, CG, | A,2 C2[I:staff -1] F2- | F2 F2 B2 | G2 =E2 A2 | D4 G2 | E2 C2 F2 | %72
+ B,4 E2 | C2 A,2 D2 | G,4 C2 |[I:staff +1] F,2 C,2 F,2- | F,[I:staff -1]C B,A, B,G, | A, z z2 z2 | %78
+ x6 | z2 DE F2- | F2 EF G2- | GF ED EC | DG GF F=E | =EA AG G^F | ^FG AG AF | G z z2 z2 | %86
+ z B AG GF | F/4A/4c/B AG AF- | F4 z2 | z _d dc cB | A6 | B2 G2 C2 | D6 |] %93
+V:3
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z C B,A, B,F, | D,G, F,E, F,D, | %14
+ B,,E, E,D, D,C, | C,F, F,E, E,D, | D,G, G,F, F,E, | E,2 F,2 F,,2 | B,,2 B,4- | B,A, A,G, G,F, | %20
+ F,G, F,=E, F,C, | A,,D, C,B,, C,A,, | F,,B,, B,,A,, A,,G,, | G,,C, C,B,, B,,A,, | A,,2 B,,4- | %25
+ B,,2 B,,/4A,,/4B,,/4A,,/4B,,/4A,,/4B,,/4A,,/4 B,,/4A,,/4B,,/4A,,/4B,,/4A,,/4G,,/4A,,/4 | %26
+ B,,A, G,F, G,=E, | C,G, F,=E, F,D, | _C,2 C,2 C,2 | B,,2 B,,2 B,,2 | A,,2 B,,2 C,2 | F,,2 z4 | %32
+ z2 A,,4 | B,,6 | C,6 | F,,F, F,E, E,D, | D,2 C,2 B,,2 | z E, E,D, D,C, | C,F, F,E, E,D, | %39
+ D,E, D,C, D,F, | B,2 B,,C, D,2- | D,2 C,D, E,2- | E,2 D,E, F,2- | F,D, =E,^F, G,2- | %44
+ G,B, A,G, A,C | D,2 =E,2 _G,2 | G,A, G,_G, =G,D, | B,,E, D,C, D,B,, | G,,C, C,B,, B,,A,, | %49
+ A,,D, D,C, C,B,, | B,,4 =B,,2 | C,2 C2 B,2 | _A,2 B,2 B,,2 | E,6- | E,_A, G,F, G,E, | %55
+ C,2- C,D, E,2- | E,2 D,E, F,2- | F,2 =E,F, G,2- | G,F, F,E, E,D, | D,2 G,2 G,,2 | %60
+ C,B,, B,,_A,, A,,G,, | G,,2 =B,,2 G,,2 | C,6- | C,D, E,4 | F,6 | G,6 | C,2 E,2 C,2 | F,2 A,2 F,2 | %68
+ B,,C B,A, B,G, | =E,A, A,G, G,_G, | _G,A, =G,_G, =G,E, | C,F, F,E, E,D, | D,F, E,D, E,C, | %73
+ A,,D, D,C, C,B,, | B,,C, C,B,, B,,A,, | A,,4- A,,2 | B,,2 G,,2 C,2 | F,,2- F,,G,, A,,B,, | %78
+ C,D, E,D, E,C, | D,6 | E,6 | F,6 | B,,6 | C,6 | D,6 | G,,A, G,_G, =G,E, | C,D, C,B,, C,A,, | %87
+ F,,G, F,E, F,D, | B,,C, B,,A,, B,,G,, | =E,,2 E,,2 E,,2 | E,,2 E,,2 E,,2 | D,,2 E,,2 F,,2 | %92
+ B,,6 |] %93
+

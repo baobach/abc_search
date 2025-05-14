@@ -1,0 +1,68 @@
+X:1
+T:Partita N° 3 for Keyboard
+T:Partita N° 3 for Keyboard
+T:Partita No.3 in A minor, BWV 827 
+T:J.S.Bach
+C:J.S.Bach
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+Q:3/8=132
+M:12/8
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:1
+"^Molto Allegro." .E | (A,CE A^GA)"_cresc." (B,DE AGA) | (CE^G ABc!>(! DcA _Bd!>)!A) | %3
+ ^G3- G^F=G"_cresc." A3- ABc | B3- B^de!>(! c6-!>)! | cBA B!>(!^fA- A!>)!G^F"_dim." (G3 | %6
+ G)AG AeG- G=FE F3- | FFE FdF- FED Ed!mf!E | c3- cBc d3- def | e3- e^ga f6- | %10
+!>(! fed ebd!>)!!mf! !>!c6- | cA^F AFD (!>!B6 | B)GE GEC A6- | A^F^D!<(! FDB,!<)!!f! G-B^d c3- | %14
+ c2 ^d ^f3 fef g3- | ge!>(!^g ac'=g!>)! !^!^f6- |"_dim." fe^d e2 B !^!e6- | e=d^c d2 A !^!d6- | %18
+ d=cB c2 ^G"_cresc." A3- A2 A | d6- db^g eBe |!mf! Ace a^ga Bde aga | %21
+ ce^g"_cresc." abc' dc'a _bd'a |!f! ^g=bg eBd cec AE=G | Faf dAc BdB GDF | E e2- e2!>(! d e6!>)! :: %25
+ z | z12 | z6 z3 z z!mf! .E | AEC x3"^dim." =GE^C x3 | x12 | x12 | x12 | x12 | x12 | %34
+ z6 z3 z z!f! .=B | eB^G E^DE"^dim." =dBG E^DE | cAF E^GA F=DB, ^G,ED | %37
+!<(! CEA!<)! c^GA!>(! c^F=G!>)! cEF |!<(! B,DG!<)! B^FG!>(! BEF B!>)!^DE | %39
+!<(! A,CE!<)! AE^F A!>(!^DE A^C!>)!D | G2 z z3"_cresc." G2 z z3 | ^F2 z z3 F2 z z3 | %42
+ E2 z z3 z3 z z!f! ^f | b^fd B^AB"_dim." =af^d B^AB | ge=c B^de c=A^F ^DB!f!A | %45
+ G z z z ^fg P^g3- gfg | a3- abc'!>(! d2 =f B2!>)!!<(! ^g | a6-!<)! a6- | a6!>(! g6-!>)! | %49
+ g2 e f3- f2 e f3- | f2!f! b b2 d d2 B B2 e |!>(! edc dcB A6!>)! :| %52
+V:2
+ z | z12 | z6 z3 z z!p! .A, | (E,^G,B, E^DE) (^F,A,B, EDE) | =G,B,^D E^FG A,GE =FAE | %5
+ ^D3- D^CD E3- EB,=D | ^C3- CB,C D3- DA,=C | B,2 C B,2 A, ^G,2 B, G,3 | %8
+ A,,C,E, A,^G,A, B,,D,E, A,G,A, | C,E,^G, A,B,C D,CA, _B,DA, | ^G,2 =B, G,2 E, A,,C,E, A,CA, | %11
+ ^F,A,D D,F,A, =G,,B,,D, G,B,G, | E,G,C C,E,G, ^F,,A,,C, ^F,A,F, | %13
+ ^D,^F,B, B,,D,F, E,,G,,B,, E,D,E, | ^F,,A,,B,, E,^D,E, G,,B,,D, E,^F,G, | %15
+ A,,G,E, =F,A,E, ^D,3- D,^C,D, | E,,G,,B,, E,G,E, ^C,3- C,B,,C, | %17
+ D,,F,,A,, D,F,D, B,,3- B,,A,,B,, | C,,E,,G,, C,E,C, F,,A,,C, F,A,F, | B,,D,F, B,DB, E,^G,B, E^GD | %20
+ z3 E3 F2 E D3 | E2 B, C2 E A,3 D3- | D^G,B, z3 A,,C,E, A,CA, | z F,A, z3 G,,B,,D, G,B,G, | %24
+ C,2 A,, x x2 E,,^G,,B,, E,3 ::!mf! .B, | (EB,^G, E,^D,E,)"^dim." (=DB,G, E,^D,E,) | %27
+ CA,F, E,^G,A, F,=D,B,, ^G,,E,D, | C,3- C,B,,C, ^C,3- C,B,,C, | %29
+[I:staff -1] FD[I:staff +1]_B, A,^CD B,G,E, ^C,A,G, |!p! F, z z z3 z ^F,G, B,D=F, | %31
+ E, z z z3 z E,F, A,CE, | D, z z z3 z D,E, ^G,B,D, | C,E,"^cresc."F, A,CE, D,^F,=G, B,D=F, | %34
+ E,^G,A, CE=G, F,A,_B, DFA, | ^G,3 A,6 G,3 | A,3 z3 z3 B,3- | B,C,E, A,B,C DA,B, ^F,G,A,- | %38
+ A,B,,D, G,A,B, CG,A, E,^F,G,- | G,A,,C, ^F,G,A, B,F,G, ^D,E,F,- | F,EB, G,^F,G, A,,^C,E, A,^G,A, | %41
+[I:staff -1] ^CD[I:staff +1]A, ^F,^E,F, z D^C B,^A,B,- | B,^C^A, E,^D,E, ECB, ^A,^G,A, | %43
+ ^F,3 z3 B,3 z3 | B,2 z z3 z3 B, z z | E, z z z3 z6 | z6 z3 z z .E |!f! AEC A,^G,A, =GE^C A,^G,A, | %48
+ FD_B, A,^CD B,=G,E, ^C,A,G, | F,A,^C DA,F, D,F,^G, A,F,D, | B,,D,^G, A,,D,F, ^G,,B,,D, F,E,D, | %51
+ C,B,,A,, E,2 E,, A,,^C,E, A,3 :| %52
+V:3
+ x | x12 | x12 | x12 | x12 | x12 | x12 | z6 z3 z z E, | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %15
+ x12 | x12 | x12 | x12 | x12 | C6 D2 C B,3 | A,3- A,2 =G, F,6 | E,2 z x9 | D,2 z x9 | %24
+ x3 F,2 F,, x6 :: x | x12 | x12 | x3 A,^G,A, x3 A,^G,A, | D,3- D,E,F, =G,, z z A,, z z | %30
+ D,,A,F, D,A,,=C, =B,,6- | B,,G,E, C,^G,,B,, A,,6- | A,,F,D, B,,^F,,A,, ^G,,3- G,,E,,G,, | %33
+ A,,3- A,,=F,,A,, B,,3- B,,=G,,B,, | C,3- C,A,,^C, D,6- | D,3 =C,3 B,,3 E,3 | A,,3 C,3 D,3 E,3 | %37
+ !>!A,,3 z3 z6 | !>!G,,3 z3 z6 | !>!^F,,3 z3 z6 | E,,G,,B,, E,^D,E, x6 | %41
+ D,,^F,,A,, D,^C,D, G,,B,,D, G,^F,G, | =C,,E,,G,, ^C,B,,C, ^F,,^A,,C, ^F,^E,F, | %43
+ =D,3- D,^C,D, ^D,3- D,C,D, | E,3- E,^F,G, A, z z x3 | x12 | x12 | x12 | x12 | x12 | x12 | x12 :| %52
+V:4
+ x | x12 | x12 | x12 | x12 | x12 | x12 | x12 | z2 ^G A3 A2"_cresc." G B3- | BAB c3- cA^c df=c | %10
+ B6 z AE CEA | D z z z3 z GD B,DG | C z z z3 z ^FE ^DEF | B, z z z3 G3 G^FG | A3- ABc B3- B^de | %15
+ c6- cBA B^fA | G6- GAG AeG | =F6- FGF GdF | E6- E2 A, D3- | DFA ^GBA B2 z z3 | x12 | x12 | %22
+ x3 E^GE A2 z z3 | x3 DFD B2 z z3 | z z c (B A2-) A/c/B/A/^G/^F/ E3 :: x | x12 | x12 | x12 | x12 | %30
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x6 z E=D ^CB,C | x12 | x12 | x12 | %44
+ x9 z z B | eBG E^DE =dB^G E^DE | cA=F E^GA F=DB, ^G,ED | C z z z Bc Pc3- cBc | d3- def e3- e^ce | %49
+ A3- A2 ^c d3- d2 A | d2 d d2 B B2 ^G G2 G | %51
+ A3- A2 ^G A/F/E/D/^C/[I:staff +1]!fermata!B,/ !fermata!A,3 :| %52
+

@@ -1,0 +1,52 @@
+X:1
+T:J. S. Bach
+T:Goldberg Variations: Variation VI
+T:BWV 988
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:3/8
+K:G
+V:1 treble nm="Harp"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ z3 | a2- a- | ag/f/e/d/ | c2- c- | cB/A/G/F/ | E3- | ED/C/B,/A,/ | B,3- | B,/A,/C/B,/A,/G,/ | %9
+ A, A2- | AG/F/E/D/ | ^C/E/A/B/c- | cB/A/G/F/ | E2- E- | E/D/^C/E/D/C/ | %15
+ D/C/B,/A,/G,/[I:staff +1]F,/ |[I:staff -1] z3 | a2- a- | ag/f/e/d/ | c2- c- | cB/A/G/F/ | E3- | %22
+ ED/C/B,/A,/ | B,3- | B,/A,/C/B,/A,/G,/ | A, A2- | AG/F/E/D/ | ^C/E/A/B/c- | cB/A/G/F/ | E2- E- | %30
+ E/D/^C/E/D/C/ | D3 | z3 | b3- | ba/g/f/e/ | ^d =d2- | dc/B/A/G/ | F2- F- | F/E/^D/F/E/D/ | %39
+ E/D/C/B,/A,/G,/ | A, z2 | D3- | D/B,/C/A,/C/E/ | F3- | F/^D/E/C/E/G/ | A3- | A/G/F/A/G/F/ | %47
+ G/F/E/D/C/B,/ | C z2 | b3- | ba/g/f/e/ | ^d =d2- | dc/B/A/G/ | F2- F- | F/E/^D/F/E/D/ | %55
+ E/D/C/B,/A,/G,/ | A, z2 | D3- | D/B,/C/A,/C/E/ | F3- | F/^D/E/C/E/G/ | A3- | A/G/F/A/G/F/ | G3 |] %64
+V:2
+ g3- | gf/e/d/c/ | B3- | BA/G/F/E/ | D3- | D[I:staff +1]C/B,/A,/G,/ | A,3- | A,/G,/B,/A,/G,/F,/ | %8
+ G,[I:staff -1] G2- | GF/E/D/C/ | B,/D/G/A/B- | BA/G/F/E/ | D3- | D/[I:staff +1]^C/B,/D/C/B,/ | %14
+ ^C/B,/A,/G,/F,/E,/ | x3 |[I:staff -1] g3- | gf/e/d/c/ | B3- | BA/G/F/E/ | D3- | %21
+ D[I:staff +1]C/B,/A,/G,/ | A,3- | A,/G,/B,/A,/G,/F,/ | G,[I:staff -1] G2- | GF/E/D/C/ | %26
+ B,/D/G/A/B- | BA/G/F/E/ | D3- | D/[I:staff +1]^C/B,/D/C/B,/ | ^C/B,/A,/G,/F,/E,/ | x3 | %32
+[I:staff -1] a3- | ag/f/e/d/ | ^c =c2- | cB/A/^G/F/ | E3- | E/^D/^C/E/D/C/ | ^D/^C/B,/A,/G,/F,/ | %39
+ G, z2 | C3- | C/A,/B,/G,/B,/D/ | E3- | E/^C/D/B,/D/F/ | G3- | G/F/E/G/F/E/ | F/E/D/C/B,/A,/ | %47
+ G, z2 | a3 | ag/f/e/d/ | ^c =c2- | cB/A/^G/F/ | E3- | E/^D/^C/E/D/C/ | ^D/^C/B,/A,/G,/F,/ | %55
+ G, z2 | C3- | C/A,/B,/G,/B,/D/ | E3- | E/^C/D/B,/D/F/ | G3- | G/F/E/G/F/E/ | F/E/D/C/B,/A,/ | %63
+ x3 |] %64
+V:3
+ G,,/F,,/G,,/A,,/B,,/G,,/ | D,/C,/D,/E,/F,/D,/ | G,/F,/E,/F,/G,/E,/ | A,/G,/F,/G,/A,/F,/ | %4
+ B,/A,/G,/A,/B,/G,/ | C/B,/A,/G,/F,/E,/ | F,/E,/F,/D,/E,/F,/ | G,/E,/D,/C,/B,,/A,,/ | %8
+ G,,/F,/E,/D,/C,/B,,/ | ^C,/A,,/D,/E,/F,/D,/ | G,/F,/E,/F,/G,/E,/ | A,/G,/F,/G,/A,/F,/ | %12
+ B,/A,/G,/A,/B,/A,/ | ^G,^G,, z | A,,A,,, z | F, z z | G, z z | D,/C,/D,/E,/F,/D,/ | %18
+ G,/F,/E,/F,/G,/E,/ | A,/G,/F,/G,/A,/F,/ | B,/A,/G,/A,/B,/G,/ | C/B,/A,/G,/F,/E,/ | %22
+ F,/E,/F,/D,/E,/F,/ | G,/E,/D,/C,/B,,/A,,/ | G,,/F,/E,/D,/C,/B,,/ | ^C,/A,,/D,/E,/F,/D,/ | %26
+ G,/F,/E,/F,/G,/E,/ | A,/G,/F,/G,/A,/F,/ | B,/A,/G,/A,/B,/A,/ | ^G,^G,, z | A,,A,,, z | D,,F,,A,, | %32
+ D,/^C,/D,/E,/F,/D,/ | G,/F,/E,/F,/G,/E,/ | A,/G,/F,/G,/A,/F,/ | B,/A,/^G,/A,/B,/G,/ | %36
+ C/B,/A,/B,/C/B,/ | ^A,^A,, z | B,,B,,, z | E,,E,/D,/C,/B,,/ | A,,/C,/E,/G,/F,/E,/ | F,G,, z | %42
+ G,A,, z | A,B,, z | B,C, z | ^C,^C,,C, | D,D,,D, | G,,G,/F,/E,/G,/ | F,/E,/D,/E,/F,/D,/ | %49
+ G,/F,/E,/F,/G,/E,/ | A,/G,/F,/G,/A,/F,/ | B,/A,/^G,/A,/B,/G,/ | C/B,/A,/B,/C/B,/ | ^A,^A,, z | %54
+ B,,B,,, z | E,,E,/D,/C,/B,,/ | A,,/C,/E,/G,/F,/E,/ | F,G,, z | G,A,, z | A,B,, z | B,C, z | %61
+ ^C,^C,,C, | D,D,,D, | G,,D,G, |] %64
+V:4
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | D,,D,/C,/B,,/A,,/ | %16
+ G,,/F,,/G,,/A,,/B,,/G,,/ | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %31
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %50
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %64
+

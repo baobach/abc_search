@@ -1,0 +1,42 @@
+X:1
+T:Preludio de la Suite 1
+T:Arreglo para violín y viola
+T:Bach
+%%score 1 2
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Violin" snm="Vln."
+V:2 alto nm="Viola" snm="Vla."
+V:1
+ z8 | B4 c2 d2 | e6 fg | a2 f2 d2 c2 | d3 c B3 z | z gfg eBeg | a3 e ^c3 z | z fef dAdf | %8
+ g3 e B3 z | z efg agfe | f3 d A2 d2 | b3 a ^g=fed | e3 d c2 e2 | a3 g f^dcA | BEB,E GBeg | a4 A4 | %16
+ d'4 d4 | c'4 G4 | e6 d2 | b4- bgdB | A2 ag fed^c | d2 d'c' bagf | [Dca]4 z/ z/ z z2 | %23
+ z/ A,/B,/C/ D/E/F/G/ A/F/D/E/ F/G/A/B/ | c2 f2 a2 d'2 | c'3 a b2 d2 | G2 B2 e2 g2 | %27
+ a2 ^c'2 e'3 g | f4 d4 | z afd bgdB | afcA gdBG | D2 dc BAB^c | d2 B^c d2 Bc | d2 d'c' bagd | %34
+ agfd gabG | AGAF GFGe | fefd ede^c | dD/E/ =F/D/^F/D/ G/D/^G/D/ A/D/_B/D/ | %38
+ =B/D/=c/D/ ^c/D/d/D/ _e/D/=e/D/ =f/D/^f/D/ | g/B/D/B/ g/B/g/B/ g/B/D/B/ g/B/g/B/ | %40
+ g/A/D/A/ g/A/g/A/ g/A/D/A/ g/A/g/A/ | f/c/D/c/ f/c/f/c/ f/c/D/c/ f/c/f/c/ | !fermata![Bb]8 |] %43
+V:2
+ G,/D/B/A/ B/D/B/D/ G,/D/B/A/ B/D/B/D/ | G,/D/B/A/ B/D/B/D/ G,/D/B/A/ B/D/B/D/ | %2
+ G,/E/c/B/ c/E/c/E/ G,/E/c/B/ c/E/c/E/ | G,/F/c/B/ c/F/c/F/ G,/F/c/B/ c/F/c/F/ | %4
+ G,/G/B/A/ B/G/B/G/ G,/G/B/A/ B/G/B/F/ | G,/E/B/A/ B/G/F/G/ E/G/F/G/ B,/D/^C/B,/ | %6
+ ^C/G/A/G/ A/G/A/G/ C/G/A/G/ A/G/A/G/ | F/A/d/^c/ d/A/G/A/ F/A/G/A/ D/F/E/D/ | %8
+ E,/B,/G/F/ G/B,/G/B,/ E,/B,/G/F/ G/B,/G/B,/ | E,/^C/D/E/ D/C/B,/A,/ G/F/E/d/ ^c/B/A/G/ | %10
+ F/E/D/d/ A/d/F/A/ D/E/F/A/ G/F/E/D/ | ^G/D/=F/E/ F/D/G/D/ B/D/F/E/ F/D/G/D/ | %12
+ C/E/A/B/ c/A/E/D/ C/E/A/B/ c/A/F/E/ | ^D/F/D/F/ A/F/A/F/ D/F/D/F/ A/F/A/F/ | %14
+ G/F/E/G/ F/G/A/F/ G/F/E/D/ C/B,/A,/G,/ | F,/C/D/C/ D/C/D/C/ F,/C/D/C/ D/C/D/C/ | %16
+ G,/B,/=F/E/ F/B,/F/B,/ G,/B,/F/E/ F/G,/F/G,/ | G,/C/E/D/ E/C/E/C/ G,/C/E/D/ E/C/E/C/ | %18
+ G,/F/c/B/ c/F/c/F/ G,/F/c/B/ c/F/c/F/ | G,/D/B/A/ B/G/F/E/ D/C/B,/A,/ G,/F,/E,/D,/ | %20
+ ^C,/A,/E/F/ G/E/F/G/ C,/A,/E/F/ G/E/F/G/ | =C,/A,/D/E/ F/D/E/F/ C,/A,/D/E/ F/D/E/F/ | %22
+ C,/A,/D/F/ A/^c/d- !fermata!d/A,/B,/C/ D/E/F/G/ | A/F/D/E/ F/G/A/B/ c/A/F/G/ A/B/c/d/ | %24
+ _e/d/^c/d/ d/=c/B/c/ c/A/F/E/ D/A,/B,/C/ | D,/A,/D/F/ A/B/c/A/ B/G/D/C/ B,/G,/A,/B,/ | %26
+ D,/G,/B,/D/ G/A/B/G/ ^c/=B/A/_B/ B/A/^G/A/ | A/=G/F/G/ G/E/^C/B,/ A,/C/E/G/ A/^c/d/c/ | %28
+ d/A/F/E/ F/A/D/F/ A,/D/^C/B,/ A,/G,/F,/E,/ | D,c/B/ A/G/F/E/ D/c/B/A/ G/F/E/D/ | %30
+ C/B/A/G/ F/E/D/C/ B,/A/G/F/ E/D/C/B,/ | A,/G/F/E/ F/A/D/A/ E/A/F/A/ G/A/E/A/ | %32
+ F/A/D/A/ G/A/E/A/ F/A/D/A/ G/A/E/A/ | F/A/D/A/ E/A/F/A/ G/ A/ A/ A/ B/ A/ D/ A/ | %34
+ A/ A/ B/ A/ c/ A/ D/ A/ B/ A/ c/ A/ d/ A/ B/ A/ | %35
+ c/ A/ B/ A/ c/ A/ A/ A/ B/ A/ A/ A/ B/ A/ G/ A/ | A/ A/ G/ A/ A/ A/ F/ A/ G/A/F/A/ G/A/E/A/ | %37
+ F/A/D/^C/ D=C B,D^CE | =FEG^F A[G^c][Dd][D=c] | [DB]2 D,2 G,2 B,2 | D4 D,4 | [DA]8 | %42
+ !fermata![G,d]8 |] %43
+

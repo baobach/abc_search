@@ -1,0 +1,48 @@
+X:1
+T:Barcarolle
+T:Barcarolle
+T:from The Tales of Hoffman
+T:Offenbach
+C:Offenbach
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=80
+M:6/8
+K:Bb
+V:1 treble nm="Flute" snm="Fl."
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:1
+ z6 | z6 |!p! d2 e e2 d | (dc)e e2 d | (dc)e e2 d | (d3 d2) !breath!z | d2 e e2 d | (dc)e e2 d | %8
+ (dc)e e2 d | (d3 d2) !breath!z |!mp! f2!<(! g g2 a | a2 b b2 a!<)! |!mf!!>(! a2 g{ga} g2 f!>)! | %13
+!mp! !breath!f6 |!mp! f2!<(! g g2 a | a2 b b2 a!<)! |!mf!!>(! a2 g{ga} g2 f!>)! |!mp! !breath!f6 | %18
+!<(! f2 g g2 _a!<)! |!mf! (b6 | b)fg{_ab} _agf | g3 g !breath!z g |!<(! g2 =a a2 b!<)! |!f! (c'6 | %24
+ c')(ga){ab} (bag) | f2 z4 | (g3 g)(ag) | f2 z z3 | (f3 f)(ag) | f2 z!>(! f3 | f6!>)! | %31
+!p! d2 e e2 d | (dc)e e2 d | (dc)e e2 d | (d3 d2) z | d2 e e2 d | (dc)e e2 d | (dc)e e2 d | f6 | %39
+ z6 | z3 f3 | z!<(! fg abc'!<)! |!mf! (d'6 | d')c'b (ab)g | (f3 f2) g | (a3 a2) a | %46
+ b2 !breath!z f b2 | f (c'2 c'3) | b d'2 f b2 | f (c'2 !breath!c'3) |!>(! b (d'2 d'3) | %51
+ b (d'2 d'3) | f (b2 b3) | d (f2 (f3) | !breath!f3) d3 |!pp! B6!>)! |] %56
+V:2
+!p! z2 [DF] [DF]2 z | z2 [DF] [DF]2 z | F2 G G2 F | (FE)G G2 F | (FE)G G2 F | (F3 F2) z | %6
+ F2 G G2 F | (FE)G G2 F | (FE)G G2 F | (F3 F2) z |!mp! [Bd]2!<(! [Bd] [Bd]2 [df] | %11
+ [fa]2 [fa] [fa]2 [fa]!<)! |!mf! [fa]2!>(! [Ae]{ef} [Ae]2 [Ad]!>)! |!mp! [Bd]6 | %14
+!mp! [Bd]2!<(! [Bd] [Bd]2 [df] | [fa]2 [fa] [fa]2 [fa]!<)! | %16
+!mf! [fa]2!>(! [Ae]{ef} [Ae]2 [Ad]!>)! |!mp! [Bd]6 |!<(! F2 G G2 _A!<)! | %19
+!mf! [DFB]2 [EG] [DG]2 [F_A] | [F_A]3 z3 | G3 G z G | G6 | [=EG]2 [FA] [FA]2 [GB] | c3 [Bc]3 | %25
+ [FA]3 (F,A,C) | =B,6 |!>(! F2 z (F,A,!>)!!mf!C) | =B,6 | F2!>(! (A, CE) z | (GEC A,G,E,)!>)! | %31
+!p! F2 G G2 F | (FE)G G2 F | (FE)G G2 F | (F3 F2) z | F2 G G2 F | (FE)G G2 F | (FE)G G2 F | %38
+ F3 ([DG]2 F) | z (CD) (EFG) | F3 ([DG]2 F) | z3 ([A,CG]2 F) |!mf! z (=B,C) (DEF) | %43
+ E2 E ([CF]2 E) | z (DC A,B,G,) | F,2 E D2 C | B,2 z z3 | z3 F, E2 | D B,2 z3 | z3 F, E2 | %50
+!>(! D (B,2 B,3) | z3 B, (D2 | D2) z F, (B,2 | B,2) z D F2 | D3 B,3 |!pp! B,6!>)! |] %56
+V:3
+ B,,,3 F,2 F,, | B,,3 F,2 F,, | B,,3 F,2 B,, | F,,3 F,2 B,, | A,,3 F,2 F,, | B,,3 F,2 F,, | %6
+ B,,3 F,2 F,, | F,,3 F,2 B,, | F,,3 F,2 B,, | B,,3 F,2 F,, | [D,F,B,]3 F,,3 | [D,F,B,]3 F,,3 | %12
+ [C,E,]3 F,,3 | [D,F,B,]3 F,,3 | [D,F,B,]3 F,,3 | [D,F,B,]3 F,,3 | [C,E,]3 F,,3 | [D,F,B,]3 F,,3 | %18
+ [D,F,B,]3 B,,3 | [D,F,]3 B,,3 | [D,F,]3 B,,3 | [E,G,]3 B,,3 | [=E,G,]3 C,3 | [=E,G,]3 C,3 | %24
+ [=E,G,]3 C,3 | F,3 F,,3 | ([_A,,F,]=B,,C,) D,3 | ([F,,F,]A,,C,) z3 | ([_A,,F,]=B,,C,) D,3 | %29
+ ([F,,F,]C,F,) z3 | z6 | B,,3 F,2 B,, | F,,3 F,2 F,, | A,,3 F,2 F,, | B,,3 F,2 F,, | B,,3 F,2 B,, | %36
+ F,,3 F,2 F,, | A,,3 F,2 F,, | (=B,,F,_A,) z3 | (C,E,G,) G,2 F, | (F,,B,,D,) z3 | (F,,C,E,) z3 | %42
+ (=B,,F,_A,) (G,2 F,) | (C,E,G,) z2 z | (F,,B,,D,) z3 | (F,,A,,C,) D,2 C, | (B,,D,F, B,F,D,) | %47
+ (F,,E,F, A,F,E,) | (B,,D,F, B,F,D,) | (F,,E,F, A,F,E,) | (B,,D,F, B,F,D,) | (B,,D,F, B,F,D,) | %52
+ (B,,D,F, B,F,D,) | (B,,D,F, B,F,D,) | (B,,D,F, B,F,D,) | [B,,D,F,]6 |] %56
+

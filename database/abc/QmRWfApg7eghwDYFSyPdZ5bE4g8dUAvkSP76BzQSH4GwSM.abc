@@ -1,0 +1,86 @@
+X:1
+T:Concertino
+T:Rêverie
+T:Giovanni BOTTESINI (1821 - 1889)
+C:J. Nowakowski
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=50
+M:3/4
+K:F
+V:1 bass transpose=-12 nm="Contrebasse"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Lento" z6 | z6 | z6 | !fermata!z6 ||!p! (F,2- (3F,E,D,) (F,>E,) | %5
+ (D,2!<(! (3^C,).C,.D, (3(E,F,G,)!<)! | A,2- (3A,.A,.A, (3(A,G,D,) | %7
+!>(! (F,2!>)! E,) z (3(G,A,B,) | C2 (F,>.F,) (3:2:4B,3/2(.B,/.B,/.B,/) | %9
+!>(! (B,2!>)! A,) z (3(^G,=B,E,) | (E,2- E,(3^F,/^G,/A,/) (3(=B,,^F,3/2E,/) | %11
+ (E,2 A,,2) (A,,>.A,,) | (D,2- (3D,^C,D,){/F,} (3(E,D,E,) | ((^F,2 G,>)!f!.G,) (_B,>._A,) | %14
+ G,2- G,>F, _E,>D, | ^C,4 z A,, ||[K:D]!p! F,2- (3F,(.F,.F,) (3:2:4F,3/2(F,/E,/F,/) | %17
+ (A,2 G,) z z3/2 G,/ | G,2- (3G,.G,.G, (3:2:4G,3/2(G,/F,/G,/) | (B,2 ^A,) z (3A,B,C | %20
+!f! D2- (3D.D.D (D>=C) | (3(=CB,)B, B, z/ vB,/!p! (B,>A,) | %22
+ (3(A,G,)G, G,2"^rit." (3(!turn!B,,G,F,) |"^a tempo" (F,>E, (3:2:4D,3/2)(D,/{E,D,}C,/D,/ C>B,) | %24
+ _B,2- (3B,E,=F, (3(G,_B,E) | %25
+!f! (3(DCA) (3A"^rit."!p! !tenuto!A,,!tenuto!B,, (3!tenuto!C,!tenuto!D,!tenuto!E, | %26
+"^a tempo" (F,2- (3F,E,D,) (F,>E,) | D,2- (3D,!<(!(C,D, (3E,F,G,)!<)! | %28
+!>(! (A,2- (3A,G,!>)!F,) (A,>G,) | F,2- (3F,F,G, (3(A,B,=C) | %30
+ (3:2:2(C2 B,)[K:treble] (3:2:2(E2 ^D) (3(FEB) |!f! !-(!B4[K:bass] (!-)!D,>E,) | %32
+!p! !turn!F,4 (C>B,) | A,2- (3A,!>(!(E,F, (3G,)(B,,C,!>)! | D,2) z4 | %35
+ A,2- (3:2:6A,/(^G,/B,/A,/E,/F,/ (3:2:6=G,/)(B,,/=C,/^C,/F,/E,/) | D,2- D, z D2- | %37
+ (3:2:6D/!>(!(C/E/D/C/B,/ (3:2:6A,/^G,/!>)!=G,/F,/E,/D,/ (3:2:6C,/B,,/A,,/G,,/)(E,,/!fermata!A,,/) | %38
+ D,,2- (3:2:6D,,/(C,,/D,,/G,,/B,,/E,/){/E,} (3:2:6(D,/C,/D,/F,/A,/D/) | D6 | %40
+[K:treble] (D>F) (F>A) (A>d) | d6- | !fermata!d6 |] %43
+V:2
+!p!"^Lento" (D4 A,>B,) | (F,4 G,2) | A,6 | !fermata![^CEGA]6 ||!pp! [F,A,D]4 [B,D]2 | %5
+ [A,-DE-]2 [A,^CE] z!<(! ([A,-C]2!<)! | [A,D]4) [B,D]2 |!>(! (([A,=C-F]2 [G,CE]))!>)! z !>![CEG]2 | %8
+ [CFc]4!<(! [B,^CE]2!<)! |!>(! ((([B,^CE]2 [A,DF])))!>)! z [^G,DE]2 | %10
+ (3([^CE]A,[CE]) [A,C]2 [E,^G,D]2 | %11
+[K:bass] (3z [E,A,^C][E,A,C] (3[E,A,C][E,A,C][E,A,C] (3z [E,A,C][E,A,C] | %12
+ (3z [F,A,D][F,A,D] (3[F,A,D][F,A,D][F,A,D][K:treble] (3z [B,DE][B,DE] | %13
+ (3z [A,CD^F][A,CDF] (3[G,B,DG][G,B,DG][G,B,DG]!f! (3[_A,B,D=F][A,B,DF][A,B,DF] | %14
+[K:bass] (3z [G,B,_E][G,B,E] (3[G,B,E][G,B,E][G,B,E] (3z [_E,B,E][E,B,D] | %15
+ (3!>!_E,"_espress."[G,^C][G,C] (3!>!=E,[G,C][G,C] (3z [E,G,C][E,G,C] || %16
+[K:D][K:bass]!p! (3z [D,F,A,][D,F,A,] (3z [D,F,A,][D,F,A,] (3z [D,F,B,][D,F,B,] | %17
+ (3z [E,G,B,][E,G,B,] (3z [E,G,B,][E,G,B,] (3z [E,G,=C][E,G,C] | %18
+ (3z [E,G,B,^C][E,G,B,C] (3z [E,G,B,C][E,G,B,C] (3z [E,G,B,C][E,G,B,C] | %19
+[K:treble] (3z [CE][CE] (3[^A,CEF][A,CEF][A,CEF] (3z [B,F^G][CF^A] | %20
+!f! (3z [B,DFB][B,DFB] (3[B,DFB][B,DFB][B,DFB] (3z [=CDF][CDF] | %21
+ (3z [B,DG][B,DG] (3[B,DG][B,DG][B,DG]!p! (3z [A,B,^D][A,B,D] | %22
+ (3z [G,B,E][G,B,E] (3[G,B,E][G,B,E][G,B,E]"^rit." [B,E]2 |[K:bass]"^a tempo" C2 D2 D2 | %24
+[K:treble] (3z!<(! [G,_B,D][G,B,D] (3[G,B,D][G,B,D][G,B,D] (3[G,B,D][G,B,D][G,B,D]!<)! | %25
+ (3z [G,A,C][G,A,C] [G,A,C]"^rit." z z2 |[K:bass]"^a tempo"!p! (3z (F,A, (3D)(F,B, (3D)(E,^G,) | %27
+[K:treble] (3z [^G,DE][G,DE] (3[A,CE]!<(![A,CE][A,CE] (3z [F,A,C][F,A,C]!<)! | %28
+ (3z!>(! [A,DF][A,DF] (3[A,DF][A,DF][A,DF]!>)! (3z [A,CG][A,CG] | %29
+ (3z [A,=CG][A,CG] (3[A,CF][A,CF][A,CF] (3z [A,B,^D][A,B,D] | %30
+ (3z!<(! [G,EG][B,GB] (3z [B,AB][^DAB^d] (3z [B,GB][EBe]!<)! | (3z ([=FBd][F=f] [=B=b]) z z2 | %32
+!p! (3z [A,D^F][A,DF] (3[A,DF][A,DF][A,DF] (3z [^G,D=F][G,DF] | %33
+ (3z [=G,DE]!>(![G,DE] [G,CE]2 [EGA]2!>)! |!mf! [Af-]2 (3[Bf](ed f>e) | (d2 c) z z2 | %36
+!mf! F2- (3F(ED (3[^G,F]DE) |!>(! [A,DFA]2-!>)! [A,DFA] z!p! !fermata![A,CG]2 | %38
+ (3[A,DF][A,DF][A,DF] (([B,DG]2 [DFA]2)) | (3[D_Bd][DBd][DBd] (3[DBd][DBd][DBd] (3[DBd][DBd][DBd] | %40
+ (3[D^FAd][DFAd][DFAd] (3[DFAd][DFAd][DFAd] (3[DFAd][DFAd][DFAd] | [DFA] z [A,DF] z [A,DF] z | %42
+ !fermata![A,DF]6 |] %43
+V:3
+ (D,4 A,,>B,,) | (F,,4 G,,2) | A,,6 | !fermata!A,6 || D,4 G,,2 | A,,2- A,, z (G,2 | F,4) B,,2 | %7
+ C,2- C, z !>![B,,B,]2 | [A,,A,]4 [G,,G,]2 | [F,,F,]2- [F,,F,] z E,2 | E,,2 E,2 E,,2 | %11
+ [A,,,A,,]2 z2 [G,,,G,,]2 | [F,,,F,,]4 [G,,,G,,]2 | [A,,,A,,]2 [B,,,B,,]2 [B,,,B,,]2 | %14
+ [_E,,_E,]4 G,,2 | [B,,,B,,]4 [A,,,A,,]2 ||[K:D] z2 (A,,2 B,,2) | z2 (B,,2 =C,2) | ^C,6 | %19
+ [F,,F,]4 [F,,F,]2 | [B,,,B,,]4 [A,,,A,,]2 | [G,,,G,,]4 [F,,F,]2 | [E,,E,]4 G,,2 | %23
+ (A,,2 B,,2 E,,2) | [A,,,A,,]6 | [A,,,A,,]2- [A,,,A,,] z z2 | D,,2 (B,,2 E,,2) | A,,4 (([G,,G,]2 | %28
+ [F,,F,]4)) [E,,E,]2 | [^D,,^D,]4 [B,,,B,,]2 | [E,,E,]2 [F,,F,]2 [G,,G,]2 | %31
+ [^G,,^G,]2- [G,,G,] z z2 | A,,4 A,,2 | A,,,4 A,,2 | (3(D,A,D) (3(B,,F,B,) (3(E,B,D) | %35
+ [A,,A,]2- [A,,A,] z z2 | (3(D,A,D) (3(B,,D,B,) E,,2 | %37
+ [A,,,A,,]2- [A,,,A,,] z !fermata![A,,,A,,]2 | [D,,D,]2 (G,,2 D,2) | (_B,2 =F,2 G,2) | %40
+ D, z (A,,2 F,,2) | D,, z [D,,D,] z [D,,D,] z | !fermata![D,,D,]6 |] %43
+V:4
+ x6 | x6 | x6 | x6 || x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 ||[K:D] D,,6 | %17
+ E,,6 | z2 E,,4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %34
+ D,2 B,,2 E,2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %43
+V:5
+ x6 | x6 | x6 | x6 || x6 | x6 | x6 | x6 | x6 | x6 | x6 |[K:bass] x6 | x4[K:treble] x2 | x6 | %14
+[K:bass] x6 | x6 ||[K:D][K:bass] x6 | x6 | x6 |[K:treble] x6 | x6 | x6 | x6 | %23
+[K:bass] (3(CG,A,) (3(DF,B,) (3(DG,B,) |[K:treble] x6 | x6 |[K:bass] x6 |[K:treble] x6 | x6 | x6 | %30
+ x6 | x6 | x6 | x6 | F4 ^G2 | (3dE=G- [EG] x3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %43
+

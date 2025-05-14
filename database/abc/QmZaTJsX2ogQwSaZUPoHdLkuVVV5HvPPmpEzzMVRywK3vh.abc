@@ -1,0 +1,53 @@
+X:1
+T:Harmonizing approch notes
+T:Harmonizing approach notes
+%%score 1 2 ( 3 4 )
+L:1/8
+Q:1/4=140
+M:4/4
+K:C
+V:1 treble transpose=-9 nm="Sax"
+V:2 bass transpose=-12 nm="Bass"
+V:3 perc nm="Drums"
+K:none
+I:percmap ^f f 51 x
+V:4 perc 
+K:none
+I:percmap ^D D 44 x
+V:1
+[K:C]"^Swing""^Parallel*" z"Am7b5" [ce^fa]"Bm7b5""G9" .[df^gb]2"^\n""^* When lead moves by major second" z4 | %1
+ x8 | x8 | x8 | %4
+"^Chromatic*" z"Bbm7b5" [^cfg_b]"G9""Bm7b5" .[d^f^g=b]2"^* When lead moves by minor second" z4 | %5
+ x8 | x8 | x8 | %8
+"^Dominant*" z"D7" [B^d^fa]"Bm7b5""G9" .[=df^gb]2"^* When lead moves by any interval" z4 | x8 | %10
+ x8 | x8 | %12
+"^Full diminished*" z"Cdim7" [^B^d^fa]"G9""Bm7b5" .[=df^gb]2"^* When lead moves by any interval" z4 | %13
+ x8 | x8 | x8 | %16
+"^Half diminished*" z"Dm7b5" [Bdfa]"Bm7b5""G9" .[d^f^gb]2"^* When lead moves by any interval" z4 | %17
+ x8 | x8 | x8 | %20
+"^Diatonic*" z"Am7" [^ce^fa]"Bm7b5""G9" .[df^gb]2"^* When lead moves by any interval. Movement in same direction using notes from current chord scale" z4 | %21
+ x8 | x8 | x8 | %24
+"^Minor third planing*" z"G#m7b5" [B^d^e^g]"Bm7b5""G9" .[=d^fgb]2"^* When lead moves by minor third" z4 | %25
+ x8 | x8 | x8 | %28
+"^Double chromatic*" z"Am7b5" [ce^fa]"A#m7b5" [^c^e^^f^a]"Bm7b5""G9"[d^f^gb]"^* When lead moves in this way" z4 | %29
+ x8 | x8 | x8 | %32
+"^Double parallel*" z"Gm7b5" [_Bdeg]"Am7b5" [ce^fa]"Bm7b5""G9"[df^gb]"^* When lead moves in this way" z4 | %33
+ x8 | x8 | x8 :| %36
+V:2
+ G,,2 B,,2 D,2 F,2 | G,2 D,2 B,,2 A,,2 | G,,2 B,,2 D,2 F,2 | G,2 D,2 B,,2 A,,2 | %4
+ G,,2 B,,2 D,2 F,2 | G,2 D,2 B,,2 A,,2 | G,,2 B,,2 D,2 F,2 | G,2 D,2 B,,2 A,,2 | %8
+ G,,2 B,,2 D,2 F,2 | G,2 D,2 B,,2 A,,2 | G,,2 B,,2 D,2 F,2 | G,2 D,2 B,,2 A,,2 | %12
+ G,,2 B,,2 D,2 F,2 | G,2 D,2 B,,2 A,,2 | G,,2 B,,2 D,2 F,2 | G,2 D,2 B,,2 A,,2 | %16
+ G,,2 B,,2 D,2 F,2 | G,2 D,2 B,,2 A,,2 | G,,2 B,,2 D,2 F,2 | G,2 D,2 B,,2 A,,2 | %20
+ G,,2 B,,2 D,2 F,2 | G,2 D,2 B,,2 A,,2 | G,,2 B,,2 D,2 F,2 | G,2 D,2 B,,2 A,,2 | %24
+ G,,2 B,,2 D,2 F,2 | G,2 D,2 B,,2 A,,2 | G,,2 B,,2 D,2 F,2 | G,2 D,2 B,,2 A,,2 | %28
+ G,,2 B,,2 D,2 F,2 | G,2 D,2 B,,2 A,,2 | G,,2 B,,2 D,2 F,2 | G,2 D,2 B,,2 A,,2 | %32
+ G,,2 B,,2 D,2 F,2 | G,2 D,2 B,,2 A,,2 | G,,2 B,,2 D,2 F,2 | G,2 D,2 B,,2 A,,2 :| %36
+V:3
+ ^f2 ^f^f ^f2 ^f^f | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %16
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %35
+ x8 :| %36
+V:4
+ x2 ^D2 x2 ^D2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %17
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 :| %36
+

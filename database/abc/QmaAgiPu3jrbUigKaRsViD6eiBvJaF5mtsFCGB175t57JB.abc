@@ -1,0 +1,51 @@
+X:1
+T:Brucia la luna
+T:Brucia la terra
+T:Nino Rota
+C:Nino Rota
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble transpose=-12 nm="Glas" snm="Gl."
+V:2 treble nm="Klavir" snm="Kl."
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+ z8 | z8 | z8 | z4 z E A c | B A c A B A F G | E E z2 z E A c | B A c A B A E _E | %7
+w: |||Bru- cia la|lu- na n'cie- lu eju bru- ciu d'a-|mu- ri. Fo- cu ca|si con- su- ma co- mu lu me|
+ D D z2 z D F ^G | B B z2 z D F ^G | A A z2 z A, C =G | F E G F F E2 ^G, | A, A, z2 z A A _A | %12
+w: co- ri. L'a- ni- ma|chian- chi, ad- du- lu-|ra- ta, non si da|pa- ci, ma cchi ma- la nut|ta- ta! Lu tem- pu|
+ G G z2 B2 =A F | E E z2 z E G E | D D z2 z D F ^D | E E z2 z E A c |: B A c A B A F G | %17
+w: pas- sa, ma non ag|gior- na. Non c'e mai|su- li s'id- da non|tor- na. Bru- cia la|ter- ra mia e'ab bru- cia lu me|
+ E E z2 z E A c | B A c A B A E _E | D D z2 z D F ^G | B B z2 z D F ^G | A A z2 z A, C =G | %22
+w: co- ri. Cchi si- ti|d'ac- qua id- da eju si- ti d'a-|mu- ri. A- cu la|can- tu la me can-|zu- ni, si non c'e|
+ F E G F F E E ^G |1 A A z2 z E A c :|2 A A z2 z4 |] %25
+w: nud- du ca seaf- fac- cia lu bar-|cu- ni. Bru- cia la|cu- ni.|
+V:2
+ z (A,[CE]A,) [B,D]4 | z (A,[CE]A,) [B,D]4 | z (A,[CE]A,) [B,D]4 | z (A,[CE]A,) [B,D]EAc | %4
+ (BAcA) (BAFG) | (E4 E)(EAc) | (BAcA) (BAE_E) | (D4 D)DF^G | ([FB]4 [FB])(DF^G) | %9
+ ([EA]4 ([EA])A,C=G) | (FEGF) (FE)(E^G,) | (A,4 [E,A,])[CEA]([EA]_A) | [DFG]4 [B,FB]2 (=AF) | %13
+ (E4 E)(EGE) | (D4 D)(DF^D) | [=G,E]4 [G,E](EAc) |: (BAcA) (BAFG) | (E4 E)(EAc) | (BAcA) (BAE_E) | %19
+ (D4 D)DF^G | ([FB]4 [FB])DF^G | ([EA]4 [EA])(A,C=G) | (FEGF) (FEE^G) |1 %23
+ (!arpeggio![A,CEA]4 [A,CEA])E A2 :|2 !fermata!A8 |] %25
+V:3
+ [A,,E,]4 [A,,F,]4 | [A,,E,]4 [A,,F,]4 | [A,,E,]4 [A,,F,]4 | [A,,E,]4 [A,,F,] z z2 | %4
+ [A,,E,]4 [A,,F,]4 | (E,2 D,2 C,4) | [A,,E,]4 [C,A,]2 C,2 | (F,4 F,2) A,,B,, | %8
+ z A,,D,F, A,2 A,,B,, | z E,,A,,C, E, z z2 | [E,,E,]4 [E,,D,]4 | (C,4 C,) z z2 | %12
+ (3z D,G, D,2 (3z D,F, G,2 | z G,,2 G,, z C,E,C, | (3z _B,,D, F,2 (3z =B,,D, F,2 | %15
+ z (B,,E,B,, E,) z z2 |: [A,,E,]4 [A,,F,]4 | (E,2 D,2 C,4) | [A,,E,]4 [A,,F,]2 C,2 | %19
+ (A,,4 A,,2) A,,B,, | z A,,D,F, A,2 A,,B,, | z (E,,A,,C, E,2) z2 | [E,,E,]4 [E,,E,]4 |1 %23
+ [A,,,A,,]2 E,,2 A,,, z z2 :|2 [A,,,A,,]2 E,,2 !fermata!A,,,4 |] %25
+V:4
+ x8 | x8 | x8 | x8 | x8 | C2 B,2 A,4 | C4 E2 A,2 | A,4 A,2 D2 | D4 D x D2 | C4 C x A,2 | %10
+ [A,C]4 A,2 (^G,E,) | E,4 x2 C2 | x6 [B,D]2 | C2 B,2 A,2 G,2 | _B,4 A,4 | x8 |: C4 D4 | %17
+ (C2 B,2 A,4) | C4 E2 A,2 | A,4 A,2 D2 | D4 D x D2 | C4 C x A,2 | [A,C]4 [B,D]2 [^G,D]2 |1 x8 :|2 %24
+ x8 |] %25
+V:5
+ x8 | x8 | x8 | x8 | x8 | A,,8 | x8 | D,2 A,,2 D,2 z2 | (D,,4 D,,2) z2 | (C,,4 C,,) z z2 | x8 | %11
+ A,,2 E,,2 A,, z z2 | B,,4 G,,4 | C,,4 C,,4 | D,,4 F,,4 | (E,,4 E,,) z z2 |: x8 | A,,8 | x8 | %19
+ F,2 E,2 F,2 z2 | (D,,4 D,,2) z2 | (C,,4 C,,2) z2 | x8 |1 x8 :|2 x8 |] %25
+

@@ -1,0 +1,69 @@
+X:1
+T:Title
+T:One Summer's Day
+T:from Spirited Away
+C:Composer
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=70
+M:4/4
+K:Eb
+V:1 treble transpose=-2 nm="B♭ Trumpet" snm="B♭ Tpt."
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:1
+[K:F]"^Intro" z8 | z8 | z8 | z8 |"^A"!mp! z AAA (AG)(Ad) | AG/G/- G4 z2 | z GGG (GF)(Gc) | %7
+ (GF)EF- F2 z (D/E/) | FFFF F F2 (D/E/) | FFFF E F2 (D/E/) | FFFF F c2 F | G6 z2 |!mp!"^A'" A8 | %13
+ c3 A- A2 B2 | c3 c- c2 e2 | f3 f e2 c2 | f4 d2 e2 |{/g_g} f6 =g2 | a8 | g3 z A2 B2 | %20
+"^B"!mf! c c2 c (cB)AG | (GA/F/- F2) z2 (AB) | cccc (cB)(AG) | G A3 x2 FG | (A3 D) F4- | %25
+ F4 z2 de ||S"^C"!mf!"_espressivo" ff(gf) e2 Ac | dd(cB) c2 z c/c/ | (cB)(B_A) B2 (FB) | %29
+ (c3 _d) c2 =de | ff(gf) e2 Ac | dd(cB) c2 z c/c/ | (cB)(B_A) B2 c_d | (_e_d)dc d2 (3(cde) | %34
+ f4 z2 (de) | f4 z fef | g4 z cfe |"^Interlude"!>(! f8!>)! | z8 | z8 | z8 |"^A'"!mp! A8 | %42
+ c3 A- A2 B2 | c3 c- c2 e2 | f3 f e2 c2 | f3 G dB f2 | a4 ga- a2 | f8 | e4 A2 B2 | %49
+"^B'"!mf! c c2 c (cB)AG | (GA/F/- F4) (AB) | cccc (cB)(AG) | GA- A6 | a4 defg | a4 g2!<(! de!<)! | %55
+"^C'""_espressivo" ff(gf) e2 Ac | dd(cB) c2 z c/c/ | (cB)(B_A) B2 (FB) | (c3 _d) c2 =de | %59
+ ff(gf) e2 Ac | dd(cB) c2 z c/c/ | (cB)(B_A) B2 c_d | (_e_d)dc d2 (3(cde) | f4 z2 (de) | f4 z fef | %65
+ g4 z!>(! cfe |"^Coda" f8!>)! |!p! e8 | z4 g4- | g4 z cfe |!>(! f8!>)! | z8 | z8 | z8 |] %74
+V:2
+!mp! !arpeggio![cdg]3 [cdf]- [cdf]2 b2 | !arpeggio![cdg]3 [cdf]- [cdf]4 | %2
+ !arpeggio![GBdf]3 [GBe]- [GBe]2 b2 | !arpeggio![GBdf]3 [Gce]- [Gce]2 d2 |!p! c8 | %5
+ [FABe]3 [FABd]- [FABd]2 A2 | [EGBd]3 [EGAc]- [EGAc]2 g2 | [EGBd]3 [EGAc]- [EGAc]2 B2 | %8
+ !arpeggio![Acg]3 F cA g2 | [cdg]4 dc g2 | [Acg]8 | [Acdf]3 [fa]- [fa][eg] [df]2 | %12
+!mf! z [GAcg][GAcg][GAcg] [GAcg]f(gc') | [GAcg]f/f/- f4 z2 | z [GBf][GBf][GBf] [GBf]e(fb) | %15
+ ([GBf]e)de- e2 z (c/d/) | [FAce][FAce][FAce][FAce] [FAce] [FAce]2 (c/d/) | %17
+ [DBe][DBe][DBe][DBe] [Ed][DBe] e(c/d/) | [FAce][FAce][FAce][FAce] [FAce] b2 [FAce] | %19
+ [ABdf]4 [cdg]2 [efa]2 |!mf! !arpeggio![cegb]4 z2 [=Bdfa]2 | !arpeggio![_Bdeg]4 [A_df]c[GBdf]G | %22
+ !arpeggio![cegb]4 [=Bf_b]2 [Bfa]2 | [_Bdeg]8 | [=Aceg]4 cdef | [_Aceg]4 [Gcdf]4 || %26
+!mf! [deg]4 [Bdfg]4 | [EGc]4 [FGB]4 | [EFB]2 [EFB]2 [EAB] z [EAB]2 | %29
+ [D_GB]2 [DGB]2 [EFAB]2 [EFAB]2 | [DE=G]4 [FGB]4 | [EGc]4 [FGB]4 | [EFB]2 [EFB]2 [EAB]2 [EAB]2 | %33
+ [_FA]2 [FA]_d [_DG_c]2 [DGc]2 | [_GB_ce]4 [EB]4 | [_ceb]3 [cea] [cea]2 [ce_g]2 | [A_cdf]8 | %37
+!p! =cgfg c'gfg | cgfg c'gfg | cgfg c'gfg | cgfg c'gfg |!mf! z [GAcg][GAcg][GAcg] [GAcg]f(gc') | %42
+ [GAcg]f/f/- f4 z2 | z [GBf][GBf][GBf] [GBf]e(fb) | ([GBf]e)de- e2 z (c/d/) | %45
+ [FAce][FAce][FAce][FAce] [FAce] [FAce]2 (c/d/) | [DBe][DBe][DBe][DBe] [Ed][DBe]- [DBe](c/d/) | %47
+ [FAce][FAce][FAce][FAce] [FAce] b2 [FAce] | [ABdf]4 [cdg]2 [efa]2 | %49
+!f! [efb] [efb]2 [efb] [efb]agf | ([cdf]g/[Bce]/- [Bce]2) z2 (ga) | %51
+ [cegb][cegb][cegb][cegb] ([cegb]a)([Aceg]f) | [cdf] [cdg]3 x2 ef | (g3 c) e4- | %54
+ e4 z2!<(! c'd'!<)! |"_espressivo" [gc'e']e'(f'e') [gbd']2 gb | [eac'][eac'](ba) [efb]2 [fgb]2 | %57
+ [EFB]2 [EFB]2 [EAB]2 [EAB]2 | [D_GB]2 [DGB]2 [EFAB]2!<(! [cc'][dd']!<)! | %59
+ [gc'e'][ee']([ff'][ee']) [dgbd']2 [Gg][Bb] | [ceac'][ceac']([Bb][Aa]) [Befb]2 [Bfgb]2 | %61
+ [EFB]2 [EFB]2 [EAB]2 [EAB]2 | [_FA]2 [FA]_d [_DG_c]2 (3([Bb][c_c'][d_d']) | [_gb_c'e']4 [eb]4 | %64
+ [_ceb]3 [cea] [cea]2 [ce_g]2 | [A_cdf]8 |!mp! !arpeggio![cdg]3 [cdf]- [cdf]2 b2 | %67
+ !arpeggio![cdg]3 [cdf]- [cdf]4 | !arpeggio![GBdf]3 [Gce]- [Gce]2 b2 | %69
+ !arpeggio![GBdf]3 [Gce]- [Gce]2 d2 | [Gc]8 | [DG]4 [DFB]4 | !arpeggio![Bcdg]8 | %73
+ !arpeggio!!fermata![bc'd'g']8 |] %74
+V:3
+ A,E A6 | B,F B6 | E,B, E6 | C,G,DE- E4 | A,,E,A,C DC G2 | B,,F,A,C C4 | E,,B,,E,G, G,4 | %7
+ C,G, A,6 | F,,C, F,6 | G,,E,G,B,- B,4 | A,,E,A,C EA E2 | B,,F, A,6 | A,,E,A,C DC G2 | %13
+ B,,F,A,C C4 | E,,B,,E,G, G,4 | C,G, A,6 | F,,C, F,6 | G,,E,G,B,- B,4 | A,,E,A,C EA E2 | %19
+ B,,F, A,6 | A,,E,A,C G,,D,G,=B, | C,G,CE B,,2 E,,2 | A,,E,A,C G,,D,G,=B, | C,G,CD ED G2 | %24
+ F,,C,=A,C E4 | B,,F,_A,B, CB, D2 || C,G,CG, B,,G,DB, | A,,E,CE, G,,E,B,E, | _G,,4 F,,4 | %29
+ _F,,4 B,, B,2 B,, | C,G,CG, B,,G,DG, | A,,E,CE, G,,E,B,E, | _G,,4 F,,4 | _F,,4 E,,4 | %34
+ A,,E,_CE, G,,E,B,E, | F,,F,A,_C- CA, C2 | B,,A,_CD F4 | [A,=CEG]8 | [G,B,EF]8 | [F,A,CE]8 | %40
+ [G,B,DF]8 | A,,E,A,C DC G2 | B,,F,A,C C4 | E,,B,,E,G, G,4 | C,G, A,6 | F,,C, F,6 | %46
+ G,,E,G,B,- B,4 | A,,E,A,C EA E2 | B,,F, A,6 | A,,E,A,C G,,D,G,=B, | C,G,CE B,,2 E,,2 | %51
+ A,,E,A,C G,,D,G,=B, | C,G,CD ED G2 | F,,C,=A,C E4 | B,,F,_A,B, CB, D2 | C,G,CG, B,,G,DB, | %56
+ A,,E,CE, G,,E,B,E, | _G,,4 F,,4 | _F,,4 B,, B,2 B,, | C,G,CG, B,,G,DG, | A,,E,CE, G,,E,B,E, | %61
+ _G,,4 F,,4 | _F,,4 E,,4 | A,,E,_CE, G,,E,B,E, | F,,F,A,_C- CA, C2 | B,,A,_CD F4 | A,E A6 | %67
+ B,F B6 | E,B, E6 | C,G,DE- E4 | A,,E,A,C- C4 | B,,F,B,F, B,4 | E,,B,,E,G, B,4 | %73
+ !arpeggio!!fermata![E,,B,,]8 |] %74
+

@@ -1,0 +1,36 @@
+X:1
+T:Title
+%%score { 1 | ( 2 3 ) }
+L:1/8
+M:3/4
+K:Db
+V:1 treble nm="Grand Piano"
+V:2 bass 
+V:3 bass 
+V:1
+ z2 z2[Q:1/4=88] [FA]>[FA] | [FA]3- [FA]/[A,DF]/ (3[A,-C-F][A,C][K:bass][G,CE] | D2 D2 D>D | %3
+ B3- B/B/ (3BAF | [CE]4 [CA]>[CA] | [DA]3- [DA]/[A,DF]/ (3[A,-C-F][A,C][K:bass][G,CE] | %6
+ D2[K:treble] D2 F>F | E3- E/A/ (3AB[B,D=G] | [A,CA]4 [GA]>[GA] | %9
+ [Fd]3- [Fd]/[Fd]/ (3[Fd][Ac][GB] | [FA]2 [DF]2 [FA]>[FA] | c3- c/B/ (3BA[EG] | [DF]4 [FA]>[FA] | %13
+ [Fd]3- [Fd]/[Fd]/ (3[Fd-][Gd][Ad] | d2 B2 (3GAB | A3- A/A/ (3Ad[Gc] |[M:2/4] [Fd]4 | %17
+[M:1/4] [FA]>[FA] |[M:3/4] [FA]2 [DF]2 [Fd]>[Fd] | [Fd]2 [FA]2 [FA]>[FA] | %20
+ [GB]3- [GB]/[GB]/ (3[GB][FA][DF] |[M:2/4] [CE]4 |[M:1/4] (3ABc | %23
+[M:3/4] [Fd]3- [Fd]/[Fd]/ (3:2:2[Af]2 [Ae] | [Ad]2 B2 d>B | A3- A/d/ (3de[Gc] |[M:2/4] [Fd]4 |] %27
+V:2
+ z2 z2 [D,D]>[D,D] | [D,D]3- [D,D]/D,/ (3A,,-[A,,G]A,, | [D,F,]2 [D,F,]2 [D,F,]>[D,F,] | %3
+ [G,D]3- [G,D]/[G,D]/ (3:2:2[D,F,D]2 [D,A,D] | [A,,A,]4 [A,,G,]>[A,,G,] | %5
+ [D,F,]3- [D,F,]/D,/ (3A,,-[A,,G]A,, | [D,F,]2 [D,F,]2 [D,A,D]>[D,A,D] | z2 z2 E2 | A,,4 A,>A, | %9
+ [D,A,]3- [D,A,]/[D,A,]/ (3:2:2[D,A,]2 [D,D] | [D,D]2 [D,A,]2 [D,D]>[D,D] | %11
+ [A,EG]3- [A,EG]/[A,DG]/[K:bass] (3:2:2[A,CE]2 [A,,A,] | [D,A,]4 [D,A,]>[D,A,] | %13
+ [D,A,]3- [D,A,]/[D,A,]/ (3[D,A,-][E,A,][F,_C] | [G,B,G]2 [G,DG]2 (3:2:2[G,B,D]2[K:treble] [G,DG] | %15
+ z2 z2 F2[K:bass] |[M:2/4] [D,A,]4 |[M:1/4] [D,D]>[D,D] |[M:3/4] [D,D]2 [D,A,]2 [D,A,]>[D,A,] | %19
+ [D,A,]2 [D,D]2 [D,D]>[D,D] | [G,D]3- [G,D]/[G,D]/ (3:2:2[D,D]2 [D,A,] |[M:2/4] [A,,A,]4 | %22
+[M:1/4][K:treble] (3:2:2[A,CG]2 [A,G] |[M:3/4][K:bass] [D,A,]3- [D,A,]/[D,A,]/ (3:2:2[D,D]2 [E,C] | %24
+ [F,D]2[K:treble] [G,DG]2 [G,B,G]>[G,DG] | [A,DF]3- [A,DF]/[A,F]/ (3[A,-F][A,G][K:bass][A,,A,] | %26
+[M:2/4] [D,A,]4 |] %27
+V:3
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | [E,A,C]3- [E,A,C]/[E,CE]/ (3[E,-C][E,D]E, | x6 | x6 | x6 | %11
+ x4[K:bass] x2 | x6 | x6 | x16/3[K:treble] x2/3 | [A,DF]3- [A,DF]/[A,D]/ (3[A,D][K:bass]A,[A,,A,] | %16
+[M:2/4] x4 |[M:1/4] x2 |[M:3/4] x6 | x6 | x6 |[M:2/4] x4 |[M:1/4][K:treble] x2 | %23
+[M:3/4][K:bass] x6 | x2[K:treble] x4 | x16/3[K:bass] x2/3 |[M:2/4] x4 |] %27
+

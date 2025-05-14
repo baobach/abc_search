@@ -1,0 +1,55 @@
+X:1
+T:An den Frühling
+T:Franz Schubert
+T:An den Frühling
+C:Franz Schubert
+%%score 1 2 3 4
+L:1/8
+Q:1/4=120
+M:6/8
+K:G
+V:1 treble transpose=-12 nm="Part_1"
+V:2 treble transpose=-12 nm="Part_2"
+V:3 bass nm="Part_3"
+V:4 bass nm="Part_4"
+V:1
+"^D 338" d | d2 c e2 d | (BdB) !fermata!d2 B/c/ | (d2 c e2) g | BdB"^(1797-1828)" !fermata!d2 d | %5
+w: 1. Will-|kom- men schö- ner|Jüng- * * ling! Du _|Won- * * ne|der _ Na- tur! Mit|
+w: 2. Ei,|Ei, da bist ya|me- * * der! und *|bist * * so|lieb * und schön! Und|
+w: |||||
+w: |||||
+ ^c2 c c2 d | (^d2 e) A2 ^c | ^c2 c c2 d | (^d/e/ge/^c/) A2 =d | d3- d z g | g3- gec | Bed (cB)A | %12
+w: dei- nem Blu- men|körb- * chen will-|kom- men auf der|Flur! * * * * * Will-|komm- men, will-|kom- * men, will-|kom- * men auf _ der|
+w: freun wir uns so|herz- * lich, ent-|ge- gen dir zu|gehn! * * * * * Ei!|Ei! * Ei!|ei _ _ ent-|ge- * gen dir _ zu|
+w: |Mäd- * chen, und's|Mäd- chen hebt mwh|och! * * * * * Ei!|Ei! * Ei!|ei, _ _ ei,|Lie- * ber, den- * ke|
+w: |me- * der, und|du? du gwbst es|mu- * * * * * Will-|kom- men, will|kom- * men, wfll|kom- * men * * der|
+ (dB)g dBg | d6 | dBg dBg | d6- | !fermata!d6 :| %17
+w: Flur, _ la la _ la|la|la _ la la _ la|la.||
+w: gehn, * la la _ la|la|la _ la la _ la|la.||
+w: doch * la la _ la|la|la _ la la _ la|la.||
+w: lur, * la la _ la|la|la _ la la _ la|la.||
+V:2
+ B | B2 A c2 B | (GBG) !fermata!B2 B | (B2 A c2) B | GBG !fermata!B2 A | A2 A A2 A | ^c3 c2 A | %7
+w: ||||||1. körb- chen will-|
+w: ||||||2. herz- lich ent-|
+ A2 A A2 A | ^c3- !fermata!c2 d | A2 B/c/ B2 d | d2 e/=f/ e2 z | B z z d z z | BdB BdB | %13
+w: kom- men auf der|Flur! * Will-|kom- * * men, will-|kom- * * men|auf der|lur, _ la la _ la|
+w: ge- gen dir zu|gehn! * ent-|ge- * * gen, ent|ge- * * gen|dir zu|gehn, _ la la _ la|
+ A2 c A2 c | BdB BdB | A2 c A2 c | B6 :| %17
+w: la la la la|la _ la la _ la|la la la la|la|
+w: la la la la|la _ la la _ la|la la la la|la|
+V:3
+ D, | D,2 D, D,2 D, | D,3 !fermata!D,2 D, | D,3- D,2 D, | D,2 D, !fermata!D,2 F, | G,2 G, G,2 G, | %6
+w: 3. Denkst|auch noch an mein|Mäd- chen? Ei|lie- * ber,|den- ke doch! Dort||
+w: 4. Fürb|Mäd- chen man- ches|Blüm- chen er-|bat * lch|nur von dir, Ich||
+ G,3 G,2 G, | G,2 G, G,2 F, | G,3- !fermata!G,2 F, | (F,2 G,/A,/ G,2) B, | (B,2 C/D/ C2) z | %11
+w: 3. Mäd- chen und's|Mäd- chen liebt mich|noch! * Ei|Lie- * * ber, ei|Lie- * * ber,|
+w: 4. wie- der, und|du? du giebst es|mir. * Will-|kom- * * men, will-|kom- * * men|
+ G, z z F, z z | G,2 D, D,2 D, | F,D,A, F,D,A, | G,2 D, D,2 D, | F,D,A, F,D,A, | !fermata!G,6 :| %17
+w: den- ke|doch, la la la|la _ la la _ la|la la la la|la * la la * la|la|
+w: auf der|Flur, la la la|la _ la la _ la|la la la la|la * la la * la|la|
+V:4
+ G,, | G,,2 G,, G,,2 G,, | G,,3 !fermata!G,,2 G,, | G,,3- G,,2 G,, | G,,2 G,, !fermata!G,,2 D, | %5
+ A,,2 A,, A,,2 A,, | A,,3 A,,2 A,, | A,,2 A,, A,,2 A,, | A,,3 A,,2 D, | D,3 G,zG, | G,3 C, z z | %11
+ D, z z D, z z | G,,2 G,, G,,2 B,, | D,6 | G,,2 G,, G,,2 B,, | D,4- D,D, | G,,6 :| %17
+

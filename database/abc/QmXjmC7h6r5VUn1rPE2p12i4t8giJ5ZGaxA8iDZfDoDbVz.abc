@@ -1,0 +1,55 @@
+X:1
+T:Quasi adagio
+T:38-Winter Solstice Song 
+T:Béla Bartók Revised and Arranged by the Composer, January 1945 
+T:Book 1 (after Hungarian Folksongs)
+T:For Children Nr 38 , Sz 42
+C:Bela bartok
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=160
+M:2/4
+K:F
+V:1 treble nm="Piano"
+V:2 bass 
+V:1
+"^Molto vivace," z4 | z4 | z4 | z4 |[K:bass]"^marcato\n1+2\n" F,,4 | F,,4 | F,,4 |!f! F,,4 | %8
+[K:treble]!p!"^non legato" !1!FGAB |"_crescendo" !>!!tenuto!!1!!2!!4![FAc]3 d | !>![FAc]dcB | %11
+ A!1!G!3!AF | !>!!tenuto!A2 !tenuto!G2 | !tenuto!F2 [Ac]2 | B2 AG | !tenuto!F2 [Ac]2 | %16
+ !>!!4!B!4!BAG | !tenuto!F2 [Ac]2 | !>!B2 AG | !tenuto!F2!mf! !tenuto!F2 | %20
+!mp! !1!FG"_crescendo"AB | !>!!tenuto!!1!!2!!4![EAc]3 d | [EAc]dcB | A!1!G!3!AF | %24
+ !>!!tenuto!A2 !tenuto!G2 | !tenuto!F2 [Ac]2 | !>!B2 AG | !tenuto!F2 [Ac]2 | !>!_BBAG | %29
+ !tenuto!F2 [Ac]2 | !>!_B2 AG | !tenuto!F2!f! !tenuto!F2 | %32
+!mf! FG"_crescendo               poco a poco"AB | !^!!1!!2!!4![FAc]3 d | !>![FAc]dcB | AG!3!AF | %36
+ !>!!tenuto!A2 !tenuto!G2 | !tenuto!F2 [Ac]2 | !>!B2 AG | !tenuto!F2 !tenuto![Ac]2 | !>!BBAG | %41
+ !tenuto!F2 !^!!tenuto![Ac]2 | !>!B2 AG | !tenuto!F2 !tenuto!F2 | z4 | !^!!1!GAB!4!c | !4!BAG!1!F | %47
+ !^!EFG!4!A | !4!GFED | !^!!4!FEDC | !^!FEDC | !^!FEDC |[K:bass]"^marcatissimo\n1+2\n" !^!F,,4 | %53
+ !^!F,,4 | !^!F,,4 | !^!F,,4 |[K:treble]!ff! !>!!1!FGAB | !^!!2!!4![FAc]3 d | !^![FAc]dcB | %59
+ A!1!G!3!AF |"_dim." !>!!tenuto!A2 !tenuto!G2 | !tenuto!F2 [Ac]2 | B2 AG | !tenuto!F2 [Ac]2 | %64
+ !tenuto!BBAG | !tenuto!F2 [Ac]2 | !>!!tenuto!B2 AG | !tenuto!F2 [Ac]2 | !>!!tenuto!B2 AG | %69
+ !tenuto!F2 !tenuto!F2 | z4 | z4 | z4 | !tenuto!!3!A2 !tenuto!G2 | !tenuto!F2 !tenuto!c2 | z4 | %76
+ !tenuto!B2 AG | !tenuto!F2 !tenuto!c2 | z4 | !>!!4!B!4!BAG | !tenuto!F2 !tenuto!c2 | z4 | %82
+!pp! !tenuto!B2 AG | !tenuto!F2 !tenuto!F2 | z4 | z4 | z4 |[K:bass]"^marcato\n1+2\n" F,,4 | F,,4 | %89
+!ff!"^poco rit."[Q:1/4=140]"^T" F,,4 | !fermata!F,,4 |] %91
+V:2
+!p!"_non legato""^cresc." !1!F,E,D,C, | F,E,D,C, | F,E,D,C, | F,E,D,C, |!ped! F,E,D,C,!ped-up! | %5
+!ped! F,E,D,C,!ped-up! |!ped! F,E,D,C,!ped-up! |!ped! F,E,D,C,!ped-up! |!ped! F,E,D,C,!ped-up! | %9
+!ped! F,E,D,C,!ped-up! | F,E,D,C, | F,E,D,C, |!ped! !>!!5!F,,!1!E,D,!ped-up!C, | !1!F,E,D,C, | %14
+!ped! !>!!5!F,,!1!E,D,!ped-up!C, | !1!F,E,D,C, |!ped! !>!F,,E,D,!ped-up!C, | F,E,D,C, | %18
+!ped! !>!F,,E,D,!ped-up!C, | F,E,D,C, | !1!A,G,F,E, |!ped! A,G,F,!ped-up!E, | %22
+!ped! A,G,F,!ped-up!E, | A,G,!1!F,!3!C, |!ped! !>!!5!A,,!1!G,F,!ped-up!E, | !1!A,G,F,E, | %26
+!ped! !>!A,,G,F,!ped-up!E, | A,G,F,E, |!ped! !>!A,,G,F,!ped-up!E, | A,G,F,E, | A,G,F,E, | %31
+ A,G,F,!5!C, | DCB,A, |!ped! DCB,!ped-up!A, |!ped! DCB,!ped-up!A, |!ped! DCB,!ped-up!A, | %36
+!ped! D,!1!CB,!ped-up!A, | !1!DCB,A, |!ped! !>!D,CB,!ped-up!A, | DCB,A, |!ped! !>!D,CB,!ped-up!A, | %41
+ DCB,A, | DCB,A, | DCB,A, |!ped! !^!DC!ped-up!B,A, |!ped! !^!!4!G,A,!ped-up!B,!1!C | %46
+ !1!B,A,G,!4!F, |!ped! !^!!4!G,A,!ped-up!B,!1!C |!ped! !1!G,F,!ped-up!E,D, | %49
+!ped! !^!F,E,!ped-up!D,C, |!ped! !^!F,E,!ped-up!D,C, |!ped! !^!F,E,!ped-up!D,C, | %52
+!ped! !^!F,E,!ped-up!D,C, |!ped! !^!F,E,!ped-up!D,C, |!ped! !^!F,E,!ped-up!D,C, | %55
+!ped! !^!F,E,!ped-up!D,C, |!ped! !5!F,,!1!E,D,C,!ped-up! | !1!F,E,D,C, | %58
+!ped! !^!!5!F,,!1!E,D,C,!ped-up! | !1!F,E,D,C, |!ped! !^!F,,E,D,C,!ped-up! | F,E,D,C, | %62
+!ped! !^!F,,E,D,C,!ped-up! | F,E,D,C, |!ped! !^!F,,E,D,C,!ped-up! | F,E,D,C, | %66
+!ped! F,,E,D,C,!ped-up! | F,E,D,C, | !^!F,,E,D,C, | F,E,D,C, |!mp! F,E,D,C, | F,E,D,C, | %72
+"^sempre dim." F,E,D,C, | z4 | F,E,D,C, | F,E,D,C, | z4 | z4 | F,E,D,C, | z4 | z4 | F,E,D,C, | z4 | %83
+ z4 |"^cresc. molto" F,E,D,C, | F,E,D,C, | F,E,D,C, |!ped! F,E,!ped-up!D,C, | %88
+!ped! F,E,!ped-up!D,C, |!ped! F,E,!ped-up!D,C, | !fermata![C,F,]4 |] %91
+

@@ -1,0 +1,35 @@
+X:1
+T:bassoon and cello c minor
+T:Little Duet for Bassoon and Cello in C minor (1874) 
+T:Georges Bizet Arr. Arturo RamQui 
+%%score 1 2
+L:1/8
+Q:1/4=83
+M:4/4
+K:Eb
+V:1 bass nm="Fagot" snm="Fag."
+V:2 bass nm="Violonchelo" snm="Vc."
+V:1
+"^Andante"!p! (E2 D2 C2 D/C/=B,/C/ | .D)(D.E)E (D2 G,) z |!f! G2 (T^F2{^EF} G2) (TF2{EF} | %3
+ G).E.=F"_dim.".E (ED).=B,.G, |!p! (E2 D2 C2 D/C/=B,/C/ | .D)(D.E)E (D2 G,) z | %6
+!f! G2 (T^F2{^EF} G2) (TF2{EF} | G).G,"_dim." .D(D/E/ D2 C) z | %8
+!f! .E,(E,,/F,,/ G,,/A,,/B,,/C,/ D,/E,/F,/G,/ .A,).D, | .E,(E,/F,/ G,/A,/B,/C/ D/E/F/G/ .A).D | %10
+ .E.G B2 .G.E B,2 | (G,/B,/E/G/ .E).G, (P=A,2{G,A,} B,) z | %12
+ .E,(E,,/F,,/ G,,/A,,/B,,/C,/ D,/E,/F,/G,/ .A,).D, | .E,(E,/F,/ G,/A,/B,/C/ D/E/F/G/ .A).D | %14
+ .E._G !^!B2 .G.E !^!B,2 | .^A,.^C !^!^F2 .C.^A, !^!^F,2 | .^F,.=B, !^!D2 .B,.F, !^!D,2 | %17
+ .D,.G,[Q:1/4=78]"^rit..." !^!=B,2 .G,.B,"_dim." (D2 | %18
+[Q:1/4=83]"^a tempo"!p! ._E)(G,/E/ .D)(G,/D/ .C)(G,/C/ D/C/=B,/C/ | D/G,/=B,/D/ F/E/D/C/ D2 G,) z | %20
+!f! G2 (T^F2{^EF} G2) (TF2{EF} | G).G,[Q:1/4=78]"_rit..." .D(D/E/ D2 C) z |] %22
+V:2
+!p! .C,.G,.F,.G, .E,.G,.C,.G, | .=B,,.G,.C,.G, .B,,.G,.G,,.G, |!f! .E,.B,.D,.B,, .E,.B,.D,.B,, | %3
+ .E,.G,.B,,"_dim.".G, .=B,,.G,.G,,.G, |!p! .C,.G,.F,.G, .E,.G,.C,.G, | %5
+ .=B,,.G,.C,.G, .B,,.G,.G,,.G, |!f! .E,.B,.D,.B,, .E,.B,.D,.B,, | %7
+ E, z"_dim." !arpeggio![G,,F,=B,](F,/G,/ F,2) !arpeggio![C,,G,,E,] z | %8
+!f!!f!!f! !arpeggio![E,,B,,G,] z z2 z2 [B,,D,] z | !arpeggio![E,,B,,G,] z z2 z2 .[D,B,].A, | %10
+ !^!G,2 .E,.G, !^!B,2 .G,.E, | !^!B,,2 (G,,/B,,/E,/G,/) (PF,2{=E,F,} B,,) z | %12
+ !arpeggio![E,,B,,G,] z z2 z2 [B,,D,] z | !arpeggio![E,,B,,G,] z z2 z2 .[D,B,].A, | %14
+ !^!_G,2 .E,.G, !^!B,2 .G,.E, | !^!^A,,2 .^A,,.^C, !^!^F,2 .C,.^A,, | %16
+ !^!^F,,2 .F,,.=B,, !^!D,2 .B,,.F,, | !^!D,,2 .D,,.G,, !^!=B,,2"_dim." .G,,.B,, | %18
+!p! .C,.G,.F,.G, .E,.G,.C,.G, | .=B,,.G,.C,.G, .B,,.G,.G,,.G, |!f! .E,.B,.D,.B,, .E,.B,.D,.B,, | %21
+ E, z !arpeggio![G,,F,=B,](F,/G,/ F,2) !arpeggio![C,,G,,E,] z |] %22
+

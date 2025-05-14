@@ -1,0 +1,89 @@
+X:1
+T:Jeunes Fillettes
+T:Jeunes Fillettes
+T:Eighteenth Century French Bergerette
+T:arr. Weckerlin
+C:arr. Weckerlin
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=132
+M:2/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+V:2 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^\n" z4 | z4 | z4 | z4 | %4
+w: ||||
+ z4[Q:1/4=120][Q:1/4=118]"_.7"[Q:1/4=117]"_.3"[Q:1/4=114]"_.7"[Q:1/4=113]"_.3" | %5
+w: |
+[Q:1/4=112] z4[Q:1/4=109]"_.3"[Q:1/4=108][Q:1/4=106]"_.7"[Q:1/4=104][Q:1/4=102]"_.7" | %6
+w: |
+[Q:1/4=101]"_.3" z4[Q:1/4=96][Q:1/4=93]"_.3" |[Q:1/4=90]"_.7" z4[Q:1/4=85]"_.3"[Q:1/4=80] | %8
+w: ||
+[Q:1/4=132] A2 Bc | e2 B2 | Ac Ac | B4 | A2 Bc | e2 B2 | Ac Ac | (B4 | e)e ed/c/ | B2 d2 | %18
+w: Jeu- ne fil-|let- te,|Pro- fi- tez du|temp,|La vi- o-|le- te,|Se cueille au printemps,|_|* La la la ri-|ret- te,|
+ (c/B/)(A/c/) (B/A/)(^G/B/) | (A4 | e)e ed/c/ | B2 d2 | (c/B/)(A/c/) (B/A/)(^G/B/) | A2 z2 || %24
+w: La _ ri _ lon _ lan _|la,|_ La la la ri-|ret- te,|La _ ri _ lon _ lan _|la,|
+ G2 AB | dc BA | B2 A2 | G4 | G2 AB | dc BA | %30
+w: Cet- te fleu-|ret- te Passe en|peu de|temps,|Toute a- mou-|ret- te Passe é-|
+[Q:1/4=132] B2[Q:1/4=119] A2[Q:1/4=125]"^.5"[Q:1/4=112]"^.5" | %31
+w: ga- le-|
+[Q:1/4=106] ^G4[Q:1/4=99]"^.5"[Q:1/4=93][Q:1/4=86]"^.5"[Q:1/4=80] ||[Q:1/4=132] A2 Bc | e2 B2 | %34
+w: ment.|Jeu- ne fil-|let- te,|
+ Ac Ac | B4 | A2 Bc | e2 B2 | Ac Ac | (B4 | e)e ed/c/ | B2 d2 | (c/B/)(A/c/) (B/A/)(^G/B/) | (A4 | %44
+w: Pro- fi- tez du|temp,|La vi- o-|le- te,|Se cueille au printemps,|_|* La la la ri-|ret- te,|La _ ri _ lon _ lan _|la,|
+ e)e ed/c/ | B2 d2 | (c/B/)(A/c/) (B/A/)(^G/B/) | A2 z2 || G2 AB | dc BA | B2 A2 | G4 | G2 AB | %53
+w: _ La la la ri-|ret- te,|La _ ri _ lon _ lan _|la,|Dans le bel|â- ge Pre- nez|un a-|mi|S'il est vo-|
+ dc BA |[Q:1/4=120] B2[Q:1/4=110] A2[Q:1/4=115][Q:1/4=105] | %55
+w: la- * ge, Ren-|dez- le|
+[Q:1/4=100] ^G4[Q:1/4=95][Q:1/4=90][Q:1/4=85][Q:1/4=80] ||[Q:1/4=132]"^\n" A2 Bc | e2 B2 | Ac Ac | %59
+w: lui,|Jeu- ne fil-|let- te,|Pro- fi- tez du|
+ B4 | A2 Bc | e2 B2 | Ac Ac | (B4 | e)e ed/c/ | B2 d2 | (c/B/)(A/c/) (B/A/)(^G/B/) | (A4 | %68
+w: temp,|La vi- o-|le- te,|Se cueille au printemps,|_|* La la la ri-|ret- te,|La _ ri _ lon _ lan _|la,|
+ e)e ed/c/ | B2 d2 | (c/B/)(A/c/) (B/A/)(^G/B/) | A4- | A4 |] %73
+w: _ La la la ri-|ret- te,|La _ ri _ lon _ lan _|la,||
+V:2
+!f! z"^Con moto" [Ace][Ace][Aca] | [Ace]2 [ABd]2 | z [Ace][Ace][Aca] | [Ace]2 [ABd]2 | %4
+ [Ace]"^rit."d/e/ fe/d/ | cB/c/ dc/B/ | A2 GF | !fermata!E4 | z [CA][EB][Ac] | z [DE][D^F][D^G] | %10
+ z [CA][EB][Ac] | z [DE][D^F][D^G] | z [CA][EB][Ac] | z [DE][D^F][D^G] | [CA][Cc] [CA][Cc] | %15
+ z!<(! [FAB] z [E^GB]!<)! |!mf! z [EGe] z [EGe] | z [B,EB] z [DAd] |!p! z [EAc] z [E^GB] | %19
+!<(! z [CEA]2 [CEA]!<)! | z [EGe] z [EGe] | z [DFB] z [EBd] | z [EAc] z [DE^GB] | z [CE][CA] z || %24
+ z [EG] z [EG] | z [EG] z [EG] | z [DFG] z [DFA] | z [DFB] z !arpeggio![FBg] | z [EG] z [EG] | %29
+ z [EG] z [EG] |"^rit." z [D^FG] z [D=FA] | z [DFB] z !arpeggio!!breath!!fermata![D^Ge] || %32
+ z [CA][EB][Ac] | z [DE][D^F][D^G] | z [CA][EB][Ac] | z [DE][D^F][D^G] | z [CA][EB][Ac] | %37
+ z [DE][D^F][D^G] | [CA][Cc] [CA][Cc] | z!<(! [FAB] z [E^GB]!<)! |!mf! z [EGe] z [EGe] | %41
+ z [B,EB] z [DAd] |!p! z [EAc] z [E^GB] |!<(! z [CEA]2 [CEA]!<)! | z [EGe] z [EGe] | %45
+ z [DFB] z [EBd] | z [EAc] z [DE^GB] | z [CE][CA] z || z [EG] z [EG] | z [EG] z [EG] | %50
+ z [DFG] z [DFA] | z [DFB] z !arpeggio![FBg] | z [EG] z [EG] | z [EG] z [EG] | %54
+"^rit." z [D^FG] z [D=FA] | z [DFB] z !arpeggio!!breath!!fermata![D^Ge] || z [CA][EB][Ac] | %57
+ z [DE][D^F][D^G] | z [CA][EB][Ac] | z [DE][D^F][D^G] | z [CA][EB][Ac] | z [DE][D^F][D^G] | %62
+ [CA][Cc] [CA][Cc] | z!<(! [FAB] z [E^GB]!<)! |!mf! z [EGe] z [EGe] | z [B,EB] z [DAd] | %66
+!p! z [EAc] z [E^GB] |!<(! z [CEA]2 [CEA]!<)! | z [EGe] z [EGe] | z [DFB] z [EBd] | %70
+ z [EAc] z [DE^GB] | z [CE] !arpeggio![CA]2- | [CA]4 |] %73
+V:3
+ [A,CE]4- | [A,CE]2 [A,DF]2 | [A,CE]4- | [A,CE]2 [A,DF]2 | [A,CE] z z2 | z4 | z4 | %7
+ z2 !fermata![E,^G,D]2 |!mf!{/^D,} [A,,E,]4 |{/^D,} [A,,E,]4 |{/^D,} [A,,E,]4 |{/^D,} [A,,E,]4 | %12
+!p!{/^D,} [A,,E,]4 |{/^D,} [A,,E,]4 | F,A,F,A, | D,2 E,2 | C,CC,C | G,2 F,2 | (E,2 E,,2) | A,,4 | %20
+!mf! C,CC,C | ^G,2 E,2 | A,2 E,2 | A,,2- A,, z ||!p! G,2 A,B, | DCB,A, | B,2 A,2 | G,2 G,,2 | %28
+ G,2 A,B, | DC B,A, | B,2 A,2 | ^G,2 E,2 ||!mf!{/^D,} [A,,E,]4 |{/^D,} [A,,E,]4 |{/^D,} [A,,E,]4 | %35
+{/^D,} [A,,E,]4 |!p!{/^D,} [A,,E,]4 |{/^D,} [A,,E,]4 | F,A,F,A, | D,2 E,2 | C,CC,C | G,2 F,2 | %42
+ (E,2 E,,2) | A,,4 |!mf! C,CC,C | ^G,2 E,2 | A,2 E,2 | A,,2- A,, z ||!p! G,2 A,B, | DCB,A, | %50
+ B,2 A,2 | G,2 G,,2 | G,2 A,B, | DCB,A, | B,2 A,2 | ^G,2 E,2 ||!mf!{/^D,} [A,,E,]4 | %57
+{/^D,} [A,,E,]4 |{/^D,} [A,,E,]4 |{/^D,} [A,,E,]4 |!p!{/^D,} [A,,E,]4 |{/^D,} [A,,E,]4 | F,A,F,A, | %63
+ D,2 E,2 | C,CC,C | G,2 F,2 | (E,2 E,,2) | A,,4 |!mf! C,CC,C | ^G,2 E,2 | A,2 E,2 | A,,2- A,,2- | %72
+ A,,4 |] %73
+V:4
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | z2 !fermata!B2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %17
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 | %36
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | %55
+ x4 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %73
+V:5
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 || C,4- | C,4 | x4 | x4 | C,4- | C, z z2 | x4 | x4 || x4 | x4 | x4 | x4 | %36
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 || C,4- | C,4 | x4 | x4 | C,4- | %53
+ C, z z2 | x4 | x4 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %71
+ x4 | x4 |] %73
+

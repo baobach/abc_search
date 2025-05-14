@@ -1,0 +1,68 @@
+X:1
+T:Winterreise, D.911
+T:Der stürmische Morgen
+T:Winterreise, D.911
+T:18. Der stürmische Morgen
+T:Franz Schubert
+T:Wilhelm Müller
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+C:Franz Schubert
+Z:Wilhelm Müller
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=80
+M:4/4
+K:F
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:1
+"^Ziemlich geschwind, doch kräftig." z8 | z8 | z4 z2 z!f! D | D3/2 E/ D/E/ F/G/ A2 D A | %4
+w: ||Wie|hat der Sturm _ zer- * ris- sen des|
+ A3/2 d/ ^c d e3 A | B3/2 G/ E/^C/ E/G/ B2 C A | D A E A ^F _e d B | ^G2 A2 D2 z2 | z4 z2 z B | %9
+w: Him- mels grau- es Kleid! die|Wol- ken fe- * tzen _ flat- tern um-|her in mat- tem Streit, um- her in|mat- tem Streit.|Und|
+ B3/2 B/ B/c/ d/c/ B2 F B/A/ | G A B d/c/ B2 z B | B3/2 B/ B/c/ d/c/ B2 F B | d _e c d B2 z B | %13
+w: ro- the Feu- * er- * flam- men zieh'n _|zwi- schen ih- nen _ hin, das|nenn' ich ei- * nen _ Mor- gen so|recht nach mei- nem Sinn! Mein|
+ B3/2 G/ E/^C/ E/G/ B2 C A | D A E A ^F2 z _e | _e3/2 e/ e e e2 _E d | ^c3/2 c/ c c c2 ^C c | %17
+w: Herz sieht an _ dem _ Him- mel ge-|malt sein eig- nes Bild, es|ist nichts als der Win- ter, es|ist nichts als der Win- ter, der|
+ d B ^G A D2 z2 | z8 |] %19
+w: Win- ter kalt und wild!||
+V:2
+ (!>!D/E/^C/D/) .E.A (!>!^F/G/E/F/) .G.d | %1
+ (!>!^G/d/!>!A/d/ !>!B/d/!>!=B/d/) [Bdf^g]2 z (3(D/^C/=C/ | %2
+ =B,)(3(F/D/_B,/ !wedge!A,)!wedge![ea^c'] .[fad']2 z .D | (D>E D/E/F/G/) (A2 D).A | %4
+ .A>.d.^c.d !>!e3 .A | (B>G E/^C/E/G/) (B2 C)!>(! (A | D)!>)!!>(!(AE)!>)!!>(!(A ^F)!>)!._e.d.B | %7
+ ^G2 A2 D (3(f/d/=B/ (3d/B/G/ (3B/G/F/ | %8
+ (3^G/F/D/ (3F/D/=B,/ !wedge!A,)!wedge![ea^c'] [fad']2 z[K:bass] [F,_B,D] | %9
+ [F,B,D]>[F,B,D][F,B,D][_G,A,_E] [F,B,D]3 B,/A,/ | G,[_E,G,][D,B,]{D}[E,A,C] [D,B,]>B,B,B, | %11
+ [D,B,D]>[D,B,D][D,B,D][_G,A,_E] [F,B,D]3 [F,B,D] | %12
+ [F,B,D][_E,B,_E][E,B,C][F,=A,D] [D,F,B,]>[K:treble]BBB |!>(! (B>!>)!G E/^C/E/G/) (B2 C)!>(! (A | %14
+ D)!>)!!>(!(AE)!>)!!>(!(A (^F)!>)!A/c/ _e)e | %15
+!ff! [Ac^f]/[Acf]/[Acf]/[Acf]/ [Acf]/[Acf]/[Acf]/[Acf]/ [Acf]3 !wedge![Bdg] | %16
+!ff! [A=ega]/[Aega]/[Aega]/[Aega]/ [Aega]/[Aega]/[Aega]/[Aega]/ [Aega]3 (^c | %17
+ d).B.^G.A .D (3(f/d/=B/ (3d/B/G/ (3B/G/F/ | %18
+ (3^G/F/D/ (3F/D/=B,/ !wedge!A,)!wedge![ea^c'] [fad']2 z2 |] %19
+V:3
+!f! (D,/E,/^C,/D,/) .E,.A, (^F,/G,/E,/F,/) .G,.D | %1
+ (^G,/D/A,/D/ B,/D/=B,/D/) [B,DF^G]2 z (3(D,/^C,/=C,/ | %2
+ =B,,)(3(F,/D,/_B,,/ !wedge!A,,)!wedge![A,,A,] [D,,D,]2 z .D, | (D,>E, D,/E,/F,/G,/) (A,2 D,).A, | %4
+ .A,>.D.^C.D E3 .A, | (B,>G, E,/^C,/E,/G,/) (B,2 C,) (A, | %6
+ D,)(A,E,)(A, ^F,).[_E,_E].[D,D].[B,,B,] | !>![^G,,^G,]2 !>![A,,A,]2 [D,,D,] .G,,.=B,,.D, | %8
+ .F,.^G, !wedge!A,,!wedge![A,,A,] [D,,D,]2 z!ff! [B,,,B,,] | %9
+ [B,,,B,,]>[B,,,B,,] [B,,,B,,][B,,,B,,] [B,,,B,,]3 [D,,D,] | %10
+ [_E,,_E,][C,,C,][G,,,G,,][F,,,F,,] [B,,,B,,]>B,,B,,B,, | %11
+ [B,,,B,,]>[B,,,B,,][B,,,B,,][B,,,B,,] [B,,,B,,]3 [B,,,B,,] | %12
+ [_A,,,_A,,][G,,,G,,][_G,,,_G,,][F,,,F,,] [B,,,B,,]>B,B,B, | (B,>G, E,/^C,/E,/G,/) (B,2 C,) (A, | %14
+ D,)(A,E,)(A, (^F,)A,/C/ _E)E | %15
+ [_E,_E]/[E,E]/[E,E]/[E,E]/ [E,E]/[E,E]/[E,E]/[E,E]/ [E,E]3 !wedge![D,D] | %16
+ [^C,A,^C]/[C,A,C]/[C,A,C]/[C,A,C]/ [C,A,C]/[C,A,C]/[C,A,C]/[C,A,C]/ [C,A,C]3 ([C,C] | %17
+ [D,D]).[B,,B,].[^G,,^G,].[A,,A,] .[D,,D,] .G,,.=B,,.D, | %18
+ .F,.^G, !wedge!A,,!wedge![A,,A,] [D,,D,]2 z2 |] %19
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x7[K:bass] x | x4 x2 x F, | x8 | x8 | %12
+ x11/2[K:treble] x5/2 | x8 | x8 | x8 | x8 | x8 | x8 |] %19
+

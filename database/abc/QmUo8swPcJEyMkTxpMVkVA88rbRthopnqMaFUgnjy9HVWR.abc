@@ -1,0 +1,52 @@
+X:1
+T:Bach Concerto in F moll
+T:Arioso from Cantata BWV 156
+T:Johann Sebastian Bach
+T:for Flute and Piano
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=35
+M:4/4
+K:A
+V:1 treble nm="Flute" snm="Fl."
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:1
+ z8 | z8 | c2- c/d/e/f/ B2- B/c/d/e/ | Aa/f/ d2- d/b/g/e/ Tdc/d/ | cB/A/- A z a2- a/f/g/a/ | %5
+ B2- B/^d/f/a/ g2- g/e/c/B/ | A2- A/c/e/g/ f2- f/^d/B/A/ | G/B/^d/e/ e2- e/f/a/c'/ T^d>e || %8
+[M:2/4] e2 z2 ||[M:4/4] c/4B/4c3/2- c/d/e/f/ c/>B/B- B/c/d/e/ | %10
+ Aa/f/ d-d/4e/4d/4c/4 d/b/g/e/ e/Tdc/4d/4 |{d} cB/A/ z2 a2- a/g/4f/4g/a/ | %12
+ B2- B/^d/f/a/ a/>g/g/>g/- g/4f/4e/4d/4c/B/ | %13
+ A-A/4B/4A/4G/4 A/c/e/g/ f2- f/4e/4^d/4e/4f/4d/4B/4A/4 | %14
+ G/B/^d/e/ e2- e/f/4g/4a/4g/4a/4c'/4 e/Tde/ | e2 z2 =g2- g/f/4e/4d/4c/4B/ | %16
+ B^A- A/B/c/d/ e/f/=g/^a/ c'/e/-e/4f/4g/4f/4 | e/d/(3c/4d/4c/4B/ d'2- d'/c'/b/c'/4^a/4 b2- | %18
+ b/=a/=g/f/ e/d/c/^a/ (b/(3c'/4b/4a/4b/c'/){/d'} Tc'>b | !breath!b4 d2- d/4e/4d/4c/4d/b/ | %20
+{d} c2- c/A/B/c/ d/4e/4d/4c/4d/4e/4f/4=g/4 a/g/4f/4g/4c/4g/- | %21
+ Tgf z/ B/c/d/ (3G/F/G/(3A/G/A/ (3B/A/B/(3c/B/c/ | %22
+ (3d/c/d/b- b/4c/4d/4e/4d/4c/4B/ c/e/a/f/ e/d/g/a/ | TcB z2 (c2- c/4B/4d/4c/4e/4d/4f/) | %24
+ f/(B/-B- B/4A/4c/4B/4d/4c/4e/) (e/A/a/f/ e/d/d | %25
+ d/)(b/g/e/) (Tdc/d/) (d/4c/4d/4e/4)(d/4c/4B/4A/4) A(3(=G/4A/4G/4)F/4G/4 | %26
+ (F2- F/G/)(G/A/) (A/4B/4A/4)G/4(A/4d/4B/)({A} TG>A) | %27
+ A2- A/(c/(3f/^d/e/ e/a/)(.=d/.c/)[Q:1/4=25]{ABc} (TB>A) | !fermata!A4 z4 |] %29
+V:2
+ z [EAc][Ace] z z [EB][GBe] z | z [EA][DAd] z z [EGB][GBe] z | z [EAc][Ace] z z [EB][GBe] z | %3
+ z [EA][DAd] z z [GBd][dgb] z | z [cea][EAc] z z [FAc][Acf] z | z [ABf][FAB] z z [EGB][GBe] z | %6
+ z [EA][A,EG] z z [FB][B,FA] z | z [AB][GBe][EB^d] [EAc][Acfa][GBd][FA] || %8
+[M:2/4] z [EAB] [Ge][EBd] ||[M:4/4] z [EAc][Ace] z2 [EB][GBe] z | z [EA][DAd] z2 [GBd][dgb] z | %11
+ z [cea][EAc] z2 [FAc][Acf] z | z [ABf][FAB] z2 [EGB][GBe] z | z [EA][A,EG] z2 [FB][B,FA] z | %14
+ z [AB][GBe][EB^d] [EAc][Acfa][GBd][FA] | z [EAB][Ge][EBd] z [Be=g][=GBe] z | %16
+ z [E=Gc][CEG] z2 [^Gce][CEF] z | z [FBd] [B,DF]2- [B,DF][Bdf] [DFB]2- | %18
+ [DFB][ceb][=GB][D^Ae] [FBd][^Gc][B,CF][^A,E] | z [B,DF][DFB] !breath!z z [FBd][B,DE] z | %20
+ z [CE][CEA] z2 [A,DA][DAB][EAc] | z [FAd][Adf] z2 [A,DA][B,DG][CDF] | %22
+ [B,DE][DBf][EBe][GBd] [EAc][Aea][Adg][A,FA] | z [B,EA][B,EG] z2 [EAc][Ace] z | %24
+ z [EB][GBe] z2 [EA][DAd] z | z [GBd][dgb] z2 [EAc][CE=G][CEA] | %26
+ z [A,DF][B,FB][=CFA] z [B,A][^CEG]D | z [CA][EAe][FA^d] [FAe][FA][A,DE]G, | %28
+ z [A,CE] [CEA]2- [CEA]4 |] %29
+V:3
+ A,3 A, G,3 G, | F,3 F, E,3 E, | A,3 A, G,3 G, | F,3 F, E,3 E, | A,3 G, F,3 E, | ^D,3 D, E,3 E, | %6
+ C,3 C, ^D,3 D, | E,3 G, A,F,B,B,, ||[M:2/4] E,3 z ||[M:4/4] A,3 A, G,3 G, | F,3 F, E,3 E, | %11
+ A,3 G, F,3 E, | ^D,3 D, E,3 E, | C,3 C, ^D,3 D, | E,3 G, A,F,B,B,, | E,3 z C,3 E, | %16
+ F,3 =G, ^A,,3 F,, | B,,3 B, A,3 A, | =G,3 G, F,E,F,F,, | B,,3 A, G,3 E, | A,3 =G, F,3 A, | %21
+ D,3 C, B,,3 A,, | G,,3 E,, A,,C,F,D, | E,3 G, A,3 A, | G,3 G, F,3 F, | E,3 E, A,3 A,, | %26
+ D,3 B,, E,3 E, | F,2 z B,, D,D,E,E,, | !fermata!A,,4 z4 |] %29
+

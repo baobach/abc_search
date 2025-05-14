@@ -1,0 +1,36 @@
+X:1
+T:PROMENADE
+T:PROMENADE
+%%score { ( 1 2 ) | 3 }
+L:1/8
+Q:1/4=104
+M:5/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 treble 
+V:1
+"^Tranquillo" z4!p!!8va(! ([fad']2 e'a' [ad'f']2 | %1
+[M:6/4] e'a' [_bd'f']2 [gbd']2 [e'g'e'']2 [e'g'_b']2 [e'g'a']2)!8va)! | %2
+[M:7/4] z4 ([G_B]2 [EA]2 [FAd]2"_cresc." ea [Adf]2 | %3
+[M:6/4] ea [Fdf]2 [D_Bd]2 [EGe]2 [_B,FB]2 [A,EA]2) |[M:5/4] z4[K:bass]!mf! [^C,^C]4 [G,G]2 | %5
+[M:7/4] [E,E]2 [A,A]3 z[K:treble]!<(! ([Aa]2 [_B_b]2!<)!!f!!>(! [Aa]2 [Gg][Ff])!>)! || %6
+[M:5/4]!mf! ([Aa]2 [_B_b]2 [Gg]2) ([Aa][Bb] [Ee]2) || %7
+[M:6/4] ([_B_b][cc'] [Aa]2 [aa']2 [ff']2"_dim." [ee'][dd'] [Aa]2) | %8
+[M:5/4] z2[Q:1/4=96]"_" A,2[Q:1/4=88]"^." A2[Q:1/4=124]"_"{/d'} ([fac']/[I:staff +1][FAc]/[I:staff -1][_df_a]/[I:staff +1][F_AB]/)[I:staff -1] z2 || %9
+[M:3/4][Q:1/4=96]"_e poco rit." =A2[Q:1/4=92]"^P" z2[Q:1/4=88]"^P" a[Q:1/4=84]"^P" z |] %10
+V:2
+ x4!8va(! x2 [ac']2 x2 |[M:6/4] [ac']2 x10!8va)! |[M:7/4] x10 [A^c]2 x2 |[M:6/4] [Ac]2 x10 | %4
+[M:5/4] x4[K:bass] x6 |[M:7/4] x6[K:treble] x8 ||[M:5/4] x10 ||[M:6/4] x12 |[M:5/4] x10 || %9
+[M:3/4] x6 |] %10
+V:3
+ z4 (d2 [ce]2 [df]2 |[M:6/4] [ce]2 [_Bd]2 [GB]2 [EBd]2 [GBd]2 [A^c]2) | %2
+[M:7/4][K:bass] z4 ([G,D]2 [A,^C]2 [F,D]2 [E,C]2 [D,D]2 | %3
+[M:6/4] [C,C]2 [_B,,_B,]2 [G,,G,]2 [C,,C,]2 [D,,D,]2 [^C,,^C,]2) | %4
+[M:5/4] [A,,,A,,]2 [_B,,,_B,,]2 [E,,,E,,]2 [A,,,A,,][B,,,B,,] [E,,,E,,]2 | %5
+[M:7/4] ([_B,,,_B,,][C,,C,] [A,,,A,,]2 [A,,A,]2 [F,,F,]2 [E,,E,][D,,D,] [A,,,A,,]2 [B,,,B,,]2) || %6
+[M:5/4] [F,,,F,,]2 [G,,,G,,]6 [_B,,,_B,,]2 || %7
+[M:6/4] [E,,E,]4 [A,,,A,,]2 [_B,,,_B,,]2 [G,,,G,,]2 [A,,,A,,]2 | %8
+[M:5/4] z2 A,,2 A,2[K:treble][I:staff -1] [fac']/[I:staff +1][FAc]/[I:staff -1][_df_a]/[I:staff +1][F_AB]/ z2 || %9
+[M:3/4] =A,2 z2 A z |] %10
+

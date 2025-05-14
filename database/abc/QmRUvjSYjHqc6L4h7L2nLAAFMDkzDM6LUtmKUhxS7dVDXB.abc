@@ -1,0 +1,60 @@
+X:1
+T:Tmavomodrý svět
+T:Tmavomodrý svět
+T:Blues ze hry "Ostrov Dynamit"
+T:Jaroslav Ježek
+C:Jaroslav Ježek
+%%score { ( 1 2 ) | 3 }
+L:1/8
+Q:1/4=75
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:1
+"^Tempo di Blues \n\n"!p! [B,EG][=B,FA][C^F=A][_DGB]- B c2 B | _G>A GF- [A,DF]3 z | %2
+ [B,EG][=B,FA][C^F=A][_DGB]- [DGB] c2 B | _G>A GF- [A,DF]3 z || %4
+!p! [B,EG][=B,FA][C^F=A][_DGB]- [DGB]4 | _G G2 E- E4 | [_B,E=G]2 [G,CE]2 [__B,E_G]2 [A,DF]2 | %7
+ [G,B,E]2 [B,B]2 B2 B2 | [B,EG][=B,FA][C^F=A][_DGB]- [DGB]4 | _G G2 E- E4 | %10
+ [_B,E=G]2 [G,=CE]2 [E,A,C]2 [A,B,]2 | [G,B,E]2 C>B, [G,E]2 z2 | %12
+ [_G_ce_g]f!<(!e[Gceg]- [Gceg]2 [cefa]2!<)! | [Be=gb]2!>(! =ab- ba [Begb]2!>)! | %14
+ [_G_ce_g]fe[Gceg]- [Gceg]feg | fe!<(! [_G_ce_g]4 [E=A=ce]2!<)! | %16
+!>(! [df]2 B>!>)!!<(!c _d>=d [df]2!<)! | [B,EG][=B,FA][C^F=A][_DGB]- [DGB]4 | _G G2 E- E4 | %19
+ [=A,=CE=G]2!<(! [A,CE]2 [A,CEG]2 [A,CE]2!<)! | [DFB]2 g>f [Gc]>[FB] c>B || [_DGB]2 z2 z4 | %22
+ [Gc][FB][Gc][FB] c/B/c/B/ c/B/c/B/ | [E_G]8 | [EA][_D_G][EA][DG] A/G/A/G/ A/G/A/G/ | %25
+ [=G,B,CE]6 z2 |{/EF^F} G2 E2 !tenuto![__B,E_G] [A,D=F]3 | [G,B,CE]4 B4 | [_DGB]4 z4 | %29
+ [Gc][FB][Gc][FB] c/B/c/B/ cB | [E_G]8 | [EA][_D_G][EA][DG] A/G/A/G/ A/G/A/G/ | [=G,B,E]8 | %33
+{/^F} G2 E2 _G2 =F2 | [G,E]2 [G,B,]>[^F,C] [G,E]2 z2 |!mf! e2 f2 _g3 b | [_cea]2 [ce_g]2 fe z2 | %37
+ [=GBe=g]6 a=a |!f! [Begb]2{/=b} c'>_b !tenuto!g e3 |!mf! c2 d2 e3 g | f2 e2 d2 c2 | [_cea]6 g_g | %42
+ [A=cdf]4 [A,CD^F]4 |!p! [_DGB]2 z2 z4 | [Gc][FB][Gc][FB] c/B/c/B/ c/B/c/B/ | [E_G]8 | %46
+ [EA][_D_G][EA][DG] A/G/A/G/ A/G/A/G/ | [=G,B,CE]6 z2 |{/F^F} G2 E2 [__B,E_G]2 [A,D=F]2 | %49
+ [G,B,E]4 [EGB]4 |!pp! [cgc']6 z2 |] %51
+V:2
+ x4 [DG]4 | [__B,E]2 [B,E][A,D]- x4 | x5 [_DG]3 | [__B,E]2 [B,E][A,D]- x4 || x8 | %5
+ [__B,E]3 [B,_C]- [B,C]4 | x8 | x4 C>^C [D^F]2 | x8 | [__B,E]3 [B,_C]- [B,C]4 | x8 | x2 ^F,2 x4 | %12
+ x8 | x8 | x8 | [_G_c]2 x6 | _A2 [DF]2 B2 A2 | x8 | [__B,E]3 [B,_C]- [B,C]4 | x8 | %20
+ x2 [Ac]2 D2 [D^F]2 || x8 | x4 G4 | x8 | x4 E4 | x8 | x8 | x4 [CE]>[^C=E] [DF]2 | x8 | x4 G4 | x8 | %31
+ x4 E4 | x8 | x4 [A,D]4 | x8 | [_G_c]4 [ce]4 | x4 [_G_c]2 x2 | x6 [=ce]2 | x8 | [E=A]4 [Gc]4 | %40
+ [=Ac]4 [EA]4 | x6 [B_d]2 | x8 | x8 | x4 G4 | x8 | x4 E4 | x8 | x8 | x8 | x8 |] %51
+V:3
+ E,,2 E,2 E,,2 [E,G,B,]2 | _C,,2 _C,2 B,,B,,,=C,,D,, | E,,2 E,2 E,,2 [E,G,B,]2 | %3
+ _C,,2 _C,2 B,,B,,,=C,,D,, || E,,2 E,2 E,,2 [E,G,B,]2 | _C,,2 [_C,E,_G,]2 C,,2 [C,E,G,]2 | %6
+ B,,,2 B,,2 [_C,,_C,]2 [B,,,B,,]2 | [E,,E,]2 B,,2 B,,2 [B,,A,]2 | E,,2 E,2 E,,2 [E,G,B,]2 | %9
+ _C,,2 [_C,E,_G,]2 C,,2 [C,E,G,]2 | B,,,2 B,,2 F,,2 [B,,D,]2 | [E,,E,]2 [A,,E,]2 [E,,B,,E,]2 E,,2 | %12
+ [_C,,_C,]2 [_G,_CE]2 [C,,C,]2 [G,CE]2 | [E,,E,]2 [=G,B,E]2 [E,,E,]2 [G,B,E]2 | %14
+ [_C,,_C,]2 [_G,_CE]2 [C,,C,]2 [G,CE]2 | [_C,,_C,]2 [_G,_CE]2 [C,,C,]2 [F,,=C,F,]2 | %16
+ B,,2 B,2 F,2 B,,2 | E,,2 E,2 E,,2 [E,G,B,]2 | _C,,2 [_C,E,_G,]2 C,,2 [C,E,G,]2 | %19
+ F,,2 F,2 F,,2 F,2 | [B,,_A,]2 D2 A,2 [B,,A,]2 || E,,2 [E,G,B,]2 E,,2 [E,G,B,]2 | %22
+ E,,2 [G,_DE]4 [G,DE]2 | [_C,,_C,]2 [E,__B,_C]2 [C,,C,]2 [E,_B,C]2 | %24
+ [_C,,_C,]2 [E,__B,_C]4 [E,B,C]2 | E,,2 B,,2 C,2 E,2 | [B,,G,]4 [_C,,_C,]2 [B,,,B,,]2 | %27
+ E,,2 E,2 [B,,A,]4 | E,,2 [E,G,B,]2 E,,2 [E,G,B,]2 | E,,2 [G,_DE]4 [G,DE]2 | %30
+ [_C,,_C,]2 [E,__B,_C]2 [C,,C,]2 [E,B,C]2 | [_C,,_C,]2 [E,__B,_C]4 [E,B,C]2 | E,,2 B,,2 C,2 E,2 | %33
+ [B,,G,]4 [B,,,B,,]4 | [E,,B,,E,]6 E,,2 | [_C,,_C,]2 [_G,_CE]2 [C,,C,]2 [G,CE]2 | %36
+ [_C,,_C,]2 [_G,_CE]2 [C,,C,]2 [G,CE]2 | [B,,,B,,]2!<(! [=G,B,E]2 [E,,E,]2 [=CE]2!<)! | %38
+ [E,,E,]2{/=B,} C>_B, !tenuto!G, E,3 | F,,2 [F,=A,C]2 F,,2 [F,A,E]2 | %40
+ [C,,C,]2 [F,=A,E]2 F,,2 [F,A,C]2 | F,,2!>(! [A,_CE]2 F,,2 [=E,B,_D]2!>)! | %42
+ [B,,,B,,]2 [F,B,^D]2 B,,2 B,,,2 | E,,2 [E,G,B,]2 E,,2 [E,G,B,]2 | E,,2 [G,_DE]4 [G,DE]2 | %45
+ [_C,,_C,]2 [E,__B,_C]2 [C,,C,]2 [E,_B,C]2 | [_C,,_C,]2 [E,__B,_C]4 [E,B,C]2 | E,,2 B,,2 C,2 E,2 | %48
+"^rit." [B,,G,]4 [_C,,_C,]2 [B,,,B,,]2 | [E,,B,,E,]4 [B,C]4 | [EGB]6 z2 |] %51
+

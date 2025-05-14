@@ -1,0 +1,108 @@
+X:1
+T:Liederkreis, Op.39
+T:Mondnacht
+T:5. Mondnacht
+T:Robert Schumann
+T:Liederkreis, Op.39
+T:Joseph von Eichendorff
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+C:Robert Schumann
+Z:Joseph von Eichendorff
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 6 ) }
+L:1/8
+Q:1/4=32
+M:3/8
+K:E
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:6 bass 
+V:1
+"^Zart, heimlich." z3 | z3 | z3 |[Q:1/8=58] z3 | z3 | z z!p![Q:1/8=64] c | c2 c | (c- c/d/^e/) f/ | %8
+w: |||||Es|war, als|hätt' _ _ _ der|
+ f2 B | z z B | e2 B | (PG2 F/) E/ | B3 | z3 | c c z/ c/ | (c- c/d/^e/) f/ | f2 B | z z B | e2 B | %19
+w: Him- mel|die|Er- de|still _ ge-|küsst,||dass sie im|Blü- * * * ten-|schim- mer|von|ihm nur|
+ (PG2 F/) E/ | B3- |[Q:1/8=58] B2 z | z3 | z3 | z3 |[Q:1/8=54] z3 | z3 | z z!p![Q:1/8=60] c | %28
+w: träu- * men|müsst'.|_||||||Die|
+ c2 c | (c- c/d/^e/ f/) | f2 B | z z B | e2 B | (G2 F/) E/ | B3 | z z c | c2 c | (c- c/d/^e/) f/ | %38
+w: Luft ging|durch _ _ _ die|Fel- der,|die|Aeh- ren|wog- * ten|sacht,|es|rausch- ten|leis' _ _ _ die|
+ f2 B | z z B | e2 B | (PG2 F/) E/ |"^ritard."[Q:1/8=56] B3 | z z B |!<(! B2 B | %45
+w: Wäl- der,|so|stern- klar|war _ die|Nacht.|Und|mei- ne|
+ (B- B/F/{GF}^E/)!<)!!mf! F/ | A2 G | z3 |!mp!!<(! B B3/2 B/!<)! |!mf! e2 ^B | c3- | c2 z | %52
+w: See- * * * le|spann- te||weit ih- re|Flü- gel|aus,|_|
+ c c3/2 c/ | (c- c/d/^e/) f/ | f2 B | z z!<(! B | e2!<)!!f! B- | B!mf!!<(! G F!<)! | %58
+w: flog durch die|stil- * * * len|Lan- de,|als|flö- ge|_ sie nach|
+!f!!>(! E3-!>)! | E2 z | z3 | z3 | z3 | z3 | z3 | z3 | z3 | !fermata!z3 |] %68
+w: Haus.|_|||||||||
+V:2
+!p! z/ (c'/a/f/c/d/ | c/fee/ | [Bd]/) ^c/=A/F/ z |"^ritard." z3 | x/ (.B/.B/.B/.B/.B/ | %5
+!<(! .B/)(.[Bc]/.[Bc]/.[Bc]/.[Bc]/!p!.[Bc]/!<)! | .[Bc]/)[Bc]/[Bc]/[Bc]/[Bc]/[Bc]/ | %7
+ [Ac]/[Ac]/[Ac]/[Ac]/[Ac]/[Ac]/ | [AB]/[AB]/[AB]/[AB]/[AB]/[AB]/ | [GB]/[GB]/[GB]/[GB]/[GB]/[GB]/ | %10
+ [GB]/!<(![EGB]/[EGB]/[EGB]/[EGB]/[EGB]/!<)! |!>(! [EGB]/[EGB]/[EGB]/[EGB]/[EGB]/[EGB]/!>)! | %12
+!<(! [DFB]/B/B/B/B/B/!<)! | B/[Bc]/[Bc]/[Bc]/[Bc]/[Bc]/ | [Bc]/[Bc]/[Bc]/[Bc]/[Bc]/[Bc]/ | %15
+ [Ac]/[Ac]/[Ac]/[Ac]/[Ac]/[Ac]/ | [AB]/[AB]/[AB]/[AB]/[AB]/[AB]/ | [GB]/[GB]/[GB]/[GB]/[GB]/[GB]/ | %18
+ [GB]/!<(![EGB]/[EGB]/[EGB]/[EGB]/[EGB]/!<)! |!>(! [EGB]/[EGB]/[EGB]/[EGB]/[EGB]/[EGB]/!>)! | %20
+ ([DFB]/.B/.B/.B/.B/.B/ | (.B/).B/.B/.B/.B/.B/ | B/)!p! (c'/a/f/c/d/ | c/fee/ | [Bd]/) ^c/=A/F/ z | %25
+"^ritard." z3 | z/ (.B/.B/.B/.B/.B/ |!<(! .B/).[Bc]/.[Bc]/.[Bc]/.[Bc]/!mp!.[Bc]/!<)! | %28
+ [Bc]/[GBc]/[GBc]/[GBc]/[GBc]/[GBc]/ | [Ac]/[Ac]/[Ac]/[Ac]/[Ac]/[Ac]/ | %30
+ [AB]/[AB]/[AB]/[AB]/[AB]/[AB]/ | [GB]/[GB]/[GB]/[GB]/[GB]/[GB]/ | %32
+ [GB]/!<(![EGB]/[EGB]/[EGB]/[EGB]/[EGB]/!<)! |!>(! [EGB]/[EGB]/[EGB]/[EGB]/[EGB]/[EGB]/!>)! | %34
+!p! [DFB]/B/B/B/B/B/ | B/[Bcg]/[Bcg]/[Bcg]/[Bcg]/[Bcg]/ | [Bcg]/[Bcg]/[Bcg]/[Bcg]/[Bcg]/[Bcg]/ | %37
+ [Acg]/[Acg]/[Acg]/[Acg]/[Acf]/[Acf]/ | [ABf]/[ABf]/[ABf]/[ABf]/[ABf]/[ABf]/ | %39
+ [GBf]/[GBf]/[GBf]/[GBf]/[GBe]/[GBe]/ | [GBe]/!<(![GBe]/[GBe]/[GBe]/[GBe]/[GBe]/!<)! | %41
+!>(! [EGB]/[EGB]/[EGB]/[EGB]/[EGB]/[EGB]/ | [DFB]/!>)!B/B/"^ritard."[EB]/[EB]/[DB]/ | %43
+ [DB]/[FB]/[FB]/[EB]/[EB]/[DAB]/ | [DAB]/[DAB]/[DAB]/[DAB]/[DAB]/[DAB]/ | %45
+ [DAB]/[DAB]/[DAB]/[DAB]/[DAB]/[DAB]/ | [=DAB]/ (f'/=d'/b/f/g/ | f/ba/g/^f/) | %48
+ [=de]/[Bde]/[Bde]/[Bde]/[Bde]/[Bde]/ | [^Be]/[Be]/[Be]/[Be]/[Be]/[Be]/ | %50
+ [Ac]/[Ac]/[Ac]/[Ac]/[Ac]/[Ac]/ | [=Bc]/[Bc]/[Bc]/[Bc]/[Bc]/[Bc]/ | %52
+ [Ac]/[Ac]/[Ac]/[Ac]/[Ac]/[Ac]/ | [Ac]/[Ac]/[Ac]/[Ac]/[Ac]/[Ac]/ | %54
+ [FAB]/[FAB]/[FAB]/[FAB]/[FAB]/[FAB]/ | [GB]/[EGB]/[EGB]/[EGB]/[EGB]/[EGB]/ | %56
+ [EGB]/[EGB]/[EGB]/[EGB]/[EGB]/[EGB]/ | [B,EG]/!<(![B,EG]/[B,EG]/[B,EG]/[B,DF]/[B,DF]/ | %58
+ [B,=DE]/[B,DE]/[B,DE]/[B,DE]/[B,DE]/[B,DE]/!<)! | %59
+!>(! [A,=DE]/[A,DE]/[A,DE]/[A,DE]/[A,CE]/[A,CE]/!>)! | %60
+ [G,B,E]/!p! (G/E/B,/[I:staff +1]G,/[E,F,-^A,]/ | [D,F,B,]/) =A,/F,/D,/[I:staff -1] z | %62
+[I:staff +1] [E,G,]/[I:staff -1] (G/E/B,/[I:staff +1]G,/[E,F,-^A,]/ | %63
+ [D,F,B,]/) =A,/F,/D,/[I:staff -1] z | x3/2 B/G/E/ | z/ (E/B,/ G/E/-B,/-) | [B,E]2 ([EG] | %67
+ !fermata![G,E]3) |] %68
+V:3
+!p! B,,, z[K:treble] (A- | AG=G | [B,F]) z[K:bass] C/D/ | C/FEE/ |{B,,F,} [B,D]3- | [B,D] z z | %6
+ (^E3 | F3- | [DF]3) | E3- | [B,E]3 |!mp! [B,,-E,]3 |!p! [B,,,B,,]3 | ^E3- | E2 ^E | F3- | [DF]3 | %17
+ E3- | [B,E]3 |!mp! [B,,-E,]3 |!pp! [B,,,B,,]3 |"^ritard." z3 | z z[K:treble] (A- | AG=G | %24
+ [B,F]) z[K:bass] C/D/ | C/FEE/ |{B,,F,} [B,D]3- | [B,D] z z | (^E3 | x F2- | [DF]3 | E3-) | %32
+ [B,E]3 |!mp! [B,,-E,]3 | [B,,,B,,]3 | [^EG]3- | [EG]3 | (F3- | [DF]3) | E3- | [B,E]3 | %41
+!mp! [B,,-E,]3 |!p! B,, z/ C/C/B,/ |!<(! B,/[A,C]/[A,C]/[G,B,]/[G,B,]/[F,B,]/!<)! | %44
+!mp! [F,B,]/!<(![F,B,]/[F,B,]/[F,B,]/[F,B,]/[F,B,]/ | %45
+ [F,B,]/[F,B,]/[F,B,]/[F,B,]/[F,B,]/[F,B,]/!<)! | %46
+!mf! [E,B,]/[K:treble] [=DAB]/[DAB]/[DAB]/[DAB]/[DGB]/ | [=DFB]/[D=FB]/ (AG/^F/) | %48
+[K:bass]!p!!<(! [G,=DE]/[G,DE]/[G,DE]/[G,DE]/[G,DE]/!mp![G,DE]/!<)! | %49
+!p!!<(! [G,^B,E]/[G,B,E]/[G,B,E]/[G,B,E]/[G,B,E]/!mp![G,B,E]/!<)! | %50
+!p!!<(! [A,CE]/[A,CE]/[A,CE]/[A,CE]/[A,CE]/[A,CE]/ | %51
+ [G,C^E]/[G,CE]/[G,CE]/[G,CE]/[G,CE]/!mp![G,CE]/!<)! | [CF]/[CF]/[CF]/[CF]/[CF]/[CF]/ | %53
+ [CF]/[CF]/!<(![CF]/[CF]/[CF]/[CF]/ | B,/B,/B,/B,/B,/B,/!<)! |!mf! B,3- | [B,,-E,B,]3 | %57
+ [B,,,B,,]([B,,,B,,][A,,,A,,] | [G,,,G,,]3 |!f! [A,,,A,,]3 |!mp! [E,,,E,,]2) z/ (C,/ | %61
+ B,,/) z/ z{D,} C,/B,,/- | [E,,B,,]/ z/ z z/ (C,/ | B,,/) z/ z{D,} C,/B,,/- | %64
+ [E,,B,,]/ z/ z/ B,/G,/A,/ | B,/ z/ z/ (G,/E,/-F,/ | [E,G,]2)!pp! ([E,B,] | !fermata![E,,B,,]3) |] %68
+V:4
+ x3 | c/=c/B^A | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %18
+ x3 | x3 | x3 | x3 | x3 | c/=c/B^A | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %36
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | f/=f/e/^d/=d/d/ | x3 | x3 | x3 | x3 | x3 | %53
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %64
+[I:staff +1] [E,G,]/[I:staff -1] G/E/[I:staff +1](B,/G,/A,/ |[I:staff -1] x/) x x/ E | x3 | x3 |] %68
+V:5
+ x2[K:treble] x | x3 | x x[K:bass] (A,- | A,[G,B,][=G,^A,]) | x3 | x3 | x3 | F2 =E | x3 | E2 B,- | %10
+ E,3- | E,,2 B,,,- | x3 | x3 | x3 | F2 =E | x3 | E2 B,- | E,3- | E,,2 B,,,- | x3 | x3 | %22
+ x2[K:treble] x | x3 | x x[K:bass] (A,- | A,[G,B,][=G,^A,]) | x3 | x3 | x3 | GF=E | x3 | E2 B,- | %32
+ E,3- | E,,2 B,,,- | x3 | x3 | x3 | F2 =E | x3 | E2 B,- | E,3- | E,,2 B,,,- | B,,, x2 | x3 | x3 | %45
+ x3 | x/[K:treble] x5/2 | x [CE]/[=C^D]/[B,=D]/[A,D]/ |[K:bass] x3 | x3 | x3 | x3 | F,3 | =E,3 | %54
+ D,3 | E,3- | E,,2 B,,,- | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x/ x/ x/ x/ E, | x3 | x3 |] %68
+V:6
+ x2[K:treble] x | x3 | x2[K:bass] x | x/ =C/ x2 | x3 | x3 | x3 | x3 | x3 | x3 | E,2 B,,- | x3 | %12
+ x3 | x3 | x3 | x3 | x3 | x3 | E,2 B,,- | x3 | x3 | x3 | x2[K:treble] x | x3 | x2[K:bass] x | %25
+ x/ =C/ x2 | x3 | x3 | x3 | x3 | x3 | x3 | E,2 B,,- | x3 | x3 | x3 | x3 | x3 | x3 | x3 | E,2 B,,- | %41
+ x3 | x3 | x3 | x3 | x3 | x/[K:treble] x5/2 | x3 |[K:bass] x3 | x3 | x3 | x3 | x3 | x3 | x3 | %55
+ x2 B,,- | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %68
+

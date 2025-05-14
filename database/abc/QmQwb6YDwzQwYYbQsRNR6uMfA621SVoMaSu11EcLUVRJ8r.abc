@@ -1,0 +1,47 @@
+X:1
+T:3 morceaux en forme de poire
+T:3 morceaux en forme de poire
+T:En plus (Secundo)
+T:Erik Satie
+C:Erik Satie
+%%score { 1 | 2 }
+L:1/8
+M:4/4
+K:C
+V:1 bass nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^Calme"!p!"_de même couleur" z2 .[F,A,]2 .[E,^G,C]2 .[G,CE]2 | z2 .[F,A,]2 .[E,^G,C]2 .[G,CE]2 | %2
+ z2 .[F,A,D]2 .[E,^G,C]2 .[G,CE]2 | z2 .[F,A,D]2 .[E,^G,C]2 .[G,CE]2 | %4
+ z2 .[F,A,D]2 !tenuto!.[=G,B,E]2 z2 | z2 .[F,A,D]2 !tenuto!.[G,B,E]2 z2 | %6
+ z2 .[F,A,D]2 !tenuto!.[G,B,E]2 z2 | z2 .[F,A,D]2 !tenuto!.[G,B,E]2 z2 | %8
+ z2 .[F,A,D]2 z2 .[F,A,D]2 | z2 .[F,A,D]2 .[E,^G,C]2 .[G,CE]2 | %10
+"^A" z2 .[F,A,D]2 .[E,^G,C]2 .[G,CE]2 | z2 .[F,A,D]2 .[E,^G,C]2 .[G,CE]2 | %12
+ z2 .[F,A,D]2 .[E,^G,C]2 .[G,CE]2 | z2 .[F,A,D]2 .[E,^G,C]2 .[G,CE]2 | %14
+ z2 .[F,A,D]2 !tenuto!.[=G,B,E]2 z2 | z2 .[F,A,D]2 !tenuto!.[G,B,E]2 z2 | %16
+ z2 .[G,B,E]2 z2 .[G,B,E]2 | z2 .[G,B,E]2 .[^F,^A,^C]2 .[A,C^F]2 | %18
+"^B" z2 .[G,B,E]2 .[^F,^A,^C]2 .[A,C^F]2 | z2 .[G,B,E]2 .[^F,^A,^C]2 .[A,C^F]2 | %20
+ z2 .[G,B,E]2 z2 .[G,B,E]2 | z2 .[G,B,E]2 .[^F,^A,^C]2 .[A,C^F]2 | %22
+ z2 .[G,B,E]2 .[^F,^A,^C]2 .[A,C^F]2 | z2 .[G,B,E]2 .[^F,^A,^C]2 .[A,C^F]2 | %24
+ z2 .[G,B,E]2 z2 .[^F,=A,^C]2 | z2 .[^F,B,D]2 .[G,B,E]2 z2 | z2 .[A,D=F]2 z2 .[A,CE]2 | %27
+ z2 .[G,B,E]2 z2 .[G,B,E]2 | z2 .[G,B,E]2 .[^F,^A,^C]2 .[A,C^F]2 | %29
+ z2 .[G,B,E]2 .[^F,^A,^C]2 .[A,C^F]2 | z2 .[G,B,E]2 .[^F,^A,^C]2 .[A,C^F]2 | %31
+ z2 .[G,B,E]2 z2 .[G,B,E]2 | z2 .[G,B,E]2 .[^F,^A,^C]2 .[A,C^F]2 | %33
+"^C" z2 .[G,B,E]2 .[^F,^A,^C]2 .[A,C^F]2 | z2 .[G,B,E]2 .[^F,^A,^C]2 .[A,C^F]2 | %35
+ z2 .[G,B,E]2 z2 .[^F,=A,^C]2 | z2 .[^F,B,D]2 .[G,B,E]2 z2 | z2 .[A,D=F]2 z2 .[A,CE]2 | %38
+ z2 .[A,DF]2 z2 .[A,DF]2 | z2 .[F,A,D]2 .[E,^G,C]2 .[G,CE]2 | %40
+"^D" z2 .[F,A,D]2 .[E,^G,C]2 .[G,CE]2 | z2 .[F,A,D]2 .[E,^G,C]2 .[G,CE]2 | %42
+ z2 .[F,A,D]2 !tenuto!.[=G,B,E]2 z2 | z2 .[F,A,D]2 !tenuto!.[G,B,E]2 z2 | %44
+ z2 .[F,A,D]2 z2 .[F,A,D]2 | z2 .[F,A,D]2 .[E,^G,C]2 .[G,CE]2 | %46
+"^E" z2 .[F,A,D]2 .[E,^G,C]2 .[G,CE]2 | z2 .[F,A,D]2 .[E,^G,C]2 .[G,CE]2 | %48
+ z2 .[F,A,D]2 !tenuto!.[=G,B,E]2 z2 | z2 .[F,A,D]2 !tenuto!.[G,B,E]2 z2 | %50
+ z2 .[F,A,D]2 !tenuto!.[G,B,E]2 z2 |"_Ralentir" z2 .[F,A,D]2 !tenuto!.[G,B,E]2 z2 | %52
+!>(! z2 .[G,B,E]2 z2 [A,DF]2-!>)! | [A,DF]4- [A,DF]2 z2 |] %54
+V:2
+ D,,4 z4 | D,,4 z4 | D,,4 z4 | D,,4 z4 | D,,4 z4 | D,,4 z4 | D,,4 z4 | D,,4 z4 | D,,4 z4 | %9
+ D,,4 z4 | D,,4 z4 | D,,4 z4 | D,,4 z4 | D,,4 z4 | D,,4 z4 | D,,4 z4 | E,,4 z4 | E,,4 z4 | %18
+ E,,4 z4 | E,,4 z4 | E,,4 z4 | E,,4 z4 | E,,4 z4 | E,,4 z4 | (E,,4 ^F,,4 | B,,4 E,,4 | D,,4 A,,4 | %27
+ E,,4) z4 | E,,4 z4 | E,,4 z4 | E,,4 z4 | E,,4 z4 | E,,4 z4 | E,,4 z4 | E,,4 z4 | (E,,4 ^F,,4 | %36
+ B,,4 E,,4 | D,,4 A,,4 | D,,4) z4 | D,,4 z4 | D,,4 z4 | D,,4 z4 | D,,4 z4 | D,,4 z4 | D,,4 z4 | %45
+ D,,4 z4 | D,,4 z4 | D,,4 z4 | D,,4 z4 | D,,4 z4 | D,,4 z4 | D,,4 z4 | E,,4 D,,4- | D,,4- D,,4 |] %54
+

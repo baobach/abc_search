@@ -1,0 +1,59 @@
+X:1
+T:6 Lieder
+T:Die frühen Gräber
+T:4. Die frühen Gräber
+T:Fanny (Mendelssohn) Hensel
+T:6 Lieder, Op.9
+T:Friedrich Gottlieb Klopstock
+T:OpenScore(CC0)
+T:OpenScore(CC0)
+C:Fanny (Mendelssohn) Hensel
+Z:Friedrich Gottlieb Klopstock
+Z:OpenScore(CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=50
+M:4/4
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Lento e largo" z8 ||SSS z8 | z8 | z4 z2!p! E2 | d2 B G F2 E D | C2 z2 z4 | e6 A2 | A2 B c d3 F | %8
+w: |||1.Will-|kom- men, o sil- ber- ner|Mond,|schö- ner|stil- ler Ge- färt' der|
+w: |||2.~Des|Mai- es Er- wa- chen ist|nur|schö- ner|noch~ wie die Som- mer-|
+w: |||3.~Ihr|Ed- le- ren, ach! es be-|kränzt|eu- re|Maa- le schon ern- stes|
+ (_G8 | F4) z2 B"^cresc." F | _G2 z2 c3 F | d2 z2"^cresc." B3 G |!<(! e6!<)!!>(! c2!>)! | %13
+w: nacht|_ du ent-|fliehst, ei- le|nicht, blieb, Ge-|dan- ken|
+w: nacht|_ wenn~ ihm|Thau, heil wie|Licht, aus der|Lok- ke|
+w: Moos.|_ O wie|glück- lich war|ich, als ich|einst mit|
+ A2 z2 z4 | z8 |!p!"^tranquillo" d2 B A G2 A B | E4"^cresc." (A4- | A2 fe dAFG | A6) E D |1,2 %19
+w: freund!||Se- het er bleibt, das Ge-|wölk' wall-||* te nur|
+w: träuft||und zu dem Hü- gel her-|auf röth-||* lich er|
+w: euch||sa- he sich rö- then den|Tag, schim-||* mern die|
+ !fermata!C4 z4 ||3SSS !fermata!C4 z4 |] %21
+w: hin.|Nacht.|
+w: kommt.||
+w: ||
+V:2
+ z2[K:bass] (A,,2 B,,2 E,2 || D,2 [B,,G,]2 [C,A,]2 [E,C]2 | B,2 G,2 A,2) (D2- | %3
+ [G,D]2 [D,F,B,]2 [C,E,A,]2 [B,,D,G,]2 | [A,,F,]2 [G,,E,]2) z4 | z2 (A,,2 B,,2 E,2 | %6
+ D,2 B,,2 C,2 [E,C]2 | [D,B,]2 A,2) z2 [D,-F,]2 | [D,_G,]2 ([B,,D,]2 [C,E,]2 [B,,D,]2) | %9
+ ([=A,,C,]2 [C,F,]2 [B,,D,]2)"_cresc." ([F,B,]2 | [E,_G,]2)[K:treble] ([B,E]2 [A,C]2) ([CF]2 | %11
+ [B,D]2) z2 D2- [DG-]2 | G4 E2- [EA]2 |"_dim." ([E_G]2 [DF]2 [CE]2 ([B,D]2 | %14
+[K:bass] B,2) A,2 G,2 A,F, |!p! [D,G,]8) | [E,A,]4 E,2- [E,_G,]2 | E,2 D,6- | D,2 C,4 B,,2- |1,2 %19
+ !fermata!B,,2 A,,2 B,,2 E,2 ||3 (B,,4 !fermata!A,,2) z2 |] %21
+V:3
+ A,,,8- || A,,,8 | F,,,8 | E,,,8- | E,,,8 | A,,,8 | _G,,,8 | F,,,4 z2 ([B,,,B,,]2 | B,,2) z2 z4 | %9
+ F,,2 ([=A,,,F,,]2 [B,,,F,,]2) ([D,,B,,-]2 | [E,,B,,]2) E,4 F,2- | F,2 G,6- | G,2 A,6 | A,8 | %14
+ A,,,8 | B,,,8 | z2 A,,6 | D,,8 | A,,4 F,,2 G,,2- |1,2 !fermata!G,,2 A,,2 z4 ||3 %20
+ !fermata!A,,,6 z2 |] %21
+V:4
+ x2[K:bass] x6 || x8 | D,8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x2[K:treble] x6 | x8 | x8 | x8 | %14
+[K:bass] C8 | x8 | x8 | F,8 | E,8 |1,2 x8 ||3 x8 |] %21
+V:5
+ x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | E,,8 | x8 | x2 (_G,,2 A,,2) (=A,,2 | B,,8 | C,8) | D,8 | %14
+ x8 | x8 | C,,8 | A,,8- | E,,8 |1,2 A,,,8 ||3 (G,,4 !fermata!A,,2) x2 |] %21
+

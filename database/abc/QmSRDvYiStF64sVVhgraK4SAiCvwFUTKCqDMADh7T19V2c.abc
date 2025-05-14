@@ -1,0 +1,36 @@
+X:1
+T:Lofsöngur
+T:Sveinbjörn Sveinbjörnsson
+%%score 1 2 3 4
+L:1/8
+Q:1/4=51
+M:4/4
+K:Eb
+V:1 treble transpose=-2 nm="BaccidentalFlat Trumpet" snm="BaccidentalFlat Tpt."
+V:2 treble transpose=-2 nm="BaccidentalFlat Trumpet" snm="BaccidentalFlat Tpt."
+V:3 bass nm="Trombone" snm="Trb."
+V:4 bass nm="BaccidentalFlat Tuba" snm="BaccidentalFlat Tu."
+V:1
+[K:C] z2 z2 z2 C2 | F2 G2 A2 z G | F2 G2 E2 z c | defc _B2 AF | AGFG A2 z c | c2 _BA A2 GF | %6
+ EFGA _B z gf | e2 dc G2 cB | c4 z z CC | D2 CB, C2 FA | c2 de f2 z f | e2 Ad c2 cB | %12
+ A2 z z z z z c | a2 ag f2 AA | _B2 BA G2 z d | c2 FG A2 AG | F4 z z c_B | A2 c2 G z ec | %18
+ c2 f2 !fermata!g2 z c | a2 ag f2 AA | _B2 BA G2 z d | c2 FG A2 AG | F4 z z z z |] %23
+V:2
+[K:C] z2 z2 z2 C2 | C2 E2 F2 z C | C2 B,2 C2 z c | _B2 AF DCCC | FEDE F2 z E | F2 FF F2 EF | %6
+ C2 CC D z _BA | G2 ^FF G2 GG | G4 z z CC | D2 CB, C2 FA | G2 G2 F2 z A | A2 FA A2 A^G | %12
+ A2 z z z z z _B | A2 c_B A2 FF | F2 FF F2 z E | F2 FF F2 EE | D4 z z GG | F2 F2 E z GE | %18
+ F2 A2 !fermata!c2 z c | A2 c_B A2 FF | F2 FF F2 z E | F2 FF F2 FE | C4 z z z z |] %23
+V:3
+ z2 z2 z2 B,2 | G,2 B,2 E,2 z F, | G,2 F,2 F,2 z z | z z z B, CDEG, | B,2 B,B, B,2 z A, | %5
+ G,2 CB, B,2 B,B, | A,G,F,=E, F, z B,B, | B,2 B,C D2 CE | D4 z z B,B, | C2 B,=A, B,2 B,B, | %10
+ B,2 =A,_A, G,2 z G, | G,2 G,E D2 DC | B, z B,2 F,2 G,D | E2 ED C2 E_D | C2 CB, =A,2 z _A, | %15
+ G,2 A,=A, B,2 G,G, | G,4 z z B,B, | B,2 B,2 B, z B,B, | B,2 B,2 !fermata!D2 z B, | B,2 ED C2 E_D | %20
+ C2 CB, =A,2 z _A, | G,2 A,=A, B,2 B,_A, | G,4 z z z z |] %23
+V:4
+ z2 z2 z2 z2 | z z B,,2 E,2 z D, | C,2 F,2 B,,2 z z | z z z G, F,2 E,E, | B,,2 B,,B,, E,B,,G,,F,, | %5
+ E,,2 z B, B,2 A,G, | F,E,D,C, F,, z D,E, | F,2 G,G, F,2 F,F, | B,,4 z z B,,B,, | %9
+ C,2 B,,=A,, B,,2 G,E, | D,2 C,=B,, C,2 z C, | B,,2 C,C, D,2 D,D, | G, z B,,2 F,,2 G,,F,, | %13
+ E,2 G,B, C2 C,B,, | A,,2 A,,B,, C,2 z B,, | E,2 C,C, B,,2 =B,,B,, | C,4 z z D,D, | %17
+ E,2 G,2 B, z B,A, | G,2 E,2 !fermata!B,2 z B, | E,2 G,B, C2 C,B,, | A,,2 A,,B,, C,2 z B,, | %21
+ E,2 C,C, B,,2 B,,B,, | E,4 z z z z |] %23
+

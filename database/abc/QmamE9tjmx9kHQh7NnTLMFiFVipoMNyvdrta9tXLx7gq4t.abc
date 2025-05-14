@@ -1,0 +1,64 @@
+X:1
+T:SIlent Night (Cello)
+T:Silent Night: Theme and Variations for Cello and Piano 
+%%score 1 { ( 2 3 ) | 4 }
+L:1/8
+Q:3/8=30
+M:6/8
+K:Bb
+V:1 tenor nm="Violoncello" snm="Vc."
+V:2 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:4 bass 
+V:1
+!p!"^Tema" F>GF D3 |!mp! F>GF D3 |!mf! c2 c A3 |!mp! B2 B F3 |!mf! G2 G B>AG | F>GF D3 | %6
+!p! G2 G BAG | F>GF D3 |!mf! c2 c e>cA | B3 d3 |!mp! BFD F>EC | B,3- B, z2 | %12
+[Q:3/8=42]"^Var. I: Arpeggios"!mf!"^pizz" .D,/.F,/.B,/.D/.F .B,,/.D,/.F,/.B,/.D | %13
+!f! .D,/.F,/.B,/.D/.F .B,,/.D,/.F,/.B,/.D |!ff! .A,/.C/.E/.A/.c .F,/.A,/.C/.F/.A | %15
+!f! .F,/.B,/.D/.F/.B .F,/._A,/.D/.F/._A |!ff! .E,/.G,/.B,/.E/.G .B,,/.E,/.G,/.B,/.E | %17
+ .D,/.F,/.B,/.D/.F .B,,/.D,/.F,/.B,/.D |!mf! .E,/.G,/.B,/.E/.G .B,,/.E,/.G,/.B,/.E | %19
+ .D,/.F,/.B,/.D/.F .B,,/.D,/.F,/.B,/.D |!ff! .A,/.C/.F/.A/.c .E,/.A,/.C/.E/.A | %21
+ .F,/.B,/.D/.F/.B[K:treble] .D/.F/.B/.d/.f |!f! .B,,/.D,/.F,/.B,/.D .A,,/.C,/.E,/.A,/.C | %23
+ .B,,/.D,/.F,/.B,/.D .[F,DB] z2 | %24
+[Q:3/8=60]"^Var. II: Interpolation"!mf!"^arco" .F/.B,/.D/.G/.F/.F,/ .D/.B,,/.D,/.F,/.B,/.D/ | %25
+!f! .F/.B,/.D/.G/.F/.F,/ .D/.B,,/.D,/.F,/.B,/.D/ |!ff! .c/.C/.E/.A/.c/.E/ .A/.A,/.C/.F/.A/.F/ | %27
+!f! .B/.B,/.D/.F/.B/.D/ .F/.F,/._A,/.D/.F/._A/ |!ff! .G/.G,/.B,/.E/.G/.E/ .B/.B,/.E/.A/.G/.B,/ | %29
+ .F/.B,/.D/.G/.F/.F,/ .D/.B,,/.D,/.F,/.B,/.D/ | %30
+!mf! .G/.G,/.B,/.E/(3.G/._A/.=A/ .B/.B,/.A/.B,/.G/.B,/ | %31
+ .F/.B,/.D/.G/.F/.F,/ .D/.B,,/.D,/.F,/.B,/.D/ |!ff! .c/.C/.F/.A/.c/.F/ .e/.C/.A,/.c/.A/.F,/ | %33
+ .B/.F,/.B,/.D/.F/.B/[K:treble] .d/.D/.F/.B/.d/.f/ | %34
+[K:tenor]!f! .B/.B,/.F/.F,/.D/.D,/ .F/.A,/.C/.E/.C/.A,/ | .B,,/.D,/.F,/.B,/.D/.F/ .B z2 |] %36
+V:2
+!p! F>GF D3 |!mp! F>GF D3 |!mf! c2 c A3 |!mp! B2 B F2 _A |!mf! [EG]2 [EG] [GB]>[FA][EG] | F>GF D3 | %6
+!p! [EG]2 [EG] [GB][FA][EG] | F>GF D3 |!mf! [Ec]2 [Ec] e>cA | [DB]3 [Bd]3 | %10
+!mp! [FB][DF][B,D] [DF]>[CE][A,C] | [DFB]3- [DFB] z2 |!p! F>GF D3 |!mp! F>GF D3 |!mf! c2 c A3 | %15
+!mp! B2 B F2 _A |!mf! [EG]2 [EG] [GB]>[FA][EG] | F>GF D3 |!p! [EG]2 [EG] [GB][FA][EG] | F>GF D3 | %20
+!mf! [Ec]2 [Ec] e>cA | [DB]3 [Bd]3 |!mp! [FB][DF][B,D] [DF]>[CE][A,C] | [DFB]3- [DFB] z2 | %24
+!p! F>GF D3 |!mp! F>GF D3 |!mf! c2 c A3 |!mp! B2 B F2 _A |!mf! [EG]2 [EG] [GB]>[FA][EG] | F>GF D3 | %30
+!p! [EG]2 [EG] [GB][FA][EG] | F>GF D3 |!mf! [Ec]2 [Ec] e>cA | [DB]3 [Bd]3 | %34
+!mp! [FB][DF][B,D] [DF]>[CE][A,C] | [DFB]3- [DFB] z2 |] %36
+V:3
+ D2 D B,3 | D2 D B,3 | [EA]2 [EA] F3 | [B,D]2 [B,D] D2 F | x6 | D2 D B,3 | x6 | D2 D B,3 | x6 | %9
+ x6 | x6 | x6 | D2 D B,3 | D2 D B,3 | [EA]2 [EA] F3 | [B,D]2 [B,D] D2 F | x6 | D2 D B,3 | x6 | %19
+ D2 D B,3 | x6 | x6 | x6 | x6 | D2 D B,3 | D2 D B,3 | [EA]2 [EA] F3 | [B,D]2 [B,D] D2 F | x6 | %29
+ D2 D B,3 | x6 | D2 D B,3 | x6 | x6 | x6 | x6 |] %36
+V:4
+ [B,,D,]2 [B,,D,] [B,,F,]2 [B,,D,] | [B,,D,]2 [B,,D,] [B,,F,]2 [B,,D,] | %2
+ [E,F,A,]2 [E,F,A,] [F,C]2 [F,A,] | [B,,D,F,]2 [B,,D,F,] [B,,D,]2 [B,,D,] | %4
+ [E,G,]2 [E,G,] [E,B,]2 [E,G,] | [B,,F,]2 [B,,F,] [B,,D,]2 [F,,B,,] | %6
+ [E,G,]2 [E,G,] [E,B,]2 [E,G,] | [B,,F,]2 [B,,F,] [B,,D,]2 [F,,B,,] | %8
+ [F,A,C]2 [F,A,C] [E,F,A,]2 [E,F,A,] | [B,,D,]2 [B,,D,] [D,F,]2 [D,B,] | %10
+ [F,B,]2 [D,F,] [F,,D,]2 [F,,C,] | [B,,F,B,]>[F,,D,F,][D,,B,,D,] [B,,,B,,] z2 | %12
+ [B,,D,]2 [B,,D,] [B,,F,]2 [B,,D,] | [B,,D,]2 [B,,D,] [B,,F,]2 [B,,D,] | %14
+ [E,F,A,]2 [E,F,A,] [F,C]2 [F,A,] | [B,,D,F,]2 [B,,D,F,] [B,,D,]2 [B,,D,] | %16
+ [E,G,]2 [E,G,] [E,B,]2 [E,G,] | [B,,F,]2 [B,,F,] [B,,D,]2 [F,,B,,] | %18
+ [E,G,]2 [E,G,] [E,B,]2 [E,G,] | [B,,F,]2 [B,,F,] [B,,D,]2 [F,,B,,] | %20
+ [F,A,C]2 [F,A,C] [E,F,A,]2 [E,F,A,] | [B,,D,]2 [B,,D,] [D,F,]2 [D,B,] | %22
+ [F,B,]2 [D,F,] [F,,D,]2 [F,,C,] | [B,,F,B,]>[F,,D,F,][D,,B,,D,] [B,,,B,,] z2 | %24
+ [B,,D,]2 [B,,D,] [B,,F,]2 [B,,D,] | [B,,D,]2 [B,,D,] [B,,F,]2 [B,,D,] | %26
+ [E,F,A,]2 [E,F,A,] [F,C]2 [F,A,] | [B,,D,F,]2 [B,,D,F,] [B,,D,]2 [B,,D,] | %28
+ [E,G,]2 [E,G,] [E,B,]2 [E,G,] | [B,,F,]2 [B,,F,] [B,,D,]2 [F,,B,,] | %30
+ [E,G,]2 [E,G,] [E,B,]2 [E,G,] | [B,,F,]2 [B,,F,] [B,,D,]2 [F,,B,,] | %32
+ [F,A,C]2 [F,A,C] [E,F,A,]2 [E,F,A,] | [B,,D,]2 [B,,D,] [D,F,]2 [D,B,] | %34
+ [F,B,]2 [D,F,] [F,,D,]2 [F,,C,] | [B,,F,B,]>[F,,D,F,][D,,B,,D,] [B,,,B,,] z2 |] %36
+

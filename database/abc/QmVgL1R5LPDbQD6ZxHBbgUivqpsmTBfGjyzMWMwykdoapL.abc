@@ -1,0 +1,29 @@
+X:1
+T:Eisenach, 88.88.88
+T:Johann Herman Schein, 1628
+T:Eisenach, 88.88.88
+T:Harmony by Johann Sebastian Bach (1685-1750)
+C:Johann Herman Schein, 1628
+Z:Harmony by Johann Sebastian Bach (1685-1750)
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ x8 |: [A,D]2 | [DF]2 [DG]2 [EA]2 [DA]2 | (B,C) [DF]2 [CE]2 [EA]2 | [^GB]2 [Ac]2 [Ed]2 [Ec]2 | %5
+ [EB]2 (ED) [CA]2 :| [CA]2 | [Dd]2 [Ec]2 [FB]2 [FA]2 | (B,C) [DF]2 [CE]2 (FE) | %9
+ [DG]2 [DF]2 [B,E]2 [B,G]2 | [DF]2 [CE]2 D2 |] %11
+V:2
+ x8 |: x2 | x8 | G2 x6 | x8 | x2 B2 x2 :| x2 | x8 | G2 x3 A2 x | x8 | x4 D2 |] %11
+V:3
+ x8 |: [D,F,]2 | [D,A,]2 [B,,G,]2 [C,E,]2 [D,F,]2 | [E,G,]2 ([F,A,][G,B,]) [A,C]2 C2 | %4
+ [B,D]2 [A,E]2 [^G,B,]2 (CA,) | [E,A,]2 [E,^G,]2 [A,,A,]2 :| (A,G,) | %7
+ [B,,F,]2 [C,F,]2 [D,B,]2 [^D,B,]2 | [E,B,]2 (F,G,) A,2 [F,C]2 | (B,,C,) [D,A,]2 [G,B,]2 [E,G,]2 | %10
+ A,,2 z G, [D,F,]2 |] %11
+V:4
+ x8 |: x2 | x8 | x6 C2 | x6 A,2 | x6 :| A,,2 | x8 | x2 A,2 x4 | B,2 x6 | A,3 A,,2 x |] %11
+

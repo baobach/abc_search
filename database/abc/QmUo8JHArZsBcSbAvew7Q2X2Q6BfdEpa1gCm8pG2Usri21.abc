@@ -1,0 +1,22 @@
+X:1
+T:Title
+%%score { 1 | ( 2 3 ) }
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Grand Piano"
+V:2 bass 
+V:3 bass 
+V:1
+ z2 z2[Q:1/4=100] [EG]2 | [FA][EG] [EG]2 [CE]2 | [B,G][B,D] [B,D]2 [B,E]2 | %3
+ [Cc][CEA] [A,DG]2 [CD^F]2 |[M:2/4] [B,DG]4 |[M:1/4] G2 |[M:3/4] ed d2 [B,FA]2 | %7
+ [CEA][CEG] [CEG]2 [CD^F]2 | [CEc][CEG] [CFG]2 [B,FG]2 |[M:2/4] [CEG]4 |] %10
+V:2
+ z2 z2 [C,C]2 | [C,C][C,C] [C,C]2 [C,G,]2 | [G,,G,][G,,G,] [A,,G,]2 [^G,,E,]2 | %3
+ [G,,E,]A,, D,2 D,2 |[M:2/4] G,,4 |[M:1/4] G,2 | %6
+[M:3/4][K:treble] [G,B,F][G,B,F] [G,B,F]2[K:bass] z z/ B/ | C,C, C,2 A,,2 | G,,G, G,2 G,,2 | %9
+[M:2/4] C,4 |] %10
+V:3
+ x6 | x6 | x6 | x6 |[M:2/4] x4 |[M:1/4] x2 |[M:3/4][K:treble] z2 z2[K:bass] G,,2 | x6 | x6 | %9
+[M:2/4] x4 |] %10
+

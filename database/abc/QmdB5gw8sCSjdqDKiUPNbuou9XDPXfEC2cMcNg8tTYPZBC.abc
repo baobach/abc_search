@@ -1,0 +1,37 @@
+X:1
+T:Tochter Zion
+T:Georg Friedrich Händel
+T:Partitur
+T:Text: Johann Joachim Eschenburg
+T:Tochter Zion
+C:Georg Friedrich Händel
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=90
+M:4/4
+K:F
+V:1 treble transpose=-2 nm="Trompete in B 1" snm="Trp. B. 1"
+V:2 treble transpose=-2 nm="Trompete in B 2" snm="Trp. B. 2"
+V:3 bass nm="Posaune" snm="Pos."
+V:4 bass nm="Tuba" snm="Tub."
+V:1
+[K:G]!f! d4 (B3 c) | d4 G4 | (ABcd c2) B2 | A8 | (Bcde d2) d2 | g4 d4 | (c2 B2 A3) G | G8 || %8
+!p! (BABc B2) B2 | A4 G4 |!<(! (c2 B2 A2) G2!<)! | F8 | (GFGA G2) G2 | e4 ^c4 | %14
+!<(! (d2 ed ^c3) d!<)! | d8 ||!f! d4 (B3 c) | d4 G4 | (ABcd c2) B2 | A8 | (Bcde d2) d2 | g4 d4 | %22
+ (c2 B2 A3) G | G8 |] %24
+V:2
+[K:G]!f! G4 (G3 A) | B4 G4 | (FGAB A2) G2 | F8 | G6 G2 | G4 G4 | (F2 G4) F2 | D8 || %8
+!p! (GFGA G2) G2 | F4 E4 |!<(! (A2 G2 F2) E2!<)! | ^D8 | (E^DEF E2) E2 | G4 G4 | %14
+!<(! (F2 GF E3) E!<)! | F8 ||!f! G4 (G3 A) | B4 G4 | (FGAB A2) G2 | F8 | G6 G2 | G4 G4 | %22
+ (F2 G4) F2 | D8 |] %24
+V:3
+!f! A,4 (C3 B,) | A,4 C4 | (B,4 C2) C2 | C8 | C6 C2 | C4 A,4 | (B,2 C4) B,2 | A,8 ||!p! C6 C2 | %9
+ B,4 A,4 |!<(! (^C2 D2 B,2) A,2!<)! | A,8 | A,6 A,2 | G,4 D4 |!<(! (C2 A,2 G,2) G,2!<)! | G,8 || %16
+!f! A,4 (C3 B,) | A,4 C4 | (B,4 C2) C2 | C8 | C6 C2 | C4 A,4 | (B,2 C4) B,2 | A,8 |] %24
+V:4
+!f! F,,4 (A,,3 G,,) | F,,4 A,,4 | (G,,2 G,,F,, E,,2) F,,2 | C,,8 | (F,,G,,A,,B,, A,,2) A,,2 | %5
+ F,,4 F,,4 | (G,,2 A,,B,, C,2) C,,2 | F,,8 ||!p! F,,6 F,,2 | C,,2 ^C,,2 D,,4 | %10
+!<(! (E,,2 F,,2 G,,2) D,,2!<)! | A,,,8 | D,,6- D,,C,, | =B,,,4 G,,4 | %14
+!<(! (A,,2 F,,2 G,,2) G,,2!<)! | C,8 ||!f! F,,4 (A,,3 G,,) | F,,4 A,,4 | (G,,2 G,,F,, E,,2) F,,2 | %19
+ C,,8 | (F,,G,,A,,B,, A,,2) A,,2 | F,,4 F,,4 | (G,,2 A,,B,, C,2) C,,2 | F,,8 |] %24
+

@@ -1,0 +1,59 @@
+X:1
+T:Zwölf Gesänge
+T:Unruhiger Schlaf
+T:6. Unruhiger Schlaf
+T:Louise Reichardt
+T:Achim von Arnim
+T:Zwölf Gesänge
+T:OpenScore (CC0)
+C:Louise Reichardt
+Z:Achim von Arnim
+Z:OpenScore (CC0)
+%%score 1 ( 2 3 4 )
+L:1/8
+Q:1/4=70
+M:2/4
+K:Eb
+V:1 treble nm="Voice"
+V:2 bass nm="Piano"
+V:3 bass 
+V:4 bass 
+V:1
+"^Sanft Träumend" E | E2 E2 | =E3 G | c B A G | (G>A) A2 | z A B c | B,3 F | B A G F | F2 E2 | %9
+w: Der|Kiersch- baum|blüht, ich|sit- ze da im|Stil- * len;|die Blü- the|sinkt und|mag die Lip- pen|fül- len,|
+ z G G G | =B,3 D | G G G3/2 D/ | E2[Q:1/4=75]"^Etwas lebhafter." z/ G/ F/ G/ | (A>D) D2 | %14
+w: auch sinkt der|Mond schon|in der Er- de|Schooss, und schien so|mun- * ter,|
+ B B B3/2 F/ | G2 z[Q:1/4=70]"^Wie vorhin." G | A>G G2 | A>G G2 | d c/=B/ AG/ F/ | F2 E2 | %20
+w: schien so roth und|gross! die|Ster- * ne|blin- * ken|zwei- fel- * haft * im|Blau- en,|
+ z c c G | A3 c |[Q:1/4=68] _B A[Q:1/4=66] G F |[Q:1/4=64] (E4{B,)} | B,4 | z4 | z2 z |] %27
+w: und lei- dens|nicht, sie|wei- ter an- zu-|schau-|en!|||
+V:2
+!mp![I:staff -1] z |[I:staff +1] G,/B,/E/B,/ G,/B,/E/B,/ | G,/B,/=E/B,/ G,/B,/E/B,/ | %3
+ G,/B,/=E/B,/ G,/B,/E/B,/ | A,/C/F/C/ A,/C/F/C/ | A,/C/F/C/ A,/C/F/C/ | A,/B,/D/B,/ A,/B,/D/B,/ | %7
+ A,/B,/D/B,/ A,/B,/D/B,/ | %8
+ G,/B,/[I:staff -1]E/[I:staff +1]B,/ G,/B,/[I:staff -1]E/[I:staff +1]B,/ | %9
+ G,/B,/[I:staff -1]E/[I:staff +1]B,/ G,/B,/[I:staff -1]E/[I:staff +1]B,/ | %10
+ G,/=B,/[I:staff -1]F/[I:staff +1]B,/ G,/B,/[I:staff -1]F/[I:staff +1]B,/ | %11
+ G,/[I:staff -1]D/F/D/[I:staff +1] G,/[I:staff -1]D/F/D/ | %12
+[I:staff +1] G,/[I:staff -1]C/E/C/!mf![I:staff +1] G,/[I:staff -1]C/E/C/ | %13
+[I:staff +1] A,/[I:staff -1]D/F/D/[I:staff +1] A,/[I:staff -1]D/F/D/ | %14
+[I:staff +1] A,/[I:staff -1]D/F/D/[I:staff +1] A,/[I:staff -1]D/F/D/ | %15
+[I:staff +1] G,/B,/[I:staff -1]E/[I:staff +1]B,/!mp! G,/B,/[I:staff -1]E/[I:staff +1]B,/ | %16
+ G,/[I:staff -1]D/F/D/[I:staff +1] G,/[I:staff -1]D/F/D/ | %17
+[I:staff +1] G,/[I:staff -1]D/F/D/[I:staff +1] G,/[I:staff -1]D/F/D/ | %18
+[I:staff +1] G,/[I:staff -1]D/F/D/[I:staff +1] G,/[I:staff -1]D/F/D/ | %19
+[I:staff +1] G,/[I:staff -1]C/E/C/[I:staff +1] G,/[I:staff -1]C/E/C/ | %20
+[I:staff +1] G,/[I:staff -1]C/E/C/[I:staff +1] G,/[I:staff -1]C/E/C/ | %21
+[I:staff +1] A,/[I:staff -1]C/F/C/[I:staff +1] A,/[I:staff -1]C/F/C/ | %22
+[I:staff +1] A,/[I:staff -1]C/F/C/[I:staff +1] A,/[I:staff -1]C/F/C/ | %23
+[I:staff +1] G,/_B,/[I:staff -1]E/[I:staff +1]B,/ G,/B,/[I:staff -1]E/!p![I:staff +1]B,/ | %24
+ A,/B,/D/B,/ A,/B,/D/B,/ | G,/B,/E/B,/ G,/B,/E/B,/ |[I:staff -1] E3 |] %27
+V:3
+ z | [E,,E,]4 | [C,,C,]4 | [C,,C,]4 | [F,,F,]4 | [F,,F,]4 | [B,,,B,,]4 | [B,,,B,,]4 | [E,,E,]4 | %9
+ [E,,E,]4 | G,,4 | =B,,4 | C,4 | _B,,2 B,,2 | [B,,,B,,]4 | [E,,E,]4 | [=B,,,=B,,]4 | [=B,,,=B,,]4 | %18
+ [G,,,G,,]4 | [C,,C,]4 | [C,,C,]4 | [F,,F,]4 |!>(! [F,,F,]4 | [B,,,B,,]4!>)! |!>(! [B,,,B,,]4 | %25
+ [E,,E,]4!>)! |!pp! [E,,E,]3 |] %27
+V:4
+ x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %20
+ x4 | x4 | x4 | x4 | x4 | x4 | [G,B,]3 |] %27
+

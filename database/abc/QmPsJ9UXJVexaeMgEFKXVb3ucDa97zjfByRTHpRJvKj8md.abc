@@ -1,0 +1,67 @@
+X:1
+T:7 Lieder, Op. 48
+T:Liebesklage des Mädchens
+T:3. Liebesklage des Mädchens
+T:Johannes Brahms
+T:7 Lieder, Op. 48
+T:Aus des Knaben Wunderhorn (eds. von Arnim and Brentano)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+C:Johannes Brahms
+Z:Aus des Knaben Wunderhorn (eds. von Arnim and Brentano)
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+M:6/4
+K:B
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Etwas langsam" z6 z4 B2 | (e2 d2) c2 B2 z2 z2 | e2 d2 c2 B2 A2 G2 | c4 F2 z2 z2 B2 | %4
+w: Wer|se- * hen will|zwe- en le- ben- di- ge|Brun- nen, der|
+ (e2 d2) c2 (f2 e2) d2 | (c2 G2) B2 (A2 B2) c2 | c6- c2 z2 z2 | z4 z2 e2 d2 c2 | %8
+w: soll * mein zwei * be-|trüb- * te Au- * gen|sehn, *|die mir vor|
+ B2"^rit." A2 z2 B B =A2 G2 | ^E6 F4 z2 | z6 z4 B2 | (e2 d2) c2 (B2 c2) d2 | %12
+w: Wei- nen schier sind aus- ge-|run- nen.|Wer|se- * hen will * viel|
+ (e2 d2) c2 (B2 A2) G2 | c4 F2 z2 z2 B2 | (e2 d2) c2 (f2 e2) d2 | (c2 G2) B2 (A2 B2) c2 | %16
+w: gross * und tie- * fe|Wun- den, der|soll * mein sehr * ver-|wund'- * tes Herz * be-|
+ c6- c2 z2 z2 | z4 z2 e2 d2 c2 | B2 A2 z A B B =A2 G2 | ^E6 F4 z2 | z12 | z12 | z12 |] %23
+w: sehn, *|so hat mich|Lie- be ver- wund't im tief- sten|Grun- de.||||
+V:2
+!p! (=GeFdFc FBFcFd) | (=GeFdFc FBFcFd) | (=GeFdFc FB^EAE!courtesy!^G) | (CFCGCA) (G=dGcGB) | %4
+ (AeA^dAc) (^BfBe^Gd) | (GcCGCB)!>(! (CACBCc)!>)! | (C!<(!=ACB!<(!Cc) (EcE=dEe)!<)! | %7
+!f! (=AcB^dce-!<)! e2 d2 c2) | DF"_rit."E=GEG"_dim." DFCEB,D | (B,^E=DEB,E A,FCAFc) | %10
+ (=GeFdFc FBFcFd) | (=GeFdFc FBFcFd) | (=GeFdFc FB^EAE!courtesy!^G) | (CFCGCA) (G!<(!=dGcGB) | %14
+ (AeA^dAc) (^BfBe^Gd)!<)! | (GcCGCB) (CACBCc) | (C!<(!=A!<(!CBCc) (EcE=dEe)!<)! | %17
+!f! (=AcB^dc!<)!!>(!e- e2 d2 c2) | DF!>)!E"_rit. dim."=GEG DFCEB,D | (B,^E=DEB,E A,FCAFc) | %20
+ (=GeFdFc FBFcFd) |!>(! x (e2 c2 A2 =G2 F2 E)!>)! |!p! x D- [B,D]4- [B,D]6 |] %23
+V:3
+"_col Ped." ([=G,A,CE]2 [F,A,D]2 [E,F,A,C]2 [D,F,B,]2 [F,-A,C]2 [F,B,D]2) | %1
+ ([=G,A,CE]2 [F,A,D]2 [E,F,A,C]2 [D,F,B,]2 [F,-A,C]2 [F,B,D]2) | %2
+ ([=G,A,CE]2 [F,A,D]2 [E,F,A,C]2 [D,F,B,]2 [C,^E,A,]2 [B,,E,!courtesy!^G,]2) | %3
+ ([A,,F,]2 [C,G,]2 [F,A,]2) [^E,G,]4 [E,G,]2 | [=G,A,]4 [G,A,]2 [=A,^B,-F]2 [^G,B,E]2 [F,G,B,D]2 | %5
+ (C2 G,2 B,2) (A,2 G,2 F,2) | ([F,=A,]2 [C,G,]2 [=A,,F,]2) ([A,C]2 [E,B,]2 [C,A,]2) | %7
+ ([CE]2 [B,^D]2 [=A,C]2 [G,B,]2 [F,A,]2 [E,G,]2) | ([D,F,]2 [E,=G,]4) ([D,F,]2 [C,E,]2 [B,,D,]2) | %9
+!<(! (B,,2!>(! =D,2!<)! B,,2)!>)! ([F,,C,]2 [A,,F,]2 [F,A,]2) | %10
+ ([=G,A,CE]2 [F,A,D]2 [E,F,A,C]2 [D,F,B,]2 [F,-A,C]2 [F,B,D]2) | %11
+ ([=G,A,CE]2 [F,A,D]2 [E,F,A,C]2 [D,F,B,]2 [F,-A,C]2 [F,B,D]2) | %12
+ ([=G,A,CE]2 [F,A,D]2 [E,F,A,C]2 [D,F,B,]2 [C,^E,A,]2 [B,,E,!courtesy!^G,]2) | %13
+ ([A,,F,]2 [C,G,]2 [F,A,]2) [^E,G,]4 [E,G,]2 | (=E2 ^D2 C2) x2 x4 | (C2 G,2 B,2) (A,2 G,2 F,2) | %16
+ ([F,=A,]2 [C,G,]2 [=A,,F,]2) ([A,C]2 [E,B,]2 [C,A,]2) | %17
+ ([CE]2 [B,^D]2 [=A,C]2 [G,B,]2 [F,A,]2 [E,G,]2) | ([D,F,]2 [E,=G,]4) ([D,F,]2 [C,E,]2 [B,,D,]2) | %19
+!<(! (B,,2!>(! =D,2!<)! B,,2)!>)! (C,2 [A,,F,]2 [F,A,]2) | %20
+ ([=G,A,CE]2 [F,A,D]2 [E,F,A,C]2 [D,F,B,]2 [C,F,A,]2 [B,,F,B,]2) | [B,,,B,,]12- | %22
+ F,[I:staff -1]B,-[I:staff +1] x2 x8 |] %23
+V:4
+ x12 | x12 | x12 | x6 (=D2 C2 B,2) | (=E2 ^D2 C2) x6 | [E,G,]2 ^E,4 F,2 C,2 A,,2 | x12 | x12 | %8
+ x12 | G,,6 x6 | x12 | x12 | x12 | x6 (=D2 C2 B,2) | %14
+ [=G,A,]4 [G,A,]2 [=A,^B,-F]2 [^G,B,E]2 [F,G,B,D]2 | [E,G,]2 ^E,4 F,2 C,2 A,,2 | x12 | x12 | x12 | %19
+ G,,6 F,,2 x4 | x12 | x12 | [B,,,B,,F,]12 |] %23
+V:5
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | =A6 GBFAEG | B2 ^A4 (B2 =A2 ^G2) | x12 | x12 | x12 | %12
+ x12 | x12 | x12 | x12 | x12 | =A6 GBFAEG | B2 ^A4 (B2 =A2 ^G2) | x12 | x12 | =GcE^ACG A,EA,DA,C | %22
+ x12 |] %23
+

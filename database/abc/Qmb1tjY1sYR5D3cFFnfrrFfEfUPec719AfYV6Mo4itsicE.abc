@@ -1,0 +1,21 @@
+X:1
+T:Title
+%%score { 1 | 2 } 3
+L:1/8
+Q:1/4=150
+M:4/4
+K:F
+V:1 treble nm="Grand Piano, Track 2"
+V:2 bass 
+V:3 bass nm="Grand Piano, Track 3"
+V:1
+ F8 | A4 c4 | f4 c4 | A2 d2 c4 | c8 | B4 A4 | d4 c4 | c2 f2 e4- | e4 f4 | d4 d4 | c4 c2 B2 | %11
+ A2 c2 B4 | c4 c4 | f4 e2 d2 | c4 c4 | c8 |] %16
+V:2
+ F,8 | C4 C4 | D4 C4 | F4 C2[K:bass] A,2 | F,8 | D4 C4 | B,4 A,4 | G,2 F,2[K:treble] C4- | C4 C4 | %9
+ B,2 D2[K:bass] G,2 B,2 | A,2 C2 F,2 E,2 | F,2[K:treble] F2 E2 DE | F4 C4 | %13
+ D2[K:bass] B,2 G,A, B,2 | A,4 G,4 | F,8 |] %16
+V:3
+ F,8 | F,4 A,4 | B,4 A,2 G,2 | F,4 F,4 | F,8 | G,4 A,4 | B,4 C2 F,2 | E,2 D,2 C,4- | C,4 F,4 | %9
+ B,4 G,4 | A,4 A,2 G,2 | F,4 G,4 | F,4 F,4 | D,4 E,4 | F,4 C,4 | F,8 |] %16
+

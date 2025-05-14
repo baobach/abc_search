@@ -1,0 +1,41 @@
+X:1
+T:La Paloma Blanca
+T:La Paloma Blanca
+T:Edward Kilenyi
+C:Edward Kilenyi
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=80
+M:6/8
+K:F
+V:1 bass nm="Piano" snm="Pno."
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:4 bass 
+V:1
+ A,2 G, F,2 C, | D,2 C, E,G, z | B,2 A, G,2 C,/C,/ | D,2 C, F,2 !fermata!z | %4
+w: Yo soy tu pa-|lo- ma blan- ca,|Tu e- res mi pi-|chon a- zul,|
+[Q:1/4=80] A,2 G, F,2 C, | D,2 C, E,G, z | B,2 A, G,2 C, | %7
+w: Ar- ri- ma- me|tu bo- qui- ta|Pa- raha- cer cu|
+ D,2 C, !fermata!F,[Q:1/4=80]C,/C,/C,/C,/ | C,A,A, A,G,F,/F,/ | E, B,2 z C,/C,/C,/C,/ | %10
+w: ru cu ru A la jo- ta|jo- ta que bai- le je- su-|si- to A la jo- ta|
+ C,B,B, B,A,G,/G,/ | F, C2 z C,/C,/C,/C,/ | C,CC CB,A,/A,/ | B, D2 z z D | A, z C G, z C | %15
+w: jo- ta qe bai- le je- su-|si- to A la jo- ta|jo- ta que bai- le Je- su-|si- to Cu|ro cu ru cu|
+ F,3- F, z2 :| %16
+w: ru _|
+V:2
+ z [FA]/C/c{/c} c'/a/f/d/c | z [EB]/C/c{/c} b/g/e/d/c | z [EB]/C/c{/c} b/g/e/d/c | %3
+ z [EB]/C/c{/c} a/g/f/d/!fermata!c | z [FA]/C/c{/c} c'/a/f/d/c | z [EB]/C/c{/c} b/g/e/d/c | %6
+ z [EB]/C/c{/c} b/g/e/d/c | z [EB]/C/c [Aca] z2 | z [FA]/C/[FA] z [FA]/C/[FA] | %9
+ z [EB]/C/[EB] z !arpeggio![CEB] z | z [EB]/C/[EB] z [EB]/C/[EB] | %11
+ z [FA]/C/[FA] z !arpeggio![CFA] z | z [FA]/C/[FA] z [Fc]/C/[Fc] | z [DB]/B,/[DB] z [DG]/B,/[DG] | %14
+ z [FA]/C/c z [EB]/C/c | z [FA]/C/[Ac]/F/ .[FAf] z z :| %16
+V:3
+ [F,,C,]6 | [C,,C,]6 | [C,,C,]6 | [C,G,]3 !fermata![F,,C,A,]2 z | [F,,C,]6 | [C,,C,]6 | [C,,C,]6 | %7
+ [C,G,]3 !fermata![F,,F,] z2 | F,,2 z F,,2 z | G,,2 z C,2 z | C,,2 z C,2 z | [F,,F,]2 z F,2 z | %12
+ F,,2 z A,,2 z | G,,2 z B,,2 z | C,2 z C,,2 z | F,,2 z [F,C] z z :| %16
+V:4
+ x3 !arpeggio![A,CF]2 z | x3 !arpeggio![B,CE]2 z | x3 !arpeggio![B,CE]2 z | x6 | %4
+ x3 !arpeggio![A,CF]2 z | x3 !arpeggio![B,CE]2 z | x3 z !arpeggio![B,CE]2 | x6 | x6 | x6 | x6 | %11
+ x6 | x6 | x6 | x6 | x6 :| %16
+

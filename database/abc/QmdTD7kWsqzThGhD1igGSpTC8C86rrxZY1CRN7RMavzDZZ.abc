@@ -1,0 +1,61 @@
+X:1
+T:concerto in Sol minore
+T:concerto in Sol minore
+T:per 2 Violoncelli, Archi e Cembalo
+T:A. Vivaldi
+C:A. Vivaldi
+%%score [ 1 2 ] 3 { ( 4 6 ) | ( 5 7 ) }
+L:1/8
+Q:1/4=40
+M:4/4
+K:F
+V:1 tenor nm="Violoncello 1°\nconcertante"
+V:2 tenor nm="Violoncello 2°\nconcertante"
+V:3 bass nm="Violoncelli"
+V:4 treble nm="Cembalo"
+V:6 treble 
+V:5 bass 
+V:7 bass 
+V:1
+"^Largo"!p! G,(B,/>!tenuto!D/) GD (!trill(!T_ED) z B, | %1
+ (!trill(!TCB,) z D (_E/>!tenuto!D/)(D/>!tenuto!C/) (C/>!tenuto!B,/)(B,/>!tenuto!A,/) | %2
+ A,(D/>!courtesy!=E/) ^F(E/>!tenuto!D/) G4- | G(!courtesy!=F/E/) F(E/D/) EA, G(F/E/) | %4
+ (F/A/)G/F/ (!trill(!TE>D) D4 |[K:bass] D,(F,/>!tenuto!A,/) DA, (!trill(!TB,A,) z F, | %6
+ (!trill(!TG,F,) z[K:tenor] F (G/>!tenuto!F/)(F/>!tenuto!E/) (E/>!tenuto!D/)(D/>!tenuto!^C/) | %7
+ ^CA, F2- F(E/D/) E2- | E(D/C/) D2- D(C/B,/) C2- | C(B,/A,/) B,2- B,(C/D/) (C/B,/)(A,/G,/) | %10
+ A,G, C2- C(D/_E/) (D/C/)(B,/A,/) | B,G, _E2- E(D/C/) B,A, | B,G, z D (!trill(!T_ED) z B, | %13
+ (!trill(!TCB,) z D (!trill(!T_ED) z B, | (!trill(!TCB,) z D G(D/C/) B,(A,/G,/) | %15
+ (D/G/)^F/G/ (!trill(!TA,>!tenuto!G,) !fermata!G,4 :| %16
+V:2
+ z4!p! G,(B,/>!tenuto!D/) GD | %1
+ (!trill(!T_ED) z B, (C/>!tenuto!B,/)(B,/>!tenuto!A,/) (A,/>!tenuto!G,/)(G,/>!tenuto!^F,/) | %2
+ !courtesy!^F,2 z2[K:bass] D,(G,/>!tenuto!A,/) B,(A,/>!tenuto!G,/) | ^C2 D2- D2 C2 | %4
+[K:tenor] (D/F/)E/D/ (!trill(!T^C>!trill)!D) D4 |[K:bass] z4 D,(F,/>!tenuto!A,/) DA, | %6
+ (!trill(!TB,A,) z[K:tenor] D (E/>!tenuto!D/)(D/>!tenuto!^C/) (C/>!tenuto!=B,/)(B,/>!tenuto!A,/) | %7
+ A,2 z[K:bass] A, !courtesy!_B,3 (A,/G,/) | A,3 (G,/F,/) G,3 (F,/E,/) | F,3 (E,/D,/) E,3 E, | %10
+ F,2 z (F,/G,/) A,(B,/C/) (B,/A,/)(G,/^F,/) | G,2 z[K:tenor] G ^F3 F | %12
+ GG, z B, (!trill(!TCB,) z D | (!trill(!T_ED) z B, (!trill(!TCB,) z D | (!trill(!T_ED) z2 z4 | %15
+[K:bass] z/ vB,/A,/B,/ (!trill(!T^F,>!tenuto!G,) !fermata!G,4 :| %16
+V:3
+"^(1 Solo)"!pp! (G,G,,) z G,, (C,G,,) z G,, | (C,G,,) (B,,G,,) C,3 C, | D,2 C,2 B,,2 G,,2 | %3
+ A,,2 D,2 A,3 A,, | (D,G,) (A,A,,) D,4 | (D,D,,) z D, (G,,D,,) z D, | (G,D,) (F,D,) G,,3 G,, | %7
+ A,,2 z D, G,2 !courtesy!=C,2 | F,2 B,,2 E,2 A,,2 | D,2 G,,2 C,3 C, | F,2 z2 ^F,3 F, | %11
+ G,2 z C, D,3 D, | (G,G,,) (B,,G,,) z G,, (B,,G,,) | z G,, (B,,G,,) z G,, (B,,G,,) | %14
+ z G,, (B,,G,,) z4 | G,,2 D,2 !fermata!G,,4 :| %16
+V:4
+!pp! [B,D]2 z [B,D] [G,_E][B,D] z [B,D] | [G,_E][B,D][G,D][B,D] [G,E]4 | D4 G4- | G2 F2 E4 | %4
+ D[DB] AG F4 | x6 z F | DFDD E4- | E2 z A B4 | A4 G4 | F4 E4 | F2 A6 | G2 z _E D4 | z2 D4 D2- | %13
+ D2 D4 D2- | D2 D4 z2 |[K:bass] B,2 A,2 !fermata!G,4 :| %16
+V:5
+ (G,G,,) z G,, (C,G,,) z G,, | (C,G,,) (B,,G,,) C,3 C, | ^F,4 G,4 | A,,2 D,2 A,3 A,, | %4
+ D,G, A,A,, D,4 | [F,A,]2 z [F,A,] [D,B,][F,A,] z D, | G,D, F,D, G,,3 G,, | %7
+ A,,2 z D, G,2 !courtesy!=C,2 | F,2 B,,2 E,2 A,,2 | D,2 G,,2 C,3 C, | F,2 z2 ^F,3 F, | %11
+ G,2 z C, D,3 D, | G,G,, B,,G,, z G,, B,,G,, | G,2 G,4 G,2- | G,2 G,4 x2 | %15
+ G,,2 D,2 !fermata!G,,4 :| %16
+V:6
+ x8 | x8 | x4 D4 | ^C2 D4 C2 | x2 ^C2 D4 | x7 A, | B,A,A,D D2 ^C>=B, | ^C2 F4 E2- | E2 D4 C2- | %9
+ C2 B,4 A,G, | A,2 C4 DC | B,2 A,>G, ^F,4 | x8 | x8 | x8 |[K:bass] [D,G,]2 [D,^F,]2 [B,,D,]4 :| %16
+V:7
+ x8 | x8 | D,2 C,2 B,,2 G,,2 | x8 | F, x7 | D,D,, z D, G,,D,, x2 | x8 | x8 | x8 | x8 | x8 | x8 | %12
+ x2 G,4 G,2 | z G,, B,,G,, z G,, B,,G,, | z G,, B,,G,, z4 | x8 :| %16
+

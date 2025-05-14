@@ -1,0 +1,74 @@
+X:1
+T:Ultimate price
+T:Ultimate price
+%%score 1 2 3 { ( 4 7 ) | ( 5 6 ) }
+L:1/8
+Q:1/4=90
+M:6/4
+K:Eb
+V:1 treble nm="Flutes" snm="Fl."
+V:2 treble transpose=-2 nm="Trumpets in B♭" snm="B♭ Tpt."
+V:3 treble nm="Violins I" snm="Vln. I"
+V:4 treble nm="Piano" snm="Pno."
+V:7 treble 
+V:5 bass 
+V:6 bass 
+V:1
+"^\n" z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | %15
+!8va(! z6 z3"^Rubato" c'3 | g'2 a'2 g'2 f'4 d'e' | f'2 g'2 f'2 e'6 | e'2 f'2 e'2 d'3 b'3 | %19
+ g'8 z f'3 | g'2 a'2 g'2 f'4 z/ c'3/2 | f'2 g'2 f'2 e'4 z/ d'3/2 |"^A tempo" e'3 d'3 b3 g3 | %23
+!>(! (3(d'e'd' c'4-) c'6!>)! |!<(! z6 e'3/2d'3/2b3/2g3/2!<)! |!f! c'6 z2 z4!8va)! | z12 | x12 | %28
+ z12 |!f! (G2 F2) E2 (G2 F2) E2 | G2 (A2 B2) F4 z D/E/ | (F2 E2) D2 !2!C3 G3 |!<(! F6 E6!<)! | %33
+!ff! !4!g2 f2 e2 g2 f2 e2 | g2 f2 e2 f4 (de) | f2 e2 d2 !3!f2 !3!g2 a2 | a2 g2 ^f2 g6 | %37
+ c6 g2 c2 e2 | f2 a2 c'2 f'4 !fermata!z2 | z12 | z12 | z12 | z12 |] %43
+V:2
+[K:F] z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | %15
+ z3!p! A3 g3- g3/2f3/2 | d6 z2 z4 | z12 | d3 c3 e3 A3 | a12 | z12 | z8 z2 z/!pp! e3/2 | %22
+ f3 e3 c3 A3 |!>(! (3(efe d6) z!mp! [Cc]3!>)! |!<(! [Ee]12!<)! |!p! D6- D3 A,3 | G,6- G,3 D3 | %27
+ C6- C3 G,3 | A,6 A,6 |!mp! D6- D3 A,3 | G,6- G,3 D3 | C6- C3!f! a3 |!<(! g6 f6!<)! | %33
+!mf! D6- D3 A,2 _A,/G,/ | G,6- G,G,/A,/ (3G,2 A,2 B,2 | C6- C3 G,2 _A,/=A,/ | A,6 A,6 | %37
+ D6- D3 A,3/2_A,3/2 | G,6- G,3 !fermata!z3 | z12 | z12 | z12 | z12 |] %43
+V:3
+ z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 |"^Rubato"!p! (!3!G2 F2 E2) (G2 F2 E2) | %9
+ (G2 F2 E2) F6 | (F2 E2) D2 !2!F2 (!2!G2 A2) | (A2 G2) ^F2 G6 |!mp! (!3!g2 f2 e2) (g2 f2 e2) | %13
+ (g2 a2 b2) f4 z"^A tempo" d/e/ | (f2 e2) d2 c3 d3 |!>(! c6 z6!>)! |!mp! (A6 A2) G4 | E12 | F6 B6 | %19
+ (c2 d2) f2 e2 (d2 B2) | A3 B3 c6 | e3 f3 g6 | e6 d6 |!>(! (3(ded c4-) c6!>)! |!<(! B12!<)! | %25
+!mf!"^Rubato" (G2 F2) E2 (G2 F2) E2 | (G2 F2) E2 F4 E2 | %27
+ !4!!2![DF]2 !3!!1![CE]2 !2!!0![B,D]2 ([G,F]2 [G,G]2) [CA]2 | %28
+ ([CA]2 !2!!3![B,G]2) !1!!3![A,^F]2 !0!!4![G,G]6 |!f!"^A tempo" (g2 f2) e2 (g2 f2) e2 | %30
+ [eg]2 (a2 b2) [cf]4 z d/e/ | (f2 e2) [Ad]2 !3!!2![Gc]3 [F=B]3 |!<(! !0!!1![Dd]6 !3!!2![Be]6!<)! | %33
+!ff! !4!g'2 f'2 e'2 g'2 f'2 e'2 | g'2 f'2 e'2 f'4 (d'e') | f'2 e'2 d'2 !3!f'2 !3!g'2 a'2 | %36
+ a'2 g'2 ^f'2 g'6 | g'2 f'2 e'2 g'2 f'2 e'2 | !3!g'2 !3!a'2 b'2 !1!f'4 !fermata!z2 | z12 | z12 | %41
+ z12 | z12 |] %43
+V:4
+!f!"^rubato(right hand only)\n" g2 f2 e2 g2 f2 e2 | g2 f2 e2 f6 | f2 e2 d2 f2 g2 a2 | %3
+ a2 g2 ^f2 g6 | g2 f2 e2 g2 f2 e2 | g2 a2 b2 f4 de | f2 e2 d2 c3 =B3 | d4 e2 c6 | %8
+!mf!"^Not rubato" c2 cegc' c'2 cege | f2 fac'a f'6 | [Bb]2 B,DFB f2 fbag | g3 b3 g4 [Bdg]2 | %12
+ [CEG]3!8va(! c2 e egc'e'g'a' | b'c'' a'2 g'2 a'4!8va)! z d/e/ | ([Bdf]2 e2) d2 [EAc]3 [Bd]3 | %15
+ [EGc]6 z2 z4 | z2 A,,C,FA c2 [FA]4 | z2 E,G,Be g2 [ce]4 | z2 F,A,cf a6 | z2 CEGE c3 B3 | %20
+ z6 c2 A2 c2 | z2 EGBe g6 | z12 | z12 | B12 | c2 cegc' c'2 cege | f2 fac'a f'6 | %27
+ [Bb]2 B,DFB f2 fbag | g3 b3 Tg4 [Bdg]2 |!f! [CEG]3!8va(! c2 e egc'e'g'a' | %30
+ b'c'' a'2 g'2 a'4!8va)! z d/e/ | ([Bdf]2 e2) d2 [EAc]3 [=Bd]3 | [FAd]6 [GBe]6 | %33
+ c2 cegc' c'2 cege | f2 fac'a f'6 | [Bb]2 B,DFB f2 fbag | g3 b3 Tg4 [Bdg]2 | C2 EGce gc'gecG | %38
+ g2 a2 b2{/FAc} f4 !fermata!z!p!"^Lol do\nwhatever\nyou want with rythm\n" d/e/ | %39
+ f2 e2 d2 c4 =B2- | B4 c8- | c12- |!8va(! c'12!8va)! |] %43
+V:5
+!pp!!8va(! C2 E2 G2 G2 E2 G2 | [CFA]12 | B,2 F4 F2 B4 | E2 B2 e2 [DG_c]6 | C2 E2 G2 E2 G2 E2 | %5
+ [CFA]12 | [DFA=B]6 [G,CG]3 =B,3 | C,E,G,C E2 [G,CE]6!8va)! |!mp! [E,G,C]12 | [F,A,C]6 [C,F,A,]6 | %10
+ [D,F,B,]12 | G,B,DGDB, G,GDB, G,2 | C,2 E,2 G,C E6 | F,,2 A,,C,F,A, [C,F,A,]6 | B,,6 A,,6 | %15
+ C,6 z3 B,,3 | [A,,C,E,]12 | [G,,B,,E,]12 | [A,,C,F,]12 | [C,E,G,]6 [E,G,C]3 [B,,D,F,]3 | %20
+ [C,E,A,]12 | [B,,E,G,]12 | [A,,C,F,]6 [B,,D,G,]6 | [A,,C,E,]12 | [B,,D,F,]12 |!mf! [E,G,C]12 | %26
+ [F,A,C]6 [C,F,A,]6 | [D,F,B,]12 | G,B,DGDB, G,GDB, G,2 | C,2 E,2 G,C E6 | %30
+ F,,2 A,,C,F,A, [C,F,A,]6 | B,,6 A,,6 | D,6 E,6 | [E,G,C]12 | [F,A,C]6 [C,F,A,]6 | [D,F,B,]12 | %36
+ G,B,DGDB, G,GDB, G,2 | C,2 E,2 G,C E6 | [F,,A,,C,]6 [C,F,A,]4 !fermata!z2 | %39
+!mp!!8va(! [DFA=B]6 [G,CG]4 =B,2-!8va)! | B,,4 C,4 E,4- | E,12- | E,12 |] %43
+V:6
+!8va(! x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12!8va)! | x12 | x12 | x12 | x12 | x12 | x12 | %14
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %30
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 |!8va(! x12!8va)! | x10 G,2- | G,12- | G,12 |] %43
+V:7
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x3!8va(! x9 | %13
+ x10!8va)! x2 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %28
+ x12 | x3!8va(! x9 | x10!8va)! x2 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %41
+ C2 E2 G2 c3 e3 |!8va(! g6{/c'e'g'} c''6!8va)! |] %43
+

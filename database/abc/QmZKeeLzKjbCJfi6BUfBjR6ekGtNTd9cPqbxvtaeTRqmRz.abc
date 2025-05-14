@@ -1,0 +1,49 @@
+X:1
+T:Gavēņa jaunās dziesmas
+T:       poļu melodija: "W Krzyżu cierpienie" Harm. pr. Andris Solims
+T:Poļu teksts: pr. Karol Antoniewicz Atdz. pr. Andris Solims
+T:Krustā ir ciešanas
+C:poļu melodija:
+C:"W Krzyżu cierpienie"
+C:Harm. pr. Andris Solims
+Z:Poļu teksts:
+Z:pr. Karol Antoniewicz
+Z:Atdz. pr. Andris Solims
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=80
+M:3/4
+K:Ab
+V:1 treble nm=" " snm=" "
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+!mf!"^Andante" E2 E2 F2 | E3 D C2 | E2 E2 F2 | E3 D C2 | E2"^cresc." A2!<(! A2 | (A3 B)!<)! c2 | %6
+w: 1. tā ir|cie- ša- nas,|krus- tā *|glāb- ša- na|un mī- les-|tī- * bas|
+w: 2. se- le|no- māk- tā|un sāp- *|pār- ņem- tā|rod krus- tā|mie- * ri-|
+w: 3. sma- gas|cie- ša- nas|un šau- *|mo- ko- šas|tev sir- di|cau- * ri|
+w: 4. e- si|pa- ze- mots,|no- dots *|ie- vai- nots,|vai drau- ga|sir- * dī|
+ c4 d2 | B6 |!f! E2 E2 E2 | d4 d2 | d2 d2 d2 | (c3 B) A2 | G2 B2 B2 | A4 A2 | G2 F2 G2 | %15
+w: mā- cī-|ba.|1. kas reiz|Te- vi|būs at- rast|spē- * jis,|ne- ko vairs|ci- tu|tas ne- mek-|
+w: nā- ju-|mu.|2. krus- tu|pie- ņems,|tas ne- sa-|lū- * zīs|sirds- sā- pēs|sa- vās,|ko sa- ņē-|
+w: de- dzi-|na,|3. ne- gaiss|mā- cas,|pie krus- ta|stei- * dzies,|tas te- vi|pa- glābs|un spē- kus|
+w: vī- lies|tu:|4. kļūs- ti|iz- mi-|sis, lū- dzies,|pie- * dod,|lai kļūst par|ta- vu|ģēr- bo- ni|
+ !fermata!A6 |] %16
+w: lēs.|
+w: mis.|
+w: dos.|
+w: krusts.|
+V:2
+ C2 C2 D2 | C3 B, A,2 | B,2 C2 DC | (B,2 C)D C2 | D2 E2 E2 | (F3 G) A2 | (=A2 B2) A2 | %7
+ (F2 =E2 _E2) | D2 C2 D2 | B4 B2 | A2 G2 B2 | (A3 G) E2 | E2 G2 G2 | (F2 E2) =D2 | E2 =D2 _D2 | %15
+ E6 |] %16
+V:3
+!mf! A,2 A,2 A,2 | G,3 G, F,2 | G,2 A,2 A,2 | G,2 A,B, A,2 | B,2"^cresc." C2!<(! C2 | C3 D!<)! E2 | %6
+ E4 F2 | D6 |!f! B,2 A,2 G,2 | F2 =E2 _E2 | D2 E2 E2 | E3 D C2 | D2 D2 C2 | C2 =B,2 _B,2 | %14
+ B,2 A,2 B,2 | C6 |] %16
+V:4
+ A,,2 C,2 D,2 | E,3 =E, F,2 | E,2 C,2 D,2 | E,2 F,G, A,2 | G,2 A,2 G,2 | F,3 =E, _E,2 | %6
+ F,2 G,2 =A,2 | B,2 A,2 G,2 | G,2 F,2 E,2 | B,2 A,2 G,2 | F,2 E,2 G,2 | A,3 B, C2 | B,2 G,2 =E,2 | %13
+ F,4 F,2 | E,2 E,2 E,2 | !fermata![A,,A,]6 |] %16
+

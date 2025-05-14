@@ -1,0 +1,56 @@
+X:1
+T:Cantata "Ich hatte viel bekümmernis in meinem Herzen"
+T:Seufze, Tränen, Kümmer, Not
+T:Seufze, Tränen, Kümmer, Not
+T:Bach: Cantata #21, Aria in c minor More at http://bach.ejmaurath.com
+T:Johann Sebastian Bach
+T:Sequenced by Edward J. Maurath
+T:Sequenced by Edward J Maurath
+T:Sequenced by Edward J Maurath
+T:Sequenced by Edward J Maurath
+C:Johann Sebastian Bach
+Z:Sequenced by Edward J Maurath
+%%score 1 2 3 4
+L:1/8
+Q:1/4=42
+M:12/8
+K:Eb
+V:1 treble nm="Oboe" snm="OBO"
+V:2 alto1 nm="Soprano" snm="SOP"
+V:3 treble nm="Organo\n(Continuo)" snm="ORG"
+V:4 bass nm="Bassoon\n(Continuo)" snm="BSN"
+V:1
+"^42" z z2 ge=B B2 c af_d |: c2 =B c=eg b2 a _Bdf | a2 g fde Ade GFE | EAG cBe dag/a/4b/4 gfe | %4
+ _d2 c g=eB B2 =A f=d_A | A2 G fde =BcE DF_c | a2 g fde =BcE DFB ||1 C3 z z8 | %8
+ z z2 ge=B B2 c af_d | c2 =B z2 z4 c=eg | b2 a z2 z4 Bdf | a2 g fde Ade- [Ge]FE | %12
+ EAG cBe dag/a/4b/4 gfe | _d2 c z z2 g2 f z z2 | f2 e g=eB B2 =A fd_A | A2 G z2 z4 G=Bd | %16
+ f2 e z2 z4 D^F=A | c2 =B z z8 | z z2 dB^F F2 G ecA | G2 ^F =a^fg cfg B=AG | %20
+ GcB edG ^FcB/c/4d/4 B=AG | =B2 z fde _ceE DFc | a2 g fde =BcE DFB | C2 z ge=B B2 c af_d :|2 %24
+[Q:1/4=44] C4 z8[Q:1/4=120][Q:1/4=39] |] %25
+V:2
+ z12 |: z12 | z12 | z12 | z12 | z12 | z12 ||1 z z2 ge=B B2 c af_d | c2 =B z z2 d2 e z z2 | %9
+ e2 d ^c=cB B2 A z z2 | z z2 dfA A2 G z z2 | z z2 BFG ABc BA/G/A | G2 z fde Ade BA/G/A | %13
+ G2 z =egB B2 =A df_A | A2 G z z2 G2 F z z2 | F3 AGF F2 E z z2 | z z2 c=Bc ED z4 | %17
+ z z2 dB^F F2 G ecA | G2 ^F z d=A A2 B z ec | B2 =A ede ede dc/B/c | B2 z =A^FG ced GFG | %21
+ f2 z4 a2 g z z2 | f2 e z z2 d2 c z Ge | d2 c z z8 :|2 z12 |] %25
+V:3
+ z z2 [Ge]2 z _c2 z A2 z |: c2 z [CG]2 z B2 z [FB]2 z | A2 z [DF]2 z [DA]2 z E2 z | %3
+ [A,E]2 z C2 z [DA]2 z [EG]2 z | ^C2 z [G,=EB]2 z F2 z [Fd]2 z | E2 z F2 z [DA]2 z [Fd]2 z | %6
+ [A,Fd]2 z4 G2 z [A,F]2 [G,=B,D] ||1 [E,G,C]2 z [Ge]2 z [FA]2 z [FA]2 z | C2 z [Ge]2 z _c2 z A2 z | %9
+ [EG]2 z =E2 z [A,CF]2 z [A,CEG]2 z | [A,CF]2 z [DF]2 z E2 z [DB]2 z | E2 z A2 z A2 z B2 z | %12
+ [CE]2 z A,2 z [A,D]2 z D2 z | G2 z [G,=EB]2 z [B,G]2 z [DF]2 z | A,2 z [CG]2 z F2 z [Fd]2 z | %15
+ F2 z [G,=B,D]2 z C2 z D2 z | C2 z [A,F]2 z4 [_G,=A,]2 z | G,2 z [DB]2 z4 [Ge]2 z | %18
+ [DG]2 z [DB]2 z [=A,^F]2 z4 | [B,G]2 z2 z8 | G2 z [^F=A]2 z [C_G]2 z [B,=G]2 z | %21
+ [D=B]2 z [FBd]2 z [=B,^Fd]2 z D2 z | A2 z [D=B]2 z F2 z D2 z | [E,G,]3 [Ge]2 z _c2 z A2 z :|2 %24
+ [E,G,C]4 z8 |] %25
+V:4
+ z z2 C2 z A,2 z F,2 z |: G,2 z =E,2 z F,2 z D,2 z | E,2 z A,2 G, F,2 E, B,2 B,, | %3
+ C,2 B,, A,,2 G,, F,,2 E,, B,,2 B, | =E,2 z C,2 z F,2 z D,2 z | E,2 z A,2 G, F,2 E, F,2 G, | %6
+ =B,,2 z z2 C, G,,2 A,, F,,2 G,, ||1 C,,2 z C2 z A,2 z F,2 z | G,2 z C,2 z A,,2 z F,,2 z | %9
+ G,,2 z =E,2 z F,2 z C,2 z | F,,2 z B,,2 z E,2 z D,2 z | E,2 z A,2 G, F,2 E, B,2 B,, | %12
+ C,2 B,, A,,2 G,, F,,2 E,, B,,2- [B,,B,]/-[B,,B,]/4-[B,,B,-]/8B,/8 | =E,2 z C,2 z F,2 z B,,2 z | %14
+ E,2 z =E,2 z F,2 z D,2 z | =B,,2 z G,,2 z C,2 z B,,2 z | C,2 z A,,2 z ^F,,2 z D,,2 z | %17
+ G,,2 z G,2 z E,2 z C,2 z | D,2 z B,,2 z E,2 z C,2 z | D,2 z C2 B, =A,2 G, D2 D, | %20
+ E,2 D, C,2 B,, =A,,2 G,, D,2 D,, | A,,2 z A,2 G, F,2 E, F,2 G, | %22
+ =B,,2 C, A,,2 G,, F,,2 E,, F,,2 G,, | C,,3 C2 z A,2 z F,2 z :|2 C,,4 z8 |] %25
+

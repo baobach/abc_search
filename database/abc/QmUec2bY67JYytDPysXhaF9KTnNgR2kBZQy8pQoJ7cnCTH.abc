@@ -1,0 +1,44 @@
+X:1
+T:Valses poéticos
+T:Melodico
+T:Valses poéticos
+T:No. 1
+T:Enrique Granados
+T:OpenScore (CC0)
+C:Enrique Granados
+Z:OpenScore (CC0)
+%%score { 1 | ( 2 3 ) }
+L:1/8
+Q:1/4=165
+M:3/4
+K:A
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:3 bass 
+V:1
+!p!"^Melodico" (A2 ABcd | e3 e f2 | f3 f a2 | g6) | (f2 fgaf | [Ae]6) | ([Gd]2 [Gd]efd | [Ac]6) | %8
+ (A2 ABcd | e3 e f2 | f3 f a2 | g6) | (f2 fgab |"^ten.""_rall." !tenuto!c'6) |"^ten." !tenuto!b6 | %15
+"^ten." !tenuto!a6 |!f!"_a tempo" ([Aa]2 [Aa][Bb][cc'][dd'] | [ee']3 [ee'] [ff']2 | %18
+ [ff']3 [ff'] [aa']2 | [gg']6) | ([ff']2 [ff'][gg'][aa'][ff'] | [ee']6) | %22
+ ([dd']2 [dd'][ee'][ff'][dd'] | [cc']6) |!<(! ([Aa]2 [Aa][Bb][cc'][dd'] | [ee']3 [ee'] [ff']2 | %26
+ [ff']3 [ff'] [aa']2 | [gg']6)!<)! | ([ff']2 [ff'][gg'][aa'][bb'] |"_rall. molto"!8va(! [c'c'']6) | %30
+!ff! [e'e'']6 |!ff! !fermata![e'e'']6!8va)! |:"_a tempo"!p! z6 | z2{/E} ([=ce]2 [=FA]2) | %34
+ z2{/A} ([=f=g]2 [FG]2) | ([E=G]2 =c4) | z6 | z2{/=C} ([A=c]2 [D=F]2) | %38
+ z2"^rall."{/F} ([de]2 [DE]2) | ([CE]2 A4) | (A2 ABcd |"_con cadenza" e3 e f2 | f3 f c'2 | c'6) | %44
+ (d2 defg |"_dim." a6) |"_rall. molto" ([DB]2 [Gd]3 [Gc] |!pp! [CAc]6) :| %48
+V:2
+ A,,2 (C2 E,2) | G,,2 (B,2 E,2) | F,,2 (A,2 C,2) | E,,2 (G,2 C,2) | (D,,2 D,2 F2) | C2 E,2 C2 | %6
+ B,2 E,2 B,2 | A,2 E,2 A,,2 | A,,2 (C2 E,2) | G,,2 (B,2 E,2) | F,,2 (A,2 C,2) | E,,2 (G,2 C,2) | %12
+ (D,,2 B,2 F2) | (C,2 G,2 E2) | (E,2 D2[I:staff -1] G2) |[I:staff +1] (A,,2 C2[I:staff -1] A2) | %16
+[I:staff +1] A,,2 C2 z2 | A,,2 C2 E,2 | G,,2 B,2 E,2 | F,,2 A,2 C,2 | D,,2 !>![A,DF]2 z2 | %21
+ C,,2 !>![E,A,CE]2 z2 | B,,,2 !>![E,G,DE]2 z2 | A,,,2 !>![E,A,CE]2 z2 | A,,2 C2 E,2 | %25
+ G,,2 B,2 E,2 | F,,2 G,2 C,2 | E,,2 G,2 C,2 | D,,2 [F,A,D]2 D,2 | E,,2 [E,G,CE]2 z2 | z2 [G,D]4 | %31
+ z2 !fermata![E,C]4 |: (A,,2 A,,B,,=C,D, | E,3 E, =F,2 | =G,3 A, B,2 | =C6) | %36
+ (=F,,2 F,,=G,,A,,B,, | =C,3 C, D,2 | E,3 F, G,2 | A,6) | (A,,2 C2 E,2) | (G,,2 C2 E,2) | %42
+ (F,,2 A,2 C,2) | (E,,2 G,2 C,2) | (B,,2 F,2 B,2) | (F,,2 C,2 [F,A,]2) | [B,,F,]2 [B,,E,]2 E,,2 | %47
+ A,,2 !fermata!A,,,4 :| %48
+V:3
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | E,,6 | A,,,6 |: x6 | x6 | x6 | x6 | x6 | %37
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 :| %48
+

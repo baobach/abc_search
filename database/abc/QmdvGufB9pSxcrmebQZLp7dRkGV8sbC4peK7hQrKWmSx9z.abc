@@ -1,0 +1,20 @@
+X:1
+T:Title
+%%score { 1 | 2 } 3
+L:1/8
+Q:1/4=150
+M:4/4
+K:C
+V:1 treble nm="Clav., Track 1"
+V:2 bass 
+V:3 bass nm="Grand Piano, Track 3"
+V:1
+ c4 e2 d2 | c4 A4 | c2 d2 e4- | e4 e4 | c2 d2 c4 | f4 e2 dc | [dg]8 | d4 c2 d2 | e4 f4 | %9
+ e2 d2 e4- | e4 g4 | c2 d2 d4 | c4 c2 [Gd]2 | e8 |] %14
+V:2
+ C3 A, G,2 G,A, | C4 C4 | E2 D2 C4- | C4 C4 | E2 G2 E4 | C4 E2 DC | D8 | D4 E2 G2 | E4 C4 | %9
+ E2 DC A,4- | A,4 D3 E | C2 A,G, A,4 | C4 E2 D2 | [G,C]8 |] %14
+V:3
+ C,4 C,2 D,2 | C,4 F,4 | E,2 G,2 C,4- | C,4 F,4 | E,2 D,2 E,4 | F,4 E,2 F,2 | G,8 | G,4 C2 G,2 | %8
+ C4 F,4 | E,2 G,2 A,4- | A,4 G,3 E, | F,2 D,2 D,4 | C,4 C,2 G,2 | C,8 |] %14
+

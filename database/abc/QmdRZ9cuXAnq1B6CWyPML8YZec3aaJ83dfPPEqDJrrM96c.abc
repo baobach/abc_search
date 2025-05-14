@@ -1,0 +1,45 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=100
+M:4/4
+K:Ab
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 bass nm="Choir Pad, Fukuoka, 99.99 D"
+V:4 bass 
+V:1
+ [A,C]>[B,D] [CE]2 [Ec]>[DB] [CA]2 | [A,C]>[DF] [CE]6 | [CE]>[CE] [DF]2 [DF]>[DF] [=DF]2 | %3
+w: By~James~Holmes~Rosecrans * * * * *|||
+ [=DA]>[DA] [EG]6 | [A,C]>[B,D] [CE]2 [Ec]>[DB] [CA]2 | [A,C]>[DF] [CE]6 | %6
+w: |||
+ [CE]>[CE] [DF]2 [DF]>[DF] [CE]2 | [DG]>[DG] [CA]6 | [DE]>[CA] [EB]2 [EB]>[EB] [EG]2 | %9
+w: |||
+ [DF]>[DE] [CA]6 | [DE]>[CA] [EB]2 [EB]>[EB] [Ec]2 | [Ec]>[Ac] [Gd]6 | %12
+w: |||
+ [A,C]>[B,D] [CE]2 [Ec]>[DB] [CA]2 | [A,C]>[DF] [CE]6 | [CE]>[CE] [DF]2 [DF]>[DF] [CE]2 | %15
+w: |||
+ [DG]>[DG] [CA]6 | cd[Ae]c- [Ec-][Ec-][Ec-][Ec] | AB[Ec]A- [EA-][EA-][CA-][CA] | %18
+w: |||
+ [DF][DF] [CE]2 [EA]>[Ac] [Ae]2 | [Ae]>[Ac] [GB]6 | cd[Ae]c- [Ec-][Ec-][Ec-][Ec] | %21
+w: |||
+ AB[Ec]A- [EA-][EA-][CA-][CA] | [DF][DF] [CE]2 [EA]>[Ec] [Ge]2 | [GB]>[Gc] A6- | A2 z2 z4 |] %25
+w: ||||
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z2 z E z4 | %17
+ z2 z E z4 | x8 | x8 | z2 z E z4 | z2 z E z4 | x8 | x8 | x8 |] %25
+V:3
+ E,>E, A,2 A,>A, E,2 | E,>A, A,6 | A,>A, A,2 A,>A, B,2 | B,>B, B,6 | E,>E, A,2 A,>A, E,2 | %5
+ E,>A, A,6 | A,>A, A,2 A,>A, A,2 | B,>B, A,6 | B,>A, G,2 G,>G, B,2 | A,>G, A,6 | %10
+ B,>A, G,2 G,>G, A,2 | A,>A, B,6 | E,>E, A,2 A,>A, E,2 | E,>A, A,6 | A,>A, A,2 A,>A, E,2 | %15
+ B,>B, A,6 | z2 CA, A,A,A,A, | z2 A,C CA,A,A, | A,A, A,2 A,>[K:treble]A, C2 | C>E E6 | %20
+ z2[K:bass] CA, A,A,A,A, | z2 A,C CA,A,A, | A,A, A,2[K:treble] C>A, B,2 | D>D C6- | C2 z2 z4 |] %25
+V:4
+ A,,>A,, A,,2 A,,>A,, A,,2 | A,,>A,, A,,6 | A,,>A,, D,2 D,>D, B,,2 | B,,>B,, E,6 | %4
+ A,,>A,, A,,2 A,,>A,, A,,2 | A,,>A,, A,,6 | A,,>A,, D,2 D,>D, E,2 | E,>E, A,,6 | %8
+ E,>E, E,2 E,>E, E,2 | E,>E, A,,6 | E,>E, E,2 E,>E, E,2 | E,>E, E,6 | A,,>A,, A,,2 A,,>A,, A,,2 | %13
+ A,,>A,, A,,6 | A,,>A,, D,2 D,>D, z2 | E,>E, A,,6 | z2 A,,A,, C,E, z2 | z2 z A, E,C,A,,A,, | %18
+ D,D, A,,2 C,>E, A,2 | A,>A, E,6 | z2 A,,A,, C,E, z2 | z2 z A, E,C,A,,A,, | D,D, E,2 E,>E, E,2 | %23
+ E,>E, A,,6- | A,,2 z2 z4 |] %25
+

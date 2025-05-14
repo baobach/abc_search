@@ -1,0 +1,65 @@
+X:1
+T:Sonata in (K158)
+T:Sonata in C minor (K158)
+T:Domenico SCARLATTI (1685-1757) 
+%%score { ( 1 4 ) | ( 2 3 5 ) }
+L:1/8
+Q:1/4=75
+M:3/8
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:5 bass 
+V:1
+"^Andante" gec | P=BG[Ad]- | [Ad]cd | efg | ac=B |{B} c3 | z E/F/4G/4A- | AG/=A/4=B/4c- | %8
+ c=B/c/4d/4e- | ed/e/4f/4g | fTe3/2d/4e/4 |{e} d2 z | z E/F/4G/4A- | AG/A/4B/4c- | cB/c/4d/4e- | %15
+ ed/4c/8d/8e/8f/8g/8a/8b | c'ed |{d} e3 | z d/4f/4e/4g/4f- | fe/4g/4f/4a/4g- | gf/4a/4g/4b/4a- | %21
+ ag/4b/4a/4c'/4b- | bc'c |{e} Pd2 e | c'ed |{d} e3 | z d/4f/4e/4g/4f- | fe/4g/4f/4a/4g- | %28
+ gf/4a/4g/4b/4a- | ag/4b/4a/4c'/4b | =bc'c |{e} Pd2 e | c'ed |{d} e3 | Te3 | Te3 | Te3 | %37
+ (3A/G/F/ GF | E3 | [Dd] [Ee]2 | [Ff] [Ee]2 | c'bd | Pe3 | [Dd] [Ee]2 | [Ff] [Ee]2 | c'bd | %46
+ e/g/e/B/G/B/ |{B} (3A/G/F/ ED |{D} E3 :: z/ e/ f2- | f/e/ f2- | f/e/ f2 | =e2 f | g3 | TA>GF | %55
+ z/ f/ g2- | g/f/ g2- | g/c/- ag | fed | efg | dTc3/2=B/4c/4 |{c} d2 [Ge] |{e} d2 c | G =B2- | %64
+ Bcd | G3/2=A/4=B/4c- | c=B/c/4d/4e- | ed/e/4f/4g | fTe3/2d/4e/4 |{e} d3 | z =B/4d/4c/4e/4d- | %71
+ dc/4e/4d/4f/4e- | ed/4f/4e/4g/4f- | fe/4g/4f/4a/4g | c'cP=B |{=B} c3 | z =B/4d/4c/4e/4d- | %77
+ dc/4e/4d/4f/4e- | ed/4f/4e/4g/4f- | fe/4g/4f/4a/4g | c'cP=B |{=B} c3 | c'3 | c'3 | c'3 | %85
+ (3f/e/d/ [ce][=Bd]- |{[Bd]} c3 | c3 | c3 | c3 | (3F/E/D/ [CE][=B,D]- |{[B,D]} C3 | [=B,=B] [Cc]2 | %93
+ [Dd] [Cc]2 | ag=B | Pc3 | [=B=b] [cc']2 | [dd'] [cc']2 | ag=B |{=B} c3 | AG=B, |{=B,} C3 :| %102
+V:2
+ z3 | z3 | [A,F][G,E][F,D] | [E,C][D,=B,][C,C] | [CD][CE]D | CC, z | C2 [F,C] | [E,C]2 [_A,C] | %8
+ [G,D]2 C | [=B,D]2 E | [DF][CE]C, | G,D,G,, | C2 [F,C] | [E,G,B,]2 [A,C] | [G,B,]2 C | %15
+ [G,B,D]2 [G,B,E] | [EF][EG]F | EGE | B,FD | G,EB, | F,DA, | E,EB, | A,EF | [A,B,DF]2 [G,B,E] | %24
+ [EF][EG]F | EGE | B,FD | G,EB, | F,DA, | E,EB, | A,EF | [A,B,DF]2 [G,B,E] | [EF][EG]F | EFG | %34
+ A2 G | F2 E | A,2 G, | A,B,B,, | E,F,G, | [A,B,]2 [G,B,] | [A,C]2 [G,B,] | A,B,B,, | E,F,G, | %43
+ [A,B,]2 [G,B,] | [A,C]2 [G,B,] | A,B,B,, | E,F,G, | A,B,B,, | E,3 :: TE2 TD | E2 D | E2 _D | C3 | %53
+ =E3 | FCF, | TF2 =E | TF2 =E | F2 _E | D2 G | [CEG]2 [B,DG] | G2 F | G,3/2=A,/4=B,/4C- | %62
+ C=B,/C/4D/4E- | ED/E/4F/4G | F[EG][DF] | [CE][B,D][_A,C] | D2 C | C=B,C | =B, [G,C]2 | G,GD | %70
+ A,FD | G,EC | F,D=B, | E,CG, | [CD][CE]D | CGE | A,FD | G,EC | F,D=B, | E,CG, | [CD][CE]D | CDE | %82
+[K:treble] f2 e | d2 c | [FA]2 [EG] | FGG, | CDE | F2 E | D2 C |[K:bass] [F,A,]2 [E,G,] | F,G,G,, | %91
+ C,D,E, | [F,G,]2 [E,G,] | [F,A,]2 [E,G,] | F,G,G,, | CDE | [FG]2 [EG] | [FA]2 [EG] | FGG, | %99
+ C,D,E, | F,G,G,, | [C,,C,]3 :| %102
+V:3
+ x3 | x3 | x3 | x3 | F, G,2 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | A, B,2 | x3 | %18
+ B,3 | G,3 | F,3 | E,3 | A,3 | x3 | A, B,2 | x3 | B,3 | G,3 | F,3 | E,3 | A,3 | x3 | A, B,2 | x3 | %34
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 :: x3 | x3 | x3 | x3 | %53
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | [A,C]3 | x3 | x3 | x3 | x3 | x3 | G,F,E, | F,2 E, | %68
+ [D,F,G,]E,C, | x3 | A,3 | G,3 | F,3 | E,3 | F, G,2 | x3 | A,3 | G,3 | F,3 | E,3 | F, G,2 | x3 | %82
+[K:treble] x3 | x3 | x3 | x3 | x3 | x3 | x3 |[K:bass] x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %98
+ x3 | x3 | x3 | x3 :| %102
+V:4
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | c B2 | A G2 | F E2 | %37
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 :: x/ G/ A2- | A/G/ A2- | A/G/ AB- | %52
+ B_dc | BAG | x3 | x/ A/ B2- | B/A/ B2- | B/c/ c2- | c2 =B | x3 | x3 | x3 | G3 | c2 x | x3 | x3 | %66
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | Ta g2 | Tf e2 | %84
+ Td c2 | x3 | x3 | TA G2 | TF E2 | TD C2 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %101
+ x3 :| %102
+V:5
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %38
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 :: x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %57
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | D2 x | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %76
+ x3 | x3 | x3 | x3 | x3 | x3 |[K:treble] x3 | x3 | x3 | x3 | x3 | x3 | x3 |[K:bass] x3 | x3 | x3 | %92
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 :| %102
+

@@ -1,0 +1,49 @@
+X:1
+T:6 Lieder, Op.1
+T:Veilchen
+T:2. Veilchen
+T:Peter Cornelius
+T:Peter Cornelius
+T:6 Lieder, Op.1
+T:OpenScore (CC0)
+C:Peter Cornelius
+Z:Peter Cornelius
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=80
+M:3/4
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:4 bass 
+V:1
+!p!"^Nicht schleppend" c3/2 =B/ c4 | E F G A c3/2 A/ | E4 z2 | %3
+w: 1. Zu dem Duft,|der da würzt die Len- zes-|luft,|
+w: 2. Von dem Sang,|der zum Blu- men- lob er-|klang,|
+w: 3. Und im Grün,|wenn die schön- sten Blu- men|blüh'n,|
+!mf!"^getragen"[Q:1/4=75]!<(! B4!<)!!f! f2 |!>(! (d>c)!>)!!mf! B2 z2 |!p!!<(! A4!<)!!mf! e2 | %6
+w: spend' ich|Veil- * chen|auch mein|
+w: ward mir|Veil- * chen|auch manch'|
+w: blüh' ich|Veil- * chen|auch ein|
+!>(! (c>B)!>)!!p! A2 z2 | z6 | z6 |] %9
+w: Teil- * chen.|||
+w: Zeil- * chen.|||
+w: Weil- * chen.|||
+V:2
+!p! [A,C][A,C][A,C][A,C][A,C][A,C] | [A,C][A,C][A,C][A,C][A,C][A,C] | %2
+!<(! (.[CE].[CF].[CG].[CA].[CB]!<)!!mf!.[Cc]) |!p! [B,FB]2 z2 z2 |!<(! (G4{/^f)} .g!<)!!mf!.G | %5
+ z6 | (A4{/g)} .a.A |!mp! z"^leicht"{/=e} f{/c}d{/=A}BFG |!p! z2{/g} a4 |] %9
+V:3
+!ped! [A,,E,][A,,E,][A,,E,][A,,E,][A,,E,][A,,E,] | [A,,E,][A,,E,][A,,E,][A,,E,][A,,E,][A,,E,] | %2
+ [A,,E,A,][A,,E,A,][A,,E,A,][A,,E,A,][A,,E,A,][A,,E,A,]!ped-up! | %3
+!ped! [D,,D,][D,F,B,][D,F,B,][D,F,B,][D,F,B,][D,F,B,]!ped-up! | %4
+!ped! [E,B,D][E,B,D][E,B,D][E,B,D][=E,B,D][E,B,D]!ped-up! | %5
+!p!!ped! [F,A,C]!<(![F,A,C][F,A,C][F,A,C][G,B,DE]!<)!!mf![G,B,DE]!ped-up! | %6
+!ped!!>(! [A,CE][A,CE][A,CE][A,CE][A,CE][A,CE]!ped-up!!>)! | %7
+!ped! [D,,D,][D,F,B,][D,F,B,][D,F,B,][E,B,D][E,B,D]!ped-up! | %8
+!ped! A,,,[E,A,C][E,A,C][E,A,C] !fermata![E,A,C]2!ped-up! |] %9
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | [A,,,A,,]4 x2 |] %9
+

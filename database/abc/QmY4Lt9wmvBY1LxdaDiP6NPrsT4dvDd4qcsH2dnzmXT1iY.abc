@@ -1,0 +1,63 @@
+X:1
+T:Lontano
+T:Lontano
+T:Ludovico Einaudi
+C:Ludovico Einaudi
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+Q:1/4=71
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:1
+"^Adagio, calmo e flessibile" z8 | z8 | (d8- | d4 c2 d2 | d8-) | d8 | (d8- | d4!<(! c2 d2!<)! | %8
+!mp! d6- (3:2:2d2!p! e |!>(! c8)!>)! |!pp! (d8- | d4!<(! c2 d2!<)! |!mf! f8 | e8) |!p! (d8- | %15
+ d4 c2 d2 |!>(! d6 c2!>)! |!pp! B6) (3:2:2z2!f![Q:1/4=75] (B |"_molto legato" gBfB eBdB | %19
+ eBdB cBdB |!>(! d8!>)! |!p! c6) (3:2:2z2!f! (B |"_più intenso" [gb]B[fa]B [gb]B[fa]B | %23
+!>(! [eg]B[df]B [ce]B [Bd]2!>)! |!mf![Q:1/4=71]"^Adagio"!>(! c8-!>)! |!p! c8) | %26
+ z"^l.h""_r.h"[I:staff +1] F,B,F, CF,DF, |[I:staff -1] z[I:staff +1] F,B,F, CF,DF, | %28
+[I:staff -1] z[I:staff +1] F,B,F, CF,DF, |:!mf![I:staff -1] z!<(! FdF cFBF!<)! | %30
+!f! !>!_A!p!FAF AFAF |!mf! !tenuto!G!pp!FGF GF!p!!tenuto!_AF |!mf! z!<(! FdF eFfF!<)! | %33
+!f! _A!p!FAF AFAF | %34
+!mf![I:staff +1] !tenuto![G,G]!pp![F,F][G,G][F,F] [G,G][F,F]!p!!tenuto![_A,_A][F,F] :| %35
+[I:staff -1] z"^l.h""_r.h"[I:staff +1] F,B,F, CF,DF, |[I:staff -1] z[I:staff +1] F,B,F, CF,DF, | %37
+[I:staff -1] z[I:staff +1] F,B,F, CF,DF, |[I:staff -1] z[I:staff +1] F,B,F, CF,DF, | %39
+[I:staff -1] z[I:staff +1] F,B,F, CF,DF, |[I:staff -1] z[I:staff +1] F,B,F, CF,DF, | %41
+[I:staff -1] z[I:staff +1] F,B,F, CF,_DF, |[I:staff -1] z[I:staff +1] F,B,F, CF,DF, | %43
+[I:staff -1] z[I:staff +1] F,B,F, CF,DF, |[Q:1/4=71]"^rall."[I:staff -1] !fermata!z8 |] %45
+V:2
+!p!!ped! B,,,8- | B,,,8!ped-up! |"^sim."!ped!{/B,,,-} B,,,8!ped-up! |!ped! D,,8!ped-up! | %4
+!ped!{/B,,,-} B,,,8!ped-up! |!ped! D,,8!ped-up! |!ped! B,,,8!ped-up! |!ped! D,,8!ped-up! | %8
+!ped!{/E,,-} E,,8!ped-up! |!ped! F,,8!ped-up! |!ped! B,,,8!ped-up! |!ped! D,,8!ped-up! | %12
+!ped!{/[_A,,,_A,,]-} [A,,,A,,]8!ped-up! |!ped! [G,,,G,,]8!ped-up! |!ped! [E,,,E,,]8!ped-up! | %15
+!ped! [G,,,G,,]8!ped-up! |!ped!{/[F,,,F,,]-} [F,,,F,,]8!ped-up! |!ped! B,,,8!ped-up! | %18
+!ped! [G,,,G,,]8!ped-up! |!ped! [E,,,E,,]8!ped-up! |!ped! [B,,,B,,]8!ped-up! | %21
+!ped! [F,,,F,,]8!ped-up! |!ped! [G,,,G,,]8!ped-up! |!ped! [E,,,E,,]8!ped-up! | %24
+!ped! [_A,,,_A,,]8!ped-up! |!ped! [F,,,F,,]8!ped-up! |!ped![I:staff -1] !tenuto![B,B]8!ped-up! | %27
+!ped! !tenuto![B,B]8!ped-up! |!ped! !tenuto![B,B]8!ped-up! |:!ped![I:staff +1] [B,,,B,,]8!ped-up! | %30
+!ped! !>!_A,,8!ped-up! |!ped! !tenuto!G,,6 !tenuto!_A,,2!ped-up! |!ped! [B,,,B,,]8!ped-up! | %33
+!ped! !>!_A,,8!ped-up! |!ped! [E,,,E,,]6 [_D,,,_D,,]2!ped-up! :| %35
+!ped![I:staff -1] !tenuto![B,B]8!ped-up! |!ped! !tenuto![B,B]8!ped-up! | %37
+!ped! !tenuto![B,B]8!ped-up! |!ped! !tenuto![B,B]8!ped-up! |!ped! !tenuto![B,B]8!ped-up! | %40
+!ped! !tenuto![B,FB]8!ped-up! |!ped! !tenuto![B,B]8!ped-up! |!ped! !tenuto![B,B]8!ped-up! | %43
+!ppp!!ped! !tenuto![B,B]8!ped-up! |!ped![I:staff +1] z2 [E,,,E,,]6!ped-up! |] %45
+V:3
+ !fermata!z F,DF, DF,DF, | !fermata!z F,DF, DF,DF, | z F,DF, DF,DF, | z F,DF, CF,DF, | %4
+ z F,DF, DF,DF, | z F,DF, DF,CF, | z F,DF, DF,DF, | z F,DF, CF,DF, | z F,DF, DF,DF, | %9
+ z F,DF, DF,CF, | z F,DF, DF,DF, | z F,DF, CF,DF, | z"^dim." F,DF, DF,DF, | z F,EF, EF,DF, | %14
+ z F,DF, DF,DF, | z F,DF, CF,DF, | z F,DF, DF,DF, | z F,B,F, B,F,B,E, | z F,CF, EF,DF, | %19
+ z F,DF, CF,B,F, | z F,B,F, CF,DF, | z F,A,F, B,F,CF, | z F,CF, DF,CF, | z F,DF, CF,B,F, | %24
+ z F,B,F, CF,DF, | z F,A,F, B,F,CF, | z2"_l.h" [_A,,,_A,,]6 | z2 [G,,,G,,]6 | z2 [E,,,E,,]6 |: %29
+ z F,!tenuto!DF, !tenuto!CF,!tenuto!B,F, | !>!_A,F,A,F, A,F,A,F, | !tenuto!G,F,G,F, G,F,_A,F, | %32
+ z F,!tenuto!DF, !tenuto!CF,!tenuto!B,F, | !>!_A,F,A,F, A,F,A,F, | x8 :| z2"_l.h" [_A,,,_A,,]6 | %36
+ z2 [G,,,G,,]6 | z2 [D,,,D,,]6 | z2 [E,,,E,,]6 | z2 [_A,,,_A,,]6 | z2 [B,,,B,,]6 | %41
+ z2 [_G,,,_G,,]6 | z2 [E,,,E,,]6 | z2 [B,,,,B,,,]6 | z"^fade away" F,B,F, CF, !fermata!B,2 |] %45
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %18
+ b2 a2 g2 f2 | g2 f2 e2 f2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |: %29
+ x2 !tenuto!d2 !tenuto!c2 !tenuto!B2 | x8 | x8 | x2 !tenuto!d2 !tenuto!e2 !tenuto!f2 | !>!e8- | %34
+ e8 :| x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %45
+

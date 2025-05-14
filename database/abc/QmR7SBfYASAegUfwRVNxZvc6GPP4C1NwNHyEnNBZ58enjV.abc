@@ -1,0 +1,85 @@
+X:1
+T:Walz
+T:Waltz
+T:Edvard Grieg 
+T:Op. 12, No. 2
+T:Public Domain (PianoXML typeset)
+T:Public Domain (PianoXML typeset)
+T:Public Domain (PianoXML typeset)
+C:Grieg
+Z:Public Domain (PianoXML typeset)
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=130
+M:3/4
+K:C
+V:1 treble nm="Grand Piano"
+V:3 treble 
+V:2 bass 
+V:1
+"^Allegro moderato"!p! z6 | z6 | !tenuto!!1!E2 .^F.^G .A2 | !tenuto!A2 .B.^G .^F2 | %4
+{/A} .^F2 !tenuto!E4- | E2 z2 z2 | z .!1!E.^F.^G(.!2!G.A) | z .!3!A.B.^G(.!3!G.^F) | %8
+{/A} .^F2 !tenuto!E4- | E2 z2 z2 | .!1!!5![Ge]2 .!2![^Ge]2 .!1![Ae]2 | (3!>!edc d4 | %12
+ .!1!!5![Ec]2 .!2![Fc]2 .!3![^Fc]2 | (3!>!!4!cBA B4 |!<(! (3!>!!4!BAG A4 | (3FED E4!<)! | %16
+!f! !3![CF]2"_ritard." [CG][CA] .[CF]2 | .!4
+2![B,D]2!p! !fermata![B,E]4 |"^a tempo"!p! z6 | z6 | %20
+ !tenuto!!1!E2 .^F.^G .A2 | !tenuto!A2 .B.^G .^F2 |{/A} .^F2 !tenuto!E4- | E2 z2 z2 | %24
+ z .!1!E.^F.^G(.!2!G.A) | z .!3!A.B.^G(.!3!G.^F) |{/A} .^F2 !tenuto!E4- | E2 z2 z2 | %28
+ .!1!!5![Ge]2 .!2![^Ge]2 .!1![Ae]2 | (3!>!!4!edc d4 | .!1!!5![Ec]2 .!2![Fc]2 .!3![^Fc]2 | %31
+ (3!>!!4!cBA!<(! B4 | (3!>!!4!BAG A4 | !>!!4
+3!G6!<)! |!f! !3![CF]2 [CG][CA] .[CF]2 | %35
+ .!4
+2![B,D]2!p! !fermata![B,E]4 ||[K:A]!p!"^a tempo" z2 (.!5![ce]2 .[ce]2) | %37
+ z2 (.[Gde]2 .[Gde]2) | z2 (.[ce]2 .[ce]2) | z2 (.[Gde]2 .[Gde]2) | z2 (.[ce]2 .[ce]2) | %41
+ z2 (.[ce]2 .[ce]2) |"_ritard."!<(! z2 (.[ce]2 .[ce]2)!<)! |!>(! z2 (.[ce]2 .[ce]2)!>)! | %44
+"^a tempo" z2 [ce]2 [ce]2 | z2 [Gde]2 [Gde]2 | z2 [ce]2 [ce]2 | z2 [Gde]2 [Gde]2 | %48
+ z2!<(! [ce]2 [ce]2 | z2 [ce]2 [ce]2 |"_ritard." z2 [ce]2 [ce]2!<)! |!f! z2 [ce]2 [ce]2 || %52
+[K:C]!p! z6 | z6 | !tenuto!!1!E2 .^F.^G .A2 | !tenuto!A2 .B.^G .^F2 |{/A} .^F2 !tenuto!E4- | %57
+ E2 z2 z2 | z .!1!E.^F.^G(.!2!G.A) | z .!3!A.B.^G(.!3!G.^F) |{/A} .^F2 !tenuto!E4- | E2 z2 z2 | %62
+ .!1!!5![Ge]2 .!2![^Ge]2 .!1![Ae]2 | (3!>!!4!edc d4 | .!1!!5![Ec]2 .!2![Fc]2 .!3![^Fc]2 | %65
+ (3!>!!4!cBA B4 |!<(! (3!>!!4!BAG A4 | (3FED E4!<)! |!f! !3![CF]2"_ritard." [CG][CA] .[CF]2 | %69
+ .!4
+2![B,D]2!p! !fermata![B,E]4 ||[K:A]"^Coda"!p!"_dolce" (!4!A4 BG |{/!4!G} F)E E4 | !3!A2 BcAF | %73
+{/!4!G} FE E4 |{/!5!A} .!3!F2 E4- | [CE]2 z2 z2 |{/A} .=F2 E4- | E6 | z6 |] %79
+V:2
+!ped! (A,,2 !3![E,C]2)!ped-up! [E,C]2 |!ped! (A,,2 [E,C]2)!ped-up! [E,C]2 | %2
+"_Ped. simile" (A,,2 [E,C]2) [E,C]2 | (A,,2 [E,D]2) [E,D]2 | (A,,2 [E,C]2) [E,C]2 | %5
+ (A,,2 [E,C]2) [E,C]2 | (A,,2 [E,C]2) [E,C]2 | (A,,2 [E,D]2) [E,D]2 | (A,,2 [E,C]2) [E,C]2 | %9
+ (A,,2 [E,C]2) [E,C]2 | .!2
+4![CE]2 .[CF]2 .!1
+3![C^F]2 | !2![G,DG]6 | %12
+ .!2
+4![A,C]2 .[A,D]2 .!1
+3![A,^D]2 | !2![E,B,E]6 | !4![F,C]6 | !2![C,G,C]6 | %16
+ !4![D,A,]2 [E,A,][F,A,] .[D,A,]2 | .!3![F,A,]2 !fermata![E,^G,]4 | (A,,2 !3![E,C]2) [E,C]2 | %19
+ (A,,2 [E,C]2) [E,C]2 | (A,,2 [E,C]2) [E,C]2 | (A,,2 [E,D]2) [E,D]2 | (A,,2 [E,C]2) [E,C]2 | %23
+ (A,,2 [E,C]2) [E,C]2 | (A,,2 [E,C]2) [E,C]2 | (A,,2 [E,D]2) [E,D]2 | (A,,2 [E,C]2) [E,C]2 | %27
+ (A,,2 [E,C]2) [E,C]2 | .[CE]2 .[CF]2 .[C^F]2 | !>!!2![G,DG]6 | %30
+ .!2
+4![A,C]2 .[A,D]2 .!1
+3![A,^D]2 | [E,B,E]6 | !4![F,C]6 | [C,G,C]6 | %34
+ !4![D,A,]2 [E,A,][F,A,] .[D,A,]2 | .!3![F,A,]2 !fermata![E,^G,]4 ||[K:A][K:treble] (!2!A4 BG) | %37
+{/!2!G} (F.E) !>!!5!E4 | (!2!A2 !1!B!2!c!1!AF) |{/!2!G} (F.E) !>!!5!E4 | !2!A4 (!5!EF) | %41
+ (!3!FG) !3!G4 | (!4!G!2!B)(!1!BA)(!5!EF) | (!3!FG) !>!!3!G4 | (!2!A4 BG |{/!2!G} F.E) !>!!5!E4 | %46
+ (!2!A2 !1!B!2!c!1!AF |{/G} F.E) !>!!5!E4 | (!2!A4 !5!EF | !3!F.^^F) !>!!3!F4 | %50
+ (!3!^^F.G) !>!!3!G4 | (!3!G.A) !>!!3!A4 ||[K:C][K:bass]!ped! (A,,2 !3![E,C]2)!ped-up! [E,C]2 | %53
+!ped! (A,,2 [E,C]2)!ped-up! [E,C]2 |"_Ped. simile" (A,,2 [E,C]2) [E,C]2 | (A,,2 [E,D]2) [E,D]2 | %56
+ (A,,2 [E,C]2) [E,C]2 | (A,,2 [E,C]2) [E,C]2 | (A,,2 [E,C]2) [E,C]2 | (A,,2 [E,D]2) [E,D]2 | %60
+ (A,,2 [E,C]2) [E,C]2 | (A,,2 [E,C]2) [E,C]2 | .!2
+4![CE]2 .[CF]2 .!1
+3![C^F]2 | !2![G,DG]6 | %64
+ .!2
+4![A,C]2 .[A,D]2 .!1
+3![A,^D]2 | !2![E,B,E]6 | !4![F,C]6 | !2![C,G,C]6 | %68
+ !4![D,A,]2 [E,A,][F,A,] .[D,A,]2 | .!3![F,A,]2 !fermata![E,^G,]4 ||[K:A]!ped! [A,,E,]6- | %71
+!ped! [A,,E,]6!ped-up! |!ped! [A,,E,]6-!ped-up! |!ped! [A,,E,]6!ped-up! |!ped! [A,,E,]6-!ped-up! | %75
+ [A,,E,]2 z2 z2 | ([A,,E,]6- |!ped! [A,,E,]6!ped-up! | .A,,,2) z2 z2 |] %79
+V:3
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | B6 | x6 | !1!G6 | F6 | !>!!4
+3!G6 | x6 | %17
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | B6 | x6 | !1!G6 | F6 | (3FED E4 | x6 | %35
+ x6 ||[K:A] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 || %52
+[K:C] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | B6 | x6 | !1!G6 | F6 | !>!!4
+3!G6 | %68
+ x6 | x6 ||[K:A] C6 | D4 z2 | C6 | D4 z2 | C6- | x6 | =C6- | C6 | x6 |] %79
+

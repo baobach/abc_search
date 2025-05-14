@@ -1,0 +1,37 @@
+X:1
+T:Rimsky-Korsakov Harmonic Exercises, Modulations (3)
+T:Rimsky-Korsakov Harmonic Exercises, Modulations (3)
+T:"Practical Manual of Harmony" (1885)
+T:Realizations by S. Shchetnikov
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/2=80
+M:3/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"""^Example by Rimsky-Korsakov (a -- F -- d):""^Phrases with modulation (4 measures)""_a:" c4"" d4"" B4 | %1
+"""_a:""_F:""_{" c8 c4 |"""_F:""_d:""_{" d4"" d4"""" ^c4 |"" d12 |] %4
+[K:A]"""^Exercises: own compositions.\nRealization (A -- f♯):\n""_A:" A4"" G4"" A4 |"" B4 G4"" A4 | %6
+"""_A:""_f♯:""_{" F8 ^E4 | F12 |][K:E][M:2/2]"""^Realization (E -- B):""_E:" E4"" F4 | %9
+"" G4"""_E:""_B:""_{" B4 | B4 ^A4 | B8 |][K:Eb]"""^Realization (E♭ -- A♭):""_E♭:" E4"" B4 | %13
+"""_E♭:""_A♭:""_{" G4 E4 | E6 _D2 | C8 |][K:F]"""^Realization (F -- g):""_F:" F4"" A4 | %17
+"" B4"""_F:""_g:""_{" A4 | G4 ^F4 | G8 |][K:Db]"""^Realization (D♭ -- f):""_D♭:" d4"" c4 | %21
+"""_D♭:""_f:""_{" d4 =G4 | A4 =G4 | F8 |] %24
+V:2
+ A8 ^G4 |"" A4"" _B4"" A4 |"" _B4 B4 A2 G2 | F12 |][K:A] E4 E4 E4 | E8 E4 |"" D4"" C4"" C2"" B,2 | %7
+"" A,12 |][K:E][M:2/2] B,4 D4 | E4"" G4 |"""" F6"" E2 |"" D8 |][K:Eb] B,8 |"" B,4"" _D4 | %14
+"" C4"""" B,4 |"" A,8 |][K:F] C4 D4 | D4"" C4 |"" C4"" D4 |"" D8 |][K:Db] F4 G4 |"""" F8 | %22
+"" F4"" =E4 |"" C8 |] %24
+V:3
+ E4 D4 E4 | E8 F4 | F4 E4 E4 | D12 |][K:A] C4 B,4 A,4 | G,4 B,4 A,4 | B,4 A,4 G,4 | F,12 |] %8
+[K:E][M:2/2] G,4 B,4 | B,4 E4 | D4 C4 | B,8 |][K:Eb] G,4 F,4 | E,4 G,4 | A,4 G,4 | E,8 |] %16
+[K:F] A,4 F,4 | F,8 | G,4 A,4 | B,8 |][K:Db] A,8 | A,4 D4 | C6"" B,2 | A,8 |] %24
+V:4
+ A,4 F,4 E,4 | A,4 G,4 F,4 | _B,4 G,4 A,4 | D,12 |][K:A] A,,4 B,,4 C,4 | D,8 C,4 | B,,4 C,4 C,4 | %7
+ F,,12 |][K:E][M:2/2] E,4 B,,4 | E,8 | F,4 F,,4 | B,,8 |][K:Eb] E,4 D,4 | E,8 | A,,4 E,,4 | A,,8 |] %16
+[K:F] F,4 D,4 | B,,4 F,4 | _E,4 D,4 | G,8 |][K:Db] D,4 E,4 | D,4 B,,4 | C,8 | F,8 |] %24
+

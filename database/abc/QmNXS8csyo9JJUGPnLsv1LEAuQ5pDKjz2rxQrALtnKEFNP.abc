@@ -1,0 +1,47 @@
+X:1
+T:NBTB
+T:Nothing but the Blood of Jesus
+T:Fife and Drum
+%%score 1 2 3 4
+L:1/8
+Q:3/4=64
+M:4/4
+K:C
+V:1 treble+8 transpose=8 nm="B♭ Fife" snm="B♭ Fife"
+V:2 treble+8 transpose=8 nm="B♭ Fife" snm="B♭ Fife"
+V:3 perc nm="Snare Drum" snm="S.D."
+K:none
+I:percmap B B 50 normal
+I:percmap ^c c 53 x
+I:percmap _B B 48 diamond
+V:4 perc nm="Bass Drums" snm="B.D."
+K:none
+I:percmap A A 49 normal
+I:percmap ^F F 39 x
+V:1
+[K:F#] z8 | z8 | z8 | z8 | z8 |"^Arr. Kristi Roller" z8 | A4 A4 | A4{/B} AGAB | c4 !trill(!Tf4 | %9
+ c8 | A2 A2 A2 cA/c/ | f4 f4 | !trill(!Tc8 | A8 | A2 AG A2 AG | A2 AG{/B} AGAB | cBce !trill(!Tf4 | %17
+ c8 | A2 B2 c2 cA/c/ | f4{/g} f4 | !trill(!Tc8 | A8 | z8 | z8 | f4{/g} f4 | c4{/c} BGAB | %26
+ c4 !trill(!Tf4 | c8 | c8 | c4{/dc} A4 | c4 c4 |{/^B} c4 !trill(!Tf4 | f4 f2 d2 | c4{/c} BGAB | %34
+ c4 !trill(!Tf4 | c8 | A2 A2{/B} AG cA/c/ | f4{/e} f4 | !trill(!Tc8 | A8 | z8 |] %41
+V:2
+[K:F#] z8 | z8 | z8 | z8 | z8 | z8 | F4 F4 | F4{/G} FEFG | A4 c4 | A8 | F2 F2 F2 GF/G/ | A4 A4 | %12
+ G8 | F8 | F4 F4 | F4{/G} FEFG | A4 c4 | A8 | F2 F2 F2 GF/G/ | A4 A4 | G8 | F8 | z8 | z8 | c8 | %25
+ A4 G4 | A4 c4 | A8 | G8 | G4{/AG} F4 | G4{/A} G4 | A4 c4 | c8 | A4 G4 | A4 c4 | A8 | %36
+ F2 F2{/G} FEFG | A4 A4 | G8 | F8 | z8 |] %41
+V:3
+ ^c4 ^c4 | ^c4 ^c4 | [_BB]2 BB B2 B2 | [_BB]2 BB B B2 B | [_BB]2 BB B2 B2 | [_BB]2 B2 BBBB | %6
+ [_BB]2 BB B2 B2 | [_BB]2 BB B B2 B | [_BB]2 BB B2 B2 | [_BB]2 B2 BBBB | [_BB]2 BB B2 B2 | %11
+ [_BB]2 BB B B2 B | [_BB]2 BB B2 B2 | [_BB]2 B2 BBBB | [_BB]2 BB B2 B2 | [_BB]2 BB B B2 B | %16
+ [_BB]2 BB B2 B2 | [_BB]2 B2 BBBB | [_BB]2 BB B2 B2 | [_BB]2 BB B B2 B | [_BB]2 BB B2 B2 | %21
+ [_BB]2 B2 BBBB | [_BB]2 BB B B2 B | _B2 B2 B2 z2 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %32
+ [_BB]2 BB B2 B2 | [_BB]2 BB B B2 B | [_BB]2 BB B2 B2 | [_BB]2 B2 BBBB | [_BB]2 BB B2 B2 | %37
+ [_BB]2 BB B B2 B | [_BB]2 BB B2 B2 | [_BB]2 B2 BBBB | [_BB]2 z2 z4 |] %41
+V:4
+ z8 | z8 | A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | %7
+ A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | %13
+ A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | %19
+ A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | A2 ^F2 [^FA]2 z2 | z8 | z8 | z8 | %27
+ z8 | z8 | z8 | z8 | z8 | A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | %36
+ A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | A2 ^F2 A2 ^F2 | [^FA]2 z2 z4 |] %41
+

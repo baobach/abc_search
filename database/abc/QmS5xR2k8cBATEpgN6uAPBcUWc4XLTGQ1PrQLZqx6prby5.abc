@@ -1,0 +1,47 @@
+X:1
+T:Inclina aurem tuam
+T:Heinrich Isaac edit BMarble
+T:Inclina aurem tuam
+T:Copyright © 2015 by CPDL.  This edition can be fully distributed, duplicated, performed, and recorded. 
+T:Copyright © 2015 by CPDL.  This edition can be fully distributed, duplicated, performed, and recorded. 
+C:Heinrich Isaac
+C:edit BMarble
+Z:Copyright © 2015 by CPDL.  This edition can be fully distributed, duplicated, performed, and recorded.
+Z:
+%%score [ 1 2 3 4 ]
+L:1/8
+M:4/2
+K:Eb
+V:1 treble nm="Soprano" snm="S."
+V:2 treble nm="Alto" snm="A."
+V:3 treble-8 transpose=-12 nm="Tenor" snm="T."
+V:4 bass nm="Baritone" snm="Bar."
+V:1
+"^Communion, 7th S. after Pentecost: Psalm 31:3Incline your ear to me; make haste to deliver me." z16 || %1
+w: |
+[M:4/2][Q:1/2=96] (F8 A8) | A8 z8 | B8 c8 | B8 A8 | B8 c8 | c8 z8 | A8 c8 | (B8 c8) | (A8 G8) | %10
+w: au- *|rem|tu- *|||am,|ac- ce-|le- *|ra, _|
+ z16 | B8 (B8 | c8 B8 | A8) B8 | (B8 c8 | B8) A4 B4- | B2 A2 G8 F4 | G16- | G16- | G16 |] %20
+w: |ut e-||* ru-|as _|_ me, e-|* * ru- as|me.|_||
+V:2
+ z16 ||[M:4/2] z16 | z8 C8 | E4 F4 G4 A4 | F8 z4 (F4 | D4 B,4) F8 | z4 (F8 E4) | F8 (E4 F4) | %8
+w: ||au-||rem tu-|* * am,|ac- *|ce- le- *|
+ (D8 C8) | z4 F4 (D4 E4) | C2 A,2 E8 D4 | E8 D4 E4 | C4 (F6 D2 E4) | F8 z4 F4- | F4 F4 F8 | %15
+w: ra, _|ac- ce- *|le- * * *|ra, ac- ce-|le- ra _ _|ut e-|* ru- as,|
+ z4 F8 D4 | E8 C8 | z4 (E8 D2 C2) | D8 E8 | D16 |] %20
+w: e- ru-|as me,|e- * *|ru- as|me.|
+V:3
+ A2 (A2 B2 A2) (A4 F4) ||[M:4/2] z8 (F8 | A8) A8 | z16 | (B8 c8 | B8) A8 | z4 (A4 B8 | c8) c8 | %8
+w: In- cli- * * na _|au-|* rem||tu- *|* am,|tu- *|* am,|
+ z8 A8 | c8 (B8 | c8) (A8 | G8) z4 B4- | B4 A4 (B8 | c8) B8 | z4 B8 (A4 | B8 c4) B4 | (G8 A8) | %17
+w: ac-|ce- le-|* ra,|_ ut|_ e- ru-|* as,|ut e-|* * ru-|as _|
+ G16- | G16- | G16 |] %20
+w: me.|_||
+V:4
+ z16 ||[M:4/2] F,16 | F,16 | z4 B,8 A,4 | B,8 F,8 | G,8 F,8 | (F,8 G,8 | F,8) z4 F,4 | %8
+w: |au-|rem|tu- *|||am, _|_ ac-|
+ G,8 (A,4 F,4) | F,8 G,4 E,4 | A,8 F,8 | E,8 G,8 | F,8 z4 G,4 | F,8 B,,8 | z4 B,,4 F,8 | %15
+w: ce- le- *|ra, _ _|_ ut|e- ru-|as, e-|ru- as,|e- ru-|
+ B,,8 (F,4 G,4) | E,8 F,8 | E,4 (C,8 B,,2 A,,2 | G,,16-) | G,,16 |] %20
+w: as me, _|e- ru-|as me. _ _|_||
+

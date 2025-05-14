@@ -1,0 +1,72 @@
+X:1
+T:Consolation
+T:Consolation
+T:No. 4
+T:Franz Liszt
+C:Franz Liszt
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+Q:1/4=48
+M:4/4
+K:Db
+V:1 treble nm="鋼琴" snm="Pno."
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:1
+"^Quasi Adagio" ([A,DF]2 [B,DF]2 | AG F2!<(! E2 B>!<)!!mp!A | !arpeggio!A6 F2) | %3
+ z!>(! (d2 c- c B2!>)!!p! A- | A G2 F F4 | E3 =E) (F2 F2 | AG F2!<(! E2 B>!<)!!mp!A | %7
+ !arpeggio!A6 F2) | z (d2 c- c B2 _c- | c B2 =A B4) | z8 | z8 | %12
+ z4!p!!<(! (!tenuto!A2 !tenuto!A2!<)! |!mp!!>(! __B3!>)!!p! A!<(! A_fe!<)!!mp!d | %14
+!>(! (d3!>)!!p! c)) !tenuto!.^c2 !tenuto!.=B2 | (=B=A) (A=G) (G^F) (F^E) | ^F4 ([=A,=DF]4 | %17
+ [=B,=D=E]4 [B,D=G]4 | [=G,=E]4) ([_A,_D=F]4 | [B,DE]4 [B,DG]4 | %20
+[Q:1/4=16] !fermata![G,E]4)[Q:1/4=48] ([F,CF]2"_string." [F,DF]2 | AG!<(! F2 (A2) A2 | %22
+ =B=A ^G2)!<)!!mf! (B2 B2 |!>(! =d3 c!>)!!mp! c"_dimin." _B2) =A | (=A =G2 F) F4- | %25
+ F2 z2[K:bass]"^slargando"[Q:1/4=46]"_cresc." (A,4 | %26
+[Q:1/4=45]"^.5" !>!A,,4!mp![Q:1/4=45]!<(! !>!A,,,4!<)! | %27
+!mf![Q:1/4=44]"^.5" D,,4)[Q:1/4=44] z2 ([F,A,D]2 | %28
+[Q:1/4=43]"^.5" [_F,__B,D]2 [F,B,D]2[Q:1/4=43] [G,_B,D]2 [G,B,E]2 | %29
+[Q:1/4=42]"^.5" [F,DF]4)[Q:1/4=42] z2 ([F,A,D]2 | %30
+[Q:1/4=41]"^.5"!>(! [_F,__B,D]2 [F,B,D]2[Q:1/4=41] [G,_B,D]2 [G,B,E]2 | %31
+[Q:1/4=40]"^.5" [F,DF]4)!>)!!p![Q:1/4=40]!<(! ([F,DF]4!<)! | %32
+[K:treble]!mp![Q:1/4=39]"^.5"!>(! !arpeggio![A,A]6!>)!!p! [G,G]2 | %33
+[Q:1/4=38] [F,DF]4)[Q:1/4=36] [F,A,DF]4 | [F,A,DF]8 |] %35
+V:2
+!ped! (D,2!ped-up!!ped! D,2!ped-up! | %1
+!ped! D,2!ped-up!!ped! D,2!ped-up!!ped! B,,2!ped-up!!ped! A,,2!ped-up! |!ped! [D,,A,,]8) | %3
+ z!ped-up! (B,2 A, G,2 D,2 | E,2 B,,2 =G,,4 | %5
+!ped! A,,2) z2!ped-up!!ped! (D,2!ped-up!!ped! D,2!ped-up! | %6
+!ped! D,2!ped-up!!ped! D,2!ped-up!!ped! B,,2!ped-up!!ped! A,,2!ped-up! |!ped! [D,,A,,]8) | %8
+ z!ped-up! (B,2 F, G,2 E,2 | F,2 [F,,F,]2 [B,,F,]4) | z4!p!!<(! (!tenuto!A,2 !tenuto!A,2!<)! | %11
+!mp!!>(! __B,3!>)!!p! A,!<(! A,_FE!<)!!mp!D |!>(! (D2!>)!!p! C)) z z4 | z8 | z4 z .=A, z .^G, | %15
+ z!ped! .^F, z!ped-up!!ped! .=B,, z!ped-up!!ped! .^C, z!ped-up!!ped! .[^C,,C,] | %16
+ [^F,,^C,]4!ped-up!"_col Ped."!ped! ([^F,,,F,,]2 [F,,,F,,]2!ped-up! | %17
+!ped! [=A,,,=A,,][=G,,,=G,,] [^F,,,^F,,]2!ped-up!!ped! !arpeggio![=E,,,=E,,]2{^F,,E,,^D,,E,,} [=B,,,=B,,]>[A,,,A,,]!ped-up! | %18
+!ped! !arpeggio![=A,,,=A,,]4)!ped-up!!ped! ([=F,,,=F,,]2 [F,,,F,,]2!ped-up! | %19
+!ped! [_A,,,_A,,][G,,,G,,] [F,,,F,,]2!ped-up!!ped! !arpeggio![E,,,E,,]2{F,,E,,=D,,E,,} [B,,,B,,]>[A,,,A,,]!ped-up! | %20
+!ped! !arpeggio!!fermata![A,,,A,,]4)!ped-up!!ped! [=A,,,F,,=A,,]2!ped-up!!ped! [B,,,F,,B,,]2!ped-up! | %21
+!ped! [C,,_A,,C,]2 [D,,A,,D,]2!ped-up!!ped! [C,,A,,C,]2!ped-up!!ped! [D,,A,,D,]2!ped-up! | %22
+!ped! [^D,,=B,,^D,]2 [=E,,B,,=E,]2!ped-up!!ped! !arpeggio![D,,B,,^F,]2!ped-up!!ped! !arpeggio![E,,B,,=G,]2!ped-up! | %23
+!ped! !arpeggio![^F,,=D,=A,]4!ped-up!!ped! [=G,,D,_B,]2 z2!ped-up! | z8 | %25
+ z2 [B,_D=E]2!ped! F2!ped-up!!ped! [=DF]2!ped-up! | %26
+[K:treble]!ped! AG!ped-up!!ped! F2!ped-up!!ped! !arpeggio!E2{FE=DE}!ped-up!!ped! B>A!ped-up! | %27
+!ped! !>!A4[K:bass] ([D,,D,]3!ped-up! [_C,,_C,] | %28
+ [_C,,_C,] [__B,,,__B,,]2 [A,,,A,,] [A,,,A,,] [G,,,G,,]2 [E,,,E,,] | %29
+!ped! [D,,,D,,]4) ([D,,D,]3!ped-up! [_C,,_C,] | %30
+ [_C,,_C,] [__B,,,__B,,]2 [A,,,A,,] [A,,,A,,] [G,,,G,,]2 [E,,,E,,] | %31
+!ped! [D,,,D,,]4) [B,,,D,,]4!ped-up! |!ped! [G,,,D,,B,,]8!ped-up! |!ped! [D,,A,,]4 [D,,F,,A,,D,]4 | %34
+ [D,,F,,A,,D,]8!ped-up! |] %35
+V:3
+ x2 B,,2 | G,,2 D,,2 E,,2 A,,,2 | x8 | x8 | x8 | x6 B,,2 | G,,2 D,,2 E,,2 A,,,2 | x8 | x8 | x8 | %10
+ x4 z [C,E,] z [D,_F,] | z [E,G,] x4 [_F,A,]2 | !arpeggio![G,__B,]2 x6 | x8 | x8 | x8 | x8 | x8 | %18
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x2 =G,2 (!arpeggio!D2 _C2 | %26
+[K:treble] !arpeggio![B,E]2 [A,D]2 [=G,B,_D]2 !arpeggio![_G,CE]2 | !arpeggio![F,_CD]4)[K:bass] x4 | %28
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %35
+V:4
+ x4 | [B,D]2 [A,D]2 [G,B,]2 !arpeggio![G,CE]2 | [F,D]8 | x [DF]2 [DF] [DG]2 [DF]2 | %4
+ [B,E]2 [B,D]2 [B,D]4 | C3 z [A,D]2 [B,D]2 | [B,D]2 [A,D]2 [G,B,]2 !arpeggio![G,CE]2 | [F,D]8 | %8
+ x [DF]2 [E=A]- [EA][DB] [EG]2 | [DF]2 [=CE]2 D4 | x8 | x8 | x4 z [CE] z [D_F] | z [EG] x4 [_FA]2 | %14
+ !arpeggio![EG__B]4 z [^C=E] z [C^E] | z [^C^F] z [=B,=D] z [=A,C] z [^G,B,] | =A,4 x4 | x8 | %18
+ (=D3 ^C) x4 | x8 | (D3 C) x4 | [A,E]2 [A,D]2 [A,E]2 [A,_F]2 | [=B,^F]2 [B,=E]2 [B,^F]2 [B,=G]2 | %23
+ [=D=A]4 [D=G]2 x2 | x8 | x4[K:bass] x4 | x8 | x8 | x8 | x8 | x8 | x8 |[K:treble] D8 | x8 | x8 |] %35
+

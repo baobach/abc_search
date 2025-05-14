@@ -1,0 +1,29 @@
+X:1
+T:Prélude n°4 Opus 28 en Mi mineur
+T:Prélude n°4 Opus 28 en Mi mineur 
+T:Frédéric Chopin
+T:«Suffocation»
+C:Frédéric Chopin
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=50
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ z2[Q:1/4=50]"^Largo" z2 z2"_Expression" B,>B | B6 c2 | B6 c2 | B6 c2 | B6 ^A2 | A6 B2 | A6 B2 | %7
+ A6 B>A | A6 !>!^G2- |!<(! ^G2 AB!<)!!>(! dcEA!>)! | F6 A2 | F6{/B} A2 | GF!<(!CB, ^DF (3dc!<)!B || %13
+ B6 c2 | B6 c2 | B6 c2 |!<(! B>^A"_stretto" A2!<)!!>(!{BA^^GA} =g2 f>e!>)! | %17
+!f! e^dc'd!>(! degB!>)! |!>(! =dc!>)! (3eEA F3 A |!p! F6{/B} A2 | F6-!<(! F>E!<)! | %21
+!>(! E6!>)!"_smorzando" F2 | E6 F2 | !fermata!E8 |!pp! [B,E]4 [B,^D]4 | !fermata![G,B,E]8 |] %26
+V:2
+ z8 | [G,E]2 [G,E]2 [G,E]2 [G,E]2 | [F,E]2 [F,E]2 [F,^D]2 [F,D]2 | [=F,^D]2 [F,D]2 [F,=D]2 [F,D]2 | %4
+ [E,D]2 [E,D]2 [E,D]2 [E,^C]2 | [E,C]2 [E,C]2 [F,C]2 [F,C]2 | [F,C]2 [F,C]2 [^D,C]2 [D,C]2 | %7
+ [D,C]2 [D,C]2 [D,C]2 [D,C]2 | [D,C]2 [D,C]2 [D,B,]4 | [C,B,]2 [C,A,]6 | %10
+ [B,,A,]2 [B,,A,]2 [C,A,]2 [C,A,]2 | [B,,A,]2 [B,,A,]2 [C,A,]4 | [B,,A,]8 || %13
+ [G,E]2 [G,E]2 [G,E]2 [G,E]2 | [F,E]2 [F,E]2 [=F,^D]2 [F,D]2 | [=F,^D]2 [F,=D]2 [E,D]2 [E,D]2 | %16
+ [E,D]2 [E,^C]6 |!ped! [B,,,B,,]4 [B,,G,]4!ped-up! | [C,A,]4 [B,,A,]4 | [B,,A,]2 [B,,A,]2 [C,A,]4 | %20
+ [B,,A,]2 [B,,A,]2 [^D,A,]4 | [C,G,]2 [C,G,]2 [C,_B,]2 [C,A,]2 | %22
+ [B,,A,]2 [B,,^G,]2 [B,,=G,]2 [B,,G,]2 | [_B,,G,]8 | [B,,,B,,]4 [B,,,^F,,B,,]4 | [E,,,E,,]8 |] %26
+

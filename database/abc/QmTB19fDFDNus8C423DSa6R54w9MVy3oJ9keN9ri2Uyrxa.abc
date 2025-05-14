@@ -1,0 +1,48 @@
+X:1
+T:Partita I Praeludium
+T:BWV 825
+T:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=72
+M:4/4
+K:Bb
+V:1 treble nm="Harp"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Adagio" z/ B/c/8B/8A/4B/ c/B/d/B/ e/B/c/8B/8A/4B/ d/B/e/B/ | %1
+ f/B/c/8B/8A/4B/ g/B/a/B/ b/a/4g/4f/b/ c/4d/4ed/4c/4 | %2
+ d/4c/4BG/4A/4 B/4c/4dc/4B/4 c/4B/4AF/4G/4 A/4B/4cB/4A/4 | B/4A/4GA/4B/4 c/4d/4=e/4f/4g/B/- BA Bc | %4
+ dc/B/ cd ed/=e/ fg- | g f2 =e f4- | ff dB eg c'2- | c'f b2- ba/g/ a/^f/g | ^ff ga Bf ab | %9
+ ce dc B/4c/4dc/4B/4 A/4B/4cB/4A/4 | B/d/e/8d/8c/4d/ b2- ba- a/gf/ | %11
+ =e/c/d/8c/8=B/4c/ d/c/e/c/ f/c/d/8c/8B/4c/ e/c/f/c/ | %12
+ g/4f/4=ed/4c/4 b/4a/4gf/4e/4 c'/4e/4f/4g/4f/4e/4f/4d/4 f/4e/4f/4e/4f/4e/4f/ | %13
+ f3/2A/4B/4 c/4d/4ed/4c/4 d/4c/4Bd/4e/4 f/4g/4_ag/4f/4 | %14
+ g/4f/4ed/4e/4 f/4g/4a/4b/4c'/e/ f/4e/4dc/4d/4 e/4f/4g/4a/4b/d/ | %15
+ e/4d/4cd/4e/4 d/4c/4B/4A/4B/4A/4G/4F/4 d2 d>c | B/A/g fe db ag | %17
+ fe dc d/4c/4B/e/4d/4c/BB/8A/8B/8A/8B/8A/8B/4 | B/B/c/8B/8A/4B/ c/B/d/B/ e/B/c/8B/8A/4B/ d/B/e/B/ | %19
+ f/B/c/8B/8A/4B/ g/B/a/B/ b/a/4g/4f/b/ g/b/f/a/ | !fermata![Bdfb]8 |] %21
+V:2
+ D2 EF G2 FE | D2 EC D[I:staff +1] B,2 A, |[I:staff -1] B,D G2- GC F2- | F=E/D/ E2 F4- | F4 A B3 | %5
+ A2 BG z cAF | B4- B2 z e | d2 z d c2- c>B | A/D/=E/8D/8C/4D/ E/D/^F/D/ G/D/E/8D/8C/4D/ F/D/G/D/ | %9
+ Ac BA AG- G^F | G z z/ d/e/8d/8c/4d/ g/cc/ dB- | B=EFG AFGA | B=E FG A2 G2 | %13
+ A[I:staff +1]C B,F,[I:staff -1] B,4- |[I:staff +1] B,G, C2- CF, B,2- | %15
+ B,A,/G,/ A,2[I:staff -1] z/4 F/4G/4A/4B/F/ G/D/E- | Ee dc Bd cB | Ac B2- BC DE | DD EF z EDC | %19
+ B,F EE Dd[ce][ce] | x8 |] %21
+V:3
+ B,8- | B,4- B,D, E,F, | B,, z z B, A,2 z D | G,2 z C z/ F,/G,/8F,/8=E,/4F,/ G,/F,/A,/F,/ | %4
+ B,/F,/G,/8F,/8=E,/4F,/ A,/F,/B,/F,/ C/F,/G,/8F,/8E,/4F,/ D/F,/=E/F,/ | %5
+ F/=E/4D/4C/F/ G,/4A,/4B,A,/4G,/4 A,/4G,/4F,A,/4B,/4 C/4D/4_ED/4C/4 | %6
+ D/4C/4B,D/4E/4 F/4G/4_AG/4F/4 G/4F/4ED/4E/4 F/4G/4=A/4B/4c/E/ | %7
+ F/4E/4DC/4D/4 E/4F/4G/4A/4B/D/ E/4D/4C/-C/4B,/4A,/4B,/4 C/4D/4E/4D/4C/4B,/4A,/4G,/4 | %8
+ D/ z/ z z2 D, z z2 | z/ D,/E,/8D,/8^C,/4D,/ =E,/D,/^F,/D,/ G,B,, =C,D, | G,, G,2 F, =E,F,B,,G,, | %11
+ C, z z2 C, z z2 | z C D=E FB, CC, | F,, z z2 z F,D,B,, | E,2 z E, D,2 z G, | C,2 z F, B,,D, E,C, | %16
+ F,/F,,/G,,/8F,,/8E,,/4F,,/ G,,/F,,/A,,/F,,/ B,,/F,,/G,,/8F,,/8E,,/4F,,/ A,,/F,,/B,,/F,,/ | %17
+ C,/F,,/G,,/8F,,/8E,,/4F,,/ D,/F,,/E,/F,,/ F,G,/E,/ F,F,, | z B,2 _A, [G,B,][G,B,] [F,A,][E,G,] | %19
+ [D,F,][_A,D-] [G,D][_G,C] [F,B,]D,E,F, | !fermata![B,,,B,,]8 |] %21
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %18
+ B,, z z2 B,, z z2 | B,, z z2 z D,,E,,F,, | x8 |] %21
+

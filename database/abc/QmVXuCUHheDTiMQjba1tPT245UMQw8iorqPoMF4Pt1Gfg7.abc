@@ -1,0 +1,48 @@
+X:1
+T:Title
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="Midi_1"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Martin Jahn\n(c, 1620-1682)" B2 c2 d2 d2 | %1
+ c2"^Jesu, meiner Seelen Wonne, und""^Jesu, meiner Freuden Freude" B2 A2 !fermata!A2 | %2
+"^Melodie: Johann Schop\nSatz: Johann Sebastian Bach\nBWV 360" B2 c2 dc B2 | A2 A2 !fermata!G4 :| %4
+[M:4/4] A2 B2 c2 c2 | B2 B2 !fermata!A4 | c2 d2 e2 e2 | d2 d2 !fermata!c4 | B2 c2 d2 d2 | %9
+ c2 B2 !fermata!A4 | B2 c2 dc B2 | A2 A2 !fermata!G4 |] %12
+[M:4/4]"^Text: Wilhelm Sacer\n(1635-1699)" B2 c2 d2 d2 | c2 B2 A2 !fermata!A2 | B2 c2 dc B2 | %15
+ A2 A2 !fermata!G4 :|[M:4/4] A2 B2 c2 c2 | B2 B2 !fermata!A4 | c2 d2 e2 e2 | d2 d2 !fermata!c4 | %20
+ B2 c2 d2 d2 | c2 B2 A2 !fermata!A2 | B2 c2 dc B2 | A2 A2 G2 !fermata!G2 |] %24
+V:2
+ G2 G2 F2 G2 | GF G2 F2 F2 | G2 G2 A3 G | G2 F2 D4 :|[M:4/4] F2 ^G2 A2 A2 | A2 ^G2 E4 | %6
+w: Je- su, mei- ner|See * len Won- ne,|Je- su, mei- ne|be- ste Lust|wie ich dich so|herz- lich lieb'|
+w: Je- su, mei- ne|Freu * den- son- ne,|Je- su, dir ist|ja be- wusst,|||
+ E2 G2 G3 A/_B/ | A2 G=F E4 | D2 G2 DE =F2 | E!courtesy!^F DE F4 | G2 G2 AF G2 | G2 F2 D4 |] %12
+w: und mich oh- ne *|dich be * trüb';|d'rum, o Je * su,|komm * zu * mir|und bleib bei * mir|für und für!|
+w: ||||||
+[M:4/4] G2 G2 F2 G2 | GF G2 F2 F2 | G2 G2 A3 G | G2 F2 D4 :|[M:4/4] F2 ^G2 A2 A2 | A2 ^G2 E4 | %18
+w: Je- su, mei- ner|Freu- * den Freu- de,|Je- su, mei- nes|Glau- bens Licht,|o wie kommt dein|Na- me mir|
+w: Je- su, mei- ner|See- * len Wei- de,|Je- su, mei- ne|Zu- ver- sicht,|||
+ E2 G2 G3 A/_B/ | A2 G=F E4 | D2 G2 DE =F2 | E!courtesy!^F DE F2 F2 | G2 G2 AF G2 | G2 F2 D2 D2 |] %24
+w: so ge- wünscht und *|lieb- lich * für,|dein Ge- dächt- * nis,|Je- * su, * ma- chet,|dass mein trau- * rigs|Her- ze la- chet.|
+w: ||||||
+V:3
+ D2 E2 DC B,2 | C2 D2 D2 D2 | D2 E2 D3 E/=F/ | E2 DC B,4 :|[M:4/4] D2 D2 E2 E2 | E=F ED C4 | %6
+ C2 B,2 C2 C2 | C2 B,2 G,4 | G,2 G,2 A,2 B,2 | B,A, A,G, D4 | D2 E2 D2 D2 | E2 DC B,4 |] %12
+[M:4/4] D2 E2 DC B,2 | C2 D2 D2 D2 | D2 E2 D3 E/=F/ | E2 DC B,4 :|[M:4/4] D2 D2 E2 E2 | E=F ED C4 | %18
+ C2 B,2 C2 C2 | C2 B,2 G,4 | G,2 G,2 A,2 B,2 | B,A, A,G, D2 D2 | D2 E2 D2 D2 | E2 DC B,2 B,2 |] %24
+V:4
+ G,2 E,2 B,,2 E,2 | A,,2 B,,C, D,2 !fermata!D,2 | G,F, E,2 F,2 G,2 | C,2 D,2 !fermata!G,,4 :| %4
+[M:4/4] D,2 C,B,, A,,B,, C,D, | E,2 E,2 !fermata!A,,4 | A,2 G,=F, E,D, C,2 | %7
+ =F,2 G,2 !fermata!C,4 | G,!courtesy!^F, E,2 =F,2 ^G,,2 | A,,2 B,,C, !fermata!D,4 | %10
+ G,,G, F,E, F,D, G,B,, | C,A,, D,2 !fermata!G,,4 |][M:4/4] G,2 E,2 B,,2 E,2 | %13
+ A,,2 B,,C, D,2 !fermata!D,2 | G,F, E,2 F,2 G,2 | C,2 D,2 !fermata!G,,4 :| %16
+[M:4/4] D,2 C,B,, A,,B,, C,D, | E,2 E,2 !fermata!A,,4 | A,2 G,=F, E,D, C,2 | %19
+ =F,2 G,2 !fermata!C,4 | G,!courtesy!^F, E,2 =F,2 ^G,,2 | A,,2 B,,C, D,2 !fermata!D,2 | %22
+ G,,G, F,E, F,D, G,B,, | C,A,, D,2 G,,2 !fermata!G,,2 |] %24
+

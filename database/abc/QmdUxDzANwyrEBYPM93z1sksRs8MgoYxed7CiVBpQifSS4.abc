@@ -1,0 +1,34 @@
+X:1
+T:Over the Mountains
+T:John Playford (1623 - 1686) Arr. Marieh 
+T:"Musick's Delight on the Cithren" (1666), No.5
+C:John Playford (1623 - 1686)
+%%score { 1 2 ( 3 4 ) }
+L:1/8
+Q:1/2=80
+M:2/2
+K:D
+V:1 treble-8 nm="Bouzouki (4 chœurs)"
+V:2 treble-8 nm="Guitare classique"
+V:3 perc nm="Batterie"
+K:none
+I:percmap c c 40 normal
+V:4 perc 
+K:none
+I:percmap F F 36 normal
+V:1
+ f4 d2 a2 | g2 e2 fg a2 | e3 d d4 :| z2 |: cd | e2 fe dc A2 | de f2 e2 d2 | g6 fg | a2 dc Bc A2 | %9
+ de f2 e3 d | d6 :| %11
+V:2
+"D" !arpeggio![DAdf]6 !arpeggio![DAdf]2 |"G" !arpeggio![G,B,DGBg]6 !arpeggio![G,B,DGBg]2 | %2
+"A" !arpeggio![A,EAce]4"D" !arpeggio![DAdf]4 :| z2 |: z2 | %5
+"A" !arpeggio![A,EAce]6 !arpeggio![A,EAce]2 |"D" !arpeggio![DAdf]6 !arpeggio![DAdf]2 | %7
+"G" !arpeggio![G,B,DGBg]6 z2 |"A" !arpeggio![A,EAce]6 !arpeggio![A,EAce]2 | %9
+"D" !arpeggio![DAdf]4"A" !arpeggio![A,EAce]4 |"D" !arpeggio![DAdf]6 :| %11
+V:3
+[K:C] c3 c2 c z2 | c3 c2 c z2 | c3 c2 c z2 :| z2 |: z2 | c3 c2 c z2 | c3 c2 c z2 | c3 c2 c z2 | %8
+ c3 c2 c z2 | c3 c2 c z2 | c3 c2 c :| %11
+V:4
+[K:C] F z z2 z4 | F z z2 z4 | F z z2 z4 :| x2 |: x2 | F z z2 z4 | F z z2 z4 | F z z2 z4 | %8
+ F z z2 z4 | F z z2 z4 | F z z2 z2 :| %11
+

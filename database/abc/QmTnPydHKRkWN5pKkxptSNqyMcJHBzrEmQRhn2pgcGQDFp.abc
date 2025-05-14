@@ -1,0 +1,46 @@
+X:1
+T:(Tempus Adventus-Advent-Avvento-Advents)
+T:harm. A. Solims
+T:(Tempus Adventus-Advent-Avvento-Advents)
+T:Alleluja
+C:harm. A. Solims
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=80
+M:3/4
+K:Eb
+V:1 treble nm="P1"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^I""^Andante" GG (cB) A2 | GG F2 G2 | GE D2 C2 ||"^Versus" E2 F2 G16 A2 G2 (G2 F2) E4 | %4
+w: ||||
+ F16 E2 F2 G4 G4 |][M:3/4]"^II""^Andante"[Q:1/4=80] GF G2 C2 | EF (GB) GF | (_EF) D2 !fermata!C2 || %8
+w: |Al- le- lu- ja,|al- le- lu- * ja, al-|le- * lu- ja.|
+[M:4/4]"^III" z2 GA (Bc) B2 | (BA) (FA) (GF) E2 | F (FA"^-"G) E2 !fermata!E2 || %11
+w: Al- le- lu- * ja,|al- * le- * lu- * ja,|al- le- * * lu- ja.|
+"^Versus" E2 F2 G16 A2 G2 (G2 F2) E4 | G2 A2 B16 c2 B2 (B2 A2) G4 |] %13
+w: ||
+[K:G][M:4/4]"^IV""^Moderato"[Q:1/4=100] DD | G2 D2 E2 F2 | G2 G4 BB | A2 F2 G2 E2 | E2 D4 || %18
+w: Al- le-|lu- ja, al- le-|lu- ja, al- le-|lu- ja, al- le-|lu- ja.|
+"^Versus" D2 A16 B2 c2 A4 | A16 (B2 A2) (G2 F2) E4 D4 |] %20
+w: ||
+V:2
+ EE E2 D2 | EE D2 D2 | EC (C=B,) G,2 || x32 | x28 |][M:3/4] ED D2 C2 | CD EG =EC | CD =B,2 G,2 || %8
+w: Al- le- lu- ja,|al- le- lu- ja,|al- le- lu- * ja.||||||
+[M:4/4] x2 EF (GA) G2 | (GF) (DF) (ED) C2 | D (DFE) (CA,) B,2 || x32 | x32 |][K:G][M:4/4] A,C | %14
+w: ||||||
+ D2 B,2 C2 C2 | E2 D4 GG | E2 C2 E2 ^C2 | ^C2 A,4 || x26 | x32 |] %20
+w: ||||||
+V:3
+ B,B, A,G, F,2 | B,C B,A, G,2 | CG, A,G, E,2 || z32 | z28 |][M:3/4] C=B, B,2 G,2 | %6
+ G,A, _B,_D _B,A, | =A,=B, G,=F,"^(Versus I)" _E,2 ||[M:4/4] E,2 B,B, E2 _D2 | C2 C=D B,A, G,=A, | %10
+ _B, B,3 _A,F, G,2 || z32 | z32 |][K:G][M:4/4] F,A, | B,2 G,2 G,2 A,2 | C2 B,4 EE | %16
+ C2 A,2 B,2 A,2 | G,2 F,4 || z26 | z32 |] %20
+V:4
+ E,E, A,,B,, B,,2 | E,C, B,,2 =B,,2 | C,C, F,G, C,2 || x32 | x28 |][M:3/4] C,D, G,F, E,2 | %6
+ C,=B,, _B,,E, =E,F, | ^F,G, G,,2 !fermata!C,2 ||[M:4/4] x2 E,E, E,2 =E,2 | F,2 A,B, B,,=B,, C,2 | %10
+ _B,, B,,D,E, E,2 !fermata!E,2 || x32 | x32 |][K:G][M:4/4] D,D, | G,2 G,,2 C,2 D,2 | %15
+ G,2 G,2 F,2 E,E, | A,2 D,2 E,2 A,,2 | A,,2 D,4 || x26 | x32 |] %20
+

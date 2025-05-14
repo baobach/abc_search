@@ -1,0 +1,30 @@
+X:1
+T:Les Niais de Sologne
+T:Les Niais de Sologne
+T:Jean-Philippe Rameau 
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=110
+M:2/2
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:1
+ f2 AA | PA2 G2 e2 GG | PG2 F2 d2 DD | DdDE FEFG | PE4 f2 AA | PA2 G2 e2 GG | PG2 F2 d2 DD | %7
+S DdDE MFGEF ||1 PD4!fine! :|2 PD4 || d2 FF | PF2 E2 c2 EE | PE2 D2 B2 B,B, | B,BB,C DCD!turn!E | %14
+ F4 f2 FF | cBcd c>d Pd2 | e2 Pf2 gbBB | BbBc Mdecd | PB4 e2 Ed | ceAA Ae=GG | PG2 F2 B2 DD | %21
+ A2 DD B2 DD | A2 DD B2 DD | A2 DD Bcde | Pc4!D.C.! ||3 PD4 || a2 dd | Pd2 c2 a2 ee | %28
+ Pf>e d2 a2 dd | Pd2 c2 a2 ee | Pf>e d2 a2 dd | eecc ddBe | Pc>d Pd2 eaAA | AaAB cBMcd | %34
+ PB4 e2 EE | FF^GG AABB | Pc>d Pd2 eaAA | AaAB cdBc | PA4!D.C.! || %39
+V:2
+"^notes égales" DEFD | EFED[K:bass] PCB,CA, | DA,D,E, F,G,A,PG, | F,G,F,E, D,C,MD,G,, | %4
+ A,,E,A,G, PF,E,F,D, | E,F,E,D, PC,B,,C,A,, | D,C,D,E, F,G,A,PG, | F,G,PF,E, D,G,,A,,A,,, ||1 %8
+ D,,A,,D,D,, :|2 D,,A,,D,E, ||"^1.e Reprise" F,E,F,G, | A,B,CB, P^A,^G,A,F, | B,^A,MB,C MDB,F,G, | %13
+ (D,3 PC,) (B,,2 PA,,)G,, | F,,C,F,PE, D,E,F,D, | E,D,E,F, E,>F, PF,2 | G,A,/G,/F,B, E,3 F, | %17
+ G,F,MG,E, B,E,F,F,, | B,,F,B,A, P^G,F,G,E, | A,^G,A,B, CDMEC | DA,D,F, G,,G,B,G,, | %21
+ F,,D,F,D,, G,,G,B,G,, | F,,D,F,D,, G,,G,B,G,, | F,,D,F,D,, G,,G,B,G, | A,,A,CA, ||3 D,,D,F,A, || %26
+"^2.e Reprise" DA,DF |[K:treble] AEAE[K:bass] CA,A,,A,,, | D,,D,F,A, DA,DF | %29
+ AEAE[K:bass] CA,A,,A,,, | D,,D,F,A,[K:treble] DFAD | CEAC B,AE^G | A,AB,^G CDPCB, | %33
+ CDPCB,[K:bass] A,^G,A,D, | E,F,PE,D, PC,B,,C,C,, | D,,D,E,E,, F,,F,^G,^G,, | A,,A,B,B,, C,CEC | %37
+ A,E,C,A,, E,,2 E,2 | A,,A,CA, || %39
+

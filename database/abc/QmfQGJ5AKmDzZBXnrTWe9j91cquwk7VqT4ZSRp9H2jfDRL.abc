@@ -1,0 +1,45 @@
+X:1
+T:Title
+%%score ( 1 2 ) { ( 3 5 ) | 4 }
+L:1/8
+Q:1/4=90
+M:12/8
+K:Ab
+V:1 treble nm="Drawbar Organ, Soprano"
+V:2 treble 
+V:3 treble nm="Church Organ, I�m Seeking a Home"
+V:5 treble 
+V:4 bass 
+V:1
+ z3 z A2- A3- A2- A/ z/ | z3 z A2 z6 | z3 z B2- B3- B2- B/ z/ | z3 z c2- c3- c2- c/ z/ | %4
+ z3 z A2- A3- A2- A/ z/ | z3 z A2 z6 | z3 z B2- B3- B2- B/ z/ | z3 z A2- A3- A2- A/ z/ | %8
+ z6 [EG][EG][EG] [EG] [EG]2 | z6 [EA][EA][EA] [EA] [EA]2 | z6 [EG][EG][EG] [EG] [EG]2 | %11
+ z6 [EA][EA][EA] [EA] [EA]2 | z6 [FA][FA][FA] [FA] [FA]2 | z6 [FA][FA][FA] [FA] [FA]2 | %14
+ z6 [EG]/[EG]/[EG][EG] [EG] [EG]2 | z3 z A2- A6- | A6 z6 |] %17
+V:2
+ [EA][Ac][A_c] [A=c] E2 EEE E E2 | %1
+ [CA]/[DB]/[Ec][=D_c] [E=c] e2- [Ae-]/[Ae-]/[Ae-][Ae-] [Ae-][A-e]>A | %2
+ [Ac][Bd][=Ac] [Bd] G2 GGG G G2 | [GB]/[Gc]/[GB][_G=A] [=GB] _A2 A/A/AA A A2 | %4
+ [EA][Ac][A_c] [A=c] E2 EEE E E2 | %5
+ [CA]/[DB]/[Ec][=D_c] [E=c] e2- [Ae-]/[Ae-]/[Ae-][Ae-] [Ae-][A-e]>A | %6
+ [Ac][Bd][=Ac] [Bd] G2 GGG G G2 | [EA]/[EA]/[EG][E_G] [E=G] E2 E/E/FF F E2 | x12 | x12 | x12 | %11
+ x12 | x12 | x12 | x12 | [EG][EG][EG] [EG] E2 EFF F E2- | E6 z6 |] %17
+V:3
+ CE=D E C2 CCC C C2 | A,/A,/A,A, A,[K:treble] C2 C/C/CC C C2 | EEE E E2 EEE E E2 | %3
+ E/E/EE E E2 E/E/EE E E2 | CE=D E C2 CCC C C2 | A,/A,/A,A, A,[K:treble] C2 C/C/CC C C2 | %6
+ EEE E E2 EEE E E2 | C/C/[K:bass]B,=A, B, C2 C/[K:treble]C/CD D C2 | %8
+ A,,C,B,, A,, E,2- E,3- E,2- E,/ z/ | z6[K:treble] CCC C C2 | E,F,G, A, B,2- B,3- B,2- B,/ z/ | %11
+ z12 | z6[K:treble] DDD D D2 | B,,C,D, .=E,3 C[K:treble]CC C C2 | %14
+ A,/[K:bass]B,/CB, .A,3 D/D/DD D D2 | DDB, D C2 CDD D C2- | C6 z6 |] %17
+V:4
+ A,A,A, A, A,2 A,A,E, C, A,,2 | A,,/A,,/A,,A,, A,, A,,2 A,,/A,,/A,,C, E, A,2 | %2
+ A,E,E, E, E,2 E,E,G, B, E,2 | E,/E,/E,E, E, A,2 A,/A,/A,A, A, A,2 | A,A,A, A, A,2 A,A,E, C, A,,2 | %5
+ A,,/A,,/A,,A,, A,, A,,2 A,,/A,,/A,,C, E, A,2 | A,E,E, E, E,2 E,E,G, B, E,2 | %7
+ E,/E,/E,E, E, A,,2- A,,3- A,,2- A,,/ z/ | z6 B,B,B, B, B,2 | E,A,B, C A,2- A,3- A,2- A,/ z/ | %10
+ z6[K:treble] DDD D D2 | CDC B, C2 CCC C C2 | A,A,G, F, D,2- D,3- D,2- D,/ z/ | %13
+ z6 z F,2- F,/ z/ F,2 | z12 | E,E,D, B,, A,,2- A,,6- | A,,6 z6 |] %17
+V:5
+ x12 | x4[K:treble] x8 | x12 | x12 | x12 | x4[K:treble] x8 | x12 | %7
+ x[K:bass] x11/2[K:treble] x11/2 | x12 | x6[K:treble] x6 | x12 | x12 | x6[K:treble] x6 | %13
+ z3 z F,2- F,[K:treble] z z z3 | z3[K:bass] z E,2- E,3- E,2- E,/ z/ | x12 | x12 |] %17
+

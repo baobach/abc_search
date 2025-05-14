@@ -1,0 +1,77 @@
+X:1
+T:Turkish March - Jazz Fantasy
+%%score 1 2 3 4
+L:1/8
+M:2/4
+K:C
+V:1 treble transpose=-9 nm="Alto Saxophone" snm="A. Sax."
+V:2 treble transpose=-14 nm="Tenor Saxophone" snm="T. Sax."
+V:3 bass transpose=-12 nm="Acoustic Bass" snm="Bass"
+V:4 perc nm="Drumset" snm="D. Set"
+K:none
+I:percmap ^a a 49 x
+I:percmap ^e e 46 x
+I:percmap ^f f 51 x
+I:percmap ^g g 42 x
+V:1
+[K:A]!f! G/F/^E/F/ | .A z B/A/G/A/ | .c z d/c/^B/c/ | g/f/^e/f/ g/f/e/f/ | a2 .f.a | gf ef | %6
+{/e} gf ef |{/e} gf .e.^d | !tenuto!c2 z2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z2 G/F/^E/F/ | %17
+ A z .B.^B | !tenuto!c2 d/c/^B/c/ | g/f/^e/a/- a.f | .c2 d/c/^B/c/ | =gf/a/- a/g/f/e/ | %22
+ d/c/B/d/ c/B/_B/A/ | ^^F/G/e/d/ c/B/A/G/ | !tenuto!C2 z2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %32
+ z2 .c.d | .e.e (f/e/d/)c/ | B.e .c.d | ec/a/- a/e/d/c/ | !tenuto!B2 .a.B | .c.c d/c/B/A/ | %38
+ GC .A.B | z4 | z2 G/F/^E/F/ | .A z .B.^B | !tenuto!c2 d/c/^B/c/ | g/f/^e/a/- af | .c2 d/c/^B/c/ | %45
+ =gf/a/- a/g/f/e/ | d/c/B/d/ c/B/_B/A/ | ^^F/G/e/d/ c/B/A/G/ | !tenuto!C2 z2 | z4 | z4 | z4 | z4 | %53
+ z4 | z4 | z4 | z2 .f.g |: ^a2 fg/.a/ | z/ c'/ z .f.g | ^a.f a.f | g.c .f.g | !tenuto!^a z .f.g | %62
+ ^d'.c' .^a.f |1 !tenuto!^a!tenuto!f b/^e/ z/ f/- || f2 .f.g :|2 %65
+ !tenuto!^a!tenuto!.f b/^e/ z/ f/- || f2 ^a/b/a/g/ | f/g/f/^e/ ^d/f/e/d/ | %68
+ ^^c/^d/^e/c/ ^A/^B/c/A/ | ^d/^^c/d/^e/ f/e/f/g/ | ^a/^^g/a/g/ a/b/a/^g/ | f/g/f/^e/ ^d/f/e/d/ | %72
+ c/^d/^e/c/ ^A/^B/c/A/ | ^B/c/^d/B/ ^^G/^A/B/G/ | ^A z z2 | z4 | z4 | z4 | z4 | z4 | z4 | %81
+ z2 z z/ ^D/- | D{/F} ^^G2 G | ^Af/^a/ a/f/^e/^d/ | ^^c/^e/"F#"c'/b/ ^a/g/f/e/ | f.^d f.d | %86
+{^^d} ^e^A ^^g2 | .^af/a/- a/f/^e/^d/ | ^^c/^e/^a/^b/ c/^d/^^d/e/ | f^d ^e/^^c/ z/ d/ | ^d2 z2 | %91
+ Ff/B/ z/ f/B/ z/ | (^^f.g) z2 | z4 | z2 c/B/^A/G/ | Ff/B/ z/ f/B/ z/ | (^^f.g) (f/g/^^g/^a/) | %97
+"F#" ^d'"F#"d' .^a/gf/ |"^Opt. Repeat to Begining" f2 |] %99
+V:2
+[K:D] z2 | z4 | z4 | z4 | z2!mf! .B.d | c^G FG |{/F} c^G FG |{/F} c^G .F.^E | %8
+ !tenuto!F2 c/B/^A/B/ | .d z e/d/c/d/ | .f z g/f/^e/f/ | c'/b/^a/b/ c'/b/a/b/ | d'2 .b.c' | %13
+ .d'.c' .b^a/b/- | b.f .g.e | (dc/)d/ Mc2 | B2 z2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %24
+ z2 c/B/^A/B/ | d2 .e.^e | !tenuto!f2 g/f/^e/f/ | c'/b/.^a c'/bd'/- | d'2 b.c' | d'f/b/ b/f/b/f/ | %30
+ b/f/=f/e/ d/B/_B/A/ | z/ E/^E/F/ (d/c)B/- | B2 .d.e | .f.f (b/a/g/)f/ | c.a .d.e | ^e z z2 | %36
+ z2 .b.c | .d.d g/f/e/d/ | ^AF .B.c | ^e/f/b/=e/ =f/e/B/d/- | dc z2 | z4 | z4 | z4 | z4 | z4 | z4 | %47
+ z4 | z2 c/B/^A/B/ | d2 .e.^e | !tenuto!f2 g/f/^e/f/ | .c'b/^a/ c'/.bd'/- | d'2 .b.c' | %53
+ d'f/b/ b/f/b/f/ | b/f/=f/e/ d/B/_B/A/ | z/ E/^E/F/ d/cB/- | B2 .B.c |: F2 Bc/.F/ | z/ F/ z .B.c | %59
+ F.B ^E.B | F.F .B.c | !tenuto!^G z .B.c | ^G.F .F.F |1 !tenuto!^DB E/^A/ z/ D/- || D2 .B.c :|2 %65
+ !tenuto!^d!tenuto!.b e/^a/ z/ B/- || B2 z2 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | ^d{/=d} ^^c2- c | %75
+ ^dB/d/- d/B/^A/^G/ | ^^F/^A/f/e/ ^d/c/B/A/ | (B.^G) (B.G) |{^^G} (^A^D) ^^c2 | %79
+ ^dB/!>!d/- d/B/^A/^G/ | ^^F/^A/^d/^e/ F/^G/^^G/A/ | B^G ^A/^^F/ z/ G/- | G z z2 | z4 | z4 | z4 | %86
+ z4 | z4 | z4 | z4 | z2 f/e/^d/c/ | B z z2 | z2 f/e/^d/c/ | B/c/f/F/ z/ f/F | f z z2 | z4 | %96
+ z2 (^B/c/^^c/^d/) |"B" ^G"B"G .E/c[FB]/- | [FB]2 |] %99
+V:3
+ z2 | .A,,.C, .C,.C, | .A,,.C, .C,.C, | .A,,.C, .A,,.C, | .A,,.C, .C,.C, | .E,,.B,, .B,,.B,, | %6
+ .E,,.B,, .B,,.B,, | .E,,.B,, .B,,.B,, | !tenuto!E,,2 z2 | .A,,.C, .C,.C, | .A,,.C, .C,.C, | %11
+ .A,,C, .A,,.C, | .F,,A,, A,,A,, | .E,,.A,, .D,.F,, | .C,.E,, .D,.F,, | .E,,.A,, .E,,.^G,, | %16
+ A,,2 z2 | .A,,.C, .E,,.C, | .A,,.C, .E,,.C, | .A,,.C, .E,,.C, | .A,,.C, .E,,.C, | %21
+ .A,,.^C, .E,,.C, | .D,.A,, .F,,.A,, | .E,,.^G,, .E,,.G,, | .E,,.^G,, .E,,.G,, | A,,C, E,,C, | %26
+ A,,C, E,,C, | A,,C, E,,C, | F,,A,, A,,A,, | F,, z z2 | D, z z2 | B,,2 [E,,A,,-]3/2 z/ | A,,2 z2 | %33
+ .C,.C .E,.E | G,2 z2 | .C,.C .E,.E | G,2 z2 | A,,A, C,C | E,2 z2 | .A,,.A, .C,.C | %40
+ !tenuto!E,2 z2 | .A,.C .E,.C | .A,.C .E,.C | .A,.C .E,.C | .A,.C .E,.C | .A,.^C .E,.C | %46
+ .D,.A, .F,.A, | .E,.^G, .E,.G, | .E,.^G, .E,.G, | .A,.C .E,.C | .A,.C .E,.C | .A,.C .E,.C | %52
+ .F,.A, .A,.A, | !^!F,2 z2 | !^!D,2 z2 | !^!B,,2 E, z/ A,,/- | A,,2 z2 |: .A,,E, .E,,.E, | %58
+ .A,,E, .E,,.E, | .A,,.E, .B,,.^F, | .E,,.B,, B,,B,, | .A,,E, .E,,.E, | .A,,E, .E,,.E, |1 %63
+ B,, z E, z/ A,,/- || A,,2 z2 :|2 B,, z E, z/ A,,/- || A,,2 z2 | .^F,.A, .A,.A, | .^G,.B, .B,.B, | %69
+ .^F,.A, .A,.A, | .^E,.^G, .G,.G, | .^F,.A, .A,.A, | .^G,.^C .C.C | ^G,^D G,^B, | ^C z z2 | %75
+ .^F,.^C .A,.C | .^F,.^C .E,.C | .^F,.^C .A,.C | .^G,.^C .^C,.C | .^F,.^C .A,.C | .^G,.^C .^C,.C | %81
+ .^F,.^C .^C,.C | .^F,,.^C, z2 | ^F,,.^C, A,,.C, | ^F,,.^C, C,.C, | ^F,,.^C, A,,.C, | %86
+ .^G,,.^C, .C,.C, | .^F,,.^C, .A,,.C, | .^G,,.^C, .C,.C, | .^F,,.^C, .C,.C, | .^F,,.^C, z2 | %91
+ .A,.^C .E,.C | B,.E, z2 | .^^F,,.E,, .B,,.B,, | .E,E,, z2 | .A, z .E,.^C | .B,E, z2 | %97
+ !tenuto!B,2 !tenuto!E,2 | !tenuto!A,,2 |] %99
+V:4
+ z2 | ^e^g/^e/ ^e^g/^e/ | ^e^g/^e/ ^e^g/^e/ | x4 | x4 | x4 | x4 | x4 | ^e z ^e^g/^e/ | %9
+ ^e^g/^e/ ^e^g/^e/ | x4 | x4 | x4 | x4 | x4 | x4 | ^e z ^e^g/^e/ | ^e^g/^e/ ^e^g/^e/ | x4 | x4 | %20
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | ^a z z2 | ^a z z2 | ^a z z2 | z4 | %33
+ ^e^g/^e/ ^e^g/^e/ | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %49
+ x4 | x4 | x4 | x4 | ^a z z2 | ^a z z2 | ^a z z2 | z4 |: ^a[^f^g]/^f/ ^f/ z/ [^f^g]/^f/ | %58
+ ^f[^f^g]/^f/ ^f/ z/ [^f^g]/^f/ | x4 | x4 | x4 | x4 |1 x4 || x4 :|2 %65
+ ^f[^f^g]/^f/ ^f/ z/ [^f^g]/^f/ || z4 | ^e^g/^e/ ^e^g/^e/ | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %76
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %95
+ x4 | x4 | z4 | z2 |] %99
+

@@ -1,0 +1,57 @@
+X:1
+T:Prelude
+T:Prelude
+T:A.Scriabin, Op.11.No.1
+C:A.Scriabin Op.11 No.1
+%%score { 1 | 2 }
+L:1/8
+Q:1/2=78
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+!p! (!tenuto!dA | %1
+[Q:1/2=63]"^Vivace～76"(5:4:5!tenuto!cGD d!<(!e!<)!!>(!(5:4:5a!>)!ge!p! !tenuto!dA | %2
+(5:4:5!tenuto!cGD !tenuto!dA(5:4:5!tenuto!cG"_cresc."C) (!tenuto!gd | %3
+!mp! (5:4:5!tenuto!fcG g!<(!a!<)!!>(!(5:4:5d'!>)!c'a!mp! !tenuto!gd | %4
+(5:4:5!tenuto!fcG !tenuto!gd(5:4:5!tenuto!fcF)!mp!"_cresc." (fc |(5:4:5ecF de(5:4:5agf)!mf! (ec | %6
+ (5:4:5dcF cd(5:4:5gfe)"_cresc." (dc | %7
+[Q:1/2=64](5:4:5ecF[Q:1/2=58] !tenuto!fc[Q:1/2=44]"^rubato"!f!(5:4:5!tenuto!e'!tenuto!d'!tenuto!c'[Q:1/2=58] af | %8
+(5:4:5eBG[Q:1/2=63]"_dim." dB(5:4:5gdG)!p! (ae | (5:4:5gdG ab(5:4:5e'd'b ae | %10
+(5:4:5gdG eG(5:4:5cGC) (fB |(5:4:5eBE bc'(5:4:5e'd'c'!pp! be | (5:4:5aeB be(5:4:5aeA) (gB | %13
+(5:4:5^fAc!pp!"_cresc."!<(! ^ef(5:4:5agB) (=fA | (5:4:5eG_B ^de(5:4:5gfA)!p! (e_A | %15
+(5:4:5d_AD eG(5:4:5dGD!mp! e^F |(5:4:5d^FD eF(5:4:5dFD!mf! eG | %17
+ (5:4:5dGD eG(5:4:5dGD!f![Q:1/2=62] [Aa]d | %18
+(5:4:5[Gg]dG[Q:1/2=60] [Aa]d(5:4:5[Gg]dG)!<)!!ff![Q:1/2=58] ([dd']a | %19
+[Q:1/2=60](5:4:5[cc']gd[Q:1/2=63]!8va(! d'e'(5:4:5a'g'e'!8va)! [dd']a | %20
+ (5:4:5[cc']gd [dd']a(5:4:5[cc']gc) ([Dd]A |(5:4:5[Cc]GD de(5:4:5age [Dd]A | %22
+(5:4:5[Cc]GD [Dd]A(5:4:5[Cc]GD)[K:bass]"^accel." (DA, | %23
+[Q:1/2=66] (5:4:5CG,D,[Q:1/2=70] DA,(5:4:5CG,C,[Q:1/2=74] DA, | %24
+(5:4:5CG,C,[Q:1/2=78] DA,(5:4:5CG,C,)[Q:1/2=60] z z |!ff![Q:1/2=40] z2[K:treble] [cegc']2 z4 |] %26
+V:2
+!ped! (C,,G,, |(5:4:4F,G,F) z2 (5:4:4z2 x!ped-up!!ped! (C,,G,, | %2
+(5:4:5F,G,F)!ped-up!!ped! (C,,G,,(5:4:5E,G,E)!ped-up!!ped! (C,,C, | %3
+ (5:4:4_B,C_B) z2 (5:4:4z2 x!ped-up!!ped! (C,,G,, | %4
+(5:4:5_B,C_B)!ped-up!!ped! (F,,C,(5:4:5A,CA)!ped-up!!ped! (D,,D, | %5
+(5:4:4A,DA) z2 (5:4:4z2 x!ped-up!!ped! (A,,,A,, | (5:4:4F,DA) z2 (5:4:4z2 x!ped-up!!ped! (D,,,D,, | %7
+(5:4:4A,,F,C) z2 (5:4:4z2 x!ped-up!!ped! (G,,,G,, | %8
+(30:16:11F,3/2B,3/2F3/2 B,2- x/ F,2- x/ G,,2-) x/!ped-up!!ped! (C,,3/2G,,3/2 | %9
+ (5:4:4F,G,D) z2 (5:4:4z2 x!ped-up!!ped! (C,,G,, | %10
+(5:4:5F,G,F)!ped-up!!ped! (C,,G,,(5:4:5E,G,E)!ped-up!!ped! (A,,E, | %11
+(5:4:4B,D^G) z2 (5:4:4z2 x!ped-up!!ped! (A,,E, | %12
+ (5:4:5D[K:treble]Ed)!ped-up![K:bass]!ped! (A,,E,[K:treble](5:4:5CEc)!ped-up![K:bass]!ped! (^D,,^D, | %13
+(5:4:5C^FA,)!ped-up!!ped! (=E,,E,(5:4:5B,EG,)!ped-up!!ped! (^C,,^C, | %14
+ (5:4:5_B,EG,)!ped-up!!ped! (=D,,D,(5:4:5A,DF,)!ped-up!"_Ped. simile"!ped! (F,,,F,, | %15
+(5:4:5D,_A,C)!ped-up!!ped! (G,,,G,,(5:4:5D,G,C)!ped-up!!ped! (_A,,,_A,, | %16
+(5:4:5D,^F,C)!ped-up!!ped! (=A,,,=A,,(5:4:5D,F,C)!ped-up!!ped! (G,,,G,, | %17
+ (5:4:5D,G,C)!ped-up!!ped! (G,,,G,,(5:4:5D,G,C)!ped-up!!ped! (G,,,G,, | %18
+(5:4:5F,B,D)!ped-up!!ped! (G,,,G,,(5:4:4F,B,D)!ped-up!!ped! ([C,,,C,,]2 | %19
+ (10:12:4(1:1:2[G,,F,G,] [G,FG])[K:treble] (de(5:4:4age)!ped-up![K:bass]!ped! ([C,,,C,,]2 | %20
+ (30:16:10[G,,F,G,]2- x/4 [G,FG]2-) x/4!ped-up!!ped! ([C,,,C,,]3 [G,,E,G,]2- x/4 [G,EG]2-) x/4!ped-up!!ped! ([C,,,C,,]3 | %21
+ (10:12:4(1:1:2[F,G,] G,,) (DE(5:4:4AGE)!ped-up!!ped! ([C,,,C,,]2 | %22
+ (30:16:10[F,G,]2- x/4 G,,2-) x/4!ped-up!!ped! ([C,,,C,,]3 [E,G,]2- x/4 G,,2-) x/4!ped-up!!ped! (!tenuto!F,3 | %23
+ (30:16:10G,,2- x/4 C,,2-) x/4!ped-up!!ped! (!tenuto!E,3 G,,2- x/4 C,,2-) x/4!ped-up!!ped! (!tenuto!E,3 | %24
+ (30:16:10G,,2- x/4 C,,2-) x/4!ped-up!!ped! (!tenuto!E,3 G,,2- x/4 C,,2- x/4!ped-up!!ped! [G,,,G,,]3)!ped-up! | %25
+!ped! [C,,,C,,]2 [E,G,CE]2 z4!ped-up! |] %26
+

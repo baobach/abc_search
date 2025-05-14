@@ -1,0 +1,36 @@
+X:1
+T:Title
+T:Sonata No. 14
+T:Ludwig van Beethoven Arranged by Jason Qin 
+T:1st Movement 
+C:Composer
+%%score 1 2 3
+L:1/8
+Q:1/4=50
+M:4/4
+K:E
+V:1 treble nm="Violin" snm="Vln."
+V:2 bass nm="Violoncello" snm="Vc."
+V:3 bass transpose=-12 nm="Contrabass" snm="Cb."
+V:1
+"^\n"!pp! (3G,CE (3G,CE (3G,CE (3G,CE | (3G,CE (3G,CE (3G,CE (3G,CE | %2
+ (3A,CE (3A,CE (3A,=DF (3A,DF | (3G,^B,F (3G,CE (3G,CD (3z B,D | z2 (3z CE (3z CE (3:2:4GCE/G/ | %5
+ (3(GD)F (3z DF (3z DF (3:2:4GDF/G/ | (3(GC)E (3z CE (3(AC)F (3z CF | %7
+ (3:2:2G2 E (3z z E (3F z D (3B z D |!pp! (3:2:2E2 E (3z z E (3z z E (3z z E | %9
+!pp! (3G,CE (3G,CE (3G,CE (3G,CE | (3G,CE (3G,CE (3G,CE (3G,CE | (3A,CE (3A,CE (3A,=DF (3A,DF | %12
+ (3G,^B,F (3G,CE (3G,CD (3z B,D | z2 (3z CE (3z CE (3:2:4GCE/G/ | %14
+ (3(GD)F (3z DF (3z DF (3:2:4GDF/G/ | (3(GC)E (3z CE (3(AC)F (3z CF | %16
+ (3G z E (3z z E (3F z D (3:2:2B2 D |"_dim." E8 |] %18
+V:2
+!p! [G,,C,]4 C,4 | [F,,B,,]4 B,,4 | [F,,A,,]4 F,,4 | [D,,G,,]4 G,,2 F,2 | %4
+ (3E,G,C (3[C,E,] z z (3E, z z (3E, z z | (3[D,G,] z z (3G, z z (3G, z z (3G, z z | %6
+ (3[G,,G,] z z (3G, z z (3A, z z (3A, z z | (3G,B, z (3G,B, z (3A,B, z (3A,B, z | %8
+!pp! (3G,B, z (3G,B, z (3=G,B, z (3G,B, z | [G,,C,]4 C,4 | [F,,B,,]4 B,,4 | [F,,A,,]4 F,,4 | %12
+ [D,,G,,]4 G,,2 F,2 | (3E,G,C (3[C,E,] z z (3E, z z (3E, z z | %14
+ (3[D,G,] z z (3G, z z (3G, z z (3G, z z | (3[G,,G,] z z (3G, z z (3A, z z (3A, z z | %16
+ (3G,B, z (3G,B, z (3A,B, z (3A,B, z |"_dim." [E,G,]8 |] %18
+V:3
+!p! C,,8 | B,,,8 | A,,,4 F,,,4 | F,,,8 | [C,,G,,C,]8 | [^B,,,G,,^B,,]8 | [C,,C,]4 F,,4 | %7
+ [B,,,B,,]4 [B,,,B,,]4 | [E,,E,]4 [=D,,=D,]4 |!p! C,,8 | B,,,8 | A,,,4 F,,,4 | F,,,8 | %13
+ [C,,G,,C,]8 | [^B,,,G,,^B,,]8 | [C,,C,]4 F,,4 | [B,,,B,,]4 [B,,,B,,]4 |"_dim." [E,,E,]8 |] %18
+

@@ -1,0 +1,98 @@
+X:1
+T:Title
+%%score { ( 1 6 ) | ( 2 8 ) | 3 | 4 | ( 5 7 ) }
+L:1/8
+Q:1/4=120
+M:2/4
+K:D
+V:1 treble nm="Part_1"
+V:6 treble 
+V:2 bass 
+V:8 bass 
+V:3 bass 
+V:4 bass 
+V:5 bass 
+V:7 bass 
+V:1
+!f! !tenuto!b2 !^!a>!^!g | fd Bd | f(!>!f/g/) f(f/g/) | f4 |!f! fd z2 | z d ef | %6
+ !tenuto!F z !tenuto!F z | D4 | A,F, z2 | z F, G,F, | A, z A, z | G,4 | G,E, z2 | z E, F,G, | %14
+ A,F, z2 | z F, ^G,F, | E, A,2 A, | ^G, E,2 B, | A,4- | A,2 z2 | A,F, z2 | z F, G,A, | %22
+ !tenuto!F z !tenuto!F z | D4 | A,F, z2 | z F, G,F, | A, z A, z | G,4 | G,E, z2 | z E, F,G, | %30
+ A,F, z2 | z F, =G,F, | E, B,2 D, | C, A,2 C, | D,4- | D,2 z2 |!p! F, F,2 G, | F,2 A,2 | %38
+ TF, F,2 G, | F,2 G,2 | F, F,2 G, | F,2 A,2 | G, x F, x | E,4 | G, G,2 F, | E,2 G,2 | F, F,2 E, | %47
+ D,2 F,2 | E,2 E,2 | F,2 ^G,2 |!<(! E,[I:staff +4] A,,/A,,/[I:staff -4] x2 | E,2 x2!<)! | %52
+ F, F,2 G, | F,2 A,2 | F, F,2 G, | F,2 G,2 | F, F,2 G, | F,2 A,2 | G, x F, x | E,4 | G, G,2 F, | %61
+ E,2 G,2 | F, F,2 E, | D,2 F,2 | G,2 A,2 | B,2 C2 | D4- | DA,/A,/ A,A, | A,F, z2 | z F, G,A, | %70
+ !arpeggio!!tenuto!F z z x | D4 | A,F, z2 | z F, G,F, | A, z z x | G,4 | G,E, z2 | z E, F,G, | %78
+ A,F, z2 | z F, ^G,F, | E, A,2 A, | ^G, E,2 B, | A,4- | A,2 z2 | A,F, z2 | z F, G,A, | %86
+ !tenuto!F z z x | D4 | A,F, z2 | z F, G,F, | A, z z x | G,4 | G,E, z2 | z E, F,G, | A,F, z2 | %95
+ z F, =G,F, | E, B,2 D | C E2 !tenuto!E | D4- | D2 !>!D2 |] %100
+V:2
+!f! F,2 F,>F, | F,A,, D,F, | G,2 G,2 | G,4 | F,!p! F,2 G, | F,2 A,2 | F, F,2 G, | F,2 G,2 | %8
+ F, F,2 G, | F,2 A,2 | G, G,2 F, | E,4 | G, G,2 F, | E,2 G,2 | F, F,2 E, | D,2 F,2 | E,2 E,2 | %17
+ E,2 ^G,2 | E, E,2 E, | E,2 z2 | F, F,2 G, | F,2 A,2 | F, F,2 G, | F,2 G,2 | F, F,2 G, | F,2 A,2 | %26
+ G, G,2 F, | E,4 | G, G,2 F, | E,2 G,2 | F, F,2 E, | D,2 F,2 | G,2 F,2 | G,2 E,2 | F,4- | F,2 z2 | %36
+!p! D, D,2 C, | D,2 F,2 | D, D,2 C, | D,2 C,2 | D, D,2 C, | D,2 F,2 | C, x D, x | C,4 | C, C,2 D, | %45
+ C,2 E,2 | D, D,2 C, | B,,2 A,,2 | D,2 D,2 | C,2 D,2 | C, x/ C, x3/2 | C,2 x2 | D, D,2 C, | %53
+ D,2 F,2 | D, D,2 C, | D,2 C,2 | D, D,2 C, | D,2 F,2 | C, x D, x | C,4 | C, C,2 D, | C,2 E,2 | %62
+ D, D,2 C, | B,,2 A,,2 | D,2 D,2 | C,2 C,2 | D,4- | D,PA, A,A, | A,F, z2 | z F, G,A, | F, z z x | %71
+ D,4 | A,F, z2 | z F, G,F, | A, z z x | G,4 | G,E, z2 | z E, F,G, | A,F, z2 | z F, ^G,F, | %80
+ E, A,2 A, | ^G, E,2 B, |!<(! A,4- | A,2 z2!<)! | A,F, z2 | z F, G,A, | F, z z x | F,4 | A,F, z2 | %89
+ z F, G,F, | A, z z x | G,4 | G,E, z2 | z E, F,G, | A,F, z2 | z F, =G,F, | E, B,2 D, | C, A,2 C, | %98
+ D,4- | D,2 A,2 |] %100
+V:3
+!f! D,2 !^!D,>!^!D, | D,D, D,D, | C,C, C,C, | C,A,, B,,C, | D,!p! D,2 C, | D,2 F,2 | D, D,2 C, | %7
+ D,2 C,2 | D, D,2 C, | D,2 F,2 | C, C,2 D, | C,4 | C, C,2 D, | C,2 E,2 | D, D,2 C, | C,2 B,,2 | %16
+ A,,2 A,,2 | D,2 D,2 | C, C,2 C, | C,2 z2 | D, D,2 C, | D,2 F,2 | D, D,2 C, | D,2 C,2 | D, D,2 C, | %25
+ D,2 F,2 | C, C,2 D, | C,4 | C, C,2 D, | C,2 E,2 | D, D,2 C, | B,,2 A,,2 | D,2 D,2 | C,2 C,2 | %34
+ D,4- | D,2 z2 |!mf! F,3 G, | A,3 ^G, | A,>^G, A,=G, | F,4 | F,3 G, | A,3 F, | A,/>F,/ A, A, x | %43
+ G,4 | E,3 F, | G,3 G, | F,>E, F,G, | F,F, F,F, | E,2 E,2 | F,2 ^G,2 | A,4- | A,2 x2 | F,3 G, | %53
+ A,3 ^G, | A,>^G, A,=G, | F,4 | F,3 G, | A,3 F, | A,/>F,/ A, A, x | G,4 | E,3 F, | G,3 G, | %62
+ F,>E, F,G, | F,F, F,F, | E,2 F,2 | G,2 E,2 | D,4- | D,2 z2 |!mf! F,3 G, | A,3 ^G, | A,>^G, A,=G, | %71
+ F,4 | F,3 G, | A,3 F, | A,>F, A,A, | G,4 | E,3 F, | G,3 G, | F,>E, F,G, | F,F, F,F, | E,2 E,2 | %81
+ F,2 ^G,2 | A,4- | A,2 z2 | F,3 G, | A,3 ^G, | A,>^G, A,=G, | F,4 | F,3 G, | A,3 F, | A,>F, A,A, | %91
+ G,4 | E,3 F, | G,3 G, | F,>E, F,G, | F,F, F,F, | E,2 F,2 | G,2 E,2 | D,4- | D,2 !>!F,2 |] %100
+V:4
+!f! D,2 C,>B,, | A,,F,, D,,F,, | A,,(!>!A,,/B,,/) A,,(A,,/B,,/) | A,,4 | D,2 A,,2 | D,2 A,,2 | %6
+ D,2 A,,2 | D,A,, B,,C, | D,2 A,,2 | D,2 A,,2 | E,,2 A,,2 | E,,2 A,,2 | C,2 A,,2 | C,2 A,,2 | %14
+ D,2 A,,2 | D,2 C,2 | B,,2 A,,2 | E,,2 E,,2 | A,,A,, A,,A,, | A,,A,, B,,C, | D,2 A,,2 | D,2 A,,2 | %22
+ D,2 A,,2 | D,A,, B,,C, | D,2 A,,2 | D,2 A,,2 | E,,2 A,,2 | E,,2 A,,2 | C,2 A,,2 | C,2 A,,2 | %30
+ D,2 A,,2 | D,2 C,2 | B,,2 G,,2 | A,,2 A,,2 | D, A,,2 F,, | D,,2 D,2 |!mf! F,3 G, | A,3 ^G, | %38
+ A,>^G, A,=G, | F,4 | F,3 G, | A,3 F, | A,/>F,/ A, A, x | G,4 | E,3 F, | G,3 G, | F,>E, F,G, | %47
+ F,/F,/ x F,/F,/ x | E,2 E,2 | F,2 ^G,2 | A,4- | A,2 x2 | F,3 G, | A,3 ^G, | A,>^G, A,=G, | F,4 | %56
+ F,3 G, | A,3 F, | A,/>F,/ A, A, x | G,4 | E,3 F, | G,3 G, | F,>E, F,G, | F,F, F,F, | E,2 F,2 | %65
+ G,2 E,2 | D, A,,2 F,, | D,,2 z2 |!mf! F,3 G, | A,3 ^G, | A,>^G, A,=G, | F,4 | F,3 G, | A,3 F, | %74
+ A,>F, A,A, | G,4 | E,3 F, | G,3 G, | F,>E, F,G, | F,F, F,F, | E,2 E,2 | F,2 ^G,2 | A,4- | A,2 z2 | %84
+ F,3 G, | A,3 ^G, | A,>^G, A,=G, | F,4 | F,3 G, | A,3 F, | A,>F, A,A, | G,4 | E,3 F, | G,3 G, | %94
+ F,>E, F,G, | F,F, F,F, | E,2 F,2 | G,2 E,2 | D, A,,2 F,, | D,,2 D,2 |] %100
+V:5
+!f! x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |!p! x4 | x4 | %38
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %57
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |!mf! x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %76
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %95
+ x4 | x4 | x4 | x4 | x4 |] %100
+V:6
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %38
+ x4 | x4 | x4 | x4 | x3/4 G,2 x5/4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x/ E,2 x3/2 | x z2 x | x4 | %53
+ x4 | x4 | x4 | x4 | x4 | x3/4 G,2 x5/4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %67
+ x3/2[I:staff +1] A,2 x/ | x4 | x4 | x3/2[I:staff -1] !tenuto!F x3/2 | x4 | x4 | x4 | %74
+ x3/2 A, x3/2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x3/2 !tenuto!F x3/2 | x4 | %88
+ x4 | x4 | x3/2 A, x3/2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %100
+V:7
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %38
+ x4 | x4 | x4 | x4 | x A,,,2 x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x3/2[I:staff -4] E, x3/2 | %51
+ x z2 x | x4 | x4 | x4 | x4 | x4 | x4 | x[I:staff +4] A,,,2 x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %66
+ x4 | x4 | x4 | x4 | x3/2 A,,,2 x/ | x4 | x4 | x4 | x3/2 A,,,2 x/ | x4 | x4 | x4 | x4 | x4 | x4 | %81
+ x4 | x4 | x4 | x4 | x4 | x3/2 A,,,2 x/ | x4 | x4 | x4 | x3/2 A,,,2 x/ | x4 | x4 | x4 | x4 | x4 | %96
+ x4 | x4 | x4 | x4 |] %100
+V:8
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %38
+ x4 | x4 | x4 | x4 | x3/4 C,2 x5/4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x/ C,2 x3/2 | x z2 x | x4 | %53
+ x4 | x4 | x4 | x4 | x4 | x3/4 C,2 x5/4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %70
+ x3/2 F, x3/2 | x4 | x4 | x4 | x3/2 A, x3/2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %85
+ x4 | x3/2 F, x3/2 | x4 | x4 | x4 | x3/2 A, x3/2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %100
+

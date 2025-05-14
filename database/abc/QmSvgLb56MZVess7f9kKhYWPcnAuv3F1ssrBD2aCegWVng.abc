@@ -1,0 +1,69 @@
+X:1
+T:Exaudi me, Domine
+T:Exaudi me, Domine
+T:Orlando di Lasso
+T:Source : Magnum opus musicum(1604)---München---First print A.Berg---1575. Editor : André Vierendeels (11/04/15).
+T:Notes : Original clefs : C1, C4, F4 Editorial accidentals above the staff Original note values have been halved Square bracket indicates ligature Music collected by Ferdinando and Rodolpho di Lasso 
+C:Orlando di Lasso
+%%score [ 1 2 3 ]
+L:1/8
+Q:1/4=96
+M:2/2
+K:C
+V:1 treble nm="Superius" snm="S"
+V:2 treble-8 nm="Tenor" snm="T"
+V:3 bass nm="Bassus" snm="B"
+V:1
+ z8 | z4 E4- | E4 F4 | E4 G4 | z2 E2 e2 e2 | dc BA GF ED | C2 c4 c2 | c4 z4 | G8 | ^F4 G4 | %10
+w: |Ex-|* au-|di me,|ex- au- di|me, _ _ _ _ _ _ _|_ Do- mi-|ne,|ex-|au- di|
+ E2 EF GE A2- | A2 G2 CD EF | G8 | z4 B4- | B4 c4- | c2 B2 d2 D2- | DD E2 z2 E2 | F2 E2 G4 | %18
+w: me, Do- * * * *|* * mi- * * *|ne,|ex-|* au-|* di me, Do-|* mi- ne, ex-|au- di- me,|
+ z4 D3 E | FG A4 G2 | A8 | A6 A2 | D2 D2 G4 | F4 E2 G2 | A3 c B2 A2 | G2 F2 E2 G2 | A3 c B2 A2 | %27
+w: Do- *|* * * mi-|ne,|quo- ni-|am be- ni-|gna est, mi-|se- ri- cor- di-|a tu- a, mi-|se- ri- cor- di|
+ G4 F2 E2 | z4 G4 | A3 c B2 A2 | G2 ^F2 G4 | z2 G2 A4 | B2 B4 c2 | A3 A B2 c2- | c2 B2 G2 A2 | %35
+w: a tu- a,|mi-|se- ri- cor- di-|a tu- a,|se- cun-|dum mul- ti-|tu- di- nem mi-|* se- ra- ti-|
+ G3 A Bc d2 | A2 F2 G3 D | EF G3 F/E/ F2 | G4 E4 | z8 | z8 | z2 G4 F2 | D2 E2 G4 | ^F2 G4 c2- | %44
+w: o- * * * *|num tu- a- *||rum, _|||mi- se-|ra- ti- o-|num tu- a-|
+ cB A3 G/F/ G2 | A8 | z8 | z4 c4- | c2 c2 B4 | d4 e4 | z2 A4 A2 | G4 B4 | c8 | G6 G2 | %54
+w: |rum,||re-|* spi- ce|in me,|re- spi-|ce in|me,|re- spi-|
+ ^F2 A2 B2 d2- | d2 c2 BA GF | E2 F2 E3 D/C/ | D2 d4 G2 | G4 z2 G2- | G2 G2 F2 A2- | A2 ^G2 G4- | %61
+w: ce in me, _|_ _ _ _ _ _||* re- spi-|ce, re-|* spi- ce in|_ _ me.|
+ !fermata!G8 |] %62
+w: _|
+V:2
+ c8 | B4 c4 | A4 z2 c2- | cB BA/G/ A2 B2 | G8 | z4 E4- | E4 F4 | E4 G4 | z2 c2 B2 c2 | A4 z2 EF | %10
+w: Ex-|au- di|me, Do-|* * * * * * mi-|ne,|ex-|* au-|di me,|ex- au- di|me, Do- *|
+ GE c4 BA | c2 B2 A2 c2- | c2 B4 c2- | c2 A4 GF | E2 e4 f2 | e2 dc B2 B2 | G3 G G4 | z2 c2 B2 c2 | %18
+w: |* mi- ne, ex-|* au- di|_ me, _ _|_ ex- au-|di- * * * me,|Do- mi- ne,|ex- au- di|
+ A2 c3 B/A/ Bc | dc cB/A/ B2 B2 | A4 c4- | c2 c2 d3 c | BA B4 G2 | A2 B2 c4 | z2 c2 d3 f | %25
+w: me Do- * * * *|* * * * * * mi-|ne, quo-|* ni- am _|_ _ _ be-|ni- gna est,|mi- se- ri-|
+ e2 d2 c4- | c2 c2 d4 | z2 B2 c3 e | d2 c2 B2 c2 | F2 c2 d3 f | e2 d2 c2 B2 | c4 z2 c2 | d4 e2 e2 | %33
+w: cor- di- a|_ tu- a,|mi- se- ri-|cor- di- a tu-|a, mi- se- ri-|cor- di- a tu-|a, se-|cun- dum mul-|
+ f2 d3 d A2 | e6 d2 | B2 c2 GA Bc | d4 c2 B2 | c4 A4 | z2 G2 A4 | B2 B4 c2 | A3 A B2 c2- | %41
+w: ti- tu- di- nem|mi- se-|ra- ti- o- * * *|* num tu-|a- rum,|se- cun-|dum mul- ti-|tu- di- nem mi-|
+ c2 B2 G2 A2 | G3 A Bc d2 | A2 ed cB e2- | ed c2 B4 | A4 c4- | c2 c2 B2 d2- | dc/B/ cd ef e2 | %48
+w: * se- ra- ti-|o- * * * *|num tu- * * * a-||rum, re-|* spi- ce in|_ _ _ _ _ _ _ _|
+ A2 e4 d2 | B2 d3 c/B/ c2 | AB cd c4 | z2 e3 e d2 | f2 e2 z2 c2- | c2 c2 B4 | d8 | e8 | z2 c4 c2 | %57
+w: me, re- spi-|ce in _ _ _|me, _ _ _ _|re- spi- ce|in me, re-|* spi- ce|in|me,|re- spi-|
+ B4 d4 | e4 e3 e | d3 c/B/ A3 B | c2 B2 B4- | !fermata!B8 |] %62
+w: ce in|me, re- spi-|ce _ _ _ _|_ in me.|_|
+V:3
+ z8 | z8 | z8 | z8 | C,8 | B,,4 C,4 | A,,4 z2 A,,2- | A,,B,, C,D, E,D, C,B,, | C,3 C, E,4 | %9
+w: ||||Ex-|au- di|me, Do-||* mi- ne,|
+ z2 D,2 B,,2 C,2- | C,2 A,,2 E,2 F,2 | E,4 z4 | E,8 | F,4 E,4 | G,4 A,3 A, | G,8 | %16
+w: ex- au- di|_ me, Do- mi-|ne,|ex-|au- di|me, Do- mi-|ne,|
+ z2 C,2 B,,2 C,2 | A,,4 z2 E,2 | F,2 E,2 G,3 F,/E,/ | D,E, F,2 E,3 E, | A,,2 F,4 F,2 | F,4 z4 | %22
+w: ex- au- di-|me, ex-|au- di me, _ _|_ _ _ Do- mi-|ne, quo- ni-|am|
+ G,4 E,4 | D,4 C,2 E,2 | F,3 A, G,2 F,2 | C,2 D,2 A,2 E,2 | F,3 A, G,2 F,2 | E,F, G,E, A,3 G, | %28
+w: be- ni-|gna est, mi-|se- ri- cor- di-|a tu- a, mi-|se- ri- cor- di-|a _ _ _ _ _|
+ F,2 E,2 E,4 | z8 | z2 D,2 E,3 G, | F,2 E,2 F,2 A,2 | G,4 z4 | z8 | z8 | z8 | z8 | z2 C,2 D,4 | %38
+w: _ tu- a,||mi- se- ri-|cor- di- a tu-|a,|||||se- cun-|
+ E,4 z2 C,2 |"^#" D,4 E,2 E,2 | F,2 D,3 D, A,,2 | E,6 D,2 | B,,2 C,2 G,,A,, B,,C, | %43
+w: dum, se-|cun- dum mul-|ti- tu- di- nem|mi- se-|ra- ti- o- * * *|
+ D,2 C,2 E,2 A,,2 | A,,4 z4 | z2 F,4 F,2 | E,4 G,4 | A,8 | z8 | z8 | F,6 F,2 | E,4 G,4 | A,8 | %53
+w: * num tu- a-|rum,|re- spi-|ce in|me,|||re- spi-|ce in|me,|
+ z2 E,4 E,2 | D,2 ^F,2 G,4 | z8 | A,6 A,2 | G,4 B,4 | C2 C,4 C,2 | B,,4 D,4 | E,8- | %61
+w: re- spi-|ce in me,||re- spi-|ce in|me, re- spi-|ce in|me.|
+ !fermata!E,8 |] %62
+w: _|
+

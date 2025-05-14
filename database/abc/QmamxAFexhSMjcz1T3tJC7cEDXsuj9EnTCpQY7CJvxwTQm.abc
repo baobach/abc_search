@@ -1,0 +1,57 @@
+X:1
+T:Allegro
+T:Presto
+T:Presto
+T:Élisabeth Jacquet de la Guerre (1665-1729) arr. Felix Scharpf 
+T:Deuxième mouvement de la Sonate No. 1 pour le Violon et le Clavecin (1707) arrangement pour duo:  Flûte et Clarinette 
+T:twoflutes 2020 / Felix Scharpf / https://commons.wikimedia.org/wiki/File:Elisabeth_Jacquet_de_La_Guerre-full.jpg
+T:twoflutes 2020 / Felix Scharpf / https://commons.wikimedia.org/wiki/File:Elisabeth_Jacquet_de_La_Guerre-full.jpg
+T:twoflutes 2020 / Felix Scharpf / https://commons.wikimedia.org/wiki/File:Elisabeth_Jacquet_de_La_Guerre-full.jpg
+T:twoflutes 2020 / Felix Scharpf / https://commons.wikimedia.org/wiki/File:Elisabeth_Jacquet_de_La_Guerre-full.jpg
+C:Jacquet de la Guerre, Elisabeth
+Z:twoflutes 2020 / Felix Scharpf / https://commons.wikimedia.org/wiki/File:Elisabeth_Jacquet_de_La_Guerre-full.jpg
+%%score [ 1 2 ]
+L:1/8
+Q:1/4=136
+M:4/4
+K:Bb
+V:1 treble nm="Flûte"
+V:2 treble transpose=-2 nm="Clarinette"
+V:1
+ z2 z4 | z2 z!mf! d (=e^fga) | ^f(=e/d/) !tenuto!gg (abc'd') | b(a/g/) d'2 (e'>d') c'>.c' | %4
+ .c'(b/a/) (bc') d'(e'/d'/)!>(! (c'b) | a3!>)!!mp! a (ba) g(f/=e/) | %6
+ f(g/a/) g(a/b/) a(g/f/)!<(! (=ed) | (^c.A) z!<)!!mf! d (=efga) | f(=e/d/) a2 g(f/e/) (d^c) | %9
+ d(=e/f/) e(f/g/) (f>e) (Te>d) | d3!p! d c!<(!(B/A/) (Bc) | A2 z!<)!!mp! d c(B/A/)!<(! (Bc) | %12
+ A3!<)!!mf! B (cdef) | (d.B) z f (gabc') | a2 b(a/g/) f(e/d/) e(d/c/) | d(e/f/) (gf) (edc)f | %16
+!>(! B(c/d/) c(d/e/) (d>c) (Tc>B)!>)! |!mp! B2 z2 z4 | z2 z!mf! f (gabc') | a(g/a/) .fa (bc'd'e') | %20
+ (c'3/2b/4c'/4) (d'c') (babg) | a(b/c'/) (d'c') (bagc') | f(g/a/) g(a/b/) (a>g) (Tg>f) | %23
+ f3!mp! A (Bc!<(!de) | (c.A) z!<)!!mf! B!<(! (cdef) | d3!<)!!f! g (a=bc'd') | %26
+ =b2 (gb) (c'd') e'(d'/c'/) | (d'/c'/d'/e'/) .d'"_dim."g (a=bc'd') | =b(c'/_b/) (_ag) (fedc) | %29
+ =B2!>(! c(d/e/) d(e/f/) e(d/c/)!>)! |!mp!!<(! g8-!<)! | g!mf!(f/g/) (_ag) (fe) d(c/=B/) | %32
+ c(d/e/) de/f/ (e>d) (Td>c) | c3"_cresc." c (fedc) | B3 d (gfed) | c2 B(c/d/) c(d/e/) d(c/B/) | %36
+ f3 (g/a/) g(a/b/) a(g/f/) | (bagf) (gfed) | (gfed)!>(! (cdef) | (d.B) z!>)!!mp! d!<(! (edcB) | %40
+ A3!<)!!mf! a!<(! (bagf) | =e3!<)!!f! b (c'bag) | ^f2!>(! g(a/b/) a(b/c'/) b(a/g/)!>)! | %43
+!p!!<(! (d'8!<)! | d')!mf!(c'/d'/) (e'd') (c'b) a(g/^f/) | g(a/b/) a(b/c'/)!>(! (b>a) (Ta>g) | %46
+ g3!>)!!mp! d!<(! (edcB) | A3!<)!!mf! a!<(! (bagf) | =e3!<)!!f! b (c'bag) | ^f3 d'!>(! (e'd'c'=b) | %50
+ (c'd'e'd')!>)!!mp! (c'!>(!bag)!>)! |!p!!<(! d'8-!<)! | d'!mf!(c'/d'/) (e'd') (c'b) a(g/^f/) | %53
+ !tenuto!g(a/b/)!>(! !tenuto!a(b/c'/)[Q:1/4=100]"_rit." (b>a)[Q:1/4=80] (Ta>[Q:1/4=30]g)!>)! | %54
+!mp! !fermata!g2 |] %55
+V:2
+[K:C] z!mf! A (Bcde) | c(B/A/) !tenuto!ec (defd) | e2 !tenuto!cc B2 (eE) | A3 A (de) (fd) | %4
+ e2 (AB) c(d/c/)!>(! (BA) | E3!>)!!mp! E (AB) (cd) | B(A/G/) (^FD) G(A/B/)!<(! A(B/c/) | %7
+ B3!<)!!mf! G (^FE^DB,) | E2 G(^F/E/) (cA)!tenuto!BB | G(^F/E/) (^DB,)(EA,) B,2 | %10
+ E3!p! E (^F!<(!^G)(AA,) | E(e/d/) !tenuto!c!<)!!mp!c (B^G)!<(!(AA,) | E3!<)!!mf! A (BcdB) | %13
+ c3 E (FDEF) | G(A/B/) A(B/c/) (BGAB) | c(d/e/) (fe) (dcg)G |!>(! A(B/c/) B(c/d/) (cF)(GA,)!>)! | %17
+!mp! C3!mf! c (defg) | e(d/e/) !tenuto!cc (fdef) | g3 G (ABcA) | (BG)(cB) A2 (dD) | %21
+ G(A/B/) (cB) A2 (dB) | e(^f/g/) (fd) (gc)(dD) | G3!mp! G (AB!<(!cC) | G3!<)!!mf! G!<(! (FE D2) | %25
+ A3!<)!!f! F (GA_BG) | A2 (ag) (fed)D | A3"_dim." F (GA_BG) | (AFGA) (_BAGB) | %29
+ A(A/G/) F(E/D/) ^C2 D2 |!mp! .F(E/D/) .A(B/^c/) .B(c/d/) .c(B/A/) | d2 (GF) (ED)!tenuto!AA | %32
+ F(E/D/) (^CA,) (DG,) A,2 | (Ddg)"_cresc."f (edcB) | (Aea)g (fedc) | %35
+ !tenuto!G(g/f/) e(d/c/) g2 c2 | B(A/G/) c2 (FD) (GE) | (AGFE) (FEDC) | (FGAF)!>(! G2 G,2 | %39
+ C3!>)!!mp! c!<(! (defd) | (edc!<)!!mf!B)!<(! (ABcA) | (ded!<)!!f!c) (BcdB) | %42
+ e(e/d/)!>(! c(B/A/) (^GE) A2!>)! |!mp! .c!<(!(B/A/) .e(^f/g/) .f(^g/a/) .g(f/e/)!<)! | %44
+!mf! a2 (dc) (BA)!tenuto!ee | c(B/A/)!>(! (^GE)!>(! (AD) E2 | F(E/D/)!>)! ^C!>)!!mp!A,!<(! (DEFD) | %47
+ (Edc)!<)!!mf!B!<(! (ABcA) | (ded!<)!!f!c) (BcdB) | (ed^cA)!>(! (defe) | (d^cde)!>)! (fedf) | %51
+!mf! e(d/c/B/A/^G/^F/ .E/)(A/G/F/ E/D/C/B,/ | .A,)(F/E/) (DC) (B,A,)(Ge) | %53
+ !tenuto!c(B/A/)!>(! (!tenuto!^GE) (!tenuto!AD) E2!>)! |!mp! !fermata!A2 |] %55
+

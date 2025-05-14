@@ -1,0 +1,30 @@
+X:1
+T:Handel's enharmonic modulation
+T:Handel's enharmonic modulation
+T:G. F. Handel Analisis by S. Shchetnikov 
+T:Messiah, HWV 56, "Thy rebuke hath broken"
+C:G. F. Handel
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=50
+M:4/4
+K:C
+V:1 treble-8 nm="Tenor"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+ z2 (cc e2 z _B | E2 EF F2 z2 | z2 FF A2 z G | A>A A2 z2 AA | c2 z d _B>B B2 | z2 _BB G2 z G | %6
+ G2 GG E2) z2 |] %7
+V:2
+"""_A♭:" (_e4"""_f:" =e4- |"" e4"" c4- |"""_b♭:" c8 | %3
+"""_g:""^Hidden enharmonic equality:\nin b♭ minor, it would be a g♭\n" ^f8- |"""_g:" f4"" d4- | %5
+"" d4"_Leading-tone seventh chord\n\nto dominant in e minor.\n\n" G4- |"""_e:" G6"" ^F>E) |] %7
+V:3
+ (c4 _B4- | B4 _A4 | =A8- | A8- | A4 _B4- | _B4 E4- | E6 ^D2) |] %7
+V:4
+ (_A4 _B,4- | B,4 F4- | F8 | C8- | C4 G,4- | G,4"_Enharmonic equality" ^C4 | B,6 B,2) |] %7
+V:5
+ (_A,,4 G,,4- | G,,4 F,,4 | _E,8 | D,8- | D,4 G,4- | G,4 ^A,,4 | B,,6 B,,2) |] %7
+

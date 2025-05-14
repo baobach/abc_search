@@ -1,0 +1,80 @@
+X:1
+T:Prelude
+T:Prelude
+T:Op. 28 No. 13
+T:Frédéric Chopin
+C:Frédéric Chopin
+%%score { ( 1 3 4 ) | 2 }
+L:1/8
+Q:1/4=63
+M:6/4
+K:F#
+V:1 treble nm="鋼琴" snm="Pno."
+V:3 treble 
+V:4 treble 
+V:2 bass 
+V:1
+"^Lento e con grand' espressione"!p! ([CFA]6 [CFA]6 | [FA]6 B4 G2) | ([CFA]6 [FA]4 [FA]2 | %3
+ (5:3:5([FA]2 [GB]2 [FA]2 [EG]2 [FA]2) [Ac]2 [GB]2) z ([CG] |!<(! [CFA]6 [CAc]6!<)! | %5
+!mf! [FAf]6!>(! [Gce]6 |{/e} !arpeggio![FGd]6!>)!!p! [EGc]4) z2 | z12 |!p!{/A,} ([CFA]6 [CFA]6 | %9
+ [FA]6 B4- B>G) | ([CFA]6!<(! [CFA]2- (3[CFA][CFA][CFA] (3[CFA][CFA][CFA] | %11
+ [FA]2 [GB][FA][EG]!<)!!mf![FA]!>(! [Ac]2 [GB]2) z!>)!!p! ([C-G] | [C=EA]6!<(! A4- A>B | %13
+ [=EAc]6!<)!!mf!!>(! d4- d>c | [=EAc]6!>)!!p! [DGB]6) |!mf!!>(! ([C^^FA]6 B4- B>!>)!D | %16
+!p! [B,G]6 [CA]6 | [A,F]4) z2!mf!!>(! ([DB]6!>)! |!p!!>(! [B,G]6 A6!>)! | %19
+!pp! [A,F]6- [A,F]2) z2 z2 |[Q:1/4=60]"^Più lento e molto espressivo"!p! (f6 A4 ^B2 | %21
+ ^B4- B/c/e/d/ c6) | (=e6 G4 A2 | A4- A/B/d/c/ B4 A2 | !>!A2 G2-) (G/A/c/B/ !>!A2 G2-) (G/A/c/B/ | %25
+ !>!A2!<(! G6-!<)!"^con abbandono" G!p!!<(!AcA) | (F2 F2 [DF]2!<)!!mf!!>(! [DF]2 [C^E]2 [DG]2 | %27
+ [B,DG]2!>)!!p! [A,CA]2 [B,DG]2 [A,CA]6) |[Q:1/4=63]"^Tempo I"!p! ([=EA]6!<(! A4- A>B | %29
+ [=EAc]6!<)!!mf! d4- d>c |!>(! [=Ecf]6 [DBd]6 | [C^^FBd]6!>)!!p! B4- B>D{x-} | e12 | (f6) ((g6) | %34
+ (e6-) e4-) e>f{x-} | (f12) | %36
+ z6)[Q:1/4=60]!mf!!>(! (A4[Q:1/4=57][Q:1/4=54][Q:1/4=51][Q:1/4=48] ^^G/[Q:1/4=42]A/[Q:1/4=36]c/!>)![Q:1/4=30]B/ | %37
+!p![Q:1/4=60] [A,A]12) |] %38
+V:2
+"_una corda"!ped! (F,,E,G,F,A,C, F,,E,G,F,A,C,!ped-up! | %1
+!ped! F,,E,G,F,A,C,!ped-up!!ped! C,,^^F,A,G,!ped-up!B,C,) | %2
+!ped! (F,,E,G,F,A,C, F,,E,G,F,A,C,!ped-up! | %3
+!ped! F,,E,G,F,A,C,!ped-up!!ped! C,,^^F,A,G,!ped-up!B,C,) | %4
+!ped! (F,,E,G,F,A,C, F,,E,G,F,A,!ped-up!C, | %5
+!ped! D,,^^G,^B,A,D!ped-up!F,!ped! G,,^^F,A,^G,CE,)!ped-up! | %6
+!ped! (G,,^^F,A,G,^B,D,!ped-up!!ped! C,F,A,G,CE,!ped-up! | G,F,B,D,F,E, A,C,A,B,,A,G,) | %8
+!ped! F,,E,G,F,A,C, F,,E,G,F,A,C,!ped-up! | %9
+!ped! F,,E,G,F,A,C,!ped-up!!ped! C,,^^F,A,G,!ped-up!B,C, | %10
+!ped! F,,E,G,F,A,C, F,,E,G,F,A,C,!ped-up! | %11
+!ped! F,,E,G,F,A,C,!ped-up!!ped! C,,^^F,A,G,!ped-up!B,C, | %12
+!ped! F,,^E,G,F,A,C, F,,E,G,F,A,C,!ped-up! | %13
+!ped! F,,^E,G,F,A,C,!ped-up!!ped! F,,E,G,F,A,C,!ped-up! | %14
+!ped! B,,F,G,^^F,A,!ped-up!C,!ped! B,,F,A,G,B,!ped-up!D, | %15
+!ped! D,,^^C,=E,D,^^F,!ped-up!A,,!ped! G,,C,E,D,G,!ped-up!G,, | %16
+!ped! C,,^B,,D,C,E,!ped-up!G,,!ped! C,,B,,D,C,E,!ped-up!G,, | %17
+!ped! F,,^B,,D,C,F,!ped-up!F,,!ped! =B,,,E,G,!ped-up!F,=B,=B,, | %18
+!ped! C,,^B,,D,C,E,!ped-up!G,,!ped! C,,B,,D,C,E,!ped-up!G,, | %19
+!ped! F,,^B,,D,C,F,C,, F,,B,,D,C,F,E,,!ped-up! | %20
+"_tre\n\n""_corde"!ped! D,,[D,A,][D,A,][D,A,][D,D][D,A,]!ped-up! [D,A,]!ped![D,C][D,^B,][D,A,]!ped-up![G,,A,][G,,G,] | %21
+!ped! C,,[G,,G,][C,G,][D,G,][C,G,]!ped-up![G,,G,]!ped! [C,G,][D,G,][C,G,][F,G,][E,G,]!ped-up![G,,G,] | %22
+"_una corda"!ped! C,,[C,G,][C,G,][C,G,][C,C][C,G,]!ped-up! [C,G,]!ped![C,B,][C,A,][C,G,]!ped-up![F,,G,][F,,F,] | %23
+!ped! B,,,[F,,F,][B,,F,][C,F,][B,,F,]!ped-up![F,,F,]!ped! [B,,F,][C,F,][B,,F,][F,,F,][B,,F,]!ped-up![C,F,] | %24
+!ped! [D,F,][D,F,][D,F,][D,F,]!ped-up![C,F,][C,F,]!ped! [B,,F,][B,,F,][B,,F,]!ped-up![B,,F,][C,F,][C,F,] | %25
+!ped! [D,F,][D,F,][B,,F,]!ped-up![B,,F,][B,,G,][B,,F,] [B,,G,][B,,F,][B,,G,][B,,F,][A,,F,][C,F,] | %26
+ [D,F,][D,F,][D,A,][D,A,][G,,D,G,][G,,D,G,] [C,G,][C,G,][C,G,][C,G,]!ped![C,G,][C,G,] | %27
+ [C,G,][F,,C,]!ped-up!!ped![F,,C,][F,,C,][F,,C,][F,,E,]!ped-up! [F,,F,](E,,G,,F,,A,,C,, | %28
+!ped! F,,,)^E,G,F,A,C, F,,!ped-up!!ped!E,G,F,A,C,!ped-up! | %29
+!ped! F,,^E,G,F,A,C, F,,!ped-up!!ped!E,G,F,A,C,!ped-up! | %30
+!ped! B,,^E,G,F,A,C,!ped-up!!ped! B,,E,G,F,B,B,,!ped-up! | %31
+!ped! D,,^^C,=E,!ped-up!D,^^F,A,,!ped! G,,C,E,D,G,G,,!ped-up! | %32
+!ped! C,,^B,,D,C,E,G,, C,,B,,D,C,!ped-up!E,G,, | %33
+!ped! F,,^B,,D,C,F,F,,!ped-up!!ped! =B,,,^^C,E,D,=B,G,,!ped-up! | %34
+!ped! C,,^B,,D,C,E,G,, C,,B,,D,C,G,!ped-up!C,, |!ped! F,,,^B,,D,C,F,C,, F,,B,,D,C,F,!ped-up!C,, | %36
+!ped! F,,,[F,,D,][F,,D,][F,,D,][F,,D,][F,,D,] [F,,D,][F,,D,]!ped-up![F,,D,][F,,C,][F,,C,][F,,C,] | %37
+!ped! [F,,C,]12!ped-up! |] %38
+V:3
+ x12 | x6 E6 | x6 C6 | C6 E4 x2 | x12 | x12 | x12 | x12 | x12 | x6 E6 | x12 | C6 E4 x2 | x6 =E6 | %13
+ x6 [=EA]6 | x12 | x6 [B,G]6 | E12 | x12 | E12 | x12 | z FFFFF FFFFFF | EEEEEE EEEEEE | %22
+ z =EEEEE EEEEEE | z DDDDD DDDDDC | B,B,B,B,CC DDDDCC | B,B,DD^ED!mf!!>(! EDE!>)!DCC | %26
+ A,A,DD^B,B, =B,B,B,B,B,B, | x12 | x6 =E6 | x6 [=EAf]6 | x12 | x6 [B,G]6 | %32
+ ([B,EG]6 [B,EG]4 [CA]2{x-} | [A,F]6){x-} [DGB]6{x-} | (G6 A6 | [A,F]12) | %36
+ z!<(! A,A,A,DA,!<)! A,"^poco rit."CB,A,A,A, | x12 |] %38
+V:4
+ x12 | C12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | C12 | x12 | x12 | x12 | x12 | x12 | x12 | %16
+ x12 | x12 | x6 C4 B,2 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x6 G4 x2 | x12 | x12 | x12 | %30
+ x12 | x12 | x12 | x12 | [=B,E]12 | x12 | x12 | x12 |] %38
+

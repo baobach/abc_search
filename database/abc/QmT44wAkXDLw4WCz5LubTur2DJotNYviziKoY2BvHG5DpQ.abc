@@ -1,0 +1,16 @@
+X:1
+T:Sample tune - abcm2ps (sample2.abc) - Decorations on two voices (also in 'd:' lines)
+T:Sample tune - abcm2ps (sample2.abc) - Decorations on two voices (also in 'd:' lines)
+T:Composer
+C:Composer
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+V:2 treble 
+V:1
+ c.def cdef | aabc' gabc' |O cdef gfec || d | x8 |!mf! x8 |!sfz! x!D.S.! :| x8 | %8
+V:2
+ !fermata!TuCDEF CDEF | ffga efga | CD EF [EG]FEC || d | x8 | x8 | .!fermata!MTu!5!d :| x8 | %8
+

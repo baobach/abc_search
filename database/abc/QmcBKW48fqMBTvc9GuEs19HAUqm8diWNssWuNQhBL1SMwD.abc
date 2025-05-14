@@ -1,0 +1,41 @@
+X:1
+T:Manchester
+%%score 1 2 3 4
+L:1/8
+M:2/2
+K:E
+V:1 treble nm="Soprano" snm="S."
+V:2 alto nm="Alto" snm="A."
+V:3 treble-8 nm="Tenor" snm="T."
+V:4 bass nm="Baritone" snm="Bar."
+V:1
+ G4 G2 B2 | B4 (B2 e2) | (d2 c2 B2) ^A2 | B8 | G4 B2 B2 | (c2 d2 e2) (dc) | B4 B4 | B8 | G4 G2 B2 | %9
+ (B4 c2) d2 | (e2 d2 c2) d2 | e6 e2 | B4 E4 | (G2 B2) (E2 F2) | (G2 A2 B2) B2 | B8 |[M:2/4] z4 | %17
+ B2 cd | e2 (dc) | (BG) (Ac) | B3 A | G2 FE | B2 e2 | d2 (3cBc | B3 B | B2 B2 | B2 e>d | c2 B2 | %28
+ c3 B | B2 B2 | B2 B2 | c2 (B2 | B2 c2 | d2 e2) | z2 B2 | B2 B2 | B2 cA | B2 B2 | B2 B2 | (Be) d2 | %40
+ (ed) c2 | B2 B2 | B3 B | B2 B2 | B2 e>d | c2 B2 | c3 B | B2 B2 | B2 B2 | c2 (B2 | B2 c2 | d2 e2) | %52
+ z2 B2 | B2 B2 | B2 cA | B2 B2 | B2 B2 | (Be) d2 | (ed) c2 | B2 B2 | B4 |] %61
+V:2
+ E4 E2 F2 | G4 G4 | (A2 G2) F4 | F8 | E4 G2 F2 | (G2 F2 E2) F2 | E4 D4 | E8 | E4 E2 F2 | %9
+ (G3 F G2) F2 | (G2 F2 E2) F2 | G6 G2 | G4 G2 E2 | B4 (G2 F2) | (E2 F2 GE) [DF]2 | [EG]8 | %16
+[M:2/4] z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z2 z E | G2 F2 | G3 E | A2 (GB) | A3 F | G2 G2 | %30
+ G3 E | A2 F2 | G2 A2 | B2 B2 | A2 F2 | G2 G2 | G2 F2 | (F2 EF | G2) E2 | G2 B2 | B2 A2 | G2 F2 | %42
+ G3 E | G2 F2 | G3 E | A2 (GB) | A3 F | G2 G2 | G3 E | A2 F2 | G2 A2 | B2 B2 | A2 F2 | G2 G2 | %54
+ G2 F2 | (F2 EF | G2) E2 | G2 B2 | B2 A2 | G2 F2 | G4 |] %61
+V:3
+ B4 c2 d2 | e4 e4 | (f2 e2 d2) c2 | B8 | B4 e2 d2 | (e2 B2 c2) A2 | G4 F4 | E8 | B4 c2 d2 | %9
+ (e3 f e2) B2 | (c2 d2 e2) (dc) | B6 B2 | e4 (B2 c2) | (B2 G2 E2) c2 | (B2 A2 G2) F2 | E8 | %16
+[M:2/4] z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z2 z B | e2 (df) | e3 g | f2 dB | e3 d | e2 (BG) | %30
+ E3 B | e2 (df) | e4 | z2 z B | e2 (df) | e3 d | (ed) c2 | B4 | z2 z B | e2 f2 | g2 f2 | e2 d2 | %42
+ e3 B | e2 (df) | e3 g | f2 dB | e3 d | e2 (BG) | E3 B | e2 (df) | e4 | z2 z B | e2 (df) | e3 d | %54
+ (ed) c2 | B4 | z2 z B | e2 f2 | g2 f2 | e2 d2 | e4 |] %61
+V:4
+ E,4 E,2 B,,2 | E,4 E,4 | (D,2 E,2 F,2) F,2 | B,,8 | E,4 E,2 B,,2 | (E,2 D,2 C,2) D,2 | E,4 B,,4 | %7
+ [E,,E,]8 | E,4 E,2 B,,2 | (E,3 D, C,2) B,,2 | (E,2 D,2 C,2) B,,2 | E,6 E,2 | E,4 (G,2 A,2) | %13
+ (G,2 E,2) (B,2 A,2) | (G,2 F,2 E,2) B,,2 | E,8 |[M:2/4] z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %24
+ z2 z E, | E,2 C,2 | E,3 E, | F,2 G,2 | A,3 A, | E,2 E,2 | B,2 G,2 | A,2 B,2 | E,2 A,2 | G,2 E,2 | %34
+ A,,2 B,2 | E,4- | E,2 F,2 | (B,,2 E,D, | E,2) E,2 | E,2 (B,>A,) | G,2 A,2 | [B,,B,]2 B,,2 | %42
+ E,3 E, | E,2 C,2 | E,3 E, | F,2 G,2 | A,3 A, | E,2 E,2 | B,2 G,2 | A,2 B,2 | E,2 A,2 | G,2 E,2 | %52
+ A,,2 B,2 | E,4- | E,2 F,2 | (B,,2 E,D, | E,2) E,2 | E,2 (B,>A,) | G,2 A,2 | [B,,B,]2 B,,2 | %60
+ [E,,E,]4 |] %61
+

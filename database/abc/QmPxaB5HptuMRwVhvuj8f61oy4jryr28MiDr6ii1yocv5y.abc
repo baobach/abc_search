@@ -1,0 +1,23 @@
+X:1
+T:Thankful Song Test
+T:Thankful Song Test
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=80
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ z2 z C FG |[M:4/4] [A,CFA]2 C2 [A,CE]2 [CFAc]2 | [A,DFA]4 [G,DFG]3 F/E/ | F2 [Fc]2 FEFc | %4
+ c4- ccdc | [CFAc]2 FC [CEGA]2 [Cc]2 | [A,DFA]4 [G,DFG]3 F/E/ | [CF]2 C2 [CF]EFc | %8
+ [DFBd]4 z c[Gdg][EGce] | [FAdf]4- [FAdf][Ff] [Ee]>c | d/c/d- d4 z d | cFFc [FGc]B[FA]F | %12
+ [B,_DFG]2 [f_d'][_ec'] [_db]3 B | [B_dfg]8 | [CFA]3 C [FA][GB]cd | [CFA]4 [CG]4 | [da]4 [Ge]4 | %17
+ [ca]4 [Ge]4 | !fermata!A,8 |] %19
+V:2
+ [B,,,B,,]6 |[M:4/4] F,,C,A,C, F,,C,A,F,, | B,,,F,,B,,F,, B,,,F,, B,,2 | A,,F,CF, A,,F, C2 | %4
+ B,,F,DF, B,,2 A,,G,, | F,,C,A,C, F,,C,A,F,, | B,,F,B,F, B,,F,B,B,, | A,,F,CF, A,,F, C2 | %8
+ B,,F,DF, B,,[A,,,A,,][B,,,B,,][C,,C,] | [D,,D,]A,,F,A,, D,,2 [C,,C,]2 | %10
+ B,,,F,,B,,F,, B,,,F,, D,2 | [A,,F,C]8 | B,,4 B,4- | B,8 | [C,F,A,]4- [C,F,A,]3 C | %15
+ [C,F,G,]4 [C,E,B,]4 |[K:treble] [cg]4 [Gd]4 | [FG]4[K:bass] [CD]4 | !fermata![F,,C,]8 |] %19
+

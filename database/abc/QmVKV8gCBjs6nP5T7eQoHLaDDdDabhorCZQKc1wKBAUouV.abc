@@ -1,0 +1,23 @@
+X:1
+T:Pachelbel's Canon
+T:Johann Pachelbel
+T:Arr. Zach Payne
+T:(for the learning pianist)
+%%score { 1 | 2 }
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ z2[Q:1/4=106]"^Majestic and Profound" [ceg]2 [ceg]2 [ceg]2 | z2 [GBd]2 [GBd]2 [GBd]2 | %2
+ z2 [Ace]2 [Ace]2 [Ace]2 | z2 [EGB]2 [EGB]2 [EGB]2 | z2 [GBd]2 [GBd]2 [GBd]2 | %5
+ z2 [DFA]2 [DFA]2 [DFA]2 | z2 [GBd]2 [GBd]2 [GBd]2 | z2 [Ace]2 [Ace]2 [Ace]2 || z2 [ceg]6 | %9
+ z2 [GBd]6 | z2 [Ace]6 | z2 [EGB]6 | z2 [GBd]6 | z2 [DFA]6 | z2 [GBd]6 | z2 [Ace]6 || z2 c2 e2 g2 | %17
+ z2 G2 B2 d2 | z2 A2 c2 e2 | z2 E2 G2 B2 | z2 G2 B2 d2 | z2 D2 F2 A2 | z2 G2 B2 d2 | z2 A2 c2 e2 || %24
+ [ceg]8 | [GBd]8 | [Ace]8 | [EGB]8 | [GBd]8 | [DFA]8 | [GBd]8 | [A,CE]8 |] %32
+V:2
+ C,8 | G,,8 | A,,8 | E,,8 | G,,8 | D,,8 | G,,8 | A,,8 || C,8 | G,,8 | A,,8 | E,,8 | G,,8 | D,,8 | %14
+ G,,8 | A,,8 || C,8 | G,,8 | A,,8 | E,,8 | G,,8 | D,,8 | G,,8 | A,,8 || C,8 | G,,8 | A,,8 | E,,8 | %28
+ G,,8 | D,,8 | G,,8 | A,,8 |] %32
+

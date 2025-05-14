@@ -1,0 +1,60 @@
+X:1
+T:Canon in D
+T:Pachelbel
+T:Canon in D
+C:Pachelbel
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=80
+M:4/4
+K:D
+V:1 treble nm="Piano"
+V:2 bass 
+V:1
+!pp! f4 e4 | d4 c4 | B4 A4 | B4 c4 |!p! [df]4 [ce]4 | [Bd]4 [Ac]4 | [GB]4 [=FA]4 | [GB]4 [A=c]4 | %8
+!mf! ([d=f]=cd=F) ([Ee]AGA) | ([=Fd]d=cB) ([Ac]=f[ca]b) | ([Bg]=feg) ([Af]ed=c) | %11
+ ([GB]ABd)!>(! [Ed]2 [E=c]2!>)! | a(=f/g/a)(f/g/ a/A/B/=c/ d/e/f/g/) | %13
+ =f(d/e/f)(=F/G/ A/B/A/G/ A/F/G/A/) | G(B/A/G)(=F/E/ F/E/D/E/ F/G/A/B/) | %15
+ G(B/A/B)(=c/d/ c/B/A/B/ c/d/ e/=f/) | [=fa]([df]/[eg]/[fa])([df]/[eg]/ [=ca]/A/B/c/ d/e/f/g/) | %17
+ [d=f]([Bd]/[=ce]/[df])(=F/G/ [FA]/B/A/G/ A/d/c/d/) | %18
+ [GB]([Bd]/[A=c]/[GB])(A/G/ [=FA]/G/F/G/ A/B/c/d/) | %19
+ [GB]([Bd]/[A=c]/[Bd])c/(B/ c/d/e/d/ c/d/B/c/) |!mf! [=fa]2 (fa [ea]b[=ca]g) | %21
+ [d=f]2 (df [=cf]g[Af]e) | [Bd]2 (Bd [Ad]2 =Fd) | [Gd]=cBc!>(! [A^c]4!>)! | %24
+ [=fa]2 (fa [ea]b[=ca]g | [d=f]2) (dg [df]g[Af]e | [Bd]2) (Bd [Ad]2) (=Fd | [Gd]=cBc [A^c]2) d(e | %28
+ =f2) ([dd']f fg[=cf=c']e | d2) ([db]d de[Ada]=c | B2) [Gg]2 [=fd']2 [da]2 | %31
+ [db]2 [Bg]2 [=ca]2!<(! [=F=f][Gg]!<)! | (a/A/d/=f/ a/f/d/A/) a/A/b/B/ a/A/g/G/ | %33
+ (=f/=F/B/d/ f/d/B/F/) f/F/g/G/ f/F/e/E/ | (d/D/G/B/ d/B/G/D/) d/D/=F/A/ =f/F/A/d/ | %35
+ g/G/B/d/ b/B/d/=f/ a/A/=c/e/ b/B/=c'/c/ | (d'/d/=f/a/ d'/a/f/d/) d'/d/e/a/ =c'/=c/e/a/ | %37
+ (=c'/=c/d/=f/ b/B/d/f/) b/B/c/f/ a/A/c/f/ | (a/A/B/d/ g/G/B/d/) g/G/A/d/ =f/=F/A/d/ | %39
+ =f/=F/G/B/ e/E/g/G/ a/A/=c/e/ [Bb][c=c'] | [d=fad']2 [=FAd]2 [=CEA=c]>[e=c'] a/e/c/e/ | %41
+ [Bd=fb]2 [D=FB]2 [A,=CFA]>[=ca] f/c/A/c/ | [GBdg]2 [G,B,DG]2 [=F,A,D=F]2 [FAd=f]2 | %43
+ [G,B,DG]2 [Bdgb]2 [=CEA=c][EAce][Acea][cea=c'] | ([=fd'=f']4 z D=FA | d8) |] %46
+V:2
+ (D,A,DF) (A,,D,A,C) | (B,,F,B,D) (F,,C,F,A,) | (G,,D,G,B,) (D,,A,,D,F,) | (G,,D,F,A,) (A,,E,A,C) | %4
+ (D,A,DF) (A,,D,A,C) | (B,,F,B,D) (F,,C,F,A,) | (G,,D,G,B,) (D,,A,,D,F,) | (G,,D,F,A,) (A,,E,A,C) | %8
+ (D,A,DA,) (A,,E,A,E,) | (B,,F,B,F,) (F,,C,F,C,) | (G,,D,G,D,) (D,,A,,D,A,,) | %11
+ (G,,D,F,D,) (A,,E,A,E,) | (D,A,DA,) (A,,E,A,E,) | (B,,F,B,F,) (F,,C,A,C,) | %14
+ (G,,D,G,D,) (D,,A,,D,A,,) | (G,,D,G,D,) (A,,E,A,E,) | (D,A,DA,) (A,,E,A,E,) | %17
+ (B,,F,B,F,) (F,,C,A,C,) | (G,,D,G,D,) (D,,A,,D,A,,) | (G,,D,G,D,) (A,,E,A,E,) | %20
+ (D,A,DA,) (A,,E,A,E,) | (B,,F,B,F,) (F,,C,A,C,) | (G,,D,G,D,) (D,,A,,D,A,,) | %23
+ (G,,D,G,D,) (A,,E,A,C) | (D,/A,/D/F/ D/A,/D,/A,/) (A,,/E,/A,/C/ A,/E,/A,,/E,/) | %25
+ (B,,/F,/B,/D/ B,/F,/B,,/F,/) (F,,/C,/F,/A,/ F,/C,/F,,/C,/) | %26
+ (G,,/D,/G,/B,/ G,/D,/G,,/D,/) (D,,/A,,/D,/F,/ D,/A,,/D,,/A,,/) | %27
+ (G,,/D,/G,/B,/ G,/D,/G,,/D,/) (A,,/E,/A,/C/ A,/E,/A,,/E,/) | %28
+ (D,/A,/D/F/ D/A,/D,/A,/) (A,,/E,/A,/C/ A,/E,/A,,/E,/) | %29
+ (B,,/F,/B,/D/ B,/F,/B,,/F,/) (F,,/C,/F,/A,/ F,/C,/F,,/C,/) | %30
+ (G,,/D,/G,/B,/ G,/D,/G,,/D,/) (D,,/A,,/D,/F,/ D,/A,,/D,,/A,,/) | %31
+ (G,,/D,/G,/B,/ G,/D,/G,,/D,/) (A,,/E,/A,/C/ A,/E,/A,,/D,/) | %32
+ (D,/A,/D/F/ D/A,/D,/A,/) (A,,/E,/A,/C/ A,/E,/A,,/E,/) | %33
+ (B,,/F,/B,/D/ B,/F,/B,,/F,/) (F,,/C,/F,/A,/ F,/C,/F,,/C,/) | %34
+ (G,,/D,/G,/B,/ G,/D,/G,,/D,/) (D,,/A,,/D,/F,/ D,/A,,/D,,/A,,/) | %35
+ (G,,/D,/G,/B,/ G,/D,/G,,/D,/) (A,,/E,/A,/C/ A,/E,/A,,/E,/) | %36
+ (D,/A,/D/F/ D/A,/D,/A,/) (A,,/E,/A,/C/ A,/E,/A,,/E,/) | %37
+ (B,,/F,/B,/D/ B,/F,/B,,/F,/) (F,,/C,/F,/A,/ F,/C,/F,,/C,/) | %38
+ (G,,/D,/G,/B,/ G,/D,/G,,/D,/) (D,,/A,,/D,/F,/ D,/A,,/D,,/A,,/) | %39
+ (G,,/D,/G,/B,/ G,/D,/G,,/D,/) (A,,/E,/A,/C/ A,/E,/A,,/E,/) | %40
+ (D,/A,/D/F/ D/A,/D,/A,/) (A,,/E,/A,/C/ A,/E,/A,,/E,/) | %41
+ (B,,/F,/B,/D/ B,/F,/B,,/F,/) (F,,/C,/F,/A,/ F,/C,/F,,/C,/) | %42
+ (G,,/D,/G,/B,/ G,/D,/G,,/D,/) (D,,/A,,/D,/F,/ D,/A,,/D,,/A,,/) | %43
+ (G,,/D,/G,/B,/ G,/D,/G,,/D,/) (A,,/E,/A,/C/ B,/E,/A,,/E,/) | D,,A,,D,F, A, z z2 | z8 |] %46
+

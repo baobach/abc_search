@@ -1,0 +1,48 @@
+X:1
+T:Salut d’amour
+T:Edward Elgar, op. 12 edited by T. Mattei
+T:Cello
+T:à Carice
+T:(Liebesgruss)
+T:Based on first edition (London, Schott & Co., plate 3271). Elements enclosed in square brackets are found in the piano score only. Elements printed in grey are found in the violin part only.
+T:TYPESET BY CYPRESSDOME AND TIZIANO MATTEI 2018 — CC BY-SA
+Z:TYPESET BY CYPRESSDOME AND TIZIANO MATTEI 2018 — CC BY-SA
+%%score ( 1 2 )
+L:1/8
+Q:1/4=84
+M:2/4
+K:E
+V:1 treble nm="Violoncello"
+V:2 treble 
+V:1
+"^Andantino" z4 | z4 |:[K:tenor]!p! (G2 B,G) | (FE)D!<(!(E | .A2)!<)! !tenuto!A2 | %5
+!>(! (A2 B,)!>)! z | (G2 ^B,G) | (FE)D!<(!(E | F2)!<)! !tenuto!F2 |!>(! (F3 ^^F)!>)! | (G2 =B,G) | %11
+ (FE)D!<(!(E | .c2)!<)!!f!"^]""^[" c2 |!>(! (c2 !tenuto!B!tenuto!A)!>)! | %14
+!p! (G2 !tenuto!F!tenuto!E) |!<(!!>(!{/E} (C2 D2)!<)!!>)! |1!<(! E4- | %17
+ E2!<)!"^[""^]"!>(! !>!B,2!>)! :|2 E4- |!>(! E4!>)! ||!pp!"^A"{/E} ((=G2 F)!tenuto!E) | %21
+ ((=C2 =D)!tenuto!E) | ((F2 E)!tenuto!=D) | (B,2 =C=D) | (E2 F=G) | (A2[K:treble] B=c) | %26
+!<(! (=d2!<)!"^[""^]""^["!>(!{/d} (f"^]"e))!>)! |!>(! (=d3 =c)!>)! |!p! (B2 A=G) | (E2 F=G) | %30
+{/=G} (BA) !tenuto!=G!tenuto!F | (^D2 !tenuto!E!tenuto!F) |!p! (=G2 AB) | %33
+!>(! (=c2!>)!!pp!"^[" (!fermata!=g>"^]"f)) |"^B"[Q:1/4=84]"^Tempo" (e4 | B4) | !stemless!e'4 | %37
+ !stemless!b4 | !stemless!e4 |!<(! B4 | (c4-!<)! |!f!!>(! c2"^[""_["!>(! (B"^]""_]"A))!>)!!>)! | %42
+[K:tenor][Q:1/4=84]"^Tempo""^C"!p! (G2 B,G) | (FE)D!<(!(E | .A2)!<)! !tenuto!A2 | %45
+!>(! (A2 B,)!>)! z | (G2 ^B,G) | (FE)!tenuto!D!<(!(E | F2)!<)! !tenuto!F2 |!>(! (F3 ^^F)!>)! | %50
+ (G2 B,G) | (FE)!tenuto!D!<(!(E | c2)!<)!"^[""^]" c2 |!>(! (c2[K:treble] de)!>)! | %54
+!p!"^[""^D" ((a"^]" f2) e) | (!tenuto!=d!tenuto!=c)!<(! (F>!<)!^c) | %56
+"^[" ((c"^]""^[""^]" !>!B2) G) | (!tenuto!F!tenuto!E)[K:tenor]"^string."!<(! (B,>=C!<)! | %58
+!ff!!>(! A) (F2!>)! E) |"^[""^]" (=D!tenuto!=C)[K:bass]!<(! (F,>!<)!^C) | %60
+"^[""^]" (!>!C2!>(! (B,G,)) | (F,E,)!>)!!p! (B,,>^B,,) |"^E" (C,G,,A,,=B,,) | (C,"_cresc."A,G,F,) | %64
+!<(! (E,^B,,C,"_["!<(!D,)!<)! |"_]" (E,!<)!"_cresc."E)(!>!DC) | %66
+!<(! !tenuto!B,"^cresc."!tenuto!D,!<)!!>(!(F,E,)!>)! | %67
+!<(! (D,B,)!<)!!ff!!>(! (!fermata!B,>!>)!G,) |!p! (G,2 F,2 | C,2 D,2) | %70
+!pp![Q:1/4=48]"^Tempo più lento""^F"!<(! (E,4- | E,2!<)!"_cresc." G,B,) |!<(! (^B,2 C2 | %73
+ ^^C2 D2)!<)! |!<(! (E4-!<)! | E2[K:treble] GB) |!>(! (^B2 c2 | ^^c2 d2)!>)! | %78
+[Q:1/4=84]"^Tempo""^G" e4- | e4- | e4- | e4- | e4- | e4- | !fermata!e4- | e2 !fermata!z2 |] %86
+V:2
+ z"^Piano" [B,EG]2 [B,EG] | z [B,EG]2 [B,EG] |:[K:tenor] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %10
+ x4 | x4 | x4 | x4 | x4 | x4 |1 x4 | x4 :|2 x4 | x4 || x4 | x4 | x4 | x4 | x4 | x2[K:treble] x2 | %26
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | [EA]4 | [EB]4 | E4 | x4 | x4 | x4 | %42
+[K:tenor] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x2[K:treble] x2 | x4 | x4 | x4 | %57
+ x2[K:tenor] x2 | x4 | x2[K:bass] x2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %72
+ x4 | x4 | x4 | x2[K:treble] x2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %86
+

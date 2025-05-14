@@ -1,0 +1,83 @@
+X:1
+T:English Suite III Gigue
+T:BWV 808
+T:J. S. Bach
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=200
+M:12/8
+K:Bb
+V:1 treble nm="Harp"
+V:3 treble 
+V:2 bass 
+V:1
+"^Prestissimo" d | edc BAG ^FAD CB,A, | B,DG A,G^F GBA Bdc | d3- d=ef e3- efg | agf gf=e fga d3- | %5
+ dcB c3- c2 d B2 c | A2 B c2 d B2 c d3- | d2 =e ^f3 g3 a3- | a3 g3- gf=e f3- | f3 e3- edc d3- | %10
+ d3 c3- cBA B3 | z A2 z AG A3 z =EG | F3- FGA G3- GAB | Adf z g=e fag a3 | A^c=B c=ed e3 =EGF | %15
+ GBA B3 ^C=ED EGF | GBA BAG ^cBA dAG | =eAG FG=E FED GED | A=ED BED ^CDE A, z a | %19
+ bag f=ed ^ceA GF=E | FAd =Ed^c dA^F[I:staff +1] D2[I:staff -1] d | edc BAG ^FAD CB,A, | %22
+ B,DG A,G^F GBA Bdc | d3- d=ef e3- efg | agf gf=e fga d3- | dcB c3- c2 d B2 c | %26
+ A2 B c2 d B2 c d3- | d2 =e ^f3 g3 a3- | a3 g3- gf=e f3- | f3 e3- edc d3- | d3 c3- cBA B3 | %31
+ z A2 z AG A3 z =EG | F3- FGA G3- GAB | Adf z g=e fag a3 | A^c=B c=ed e3 =EGF | GBA B3 ^C=ED EGF | %36
+ GBA BAG ^cBA dAG | =eAG FG=E FED GED | A=ED BED ^CDE A, z a | bag f=ed ^ceA GF=E | %40
+ FAd =Ed^c dA^F[I:staff +1] D2[I:staff -1] A, |[I:staff +1] ^F,G,A,[I:staff -1] B,CD ECG ABc | %42
+ BGD c=E^F GE=F E^CD | A3- AGF G3- GF=E | D=EF EAG FED B3- | BAG AG^F G2 e =F2 d | z6 z3 z z G | %47
+ ^FGA Bcd ecg abc' | bgd c'=e^f gd_e =fcd | e3 f/4=e/4f/4e/4f/4e/4f/4e/4f/4e/4f/4e/4 fcd _eBc | %50
+ dAB cGA B2 g _A2 f | G2 e F2 d EFG DEC | =B,CD EFG _AFc def | gec fA=B ecA d^FG | %54
+ cA^F BDE A=FD GB,C | D3- D=E^F GAB cde | d2 b edc B2 g cB_A | G2 e _AGF EcE DcB | %58
+ CBA DcB =Edc ^Fed | GcB ABG ^FED GDC | ADC[I:staff +1] B,CA, B,A,G, CA,G, | %61
+ DA,G, EA,G, ^F,G,A, B,CD |[I:staff -1] ECG ABc dBG c=E^F | G2 d gfe dcB AG^F | %64
+ Ged c/4B/4c/4B/4AG GDB,[I:staff +1] G,2[I:staff -1] A, | %65
+[I:staff +1] ^F,G,A,[I:staff -1] B,CD ECG ABc | BGD c=E^F GE=F E^CD | A3- AGF G3- GF=E | %68
+ D=EF EAG FED B3- | BAG AG^F G2 e =F2 d | z6 z3 z z G | ^FGA Bcd ecg abc' | bgd c'=e^f gd_e =fcd | %73
+ e3 f/4=e/4f/4e/4f/4e/4f/4e/4f/4e/4f/4e/4 fcd _eBc | dAB cGA B2 g _A2 f | G2 e F2 d EFG DEC | %76
+ =B,CD EFG _AFc def | gec fA=B ecA d^FG | cA^F BDE A=FD GB,C | D3- D=E^F GAB cde | %80
+ d2 b edc B2 g cB_A | G2 e _AGF EcE DcB | CBA DcB =Edc ^Fed | GcB ABG ^FED GDC | %84
+ ADC[I:staff +1] B,CA, B,A,G, CA,G, | DA,G, EA,G, ^F,G,A, B,CD |[I:staff -1] ECG ABc dBG c=E^F | %87
+ G2 d gfe dcB AG^F | Ged c/4B/4c/4B/4AG GDB,[I:staff +1] G,2[I:staff -1] z |] %89
+V:2
+ z | z12 | z6 z3 z z[I:staff -1] G | BAG F=ED ^CE[I:staff +1]A, G,F,=E, | %4
+ F,A,D =E,D^C D3- D[I:staff -1]=EF | =E3- E^FG AGF GFE |[I:staff +1] z3 z z D EDC B,A,G, | %7
+ ^F,A,D, C,B,,A,, B,,D,G, A,,G,F, | G,B,A, B,DC D3- DA,D, | E,G,F, G,B,A, B,3- B,F,B,, | %10
+ C,E,D, E,G,F, G,3- G,2 ^C, | %11
+ D,2 C, C,/4B,,/4C,/4B,,/4C,/4B,,/4C,/4B,,/4C,/4B,,/4C,/4B,,/4 A,,3 z2 A, | %12
+ B,A,G, F,=E,D, ^C,E,A,, G,,F,,=E,, | F,,A,,D, =E,,D,^C, D,3- D,F,=E, | %14
+ F,A,G, A,3 A,,^C,=B,, C,=E,D, | =E,3- E,G,F, G,3- G,B,A, | B,G,F, =E,F,G, A,,2 z =B,,2 z | %17
+ ^C,2 A,, =B,,2 C, D,2 z =E,2 z | F,2 z G,3- G,F,=E, F,^CD | G,^CD ^G,CD A,CD =EDC | %20
+ DF,G, A,G,A, D,^F,A, D2 z | z12 | z6 z3 z z[I:staff -1] G | BAG F=ED ^CE[I:staff +1]A, G,F,=E, | %24
+ F,A,D =E,D^C D3- D[I:staff -1]=EF | =E3- E^FG AGF GFE |[I:staff +1] z3 z z D EDC B,A,G, | %27
+ ^F,A,D, C,B,,A,, B,,D,G, A,,G,F, | G,B,A, B,DC D3- DA,D, | E,G,F, G,B,A, B,3- B,F,B,, | %30
+ C,E,D, E,G,F, G,3- G,2 ^C, | %31
+ D,2 C, C,/4B,,/4C,/4B,,/4C,/4B,,/4C,/4B,,/4C,/4B,,/4C,/4B,,/4 A,,3 z2 A, | %32
+ B,A,G, F,=E,D, ^C,E,A,, G,,F,,=E,, | F,,A,,D, =E,,D,^C, D,3- D,F,=E, | %34
+ F,A,G, A,3 A,,^C,=B,, C,=E,D, | =E,3- E,G,F, G,3- G,B,A, | B,G,F, =E,F,G, A,,2 z =B,,2 z | %37
+ ^C,2 A,, =B,,2 C, D,2 z =E,2 z | F,2 z G,3- G,F,=E, F,^CD | G,^CD ^G,CD A,CD =EDC | %40
+ DF,G, A,G,A, D,^F,A, D2 z | z12 | z6 z3 z z D,, | ^C,,D,,=E,, F,,G,,A,, B,,G,,D, =E,F,G, | %44
+ F,D,A,, G,=B,,^C, D,3- D,=C,_B,, | C,3 C,2 D, E,D,C, D,C,=B,, | C,2 A, B,,2 G, A,G,^F, G,=F,E, | %47
+ D,=E,^F, G,3- G,A,B, F,3 | G,2 E, C,2 D, G,6 | CG,A, B,F,G, A,2 F, G,2 A, | %50
+ B,^F,G, A,=E,F, G,D,_E, =F,C,D, | E,=B,,C, D,A,,B,, C,D,E, F,G,_A, | %52
+ G,A,=B, C,D,E, F,G,_A, =B,,C,D, | E,2 _A, D,2 G, C,2 z z2 B, | A,3 z2 G, F,3 z2 E, | %55
+ ^F,,G,,A,, B,,C,D, E,C,G, A,B,C | B,G,D, C=E,^F, G,D,B,, _A,C,D, | %57
+ E,B,,G,, F,A,,=B,, C,2 z G,,2 z | =E,,2 z ^F,,2 z G,,2 z A,,2 z | B,,2 z C,2 z D,2 z =E,2 z | %60
+ ^F,2 D,, =E,,2 ^F,, G,,2 z A,,2 z | B,,2 z C,2 z D,=E,^F, G,,A,,B,, | %62
+ C,D,E, ^F,,G,,A,, B,,2 E, A,,2 D | EDC B,A,G, ^F,A,D, C,B,,A,, | B,,G,C, D,C,D, G,,B,,D, G,2 z | %65
+ z12 | z6 z3 z z D,, | ^C,,D,,=E,, F,,G,,A,, B,,G,,D, =E,F,G, | F,D,A,, G,=B,,^C, D,3- D,=C,_B,, | %69
+ C,3 C,2 D, E,D,C, D,C,=B,, | C,2 A, B,,2 G, A,G,^F, G,=F,E, | D,=E,^F, G,3- G,A,B, F,3 | %72
+ G,2 E, C,2 D, G,6 | CG,A, B,F,G, A,2 F, G,2 A, | B,^F,G, A,=E,F, G,D,_E, =F,C,D, | %75
+ E,=B,,C, D,A,,B,, C,D,E, F,G,_A, | G,A,=B, C,D,E, F,G,_A, =B,,C,D, | E,2 _A, D,2 G, C,2 z z2 B, | %78
+ A,3 z2 G, F,3 z2 E, | ^F,,G,,A,, B,,C,D, E,C,G, A,B,C | B,G,D, C=E,^F, G,D,B,, _A,C,D, | %81
+ E,B,,G,, F,A,,=B,, C,2 z G,,2 z | =E,,2 z ^F,,2 z G,,2 z A,,2 z | B,,2 z C,2 z D,2 z =E,2 z | %84
+ ^F,2 D,, =E,,2 ^F,, G,,2 z A,,2 z | B,,2 z C,2 z D,=E,^F, G,,A,,B,, | %86
+ C,D,E, ^F,,G,,A,, B,,2 E, A,,2 D | EDC B,A,G, ^F,A,D, C,B,,A,, | B,,G,C, D,C,D, G,,B,,D, G,2 z |] %89
+V:3
+ x | x12 | x12 | x12 | x12 | x12 | ^F=ED EGF G3- GAB | A3- ABc dcB cBA | B6 A6 | G6 F6 | %10
+ E6 D3 DF=E | F2 =E D3- D^C=B, C3 | D3- D=EF E3- EFG | A3 G3 z3 z3 | x12 | x12 | x12 | x12 | x12 | %19
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | ^F=ED EGF G3- GAB | A3- ABc dcB cBA | B6 A6 | G6 F6 | %30
+ E6 D3 DF=E | F2 =E D3- D^C=B, C3 | D3- D=EF E3- EFG | A3 G3 z3 z3 | x12 | x12 | x12 | x12 | x12 | %39
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | EDC DCB, C2 A B,2 C | D3- D[I:staff +1]CB, C3- CB,A, | %48
+ G,3 A,B,C B,3 C/4=B,/4C/4B,/4C/4B,/4C/4B,/4C/4B,/4C/4B,/4 | x12 | x12 | x12 | x12 | x12 | x12 | %55
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %70
+[I:staff -1] EDC DCB, C2 A B,2 C | D3- D[I:staff +1]CB, C3- CB,A, | %72
+ G,3 A,B,C B,3 C/4=B,/4C/4B,/4C/4B,/4C/4B,/4C/4B,/4C/4B,/4 | x12 | x12 | x12 | x12 | x12 | x12 | %79
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 |] %89
+

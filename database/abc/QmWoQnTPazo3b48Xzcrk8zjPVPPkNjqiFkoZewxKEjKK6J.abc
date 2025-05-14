@@ -1,0 +1,31 @@
+X:1
+T:Title
+T:Op. 73: Etude No. 17 in C Minor 
+T:David Popper
+C:Composer
+%%score 1 2
+L:1/8
+Q:1/4=71
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass nm="Violoncello"
+V:1
+"^Adagio" z z z2 z4 | z8 | z8 | z8 | z8 | z8 |[Q:1/4=71]"^tempo" z8 | z8 | z8 | z8 || %10
+[K:C][Q:1/4=94]"^Andante quasi Adagio" z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 || %20
+[K:Eb][Q:1/4=94]"^Con Brio\n" z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %30
+V:2
+!f! z (C/D/ !>!E2) z (C/D/ !>!E2) | z (C/D/ E/F/^F/G/ _A/)(G/F/G/ =F/)(=E/D/E/) | %2
+ z (F/G/ !>!A2) z (F/G/ !>!A2) | z (A/G/ F/E/D/C/) (=B,/C/^C/D/ _E/)(D/=C/B,/) | %4
+!f! z (C/D/ !>!E2) z (C/D/ !>!E2) | z"_cresc." (C/D/ =E/F/G/F/) E"_rit.\n"_B/B/ (A/G/)F/=E/ | %6
+!f! z (F/G/ !>!A2) z (=D/E/ !>!F2) | z (E/F/ !>!G2) z (C/D/ !>!E2) | %8
+ z (D/E/ !>!F2) z (=B,/C/ !>!D2) | C/(C/G/)(G/ C/)(C/G,/).G,/ !fermata!C,3 z || %10
+[K:C][K:tenor]"_dolce" (EGAG E)(GCE |[K:bass] A,) C2 B, C3 z |"^arco" (A,C F2 E)(DC_B, | %13
+ A,)(=G,F,G,,) A,,3 z |[K:bass] (A,,A,D^F)[K:tenor] (Ad) [GB]2 | (G,,G,CE)[K:treble] (Gc) A2 | %16
+ (A2 f)A (B2 g)B | (c2 a)g!>(! (f"_rall."c')(c'b)!>)! |!p! (EGAG E)GCE | A, C2 B, !fermata!C3 z || %20
+[K:Eb]!f! z (C/D/ !>!E2) z (C/D/ !>!E2) | z (C/D/ E/F/^F/G/ _A/)(G/F/G/ =F/)(=E/D/E/) | %22
+ z (F/G/ !>!A2) z (F/G/ !>!A2) | z (A/G/ F/E/D/C/) (=B,/C/^C/D/ _E/)(D/=C/B,/) | %24
+!f! z (C/D/ !>!E2) z (C/D/ !>!E2) | z"_cresc." (C/D/ =E/F/G/F/) E"_rit.\n"_B/B/ (A/G/)F/=E/ | %26
+!f! z (F/G/ !>!A2) z (=D/E/ !>!F2) | z (E/F/ !>!G2) z (C/D/ !>!E2) | %28
+ z (D/E/ !>!F2) z (=B,/C/ !>!D2) | C/(C/G/)(G/ C/)(C/G,/).G,/ !fermata!C,3 z |] %30
+

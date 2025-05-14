@@ -1,0 +1,84 @@
+X:1
+T:Short Study
+T:Short Study
+T:Album for the Young
+T:Schumann, Op. 68, No. 14
+C:Schumann, Op. 68, No. 14
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=142
+M:6/8
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:1
+"^leise und sehr egal zu spielen" x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %13
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 :: %32
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | (G3 A3) | x6 | x6 | %50
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 :| %64
+V:2
+!ped! (!5!G,B,D[I:staff -1] !5!BGD)!ped-up! | %1
+!ped![I:staff +1] (G,!2!CE[I:staff -1] !5!cGE)!ped-up! | %2
+!ped![I:staff +1] (G,!2!CF[I:staff -1] !5!ecA)!ped-up! | %3
+!ped![I:staff +1] (G,!3!B,G[I:staff -1] !4!dBG) | %4
+!<(![I:staff +1] (G,B,G[I:staff -1] !5!gdB)!ped-up!!<)! | %5
+!ped![I:staff +1] (!5!B,^DG[I:staff -1] !4!^dBG)!ped-up! | %6
+!ped![I:staff +1] (!5!CEG[I:staff -1] !5!ec"_(   )"G)!ped-up! | %7
+"_(       )"!ped![I:staff +1] (!4!B,!>(!CE[I:staff -1] cGE)!ped-up!!>)! | %8
+!ped![I:staff +1] (!5!A,CE[I:staff -1] !5!AE"_(   )"C)!ped-up! | %9
+"_(       )"!ped![I:staff +1] (!5!G,CE[I:staff -1] AEC)!ped-up! | %10
+!ped![I:staff +1] (!5!F,A,D[I:staff -1] cAD)!ped-up! | %11
+!ped![I:staff +1] (!4!^G,B,D[I:staff -1] B=FD)!ped-up! | %12
+!ped![I:staff +1] (!4!A,CE[I:staff -1] AEC)!ped-up! | %13
+!ped![I:staff +1] (C,G,A,[I:staff -1] EA,G,)!ped-up! | %14
+!ped![I:staff +1] (D,F,A,[I:staff -1] ADC)!ped-up! | %15
+[I:staff +1] (D,F,!2!^A,[I:staff -1] D!2!F!4!^A) | %16
+!ped![I:staff +1] (G,B,D[I:staff -1] BGD)!ped-up! | %17
+!ped![I:staff +1] (G,CE[I:staff -1] cGE)!ped-up! | %18
+!ped![I:staff +1] (G,!2!CF[I:staff -1] ecA)!ped-up! |!ped![I:staff +1] (G,B,G[I:staff -1] dBG) | %20
+[I:staff +1] (G,B,G[I:staff -1] gdB)!ped-up! |!ped![I:staff +1] (B,^DG[I:staff -1] ^dBG)!ped-up! | %22
+!ped![I:staff +1] (CEG[I:staff -1] ec"_(   )"G)!ped-up! | %23
+"_(       )"!ped![I:staff +1] (B,!>(!CE[I:staff -1] cGE)!ped-up!!>)! | %24
+!ped![I:staff +1] (A,CE[I:staff -1] AE"_(   )"C)!ped-up! | %25
+"_(       )"!ped![I:staff +1] (G,CE[I:staff -1] AEC)!ped-up! | %26
+!ped![I:staff +1] (F,A,D[I:staff -1] cAD)!ped-up! | %27
+!ped![I:staff +1] (^G,B,D[I:staff -1] B=FD)!ped-up! | %28
+!ped![I:staff +1] (A,CE[I:staff -1] AEC)!ped-up! | %29
+!ped![I:staff +1] (C,G,A,[I:staff -1] EA,G,)!ped-up! | %30
+!ped![I:staff +1] (D,G,A,"^dim."[I:staff -1] ADC)!ped-up! | %31
+!ped![I:staff +1] (D,F,A,[I:staff -1] ADC)!ped-up! :: %32
+!ped![I:staff +1] (D,F,C[I:staff -1] ADC)!ped-up! | %33
+!ped![I:staff +1] (D,!4!E,C[I:staff -1] !5!GDC)!ped-up! | %34
+!ped![I:staff +1] (D,!2!A,C[I:staff -1] !4!FDC)!ped-up! | %35
+!ped![I:staff +1] (D,G,C[I:staff -1] !5!ECG,)!ped-up! | %36
+!ped![I:staff +1] (D,!3!F,C[I:staff -1] !5!c!1!D!2!C)!ped-up! | %37
+!ped![I:staff +1] (D,!4!^E,B,[I:staff -1] !4!^GDB,)!ped-up! | %38
+!ped![I:staff +1] (D,F,C[I:staff -1] ADC)!ped-up! | %39
+!ped![I:staff +1] (D,!<(!=F,B,[I:staff -1] !4!BG=F)!ped-up!!<)! | %40
+!ped![I:staff +1] (CEG[I:staff -1] ec"_(   )"G)!ped-up! | %41
+!>(!!ped![I:staff +1] (!4!C!2!_E!1!^F[I:staff -1] !4!A!2!^F!1!_E)!>)!!ped-up! | %42
+!ped![I:staff +1] (!5!B,DG[I:staff -1] dBG)!ped-up! | %43
+!>(!!ped![I:staff +1] (!4!_B,^CE[I:staff -1] !4!G!2!E!1!C)!>)!!ped-up! | %44
+!ped![I:staff +1] (!4!A,=CD[I:staff -1] !4!FDC)!ped-up! | %45
+!ped![I:staff +1] (!5!G,CD[I:staff -1] !5!GDC)!ped-up! | %46
+!ped![I:staff +1] (F,CD[I:staff -1] ADC)!ped-up! |[I:staff +1] (!3!E,3 !2!F,3) | %48
+!ped! (G,B,D[I:staff -1] BGD)!ped-up! |!ped![I:staff +1] (G,CE[I:staff -1] cGE)!ped-up! | %50
+!ped![I:staff +1] (G,CF[I:staff -1] ecA)!ped-up! |!ped![I:staff +1] (G,B,G[I:staff -1] dBG) | %52
+!<(![I:staff +1] (G,B,G[I:staff -1] gdB)!ped-up!!<)! | %53
+!ped![I:staff +1] (B,^DG[I:staff -1] !4!^dBG)!ped-up! | %54
+!ped![I:staff +1] (CEG[I:staff -1] ecG)!ped-up! | %55
+!ped![I:staff +1] (B,DE[I:staff -1] !4!B^GD)!ped-up! | %56
+!ped![I:staff +1] (A,CE[I:staff -1] !5!cAE)!ped-up! | %57
+!ped![I:staff +1] (B,DE[I:staff -1] !4!^GED)!ped-up! | %58
+!ped![I:staff +1] (C,E,A,[I:staff -1] !5!AEC)!ped-up! | %59
+!ped![I:staff +1] (^C,G,A,[I:staff -1] !5!EA,G,)!ped-up! | %60
+!ped![I:staff +1] (D,!2!G,=C[I:staff -1] ADC)!ped-up! | %61
+!ped![I:staff +1] (D,F,C[I:staff -1] BDC)!ped-up! |!ped![I:staff +1] (!4!G,B,D[I:staff -1] GDB,) | %63
+[I:staff +1] G,,!ped-up! z z4 :| %64
+V:3
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 :: x6 | x6 | x6 | x6 | x6 | x6 | %38
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | GEC ADC | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %56
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 :| %64
+

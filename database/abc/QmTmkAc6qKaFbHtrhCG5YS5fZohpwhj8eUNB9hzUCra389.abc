@@ -1,0 +1,49 @@
+X:1
+T:The Prelude
+T:The Prelude
+T:Final Fantasy (IV)
+T:Nobuo Uematsu
+C:Nobuo Uematsu
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=114
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^Moderato" z2 C/D/E/G/ c/d/e/g/!8va(! c'/d'/e'/g'/ | %1
+ c''/g'/e'/d'/ c'/!8va)!g/e/d/ c/G/E/D/ C/ z/ z | z2 A,/B,/C/E/ A/B/c/e/ a/b/c'/e'/ | %3
+ a'/e'/c'/b/ a/e/c/B/ A/E/C/B,/ A,/ z/ z :| z2 A,/C/F/G/ A/c/f/g/ a/c'/f'/g'/ | %5
+ a'/g'/f'/c'/ a/g/f/c/ A/G/F/C/ A,/ z/ z | z2 B,/D/G/A/ B/d/g/a/!8va(! b/d'/g'/a'/ | %7
+ b'/a'/g'/d'/ b/!8va)!a/g/d/ B/A/G/D/ B,/ z/ z | z2 _A,/C/_E/G/ _A/c/_e/g/!8va(! _a/c'/_e'/g'/ | %9
+ _a'/g'/_e'/c'/ _a/g/!8va)!_e/c/ _A/G/_E/C/ _A,/ z/ z | %10
+ z2 _B,/D/F/A/ _B/d/f/a/!8va(! _b/d'/f'/a'/ | _b'/a'/f'/d'/ _b/!8va)!a/f/d/ _B/A/F/D/ _B,/ z/ z |: %12
+ [EGc]8 | [DGB]4 [Fd]4 |1,3 [EAc]8 | D2 C2 B,2"^Repeat on nested repeat pass also" D2 :|2,4 %16
+ [EAd]e c4- c2 | [A,C]2 [B,D]2 [CE]2 [EG]2 || [CFA]8 | [A,DG]4 [A,CF]4 | [DGB]6 [DGc]2 | %21
+ [Gd]4 [Bdg]4 | [_Bdf]2 [B_e]d [_E_Ac]4 | [_A,C]2 [_B,D]2 [C_E]2 [E_A]2 | [_Bdg]2 f_e [FBd]4 |2 %25
+ z8 :|4 z2 a2 f2 [da]2 || [EGce]8- | [EGce]8 | [_Adf]8 | [Gcg]4 [GBg]4 | !arpeggio![EGce]8 |] %32
+V:2
+"_Pedal harmonically"!ped! C,/D,/E,/G,/ z2 z4 | z4 z2 z/ G,/E,/D,/ | A,,/B,,/C,/E,/ z2 z4 | %3
+ z4 z2 z/ E,/C,/B,,/ :| A,,/C,/F,/G,/ z2 z4 | z4 z2 z/ G,/F,/C,/ | B,,/D,/G,/A,/ z2 z4 | %7
+ z4 z2 z/ A,/G,/D,/ | _A,,/C,/_E,/G,/ z2 z4 | z4 z2 z/ G,/_E,/C,/ | _B,,/D,/F,/A,/ z2 z4 | %11
+ z4 z2 z/ A,/F,/D,/ |: C,/D,/E,/G,/ C/D/E/G/[K:treble] c/d/e/g/!8va(! c'/d'/e'/g'/ | %13
+ c''/g'/e'/d'/ c'/!8va)!g/e/d/[K:bass] c/G/E/D/ C/G,/E,/D,/ |1,3 %14
+ A,,/B,,/C,/E,/ A,/B,/C/E/[K:treble] A/B/c/e/ a/b/c'/e'/ | %15
+ a'/e'/c'/b/ a/e/c/B/[K:bass] A/E/C/B,/ A,/E,/C,/B,,/ :|2,4 %16
+ A,,/B,,/C,/E,/ A,/B,/C/E/[K:treble] A/B/c/e/ a/b/c'/e'/ | %17
+ a'/e'/c'/b/ a/e/c/B/[K:bass] A/E/C/B,/ A,/E,/C,/B,,/ || %18
+ A,,/C,/F,/G,/ A,/C/F/G/[K:treble] A/c/f/g/ a/c'/f'/g'/ | %19
+ a'/g'/f'/c'/ a/g/f/c/[K:bass] A/G/F/C/ A,/G,/F,/C,/ | %20
+ B,,/D,/G,/A,/ B,/D/G/A/[K:treble] B/d/g/a/!8va(! b/d'/g'/a'/ | %21
+ b'/a'/g'/d'/ b/!8va)!a/g/d/[K:bass] B/A/G/D/ B,/A,/G,/D,/ | %22
+ _A,,/C,/_E,/G,/ _A,/C/_E/G/[K:treble] _A/c/_e/g/!8va(! _a/c'/_e'/g'/ | %23
+ _a'/g'/_e'/c'/ _a/!8va)!g/_e/c/[K:bass] _A/G/_E/C/ _A,/G,/_E,/C,/ | %24
+ _B,,/D,/F,/A,/ _B,/D/F/A/[K:treble] _B/d/f/a/!8va(! _b/d'/f'/a'/ |2 %25
+ _b'/a'/f'/d'/ _b/!8va)!a/f/d/[K:bass] _B/A/F/D/ _B,/A,/F,/D,/ :|4 %26
+[K:treble]!8va(! _b'/a'/f'/d'/ _b/!8va)!a/f/d/[K:bass] _B/A/F/D/ _B,/A,/F,/D,/ || %27
+ C,/D,/E,/G,/ C/D/E/G/[K:treble] c/d/e/g/ c'/d'/e'/g'/ | %28
+ c''/g'/e'/d'/ c'/g/e/d/[K:bass] c/G/E/D/ C/G,/E,/D,/ | %29
+ _A,,/C,/_E,/F,/ _A,/C/_E/F/[K:treble] _A/c/_e/f/ _a/c'/_e'/f'/ | %30
+[K:bass] G,,/C,/D,/F,/ G,/C/D/F/[K:treble] G/B/d/f/ g/b/d'/g'/ |[K:bass] [C,C]8!ped-up! |] %32
+

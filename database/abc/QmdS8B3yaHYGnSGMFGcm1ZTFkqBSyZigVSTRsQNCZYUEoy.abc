@@ -1,0 +1,64 @@
+X:1
+T:Motet template
+T:Motet template
+T:composer
+T:© cpdl
+T:© cpdl
+T:© cpdl
+T:© cpdl
+C:composer
+Z:© cpdl
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=120
+M:none
+K:G
+V:1 treble nm="Soprano" snm="S"
+V:2 treble nm="Alto" snm="A"
+V:3 treble-8 nm="Tenor" snm="T"
+V:4 bass nm="Bass" snm="B"
+V:1
+ !stemless![Ee]2 |][M:2/2] z8 | z8 | z8 | E3 F GA B2 | A2 c3 d e2 | d2 B2 c3 c | B2 G2 A3 G | %8
+w: ||||Ec- * * * *|ce vir- * *|go con- ci- pi-|et, et pa- *|
+ =F6 E2 | E8 | =F6 E2 | E4 z4 | z4 z2 B2 | G3 F E2 E2 | E4 B4 | c4 B4 | A4 z4 | z4 A4 | %18
+w: * ri-|et|fi- li-|um:|et|pa- * * ri-|et fi-|* li-|um:|et|
+ G2 G3 G G2 | c2 A2 B4 | B2 d2 e4 | d4 c4 | B4 z4 | A4 G2 G2- | GG G2 c2 A2 | B3 c d4 | A2 A2 B4 | %27
+w: vo- ca- bi- tur|no- men e-|jus Em- ma-|* nu-|el.|et vo- ca-|* bi- tur no- men|e- * *|jus Em- ma-|
+ A4 G4 | z2 G4 =F2 | E2 A2 G2 F2- | F2 F2 G4 | E4 A2 A2- | A2 ^G2 A4 | z4 z2 B2- | B2 A4 ^G2 | %35
+w: nu- el.|et vo-|ca- bi- tur no-|* men e-|jus Em- ma-|* nu- el.|Em-|* ma- nu-|
+ !fermata!A8 |] %36
+w: el.|
+V:2
+ !stemless![G,A]2 |][M:2/2] E4 D4 | E4 G4 | F4 E2 E2 | A3 A D4 | z8 | z8 | z8 | z8 | A,4 G,4 | %10
+w: |Ec- *|ce vir-|* go con-|ci- pi- et,|||||el. _|
+ A,4 C4 | B,4 A,2 A,2 | C3 D E2 E2 | B,4 z2 E2 | C3 C B,2 G2- | G2 F2 G2 G2 | C3 D E2 B,2 | %17
+w: ce vir-|* go con-|ci- * * pi-|et, et|pa- ri- et fi-|* li- ec- et|pa- * * ri-|
+ D4 E3 E | D4 z2 E2- | E2 F2 G3 G | D2 G4 A2 | F3 G A4 | G2 G2 =F3 E/D/ | C2 D2 E4 | z2 E4 F2 | %25
+w: et fi- li-|ec- et|_ vo- ca- bi-|tur no- men|e- * *|jus Em- ma- * *|* nu- el.|et vo-|
+ G3 G F2 A2- | A2 F2 G4 | C2 D2 E4- | E2 E2 A,4 | z2 E4 D2 | D3 D G,2 G2- | G2 G2 =F4 | E4 E4 | %33
+w: ca- bi- tur no-|* men e-|jus Em- ma-|* nu- el.|et vo-|ca- bi- tur no-|* men e-|jus Em-|
+ =F6 F2 | E8- | !fermata!E8 |] %36
+w: ma- nu-|el.|_|
+V:3
+ !stemless![Dg]2 |][M:2/2] E3 F GA B2 | A2 c3 d e2 | d2 B2 c4- | c2 c2 B2 d2 | c3 d e3 f | %6
+w: |Ec- * * * *|ce vir- * *|go con- ci-|* pi- et, et|pa- * * *|
+ gffe/d/ e4- | e2 e2 d2 c2- | c2 B2 c4- | c4 z4 | z8 | z2 e2 c3 B | A2 A2 G4- | G4 G4 | A4 D4 | %15
+w: |* ri- et fi-|* li- um:|_||et pa- *|* ri- et|_ fi-|li- um:|
+ z8 | A4 G2 G2- | GG G2 c2 A2 | B4 c4- | c2 c2 d4 | B4 c4 | z2 d2 e2 e2- | ee e2 c2 A2 | A3 B c4 | %24
+w: |et vo- ca-|* bi- tur no- men|e- jus|_ Em- ma-|nu- el.|et vo- ca-|* bi- tur no- men|e- * *|
+ B2 c2 A3 A | G4 z4 | z2 d4 e2 | A4 B2 c2- | cB/A/ G2 d4 | c4 B4 | A4 z2 e2- | e2 c2 c2 d2 | %32
+w: jus Em- ma- nu-|el.|no- men|e- jus Em-|* * * * ma-|* nu-|el. et|_ vo- ca- bi-|
+ B4 c4- | c2 B2 A4 | G2 c2 B3 B | !fermata!A8 |] %36
+w: tur no-|* men e-|jus Em- ma- nu-|el.|
+V:4
+ !stemless![G,,C]2 |][M:2/2] z8 | z8 | z8 | A,4 G,4 | A,4 C4 | B,4 A,4 | E,4 =F,3 E, | %8
+w: ||||Ec- *|ce vir-|* go|con- ci- *|
+ D,2 D,2 C,4 | A,,3 B,, C,D, E,2 | D,2 =F,3 G, A,2 | G,2 E,2 =F,4- | F,2 =F,2 E,4 | %13
+w: * pi- et,|el. _ _ _ _|ce vir- * *|go con- ci-|* pi- et,|
+ z2 E,2 C,3 B,, | A,,2 A,,2 G,,4 | A,,4 E,4 | =F,4 E,4 | z8 | z8 | A,4 G,2 G,2- | G,G, G,2 C2 A,2 | %21
+w: et pa- *|* ri- et|fi- *|li- um:|||et vo- ca-|* bi- tur no- men|
+ B,4 A,4 | E,4 =F,4- | F,2 =F,2 C,4 | z8 | E,4 D,2 D,2- | D,D, D,2 G,2 E,2 | =F,4 E,2 C,2 | %28
+w: e- jus|Em- ma-|* nu- el.||et vo- ca-|* bi- tur no- men|e- jus Em-|
+ C,4 D,4 | A,,4 z4 | D,4 C,2 C,2- | C,C, C,2 =F,2 D,2 | E,4 A,,4 | D,8 | E,6 E,2 | !fermata!A,,8 |] %36
+w: ma- nu-|el.|et vo- ca-|* bi- tur no- men|e- jus|Em-|ma- nu-|el.|
+

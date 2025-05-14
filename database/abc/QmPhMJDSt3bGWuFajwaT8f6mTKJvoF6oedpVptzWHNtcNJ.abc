@@ -1,0 +1,49 @@
+X:1
+T:Title
+%%score [ ( 1 2 ) ( 3 4 ) ] { ( 5 6 ) | ( 7 8 ) }
+L:1/8
+Q:1/4=120
+M:4/4
+K:Ab
+V:1 treble nm="Midi_74"
+V:2 treble 
+V:3 bass nm="Midi_74"
+V:4 bass 
+V:5 treble nm="Org." snm="Org."
+V:6 treble 
+V:7 bass 
+V:8 bass 
+V:1
+"^Double counterpoint. Major""^b" F8 | G4 =E4 | F8 || A8 | G4 c4 | F4 F4 | =E8 || c8 | d4 =B4 | %9
+ c8 || B8 | A4 d4 |"^William Henry Havergal\n(1793-1870)" G4 G4 | F8 |][K:F] F8 | %15
+"^As suggested by Havergal, a version in F major." G4 E4 | F8 || A8 | G4 c4 | F4 F4 | E8 || c8 | %22
+ d4 =B4 | c8 || B8 | A4 d4 | G4 G4 | F8 |] %28
+V:2
+ F8 | D4 B,4 | A,8 || C8 | C4 C4 | C4 =B,4 | C8 || G8 | A4 F4 | E8 || G8 | F4 F4 | F4 =E4 | F8 |] %14
+[K:F] F8 | D4 B,4 | A,8 || C8 | C4 C4 | C4 =B,4 | C8 || G8 | A4 F4 | E8 || G8 | F4 F4 | F4 E4 | %27
+ F8 |] %28
+V:3
+ C8 | B,4 G,4 | F,8 || F,8 | G,4 G,4 | A,4 F,4 | G,8 || C8 | F4 =D4 | C8 || C8 | C4 D4 | %12
+ D4 (C2 B,2) | A,8 |][K:F] C8 | B,4 G,4 | F,8 || F,8 | G,4 G,4 | A,4 F,4 | G,8 || C8 | F4 D4 | %23
+ C8 || C8 | C4 D4 | D4 ((C2 B,2)) | A,8 |] %28
+V:4
+ A,,8 | B,,4 C,4 | D,8 || F,8 | E,4 E,4 | D,4 D,4 | C,8 || =E,8 | F,4 G,4 | A,8 || =E,8 | F,4 D,4 | %12
+ B,,4 C,4 | F,8 |][K:F] A,,8 | B,,4 C,4 | D,8 || F,8 | E,4 E,4 | D,4 D,4 | C,8 || E,8 | F,4 G,4 | %23
+ A,8 || E,8 | F,4 D,4 | B,,4 C,4 | F,8 |] %28
+V:5
+ F8 | G4 =E4 | F8 || A8 | G4 c4 | F4 F4 | =E8 || c8 | d4 =B4 | c8 || B8 | A4 d4 | G4 [=EG]4 | F8 |] %14
+[K:F] F8 | G4 E4 | F8 || A8 | G4 c4 | F4 F4 | E8 || c8 | d4 =B4 | c8 || B8 | A4 d4 | G4 [EG]4 | %27
+ F8 |] %28
+V:6
+ [CF]8 | [B,D]4 B,4 | A,8 || [CF]8 | (C4 [CG]4) | C4 =B,4 | C8 || [CG]8 | [FA]4 [=DF]4 | [CE]8 || %10
+ [CG]8 | [CF]4 [DFA]4 | [DF]4 C2 B,2 | [A,F]8 |][K:F] [CF]8 | [B,D]4 B,4 | A,8 || [CF]8 | %18
+ (C4 [CG]4) | C4 =B,4 | C8 || [CG]8 | [FA]4 [DF]4 | [CE]8 || [CG]8 | [CF]4 [DFA]4 | [DF]4 C2 B,2 | %27
+ [A,F]8 |] %28
+V:7
+ x8 | x4 G,4 | x8 || x8 | x8 | x8 | x8 || x8 | x8 | x8 || x8 | x8 | x8 | x8 |][K:F] x8 | x4 G,4 | %16
+ x8 || x8 | x8 | x8 | x8 || x8 | x8 | x8 || x8 | x8 | x8 | x8 |] %28
+V:8
+ A,,8 | B,,4 C,4 | [D,F,]8 || F,8 | E,4 E,4 | D,4 D,4 | C,8 || =E,8 | F,4 G,4 | A,8 || =E,8 | %11
+ F,4 D,4 | B,,4 C,4 | F,8 |][K:F] A,,8 | B,,4 C,4 | [D,F,]8 || F,8 | E,4 E,4 | D,4 D,4 | C,8 || %21
+ E,8 | F,4 G,4 | A,8 || E,8 | F,4 D,4 | B,,4 C,4 | F,8 |] %28
+

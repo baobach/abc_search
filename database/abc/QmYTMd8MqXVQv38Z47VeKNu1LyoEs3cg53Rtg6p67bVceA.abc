@@ -1,0 +1,124 @@
+X:1
+T:Invocabit me
+T:Heinrich Isaac edit BMarble
+T:Invocabit me
+T:Copyright © 2017 by CPDL.  This edition can be fully distributed, duplicated, performed, and recorded. 
+T:Copyright © 2017 by CPDL.  This edition can be fully distributed, duplicated, performed, and recorded. 
+T:Copyright © 2017 by CPDL.  This edition can be fully distributed, duplicated, performed, and recorded. 
+T:Copyright © 2017 by CPDL.  This edition can be fully distributed, duplicated, performed, and recorded. 
+T:Copyright © 2017 by CPDL.  This edition can be fully distributed, duplicated, performed, and recorded. 
+T:Copyright © 2017 by CPDL.  This edition can be fully distributed, duplicated, performed, and recorded. 
+T:Copyright © 2017 by CPDL.  This edition can be fully distributed, duplicated, performed, and recorded. 
+T:Copyright © 2017 by CPDL.  This edition can be fully distributed, duplicated, performed, and recorded. 
+T:Copyright © 2017 by CPDL.  This edition can be fully distributed, duplicated, performed, and recorded. 
+C:Heinrich Isaac
+C:edit BMarble
+Z:Copyright © 2017 by CPDL.  This edition can be fully distributed, duplicated, performed, and recorded.
+Z:
+%%score [ 1 2 3 4 ]
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Soprano" snm="S."
+V:2 treble nm="Alto" snm="A."
+V:3 treble-8 transpose=-12 nm="Tenor" snm="T."
+V:4 bass nm="Baritone" snm="Bar."
+V:1
+"^Introit First S. Lent" z26 ||[M:4/2][Q:1/2=96] z16 | z16 | z16 | z16 | (A8 F8 | G8) G8 | %7
+w: |||||et _|_ e-|
+ A4 c8 B4 | c16 | z8 c8 | (c8 B8 | c8) (A8 | G8) G8 | A4 c8 B4 | c8 z8 | c8 A4 c4- | %16
+w: |go|ex-|au- *|* di-|* am|_ _ _||e- um, e-|
+ c2 B2 A4 G4 A4- | A2 G2 G8 ^F4 | G16 | z8 (A8 | =F8 G8) | G6 A2 B4 c4- | c2 B2 A8 ^G4 | A8 z8 | %24
+w: * * * um, e-||um:|e-||ri- * * pi-||am|
+ A8 B4 c4- | c2 B2 A2 G2 B4 A4- | A4 G8 ^F4 | G8 z8 | G12 G4 | G8 A6 B2 | c8 c8 | B6 c2 d4 e4- | %32
+w: e- um, e-|||um,|et glo-|ri- * *|* fi-|ca- * * *|
+ e2 d2 c8 B4 | c8 z4 c4- | c4 B4 c8 | A16- | A16 | (A8 c8) | c4 d6 c2 c4- | c4 B4 c8 | z8 c8 | %41
+w: |bo e-||um:|_|lon- *|gi- tu- * *|* di- ne|di-|
+ A8 B4 c4- | c2 B2 A4 G4 A4- | A4 G8 ^F4 | G16 | z8 (G8 | A8 B8) | (B8 A8) | B6 A2 G4 =F4 | %49
+w: e- * *|* * * rum, di-|* e- *|rum|a-||dim- *|ple- bo, a- *|
+ E6 F2 G4 A4- | A4 ^G4 A8 | A6 =G2 A2 B2 c4- | c2 B2 A4 G4 A4 | D4 G8 ^F4 | G16- | G16 |] z44 || %57
+w: dim- * * ple-|* * bo|e- * * * *|* * * um, e-||um.|_||
+[M:4/2] (c8 A8) | (A8 c8) | c12 c4 | c8 c8 | c8 c8 | z8 c8 | (c8 B8) | (G8 A8) | (c8 B4) A4- | %66
+w: in _|pro- *|te- cti-|o- ne|De- i|cae-|li _|com- *|mo- * ra-|
+ A2 G2 G8 ^F4 | G16 || z50 | z46 |[M:4/2] (c8 A8) | (A8 c8) | c12 c4 | c16- | c16 | z8 c8 | %76
+w: * * * bi-|tur.|||et _|in _|sae- cu-|la|_|sae-|
+ (c8 B8) | (G8 A8) | (c8 B4) A4- | A2 G2 G8 ^F4 | G16 |] %81
+w: cu- *|lo- *|rum. _ A-||men.|
+V:2
+ z26 ||[M:4/2] z16 | z16 | z16 | z8 (E8 | C8 D8) | D8 E4 G4- | G4 ^F4 G8- | G8 z8 | G8 (G8 | %10
+w: ||||et|_ _|e- * *|* * go|_|ex- au-|
+ =F8 G8) | (E8 D8) | D8 E4 G4- | G4 ^F4 G8 | z4 G4 E4 G4- | G2 F2 E2 D2 C4 G4- | G2 F2 E4 D4 E4- | %17
+w: |di- *|am, ex- au-|* di- am,|e- um, e-|* * * * um, e-|* * * um, e-|
+ E2 D2 D8 C4 | D8 z8 | (E8 C8 | D8) D8 | E4 G6 F2 E4- | E4 D4 E8 | z8 (E8 | F8 G8) | E4 F4 G4 D4 | %26
+w: |um:|e- *|* ri-||* pi- am|e-||um, e- * *|
+ E8 D8 | z8 D8- | D4 D4 D8 | E4 G8 ^F4 | G8 z4 G4- | G4 E4 =F4 E2 D2 | C4 E4 D8 | C4 G8 ^F4 | %34
+w: * um,|et|_ glo- ri-|fi- ca- *|bo, glo-|* ri- fi- * *|ca- bo e-|um, e- *|
+ G8 E8 | z4 =F8 E4 | F8 D8 | z4 F8 E4 | F2 E2 D2 C2 B,4 C4 | (D8 C8) | G8 (E8 | ^F8 G8) | %42
+w: * um,|e- *|* um:|lon- ge-|tu- * * * * di-|ne _|di- e-||
+ G,4 A,4 B,4 C4 | D4 E4 D8 | z4 D4 E4 G4- | G4 ^F4 G8 | z8 z4 D4 | E4 G8 ^F4 | G8 z4 D4 | %49
+w: rum, di- e- *|* * rum|a- dim- ple-|* * bo,|a-|dim- ple- *|bo, a-|
+ G6 =F2 E4 D4 | E8 C4 F4- | F8 E6 D2 | E4 F4 G4 F2 E2 | D4 C4 D8 | D16- | D16 |] z44 || %57
+w: dim- * * *|ple- bo e-||* um, e- * *||um.|_||
+[M:4/2] z8 (C8 | F12) F4 | F8 F8 | F8 E4 D2 C2 | G8 C8- | C8 z4 C4- | C2 D2 E2 F2 G6 F2 | %64
+w: in|_ pro-|te- cti-|o- ne _ _|De- i|_ cae-||
+ D4 E4 F8 | z4 F4 D4 F4 | G4 E4 D8 | D16 || z50 | z46 |[M:4/2] z8 (C8 | F12) F4 | F8 F8 | %73
+w: * * li|com- * mo-|ra- * bi-|tur.|||et|_ in|sae- cu-|
+ F8 E4 D2 C2 | G8 C8- | C8 z4 C4- | C2 D2 E2 F2 G6 F2 | D4 E4 F8 | z4 F4 D4 F4 | G4 E4 D8 | D16 |] %81
+w: la, sae- cu- *|la _|_ sae-|* * * * * cu-|lo- * rum,|sae- * cu-|lo- rum. A-|men.|
+V:3
+ (G2 F2) G2 (G2 c2 B2 c2) (A2 F2) G8 ||[M:4/2] (A8 F8 | G8) G8 | A4 c8 B4 | c4 A8 ^G4 | A8 z4 A4 | %6
+w: In- * vo- ca- * * * bit _ me|et _|_ e-||go, e- *|go, et|
+ (B8 G8) | (c8 d8 | c8) z4 e4 | d4 e6 d2 c2 B2 | c4 c4 d8 | c4 G8 ^F4 | G4 B4 c4 d4 | e4 c4 d8 | %14
+w: e- *|go _|_ ex-|au- di- * * *|* am e-|um, e- *|um, ex- au- di-|am _ e-|
+ c16- | c8 z4 e4- | e2 d2 c4 B4 c4- | c2 G2 B4 A8 | G8 z4 G4 | c8 A8 | z4 A4 B8 | G8 z4 c4- | %22
+w: um,|_ e-|* * * um, e-||um: e-||ri- pi-|am, e-|
+ c4 d4 B8 | A8 z8 | c8 d4 e4- | e4 c4 d4 A4 | B4 c4 A8 | G8 B8- | B4 B4 B8 | c4 G4 d8 | e16 | %31
+w: * ri- pi-|am|e- * *|* um, e- ri-|pi- am e-|um, et|_ glo- ri-|* * fi-|ca-|
+ d4 B8 c4 | G8 z4 d4 | e6 d2 e4 c4 | d8 c8- | c8 z8 | z4 (c4 f8) | d8 c8 | z8 z4 c4 | A4 B4 G4 c4 | %40
+w: bo e- *|um, glo-|ri- fi- ca- bo|e- um:|_|lon- *|gi- tu-|di-|ne _ _ di-|
+ d4 e6 d2 c2 B2 | c8 d4 e4- | e2 d2 c4 B4 A4- | A2 B2 c4 A8 | G4 d4 c4 B4 | A8 G8 | D8 z4 d4 | %47
+w: e- * * * *|rum, di- e-|* * * rum, di-|* * * e-|rum a- * *|dim- ple-|bo, a-|
+ G4 d8 c4 | d4 G6 A2 B4 | c4 B8 A4 | B8 A8 | d8 c6 B2 | c4 d4 B4 A4 | B4 c4 A8 | G16- | G16 |] %56
+w: dim- ple- *|bo, a- * *|* dim- *|ple- bo|e- * *|* * um, e-||um.|_|
+ G2 (A2 G2) (G2 c2) c2 c2 c2 c2 c2 (c2 B2) (c2 d2) d2 (c2 d2) c2 c8 ||[M:4/2] z8 (c8 | A8) (A8 | %59
+w: Qui ha- * bi- * tat in ad- ju- to- ri- * o _ Al- tis- * si- mi,|in|_ pro-|
+ c8) c8- | c4 c4 c8 | c8 z4 f4- | f4 e2 d2 f4 e4- | e4 d2 c2 e4 d4- | d4 c2 B2 d4 c4- | %65
+w: * te-|* cti- o-|ne De-|* * * * i|_ _ _ _ cae-|* * * li com-|
+ c4 B2 A2 G4 A4 | B4 c4 A8 | G16 || %68
+w: * * * * mo-|ra- * bi-|tur.|
+ G2 (A2 G2) (G2 c2) c2 c2 c2 c2 c2 c4 c2 c2 (c2 B2) (c2 d2) d2 (c2 d2) c8 | %69
+w: Glo- ri- * a _ Pa- tri et Fi- li- o et Spi- ri- * tu- * i San- * cto.|
+ (c2 A2) (A2 c2) c2 c2 c2 c2 c2 c2 c4 (c2 B2) (c2 d2) d2 (c2 d2) c8 |[M:4/2] z8 (c8 | A8) (A8 | %72
+w: Si- * cut _ e- rat in prin- ci- pi- o et _ nunc _ et sem- * per|et|_ in|
+ c8) c8- | c4 c4 c8- | c8 z4 f4- | f4 e2 d2 f4 e4- | e4 d2 c2 e4 d4- | d4 c2 B2 d4 c4- | %78
+w: _ sae-|* cu- la|_ sae-||* cu- * lo- *|* * * * rum,|
+ c4 B2 A2 G4 A4 | B4 c4 A8 | G16 |] %81
+w: _ _ _ sae- cu-|lo- rum. A-|men.|
+V:4
+ z26 ||[M:4/2] (A,,8 D,8 | B,,4) C,6 D,2 E,4 | F,4 E,4 D,8 | C,8 z8 | (A,,8 D,8 | %6
+w: |et _|_ e- * *||go,|et _|
+ G,,4) G,6 A,2 _B,4 | A,8 G,8 | C,8 z4 C4 | =B,4 C6 B,2 A,2 G,2 | A,8 G,8 | C,8 z4 D,4 | %12
+w: _ e- * *||go, ex-|au- di- * * *|am e-|um, ex-|
+ B,,4 G,,4 C,4 B,,4 | A,,8 G,,8 | C,16- | C,16 | z16 | z16 | z8 G,8 | (C,8 F,8 | D,8) G,8 | %21
+w: au- di- am _|_ e-|um:|_|||e-|ri- *|* pi-|
+ C,2 D,2 E,2 F,2 G,4 A,4 | (F,8 E,8) | A,4 C6 B,2 A,2 G,2 | A,8 G,4 E,4 | A,8 G,4 F,4 | %26
+w: am _ _ _ _ e-|um, _|e- ri- * * *|* pi- am|e- um, e-|
+ E,4 C,4 D,8 | G,,8 G,8- | G,4 G,4 G,8 | C,4 E,4 D,8 | z4 C,6 D,2 E,2 F,2 | G,6 F,2 D,4 C,4 | %32
+w: ri- piam e-|um, et|_ glo- ri-|fi- ca- bo,|glo- * * *|* ri- fi- ca-|
+ E,6 F,2 G,8 | C,4 C6 B,2 A,4 | G,8 z4 A,4- | A,4 F,4 C8 | F,8 z4 F,4- | F,4 D,4 A,8 | %38
+w: bo _ e-|um, e- * *|um, e-||um: lon-|* * gi-|
+ z4 D,4 G,4 A,4 | F,4 G,4 C,8 | B,,4 C,6 B,,2 A,,2 G,,2 | A,,8 G,,4 C,4- | C,4 F,4 G,4 F,4- | %43
+w: tu- * di-|ne _ di-|e- * * * *|rum, di- e-|* * rum, di-|
+ F,2 E,2 C,4 D,8 | G,,8 z8 | z4 D,4 E,4 G,4- | G,4 ^F,4 G,8 | z4 G,4 A,8 | G,6 =F,2 E,4 D,4 | %49
+w: * * * e-|rum|a- dim- ple-|* * bo,|a- dim-|ple- * * *|
+ C,4 G,8 F,4 | E,8 F,4 D,4- | D,2 C,2 D,4 A,,4 A,4- | A,4 D,4 E,4 F,4 | G,4 E,4 D,8 | G,,16- | %55
+w: bo, a- dim-|ple- bo e-|* * * um, e-|* * um, e-||um.|
+ G,,16 |] z44 ||[M:4/2] (C,8 F,8) | F,8 F,8- | F,4 F,4 F,8 | F,4 E,2 D,2 C,8 | z8 F,8 | F,8 A,8 | %63
+w: _||in _|pro- te-|* cti- o-|ne _ _ _|De-|i cae-|
+ A,8 G,8 | G,8 F,8 | F,8 G,4 F,4 | E,4 C,4 D,8 | G,,16 || z50 | z46 |[M:4/2] (C,8 F,8) | F,8 F,8- | %72
+w: li com-|mo- ra-|bi- tur, com-|mo- ra- bi-|tur.|||et _|in sae-|
+ F,4 F,4 F,8- | F,4 E,2 D,2 C,8 | z8 F,8- | F,8 A,8 | (A,8 G,8-) | G,8 F,8- | F,8 G,4 F,4 | %79
+w: * cu- la|_ _ _ _|sae-|* cu-|lo- *|* rum,|_ sae- cu-|
+ E,4 C,4 D,8 | G,,16 |] %81
+w: lo- rum. A-|men.|
+

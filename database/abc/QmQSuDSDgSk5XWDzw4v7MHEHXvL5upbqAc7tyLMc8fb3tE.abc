@@ -1,0 +1,192 @@
+X:1
+T:Adagio and Fugue in C Minor
+T:"Adagio and Fugue in C Minor"
+T:Köch. Verz. No. 546
+T:Wolfgang Amadeus Mozart
+C:Wolfgang Amadeus Mozart
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=55
+M:3/4
+K:Eb
+V:1 treble nm="Violins" snm="Vlns."
+V:2 treble nm="Violins" snm="Vlns."
+V:3 alto nm="Violas" snm="Vlas."
+V:4 bass nm="Violoncellos" snm="Vcs."
+V:1
+"^Adagio." z3/2!f! G/"_staccato" e7/2 d/ | c>G g7/2 f/ | e>c c'7/2 b/ | .a2 .g2 z2 | %4
+!p! (_D>C)(D>C)(D>C) | (_D2 F2 A2) | (=B,2 C2 =D2) | (FTE) D2 z2 |!f! [Gec']2 z3/2 G<=A,=B,/ | %9
+ C2 z3/2 G<=A=B/ | c2 z3/2 c<d=e/ | .f2 .b2 z2 | z6 |!p! aaaaaa | (_g>f)(g>f)(g>f) | %15
+ _g2- (g/f/e/_d/ c/B/A/_G/) | (_G4 F2) | (F>_GF>GF>G) | (A4 =G2) | (G>AG>AG>A) | (B4 =A2) | %21
+ (=Ac) c2- (c/B/A/B/) | (d>B) =A2 z2 | z3/2!f! D/"_staccato" B7/2 =A/ | G>D d7/2 c/ | B>G g7/2 f/ | %26
+ .e2 .d2 z2 | z6 | z6 |!p! (c'>=bc'>bc'>b) | c'6- | c'2- (c'/_b/=a/g/ ^f/e/d/c/) | (=B>d =f2 e2) | %33
+ (g>e) d>!f!G=A>=B | [G,Ec]2 z3/2 G<=A,=B,/ | C2 z3/2 =G<=A=B/ | c2 z3/2 c<d=e/ | .f2 .b2 z2 | z6 | %39
+ z6 |!p! (^c'>^bc'>^bc'>^b) | (^c'2 =b4-) | (b2 =a4-) | a2 g4- | (g2 f2 =e2) | (_e2 d2 c2) | %46
+ =B2 z2 z2 | z2 (=a2 e>d) | d2 z2 z2 | z2 (e2 ^F>G) | %50
+ (G>^F[Q:1/4=50]"^."G>F[Q:1/4=45]"^."G>[Q:1/4=40]"^."F) | !fermata!G6 || %52
+[M:4/4][Q:1/4=110]"^Allegro.""^Fuga." z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %61
+!f! .c2 .c2 .G2 (=A/=B/c/d/ | e2) .e2 ^F2 z (e | ^cd) z (=c =A_B^GA) | (^FG=F)f- (f=e) _e2 | %65
+ (Td3 c/d/) .e2 .c2 | z .f.f.f (Tf3 =e/f/) | _e2- e (d2 c2 =B) | cc/d/ .e.G (T_A3 G/A/) | %69
+ B,d/e/ .f.A (TG3 F/G/) | CF/A/ cE DcBA | (Ggfe dcB=A) | (fd/B/) _A3 (Gg)f- | %73
+ (f e2 _d) .[cc']2 .c'2 | .f2 (g/=a/b/c'/ _d'2) .d'2 | .=e2 z (_d' =bc') z (_b | %76
+ g_a^fg ^ef) z (^F | cB) z2 z (G=AB) | (=Bc) z (^f g2) z (^F | c_B) (gb b2 c) z | %80
+ z (c=f_a) (a2 B)f- | f (e2 _d2 c2 B-) | B (A2 _d2 c2) B- | B =A2 e2 _d2 c- | (cF B2) z4 | z8 | %86
+ z4 .c2 .c2 |"^." g2 (f/e/=d/c/ =B2) .B2 |"^." a2 z (=B dc) z (d | fegf ag) z (a | %90
+ c=B) z2 z (G^cd) | z (=Ade) z (Adc) | z (EG^F) z (GB=A) | (G=F_AG BAcB) | (_dced) (GA) z2 | z8 | %96
+ .a2 .a2 ._d2 (e/f/_g/a/ | b2) .b2 .c2 (_d/e/f/_g/ | a2) .a2 .B2 (c/=d/e/f/ | _g)B (b3 _c'/b/) a2 | %100
+ z A (a3 b/a/) _g2 | z _G (_g3 a/g/) f2 | z F (f3 e) (Td3/2c/4d/4) | c2 z2 z4 | %104
+ .G2 .G2"^." d2 (c/B/=A/G/ | ^F2) .F2"^." e2 z (F | =AG) z (A cBc=B | dc) z (d fef=e) | %108
+ (gf_ag ba) z2 | z .b.b.b (Tb3 a/b/) | g2 z2 z4 | .c'2 .c'2"^." f>(g =a/b/c'/d'/ | %112
+ e'2) .e'2"^." ^f2 z2 |"^." =a>(g ^f/e/d/c/ =B2) z2 | z4 (=B/c/d/e/ =f/g/_a/_b/ | c'2) z2 z4 | %116
+ z .c'.c'.c' (Tc'3 =b/c'/) | .c2 z2 z4 | z2 z (a ^fg=e=f) | (d_e) z (_d =Bc=A_B) | %120
+ (^G=A) z (e ^cd=B=c) | (^A=B) z2 z4 | z (cd=e) (Tf3/2e/4f/4) (T^f3/2e/4f/4) | g2 z2 z4 | %124
+ .g2 .g2 .c2 d/_e/=f/g/ | a2 .a2"^." =B2 z (a | ^fg) z (=f de^cd) | (=B=c) (c3 _dc_B) | %128
+ .A2 (a3 g/f/ =e/f/g/a/ | b).b.b.b (Tb3 a/b/ | c'2) .c'2 .f2 (g/a/b/c'/ | %131
+ _d'2) .d'2"^." _e2 z (d' | =bc') z (e'^c'd') z (f' | d'e') z (_bB=A) z2 | z8 | z8 | z4 .g2 .g2 | %137
+ .d'2 (c'/b/=a/g/ ^f2) .f2 |"^." e'2 z (^f =ag) z (g- | g_a) z (=fc=B) z (d | =Bced) z (egf) | %141
+ z (fa g2) .f/.e/ .d.c | =B2 z2 z4 | z4 .d2 .d2 | G2 (=A/=B/c/d/ e2) .e2 | ^F2 z (e ^cd=B=c) | %146
+ ((^A=B)) z (_a ^fg=e=f) | (d_e) z2 z4 | z4 .F2 .F2 | .c2 (_B/_A/G/F/ =E2) .E2 | %150
+ _d2 z2 z .B/.c/ .d/.c/.B/.A/ | GG/A/ B/A/G/F/ =E(.=e.e.e) | z4 z (=AcA) | %153
+ z .d/._e/ .=f/.e/.d/.c/ .=B(=bd'b) | z8 | .f2 .f2 .=B2 (c/d/e/f/ | g).G (g3 ^f2 =f | %157
+ d').f.=e.c' _e/c'/c'/c'/ d/=b/b/b/ | g/e'/e'/e'/ g/e'/e'/e'/ ^f/e'/e'/e'/ f/e'/e'/e'/ | %159
+ =f/d'/d'/d'/ f/d'/d'/d'/ e/d'/e/c'/ d/c'/d/=b/ | c/c'/c'/c'/ c/a/a/a/ G/e/e/e/ G/d/d/d/ | %161
+ .c2 .c2 .g2 (f/e/d/c/ | =B2) .B2"^." a2 z (B | dc) z (d fef=e) | (gfg^f _ag) z (=B | %165
+ dc) z (d fef=e) | (gfg^f ag) z (=B | dc) z2 .c2 .c2 |"^." g2 (=f/e/d/c/ =B2) .B2 | %169
+ [D=Ba]2[Q:1/4=80] z3/2 f/ e2[Q:1/4=75] [=Bd]2 | [EGc]2 z2 z4 |] %171
+V:2
+ z3/2!f! E/"_staccato" c7/2 =B/ | c>C e7/2 d/ | c>G e7/2 g/ | .f2 .e2 z2 | z6 |!p! A,A,A,A,A,A, | %6
+ G,4- (G,=B,) | (DC) =B,2 z2 |!f! [Ecg]2 z3/2 G,<G,G,/ | G,2 z3/2 D<ED/ | C2 z3/2 =E<F_D/ | %11
+ .C2 .=e2 z2 | z6 |!p! _dddddd | _d6 | c2 C4 | E4- (E>C) | =A,4 (B,>F) | F4- (F>D) | =B,4 (C>G) | %20
+ G4- (G>=E) | (D=A) A2- (A/G/^F/G/) | (B>G) ^F2 z2 | z3/2!f! B,/"_staccato" G7/2 ^F/ | %24
+ G>G, B7/2 =A/ | G>D B7/2 d/ | .c2 .B2 z2 | z6 |!p! (_G>FG>FG>F) | (_G6 | ^F6-) | F6 | %32
+ (=F>=B d2 c2) | (e>c) =B>!f!=B,C>D | C2 z3/2 G,<G,G,/ | G,2 z3/2 D<ED/ | C2 z3/2 =E<F_D/ | %37
+ .C2 .=e2 z2 | z6 |!p! (A>GA>GA>G) | AAAAAA | ^G2- (G>=E)(F>D) | (=E>^DE>DE>C) | (_D>CD>CD>_B,) | %44
+ (=E2 F2 G2) | (_A2 =A4) | GDDDDD | DDDD=AA | GDDDDD | CCCCEE | (E2 D2 C2) | D6 ||[M:4/4] z8 | z8 | %54
+ z8 | z8 | z8 | z8 |!f! .G2 .G2 .C2 (D/E/F/G/ | A2) .A2 =B,2 z (A | ^FG) z (=F DE^CD) | %61
+ (=B,C) z"^staccato" .C/.D/ .E2 .C2 | z .C.C.C (TC3 =B,/C/) | _B2 =A2 G2 GF- | F E2 D (G3 ^F) | %65
+ G4- GG/=F/ ED | C2 z A2 G/^F/ G=B | (c>_B) A2 G2 F2 | E2 z C c/B/A/G/ F/E/D/C/ | %69
+ f/e/d/c/ B/A/G/F/ G/F/E/D/ C/B,/A,/G,/ | CA,/C/ FC B,AGF | (EBAG FEDE) | (AF) z (E ^CD) z (=c | %73
+ =ABG_A) (G=EFG) | (A=AB_E) _D.B.B.B | (TB3 =A/B/) (G_A) (e=d | _dc) z2 =d2 .d2 | %77
+ .G2 (=A/B/c/d/ e2) .e2 | ^F2 z (e ^cd=B=c) | (=AB) z (_d =BcA_B) | (G_A) z (_c =ABG_A) | %81
+ ^FG z2 z4 | z ._D.D.D (TD3 C/D/) | .C.E.E.E (TE3 _D/E/) | ._D (D2 C2 B,2) E- | %85
+ E (_D2 C2 =B,2) F- | (F E2 =D) (GAGF) | .E.D C=B,/C/ D2 z2 | D2 D3 (DGF) | (=Bc) z2 z4 | %90
+ z4 .G2 .G2 | .d2 (c/_B/=A/G/ ^F2) .F2 | .e2 z (^F =AG) z A | (c=Bdc edf=e) | %94
+ (gf) _g2- (g/f/_e/_d/ c/B/A/_G/) | (F3 _G) E4- | E(A, _D3) (A_GF | EF) (_G3 BAG) | %98
+ (FE=DB,) .B2 .B2 | .E2 (F/_G/A/B/ _c2) .c2 | ._D2 (E/F/_G/A/ B2) .B2 | .=C2 (_D/E/F/_G/ A2) .A2 | %102
+ .=B,2 (C/=D/E/F/ =G4) | E2 z C (Tc3 =B/c/) | (d/c/=B/=A/ G2) z4 | z8 | z8 | z8 | %108
+ .c2 .c2 .F2 (G/_A/_B/c/ | _d2) .d2 .=E2 z (d | =Bc) z (_B GA^FG) | (=E=F) z2 .c2 .c2 | %112
+"^." ^F>(G =A/B/c/d/ e2) .e2 |"^." ^F2 z2 z4 | z4 (D/E/=F/G/ =A/=B/c/d/ | e).g.g.g (Tg3 ^f/g/) | %116
+ .G2 (=E2 =F2 _B2) | _A2 z (e ^cd=B=c) | (=A_B) (D2 E2 _A2) | G2 E3 .E(E=E) | %120
+ (TF3 =E/F/) .F.F(F^F) | (TG3 ^F/G/) .G.G.G.G | (TG3 ^F/G/) C(edc) | =B2 z2 z4 | %124
+ .C2 .C2 .G2 (=F/E/D/C/ | =B,2) .B,2 .A2 z (=B | dc) z (d FEGF) | (AGBA G2 =E2) | %128
+ .F2 (A3 B/c/ _d/c/B/A/ | G).G.G.G (TG3 F/G/ | F2) .F2 .c2 (B/A/G/F/ | _E2) .E2"^." _d2 z (E | %132
+ _GF) z (F_A=G) z (G | B=A) z (gG^F) z2 | .d2 .d2 .G2 (=A/B/c/d/ | e2) .e2 .^F2 z (e | %136
+ ^cd) z (=c =ABc^c | d2) (e/d/=c/B/ =A2) A2- | A(=Aed) z (G=Bc | ed) z (_AED) .A2 | %140
+ .G2 z (FAG) z (A | c =B2 f e).G .A2 | .D2 z2 .G2 .G2 | C2 (D/E/F/G/ A2) .A2 | %144
+ .=B,2 z (A ^FG=E=F) | =A,2 z2 z4 | z .G.G.G (TG3 ^F/G/) | .C2 .C2 .G2 (=F/_E/D/C/ | %148
+ =B,2) .B,2 .A2 z (B, | _DC) c3 ._B/.c/ ._d/.c/.B/.A/ | GG/A/ B/A/G/F/ =E2 E2 | _d2 z2 z (GBG) | %152
+ z .=A/.B/ .c/.B/.A/.G/ ^F(.^f.f.f) | z .=F/.G/ ._A/.G/.F/.E/ .D(FAF) | .G2 .G2 .C2 (D/E/F/G/ | %155
+ A).F.F.F (TF3 G/F/) | (=E2 _E3) (e2 d/c/ | f).d.c.=e c/_e/e/e/ =B/d/d/d/ | %158
+ e/c'/c'/c'/ e/c'/c'/c'/ e/^f/f/f/ e/f/f/f/ | d/=f/f/f/ d/=b/b/b/ d/e/c/e/ c/d/=B/d/ | %160
+ G/g/g/g/ A/c/c/c/ E/c/c/c/ =B,/=B/B/B/ | c2 z2 .C2 .C2 | .G2 (F/E/D/C/ =B,2) .B,2 | %163
+ (DC) z (D FEF=E) | (GFG^F _AG) z (=B, | DC) z (D FEF=E) | (GFG^F AG) z (=B, | DC) z2 .C2 .C2 | %168
+"^." G2 (F/E/D/C/ =B,2) .B,2 | [A,Fd]2 z3/2 d/ c2 [G,D=B]2 | [G,Ec]2 z2 z4 |] %171
+V:3
+ z3/2!f! C/ G4- | G>E C7/2 G,/ | G>E G7/2 C/ | .c2 .c2 z2 | z6 |!p! F,F,F,F,F,F, | (D,2 E,2 G,2) | %7
+ G,=A, D,2 z2 |!f! [C,C]2 z3/2 C,<G,F,/ | E,2 z3/2 =B,<CG/ | G2 z3/2 G<AG/ | .F2 .c2 z2 | z6 | %13
+!p! FFFFFF | B6 | A2 E2 E,2 | (C,>_D,C,>D,C,>E,) | (E,4 =D,2) | (D,>E,D,>E,D,>F,) | (F,4 =E,2) | %20
+ (=E,>F,E,>F,E,>G,) | (^F,4 F,2-) | (F,B,) D2 z2 | z3/2!f! G,/ D4- | D>B, G,7/2 D,/ | %25
+ D>B, D7/2 G,/ | .G2 .G2 z2 |!p! (A,>G,)(A,>G,)(A,>G,) | A,6 | =A,6- | A,6- | (A,4 D2-) | %32
+ (D2 =B,2) (C=A,) | G,2 z3/2!f! D<EF/ | E2 z3/2 C,<G,F,/ | E,2 z3/2 =B,<CG/ | G2 z3/2 G<AG/ | %37
+ .C2 .c2 z2 | z6 | z6 | z6 |!p! (D>^CD>CD>=B,) | (=C>=B,C>B,C>=A,) | (_B,>=A,B,>A,B,>G,) | %44
+ (C>=B,C>B,C>B,) | (C>=B,)(C>D)(D>E) | D=B,B,B,B,B, | CCCCCC | =B,B,B,B,B,B, | ^F,F,F,F,CC | %50
+ (C2 =B,2 =A,2) | !fermata!=B,6 ||[M:4/4] z8 | z8 | z8 |!f! C2 .C2 .G,2 (=A,/=B,/C/D/ | %56
+ E2) .E2 ^F,2 z (E | ^CD) z (=C =A,_B,^G,A,) | (^F,=G,) z"^staccato" .=F,/.G,/ ._A,2 .F,2 | %59
+ z .F.F.F (TF3 =E/F/) | _E2 D2- D (C2 =B,) | G2 E2 z C/_B,/ =A,G, | .^F,2 .=B,2 .D2 z2 | %63
+ z (D=E^F G_ECD) | (EC=A,=B, C).G, C2- | C2 (=B,=A,/B,/ C2) z G- | GF/E/ _DC (T=D3 C/D/) | %67
+ .C.C F(=B,/D/ E)(A,/C/) (F,_A,/G,/) | G,E/F/ GE FA,/B,/ CE, | D,F/G/ AD EE,/F,/ G,B, | %70
+ F,2 z2 .B,2 .B,2 | .E,2 (F,/G,/A,/B,/ C2) .C2 | D,2 z (C =A,B,) z (_A, | ^F,G,=E,=F,) E,(CD=E) | %74
+ (FC_D=A,) (B,F=EF) | G2 =E2 F2 z (G, | =EF) z (C2 B,/>=A,/ B,A,) | (_ED) z (C =A,B,^F,G,) | %78
+ (^G,=A,) z (C A,B,) z (E | D2) (_DB, G,2) z (G | =EFD_E ^CD) z2 | z8 | z8 | z4 .F,2 .F,2 | %84
+ .B,2 (C/_D/E/F/ _G2) .=G2 | .=A,2 z2 ._A2 .A2 | =B,2 z2 z4 | .C2 .C2 .G2 (F/E/D/C/ | %88
+ =B,2) .B,2 .A,2 z (B, | DC) z (D FEGF | AG) z (A C=B,) z _B,- | (B,=A,) z (A,DC) z (A, | %92
+ CB,) z (C EDFE) | z (D,F,E, G,F,_A,G,) | (B,A,CB, _DC) E2- | E(A, _D3) (B,CB,) | F4- F(FE_D | %97
+ C_D) (E3 _GFE) | =DE F2- F E2- E | .E2 .E2 .A,2 B,/_C/_D/E/ | F2 .F2 _G,2 A,/B,/_C/_D/ | %101
+ E2 .E2 F,2 =G,/A,/B,/=C/ | D3 C =B, C2 B, | .C.G, (G3 F/E/) F2- | FD (=B,2 _B,)G, D2- | %105
+ (DC=A,B,) (G,^F,) (E2 | D).D.D.D (TD3 C/D/) | .G,(EC=B, D C2 _D) | C2 z2 z4 | %109
+ .F,2 .F,2 .C2 _B,/_A,/G,/F,/ | =E,2 .E,2 ._D2 z E, | G,F, z G, B,A,CB, | (=DC) z2 z4 | %113
+ .D2 .D2 (G,/=A,/=B,/C/ D/E/F/G/ | _A2) .A2 .=B,2 z (A | ^FG) z (=F DE^CD) | (=B,=C) z2 z4 | %117
+ z2 (=A,2 _B,2 E2 | D).B,.B,.B, (TB,3 =A,/B,/) | E,2 (=A,B, G,_A,) z (B, | =B,CB,C =A,_B,) z (C | %121
+ ^CD) z (F D_ECD) | (=B, =C2 _B,) (=A,C=B,C) | .D(G,=A,=B,) (TC3/2B,/4C/4) (TD3/2C/4D/4) | %124
+ E2 z2 G,2 z2 | z .D.D.D (TD3 C/D/) | .G,(G,=A,=B,) (DCED) | (F=EGF E2) z2 | %128
+ .C2 .C2 .F,2 (G,/A,/B,/C/ | _D2) .D2 .=E,2 z2 | z2 (A,3 F,) (_D/C/B,/A,/ | %131
+ B,).B,.B,.B, (TB,3 A,/B,/ | C).C (TC3/2=B,/4C/4 D).D (TD3/2C/4D/4) | %133
+ (TE3/2D/4E/4) (T=E3/2D/4E/4) .D2 .D2 | .G,2 (=A,/B,/C/D/ _E2) .E2 | .^F,2 z (E ^CD) z (=C | %136
+ =A,B,) z (A, ^F, G,2 A, | B,=A,) z2 z (D C/B,/A,/G,/) | (G,^F,) z (=A,CB,) z2 | %139
+ z .=F.F.F (TF3 E/F/) | (FEC=B,) z (CED) | z (DF=B,) .C2 .F,2 | .G,2 z2 z4 | z8 | %144
+ .D2 .D2 .G,2 (=A,/=B,/C/D/ | E2) .E2 ^F,2 z (E | ^C)(D=B,=C ^A,B,) z2 | z8 | z8 | %149
+ .F,2 .F,2 .C2 B,/_A,/G,/F,/ | =E,2 .E,2 ._D2 z2 | z .B,/.C/ ._D/.C/.B,/.A,/ .G,(B,DB,) | %152
+ z .C/.=D/ .E/.D/.C/.B,/ .=A,(CEC) | z4 z (DFD) | z4 .C2 .C2 | F,2 (G,/_A,/B,/C/ D2) D2- | %156
+ DC.C.C (TC3 =B,/C/) | G,4 z4 | .G2 .G2 .C2 (D/E/^F/G/ | A2) .A2 (^FG=E=F) | (D_E).F.D G2 G,2 | %161
+ G,/E/E/E/ G,/E/E/E/ G,/E/E/E/ G,/E/E/E/ | G,/F/F/F/ G,/F/F/F/ D/F/F/F/ =B,/A/A/A/ | %163
+ .G(G, A,2 G,2 _B,2) | C6 G,2- | (G,2 A,2 G,2 B,2) | C6 G,2 | E,>(C F/G/A/B/ c2) .c2 | %168
+ D2 z (A^FG) z (G | =E=F) z3/2 A/ G2 [G,F]2 | [C,G,E]2 z2 z4 |] %171
+V:4
+!f! C,,2 z3/2 C,<G,F,/ | E,2 z3/2 E,<G,,=B,,/ | C,2 z3/2 G,<C,=E,/ | .F,2 .C,2 z2 | z6 | %5
+!p! F,,F,,F,,F,,F,,F,, | (F,,2 E,,2 =B,,2) | C,^F,, G,,2 z2 | z3/2!f! G,,/ E,7/2 D,/ | %9
+ C,>G,, G,7/2 F,/ | E,>C, C7/2 _B,/ | .A,2 .G,2 z2 |!p! (F,,>=E,,)(F,,>E,,)(F,,>E,,) | %13
+ (F,,2 A,,2 _D,2) | _E,,E,,E,,E,,E,,E,, | A,,A,,A,,A,,A,,A,, | =A,,A,,A,,A,,A,,A,, | %17
+ B,,B,,B,,B,,B,,B,, | =B,,B,,B,,B,,B,,B,, | C,C,C,C,C,C, | ^C,C,C,C,C,C, | D,D,E,E,^C,C, | %22
+ D,2- D,>!f!C,B,,>=A,, | G,,2 z3/2 G,,<D,C,/ | B,,2 z3/2 B,,<D,,^F,,/ | G,,2 z3/2 D,<G,,=B,,/ | %26
+ .C,2 .G,,2 z2 | z6 | z6 | z6 |!p! (D,,>^C,,D,,>C,,D,,>C,,) | D,,D,,D,,D,,D,,D,, | %32
+ G,,G,,A,,A,,^F,,F,, | G,,2 z2 z2 | z3/2!f! G,,/ E,7/2 D,/ | C,>G,, G,7/2 F,/ | E,>C, C7/2 B,/ | %37
+ .A,2 .G,2 z2 |!p! (F,,>=E,,F,,>E,,F,,>E,,) | F,,F,,F,,F,,F,,F,, | =E,,E,,E,,E,,E,,E,, | %41
+ =E,,E,,E,,E,,E,,E,, | =E,,E,,E,,E,,E,,E,, | =E,,E,,E,,E,,E,,B,, | =A,,A,,_A,,A,,G,,G,, | %45
+ F,,F,,^F,,F,,F,,F,, | (G,,>A,,G,,>A,,G,,>)(G,, | ^F,,)F,,F,,F,,F,,F,, | %48
+ (G,,>^F,,G,,>F,,G,,>)(G,, | A,,)A,,A,,A,,A,,A,, | G,,6 |"_attacca" !fermata!G,,6 || %52
+[M:4/4]!f! .[G,,G,]2 .[G,,G,]2 .[C,,C,]2 (D,/E,/F,/G,/ | A,2) .A,2 =B,,2 z (A, | %54
+ ^F,G,) z (=F, D,E,^C,D,) | (=B,,C,) z"^staccato" .C,,/.D,,/ .E,,2 .C,,2 | %56
+ z .C,.C,.C, (TC,3 =B,,/C,/) | (_B,,2 =A,,2 G,,2 F,,2-) | %58
+ F,,.=E,,/.D,,/ .E,,.C,, z .F,/._E,/ .D,.C, | .=B,,2 .D,2 .G,2 z2 | z (G,,=A,,=B,, C,_A,,F,,G,,) | %61
+ E,,2 C,,2 z4 | z =A,,/G,,/ ^F,,=E,, D,,D,=E,^F, | G,2 z2 z4 | z8 | %65
+ .[G,,G,]2 .[G,,G,]2 .[C,,C,]2 (D,/E,/F,/G,/ | A,2) .A,2 =B,,2 z (A, | ^F,G,) z (=F, D,E,^C,D,) | %68
+ =C,2 z2 z F,/G,/ A,C, | (TB,,3 =A,,/B,,/ E,,)C,/D,/ E,G,, | %70
+ (T_A,,3/2G,,/4A,,/4) (T=A,,3/2G,,/4A,,/4) B,,4 | B,,8 | B,,4 B,,4 | B,,2 B,,3 (B,A,G,) | %74
+ (F,E,^C,=C, B,,A,,G,,B,,) | C,,(_D=B,C) z (A,^F,G,) | z (F,D,E, ^C,D,) z (=C, | %77
+ =A,,B,,_A,,=A,, ^F,,G,,) z2 | z (E,^C,D,) z (B,G,_A, | ^F,G,=E,=F,) (^D,E,) z2 | z8 | %81
+ .E,2 .E,2 .A,,2 (B,,/C,/_D,/E,/ | F,2) .F,2 .G,,2 z2 | .^F,2 .F,2 .=A,,2 z2 | z4 z .E,.E,.E, | %85
+ (TE,3 =D,/E,/) .D,.F,.F,.F, | (TF,3 E,/F,/) (E,F,E,D,) | C,B,, A,,2 G,,2 z2 | F,,2 F,,3 (F,E,D, | %89
+ C,2) z2 z4 | .G,,2 .G,,2 .D,2 (C,/B,,/=A,,/G,,/ | ^F,,2) .F,,2 .E,2 z (F,, | %92
+ =A,,G,,) z (A,, C,B,,D,C,) | (E,D,) z2 z4 | z8 | z4 .A,2 .A,2 | ._D,2 (E,/F,/_G,/A,/ B,2) .B,2 | %97
+ .C,2 (_D,/E,/F,/_G,/ A,2) .A,2 | .B,,2 (C,/D,/E,/F,/ _G,2) .F,2 | .E,2 z2 z4 | z8 | z8 | %102
+ z4 .[=G,,=G,]2 .[G,,G,]2 | [C,,C,]2 (D,/E,/F,/G,/ A,2) .A,2 | =B,,2 z (A, ^F,G,) z (=F, | %105
+ D,E,^C,D, =B,,=C,).C,,.C, | ._B,,2 ^F,,2 .G,,2 .=F,,2 | .E,,.G,.G,.G, (TG,3 F,/G,/) | %108
+ (A,2 =E,2) F,2- (F,/_E,/_D,/C,/) | B,,2 z2 z4 | z .B,,.B,,.B,, (TB,,3 =A,,/B,,/) | %111
+ _A,,2 (=E,,2 F,,2 _E,,2 | D,,2) z2"^." C>(B, =A,/G,/^F,/=E,/ | D,2) z2 .[G,,G,]2 .G,2 | %114
+ =B,,>(C, D,/=E,/=F,/G,/ A,2 G,F,) | _E,2 (=B,,2 C,2 F,,2) | E,,2 z (_B, G,A,^F,G,) | %117
+ (=E,=F,).F,.F, (TF,3 E,/F,/) | B,,2 z2 z4 | %119
+ z .G,,.G,,.G,, (TA,,3/2G,,/4A,,/4) (T_G,,3/2F,,/4G,,/4) | %120
+ .F,,.F,,.=A,,.A,, (TB,,3/2A,,/4B,,/4) (T_A,,3/2G,,/4A,,/4) | %121
+ .G,,.G,,.=B,,.B,, (TC,3/2B,,/4C,/4) (T_B,,3/2=A,,/4B,,/4) | (=A,,6 _A,,2) | %123
+ G,,(G,F,D,) (TE,3/2D,/4C,/4) (T=B,,3/2A,,/4G,,/4) | C,2 z2 E,2 z2 | z .F,.F,.F, (TF,3 E,/F,/) | %126
+ E,2 z2 z4 | z .C,.C,.C, (TC,3 =B,,/C,/) | .F,,2 .F,,2 .C,2 (_B,,/A,,/G,,/F,,/ | %129
+ =E,,2) .E,,2 (_D,3 C,/B,,/) | A,,4 _D,4 | .G,,.G,,.G,,.G,, (TG,,3 F,,/G,,/ | %132
+ A,,).A,, (T=A,,3/2G,,/4A,,/4 B,,).B,, (T=B,,3/2A,,/4B,,/4) | %133
+ (TC,3/2=B,,/4C,/4) (T^C,3/2B,,/4C,/4) D,2 z2 | z8 | z4 .D,2 .D,2 | %136
+ .G,,2 =A,,/B,,/C,/D,/ E,2 .E,2 | ^F,,2 z (E,^C,D,) z2 | .=C,2 .C,2 .G,2 F,/E,/D,/C,/ | %139
+ =B,,2 .B,,2 ._A,2 z (B,, | D,C,) z (D,F,E,) z (F, | A,G,) z2 z4 | %142
+ .[G,,G,]2 .[G,,G,]2 .[C,,C,]2 (D,/E,/F,/G,/ | A,2) .A,2 =B,,2 z (A, | ^F,G,) z (=F, D,E,^C,D,) | %145
+ (=B,,C,).C,.C, (TD,3 ^C,/D,/) | G,,2 z2 z4 | z4 .[C,,=C,]2 .[C,,C,]2 | %148
+ .[G,,G,]2 (F,/E,/D,/C,/ =B,,2) .B,,2 | .A,2 z (=B,,_D,C,) C,2 | %150
+ z ._B,,/.C,/ ._D,/.C,/.B,,/.A,,/ .G,,.G,,/.A,,/ .B,,/.A,,/.G,,/.F,,/ | .=E,,2 .E,,2 ._D,2 z2 | %152
+ .^F,,2 .F,,2 ._E,2 z2 | .=B,,2 .B,,2 .A,2 z2 | z8 | z4 .[G,,G,]2 .[G,,G,]2 | %156
+ .[C,,C,]2 (D,/E,/F,/G,/ _A,2) .A,2 | .=B,,2 .C,2 .[G,,G,]2 .[G,,G,]2 | %158
+ .[C,,C,]2 (D,/E,/F,/G,/ A,2) .A,2 | .=B,,2 z (A, ^F,G,=E,=F,) | (D,E,).F,.D, G,2 G,,2 | %161
+ C,,/C,/C,/C,/ C,,/C,/C,/C,/ C,,/C,/C,/C,/ C,,/C,/C,/C,/ | %162
+ D,,/D,/D,/D,/ D,,/D,/D,/D,/ D,,/D,/D,/D,/ D,,/D,/D,/D,/ | %163
+ E,,/E,/E,/E,/ F,,/F,/F,/F,/ G,,/G,/G,/G,/ G,,/_D,/D,/D,/ | %164
+ G,,/C,/C,/C,/ =A,,/=D,/D,/D,/ G,,/E,/E,/E,/ G,,/F,/F,/F,/ | %165
+ E,,/C,/C,/C,/ F,,/C,/C,/C,/ G,,/C,/C,/C,/ G,,/_D,/D,/D,/ | %166
+ _A,,/C,/C,/C,/ =A,,/=D,/D,/D,/ G,,/E,/E,/E,/ G,,/D,/D,/D,/ | .[C,,C,]2 (D,/E,/F,/G,/ A,2) .A,2 | %168
+ .=B,,2 z (G,^F,G,) z G, | =E,=F, z3/2 F,/ G,2 G,,2 | C,,2 z2 z4 |] %171
+

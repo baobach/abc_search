@@ -1,0 +1,45 @@
+X:1
+T:Double Fugue. Bortniamsky
+T:Double Fugue. Bortniansky
+T:Dmitry Bortniansky (1751-1825)
+T:From Sacred Concerto No. 28
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=110
+M:4/4
+K:G
+V:1 treble nm="Soprano" snm="S."
+V:2 treble nm="Alto" snm="A."
+V:3 treble-8 nm="Tenor" snm="T."
+V:4 bass nm="Bass" snm="B."
+V:1
+ z | z8 | z8 | z6 G2 | d6 B2 | A2 d^c d2 B2 | A2 AB c3 c | B2 z G B2 c2 | BAGA B2 c2 | %9
+ B2 Bd d2 ^c2 | d8 | d6 d2 | d4 z2 d2 | g6 e2 | d2 gf g2 e2 | dcBA ^G3 G | A2 z2 z4 | %17
+ z2 c2 e2 ^G2 | ABcd e2 ^G2 | ABcA d3 e | =f8 | =f6 f2 | =f2 z2 z4 | z6 =F2 | c>c c2 z2 =FA | %25
+ c>c c2 z2 A2 | d6 =B2 | A2 d^c d2 B2 | AGAB =c3 c | B2 z2 z4 | z8 | z2 d2 e3 e | d4 c2 c2 | %33
+ B z G2 B2 d2 | ^c4 c2 d2 | e8- | e6 e2 | d4 z2 D2 | d3 d c=BAG | F6 A2 | d4 cBAG | F4 F2 F2 | %42
+ G6 z G | e3 d cBAG | G2 F2 !fermata!z2 D2 | G8 | A4 B4 | c4 B4 | A8 | G4 F2 F2 | !fermata!G8 |] %51
+V:2
+ D | G6 E2 | D2 GF G2 E2 | D2 GA B3 G | F2 z D F2 G2 | FEDE F2 G2 | FEFG A3 A | G8 | G6 G2 | %9
+ G2 BA G3 G | F2 z2 z4 | z8 | z8 | z2 G2 G3 G | GABA G3 G | G2 z2 z2 E2 | A6 =F2 | E2 A2- AE=FF | %18
+ E2 A2- AE=FF | E4 z4 | z2 =F2 A2 _B2 | AG=FG A2 _B2 | A2 AA _BAG=F | E2 C4 C2 | C6 C2 | C4 z4 | %26
+ z2 D2 ^F2 G2 | FEDE F2 G2 | FEFG A3 A | G2 G2 B2 c2 | BAGA B2 c2 | B2 G2 G2 F2 | F2 EE E2 D2 | %33
+ D2 z2 z4 | z2 G4 G2 | G8- | G6 G2 | F6 z2 | z6 D2 | A3 A GFED | D4 z2 D2 | A4 GFED | D6 =F>F | %43
+ E4 z4 | !fermata!z8 | z4 D4 | D8- | D8 | E8 | D4 D2 D2 | !fermata!D8 |] %51
+V:3
+ z | z2 G2 B2 c2 | B2 GA B2 c2 | B2 BA G2 E2 | D4 z4 | z8 | z8 | z8 | z8 | z6 A2 | d6 B2 | %11
+ A2 d^c d2 B2 | A2 AB c3 c | B2 z G B2 c2 | BAGA B2 c2 | B2 dd d=fed | c2 z A c2 d2 | %17
+ c z AB c2 d2 | cBAB c2 d2 | c4 z3 c | =f6 d2 | c2 =fe f2 d2 | c2 cc dc_BA | G2 c2 e2 =f2 | %24
+ edcd e2 =f2 | e2 ed ^c3 c | d8 | d6 d2 | d6 d2 | G8- | G8- | G2 d2 E2 c2 | D2 BB C2 A2 | %33
+ G2 z2 z4 | z2 _B4 B2 | _B8 | A6 A2 | A6 z2 | z6 =B2 | c8 | B8 | c6 c2 | B6 B>B | c4 z4 | %44
+ !fermata!z8 | z4 B4 | F4 G4 | A4 B4 | c8 | B4 A2 A2 | !fermata!B8 |] %51
+V:4
+ z | z8 | z8 | z8 | z8 | z8 | z6 D,2 | G,6 E,2 | D,2 G,F, G,2 E,2 | D,2 G,F, E,3 E, | %10
+ D,2 z D, F,2 G,2 | F,E,D,E, F,2 G,2 | F,E,F,G, A,3 A, | G,8 | G,6 G,2 | G,2 G,=F, E,D,C,B,, | %16
+ A,,8 | A,,6 A,,2 | A,,6 A,,2 | A,,2 A,A, _B,A,B,G, | =F,4 z2 _B,,2 | =F,>F, F,2 z2 _B,,D, | %22
+ =F,>F, F,2 z2 F,2 | C6 A,2 | G,2 C=B, C2 A,2 | G,2 G,G, A,G,=F,E, | D,4 z2 G,,2 | %27
+ D,>D, D,2 z2 G,,B,, | D,>D, D,2 z2 D,2 | G,6 E,2 | D,2 G,F, G,2 E,2 | D,2 B,2 C2 A,F, | %32
+ B,2 G,E, A,2 F,D, | G,2 G,4 G,2 | E,4 E,2 D,2 | ^C,8- | C,6 ^C,2 | D,8- | D,8- | D,8- | D,8- | %41
+ D,4 z2 D,2 | G,3 =F, E,2 D,2 | C,4 z4 | !fermata!z8 | z8 | D,8 | D,8 | C,4 A,,4 | D,4 D,2 D,2 | %50
+ !fermata![G,,G,]8 |] %51
+

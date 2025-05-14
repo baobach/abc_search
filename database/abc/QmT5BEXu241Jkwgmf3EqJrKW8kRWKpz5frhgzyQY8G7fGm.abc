@@ -1,0 +1,108 @@
+X:1
+T:In lectulo meo
+T:Leon Leoni
+T:In lectulo meo
+C:Leon Leoni
+%%score [ 1 2 ] { ( 3 5 ) | 4 }
+L:1/8
+Q:1/4=116
+M:4/4
+K:C
+V:1 alto1 nm="Cantus" snm="C"
+V:2 bass nm="Bassus" snm="B"
+V:3 treble nm="Partitura" snm="Part."
+V:5 treble 
+V:4 bass 
+V:1
+ x8 | z2 z2 z2 x2 | z4 A4 | A4 A2 F2 | G8 | A2 A2 c4 | B4 z2 A2 | c8 | B2 B2 c3 B | A2 A2 B3 A | %10
+w: ||In|le- ctu- lo|me-|o, per no-|ctes, quae-|si-|vi quem di- li-|git, quem di- li-|
+ G4 z2 G2- | GG F2 E4 | ^F4 z2 B2 | c3 B A2 d2- | dd c2 B4 | ^c4 z2 A2 | B2 ^c2 d4 | A4 z2 G2 | %18
+w: git a-|* ni- ma me-|a, quem|di- li- git a-|* ni- ma me-|a: Quae-|si- vi il-|lum, et|
+ FGAB c4- | c2 A2 G3 A | BcdB c3 B/A/ | GE A4 ^G2 | A2 A2 c3 B/A/ | G2 A2 _BAGF | E2 D2 E4 | D8 | %26
+w: non _ _ _ _|_ in- ve- *|||ni, et non _ _|_ in- ve- * * *||ni.|
+[M:3/2][Q:1/4=174] F2 G2 A2 F2 E4 | D8 z4 | F2 G2 A2 F2 E4 | D8 z4 | z12 | A4 A4 A4 | %32
+w: Sur- * * * *|gam,|Sur- * * * *|gam,||et cir- cu-|
+ G2 F2 G2 E2 F2 G2 | A2 G2 A2 B2 c2 A2 | _B8 A4 | z12 | c4 c4 _B4 | A2 _B2 c2 B2 A2 F2 | G8 F4 | %39
+w: i- * * * * *||* bo,||et cir- cu-|i- * * * * *|* bo|
+ G2 F2 G2 A2 _B4 | A4 A8 | A12 | c2 d2 e2 c2 B4 | A8 z4 | c2 d2 e2 c2 B4 | A12 | z12 | e4 e4 e4 | %48
+w: ci- * * * *|vi- ta-|tem,|Sur- * * * *|gam,|Sur- * * * *|gam,||et cir- cu-|
+ d2 c2 d2 B2 c4 | B12 | z12 | c4 c4 c4 | B2 A2 B2 G2 A4 | G12 | c4 c4 _B4 | A6 A2 G4 | c4 B8 | %57
+w: i- * * * *|bo,||et cir- cu-|i- * * * *|bo,|et cir- cu-|i- bo ci-|vi- ta-|
+[M:4/4][Q:1/4=116] A8 | z2 A2 d4 | c2 A2 B2 c2 | d4 c4 | z2 F2 A4 | G2 E2 F2 G2 | ABcABABG | %64
+w: tem:|Per vi-|cos et per pla-|te- as,|Per vi-|cos et per pla-|te- * * * * * * *|
+ AB c4 B2 | c8 |[M:6/4] c2 c2 d2 e3 d c2 | d2 d2 ^c2 d2 d2 z2 | z12 | A2 A2 d2 c3 B A2 | %70
+w: |as|Quae- ram quem di- li- git|a- ni- ma me- a,||Quae- ram quem di- li- git|
+ c2 B2 B2 A2 A2 z2 | z12 | c2 c2 d2 e3 d c2 | d2 d2 ^c2 d2 d2 z2 | z6 A2 G2 E2 |[M:4/4] ^F8 | %76
+w: a- ni- ma me- a,||Quae- ram quem di- li- git|a- ni- ma me- a,|a- ni- ma|me-|
+ ^F4 z2 A2 | B2 ^c2 d4 | A4 z2 G2 | FGAB c4- | c2 A2 G3 A | BcdB c3 B/A/ | GE A4 ^G2 | A8 | %84
+w: a: Quae-|si- vi il-|lum, et|non _ _ _ _|_ in- ve- *|||ni,|
+ z2 c2 _BAGF | E2 D2 E4 | D2 A2 dcd_B | AGFE D2 E2 | F4 E4 | z2 G2 A2 B2 | c8 | !fermata!B8 |] %92
+w: et non _ _ _|_ in- ve-|ni, et non _ _ _|_ _ _ _ _ in-|ve- ni,|et non in-|ve-|ni.|
+V:2
+ x8 | z2 z2 z2 x2 | A,,8 | D,4 D,2 D,2 | C,8 | F,,4 z2 C,2 | G,4 D,2 D,2 | A,3 A,, C,2 D,2 | %8
+w: ||In|le- ctu- lo|me-|o, per|no- ctes, quae-|si- * * *|
+ E,4 z2 A,,2 | D,3 D, G,,4 | z2 C,3 C, G,,2 | A,,8 | D,2 D,2 G,3 G, | C,2 F,3 F, D,2 | E,8 | A,,8 | %16
+w: vi quem|di- li- git|a- ni- ma|me-|a, quem di- li-|git a- ni- ma|me-|a:|
+ z4 D,4 | ^C,2 D,2 G,,4 | D,4 z4 | z2 F,2 C,D,E,F, | G,2 G,,2 A,,B,,C,D, | E,2 D,C, D,2 E,2 | %22
+w: Quae-|si- vi il-|lum,|et non _ _ _|_ in- ve- * * *||
+ A,,4 z2 F,2 | E,C,E,F, G,2 G,,2 | A,,8 | D,8 |[M:3/2] z12 | D,2 E,2 F,2 D,2 A,4 | D,8 z4 | %29
+w: ni, et|non _ _ _ _ in-|ve-|ni.||Sur- * * * *|gam,|
+ D,4 D,4 D,4 | C,2 B,,2 C,2 A,,2 _B,,4 | F,,12 | z12 | A,4 A,4 A,4 | G,2 F,2 G,2 E,2 F,4 | C,8 z4 | %36
+w: et cir- cu-|i- * * * *|bo,||et cir- cu-|i- * * * *|bo,|
+ z12 | F,4 F,4 F,4 | E,2 D,2 E,2 C,2 D,4 | C,8 G,4 | D,4 A,8 | D,12 | z12 | %43
+w: |et cir- cu-|i- * * * *|bo ci-|vi- ta-|tem,||
+ A,,2 B,,2 C,2 A,,2 E,4 | A,,8 z4 | A,4 A,4 A,4 | G,2 F,2 G,2 E,2 F,4 | C,12 | z12 | G,4 G,4 F,4 | %50
+w: Sur- * * * *|gam,|et cir- cu-|i- * * * *|bo,||et cir- cu-|
+ E,2 D,2 E,2 C,2 D,4 | C,12 | z12 | C,4 C,4 C,4 | A,,2 G,,2 A,,2 F,,2 G,,4 | F,,8 C,4 | A,,4 E,8 | %57
+w: i- * * * *|bo,||et cir- cu-|i- * * * *|bo ci-|vi- ta-|
+[M:4/4] A,,8 | z8 | z8 | z4 A,,4 | D,4 C,2 A,,2 | B,,2 C,2 D,4 | A,,4 z2 E,2 | F,2 F,2 G,4 | C,8 | %66
+w: tem:|||Per|vi- cos et|per pla- te-|as, et|per pla- te-|as|
+[M:6/4] z12 | z4 z2 D,2 D,2 A,2 | G,3 F, E,2 F,2 G,2 A,2 | D,2 D,2 z4 z4 | z4 z2 A,,2 A,,2 D,2 | %71
+w: |Quae- ram quem|di- li- git a- ni- ma|me- a,|Quae- ram quem|
+ C,3 B,, A,,2 C,2 D,2 E,2 | A,,2 A,,2 z2 z2 z4 | z4 z2 D,2 D,2 A,2 | G,3 F, E,2 F,2 G,2 A,2 | %75
+w: di- li- git a- ni- ma|me- a,|Quae- ram quem|di- li- git a- ni- ma|
+[M:4/4] D,8 | D,4 z4 | z4 D,4 | ^C,2 D,2 G,,4 | D,4 z4 | z2 F,2 C,D,E,F, | G,2 G,,2 A,,B,,C,D, | %82
+w: me-|a:|Quae-|si- vi il-|lum,|et non _ _ _|_ in- ve- * * *|
+ E,2 D,C, D,2 E,2 | A,,4 z2 F,2 | E,C,E,F, G,2 G,,2 | A,,8 | D,8 | z4 z2 A,2 | %88
+w: |ni, et|non _ _ _ _ in-|ve-|ni,|et|
+ D,E,F,G, A,3 G,/F,/ | E,D,C,B,, A,,2 E,2 | A,,8 | !fermata!E,8 |] %92
+w: non _ _ _ _ _ _|_ _ _ _ _ in-|ve-|ni.|
+V:3
+ x8 | z2 z2 z2 x2 | z4 A4 | [FA]4 [FA]2 [DF]2 | F4 E4 | [CF]4 [CG]4 | [EG]4 ^F4 | [EA]6 [DAc]2 | %8
+ [GB]4 c3 B | [^FA]4 G4 | [CEG]8 | E8 | [DA]4 [DGB]4 | [FA]6 G2 | A4 ^G4 | x8 | E4 ^F4 | A4 B4 | %18
+ A8 | F4 E4 | G4 A4 | B4 B4 | c4 A4 | E4 D4 | E8 | ^F8 |[M:3/2] d4 d4 d4 | A8 z4 | d4 d4 d4 | A12 | %30
+ G12 | [DFA]12 | c4 c4 _B4 | A8 z4 | d4 d4 d4 | [EG]12 | F8 [CE]4 | F12 | _B4 B4 A4 | G12 | %40
+ A4 ^c8 | [^Fd]12 | E4 E4 ^G4 | A4 A4 A4 | E4 E4 ^G4 | [EAc]12 | B4 B4 A4 | [Gc]12 | B4 B4 c4 | %49
+ [Bd]12 | G4 G4 G4 | A12 | d4 d4 d4 | e12 | A4 A4 c4 | c12 | A4 ^G8 |[M:4/4] A8 | z2 A2 [GB]4 | %59
+ c4 [GB]2 [Gc]2 | A4 [Ac]4 | F4 [CF]4 | [DG]2 [EG]2 [FA]2 [EG]2 | F4 G2 [EG]2 | [DF]4 [DG]4 | C8 | %66
+[M:6/4] G2 A2 A2 c3 d e2 | d2 _B2 A2 ^F2 F2 E2 | E3 F G2 B2 c2 d2 | A2 A2 B2 c3 d c2 | %70
+ A2 d2 d2 ^c2 c2 A2 | e3 d c2 G2 A2 [^GB]2 | A2 A2 B2 G3 F E2 | G2 _B2 A2 [^FA]2 [FA]2 [Ec]2 | %74
+ [Bd]3 [Ac] [^GB]2 A2 B2 ^c2 |[M:4/4] d8 | A4 z2 A2 | E2 E2 ^F4 | E2 ^F2 D4 | D4 FGAB | %80
+ c2 F2 G3 F | E2 E2 E4 | c4 B4 | ^c4 z4 | c4 _B4 | A8 | ^F4 G4 | [FA]6 [CE]2 | F4 E4 | %89
+ E4 [CFA]2 [B,EG]2 | [A-ce]8 | A2 ^G2 !fermata!G4 |] %92
+V:4
+ x8 | z2 z2 z2 x2 | A,,8 | D,4 D,2 D,2 | C,8 | F,,2 F,,2 C,4 | G,,2 G,,2 D,4 | A,,8 | %8
+ E,,2 E,,2 A,,3 A,, | D,,2 D,2 G,3 G, | C,2 C,3 C, G,,2 | A,,6 A,,2 | D,3 D, G,,4 | %13
+ C,2 F,3 F, D,2 | E,8 | A,,4 A,4 | ^G,2 A,2 D,4 | ^C,2 D,2 G,,4 | D,4 A,,4 | F,,G,,A,,B,, C,4 | %20
+ G,,4 A,,B,,C,D, | E,2 D,C, D,2 E,2 | A,,6 F,,2 | C,4 G,,4 | A,,8 | D,8 | %26
+[M:3/2] D,2 E,2 F,2 D,2 A,4 | D,8 A,,4 | D,2 E,2 F,2 D,2 A,4 | D,4 D,4 D,4 | %30
+ C,2 B,,2 C,2 A,,2 _B,,4 | F,4 F,4 F,4 | E,2 D,2 E,2 C,2 D,4 | A,4 A,4 A,4 | G,2 F,2 G,2 E,2 F,4 | %35
+ C,4 C,4 _B,,4 | A,,2 G,,2 A,,2 F,,2 G,,4 | F,,8 F,4 | E,2 D,2 E,2 C,2 D,4 | C,8 G,,4 | D,4 A,,8 | %41
+ D,12 | A,,2 B,,2 C,2 A,,2 E,4 | A,,8 E,4 | A,,2 B,,2 C,2 A,,2 E,4 | A,4 A,4 A,4 | %46
+ G,2 F,2 G,2 E,2 F,4 | C4 C4 C4 | B,2 A,2 B,2 G,2 A,4 | G,4 G,4 F,4 | E,2 D,2 E,2 C,2 D,4 | %51
+ C,4 E,4 F,4 | G,2 F,2 G,2 E,2 F,4 | C,4 C,4 C,4 | A,,2 G,,2 A,,2 F,,2 G,,4 | F,,8 C,4 | A,,4 E,8 | %57
+[M:4/4] A,,8 | D,8 | A,4 G,2 E,2 | F,2 G,2 A,4 | D,4 C,2 A,,2 | B,,2 C,2 D,4 | A,4 G,2 E,2 | %64
+ F,2 F,2 G,4 | C,8 |[M:6/4] C2 A,2 D2 C3 B, A,2 | _B,2 G,2 A,2 D,2 D,2 A,2 | %68
+ G,3 F, E,2 F,2 G,2 A,2 | D,2 F,2 G,2 A,3 G, F,2 | C,2 D,2 E,2 A,,2 A,,2 D,2 | %71
+ C,3 B,, A,,2 C,2 D,2 E,2 | A,,2 A,2 G,2 C3 B, A,2 | _B,2 G,2 A,2 D,2 D,2 A,2 | %74
+ G,3 F, E,2 F,2 G,2 A,2 |[M:4/4] D,8 | D,4 A,4 | ^G,2 A,2 D,4 | ^C,2 D,2 G,,4 | D,4 A,,4 | %80
+ F,,G,,A,,B,, C,4 | G,,4 A,,B,,C,D, | E,2 D,C, D,2 E,2 | A,,6 F,,2 | C,4 G,,4 | A,,8 | D,4 D,4 | %87
+ D,6 A,2 | D,4 A,4 | E,4 A,2 E,2 | A,,8 | !fermata!E,8 |] %92
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | E8 | x8 | x8 | D4 ^C4 | x8 | x8 | E8 | [EA]8 | x8 | x8 | %18
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:3/2] x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %34
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %50
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 |[M:4/4] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %66
+[M:6/4] x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 |[M:4/4] x8 | x8 | x8 | x8 | x8 | x8 | %81
+ x8 | x8 | x8 | G8 | [^CE]2 [B,D]2 [CE]4 | x8 | x8 | x8 | x8 | x8 | E8 |] %92
+

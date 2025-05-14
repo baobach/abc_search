@@ -1,0 +1,31 @@
+X:1
+T:Allegro 10
+T:Allegro 10
+T:Mozart
+C:Mozart
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=90
+M:3/8
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+!mp! d/B/G/d/e/c/ | d/B/G/d/e/c/ | d/g/f/e/d/c/ | c/B/A/B/G | z/ B/A/G/F/E/ | z/ ^c/B/A/G/F/ | %6
+ z/"_cresc." d/^c/B/A/G/ | z/ e/d/^c/B/A/ | z/ f/e/f/g/e/ | z/ f/e/f/g/e/ | %10
+ z/ [df]/ z/ [df]/ z/ [df]/ | z/ [df]/ z/ [df]/ z/ [df]/ | (3e/f/g/f/e/d/^c/ | ^c d2 | %14
+ (A/F/D/A/B/G/ | A/F/D/A/B/G/) | (A/d/^c/B/A/G/ | G/F/E/F/)D | (F/G/A/B/c/A/ | BA) z | %20
+ z/ (=f/e/d/c/B/ | c/B/A/^G/A) | z/ (e/d/c/B/A/ | B/A/G/F/G) | c/B/A/G/F/E/ | E^D z | %26
+ (B/G/E/B/c/A/ | B/G/E/B/c/A/) | (B/e/^d/e/f/d/ | e/g/f/g/a/f/) | z/ [eg]/ z/ [eg]/ z/ [eg]/ | %31
+ z/ [eg]/ z/ [eg]/ z/ [eg]/ | (3(f/g/a/g/f/e/^d/) | ^de z | z/ (=f/e/d/c/B/ | c/B/A/^G/A) | %36
+ z/ (e/d/c/B/A/ | B/A/G/F/G) | z/"_cresc." A/G/F/E/D/ | z/ B/A/G/F/E/ | z/ c/B/A/G/F/ | %41
+ z/ d/c/B/A/G/ | (ed/c/d/B/ | (3c/d/e/d/c/B/A/) | z/ [GB]/ z/ [GB]/ z/ [GB]/ | %45
+ z/ [GB]/ z/ [GB]/ z/ [GB]/ |"_dim." (3(A/B/c/B/A/G/F/ | G3) |] %48
+V:2
+ G,B,C | G,B,C | B,D,F, | G,D,B,, | G,,2 z | A,,2 z | B,,2 z | ^C,2 z | D,^C,B,, | D,/D/^CA, | %10
+ D^CB, | A,G,F, | G,A,A,, | D,A,,D,, | D,F,G, | D,F,G, | F,A,^C | DA,F, | D,F,D, | G,D/C/B,/A,/ | %20
+ ^G,3 | A,B,C/4B,/4A,/4G,/4 | F,3 | G,A,B, | A,CA, | B,B,/A,/G,/F,/ | E,G,A, | E,G,A, | G,B,A, | %29
+ G,/E/^DB, | EDC | B,A,G, | A,B,B,, | E,G,/A,/B,/A,/ | ^G,3 | A,B,C/4B,/4A,/4G,/4 | F,3 | %37
+ G,A,(3B,/A,/G,/ | F,2 z | G,2 z | A,2 z | B,2 z | CB,G, | A,F,F, | G,F,E, | D,C,B,, | C,D,D,, | %47
+ G,,3 |] %48
+

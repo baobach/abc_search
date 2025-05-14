@@ -1,0 +1,51 @@
+X:1
+T:The Ill-Tempered Clavier, Op. 3
+T:The Ill-Tempered Clavier, Op. 3
+T:Paige Youden
+C:Paige Youden
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=80
+M:4/4
+K:C
+V:1 treble nm="Clavichord" snm="Cch."
+V:2 bass 
+V:1
+ C2 E2 G2 cA | C2 D2 F2 BA | C2 D2 E2 GF | C2 D2 E2 FD | C2 B,2 E2 GF | C2 B,2 D2 FE | %6
+ C2 B,2 C2 EF | C2 B,2 F2 BA | C2 D2 EFAG | C2 B,2 DEGF | C2 B,2 CDED | C2 B,2 CEDC | %12
+ C2 DC EF A/G/A/F/ | C2 B,C DE G/E/G/D/ | C2 B,E CD E/A/F/E/ | C2 B,D CE D/C/F/E/ | %16
+ CDB,D CD E/F/E/D/ | F/C/E/D/ CB, CDB,C | CDB,D A,C B,/D/C/D/ | D/E/F/G/ ED CB,DC | %20
+ C/D/B,/C/ B,D C/4D/4E/4F/4D E/F/E/D/ | C/B,/D/C/ DC B,/4C/4D/4C/4D/4C/4B,/4C/4 D/E/C/F/ | %22
+ C/D/E/D/ B,C D/4C/4D/4E/4E/4D/4C/4B,/4 GE/D/ | %23
+ FB,/D/ B,/4C/4D/4E/4D F/4D/4C/4D/4C/4 z/4 C/4D/4 B,/D/B, | %24
+ z E/D/ B,/4D/4C/4B,/4C D2 G/F/E/4E/4D/4C/4 | %25
+ B/4G/4A/4F/4G/4 z/4 E2 BE/G/ z/ D/F/4A/4F/4A/4B/4c/4 | %26
+ F/A/4d/4G B/ z/ F/ z/ c/4 z/4 A/4 z/4 F/4E/4F/4 z/4 [CEG]2 || %27
+[K:C#] G/4 z/4 A/4F/4G/4 z/4 E2 BE/G/ z/ D/F/4A/4F/4A/4B/4c/4 | %28
+ [GBd]G B/ z/ F/ z/ c/4 z/4 A/4 z/4 F/4E/4F/4 z/4 B/4 z/4 A/4 z/4 G/4 z/4 C/ || %29
+[K:Cb] z2 z/4 F/4E/4F/4 z/4 A/4 z/4 c/4 z/ F/ z/ B/ G[GBd] | %30
+ c/4B/4A/4F/4A/4F/4D/ z/ G/E/B E2 z/4 G/4F/4A/4G/4B/4 ||[K:E] E/4 z/4 [EF]/F/G/ ED CB,DC | %32
+ D/C/D/B,/ CA, DB, [DFA]2 || %33
+[K:Ab] [FAc]F AG/4 z/4 [FA]/4F/4 B/4G/4E/4 z/4 C/4 z/4 E/4 z/4 C/4 z/4 z/ [FAc] | %34
+ [FAc] z/ z/4 C/4 z/4 E/4 z/4 C/4 z/4 E/4G/4B/4 F/4[FA]/4 z/4 G/4A F z | %35
+[K:C] ^D/^C/D/B,/ CA, DB, [D^FA]2 | z2 B,^D A,^C B,/D/C/D/ | =F/=C/_E/_D/ C_B, CDB,C | %38
+ _D/_E/F/E/ DC D_B,D z | G=E C2 =D2 C2 | CF C2 D2 C2 | B,C B,2 D2 E2 | CD B,2 D2 C2 | %43
+ B,c F2 B,2 C2 | FC D2 B,2 C2 | DB, F2 B,2 C2 | ED E2 D2 C2 | C8 |] %48
+V:2
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | G,4 B,4 | A,4 G,4 | G,4 A,4 | z8 | z8 | z8 | z8 | z8 | %16
+ G,2 z2 z4 | A,2 z2 z4 | z8 | A,2 z2 z4 | z8 | z8 | %22
+ z B,/D/ B,/4D/4C/4B,/4C D2 C/B,/C/4A,/4G,/4C/4 | %23
+ C/B,/A,/B,/ F,C B,/4C/4B,/4A,/4A,/4B,/4 z/4 G,/4 F,/G,/A,/B,/ | z8 | [B,C]2 z2 [A,C]2 z2 | %26
+ [D,A,]2 z2 [A,C]2 z2 || %27
+[K:C#] [G,B,D]G, B,/ z/ G,/ z/ C/4 z/4 A,/4 z/4 F,/4E,/4F,/4 z/4 B,/4 z/4 A,/4 z/4 G,/4 z/4 C,/ | %28
+ z4 z2 B,2 ||[K:Cb] ^G,/4 z/4 ^A,/4^F,/4G,/4 z/4 ^E,2 ^B,E,/G,/ z/ ^D,/F,/4A,/4F,/4A,/4B,/4^C/4 | %30
+ z2 z/4 _F,/4_E,/4F,/4 z/4 _A,/4 z/4 _C/4 z/ F,/ z/ _B,/ G,[G,B,] || %31
+[K:E] z2 z/4 _F,/4_E,/4F,/4 z/4 _A,/4 z/4 _C/4 z/ F,/ z/ _B,/ _G,[G,B,_D] | %32
+ ^D,/^C,/D,/=B,,/ C,=A,, D,B,, [D,^F,=A,]2 || %33
+[K:Ab] F,E,/4E,/4[E,G,]/4 z/4 G,/4 z/4 [D,F,A,]/4 z/4 G,/4 z/4 G,/4 z/4 B,,/4E,/4G,/4 z/4 [F,A,]/4F,/4C/4 z/4 G,/4 z/4 z/ z | %34
+ z z/ z/4 G,/4 z/4 C/4F,/4[F,A,]/4 z/4 G,/4E,/4B,,/4 z/4 G,/4 z/4 G,/4 z/4 [D,F,A,]/4 z/4 G,/4 z/4 [E,G,]/4E,/4E,/4F, | %35
+[K:C] ^D,/^C,/D,/B,,/ C,A,, D,B,, [D,^F,A,]2 | [^D,^F,A,]2 B,,D, A,,^C, B,,/D,/C,/D,/ | %37
+ z z/ z/4 =C,/4 z/4 _E,/4 z/4 C,/4 z/4 E,/4G,/4 z/4 =F,/4[F,_A,]/4 z/4 G,/4A, F,[F,A,] | %38
+ [C,G,C]/[G,B,]/[G,C]/[C,B,]/ C/ z/ G,/ z/ A,/ z/ =E,/ z/ _B,2 | C2 G,2 z4 | A,CA, z [G,C] z A, z | %41
+ z4 z2 C2 | G,2 z2 z4 | z4 z2 A,2 | G,A, z2 z4 | z8 | z8 | A,8 |] %48
+

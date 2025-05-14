@@ -1,0 +1,77 @@
+X:1
+T:Moonlight Sonata
+%%score ( 1 2 ) 3 4 5
+L:1/8
+Q:1/4=60
+M:4/4
+K:F
+V:1 treble transpose=-7 nm="Horn" snm="Hn."
+V:2 treble transpose=-7 
+V:3 bass+8 nm="Trombone" snm="Trb."
+V:4 bass-8 nm="C Tuba" snm="C Tu."
+V:5 treble transpose=-2 nm="B Trumpet" snm="B Tpt."
+V:1
+[K:F]!mf!"^Slow" z8 | z8 | z8 | z8 | z6 e>e | e6 e>e | e4 f4 | e4 d2 g2 | c4 z4 | z6 _e>e | %10
+ e6 e>e | _e6 d2 | d2 _e4 c2 | d4 d4 | G4 z2 g2 | _a6 ^f2 | g6 g2 | _a6 ^f2 | g4 g4 | g4 f4 | %20
+ _e4 d4 | A4 A2 A2 | z6 a>a | a6 a>a | a4 _a2 =a2 | =b6 b2 | c'4 =b2 a2 | z2 e2 f2 c2 | %28
+ z2 e2 f2 d2 | z2 a2 c'2 a2 | z2 A2 c2 A2 | z8 | z8 | z8 | z8 | z8 | z8 | z4 =B2 A2 | _A4 =B2 =A2 | %39
+ _A4 z4 | z8 | z6 e>e | e6 e>e | e4 f4 | e4 d2 g2 | c4 z2 g>g | g6 g>g | g4 _a2 =a2 | =b4 c'4 | %49
+ b4 _a4 | a6 a2 | b6 _a2 | a6 a2 | =b6 a2 | a4 a4 | g6 g2 | f2 f2 e2 e2 | d4 e2 f2 | e4 e4 | %59
+ A4 z4 | z8 | z8 | z6 _A2 | z8 | z6 _A2 | z8 | z8 | z8 | (3(EAc !fermata!e6) | .A2 z2 z4 |] %70
+V:2
+[K:F] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | _a6 ^f2 | x8 | %17
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %36
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %55
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %70
+V:3
+!f!"^Breath as needed at the end of measures" (3A,,D,F, (3A,,D,F, (3A,,D,F, (3A,,D,F, | %1
+ (3A,,D,F, (3A,,D,F, (3A,,D,F, (3A,,D,F, | (3B,,D,F, (3B,,D,F, (3B,,_E,G, (3B,,E,G, | %3
+ (3A,,^C,G, (3A,,D,F, (3A,,D,E, (3G,,C,E, | (3A,,D,F, (3A,,D,F, (3A,,D,F, (3A,,D,F, | %5
+ (3A,,E,G, (3A,,E,G, (3A,,E,G, (3A,,E,G, | (3A,,D,F, (3A,,D,F, (3B,,D,G, (3B,,D,G, | %7
+ (3A,,C,F, (3A,,C,F, (3B,,C,E, (3B,,C,E, | (3A,,C,F, (3A,,C,F, (3A,,C,F, (3A,,C,F, | %9
+ (3_A,,C,F, (3A,,C,F, (3A,,C,F, (3A,,C,F, | (3_A,,C,_G, (3A,,C,G, (3A,,C,G, (3A,,C,G, | %11
+ (3_A,,_D,F, (3A,,C,F, (3A,,=D,F, (3=B,,=D,F, | (3G,,C,_E, (3G,,C,E, (3_A,,C,D, (3F,,C,D, | %13
+ (3G,,C,_E, (3G,,C,E, (3G,,=B,,D, (3G,,B,,D, | (3C,_E,G, (3C,E,G, (3C,=E,G, (3C,E,G, | %15
+ (3C,F,_A, (3C,F,A, (3C,F,A, (3C,F,A, | (3C,E,G, (3C,E,G, (3C,E,G, (3C,E,G, | %17
+ (3C,F,_A, (3C,F,A, (3C,F,A, (3C,F,A, | (3C,E,G, (3C,E,G, (3C,_E,_G, (3C,E,G, | %19
+ (3C,D,A, (3C,D,A, (3B,,D,G, (3B,,D,G, | (3_A,,C,_E, (3A,,C,E, (3G,,B,,=E, (3G,,B,,E, | %21
+ (3D,,G,,B,, (3D,,G,,B,, (3D,,G,,A,, (3D,,_G,,A,, | (3G,,B,,D, (3B,,D,G, (3D,G,B, (3D,G,B, | %23
+ (3D,A,C (3D,A,C (3D,A,C (3D,A,C | (3D,G,B, (3D,G,B, (3_D,G,B, (3=D,G,B, | %25
+ (3E,G,A, (3E,G,A, (3E,G,A, (3E,G,A, | (3F,A,D (3F,A,D (3E,G,B, (3D,F,=B, | %27
+ (3^C^C,E, (3A,C,E, (3B,C,E, (3G,C,E, | (3z ^C,E, (3A,,C,E, (3B,,C,E, (3G,,C,E, | %29
+ (3F,,F,,A,, (3D,F,,A,, (3F,F,,A,, (3D,F,,A,, | (3z F,,A,, (3D,F,,A,, (3F,F,,A,, (3D,F,,A,, | %31
+ (3E,,B,,G,, z6 | A,,,8 | A,,,8 | A,,,8 | A,,,8 | z2 (3B,,^C,G,, (3B,,E,,G,, (3D,,G,,B,, | %37
+ (3_D,,G,,A,, (3B,,A,,G,, (3E,,G,,B,, (3=D,,G,,B,, | %38
+ (3_D,,G,,A,, (3B,,A,,G,, (3E,,G,,B,, (3=D,,G,,B,, | %39
+ (3^C,,G,,A,, (3B,,A,,G,, (3D,,F,,D, (3D,,F,,D, | (3E,,B,,D, (3E,,B,,D, (3E,,A,,_D, (3E,,G,,D, | %41
+ (3F,,A,,D, (3A,,D,F, (3A,,D,F, (3A,,D,F, | (3A,,E,G, (3A,,E,G, (3A,,E,G, (3A,,E,G, | %43
+ (3A,,D,F, (3A,,D,F, (3B,,D,G, (3B,,D,G, | (3A,,C,F, (3A,,C,F, (3B,,C,E, (3B,,C,E, | %45
+ (3A,,C,F, (3C,F,A, (3C,F,A, (3A,,F,A, | (3C,G,B, (3C,G,B, (3C,G,B, (3C,G,B, | %47
+ (3C,F,A, (3C,F,A, (3_D,G,A, (3=D,F,A, | (3E,G,A, (3E,G,A, (3F,A,D (3F,A,D | %49
+ (3_E,G,B, (3E,G,B, (3_D,G,A, (3D,G,A, | (3D,F,A, (3D,F,A, (3D,^F,A, (3D,F,A, | %51
+ (3D,G,B, (3D,G,B, (3D,G,B, (3D,G,B, | (3D,^F,A, (3D,F,A, (3D,F,A, (3D,F,A, | %53
+ (3D,G,B, (3D,G,B, (3D,G,B, (3D,G,B, | (3D,^F,A, (3D,F,A, (3D,G,B, (3D,G,B, | %55
+ (3C,G,B, (3C,G,B, (3C,G,B, (3C,F,A, | (3B,,F,A, (3B,,E,G, (3A,,E,G, (3A,,D,F, | %57
+ (3G,,D,E, (3G,,D,E, (3A,,D,E, (3B,,D,E, | (3A,,D,F, (3A,,D,F, (3G,,^C,E, (3G,,^C,E, | %59
+ (3F,,A,,D, (3A,,D,F, (3A,,D,F, (3A,,D,F, | (3A,,E,G, (3A,,E,G, (3A,,E,G, (3A,,E,G, | z8 | A,,,8 | %63
+ D,,8 | A,,,8 | z8 | (3z D,,F,, (3A,,F,,D,, A,,,4 | z4 A,,4- | !fermata!A,,8 | .D,,2 z2 z4 |] %70
+V:4
+!mp! D,8 | C,8 | B,,4 G,,4 | A,,4 A,,4 | D,8 | ^C,8 | D,4 G,,4 | C,4 C,4 | F,8 | !breath!F,8 | %10
+ F,8 | _D,2 C,2 =B,,4 | C,4 F,2 _A,2 | z4 G,,4 | C,8- | C,2 F,2 _A,2 F,2 | C,8- | %17
+ C,2 F,2 _A,2 F,2 | C,4 A,,4 | _G,,4 =G,,4 | C,4 _D,4 | D,4 D,4 | G,,8 | _G,8 | G,4 E,2 D,2 | %25
+ ^C,6 ^C,2 | D,4 G,,2 ^G,,2 | A,,8 | A,,8 | A,,8 | A,,8 | A,,8 | A,,8 | A,,8 | A,,8 | A,,8- | %36
+ A,,8 | A,,8 | A,,8 | A,,4 B,,4 | G,,4 A,,4 | D,8 | _D,8 | D,4 G,,4 | C,4 C,4 | F,8 | E,8 | %47
+ F,4 E,2 D,2 | _D,4 =D,4 | G,,4 A,,4 | D,8- | D,2 G,2 B,2 G,2 | D,8- | D,2 G,2 B,2 G,2 | D,4 G,,4 | %55
+ E,6 F,2 | D,2 E,2 _D,2 =D,2 | B,,4 A,,2 G,,2 | A,,4 A,,4 | D,8 | _D,8 | D,8 | A,,8 | D,8 | A,,8 | %65
+ D,8 | !breath!D,8 | D,4- D,4- | !fermata!D,8 | .D,2 z2 z4 |] %70
+V:5
+!p! e8 | d8 | c4 A4 | =B4 B4 | e8 | =B8 | e4 A4 | d4 d4 | g8 | !breath!g8 | _a8 | _e2 d2 ^c4 | %12
+ d4 G2 B2 | A4 A4 | d8- | d2 g2 b2 g2 | d8- | d2 g2 b2 g2 | d4 =B4 | _A4 =A4 | d4 _e4 | E4 E4 | %22
+ A8 | _a8 | a4 ^f2 e2 | =B6 B2 | =B4 A2 ^A2 | =B8 | =B8 | =B8 | =B8 | z2 (3_EC^F (3EAF (3cA^d | %32
+ (3G,E=B, (3GE=B (3GeB (3geB | (3E^AG (3^cAe (3cge (3^ag^c' | (3=A^dc (3^fda (3^FcA (3dcf | %35
+ (3_eAc (3^fae (3fce (3Ac^F | (3A_E^F =B6 | =B8 | =B8 | =B4 c4 | A4 =B4 | e8 | _e8 | e4 A4 | %44
+ d4 d4 | g8 | ^f8 | g4 ^f2 e2 | _e4 =e4 | A4 =B4 | e8- | e2 a2 c'2 a2 | e8- | e2 a2 c'2 a2 | %54
+ e4 A4 | ^f6 g2 | e2 ^f2 _e2 =e2 | c4 =B2 A2 | =B4 B4 | E8 | _E8 | (3=B,GE (3=BGe (3Bge (3=bge | %62
+ (3_e^fc (3eAc (3^FAC- (3C=B,A, | (3EGE (3=BGe (3Bge (3=bge | (3_e^fc (3eAc (3^FAC- (3C=B,A, | %65
+ (3E=B,E (3GEB, (3z G,B, (3EB,G, | E8 | z4 e4- | !fermata!e8 | .e2 z2 z4 |] %70
+

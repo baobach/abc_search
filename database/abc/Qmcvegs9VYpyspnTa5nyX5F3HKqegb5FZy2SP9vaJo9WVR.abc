@@ -1,0 +1,31 @@
+X:1
+T:Did you not hear my lad?
+T:Did you not hear my lady?
+T:Handel
+C:Handel
+%%score 1 2 3
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Flute" snm="Fl."
+V:2 treble transpose=-2 nm="B♭ Clarinet" snm="B♭ Cl."
+V:3 treble transpose=-2 nm="B♭ Clarinet" snm="B♭ Cl."
+V:1
+ F z B2 A2 z z | G2 G2 F2 z2 | B2 A2 F2 G2 | Ff e2 BA/G/ F2 | FG F2 F3 z | de/f/ ed cf z A | %6
+ Be/d/ cB BA z2 | de/d/ cB ed z d | GA/B/ cB A/G/F z f | Bc/d/ ee ed z c | AB/c/ dc/>B/ B3 z | %11
+ GA/B/ cB A f2 e | dc/B/ A>B B4 | FGFE D4 | F2 B2 G3 B | AFBA F3 F | GFAB F=E F2 | FGcB AA/B/ cA | %18
+ de/f/ ed cf z A | Be/d/ cB BA z2 | de/d/ cB ed z d | GA/B/ cB A/G/ F2 f | Bc/d/ ee edc z | %23
+ AB/c/ dc B3 z | GA/B/ cB A f2 e | dc/B/ A>B B4 | FGBA D4 |] %27
+V:2
+[K:C] ef/g/ fe dg z B | cd/e/ fd B/A/G z2 | ef/e/ dc f e2 d | G c'2 b c' g2 f | ed/c/ B>c c3 z | %5
+ G4 G2 B2 | A>G FD GG,{/G}gf | c2 AG Bc z G | CGAF GD G2 | E2 d/c/B/A/ dc A2 | G^FG=F EB/A/ GE | %11
+ C2 FG/A/ BBcd | cA D2 E2 c'b/a/ | gf/e/ d>c c4 | ef/g/ ag f/e/f z e | de/f/ gf e/d/ e2 d | %16
+ cd/e/ fe d/c/ d2 d | ea ^f>g g4 | c2 dc B2 G2 | EF/G/ AF DG z d | c2 AG BceG | AGAF GD g2 | %22
+ A2 F2 G2 A2 | G^FG=F EB/A/ Gc | CG FG/A/ BBcd | GA G2 G2 c'b/a/ | gf/e/ d>c c4 |] %27
+V:3
+[K:C] c2 FC GE z G | AFDF GFED | C2 FE DCFF | EedD ED/C/ B,G, | CFGG, C3 z | C2 DC B,2 G,2 | %6
+ EF/G/ AF D2{/G} d2 | C2 FE DC C2 | FEFD GFEe | A,2 D>C B,C F2 | G,A, B,/B,/B, AG/F/ EC | %11
+ FE DE/F/ GEA,B, | CFGG, Cc/B/ AG/F/ | EFGG, C4 | CD/E/ FE DA,DF | GFED CG,CE | FEDC B,A,G,B, | %17
+ CA,DD G,G,/A,/ B,G, | C2 B,C G2 E2 | A>G FD GDG,B, | E2 FE D C2 E | FEFD GFEe | A,2 D>C B,C F2 | %23
+ G,A, G,/G,/G, AG/F/ EC | FE DE/F/ GEA,B, | CFGG, Cc/B/ AG/F/ | EFGG, C4 |] %27
+

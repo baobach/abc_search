@@ -1,0 +1,26 @@
+X:1
+T:Book 2 (after Slovakian Folksongs)
+T:Book 2 (after Slovakian Folksongs)
+T:1. All Girls Will Marry
+T:Béla Bartók
+T:For Children, Sz.42 
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=130
+M:2/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^Allegro" (FGA_B | .c2) cA | .!tenuto!c2 (cA) | (!^!_B2 G2 | F2 A2) | (FGA_B | .c2) (cA) | %7
+ !tenuto!.c2 (cA) | (!^!_B2 G2 | A2 F2) |!<(! (FGA_B!<)! | .c2) (cA) | !tenuto!.c2 (cA) | %13
+ (!^!_B2 G2 | F2 A2) | (FGA_B | !tenuto!.c2) (cA) | !tenuto!.c2 (cA) | (!^!_B2 G2 | A2 F2) | %20
+!p!!<(! (FGA_B!<)! | c2) (cA) | !tenuto!.c2 (cA) | (!>!_B2 G2 | F2 A2) | %25
+[Q:1/4=100]"^T"!pp!"^poco sostenuto" (FGA_B | !tenuto!.c2) (cA) | !tenuto!.c2 (cA) | %28
+[Q:1/4=130]"^a tempo"!mp! (_B2 G2 | A2 F2) |] %30
+V:2
+ (A,.CF,C | A,CF,C | A,CF,C) | (_B,DF,D | A,CF,C) | (A,CF,C | (A,)CF,C | A,CF,C) | G,DF,D | %9
+ A,CF,C | (A,CF,C) | (A,CF,C | A,CF,C) | (_B,DF,D | A,CF,C) | (!^!F,2 E,D,) | (C,E,A,,E, | %17
+ C,E,A,,E,) |!<(! _B,,C,D,E,!<)! |!>(! F,C,A,,F,,!>)! | z4 | (A,CE,C | A,EF,E) | (_B,DF,D | %24
+ _B,DF,D) | z4 | (A,CE,C | A,CE,C) | (D,C,E,C, | F,C,A,,F,,) |] %30
+

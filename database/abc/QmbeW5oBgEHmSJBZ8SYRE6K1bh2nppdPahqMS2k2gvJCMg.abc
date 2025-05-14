@@ -1,0 +1,56 @@
+X:1
+T:Valsa Lenta
+T:Valsa Lenta
+T:Op. posth.
+T:Henrique Oswald
+C:Henrique Oswald
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=120
+M:3/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+"^Molto espressivo"!p! (FG A4) | (GA B4) |!<(! (ABcd_ef!<)! | c6) |"_cresc." (fg .f2 .f2) | %5
+ !>!c'6 |"_dim." (de .d2 .d2 | !>![cg]4) z2 |!p! (FG A4) | (GA B4) |!<(! (ABcd_ef!<)! |!mp! c6) | %12
+ z2 .f2 .f2 |!<(! [Bf]_gab=c'd'!<)! | cd .c2 .c2 | [Af]4 z2 | %16
+!mf![Q:1/4=130]"^Un poco più animato" z2 (.[_GB]2 .[GB]2) | z2 (.[FA]2 .[E_G]2) | %18
+!<(! (F_GABcd)!<)! |!<(! (ABcdef)!<)! |!mf! (f3 e dc | BA B2 c2) |!<(! (f_gabc'd')!<)! | %23
+!f! .[af']2 .[af']2 .[af']2 |!mf! z2 (.[_GB]2 .[GB]2) | z2 (.[FA]2 .[E_G]2) |!<(! (F_GABcd)!<)! | %27
+!<(! (ABcdef)!<)! |!mf! (f3 e dc | BA B2 c2) |!<(! (f_gabc'd')!<)! | %31
+"^poco rit."[Q:1/4=120]"_dim." !tenuto!.[=EBd]2[Q:1/4=100] !tenuto!.[EAc]2[Q:1/4=80] !tenuto!.[EGc]2 | %32
+!p![Q:1/4=120]"^Primo tempo" (FG A4) | (GA B4) |!<(! (ABcd_ef!<)! | c6) | %36
+"_cresc."!<(! (fg .f2 .f2)!<)! | !>!c'6 | (de .d2 .d2 | !>![cg]4) z2 | (FG A4) | (GA B4) | %42
+!<(! (ABcd_ef!<)! | c6) | z2 .f2 .f2 |!<(! ([Bf]_gab=c'd')!<)! |!p! (cd .c2 .c2 | %47
+ !tenuto![Af]4) z2 |] %48
+V:2
+ (.F,2 .C2 .C2) | (.=E2 .C2 .C2) | (.F,2 .C2 .C2) | (.=E2 .C2 .C2) | %4
+[K:treble]!ped! (!>!A2 .C2) .C2!ped-up! |!ped! (!>!G2 .C2) .C2!ped-up! | %6
+!ped! (!>!F2 .C2) .C2!ped-up! |!ped! (!>!=E2 .C2) .C2!ped-up! |[K:bass] (.F,2 .C2 .C2) | %9
+ (.=E2 .C2 .C2) | (.F,2 .C2 .C2) | (.=E2 .C2 .C2) |!ped! D,2[K:treble] .[DA]2 .[DA]2!ped-up! | %13
+!ped! !>![_G,D_G]4 z2!ped-up! |[K:bass]!ped! !>!C,2[K:treble] (.[CA]2 .[CG]2)!ped-up! | %15
+!ped! ([CF]2 F,2)!ped-up! .F2 |!ped! (F3 E DC!ped-up! | B,A, B,2 C2) |!ped! (E4 D2)!ped-up! | %19
+!ped! (_G4 F2)!ped-up! |!ped! z2 (.[_gb]2 .[gb]2) | z2 (.[fa]2 .[e_g]2)!ped-up! | %22
+!ped! (!>!e4 d2)!ped-up! |!ped! .[Fc]2 .[Fc]2 .[Fc]2!ped-up! |!ped! (F3 E DC!ped-up! | %25
+ B,A, B,2 C2) |!ped! (E4 D2)!ped-up! |!ped! (_G4 F2)!ped-up! |!ped! z2 (.[_gb]2 .[gb]2) | %29
+ z2 (.[fa]2 .[e_g]2)!ped-up! |!ped! (!>!e4 d2)!ped-up! | %31
+[K:bass]!ped! .C,2!ped! .C2!ped-up!!ped! .C2!ped-up! | (.F,2 .C2 .C2) | (.=E2 .C2 .C2) | %34
+ (.F,2 .C2 .C2) | (.=E2 .C2 .C2) |[K:treble]!ped! (!>!A2!ped-up! .C2) .C2 | %37
+!ped! (!>!G2 .C2) .C2!ped-up! |!ped! (!>!F2 .C2) .C2!ped-up! |!ped! (!>!=E2 .C2) .C2!ped-up! | %40
+[K:bass] (.F,2 .C2 .C2) | (.=E2 .C2 .C2) | (.F,2 .C2 .C2) | (.=E2 .C2 .C2) | %44
+!ped! D,2[K:treble] .[DA]2 .[DA]2!ped-up! |!ped! !>![_G,D_G]4"^rit." z2!ped-up! | %46
+[K:bass]!ped! !>!C,2[K:treble] (.[CA]2 .[CG]2)!ped-up! |!ped! ([CF]2 .F,2) z2!ped-up! |] %48
+V:3
+ x6 | x6 | x6 | x6 | c6 | e6 | B6- | B4 x2 | x6 | x6 | x6 | x6 | (_cd .c2 .c2) | x6 | z2 .B2 .B2 | %15
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %34
+ x6 | x6 | c6 | e6 | B6- | B4 x2 | x6 | x6 | x6 | x6 | (_cd .c2 .c2) | x6 | z2 (.B2 .B2) | x6 |] %48
+V:4
+ x6 | x6 | x6 | x6 |[K:treble] x6 | x6 | x6 | x6 |[K:bass] x6 | x6 | x6 | x6 | x2[K:treble] x4 | %13
+ x6 |[K:bass] x2[K:treble] x4 | x6 | x6 | x6 | z2 !tenuto!.A,4 | z2 !tenuto!.A,4 | A6- | A6 | %22
+ z2 A4 | x6 | x6 | x6 | z2 A,4 | z2 A,4 | A6- | A6 | z2 A4 |[K:bass] x6 | x6 | x6 | x6 | x6 | %36
+[K:treble] x6 | x6 | x6 | x6 |[K:bass] x6 | x6 | x6 | x6 | x2[K:treble] x4 | x6 | %46
+[K:bass] x2[K:treble] x4 | x6 |] %48
+

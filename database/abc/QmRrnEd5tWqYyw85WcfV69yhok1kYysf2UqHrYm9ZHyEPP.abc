@@ -1,0 +1,23 @@
+X:1
+T:Title
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:6/4
+K:D
+V:1 treble nm="Grand Piano"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ F2 G2 [DF]2 [DA]4 [DA]2 | G2 A2 [CB]2 [DB]4 [DA]2 | B2 c2 [GB]2 [DA]4 [DF]2 | .F6 z6 | .F6 z6 | %5
+ D2- [DB]2 [^Gd]2 d2 c2 [=FB]2 | [FA]2 D2 [CE]2 .D6 | [DG]6 .[DF]6 |] %8
+V:2
+ .D6 z6 | .C6 z6 | .G6 z6 | B,2- [B,E]2 [B,D]2 [CE]6 | =C2- [CE]2 D2 D4 [DG]2 | .^G6 .=G6 | x12 | %7
+ x12 |] %8
+V:3
+ z2 B,2 [D,A,]2 [F,A,]4 [F,A,]2 | [E,A,]4 [G,A,]2 [F,A,]4 [F,A,]2 | D2 E2 [G,D]2 [F,D]4 [D,A,]2 | %3
+ [E,^G,]4 [E,A,]2 A,2- [=G,A,-]2 [E,A,]2 | A,2- [E,A,]2 [F,A,]2 [G,B,]4 [G,B,]2 | %5
+ [E,B,]4 [E,E]2 [A,,E]4 [^G,,D]2 | D2 D,2 [A,,G,]2 .[F,,F,]6 | B,4 ^A,2 .[D,=A,]6 |] %8
+V:4
+ .D,6 z6 | x12 | .G,6 z6 | z6 .A,,6 | .D,6 z6 | x12 | .A,,6 z6 | G,,6 z6 |] %8
+

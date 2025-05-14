@@ -1,0 +1,25 @@
+X:1
+T:Title
+%%score 1 2 3
+L:1/8
+Q:1/4=135
+M:4/4
+K:D
+V:1 treble nm="Grand Piano"
+V:2 bass nm="Grand Piano, Melody"
+V:3 bass nm="Grand Piano"
+V:1
+ z4 c4 | e2 c2 cB A2 | B4 c2 e2 | e3 c B2 cB | A2 [Be]2 [Be]4 | z4 c4 | e2 c2 cB A2 | B4 c2 e2 | %8
+ e3 c B2 cB | A2 A2 c4- | c4 d4 | c2 e2 e2 c2 | B4 c2 e2 | d2 B2 c2 B2 | AB c2 e4 | c4 e2 c2 | %16
+ cB A2 B4 | c2 e2 e3 c | B2 cB A2 A2 | c8 |] %20
+V:2
+ z4 C4 | B,2 A,2 F,2 A,2 | E,4 F,2 A,2 | B,3 C B,2 A,B, | C2 B,2 B,4 | z4 C4 | B,2 A,2 F,2 A,2 | %7
+ E,4 F,2 A,2 | B,3 C B,2 A,B, | C2 A,2 A,4- | A,4[K:treble] D4 | C2 B,2 A,2 C2 | E4 E2 C2 | %13
+ D2 B,2 C2 E2 | FE C2[K:bass] B,4 | C4 B,2 A,2 | F,2 A,2 E,4 | F,2 A,2 B,3 C | B,2 A,B, C2 A,2 | %19
+ A,8 |] %20
+V:3
+ z4 A,4 | E,2 F,2 A,2 F,2 | E,4 C,2 A,,2 | B,,3 C, E,2 E,2 | A,2 E,2 E,4 | z4 A,4 | %6
+ E,2 F,2 A,2 F,2 | E,4 C,2 A,,2 | B,,3 C, E,2 E,2 | F,2 E,2 A,,4- | A,,4 D,4 | C,2 E,2 A,2 F,2 | %12
+ E,4 A,2 A,2 | F,2 E,2 A,2 E,2 | C,2 C,2 E,4 | A,4 E,2 F,2 | A,2 F,2 E,4 | C,2 A,,2 B,,3 C, | %18
+ C,2 C,2 A,2 E,2 | A,,8 |] %20
+

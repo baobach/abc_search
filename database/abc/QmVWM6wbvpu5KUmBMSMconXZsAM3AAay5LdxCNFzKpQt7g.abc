@@ -1,0 +1,22 @@
+X:1
+T:Minuet BWV 115
+T:Minuet BWV 115
+T:Petzold
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=110
+M:3/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^\n" (b2 a2 g2 | a2 d2 d2 | g2 GABc | d6) | (e2 fedc | d2 edcB | c2 dcBc | A4) z2 | (b2 a2 g2 | %9
+ a2 d2 d2 | g2 GABc | d6) | (f2 gfed | e2 fedc | d2 g2 c2 | [DFB]6) :: (d2 Bcd=e | f2 g2 a2 | %18
+ b2 gabg | a2 ga f2) | (FGABcd | e2 d2 c2 | f2 B2 A2 | B6) | (G2 dc d2 | G2 ed e2 | Gd^FcGB | %27
+ A4) z2 | (D=E^FGAB | c2 B2 A2 | Bc/d/ G2 ^F2 | [B,DG]6) :| %32
+V:2
+ G,6 | E,6 | D,6 | D,2 DCB,A, | [G,B,]4 A,2 | B,4 G,2 | A,2 ^F,2 G,2 | D,2 DCB,A, | G,6 | F,6 | %10
+ E,6 | D,2 DC=B,A, | [=B,D]4 G,2 | C2 A,2 F,2 | B,2 E,2 [F,A,]2 | B,2 B,,4 :: B,6 | A,2 G,2 F,2 | %18
+ G,2 =E,2 C,2 | F,4 z2 | A,2 G,2 F,2 | G,2 F,2 E,2 | D,2 E,2 F,2 | B,,2 D2 C2 | [=B,D]6 | C6 | %26
+ B,2 A,2 G,2 | D2 A,G, ^F,=E, | D,4 z2 | E,2 D,2 C,2 | B,,2 C,2 D,2 | G,2 G,,4 :| %32
+

@@ -1,0 +1,36 @@
+X:1
+T:Canon In D
+T:Canon In D
+T:JohannPachelbel
+C:JohannPachelbel
+%%score { 1 | ( 2 3 ) }
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:3 bass 
+V:1
+ (DFAd) (CEAc) | (B,DFB) (A,CFA) | (B,DGB) (A,DFA) | (B,DGB) (CEAc) | f4 e4 | d4 c4 | B4 A4 | %7
+ B4 c4 | [df]4 [ce]4 | [Bd]4 [Ac]4 | [GB]4 [FA]4 | [GB]4 [Ac]3 C | DEFG AEAG | FBAG AGFE | %14
+ DB,Bc dcBA | GFEB ABAG | FEFG AEAG | FBAG AGFE | DB,Bc dcBA | GFEB A(B/c/ d/e/f/g/) |: %20
+ [dfa](f/g/ a)(f/g/ a/)(A/B/c/ d/e/f/g/) | [df](d/e/ f)(F/G/ A/)(B/A/G/ A/F/G/A/) | %22
+ G(B/A/ G)(F/E/ F/)(E/D/E/ F/G/A/B/) | G(B/A/ B)(c/d/ A/)(B/c/d/ e/f/g/a/) :| %24
+ [fa]3 ([fa] [fa][gb][fa][eg] | [df]3) ([df] [df][eg][df][ce]) | (d=cBc [FAd]3) A | %27
+ (d=cBc [EA^c]3) (c | [fa]3) ([fa] [fa][gb][fa][eg] | [df]3) ([df] [df][eg][df][ce]) | %30
+ (d=cBc [FAd]3) (A | d=cBc [EA^c]4) |: (DFAd) (CEAc) | (B,DFB) (A,CFA) | (B,DGB) (A,DFA) |1 %35
+ (B,DGB) (CEAc) :| (B,DGB) (A,DFA) |2 (B,DGB) (CEAc) || !arpeggio![DFAd]4 z4 |] %39
+V:2
+ D,4 A,,4 | B,,4 F,,4 | G,,4 D,4 | G,,4 A,,4 | (D,F,A,D) (A,,E,A,C) | (B,,F,B,D) (A,,C,E,A,) | %6
+ (G,,B,,D,G,) (D,F,A,D) | (G,,B,,D,G,) (A,,C,E,A,) | (D,F,A,D) (A,,E,A,C) | %9
+ (B,,F,B,D) (A,,C,E,A,) | (G,,B,,D,G,) (D,F,A,D) | (G,,B,,D,G,) (A,,C,A,) z | [D,F,]4 [A,,E,]4 | %13
+ [B,,D,]4 [F,A,]4 | G,4 [D,F,]4 | [G,,D,]4 A,,4 | [D,F,]4 [A,,E,]4 | [B,,D,]4 [F,A,]4 | %18
+ G,4 [D,F,]4 | [G,,D,]4 A,,4 |: [D,D]4 [A,,A,]4 | [B,,B,]4 [F,,F,]4 | [G,,G,]4 [D,,D,]4 | %23
+ [G,,G,]4 [A,,A,]4 :| D2 D2 C4 | B,2 B,2 A,4 | D3 E z4 | [G,B,]4 [A,,A,]4 | D2 D2 C4 | %29
+ B,2 B,2 A,4 | D3 E z4 | [G,B,]4 [A,,A,]4 |: D,4 A,,4 | B,,4 F,,4 | G,,4 D,4 |1 G,,4 A,,4 :| %36
+ G,,4 D,4 |2 G,,4 A,,4 || [D,,B,,]4 z4 |] %39
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 |: x8 | x8 | x8 | x8 :| D,4 A,4 | B,,4 F,4 | G,4 D,4 | x8 | D,4 A,4 | B,,4 F,4 | G,4 D,4 | %31
+ x8 |: x8 | x8 | x8 |1 x8 :| x8 |2 x8 || x8 |] %39
+

@@ -1,0 +1,52 @@
+X:1
+T:Solfeggietto in C minor
+T:Solfeggietto in C minor
+T:C. P. E. Bach
+C:Carl Philipp Emanuel Bach
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=130
+M:4/4
+K:Eb
+V:1 bass nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ E,/ z z/[K:treble] C/E/D/C/ =B,/ z z/ G/F/E/D/ | E/ z z/ c/e/d/c/ d/c/=B/=A/ G/F/E/D/ | %2
+ E/ z z/ c/e/d/c/ =B/ z z/ g/f/e/d/ | e/ z z/ c'/e'/d'/c'/ d'/c'/=b/=a/ g/f/e/d/ | %4
+ e/ z2 c'/g/e/ a/ z2 A/c/e/ | d/ z2 b/f/d/ g/ z2 G/B/d/ | c/=A/ z c/A/ z e/c/ z e/c/ z | %7
+ d/c/ z =a/c/ z ^f/c/ z c/=A/^F/D/ | B/ z z/[K:bass] G,/B,/=A,/G,/ ^F,/ z z/ D/C/B,/=A,/ | %9
+ B,/[K:treble] z z/ G/B/=A/G/ A/G/^F/=E/ D/C/B,/=A,/ | B,/ z z/ G/B/=A/G/ ^F/ z z/ d/c/B/A/ | %11
+ B/ z z/ g/b/=a/g/ a/g/^f/=e/ d/c/B/=A/ | .B/G/B/d/ g/d/B/G/ z/ g/d/=B/ G/B/d/g/ | %13
+!p! z/ G/g/G/ z/ G/g/G/ z/ G/f/G/ z/ G/f/G/ |!f! .e/c/e/g/ c'/g/e/c/ c'/g/=e/c/ e/g/c'/ z/ | %15
+!p! z/ c/c'/c/ z/ c/c'/c/ z/ c/b/c/ z/ c/b/c/ | %16
+ a/[K:bass] z z/ F,/A,/G,/F,/ =E,/ z z/ C/B,/A,/G,/ | %17
+ A,/ z z/[K:treble] F/A/G/F/ G/F/=E/D/ C/B,/A,/G,/ | A,/ z z/ F/A/G/F/ =E/ z z/ c/B/A/G/ | %19
+ A/ z z/ f/a/g/f/ g/f/=e/d/ c/B/A/G/ | z/ f/c/A/ z/ c/A/F/ z/ A/F/C/ z/ F/C/A,/ | %21
+ z4 a/f/=e/f/ g/f/e/f/ |!p! z4 A/F/=E/F/ G/F/E/F/ |!f! z4 d'/f/g/a/ g/f/e/d/ | %24
+ e/g/c'/g/ b/a/g/f/ (10:16:7!fermata!e/-e/8d/8e/8d/8c/8d/8 P!turn!d2 | %25
+!p! z/ G/g/G/ z/ G/g/G/ z/ G/f/G/ z/ G/f/G/ | z/ G/=e/G/ z/ G/e/G/ z/ _e/c'/e/ z/ e/c'/e/ | %27
+ z/ F/d/F/ z/ F/d/F/ z/ _d/b/d/ z/ d/b/d/ | z/ E/c/E/ z/ E/c/E/ z/ c/c'/c/ z/ c/c'/c/ | %29
+ z/ c/e/g/ c'/g/e/c/ g/e/c/G/ f/d/=B/F/ | E/ z z/ C/E/D/C/ =B,/ z z/ G/F/E/D/ | %31
+ E/ z z/ c/e/d/c/ d/c/=B/=A/ G/F/E/D/ | E/ z z/ c/e/d/c/ =B/ z z/ g/f/e/d/ | %33
+ e/ z z/ c'/e'/d'/=b/ c'/g/e/d/ c/G/E/D/ | C/ z/ z z2 z4 |] %35
+V:2
+!ped! z/ C,/E,/G,/ z2 z/ G,/=B,/D/ z2!ped-up! |[K:treble]!ped! z/ C/E/G/ z2 z4!ped-up! | %2
+!ped! z/ C/E/G/ z2 z/ G/=B/d/ z2!ped-up! |!ped! z/ c/e/g/ z2 z4!ped-up! | %4
+!ped! z/ c/G/E/ C/ z2[K:bass] F,/A,/C/ E/ z z/!ped-up! | %5
+[K:treble]!ped! z/ B/F/D/ B,/ z2[K:bass] E,/G,/B,/ E/ z z/!ped-up! | %6
+[K:treble]!ped! z ^G/=A/ z G/A/ z =G/A/ z G/A/!ped-up! |!ped! z ^F/=A/ z F/A/ z D/A/ z2!ped-up! | %8
+[K:bass]!ped! z/ G,,/B,,/D,/ z2 z/ D,/^F,/=A,/ z2!ped-up! |!ped! z/ G,/B,/D/ z2 z4!ped-up! | %10
+!ped! z/ G,/B,/D/ z2 z/[K:treble] D/^F/=A/ z2!ped-up! |!ped! z/ G/B/d/ z2 z4!ped-up! | %12
+[K:bass]!ped! [G,,G,]2 z2 [F,,F,]2 z2!ped-up! | %13
+[K:treble]!ped! .[Ec]2 .[Ec]2 .[D=B]2 .[D=B]2!ped-up! | %14
+[K:bass]!ped! [C,C]2 z2 [B,,B,]2 z2!ped-up! |[K:treble]!ped! .[Af]2 .[Af]2 .[G=e]2 .[Ge]2!ped-up! | %16
+[K:bass]!ped! z/!f! F,,/A,,/C,/ z2 z/ C,/=E,/G,/ z2!ped-up! |!ped! z/ F,/A,/C/ z2 z4!ped-up! | %18
+!ped! z/ F,/A,/C/ z2[K:treble] z/ C/=E/G/ z2!ped-up! |!ped! z/ F/A/c/ z2 z4!ped-up! | %20
+!ped! .A/ z z/ .F/ z z/ .C/ z z/[K:bass] .A,/ z z/!ped-up! |!ped! [_D,,_D,]8!ped-up! | %22
+!ped! [C,,C,]8!ped-up! |!ped! [=B,,,=B,,]8!ped-up! |!ped! [C,,C,]2 F,2 G,2 G,,2!ped-up! | %25
+[K:treble]!ped! .[Ec]2 .[Ec]2 .[D=B]2 .[DB]2!ped-up! | %26
+!ped! .[CB]2 .[CB]2!f! .[F=A]2 .[FA]2!ped-up! |!p!!ped! .[B,A]2 .[B,A]2!f! .[EG]2 .[EG]2!ped-up! | %28
+!p!!ped! .[A,_G]2 .[A,G]2[K:bass]!f! .[^F,E]2 .[F,E]2!ped-up! |!ped! [G,E]2 z4 G,,2!ped-up! | %30
+!ped! z/ C,/E,/G,/ z2 z/ G,/=B,/D/ z2!ped-up! |[K:treble]!ped! z/ C/E/G/ z2 z4!ped-up! | %32
+!ped! z/ C/E/G/ z2 z/ G/=B/d/ z2!ped-up! |!ped! z/ c/e/g/ z6!ped-up! | z8 |] %35
+

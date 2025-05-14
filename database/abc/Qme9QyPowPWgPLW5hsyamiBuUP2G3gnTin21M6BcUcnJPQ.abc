@@ -1,0 +1,38 @@
+X:1
+T:Passacaglia
+T:George Frideric Handel arr.Johan Halvorsen 
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=130
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ z8 | z8 | cc'bc' ac'gc' | fc'ec' dc'cc' | Bbab gbfb | ebdb cbBb | Aaga faea | daca BaAa | %8
+ a2 ^g^f g3 a | a8 | c'cdc ecfc | gcac bcc'c | bBcB dBeB | fBgB aBbB | aABA cAdA | eAfA gAaA | %16
+ a2 ^g^f g3 a | a8 |[K:treble+8] cc'bc' ac'gc' | fc'ec' dc'cc' | Bbab gbfb | ebdb cbBb | %22
+ Aaga faea | daca BaAa | a2 ^g^f g3 a | a8 | c'cdc ecfc | gcac bcc'c | bBcB dBeB | fBgB aBbB | %30
+ aABA cAdA | eAfA gAaA | a2 ^g^f g3 a | a8 |[K:treble] ccc'c bcac | gcfc ecdc | BBbB aBgB | %37
+ fBeB dBcB | AAaA gAfA | eAdA cABA | A2 ^G^F G3 A | A8 |[K:treble+8] cc'Bb AaGg | FfEe DdCc | %44
+ BbAa GgFf | EeDd CcB,B |[K:treble] AaGg FfEe | DdCc B,BA,A | A2 ^G^F G3 A | A8 | cc'bc' ac'gc' | %51
+ fc'ec' dc'cc' | Bbab gbfb | ebdb cbBb | Aaga faea | daca BaAa | a2 ^g^f g3 a | a8 | c'cdc ecfc | %59
+ gcac bcc'c | bBcB dBeB | fBgB aBbB | aABA cAdA | eAfA gAaA | a2 ^g^f g3 a | a8 | cc'bc' ac'gc' | %67
+ fc'ec' dc'cc' | Bbab gbfb | ebdb cbBb | Aaga faea | daca BaAa | a2 ^g^f g3 a | a8 |] %74
+V:2
+!ped! A,,A,EC ACEC!ped-up! |!ped! A,,A,EC ACEC!ped-up! |!ped! A,,A,EC ACEC!ped-up! | %3
+"_pedale simile" D,,D,A,F, DF,A,F, | G,,G,DB, GB,DB, | C,,C,G,E, CE,G,E, | F,,F,CA, FA,CA, | %7
+ D,,D,A,F, DF,A,F, | E,,E,B,^G, EG,B,G, | A,,A,EC ACEC | A,,A,EC ACEC | D,,D,A,F, DF,A,F, | %12
+ G,,G,DB, GB,DB, | C,,C,G,E, CE,G,E, | F,,F,CA, FA,CA, | D,,D,A,F, DF,A,F, | E,,E,B,^G, EG,B,G, | %17
+ A,,A,EC ACEC | A,,A,EC ACEC | D,,D,A,F, DF,A,F, | G,,G,DB, GB,DB, | C,,C,G,E, CE,G,E, | %22
+ F,,F,CA, FA,CA, | D,,D,A,F, DF,A,F, | E,,E,B,^G, EG,B,G, | A,,A,EC ACEC | A,,A,EC ACEC | %27
+ D,,D,A,F, DF,A,F, | G,,G,DB, GB,DB, | C,,C,G,E, CE,G,E, | F,,F,CA, FA,CA, | D,,D,A,F, DF,A,F, | %32
+ E,,E,B,^G, EG,B,G, | A,,A,EC ACEC | A,,A,EC ACEC | D,,D,A,F, DF,A,F, | G,,G,DB, GB,DB, | %37
+ C,,C,G,E, CE,G,E, | F,,F,CA, FA,CA, | D,,D,A,F, DF,A,F, | E,,E,B,^G, EG,B,G, | A,,A,EC ACEC | %42
+ A,,A,EC ACEC | D,,D,A,F, DF,A,F, | G,,G,DB, GB,DB, | C,,C,G,E, CE,G,E, | F,,F,CF, CA,CA, | %47
+ D,,D,A,F, A,F,A,F, | E,,E,B,^G, EG,B,G, | A,,A,EC ACEC | A,,A,EC ACEC | D,,D,A,F, DF,A,F, | %52
+ G,,G,DB, GB,DB, | C,,C,G,E, CE,G,E, | F,,F,CA, FA,CA, | D,,D,A,F, DF,A,F, | E,,E,B,^G, EG,B,G, | %57
+ A,,A,EC ACEC | A,,A,EC ACEC | D,,D,A,F, DF,A,F, | G,,G,DB, GB,DB, | C,,C,G,E, CE,G,E, | %62
+ F,,F,CA, FA,CA, | D,,D,A,F, DF,A,F, | E,,E,B,^G, EG,B,G, | A,,A,EC ACEC | [A,,A,]8 | [D,,D,]8 | %68
+ [G,,G,]8 | [C,,C,]8 | [F,,F,]8 |"^rit. al fine" [D,,D,]8 | [E,,E,]8 | [A,,A,]8 |] %74
+

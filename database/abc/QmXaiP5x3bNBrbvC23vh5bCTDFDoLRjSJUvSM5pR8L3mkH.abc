@@ -1,0 +1,46 @@
+X:1
+T:Prelude en fa mineur clavier bien tempéré II
+T:Prelude en fa mineur clavier bien tempéré II
+%%score 1 2 3
+L:1/8
+Q:1/4=70
+M:2/4
+K:none
+V:1 treble transpose=-9 nm="Saxophone Alto" snm="Sax. A."
+V:2 treble transpose=-14 nm="Saxophone Ténor" snm="Sax. T."
+V:3 treble transpose=-21 nm="Saxophone Baryton" snm="Sax. Bar."
+V:1
+[K:F] z3 f |: fe z g | gf z f' | f'e' z d' | d'^c' z/ e/A/e/ | z/ f/A/f/ z/ d/A/d/ | %6
+ z/ e/A/e/ z/ g/A/g/ | z/ f/A/f/ z/ d/A/d/ | z/ e/A/e/ z f | fe z g | gf z a | ab z g | ga z c' | %13
+ c'b z b | ba z _e' | _e'd' z f' | f'=e' z/ g/c/g/ | z/ a/c/a/ z/ f/c/f/ | z/ g/c/g/ z/ b/c/b/ | %19
+ z/ a/c/a/ z/ =b/c/b/ | z/ c'/c/c'/ _e/f/a/c'/ | c'/a/f/d/ d/=e/g/b/ | b/g/e/c/ c/d/f/a/ | %23
+ a/f/d/B/ B/c/e/g/ | g/e/c/A/ z/ f/A/f/ | z/ f/B/f/ z/ f/A/f/ | z/ f/G/f/ z/ f/F/f/ | %27
+ G/f/_d/f/ c/f/B/f/ |1 ef z f :|2 ef z a || ag z b | ba z c' | c'=b z d' | d'c' _e'2 | d'2 c'2 | %35
+ b2 =b2 | c'2 d'2- | d'c' z/ _e'/d'/e'/ | g^f- f/c'/b/c'/ | _ed- d/b/a/b/ | c/a/g/a/- a/g^f/ | %41
+ ^fg d'Pc' | bd' gb/d'/ | f'e' c'Pb | ac' fa/c'/ | _e'd' fd' | Pfe ge' | Pgf a/^c'/d'/f'/ | %48
+ b/f'/a/f'/ g/f'/e'/d'/ | d'/^c'/=b/a/ f'/d'/_b/a/ | g/f/g/b/ _e'/c'/a/g/ | ^f/e/f/a/ d'/b/g/=f/ | %52
+ _e/d/e/g/ c'/a/^f/e/ | d/^c/d/=c'/ b z | e z g z | ^c z z/ e/G/e/ | F/e/F/e/ F/d/F/d/ | %57
+ F/d/^c z f | fe z e/f/ | g/b/a z a | g/f/e/d/ f/e/d/^c/ | ^c/d/e/d/ c/d/g/d/ | %62
+ ^c/d/f/d/ c/d/b/d/ | ^c/d/a/d/ =c/d/^f/a/ | a/^f/d/B/ B/c/e/g/ | g/e/c/A/ A/B/d/f/ | %66
+ f/d/B/G/ G/A/^c/e/ | e/^c/A/F/ z/ d/^F/d/ | z/ e/G/e/ z/ ^f/_e/f/ | z/ g/d/g/ z/ f/d/f/ | %70
+ z f z/ e/d/^c/ | ^cd z2 |] %72
+V:2
+[K:Bb] z3 g |: g^f z a | ag z d' | d'c' z b | ba ^f z | a z =e z | ^f z a z | g z =e z | ^f z z g | %9
+ g^f z a | ag z b | bc' z a | ab z d' | d'c' z c' | c'b z f' | f'e' z d' | d'c' a z | b z g z | %18
+ a z c' z | b z g z | a z z B- | BG z A- | AF z G- | GE z F- | FD F_A | G z z F | E z z _D | %27
+ z C F2- |1 F2 z g :|2 F2 z b || ba z c' | c'b z _a | ag z _b | b=a z2 | z2 d'2- | d'c' _d'2 | %36
+ c'2 b2 | _a2 z2 | z/ e/d/e/ A/d/c/d/ | =B/ z/ z g2 | f2 ed | de z2 | z4 | z2 z/ d/c/d/ | %44
+ B/d/_A/d/ G/d/F/d/ | E/G/B/d/ =E/G/B/c/ | F/ z/ z z2 | G/B/d/^f/ gb | cd ec | dD z b | a2 z _a | %51
+ gd' z g | f2 z e | d2 z2 | ^f z e z | e z z c | BB BB | BA z g | g^f z f | ^f2 z g- | g z z c | %61
+ B z z2 | z4 | z4 | z _B A2- | AA G2- | GG ^F2 | z3 d | z e z f | z c z d | z =e z c | cB z2 |] %72
+V:3
+[K:F] z2 d2 |: a2 A2 | d2 D2 | G2 ^G2 | A2 z2 | z4 | z4 | z4 | z2 d2 | a2 A2 | d2 D2 | G2 C2 | %12
+ F2 f2 | g2 G2 | A2 a2 | b2 =b2 | c'2 z2 | z4 | z4 | z4 | z2 A2 | B2 G2 | A2 F2 | G2 E2 | F2 z2 | %25
+ z F _E z | z _D C z | =B,2 z C |1 F2 d2 :|2 F2 f2 || c'2 c2 | f2 ^f2 | g2 =B2 | c2 z/ ^f'/c'/f'/ | %34
+ z/ g/b/g/ z/ _e'/^f/e'/ | z/ d/g/d/ z/ =f'/g/f'/ | z/ _e'/a/e'/ z/ d'/=b/d'/ | %37
+ z/ c'/=b/c'/ a/c'/_b/c'/ | f/ z/ z z2 | z/ g/^f/g/ B/g/f/g/ | _e/d/e/d/ dD | G2 z/ b/a/b/ | %42
+ g/b/f/b/ e/b/d/b/ | c/e/g/b/ z2 | z4 | z4 | c/e/g/_b/ ^c/e/g/a/ | d/ z/ z z2 | z4 | z3 d | %50
+ d^c z =c | c2 z B | BA z G | G^F z/ g/a/b/ | z/ a/g/f/ z/ e/f/g/ | z/ f/e/d/ ^ca | da B^g | %57
+ Aa d2 | g2 b2 | e2 f2 | bg aA | B z bB | Aa gG | F/A/d/e/ ^fd | G2 z c | F2 z B | E2 z A | DF Ac | %68
+ BD CA | GB, A,A | ^G z A2 | d2 z2 |] %72
+

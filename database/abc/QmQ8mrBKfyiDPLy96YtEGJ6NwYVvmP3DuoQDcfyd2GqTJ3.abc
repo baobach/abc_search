@@ -1,0 +1,46 @@
+X:1
+T:Title
+T:Jupiter from The Planets
+T:Gustav Holst arr. OM
+C:Composer
+%%score 1 2 3 { 4 | 5 }
+L:1/8
+Q:1/4=74
+M:3/4
+K:G
+V:1 treble nm="Violin" snm="Vln."
+V:2 bass nm="Violoncello" snm="Vc."
+V:3 bass transpose=-12 nm="Contrabass" snm="Cb."
+V:4 treble nm="Piano" snm="Pno."
+V:5 bass 
+V:1
+"^A"!mp! z2 B2 d2 | e2 (eg) f>d | ga g2 f2 | ef e2 d2 | B4 (Bd) || e2 (eg) f>d | ga b2 b2 | %7
+ ba g2 a2 | g4 (dB) |:"^B"!f! A2 A2 GB | A2 D2 dB | A2 A2 Bd | e4 (ef) ||"^C" g2 f2 e2 | d2 g2 B2 | %15
+ AG A2 B2 |!<(! d4"^D" (Bd)!<)! ||!ff! e2 (eg) f>d | ga g2 f2 | ef e2 d2 | B4 (Bd) || %21
+"^E"!<(! e2 (eg) f>d!<)! |!fff! ga b2 b2 |1 ba g2 a2 || g4!>(! (dB)!>)! :| z6 | z6 | z6 | z6 | z6 | %30
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |] %43
+V:2
+!mp! z6 | C,2 z2 D,2 | B,,2 z2 B,,2 | C,2 z2 D,2 |!<(! E,4 D,2!<)! ||!mf! C,2 z2 D,2 | %6
+ B,,2 z z (G,,B,,) | C,2 z2 E,2 | z2 [G,,G,]2 [B,,B,]2 |: A,,2 z2 G,,2 | A,,2 z2 G,,2 | %11
+ A,,2 z2 G,,2 | E,4 (A,B,) || [E,G,]6 | [B,,D,]6 | A,, z A,,2 G,,2 | D,,6 || C,2 z2 D,2 | %18
+ B,,2 z2 B,,2 | C,2 z2 D,2 | E,4 D,2 ||"^pizz."!f! E,2 E,2 D,2 | (G,A,) G,2 G,2 |1 G,2 B,2 E,2 || %24
+ G,4!>(! (D,B,,)!>)! :| z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %40
+ z6 | z6 | z6 |] %43
+V:3
+!mp! z6 | G,2 z2 F,2 | G,2 z2 G,2 | G,2 z2 F,2 |!<(! E,4 F,2!<)! ||!mf! G,2 z2 F,2 | G,2 z2 G,2 | %7
+ G,2 z2 C2 | z2 B,2 (DB,) |: D,2 z4 | D,2 z4 | D,2 z4 | C,4 z2 || E,6 | G,6 | A, z A,,2 D,2 | %16
+ B,,6 || G,2 z2 F,2 | G,2 z2 G,2 | G,2 z2 F,2 | E,4 F,2 ||"^pizz."!f! E,2 E,2 F,2 | %22
+ (E,F,) D,2 D,2 |1 D,2 G,2 C,2 || C,4!>(! (G,,E,,)!>)! :| z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %33
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |] %43
+V:4
+"_Andante maestoso"!mf! z2 B2 d2 | e2 (eg) f>d | ga g2 f2 | ef e2 d2 | B4 (Bd) || e2 (eg) f>d | %6
+!<(! ga b2 b2!<)! | ba g2 a2 | g4 (dB) |:!f! A2 A2 GB | A2 D2 dB | A2 A2 Bd | e4 (ef) || g2 f2 e2 | %14
+ d2 g2 B2 | AG A2 B2 |!<(! d4 (Bd)!<)! ||!ff! e2 (eg) f>d | ga g2 f2 | ef e2 d2 | B4 (Bd) || %21
+!<(! e2 (eg) f>d!<)! |!fff! ga b2 b2 |1 ba g2 a2 || g4!>(! (dB)!>)! :| z6 | z6 | z6 | z6 | z6 | %30
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |] %43
+V:5
+ z6 | E,2 G,2 D,2 | G,A, G,2 D,2 | E,F, E,2 D,2 | B,,3 B,, D,2 || .C,.[G,C] z2 .D,.[A,,D,] | %6
+ .G,,.[D,G,] z z .G,,.[D,G,] | z6 | z6 |: z6 | z6 | z6 | z6 || z6 | z6 | z6 | z6 || z6 | z6 | z6 | %20
+ z6 || E,2 E,2 D,2 | (((((([E,G,][F,A,])))))) D,4 |1 [D,G,]2 [G,B,]2 [C,E,]2 || [C,G,]2 z2 D,2 :| %25
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |] %43
+

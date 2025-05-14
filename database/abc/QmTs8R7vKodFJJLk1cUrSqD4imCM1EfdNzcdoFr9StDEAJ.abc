@@ -1,0 +1,49 @@
+X:1
+T:Title
+T:Final Fantasy VII
+T:Ahead on Our Way (Nibelheim Theme)
+C:Composer
+%%score 1 2 3 4
+L:1/8
+Q:1/4=137
+M:4/4
+K:G
+V:1 treble nm="Violin" snm="Vln."
+V:2 treble nm="Violin 2" snm="Vln 2."
+V:3 bass nm="Violoncello" snm="Vc."
+V:4 bass transpose=-12 nm="Double Bass" snm="Db."
+V:1
+"^\n"!mf! a2 g2 f2 g2 | a4 B2 d2 | f2 e2 e4- | e8 | e2 b2 a2 g2 | a6 bc' | d'2 b2 b4- | b8 | %8
+ (b2 c'2) b2 a2 | g6 a2 | b2 B2 c2 d2 | f2 e6- | e2 e2 f2 g2 | a8- | a2 g2 a2 b2 | c'8 | %16
+ a2 g2 f2 g2 | a4 B2 d2 | f2 e2 e4- | e8 | e2 b2 a2 g2 | a6 bc' | d'2 b2 b4- | b8 | %24
+ (b2 c'2) b2 a2 | g6 a2 | b2 B2 c2 d2 | f2 e6 | e2 b2 a2 g2 | a6 f2- | f2 g6- | g8 | z8 | z8 | %34
+!mf! B8- | B8 | G8- | G8 | c8- | c8 | g8 | f8 | (_B2 =B2) (^c2 d2) | (f2 d2) (e2 f2) | %44
+ (a2 g2) (a2 b2) | e8 | e2 B2 c2 _A2 | A8 | z2 (_A2 =A2 B2) | c4 (d2 c2) |!mp! B8- | B8 | G8- | %53
+ G8 | c8- | c8 | d8- | d8 :| g8- | g8 |] %60
+V:2
+!pp! D8- | D8 | G8- | G8 | G8 | F8 | F8- | F8 | G8- | G8 | G8- | G8 | G8- | G8 | G8 | F8 |!p! d8- | %17
+ d8- | d8 | ^c8 | c8 | c8 | d8- | d8 | d8- | d8 | d8- | d8 | c8 | c8 | d8- |!>(! d8-!>)! | %32
+!pp! d8- | d8 |!mf! (F2 G2) (A2 B2) | d4 (B2 G2) | F4 E4- | E8 | (_A2 =A2) (B2 c2) | %39
+ (e2 c2) (E2 G2) | G8 | F8 |!p! f8- | f8 | g8- | g8- | g8- | g8 | f8- | f8 |!mf! d8- | d4 (B2 G2) | %52
+ (F2 E2 F2 G2) | E8 | e8- | e2 c2 A2 G2 | F6 G2 | A8 :| d8- | d8 |] %60
+V:3
+ z2!mp! B,,2 D,2 B,,2 | G,2 G,,2 B,,2 G,,2 | z2 G,,2 B,,2 G,,2 | E,2 G,,2 B,,2 G,,2 | %4
+ z2 C,2 E,2 G,2 | z2 A,,2 D,2 F,2 | z2 B,,2 D,2 B,,2 | _G,2 B,,2 D,2 B,,2 | z2 C,2 E,2 G,2 | %9
+ z2 _B,,2 _E,2 G,2 | z2 G,,2 B,,2 G,2 | z2 G,,2 B,,2 E,2 | z2 A,,2 C,2 A,,2 | E,2 A,,2 C,2 A,,2 | %14
+ z2 A,,2 B,,2 C,2 | z2 A,,2 C,2 E,2 | z2 G,,2 B,,2 G,,2 | G,2 G,,2 B,,2 G,,2 | z2 G,,2 B,,2 G,,2 | %19
+ E,2 G,,2 B,,2 G,,2 | z2 C,2 E,2 G,2 | z2 A,,2 D,2 F,2 | z2 B,,2 D,2 B,,2 | _G,2 B,,2 D,2 B,,2 | %24
+ z2 C,2 E,2 G,2 | z2 _B,,2 _E,2 G,2 | z2 G,,2 B,,2 G,2 | z2 G,,2 B,,2 E,2 | z2 A,,2 C,2 E,2 | %29
+ z2 A,,2 D,2 F,2 | z2 G,,2 B,,2 G,,2 | G,2 G,,2 B,,2 G,,2 | z2 G,,2 B,,2 G,,2 | %33
+ G,2 G,,2 B,,2 G,,2 | z2 G,,2 B,,2 G,,2 | G,2 G,,2 B,,2 G,,2 | z2 G,,2 B,,2 G,,2 | %37
+ E,2 G,,2 B,,2 G,,2 | z2 A,,2 C,2 A,,2 | E,2 A,,2 C,2 A,,2 | z2 A,,2 C,2 G,2 | z2 A,,2 C,2 F,2 | %42
+ z2 B,,2 D,2 B,,2 | F,2 B,,2 D,2 B,,2 | z2 G,,2 B,,2 G,,2 | E,2 G,,2 B,,2 G,,2 | z2 A,,2 C,2 A,,2 | %47
+ E,2 A,,2 C,2 A,,2 | z2 A,,2 C,2 A,,2 | F,2 A,,2 C,2 A,,2 | z2 G,,2 B,,2 G,,2 | %51
+ G,2 G,,2 B,,2 G,,2 | z2 G,,2 B,,2 G,,2 | E,2 G,,2 B,,2 G,,2 | z2 A,,2 C,2 A,,2 | %55
+ E,2 A,,2 C,2 A,,2 | A,,2 A,,2 C,2 A,,2 | F,2 A,,2 C,2 A,,2 :| B,,8- | B,,8 |] %60
+V:4
+!p! G,,8- | G,,8 | E,,8- | E,,8 | A,,8 | D,,8 | B,,8- | B,,8 | C,8 | C,8 | G,,8 | E,,8 | A,,8- | %13
+ A,,8 | A,,8 | D,8 | G,,8- | G,,8 | E,,8- | E,,8 | A,,8 | D,,8 | B,,8- | B,,8 | C,8 | C,8 | G,,8 | %27
+ E,,8 | A,,8 | D,8 | G,,8- | G,,8 | G,,8- | G,,8 | G,,8- | G,,8 | E,,8- | E,,8 | A,,8- | A,,8 | %40
+ D,8 | D,8 | B,,8- | B,,8 | E,,8- | E,,8 | E,,8- | E,,8 | D,,8- | D,,8 | G,,8- | G,,8 | G,,8- | %53
+ G,,8 | E,,8- | E,,8 | D,,8- | D,,8 :| G,,8- | G,,8 |] %60
+

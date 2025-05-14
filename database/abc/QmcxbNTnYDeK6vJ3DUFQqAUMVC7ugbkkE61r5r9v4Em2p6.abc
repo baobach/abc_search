@@ -1,0 +1,45 @@
+X:1
+T:Le Souvenir Polka
+T:Le Souvenir Polka
+T:J. L. Battmann
+C:J. L. Battmann
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=90
+M:2/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"_grazioso"{/b} .g'.e' (3(b/c'/b/=a/b/ | .d').c' (!^!f>g | .b).a (!^!c>d | .f).e !^!B2 | %4
+{/b} .g'.e' (3(b/c'/b/=a/b/ | .d').c' (!^!f>g | .b).a (!^!c>d | .e).[ge'] .[ge'] z :: %8
+{/=a} .g'.f' (3(=a/b/a/^g/a/ | .c').b (3(d/e/d/^c/d/ | .g).f (!^!G>=A) | .c.B !^!F2 | %12
+{/=a} .g'.f' (3(=a/b/a/^g/a/ | .c').b (3(d/e/d/^c/d/ | .g).f (!^!G>=A | .B).[db] .[db] z :: %16
+{/b} .g'.e' (3(b/c'/b/=a/b/ | .d').c' (!^!f>g | .b).a (!^!c>d | .f).e !^!B2 | %20
+{/b} .g'.e' (3(b/c'/b/=a/b/ | .d').c' (!^!f>g | .b).a (!^!c>d | .e).[ge'] .[ge'] z!fine! :: %24
+[K:Ab]"_delicato" (e/c/e/c'/ e/c/e/c'/) | .c'.[Bdb] !^![Bdb]2 | (d/B/d/b/ d/B/d/b/) | %27
+ .b.[Aca] !^![Aca]2 | (e/c/e/c'/ e/c/e/c'/) | .c'.[Bdb] !^![Bdb]>[Bda] | %30
+ .[Bda].[Bdg] !^![Bdf]>[Bdg] | .[Aca].[Aca] .[Aca] z :: %32
+"_con fuoco"[Q:1/4=110]!f! .[cec']/.[cec']/.[cec'] .[cec']/.[cec']/.[cec'] | %33
+ .[aa'].[gg'] !^![ff']2 | .[dd']/.[dd']/.[cc'] .[=B=b].[_B_b] | .[=A=a]/.[Aa]/.[_A_a] .[Gg].[Ff] | %36
+ .[B=db]/.[Bdb]/.[Bdb] .[Bdb]/.[Bdb]/.[Bdb] | .[gg'].[ff'] !^![ee']2 | %38
+ .[cc']/.[cc']/.[Bb] .[=A=a].[_A_a] | .[Gg]/.[Gg]/.[Ff] .[_F_f].[Ee] | (e/c/e/c'/ e/c/e/c'/) | %41
+ .c'.[Bdb] !^![Bdb]2 | (d/B/d/b/ d/B/d/b/) | .b.[Aca] !^![Aca]2 | (e/c/e/c'/ e/c/e/c'/) | %45
+ .c'.[Bdb] !^![Bdb]>[Bda] | .[Bda].[Bdg] !^![Bdf]>[Bdg] | .[Aca].[Aca] .[Aca] z!D.C.! :| %48
+V:2
+!p! .E,.[B,EG] !^![B,EG]2 | .A,,.[A,CF] !^![A,CF]2 | .B,,.[B,FA] !^![B,FA]2 | %3
+ .E,.[B,EG] !^![B,EG]2 | .E,.[B,EG] !^![B,EG]2 | .A,,.[A,CF] !^![A,CF]2 | .B,,.[B,FA] !^![B,FA]2 | %7
+ .[EG].[E,G,B,E] .[E,G,B,E] z ::!ff! .[F,,F,].[F,CE] !^![F,CE]2 | .B,,.[F,B,D] !^![F,B,D]2 | %10
+ .[F,,F,].[F,CE] !^![F,CE]2 | .B,,.[F,B,D] !^![F,B,D]2 | .[F,,F,].[F,CE] !^![F,CE]2 | %13
+ .B,,.[F,B,D] !^![F,B,D]2 | .[F,,F,].[F,CE] !^![F,CE]2 | .[B,D].[B,,D,F,B,] .[B,,D,F,B,] z :: %16
+!p! .E,.[B,EG] !^![B,EG]2 | .A,,.[A,CF] !^![A,CF]2 | .B,,.[B,FA] !^![B,FA]2 | %19
+ .E,.[B,EG] !^![B,EG]2 | .E,.[B,EG] !^![B,EG]2 | .A,,.[A,CF] !^![A,CF]2 | .B,,.[B,FA] !^![B,FA]2 | %23
+ .[EG].[E,G,B,E] .[E,G,B,E] z ::[K:Ab]!p! A,,[E,A,C] [E,A,C]2 | E,,[E,G,B,D] [E,G,B,D]2 | %26
+ E,,[E,G,B,D] [E,G,B,D]2 | A,,[E,A,C] [E,A,C]2 | A,,[E,A,C] [E,A,C]2 | D,,[D,F,B,] [D,F,B,]2 | %30
+ E,,[E,B,D] [E,B,D]2 | A,,[E,A,C] [E,A,C] z :: [C,,C,][G,B,C=E] [G,B,CE]2 | %33
+ [F,,F,][F,A,CF] [F,A,CF]2 | [C,,C,][G,B,C=E] [G,B,CE]2 | [F,,F,][F,A,C] [F,A,C]2 | %36
+ [B,,,B,,][F,A,B,=D] [F,A,B,D]2 | [E,,E,][G,B,E] [G,B,E]2 | [B,,,B,,][F,A,=D] [F,A,D]2 | %39
+"^dim." [E,,E,][E,G,B,D] [E,G,B,D]2 |!p! A,,[E,A,C] [E,A,C]2 | E,,[E,G,B,D] [E,G,B,D]2 | %42
+ E,,[E,G,B,D] [E,G,B,D]2 | A,,[E,A,C] [E,A,C]2 | A,,[E,A,C] [E,A,C]2 | F,,[D,F,B,] [D,F,B,]2 | %46
+ E,,[E,B,D] [E,B,D]2 | A,,[E,A,C] [E,A,C] z :| %48
+

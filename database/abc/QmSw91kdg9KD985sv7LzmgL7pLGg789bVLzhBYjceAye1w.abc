@@ -1,0 +1,50 @@
+X:1
+T:French Suite V Bourree
+T:BWV 816
+T:J. S. Bach
+%%score { 1 | ( 2 3 ) }
+L:1/8
+Q:1/4=184
+M:2/2
+K:G
+V:1 treble nm="Harp"
+V:2 bass 
+V:3 bass 
+V:1
+"^Presto" Bd | g/4f/4g/- g2 a b/4a/4b/4a/4b/4a/4b/4a/4 b/4a/4b/4a/4 g/a/ | b2 ab g2 dB | %3
+ e2 cA F2 dA | cBAB GABd | g/4f/4g/- g2 a b/4a/4b/4a/4b/4a/4b/4a/4 b/4a/4b/4a/4 g/a/ | %6
+ b2 ab g2 ac' | b2 eg a2 Bd | g2 ^ce f2 df | b2 a2 gfge | d6 Bd | %11
+ g/4f/4g/- g2 a b/4a/4b/4a/4b/4a/4b/4a/4 b/4a/4b/4a/4 g/a/ | b2 ab g2 dB | e2 cA F2 dA | %14
+ cBAB GABd | g/4f/4g/- g2 a b/4a/4b/4a/4b/4a/4b/4a/4 b/4a/4b/4a/4 g/a/ | b2 ab g2 ac' | %17
+ b2 eg a2 Bd | g2 ^ce f2 df | b2 a2 gfge | d6 af | %21
+ d3 e/f/ g/4f/4g/4f/4g/4f/4g/4f/4 g/4f/4g/4f/4 e/f/ | g6 dg | c'2 ^df b2 eg | fe^d^c B2 af | %25
+ B2 ge _B2 ge | A2 f^d ^G2 ^ed | e2 f2 B2 ^d2 | e6 ge | %29
+ B2- Bc d/4c/4d/4c/4d/4c/4d/4c/4 d/4c/4d/4c/4 B/c/ | d2 Bd g2 bg | e2 Ac d2 ^GB | c2 Bc A2 dA | %33
+ B2 GB e2 gB | c2 Ac f2 ac | d2 Bd g2 bg | agfe d2 gd | e2 Ac d2 EG | c2 FA B2 GB | dB g2 B2 AG | %40
+ G6 af | d3 e/f/ g/4f/4g/4f/4g/4f/4g/4f/4 g/4f/4g/4f/4 e/f/ | g6 dg | c'2 ^df b2 eg | %44
+ fe^d^c B2 af | B2 ge _B2 ge | A2 f^d ^G2 ^ed | e2 f2 B2 ^d2 | e6 ge | %49
+ B2- Bc d/4c/4d/4c/4d/4c/4d/4c/4 d/4c/4d/4c/4 B/c/ | d2 Bd g2 bg | e2 Ac d2 ^GB | c2 Bc A2 dA | %53
+ B2 GB e2 gB | c2 Ac f2 ac | d2 Bd g2 bg | agfe d2 gd | e2 Ac d2 EG | c2 FA B2 GB | dB g2 B2 AG | %60
+ !fermata!G6 z2 |] %61
+V:2
+ z2 | z DB,G, F,CA,F, | G,B,G,D, B,,D,B,,G,, | C,G,,E,C, D,A,,F,D, | G,2 D,2 B,,2 D,2 | %5
+ G,,DB,G, F,CA,F, | G,B,G,D, B,,G,D,B,, | G,,B,,^C,E, F,,A,, D,2 | E,,G,,A,,^C, D,E,F,D, | %9
+ G,E,F,D, A,2 A,,2 | D,A,,F,,A,, D,,2 z2 | z DB,G, F,CA,F, | G,B,G,D, B,,D,B,,G,, | %13
+ C,G,,E,C, D,A,,F,D, | G,2 D,2 B,,2 D,2 | G,,DB,G, F,CA,F, | G,B,G,D, B,,G,D,B,, | %17
+ G,,B,,^C,E, F,,A,, D,2 | E,,G,,A,,^C, D,E,F,D, | G,E,F,D, A,2 A,,2 | D,A,,F,,A,, D,,2 z2 | %21
+ z DA,F, D,A,F,D, | B,,B,G,D, B,,D,B,,G,, | A,,C,A,,F,, G,,B,,G,,E,, | B,,2 ^C,2 ^D,F,B,D, | %25
+ E,G,B,D, ^C,E,B,C, | ^D,F,A,C B,E,^G,B, | CECA, B,2 B,,2 | E,B,,G,,B,, E,,2 z2 | %29
+ z EB,G, E,G,C,E, | B,,B,G,D, B,,D,G,,B,, | C,E, =F,2 B,,D, E,2 | A,,C,E,G, F,A,F,D, | %33
+ G,D,B,,D, G,,B,,E,G, | A,E,C,E, A,,C,F,A, | B,G,D,G, B,,D,G,B, | DEDC B,DB,G, | %37
+ C,E,F,A, B,,D, G,2 | A,,C,D,F, G,D,B,,D, | G,D,B,,G,, D,2 D,,2 | z2 B,,D, G,2 z2 | %41
+ z DA,F, D,A,F,D, | B,,B,G,D, B,,D,B,,G,, | A,,C,A,,F,, G,,B,,G,,E,, | B,,2 ^C,2 ^D,F,B,D, | %45
+ E,G,B,D, ^C,E,B,C, | ^D,F,A,C B,E,^G,B, | CECA, B,2 B,,2 | E,B,,G,,B,, E,,2 z2 | %49
+ z EB,G, E,G,C,E, | B,,B,G,D, B,,D,G,,B,, | C,E, =F,2 B,,D, E,2 | A,,C,E,G, F,A,F,D, | %53
+ G,D,B,,D, G,,B,,E,G, | A,E,C,E, A,,C,F,A, | B,G,D,G, B,,D,G,B, | DEDC B,DB,G, | %57
+ C,E,F,A, B,,D, G,2 | A,,C,D,F, G,D,B,,D, | G,D,B,,G,, D,2 D,,2 | z2 B,,D, !fermata!G,2 z2 |] %61
+V:3
+ x2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %38
+ x8 | x8 | G,,6 z2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %56
+ x8 | x8 | x8 | x8 | !fermata!G,,6 x2 |] %61
+

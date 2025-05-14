@@ -1,0 +1,77 @@
+X:1
+T:Dance of the Sugar Plum Fairy
+T:Dance of the Sugar Plum Fairy (Gm)
+T:From the Nutcracker
+T:Peter Ilyich Tchaikovsky
+C:Peter Ilyich Tchaikovsky
+%%score 1 2 { 3 | 4 }
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Flute" snm="Fl."
+V:2 treble transpose=-2 nm="B♭ Clarinet" snm="B♭ Cl."
+V:3 treble nm="Piano" snm="Pno."
+V:4 bass 
+V:1
+ z2[Q:1/4=120] .d2 z2 .e2 | z2 .=e2 z2 ._e2 | z2 .d2 z2 .e2 | z2 .=e2 z2 ._e2 | %4
+!mf! z2 .b'.g' .b'2 .a'2 | .^f'2 .g'2 .=f'.f' .f'2 | .=e'.e' .e'2 ._e'.e' .e'2 | %7
+ .d'.g'.e'.g' .d'2 z2 | z2 .b'.g' .b'2 .a'2 | .e'2 .d'2 .b'.b' .b'2 | .a'.a' .a'2 .g'.g' .g'2 | %11
+ .^f'.a'.g'.a' .f'2 z2 | z2 .b'.g' .b'2 .a'2 | .^f'2 .g'2 .=f'.f' .f'2 | %14
+ .=e'.e' .e'2 ._e'.e' .e'2 | .d'.g'.e'.g' .d'2 z2 | z2!mp! .g'.=e' .g'2 .^f'2 | %17
+ z2 .f'.d' .f'2 .=e'2 | z2 .e'.c' .e'2 .d'2 | z2 d'2 g'2 z2 | z!mp! .=e z .^f z .g z .a | %21
+ z .b z (g ^f2)!f! (3(d'e')d' | (c'.b).b.b .b.b (3(bd')c' | (b.a).a.a .a.a z2 | %24
+ z2!mf! .b'.g' .b'2 .a'2 | .^f'2 .g'2 .=f'.f' .f'2 | .=e'.e' .e'2 ._e'.e' .e'2 | %27
+ .d'.g'.e'.g' .d'2 z2 | z2 .b'.g' .b'2 .a'2 | .e'2 .d'2 .b'.b' .b'2 | .a'.a' .a'2 .g'.g' .g'2 | %31
+ .^f'.a'.g'.a' .f'2 z2 | z2 .b'.g' .b'2 .a'2 | .^f'2 .g'2 .=f'.f' .f'2 | %34
+ .=e'.e' .e'2 ._e'.e' .e'2 | .d'.g'.e'.g' .d'2 z2 | z2!mp! .g'.=e' .g'2 .^f'2 | %37
+ z2 .f'.d' .f'2 .=e'2 | z2 .e'.c' .e'2 .d'2 | z2!mf! .d'2 .g'2 z2 |] %40
+V:2
+[K:C]!p! .A2 .c2 .A2 .d2 | .A2 ._e2 .A2 .d2 | .A2 .c2 .A2 .d2 | .A2 ._e2 .A2 .d2 | %4
+ .A2 .e2 .A2 .f2 | .A2 .^f2 .A2 .g2 | .A2 .^f2 .A2 .=f2 | .A2 .a2 .a2"^Solo"!f! (a/g/)^f/e/ | %8
+ ^d2!p!"^Tutti" .a2 .=d2 .B2 | .A2 .^f2 .B2 .a2 | .B2 .e2 .B2 .^f2 | %11
+ .b2 .b2 .b2"^Solo"!f! (e/d/)c/B/ |!p! A2"^Tutti" .e2 .A2 .f2 | .A2 .^f2 .A2 .g2 | %14
+ .A2 .^f2 .A2 .=f2 | .A2 .b2 .c'2"^Solo"!f! (c'/b/)a/g/ | ^f2!pp!"^Tutti" (!>!b4 e2) | %17
+ A2 (!>!a4 d2) | G2 (!>!g4 c2) | .e2 .d2 .c2 z2 |!mf! A2 B2 c2 d2 | e2 c2 B2!mp! (^G2 | A6) (^F2 | %23
+ G6) z2 | z2!p! .e2 .A2 .f2 | .A2 .^f2 .A2 .g2 | .A2 .^f2 .A2 .=f2 | %27
+ .A2 .a2 .a2"^Solo"!f! (a/g/)^f/e/ | ^d2!p!"^Tutti" .a2 .=d2 .B2 | .A2 .^f2 .B2 .a2 | %30
+ .B2 .e2 .B2 .^f2 | .b2 .b2 .b2!f!"^Solo" (e/d/)c/B/ | A2"^Tutti"!p! .e2 .A2 .f2 | %33
+ .A2 .^f2 .A2 .g2 | .A2 .^f2 .A2 .=f2 | .A2 .b2 .c'2"^Solo"!f! (c'/b/)a/g/ | %36
+ ^f2"^Tutti"!pp! (!>!b4 e2) | A2 (!>!a4 d2) | G2 (!>!g4 c2) | .c2!mf! .e2 .A2 z2 |] %40
+V:3
+ z2 .[D,G,]2 z2 .[E,A,]2 | z2 .[=E,B,]2 z2 .[_E,_G,]2 | z2 .[D,G,]2 z2 .[E,A,]2 | %3
+ z2 .[=E,B,]2 z2 .[_E,_G,]2 | z2 .[DB].G .[DB]2 .[CA]2 | %5
+ .[A,_G]2 .[B,=G]2 .[_A,_CF].[A,CF] .[A,CF]2 | %6
+ .[G,B,=E].[G,B,E] .[G,B,E]2 .[_G,A,_E].[G,A,E] .[G,A,E]2 | .[B,D].G[CE].G .[B,D]2 z2 | %8
+ z2 .[EB].G .[EB]2 .[EA]2 | .[_GAe]2 .[=GBd]2 .[_DB].[DB] .[DB]2 | %10
+ .[DFA].[DFA] .[DFA]2 .[_D=EG].[DEG] .[DEG]2 | .[D_G].A.[_D=G]A .[=D_G]2 z2 | %12
+ z2 .[DB].G .[DB]2 .[CA]2 | .[A,_G]2 .[B,=G]2 .[_A,_CF].[A,CF] .[A,CF]2 | %14
+ .[G,B,=E].[G,B,E] .[G,B,E]2 .[_G,A,_E].[G,A,E] .[G,A,E]2 | .[B,D].G.[CE]G .[B,D]2 z2 | %16
+ z2 .[_DG].=E .[DG]2 [C=D_G]2 | z2 .[_CF].D .[CF]2 .[B,=C=E]2 | z2 .[A,E].C .[A,E]2 .[B,D]2 | %19
+ z2 !arpeggio![D_Gd]2 =G2 z2 |!<(! z .=E, z ._G, z .[D,=G,] z .[D,A,]!<)! | %21
+!>(! z [G,B,] z [=E,G,] [D,_G,]2[K:bass] (3D,_E,D,!>)! | (.C,.B,,).B,,.B,, .B,,.B,, (3(B,,D,)C, | %23
+ (.B,,.A,,).A,,.A,, .A,,.A,, z2 |[K:treble]!<(! z .=E, z ._G, z .[D,=G,] z .[D,A,]!<)! | %25
+!>(! z [G,B,] z [=E,G,] [D,_G,]2[K:bass] (3(D,_E,)D,!>)! | (C,.B,,).B,,.B,, .B,,.B,, (3(B,,D,)C, | %27
+ .B,,.A,,.A,,.A,, .A,,.A,, z2 |[K:treble] z [G,B,=E] z [A,C_G] z [B,D=G] D2 | %29
+ z!<(! [A,C_G] z [B,D=G] z [C_GA] D2!<)! | z [B,=EG] z [C_GA] z [D=GB] z [DGB] | %31
+ z [EGc] z [EGc] [D_Gd]2 z2 | z2 .[DB].G .[DB]2 .[CA]2 | %33
+ .[A,_G]2 .[B,=G]2 .[_A,_CF].[A,CF] .[A,CF]2 | %34
+ .[G,B,=E].[G,B,E] .[G,B,E]2 .[_G,A,_E].[G,A,E] .[G,A,E]2 | .[B,D].G.[CE].G .[B,D]2 z2 | %36
+ z2 .[EB].G .[EB]2 .[EA]2 | .[_GAe]2 [=GBd]2 .[_DB].[DB] .[DB]2 | %38
+ .[DFA].[DFA] .[DFA]2 .[_D=EG].[DEG] .[DEG]2 | z2!f!!f!({D_G)A} d2 [=Gg]2 z2 |] %40
+V:4
+ .G,,2 .B,,2 .G,,2 .C,2 | .G,,2 ._D,2 .G,,2 .C,2 | .G,,2 .B,,2 .G,,2 .C,2 | %3
+ .G,,2 ._D,2 .G,,2 .C,2 | .G,,2 .[B,,D,]2 .G,,2 .[C,E,]2 | .G,,2 .[_D,=E,]2 .G,,2 .[=D,F,]2 | %6
+ .G,,2 .[_D,=E,]2 .G,,2 .[C,_E,]2 | .G,,2 G,2 G,2 (G,/F,/)=E,/D,/ | %8
+ (_D,2 .[G,B,]2) .C,2 .[_G,A,]2 | .B,,2 .[D,G,]2 .A,,2 .[_D,G,]2 | %10
+ .A,,2 .[_C,D,]2 A,,2 .[_D,=E,]2 | .[D,A,]2 .[E,A,]2 .[D,A,]2 (D,/C,/)B,,/A,,/ | %12
+ (.G,,2 .[B,,D,]2) .G,,2 .[C,E,]2 | .G,,2 .[_D,=E,]2 .G,,2 .[=D,F,]2 | %14
+ .G,,2 .[_D,=E,]2 .G,,2 .[C,_E,]2 | .G,,2 .[G,A,]2 .[G,B,]2 (B,/A,/)G,/F,/ | (=E,2 (!>!A,4) D,2) | %17
+ G,,2 (!>!G,4 B,,2) | F,,2 (!>!F,4 B,,2) | .D,2 .[A,,C,]2 .[G,,B,,]2 D,,2 | %20
+ [G,,B,,]2!pp! [A,,C,]2 B,,2 C,2 | D,2 B,,2 A,,2!mf! ([D,,_G,,]2 | G,,6) ([C,,=E,,]2 | F,,6) D,,2 | %24
+ [G,,B,,]2!pp! [A,,C,]2 B,,2 C,2 | D,2 B,,2 A,,2!mf! [D,,_G,,]2 | G,,6 ([C,,=E,,]2 | F,,6) D,,2 | %28
+ G,,2 A,,2 B,,4 | A,,2 B,,2 C,4 | B,,2 C,2 D,2!f! D,2 | %31
+[K:treble] !>![D,G,C]2 [D,G,C]2 [D,A,C]2[K:bass] (D,/C,/)B,,/A,,/ | G,,2 .[B,,D,]2 .G,,2 .[C,E,]2 | %33
+ .G,,2 .[_D,=E,]2 .G,,2 .[=D,F,]2 | .G,,2 .[_D,=E,]2 .G,,2 .[C,_E,]2 | %35
+ .G,,2 .G,2 .G,2 (G,/F,/)=E,/D,/ | _D,2 .[G,B,]2 .C,2 .[F,A,]2 | .B,,2 .[D,G,]2 .A,,2 .[_D,G,]2 | %38
+ .A,,2 .[_C,D,]2 .A,,2 .[_D,=E,]2 | .D,,2 .[A,,C,D,]2 .[G,,B,,D,]2 z2 |] %40
+

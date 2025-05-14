@@ -1,0 +1,35 @@
+X:1
+T:Ich ruf zu dir Herr Jesu Christ
+T:BWV 639
+T:Johann Sebastian Bach
+T:Ich ruf zu dir Herr Jesu Christ 
+C:Johann Sebastian Bach
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/8=60
+M:4/4
+K:G
+V:1 treble nm="Tenor Recorder" snm="T. Rec."
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:1
+ B2 | G2 A2 G>F E>F | G/A/G/A/ TA3/2G/4A/4 !fermata!B2 B>c | d2{c} B>A G2 AB |1 %4
+ c2- c/d/4e/4Pc/B/ !fermata!B2 :|2 c2- c/d/4e/4Pc/B/ !fermata!B2 =d2 || e2 dPc/4B/4c/ BAGA | %7
+ B2 A2 !fermata!G2 B2 | B2 B2 A2 G2 | F4 !fermata!E4 | G2 F2 E4 | !fermata!D6 D2 | G2 G2 A2 A2 | %13
+ !fermata!B6 c2 | B2 A2 G2 E>F | G2 F2 !fermata!E2 z2 |] %16
+V:2
+ (G/B/e/^d/) | (e/B/G/E/) (F/A/c/B/) (E/G/B/A/) G/E/G/B/ | %2
+ e/^d/e/g/ f/e/d/e/ (d/B/F/A/) (G/B/e/g/) | (f/d/g/f/) g/d/e/=f/ (e/c/e/g/) (^f/c/B/=f/) |1 %4
+ (e/A/c/e/) (a/g/f/g/) f/B/^d/A/ :|2 (e/A/c/e/) (a/g/f/g/) (f/A/G/e/) (F/c/G/B/) || %6
+ G/B/A/c/ (A/c/g/f/) (g/d/c/f/) (B/e/g/f/) | (g/d/G/=f/) (e/G/F/c/) (B/G/B/d/) (^f/B/A/f/) | %8
+ ^G/B/e/f/ ^g/e/d/g/ c/f/=g/f/ B/e/f/e/ | (c/e/f/e/) (^d/A/c/B/) (G/B/e/d/) (e/B/G/E/) | %10
+ (A/e/f/e/) A/d/e/d/ B/d/e/d/ ^c/F/^A/c/ |[K:treble] F/B/d/c/ (F/A/c/B/) D/G/B/A/ c/A/D/c/ | %12
+ E/G/c/B/ E/G/B/A/ E/G/A/G/ F/A/c/B/ | G/B/d/g/ d/a/b/a/ ^g/d/=f/^G/ A/^f/=G/e/ | %14
+ F/^d/e/=d/ E/c/d/c/ D/B/c/B/ A/e/f/e/ | ^c/e/f/e/ ^d/=c/A/F/ ^G/B/e z2 |] %16
+V:3
+ E,,E,, | E,E,E,^D, E,E,E,=D, | C,C,C,C, B,,B,,E,E, | B,B,B,B, B,B,A,^G, |1 A,=G,F,E, ^D,B,, :|2 %5
+ A,=G,F,E, ^D,E,B,,B,, || C,C,=D,D, G,D,E,C, | D,B,,C,D, G,,G,,^D,D, | E,E,E,E, E,^D,E,C, | %9
+ A,,F,,B,,B,, C,C,C,C, | ^C,C,D,D, ^G,,G,,^A,,A,, | B,,B,,=A,,A,, G,,G,,F,,F,, | %12
+ E,E,D,D, ^C,C,D,D, | G,G,=F,F, E,E,A,,A,, | A,,G,,G,,^F,, F,,E,,C,C, | %15
+ ^A,,A,,B,,B,, !fermata!E,,2 z2 |] %16
+

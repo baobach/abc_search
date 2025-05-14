@@ -1,0 +1,60 @@
+X:1
+T:Swanee (1919) - Piano Solo
+T:Swanee (1919) - Piano Solo
+T:George Gershwin
+C:George Gershwin
+%%score { ( 1 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=100
+M:2/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+!mf! [fa]4 | [fa]4 | (!>![A^cfa][Gcg]) .[Gcg][Fcf] | (!>![A^cfa][Gcg]) .[Gcg][Fcf] | %4
+ !tenuto![Gg]4 | !tenuto![FBdf]2 !tenuto![DGBd]2 | [CBc] [FAcf]3 | z [Gg][Aa][Bb] | %8
+ !>![cfac']3/2!<(!(3((d/4^d/4!<)!e/4) f/)(!>![ac']/f/c/) | %9
+ !>![^c^f^g^c']3/2!<(!(3((=d/4^d/4!<)!e/4) f/)(!>![gc']/f/c/) | %10
+ [=de_bd']"_L.H."(3b/c'/b/ a/>^d'/_a/>=d'/ | .[ge']!>(! ([Bb][c=c']!>)![^d^d']) | %12
+ !>![dgbd']3/2(3((e/4f/4^f/4) g/)(!>![bd']/g/d/) | %13
+ !>![ebc'e']3/2(3(e/4=f/4^f/4) (3(g/a/b/)(3(c'/d'/e'/) | %14
+ !>![=fad'=f']!>![ec'e'] !>![dbd']!>![cac'] |!>(! [dbd'][ce_ac'] [=B_eg=b]!>)![_Bd_g_b] | %16
+!mf! [fa]4 | [fa]4 | (!>![A^cfa][Gcg]) .[Gcg][Fcf] | (!>![A^cfa][Gcg]) .[Gcg][Fcf] | [Gg]4 | %21
+ !tenuto![FBdf]2 !tenuto![DGBd]2 | [CBc] [FAcf]3 | z [Gcg][Afa][Bdb] | %24
+[Q:1/4=110]"_molto cresc." !>![cfac']4 | !>![^cfa^c']4 | %26
+!f! !>![ec'e']!>![dbd'] !>![^ca^c']!>![dbd']- | [dbd']3/2 x/ x [^d=b^d'] | %28
+"_decresc."[Q:1/4=110] !>![e_be'][Q:1/4=100]!>![a=d']/=d/[Q:1/4=80] !>![cgc']!>![Bfb] | %29
+ !>!a !>![Gg]3 |!>(! [FAdf]4!>)! |!p! A2 (G/>F/A/>G/ | F4) | z4 |] %34
+V:2
+ [Ad]/.c/.d/.A/ .c/!tenuto!d.c/ | [Ad]/.c/.d/.A/ .c/!tenuto!d.c/ | x4 | x4 | %4
+ [Bd]>[Bd]- [Bd]/[A^c]/[Bd] | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %16
+ [Ad]/.c/.d/.A/ .c/!tenuto!d.c/ | [Ad]/.c/.d/.A/ .c/!tenuto!d.c/ | x4 | x4 | %20
+ [Bd]>[Bd]- [Bd]/[A^c]/[Bd] | x4 | x4 | x4 | z ([fa] (3([cg]/a/g/).[Af]) | %25
+ z ([fa] (3([!courtesy!^cg]/a/g/).[Af]) | x4 | x4 | x4 | e/A/_e dc | x4 | (C2 x2 | C2) x2 | x4 |] %34
+V:3
+ !arpeggio![F,,C,A,][A,CDF] C,,[A,CDF] | !arpeggio![F,,C,A,][A,CDF] C,,[A,CDF] | %2
+ (!>![A,^CF].[=B,F]) .[B,F].[^CF] | (!>![A,^CF].[=B,F]) .[B,F].[^CF] | %4
+{/B,,,} [B,,,B,,]{/A,,,}[A,,,A,,]{/G,,,} [G,,,G,,]{/A,,,}[A,,,A,,] | %5
+{/B,,,} [B,,,B,,]{/C,,}[C,,C,]{/D,,} [D,,D,]{/E,,}[E,,E,] | F,,4- | [F,,C,] z z2 | %8
+ !arpeggio![A,,D,C][A,CDF] z !arpeggio![A,,D,C] | [^G,,F,=B,][B,^CF] z [G,,F,B,] | %10
+!sfz! !arpeggio![=G,,E,_B,][I:staff -1][de] c_c | .B[I:staff +1] z z2 | %12
+ !arpeggio![G,,D,B,][B,DG] z [G,,G,] | [C,,C,]([B,D] [A,C][G,B,]) | %14
+!ff! !arpeggio!!>![F,,C,A,]!>!E !>!D!>!C | D([^F,CE] [D,_G,B,=D][^G,D^F]) | %16
+ [A,=C=F][A,CF] F,,[A,CDF] | !arpeggio![F,,C,A,][A,CDF] C,,[A,CDF] | %18
+ (!>![A,^CF]>.[=B,F]) .[B,F].[^CF] | (!>![A,^CF]>.[=B,F]) .[B,F].[^CF] | %20
+{/B,,,} [B,,,B,,]{/A,,,}[A,,,A,,]{/G,,,} [G,,,G,,]{/A,,,}[A,,,A,,] | %21
+{/B,,,} [B,,,B,,]{/C,,}[C,,C,]{/D,,} [D,,D,]{/E,,}[E,,E,] | F,,4- | [F,,C,][G,C] [A,F][B,D] | %24
+ [A,,F,C]4 | [A,,G,^C]4 | B,,/F,/D A,,/^F,/=C | G,,/D,/G,/A,/ C/B,/[I:staff -1]=B | %28
+ !>![Gc]!>![F_B] !>![EA]!>![DG] |[I:staff +1] !>![CF]!>![=B,F] [_B,=E]-[C,B,E] | [F,,C,]4 | %31
+ (!>!D,_D,) (!>!D,C,-) | C,4 |!pp! F,,, z z2 |] %34
+V:4
+ x4 | x4 | x4 | x4 | x4 | x4 | F,/C,/D,/A,,/ C,/.D,A,,/ | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %15
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | F,/C,/D,/A,,/ C,/.D,A,,/ | x4 | z F DC | z F ^D!courtesy!^C | %26
+ x4 | x4 | x4 | x4 | (!>!A,G,) (!>!G,F,) | F,,4- | F,,4 | x4 |] %34
+V:5
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x F fd/f/ | x4 |] %34
+

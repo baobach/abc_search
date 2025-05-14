@@ -1,0 +1,69 @@
+X:1
+T:Zwölf Deutsche und Italiänische Romantische Gesänge
+T:Ida (aus Ariels Offenbarungen)
+T:10. Ida (aus Ariels Offenberungen)
+T:Louise Reichardt
+T:Achim von Arnim
+T:Zwölf Deutsche und Italiänische Romantische Gesänge
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+C:Louise Reichardt
+Z:Achim von Arnim
+Z:OpenScore (CC0)
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=90
+M:2/4
+K:Gb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:4 bass 
+V:1
+"^Schauerlich leise und mit\nzunehmender Stärke" E2 E E | F2 F2 | G2 z2 | G2 G G | A2 A2 | B2 z2 | %6
+w: Wenn ich ge-|stor- ben|bin,|leg mich aufs|Schiff- lein|hin,|
+ B2 B A | _G2 F2 | =E4 | F2 B d | c2 =E2 | F2 z2 | z4 |"^sanft." =c2 d e | e3 A | (A2 =G) z | %16
+w: le- ge viel|Feu- er|drein,|dass ich ver-|bren- ne|rein.||Las- se das|Schiff- lein,|frey, *|
+ B2{A} =G F | E3 _D |{D} C2 z2 | e2 A2 | f2 B B | (B _c2) (B/A/) | (A2 G) G | A2 A2 |{AB} _c2 B2 | %25
+w: sin- ge dies|Sprüch- lein|bey:|Heym- dal,|Heym- dal, die|Lie- * be *|dein * war|nicht auf|Er- den|
+ A2 z2 | z2 z d | e3 e | (d=c) (Bc/A/) | (A2 =G) z | B2{A} =G F | E3 D |{D} _C2 z C | %33
+w: mein.|Und|wo mein|Schiff- * lein * *|steht, *|der mit zu|Gra- be|geht, bey|
+ _c3/2 c/ B3/2 B/ | =A A A A | B2 =D2 | E2 z2 | =D F/ A/ c3/2 D/ |{F} E2 z B | %39
+w: dir o  Heym- dal|mein steht es am|har- ten|Stein.|Hart war dein kal- ter|Sinn, um|
+ f (e/=d/) (_cB/) A/ |{A} _G2 z2 | _c c/ c/ e3/2 d/ | c c B =A | B2 =D2 | E2 z B | %45
+w: ihn, ich * stor- * ben|bin,|nimm bald das Nacht- mahl|fein dass du kannst|ster- ben|rein. Weicht|
+ B3/2 B/ B3/2 E/ | (E2 =D) z | B B/ f/ f3/2 A/ | (A2 _G) z | _c c/ c/ B3/2 B/ | =A2 B2- | %51
+w: dir dies Lied den|Sinn, *|wis- se du Flo- cken-|kinn, *|bren- nen kann Lie- be|nicht hör-|
+ B2 (A/G/) (F/E/) | (E2{G} F) E |[Q:1/4=80] E2[Q:1/4=60] z2[Q:1/4=70] | z4 |] %55
+w: * test * sonst *|die- * ses|nicht.||
+V:2
+!ppp! [G,B,E][G,B,E][G,B,E]"_cresc."[G,B,E] | [B,=DF][B,DF][B,DF][B,DF] | %2
+ [B,EG][B,EG][B,EG][B,EG] | [B,EG][B,EG][B,EG][B,EG] | [_DFA][DFA][DFA][DFA] | %5
+ [DGB][DGB][DGB][DGB] | [DGB][DGB][DGB][CFA] | [B,DG][B,DG][B,DF][B,DF] | %8
+ [B,D=E][B,DE][B,DE][B,DE] | [B,DF][B,DF][B,DF][B,DF] | [A,CF][A,CF][G,B,=E][G,B,E] | %11
+!mf! [A,CF]"_dim."[A,CF][A,CF][A,CF] | [B,D=G][B,DG][B,DG][B,DG] |!p! =C/E/A/E/ C/E/A/E/ | %14
+ =C/E/A/E/ C/E/A/E/ | _D/E/=G/E/ D/E/G/E/ | _D/E/=G/E/ D/E/G/E/ | _D/E/=G/E/ D/E/G/E/ | %18
+ =C/E/A/E/ C/E/A/E/ | A,/E/A/E/ A,/E/A/E/ | D/F/B/F/ D/F/B/F/ | _C/F/A/F/ C/F/A/F/ | %22
+ B,/E/A/E/ B,/_D/=G/D/ | A,/_C/A/C/ C/F/A/F/ | _C/E/A/E/ B,/E/=G/E/ |!<(! _C/E/A/E/ C/E/A/E/!<)! | %26
+!mp! =C/E/A/E/ C/E/A/E/ | =C/E/A/E/ C/E/A/E/ | =C/E/A/E/ C/E/A/E/ | B,/D/=G/D/ B,/D/G/D/ | %30
+ B,/D/=G/D/ B,/D/G/D/ | B,/D/=G/D/ B,/D/G/D/ | _C/E/A/E/ C/E/A/E/ | _E/A/_c/A/ E/_G/B/G/ | %34
+ E/_G/=A/G/ E/G/A/G/ | E/G/B/G/ A,/=D/F/D/ | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %47
+ x4 | x4 |!mf! E/_G/c/G/ E/G/B/G/ |"_dim." E/G/=A/G/ E/G/B/G/ | B,/E/G/E/ B,/E/G/E/ | %52
+ A,/E/F/E/ A,/=D/F/!p!D/ | z4 | z4 |] %55
+V:3
+ E,,E,,E,,E,, | B,,B,,B,,B,, | E,E,E,E, | E,E,E,E, | D,D,D,D, | G,G,G,G, | G,G,G,G, | G,G,G,G, | %8
+ G,G,G,G, | F,F,D,B,, | C,C,C,C, | F,,F,,F,,F,, | _E,,E,,E,,E,, | A,,4 | A,,4 | E,4 | E,4 | E,4 | %18
+ A,,4 | =C,4 | D,4 | =D,4 | E,4 | _F,2 =D,2 | E,2 E,,2 | A,,4 | A,,4 | A,,4 | A,,4 | E,4 | E,,4 | %31
+ E,,4 | A,,4 | A,2 B,2 | _CCCC | B,2 B,,2 |!<(! [E,,E,][E,,E,][E,,E,][E,,E,]!<)! |!mf! E,,4 | %38
+ E,,E,,E,,E,, |!f! B,,4 | E,E,E,E, | C,4 | C,4 |!mp! B,,4 | E,,2 E,2 | E,4 | B,,4 | B,,4 | E,4 | %49
+ _C,4 | C2 B,2 | B,,4 | B,,4 | _G,/B,/E/B,/ G,/ x/ x | E,,4 |] %55
+V:4
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %36
+ _G,/B,/E/B,/ G,/B,/E/B,/ | A,/"_cresc."_C/=D/C/ A,/C/D/C/ | G,/B,/E/B,/ G,/B,/E/B,/ | %39
+ A,/=D/F/D/"_dim." A,/D/F/D/ | G,/B,/E/B,/ G,/B,/E/B,/ | G,/_C/E/C/ G,/C/E/C/ | %42
+ G,/C/E/C/ G,/=A,/E/A,/ | G,/B,/E/B,/ F,/A,/=D/A,/ | G,/B,/E/B,/ =G,/B,/E/B,/ | %45
+ =G,/B,/E/B,/ G,/B,/E/B,/ | A,/B,/E/B,/ A,/B,/=D/B,/ | A,/B,/=D/B,/ A,/B,/D/B,/ | %48
+ A,/B,/E/B,/ _G,/B,/E/B,/ | x4 | x4 | x4 | x4 | E,2 z/ E,/B,,/G,,/ | x4 |] %55
+

@@ -1,0 +1,42 @@
+X:1
+T:Orlando di Lasso (1530-1594)
+T:Laudent Deum
+%%score [ 1 2 3 4 ]
+L:1/8
+M:4/2
+K:C
+V:1 treble nm="Cantus"
+V:2 treble nm="Altus"
+V:3 treble nm="Tenor"
+V:4 treble nm="Bassus"
+V:1
+"^C""^Q""^;" x16 ||[K:F] z8 F6 G2 | A4 F4 F8 x2 | c8 c4 AGAB x2 | A2 A2 A4 z4 B4 | B4 B4 A8 x2 | %6
+w: |Lau- *|* dent De-|* um ci * * *|* tha- ra cho-|* ri vox,|
+ G8 AGAG A2 G2 x2 | c3 B A3 G ^F2 G4 !courtesy!^F2 | G4 =B8 B4 |[M:4/2] c6"^(  )" B2 A4 c4 | %10
+w: * tu * * * * ba|fi * * * * * *|des, cor- nu,|or * * ga-|
+ c12 c4 | A2 B2 A2 G2 ^F4 G6 |"^(  )" F2 F6 ED E4"^-" !fermata!x16- | x16 |] x16 |] %15
+w: \-na Al-|le * * * * lu|* * * * * ia.|||
+V:2
+"^C""^Q""^;" x16 ||[K:F] F6 E2 D4 B,4 | F4 C4 D4 D4 x2 | E2 F4 E2 F4 F6 | F2 F4 F8 x2 | F8 F8 x2 | %6
+w: |Lau * * dent|De- um, lau- dent|De * * um ci-|tha- ra, cho-|\-ri vox,|
+ D8 FEFE F2 E2 x2 | E8 D8 | D4 G8 G4 |[M:4/2] E8 F8 | F4 E4 E8 | F6 E2 D4 C4 x2 | C16 x14 | %13
+w: * tu * * * * ba|fi- *|des, cor- nu,|or *|* ga- na.|Al * * le-|lu-|
+"^-" !fermata!x16- |] x16 |] %15
+w: ia.||
+V:3
+"^C""^Q""^;" x16 ||[K:F][K:treble-8] z4 B6 c2 d4 | c2 B2 A2 G2 A4 B6 | A2 G4 A4 cBcd c2 x2 | %4
+w: |Lau * *|* * * * dent De|* * um ci * * * *|
+ c2 c4 d8 x2 | d4 d6 c2 c6 | =BA B4 c4 c4 z4 | c3 B A2 B2 A4 =B4 | d8 d4 x4 | %9
+w: tha- ra, cho-|\-ri vox, * *|* * * tu- ba|fi * * * * des,|cor- nu,|
+[M:4/2][K:treble-8] z4 c6 B2 A2 GF | A4 G4 G4 G4 | d4 d4 A4 G4 x2 | A8 G8 x14 | F16 |] %14
+w: or * * * *|* ga- na. Al-|le- lu- ia, Al-|le- lu-|ia.|
+"^-" !fermata!x16 |] %15
+w: |
+V:4
+"^Q""^;""^E" x16 ||[K:F][K:bass] z16 | F,6 E,2 D,4 B,,4 x2 | C,8 F,4 F,6 | F,2 F,4 B,8 x2 | %5
+w: ||Lau * * dent|De- um ci-|tha- ra, cho-|
+ B,,8 F,8 x2 | G,8 F,C,F,C, F,2 C,2 x2 | A,,8 D,8 | G,8 G,8 |[M:4/2] A,6 G,2 F,6 E,D, | %10
+w: \-ri vox|* tu * * * * ba|fi- des,|cor- nu,|or * * * *|
+ C,4 C,4 C,8 | z4 D,8 E,4 x2 | F,8 C,8 x14 |"^-" !fermata!x16- |] x16 |] %15
+w: * ga- na.|Al- le-|lu- *|ia.||
+

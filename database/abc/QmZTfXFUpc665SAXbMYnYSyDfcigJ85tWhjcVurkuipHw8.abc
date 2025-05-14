@@ -1,0 +1,64 @@
+X:1
+T:Le Cygne
+T:Le Cygne
+T:The Swan from Le Carnavall des animaux
+T:Saint-Saens
+T:Violin
+C:Saint-Saens
+Z:Violin
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=62
+M:6/4
+K:G
+V:1 treble nm="Violin" snm="Vln."
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:1
+ z12 |!p! (g2 f2 B2) (e2 d2 G2) | (A4- AB c4) z2 |!<(! E4 FG ABcd(!tenuto!e!tenuto!f)!<)! | %4
+ b6- b z z4 |!p! (g2 f2 B2) (e2 d2 G2) | (^A4- AB ^c6) | %7
+!<(! (F3 ^G) ^AB ^cdef(!tenuto!^g!tenuto!^a)!<)! | d'6- d' z z2 z2 |!p! (d'2 b2 g2) (e2 f2 g2) | %10
+ (d4- de f4) z2 | (c'2 a2 =f2) (d2 e2 f2) | (c4- cd) e4 z2 |!<(! (e2 A2 B2) c4 de!<)! | %14
+!>(! f6 e4 z2!>)! | (e2 A2 B2) ^c4 de |!>(! =f6!<(! ^f4 f2!>)!!<)! |!mf! g'2 f'2 b2 e'2 d'2 g2 | %18
+ (a4- ab) c'4 z2 | e4 fg abc'd'(e'f') | b'12 | (b2 a2 e2) (g2 f2 c2) | (e2 d2 G2) (A2 B2 G2) | %23
+ B6"_dim." (c2 d2 B2) | e6!p! (e'2 f'2 d'2) |!>(! g'12-!>)! |!>(! g'6- g'6!>)! | z12 |] %28
+V:2
+!p! (B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ B,/D/B/G/) | %1
+ B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ | %2
+ C/E/c/A/ C/E/c/A/C/ E/c/A/ C/E/c/A/ C/E/c/A/ C/E/c/A/ | %3
+ C/E/c/A/ C/E/c/A/ C/E/c/A/ C/E/c/A/ C/E/c/A/ C/E/c/A/ | %4
+ B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ | %5
+ B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ | %6
+ ^C/E/^c/^A/ C/E/c/A/ C/E/c/A/ C/E/c/A/ C/E/c/A/ C/E/c/A/ | %7
+ B,/D/B/F/ B,/D/B/F/ B,/D/B/F/ ^A,/D/^A/F/ A,/D/A/F/ A,/D/A/F/ | %8
+ D/F/B/F/ D/F/B/F/ D/F/B/F/ D/F/B/F/ D/F/B/F/ D/F/B/F/ | %9
+ D/G/d/B/ D/G/d/B/ D/G/d/B/ ^C/E/^c/G/ C/E/c/G/ C/E/c/G/ | %10
+ =C/D/=c/G/ C/D/c/G/ C/D/c/G/ C/D/c/F/ C/D/c/F/ C/D/c/F/ | %11
+ B,/=F/c/A/ C/F/c/A/ C/F/c/A/ B,/D/B/F/ B,/F/B/F/ B,/D/B/F/ | %12
+ _B,/C/_B/=F/ B,/C/B/F/ B,/C/B/F/ B,/C/B/E/ B,/C/B/E/ B,/C/B/E/ | %13
+ A,/E/A/E/ A,/E/A/E/ A,/B,/A/D/ A,/C/A/E/ A,/C/A/E/ A,/C/A/E/ | %14
+ A,/D/A/F/ A,/D/A/F/ A,/D/A/F/ A,/C/A/E/ A,/C/A/E/ A,/C/A/E/ | %15
+ A,/B,/A/D/ A,/B,/A/D/ A,/C/A/D/ A,/^C/A/E/ A,/C/A/E/ A,/C/A/E/ | %16
+ A,/D/A/=F/ B,/D/A/^F/ C/D/A/F/ C/D/A/^F/ C/D/B/F/ C/D/c/F/ | %17
+ B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ | %18
+ C/E/c/A/ C/E/c/A/ C/E/c/A/ C/E/c/A/ C/E/c/A/ C/E/c/A/ | %19
+ C/E/c/A/ C/E/c/A/ C/E/c/A/ C/F/c/A/ C/G/c/A/ C/E/c/A/ | %20
+ B,/D/B/=F/ B,/D/B/F/ B,/D/B/A/ D/^G/d/B/ D/G/d/B/ D/G/d/A/ | %21
+ C/E/c/A/ C/E/c/A/ C/E/c/A/ C/E/c/A/ C/E/c/A/ C/E/c/A/ | B,/D/B/G/ B,/D/B/G/ B,/D/B/G/ [A,CG]6 | %23
+ B,/E/c/A/ D/G/d/B/ G/B/g/d/ z6 | B,/E/B/G/ E/G/e/B/ G/B/g/e/ [Ac] z z2 z2 | %25
+ e/g/e'/b/ d/g/d'/b/ d/e/b/g/ B/e/b/g/ B/e/b/g/ e/g/e'/b/ | %26
+ d/g/d'/b/ B/e/b/g/ B/d/b/g/ E/G/e/B/ D/G/d/G/ B,/D/B/G/ | B, z z2 z2 z6 |] %28
+V:3
+ (G,,D,G,D,G,,B,, G,,B,,G,B,,G,,B,,) | G,,B,,G,B,,G,,B,, G,,B,,G,B,,G,,B,, | %2
+ G,,E,A,E,G,,E, G,,E,A,E,G,,C, | G,,E,A,E,G,,E, G,,D,B,D,G,,D, | G,,D,G,D,G,,B,, G,,D,G,D,G,,B,, | %5
+ G,,B,,G,B,,G,,B,, G,,B,,G,B,,G,,B,, | F,,E,^A,E,F,,E, F,,E,G,E,F,,E, | %7
+ F,,D,F,D,F,,D, F,,^C,F,C,F,,C, | B,,F,B,F,B,,F, B,,F,B,F,B,,F, | G,,D,B,D,G,,D, _B,,E,_B,E,A,,E, | %10
+ F,,B,,A,B,,F,,G,, D,,B,,A,B,,D,,B,, | F,,A,,A,A,,F,,A,, _F,,B,,_A,B,,^F,,B,, | %12
+ =F,,A,,=F,A,,F,,A,, E,,A,,G,A,,E,,A,, | =F,,A,,=F,A,,F,,A,, E,,A,,E,A,,E,,A,, | %14
+ D,,F,,D,F,,D,,F,, E,,F,,G,F,,E,,F,, | =F,,A,,=F,A,,F,,A,, E,,A,,G,A,,E,,A,, | %16
+ D,,A,,D,A,,D,,A,, C,C,,B,,B,,,A,,A,,, | G,,D,G,D,G,,B,, G,,D,G,D,G,,B,, | %18
+ F,,E,A,E,F,,E, F,,E,A,E,F,,E, | F,,E,A,E,F,,E, F,,D,A,D,F,,D, | %20
+ G,,B,,G,B,,=F,,B,, E,,B,,^G,B,,E,,B,, | A,,E,A,E,A,,E, A,,F,A,F,A,,F, | %22
+ G,,B,,G,B,,G,,B,, [E,,E,]6 |{D,,} D,G,B,G,DB, z6 | [D,,D,]2 z2 z2[K:treble] D z z2 z2 | %25
+ z2 bebd eBdBBE | d D[K:bass] EB,DB, B,E,B,D,G,D, | G,, z z2 z2 z6 |] %28
+

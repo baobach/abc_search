@@ -1,0 +1,69 @@
+X:1
+T:Sicut cedrus exaltata sum
+T:Costanzo Porta
+T:Sicut cedrus exaltata sum
+C:Costanzo Porta
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=180
+M:2/2
+K:F
+V:1 alto1 nm="Cantus" snm="C"
+V:2 alto nm="Altus" snm="A"
+V:3 tenor nm="Tenor" snm="T"
+V:4 bass nm="Bassus" snm="B"
+V:1
+ x8 | x8 |[M:4/2][K:treble] z16 | z16 | z8 D8- | D8 D8 | G8 F8 | z4 F8 D4 | F12 G4 | A8 z4 D4 | %10
+w: ||||Si-|* cut|ce- drus|e- xal-|ta- ta|sum in|
+ F2 E2 D2 C2 D2 E2 F2 G2 | A4 F4 D8 | z8 F8 | D8 F8- | F4 G4 A8 | z4 A8 c4- | c4 B4 A8 | z8 z4 D4 | %18
+w: Li- * * * * * * *|* ba- no,|e-|xal- ta-|* ta sum|in Li-|* ba- no|et|
+ D8 D4 D4 | G8 F4 F4 | B4 A4 d2 c2 B2 A2 | B2 G2 B4 A4 A4 | F8 F4 F4 | D6 E2 F4 E4 | z4 E4 A4 F4 | %25
+w: si- cut cy-|pres- sus in|mon- te Si- * * *|* * * on, et|si- cut cy-|pres- * * sus|in mon- te|
+ B12 A4 | z4 A4 G4 A4 | F4 G4 A8- | A8 z4 D4- | D2 E2 F2 G2 A2 D2 d4- | d4 c4 B4 G4 | B4 G8 F4 | %32
+w: Si- on,|in mon- te|Si- * on:|_ qua-||* si myr- rha|e- le- cta,|
+ z4 A4 c4 c4 | B4 G4 F2 D2 F4 | G4 A4 d6 c2 | B4 A4 z8 | z8 A8 | c4 c4 B4 G4 | F2 D2 F4 G4 A4 | %39
+w: de- di su-|a- vi- ta- * *|tem o- do- *|* ris,|de-|di su- a- vi-|ta- * * tem o-|
+ d4 c4 z4 A4 | c4 c4 B6 c2 | d4 G8 F4 | !fermata!G16 |] %43
+w: do- ris, su-|a- vi- ta- *|tem o- do-|ris.|
+V:2
+ x8 | x8 |[M:4/2][K:treble-8] G16 | G8 d8 | c8 z4 B4- | B4 G4 B8- | B4 c4 d4 d4 | %7
+w: ||Si-|cut ce-|drus e-|* xal- ta-|* ta sum in|
+ f2 e2 d2 c2 B2 A2 B4- | B2 A2 F2 G2 A4 B4 | A4 G2 F2 B8 | z4 A4 F4 A4- | A4 B4 A8- | A8 z4 d4- | %13
+w: Li- * * * * * *|* * * * * ba-|no, _ _ _|e- xal- ta-|* ta sum,|_ e-|
+ d4 B4 d4 c4 | B8 z4 c4- | c4 f6 ed c2 A2 | d6 e2 f4 e4 | d16 | z16 | z8 z4 d4 | d8 d4 d4 | %21
+w: * xal- ta- ta|sum in|_ Li- * * * *|* * * ba-|no||et|si- cut cy-|
+ g8 f4 F4 | B4 A4 d2 c2 B2 A2 | B2 G2 B4 A4 c4 | f4 e2 d2 c4 d4 | G8 d8 | d16- | d8 z4 f4- | %28
+w: pres- sus in|mon- te Si- * * *|* * * on, in|mon- * * * te|Si- *|on:|_ qua-|
+ f4 f4 d2 c2 B2 A2 | B4 A4 z4 f4- | f2 f2 f4 d4 _e4 | d12 d4 | z4 f4 e4 f4 | g4 _e4 d8 | %34
+w: * si myr- * * *|* rha, qua-|* si myr- rha e-|le- cta,|de- di su-|a- vi- ta-|
+ c4 A4 G4 F4 | z4 F4 G4 A4 | B4 c4 z4 d4 | e4 f4 g4 _e4 | d8 c4 A4 | G8 A4 d4 | e4 f4 g4 d4 | %41
+w: tem o- do- ris,|su- a- vi-|ta- tem, de-|di su- a- vi-|ta- tem o-|do- ris, su-|a- vi- ta- tem|
+ z4 d4 d8 | d16 |] %43
+w: o- do-|ris.|
+V:3
+ x8 | x8 |[M:4/2][K:treble-8] z16 | z16 | z16 | z16 | z16 | z16 | D16 | D8 G8 | F8 z4 F4- | %11
+w: ||||||||Si-|cut ce-|drus e-|
+ F4 D4 F8- | F4 G4 A4 A4 | B6 B2 A8 | z8 c8 | A4 d6 cB A4- | A4 d8 c4 | d4 B4 G2 F2 G2 A2 | %18
+w: * xal- ta-|* ta sum in|Li- ba- no,|e-|xal- ta- * * *|* * ta|sum in Li- * * *|
+ B12 A4 | B4 A2 G2 A8 | z16 | z16 | z16 | z8 z4 A4 | A8 A4 A4 | d8 D4 D4 | G4 F4 B4 A4 | %27
+w: * ba-|no _ _ _||||et|si- cut cy-|pres- sus in|mon- te Si- on:|
+ z8 z4 D4- | D4 F4 G8- | G4 D4 z4 A4- | A4 A4 B8 | B4 B4 A8- | A4 A4 A8 | G8 z4 D4 | E4 F4 G4 A4 | %35
+w: qua-|* si myr-|* rha, qua-|* si myr-|rha e- le-|* cta, de-|di su-|a- vi- ta- tem,|
+ z4 A4 c4 c4 | B4 G4 F2 D2 F4 | G4 A4 d4 c4 | z4 A4 c4 c4 | B4 G4 F2 D2 F4 | G4 A4 d2 c2 B2 A2 | %41
+w: de- di su-|a- vi- ta- * *|tem o- do- ris,|de- di su-|a- vi- ta- * *|tem o- do- * * *|
+ G2 F2 B4 A8 | G16 |] %43
+w: |ris.|
+V:4
+ x8 | x8 |[M:4/2] z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z8 D,8- | D,16 | D,16 | G,8 F,8 | %14
+w: ||||||||||Si-||cut|ce- drus|
+ z8 F,8- | F,4 D,4 F,8- | F,4 G,4 A,8 | z4 G,4 B,6 A,2 | G,2 F,2 G,8 F,4 | _E,8 D,8 | z16 | %21
+w: e-|* xal- ta-|* ta sum|in Li- *|* * * ba-|no _||
+ z8 D,8 | D,8 D,4 D,4 | G,8 D,4 A,,4 | D,4 C,4 F,2 E,2 D,2 C,2 | B,,2 G,,2 G,8 F,4 | %26
+w: et|si- cut cy-|pres- sus in|mon- te Si- * * *|* * * on,|
+ z4 D,4 G,4 F,4 | B,8 A,8 | D,8 z8 | z8 D,8- | D,4 F,4 G,8 | G,4 G,4 D,8- | D,8 A,,8 | z16 | z16 | %35
+w: in mon- te|Si- *|on:|qua-|* si myr-|rha e- le-|* cta,|||
+ D,8 E,4 F,4 | G,4 _E,4 D,8 | C,4 A,,4 G,,4 C,4 | z4 D,4 E,4 F,4 | G,4 _E,4 D,8 | %40
+w: de- di su-|a- vi- ta-|tem o- do- ris,|de- di su-|a- vi- ta-|
+ C,4 A,,4 G,,6 A,,2 | B,,6 C,2 D,8 | G,,16 |] %43
+w: tem o- do- *||ris.|
+

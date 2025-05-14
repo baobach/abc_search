@@ -1,0 +1,64 @@
+X:1
+T:French Suite III Sarabande
+T:BWV 814
+T:J. S. Bach
+%%score { ( 1 2 6 ) | ( 3 4 5 ) }
+L:1/8
+M:3/4
+K:D
+V:1 treble nm="Harp"
+V:2 treble 
+V:6 treble 
+V:3 bass 
+V:4 bass 
+V:5 bass 
+V:1
+ Bd fb- b^a | bf e/d/c/B/- B^A | Bg- g/f/e/f/- f/e/d/e/ | e/4d/4e3/2- e4- | %4
+ e/d/c/B/ c/A/G/A/ B/c/d/e/ | A/F/E/F/ G/A/B/c/ d/e/f/g/ | a/b/c/d/ F/E/F/d/ G/F/G/E/ | D>A, D4 | %8
+ Bd fb- b^a | bf e/d/c/B/- B^A | Bg- g/f/e/f/- f/e/d/e/ | e/4d/4e3/2- e4- | %12
+ e/d/c/B/ c/A/G/A/ B/c/d/e/ | A/F/E/F/ G/A/B/c/ d/e/f/g/ | a/b/c/d/ F/E/F/d/ G/F/G/E/ | D>A, D4 | %16
+ F4 F/4A/4A/4G/4A/4G/4F/4G/4 | A3 B/c/ d/e/f/d/ | f/d/c/B/ e/A/^G/A/ d/G/F/G/ | E/^G/B/d/ [Ac]4 | %20
+ z2 b2 a2- | a2 ^g2 f2- | f2 f2 ^e2 | f6 | =c/B/c/f/ a/g/a/=c'/ b/a/g/f/ | e/^d/f/a/ g4 | %26
+ f2 ^e2 f2 | ^g2- g/f/^e/g/ f/=e/d/c/ | d/B/^A/B/ F/B/c/d/ E/c/d/e/ | f/d/c/d/ B/e/f/g/ c/g/f/e/ | %30
+ d/b/g/e/ f/B/^A/B/ F/B/c/A/ | B>F B4 | F4 F/4A/4A/4G/4A/4G/4F/4G/4 | A3 B/c/ d/e/f/d/ | %34
+ f/d/c/B/ e/A/^G/A/ d/G/F/G/ | E/^G/B/d/ [Ac]4 | z2 b2 a2- | a2 ^g2 f2- | f2 f2 ^e2 | f6 | %40
+ =c/B/c/f/ a/g/a/=c'/ b/a/g/f/ | e/^d/f/a/ g4 | f2 ^e2 f2 | ^g2- g/f/^e/g/ f/=e/d/c/ | %44
+ d/B/^A/B/ F/B/c/d/ E/c/d/e/ | f/d/c/d/ B/e/f/g/ c/g/f/e/ | d/b/g/e/ f/B/^A/B/ F/B/c/A/ | %47
+ B>F !fermata!B4 |] %48
+V:2
+[I:staff +1] D4 E2 | F4 E2 | D2 C2 B,2- | B,^A,C[I:staff -1]F- FF- | FG- GF- FE- | %5
+ ED- D[I:staff +1]C- CD | DE CD- DC |[I:staff -1] z2 z/[I:staff +1] A,3/2- A,2 | D4 E2 | F4 E2 | %10
+ D2 C2 B,2- | B,^A,C[I:staff -1]F- FF- | FG- GF- FE- | ED- D[I:staff +1]C- CD | DE CD- DC | %15
+[I:staff -1] z2 z/[I:staff +1] A,3/2- A,2 | x6 | x6 | x6 |[I:staff -1] E2- E4 | d4 c2 | B4 A2 | %22
+ ^G6 | A6 | x6 | z f e4 | B2 c2 d2- | d2 c4 | x6 | x6 | x6 | z z/ F/- F<F- F2 | x6 | x6 | x6 | %35
+ E2- E4 | d4 c2 | B4 A2 | ^G6 | A6 | x6 | z f e4 | B2 c2 d2- | d2 c4 | x6 | x6 | x6 | %47
+ z z/ F/- F<!fermata!F- F2 |] %48
+V:3
+ B,4 C2 | D4 C2 | B,2 A,2 G,2 | F,4 ^A,2 | B,2 A,2 G,2 | F,2 E,2 F,2 | G,2 A,G, A,2 | %7
+ z/ E,/F,- F,3/2 z/ z2 | B,4 C2 | D4 C2 | B,2 A,2 G,2 | F,4 ^A,2 | B,2 A,2 G,2 | F,2 E,2 F,2 | %14
+ G,2 A,G, A,2 | z/ E,/F,- F,3/2 z/ z2 | z F, A,D- DC | z D3- DC | D,D- D/C/B,/CB,/A,/B,/ | %19
+ A,2- A,^G,/A,/ B,/G,/A,/F,/ | ^E,/^G,/A,/B,/ A,/G,/F,/E,/ F,/G,/A,/F,/ | %21
+ C,/^E,/F,/^G,/ F,/E,/^D,/C,/ =D,/=E,/F,/D,/ | B,,C,/D,/ C,/B,,/A,,/^G,,/ C,C,, | %23
+ z A,, C,F,- F,G, | A,2 B,2 =C2- | C2 B,/A,/=C/B,/ A,/G,/F,/E,/ | %26
+ D,/C,/D,/F,/ B,/^A,/B,/D/ C/B,/=A,/^G,/ | F,/^E,/^G,/B,/- B,B, ^A,2 | z D, F,B,- B,^A, | %29
+ B,F,- F,2 G,2 | F,^A, B,C DE- | E/C/D- D[I:staff -1] D- D2 |[I:staff +1] z F, A,D- DC | z D3- DC | %34
+ D,D- D/C/B,/CB,/A,/B,/ | A,2- A,^G,/A,/ B,/G,/A,/F,/ | ^E,/^G,/A,/B,/ A,/G,/F,/E,/ F,/G,/A,/F,/ | %37
+ C,/^E,/F,/^G,/ F,/E,/^D,/C,/ =D,/=E,/F,/D,/ | B,,C,/D,/ C,/B,,/A,,/^G,,/ C,C,, | %39
+ z A,, C,F,- F,G, | A,2 B,2 =C2- | C2 B,/A,/=C/B,/ A,/G,/F,/E,/ | %42
+ D,/C,/D,/F,/ B,/^A,/B,/D/ C/B,/=A,/^G,/ | F,/^E,/^G,/B,/- B,B, ^A,2 | z D, F,B,- B,^A, | %45
+ B,F,- F,2 G,2 | F,^A, B,C DE- | E/C/D- D[I:staff -1] !fermata!D- D2 |] %48
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | D,2- D,>D, A,,/F,,/D,, | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %15
+ D,2- D,>D, A,,/F,,/D,, | D,4 E,2 | F,2 A,F, E,2 | x6 | x6 | x6 | x6 | x6 | F,,4 E,2 | ^D,6 | E,6 | %26
+ x6 | z/ ^E,3/2 F,4 | B,,4 C,2 | D,2 D,B,,- B,,^A,, | B,,C, D,E, F,2 | B,2- B,>B, F,/D,/B,, | %32
+ D,4 E,2 | F,2 A,F, E,2 | x6 | x6 | x6 | x6 | x6 | F,,4 E,2 | ^D,6 | E,6 | x6 | z/ ^E,3/2 F,4 | %44
+ B,,4 C,2 | D,2 D,B,,- B,,^A,, | B,,C, D,E, F,2 | B,2- B,>B, F,/D,/!fermata!B,, |] %48
+V:5
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | z2 z F,- F,2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %15
+ z2 z F,- F,2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %32
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %48
+V:6
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | z/ ^d3/2 z4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %37
+ x6 | x6 | x6 | x6 | z/ ^d3/2 z4 | x6 | x6 | x6 | x6 | x6 | x6 |] %48
+

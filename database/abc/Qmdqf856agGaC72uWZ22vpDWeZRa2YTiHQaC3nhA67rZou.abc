@@ -1,0 +1,42 @@
+X:1
+T:Title
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="Midi_1"
+V:2 treble nm="Midi_1"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Sopran" c2 | %1
+w: Lob,|
+ c2 c2 (de)"^Nun danket alle Gott:""^Descant for the wedding of Alexandra and Gerhard" f2 | %2
+w: Ehr und Preis * sei|
+ (f2 ed c2) A2 | B2 (cd) e2 f2 | (f2 e2) f2 || (fd) | c2 A2 B2 d2 | c6 A2 | B2 c2 d3 ^c | %9
+w: Gott, * * * dem|Va- ter * und dem|Soh * ne|und *|Gott dem Heil- gen|Geist im|höch- sten Him- mels-|
+ d2 (!courtesy!=cB) A2 || G2 | =B2 c2 (de) f2 | e4 e4 | f2 e2 d2 d2 | (c2 d2 e2) || (fe) | %16
+w: thro * * ne,|ihm,|dem drei- ein' * gen|Gott, wie|es im An- fang|war * *|und *|
+ d2 c2 B2 A2 | G6 (AB) | c2 c2 d2 e2 | f6 |] %20
+w: ist und blei- ben|wird so *|jetzt und im- mer-|dar.|
+V:2
+"^ATB Unisono" c2 | c2 c2 d2 d2 | c6 A2 | B2 A2 G2 A2 | G4 F2 || c2 | c2 c2 d2 d2 | c6 A2 | %8
+ B2 A2 G2 A2 | G4 F2 || G2 | G2 G2 A2 A2 | G6 G2 | A2 c2 c2 =B2 | c6 || c2 | d2 c2 B2 A2 | B6 A2 | %18
+ G2 A2 G2 G2 | F6 |] %20
+V:3
+ F2 | G2 F2 F2 F2 | F6 F2 | DE F2 E2 F2 | F2 E2 F2 || F2 | G2 F2 F2 F2 | F6 F2 | F2 E2 D2 E2 | %9
+ D2 E2 F2 || E2 | D2 C2 C2 F2 | E6 E2 | F2 E2 A2 G2 | G6 || F2 | F2 F2 D2 D2 | D6 F2 | %18
+ E2 F2 F2 E2 | C6 |] %20
+V:4
+ A,2 | CB, A,2 B,2 B,2 | A,6 C2 | B,2 C2 C2 C2 | D2 CB, A,2 || A,2 | CB, A,2 B,2 B,2 | %7
+ A,2 B,2 C2 C2 | B,2 C2 D3 ^C | D2 CB, A,2 || C2 | =B,2 C2 A,2 B,2 | C6 C2 | C2 C2 D2 D2 | E6 || %15
+"^Descant by Andrew Sims""^Berlin, September 2006" A,2 | B,2 A,2 G,2 ^F,2 | G,6 C2 | C2 C2 D2 CB, | %19
+ A,6 |] %20
+V:5
+ F,2 | E,2 F,2 B,,2 D,2 | F,6 F,,2 | G,,2 A,,B,, C,2 F,2 | B,,2 C,2 F,,2 || F,2 | %6
+ E,2 F,_E, D,C, B,,2 | F,2 G,2 A,2 F,E, | D,2 C,2 B,,2 A,,2 | B,,2 C,2 F,,2 || C,2 | %11
+ G,F, E,2 F,2 G,2 | C,6 C,2 | F,2 A,G, F,2 G,2 | C,6 || F,2 | B,,2 F,2 G,2 D,2 | G,,6 A,,B,, | %18
+ C,2 F,2 B,,2 C,2 | F,,6 |] %20
+

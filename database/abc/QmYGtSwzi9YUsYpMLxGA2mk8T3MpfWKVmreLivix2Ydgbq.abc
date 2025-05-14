@@ -1,0 +1,45 @@
+X:1
+T:Once upon a time in west
+T:Once Upon a Time in The West
+T: Composer Ennio Morricone
+T:Arrangement by Islam Albakov
+C:Ennio Moricone
+Z:Islam Albakov
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=70
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ [ce]>[Bd] | [Bd]>[Ac] [Ac]>[GB] [Bd]>[Ac] [Ac]>[GB] | [FA]6 [fa]>[eg] | %3
+ [eg]>[df] [df]>[ce] [eg]>[df] [df]>[ce] | [ce]6 [ce]>[Bd] | %5
+ [Bd]>[Ac] [Ac]>[GB] [Bd]>[Ac] [Ac]>[GB] | [FA]6 [fa]>[eg] | %7
+ [eg]>[df] [df]>[ce] [eg]>[df] [df]>[ce] | [ce]6[Q:1/4=90] G,2 | [G,E]8- | [G,E]2 F2 E2 D2 | %11
+ [A,C-]8 | [_B,C]6 C2 | A4!<(! [Af]4-!<)! | [Af]4 [Ge]2 [Fd]2 | [GBe]8- | [GBe]4 d4 | %17
+ [E-A-d]4 [EAc]4- | [EAc]2 B2 c2!>(! A2!>)! | [B,EG]8- | [B,EG]4 G4 | [CA]4 C4- | C4 D4 | %23
+ [G,B,E]8 |[Q:1/4=110]!p! E2 A2 A2 E2 | E8 |!mp! E2 B2 B2 A2 | E6 E2 |!<(! F2 c2 c2 F2!<)! | %29
+ ^F2 c2 c2 ^F2 |!f! G4 c2 B2 | B2 A2 A2 G2 | G4 F4- | F6 G2 |!ff! [Ge]8- | %35
+ [Ge]2 [Ff]2 [Ee]2 [Dd]2 | [Ac-]8 | [_Bc]6 C2 | A4!<(! [Af]4-!<)! | [Af]4 [Ee]2 [Dd]2 | %40
+ [EG-B-e-]8 |!>(! [GBe]4 d4!>)! |!mf! [EAd]4 [EAc]4- | [EAc]2 B2 c2 A2 | [B,EG]8- | [B,EG]6 G2 | %46
+!<(! A4 [Af]4!<)! | [Fd]6 [Fc]2 | [EGc]8- | [CEGc]6 z2 |] %50
+V:2
+ x2 | !arpeggio![C,,G,,C,E,]8 | !arpeggio![F,,C,F,A,]8 | !arpeggio![G,,D,G,B,]8 | %4
+ !arpeggio![C,,G,,C,E,]8 | !arpeggio![C,,G,,C,E,]8 | !arpeggio![F,,C,F,A,]8 | %7
+ !arpeggio![G,,D,G,B,]8 | !arpeggio![C,,E,,C,G,]6 z2 | C,,2 [G,CE]2 G,,2 [G,CE]2 | %10
+ C,,2 [G,CE]2 B,,,2 [D,F,G,B,]2 | A,,2 [A,CE]2 E,,2 [A,CE]2 | G,,2 [G,_B,CE]2 C,,2 [G,_B,CE]2 | %13
+ F,,2 [A,CF]2 C,,2 [A,CF]2 | F,,2 [A,CF]2 C,,2 [A,CF]2 | C,,2 [G,CE]2 G,,2 [G,CE]2 | %16
+ C,,2 [G,CE]2 G,,2 [G,CE]2 | A,,2 [A,CE]2 E,,2 [A,CE]2 | A,,2 [A,CE]2 E,,2 [A,CE]2 | %19
+ E,,2 [G,B,E]2 B,,2 [G,B,E]2 | E,,2 [G,B,E]2 B,,2 [G,B,E]2 | F,,2 [A,CF]2 C,,2 [A,CF]2 | %22
+ F,,2 [A,CF]2 C,,2 [A,CF]2 | C,,2 [G,CE]2 G,,2 [G,CE]2 | A,,2 [A,CE]2 E,,2 [A,CE]2 | %25
+ A,,2 [A,CE]2 E,,2 [A,CE]2 | E,,2 [G,B,E]2 B,,2 [G,B,E]2 | E,,2 [G,B,E]2 B,,2 [G,B,E]2 | %28
+ F,,2 [A,CF]2 C,,2 [A,CF]2 | ^F,,2 [^F,A,C_E]2 ^F,,2 [^F,A,C_E]2 | G,,2 [G,CE]2 C,,2 [G,CE]2 | %31
+ F,,2 [A,CF]2 F,,2 [A,CF]2 | G,,2 [G,B,DF]2 D,,2 [G,B,DF]2 | G,,2 [G,B,DF]2 D,,2 [G,B,DF]2 | %34
+ C,,2 [G,CE]2 G,,2 [G,CE]2 | C,,2 [G,CE]2 D,,2 [D,G,B,]2 | F,,2 [A,CF]2 F,,2 [A,CF]2 | %37
+ G,,2 [G,_B,CE]2 C,,2 [G,_B,CE]2 | F,,2 [A,CF]2 C,,2 [A,CF]2 | F,,2 [A,CF]2 C,,2 [A,CF]2 | %40
+ C,,2 [G,CE]2 G,,2 [G,CE]2 | C,,2 [G,CE]2 D,,2 [D,G,B,]2 | A,,2 [A,CE]2 E,,2 [A,CE]2 | %43
+ A,,2 [A,CE]2 E,,2 [A,CE]2 | E,,2 [G,B,E]2 B,,2 [G,B,E]2 | E,,2 [G,B,E]2 B,,2 [G,B,E]2 | %46
+ F,,2 [A,CF]2 F,,2 [A,CF]2 | G,,2 [G,B,DF]2 D,,2 [G,B,DF]2 | C,,2 [G,CE]2 G,,2"^dim." [G,CE]2 | %49
+ [C,,C,G,CE]6 z2 |] %50
+

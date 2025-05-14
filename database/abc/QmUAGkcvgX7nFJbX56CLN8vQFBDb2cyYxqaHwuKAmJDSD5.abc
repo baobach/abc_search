@@ -1,0 +1,40 @@
+X:1
+T:Title
+%%score 1 { 2 | ( 3 4 5 ) }
+L:1/8
+M:9/8
+K:C
+V:1 treble nm="Akkordion"
+V:2 treble nm="Grand Piano"
+V:3 bass 
+V:4 bass 
+V:5 bass 
+V:1
+ z3 z2[Q:1/4=100] G A2 E | A3- A2 G/G/ A2 c | B6 F3 | FGA B3 A3 | E3- E2 G/G/ A2 E | %5
+ A3- A2 G/G/ A2 c | B6 B2 B | B2 A A3 B2 c |[M:3/4] [Bd]6 |[M:2/4] G A2 E |[M:9/8] A3- A2 G A2 c | %11
+ B6 F3 | F2 G A3 B2 A | E3- E2 c/B/ A2 G | ^F G2- G2 c/B/ A2 ^G | B A2- A2 z B3 | %16
+ cEA E D2- D3[Q:1/4=97][Q:1/4=94][Q:1/4=91][Q:1/4=88][Q:1/4=84][Q:1/4=81][Q:1/4=78] | %17
+[M:5/8] C-C- C3 |] %18
+V:2
+ z3 z2 [CE] [CE]2 [CE] | [A,CE]3- [A,CE]2 E/E/ E2 E | [B,DF]6 [F,DF]3 | %3
+ [F,DF][G,DF][A,DF] [B,DF]3 [A,DF]3 | [E,CE]3- [E,CE]2 [CE]/[CE]/ [CE]2[K:treble] [CE] | %5
+ [A,CE]3- [A,CE][CE]/[CE]/[CE]- [CE] [EG]2 | [B,DG]6 [B,DG]2 [DG] | %7
+ [B,DG]2 [A,C^F] [A,CF]3 [B,DG]2 [CFA] |[M:3/4] [DFB]6 |[M:2/4] [CE] [CE]2 [CE] | %10
+[M:9/8] [A,CE]3- [A,CE]2 [CE] [CE]2 E | [B,DF]6 [F,DF]3 | [F,DF]2 [G,DF] [A,DF]3 [B,DF]2 [A,DF] | %13
+ [E,CE]3- [E,CE]2 E/[DE]/ [CE]2 [CE] | [^F,C_E][K:treble] [C=E]2- [CE]2 E/[DE]/ [CE]2 [CE] | %15
+ [B,CF] [CF]2- [CF]2 z [F,B,DF]3 | [G,CG][CE][K:bass][F,A,F] [G,CE] [F,B,D]2- [F,B,D]3 | %17
+[M:5/8] [E,G,C]-[E,G,C]- [E,G,C]3 |] %18
+V:3
+ z3 z2 G, A,2 E, | C,,2 G,, C,2 [G,C]/[G,C]/ [A,C]2 C | D,,2 G,, G,,,3 G,,3 | %3
+ G,,,G,,G,, G,,,G,,G,, G,,,G,,G,, | C,,2 G,, C,2 G,/G,/ A,2 E, | C,,2 G,, z G,/G,/A,- A, C2 | %6
+ z3 z3 D,3 | D,,D,D, D,,D,D, D,,D,D, |[M:3/4] G,,2 D,, G,,,3 |[M:2/4] G, A,2 E, | %10
+[M:9/8] C,,2 G,, C,2 G, A,2 C | D,,2 G,, G,,,3 G,,3 | G,,,G,,G,, G,,,G,,G,, G,,,G,,G,, | %13
+ C,2 G,, C,,2 C/B,/ A,2 G, | z G,2- G,2 z z3 | z A,2- A,2 z z3 | %16
+ [E,,E,][A,,E,A,][D,,D,] G,,,G,,G,, G,,,G,,G,, |[M:5/8] C,2 G,, C,,2 |] %18
+V:4
+ x9 | x9 | x9 | x9 | x9 | z3 .C,3 z3 | D,,2 D, D,,3 z2 B, | x9 |[M:3/4] x6 |[M:2/4] x4 | %10
+[M:9/8] x9 | x9 | x9 | x9 | z2 G,, C,2 C/B,/ A,2 ^G, | z2 C, .F,3 F,,3 | x9 |[M:5/8] x5 |] %18
+V:5
+ x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 |[M:3/4] x6 |[M:2/4] x4 |[M:9/8] x9 | x9 | x9 | x9 | %14
+ .C,,3 z3 z3 | .F,,3 z3 z3 | x9 |[M:5/8] x5 |] %18
+

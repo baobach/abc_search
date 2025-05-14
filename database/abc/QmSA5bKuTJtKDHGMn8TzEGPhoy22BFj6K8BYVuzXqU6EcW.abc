@@ -1,0 +1,36 @@
+X:1
+T:5 Lo! He comes, with clouds decending
+T:5 Lo! He comes, with clouds decending
+T:J. F. Wade Cantus Diversi, 1751
+T:St Thomas
+T:4 verse
+C:J. F. Wade Cantus Diversi, 1751
+Z:St Thomas
+%%score 1 2 3 4
+L:1/8
+Q:1/2=80
+M:4/2
+K:D
+V:1 treble transpose=-2 nm="B♭ Trumpet" snm="B♭ Tpt."
+V:2 treble transpose=-2 nm="B♭ Trumpet" snm="B♭ Tpt."
+V:3 bass nm="Trombone" snm="Trom."
+V:4 bass nm="Tuba" snm="Tba."
+V:1
+[K:D]!mf! E4 F4 ^G4 E4 | F4 ^G4 A4 !breath!F4 |!<(! c4 B4 A4 ^G4 | F4 F4 !breath!E8!<)! || %4
+!f! e4 ^d4 e4 B4 | c4 B4 A4 !breath!^G4 | c4 ^d4 e4 d4 | c4 c4 !breath!B8 ||!mf! B4 B4 ^G4 E4 | %9
+ F4 ^G4 A4 !breath!G4 |!>(! B4 ^G4 c4 B2 A2 | ^G4 F4!>)! !fermata!E8 || E8 E8 |] %13
+V:2
+[K:D]!mf! B,4 ^D4 E4 E4 | B,4 E4 ^D4 !breath!E4 |!<(! E4 E4 E2 ^D2 E4 | E4 ^D4 !breath!E8!<)! || %4
+!f! ^G4 F4 E4 E4 | E4 E4 ^D4 !breath!E4 | ^G6 E2 E4 F4 | F6 E2 !breath!^D8 ||!mf! E4 F4 E4 E4 | %9
+ ^D4 E4 E2 D2 !breath!E4 |!>(! E6 ^D2 C2 D2 E4 | E4 ^D4!>)! !fermata!E8 || C8 B,8 |] %13
+V:3
+!mf! F,4 A,4 A,4 A,4 | A,4 A,4 A,4 !breath!A,4 |!<(! G,4 A,4 B,2 G,2 A,4 | %3
+ A,6 G,2 !breath!F,8!<)! ||!f! A,4 G,4 A,4 F,4 | G,4 A,4 A,4 !breath!A,4 | D4 C4 B,4 A,4 | %7
+ A,4 ^G,4 !breath!A,8 ||!mf! A,4 A,4 A,4 A,4 | A,4 A,4 G,4 !breath!A,4 |!>(! A,4 A,4 G,4 A,2 B,2 | %11
+ A,6 G,2!>)! !fermata!F,8 || G,8 F,8 |] %13
+V:4
+!mf! D,4 A,,4 D,4 F,4 | C,4 D,4 E,4 !breath!D,4 |!<(! G,4 F,4 E,4 D,4 | %3
+ A,,4 A,,4 !breath!D,8!<)! ||!f! D,4 E,4 F,4 D,4 | G,4 F,4 E,4 !breath!D,4 | %6
+ B,,4 ^A,,4 B,,4 C,2 D,2 | E,4 E,,4 !breath!A,,8 ||!mf! F,4 C,4 D,4 F,4 | G,4 F,4 E,4 !breath!D,4 | %10
+!>(! F,4 D,4 G,4 F,2 G,2 | A,4 A,,4!>)! !fermata!D,8 || G,,8 D,8 |] %13
+

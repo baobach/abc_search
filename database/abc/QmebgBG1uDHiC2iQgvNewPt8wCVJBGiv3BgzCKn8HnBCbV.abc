@@ -1,0 +1,72 @@
+X:1
+T:Voluntary 1
+T:12 Voluntaries Fugues
+T:Voluntary I
+T:12 Voluntaries Fugues 
+T:Handel, George Frideric 
+T:Principal
+T:Oli 2020
+T:Oli 2020
+C:Handel, George Frideric
+C:
+Z:Oli 2020
+%%score { ( 1 4 ) | ( 2 3 5 ) }
+L:1/8
+Q:1/4=114
+M:4/4
+K:C
+V:1 treble nm="Piano"
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:5 bass 
+V:1
+"^Diapason" z2 C2 B,A, G,2 | A,2 B,C F2 E2 | D4 D4 | C2 B,D E2 DC | B,2 C2 C2 B,2 | C2 z2 D2 DE | %6
+ C2 DC B,2 A,G, | z8 |[I:staff +1] A,4[I:staff -1] D4- | D2 ED C2 DC | G2 AG G2 ^F2 | GFED GFED | %12
+ E2 E2 D2 E2 | ED C2[I:staff +1] B,2[I:staff -1] ED | C2[I:staff +1] A,2 ^G,2 ^F,G, | %15
+ A,2 B,C[I:staff -1] D2 EF | x2 A_B A4 | _B4 AGFE | F2 E2 F2 z2 | G2 GF E2 DC | B,2 C2 C2 B,2 | %21
+ z2 C2 B,2 A,B, | C2 F2 E2 D2 | G2 F2 F2 E2 | E2 FEDC B,4 | C2 F2 E2 D2 | C6 z2 |] %27
+[M:4/4][Q:1/4=110]"^Allegro" Tc3 e d/c/B/A/ G/F/E/D/ | EC E^F GD G2- | G2 [A,^F]2 G3 G | %30
+ AG/F/ AB [Gc]3 e | d/c/B/A/ G/F/E/D/ EC A2- | A/A/G/^F/ z/ d/c/B/ c2- c/c/B/A/ | %33
+ BG e2- e/e/d/^c/ d/e/f/d/ | g2- g/g/f/e/ f2- f/f/e/d/ | ec a2- a/a/g/^f/ g/a/_b/g/ | %36
+ c'2- c'/c'/_b/a/ _b2- b/b/a/g/ | a2 f4 e2 | f2 a2 g2- g/g/f/e/ | f2- f/f/e/d/ e2- e/e/f/^c/ | %40
+ d2- d/f/e/d/ d/^c/d/e/ G/_B/A/G/ | F/A/d/F/ E^c d/^F/G/A/ D/!tenuto!=c/B/A/ | %42
+ c/B/A/G/ g2- g/g/f/e/ f2- | f/f/e/d/ e2 d2- d/d/c/B/ | a3 c' b/a/^g/^f/ e/d/c/B/ | %45
+ d/c/B/A/ a/c/d/c/ c/B/A/G/ g/_B/c/B/ | _B/A/G/F/ f/A/_B/A/ A/G/F/E/ e/G/A/G/ | %47
+ G/F/E/D/ d/F/G/F/ F/E/D/C/ G/E/D/C/ | A/F/E/D/ B/G/F/E/ c2- c/c/B/A/ | g2 z d g2 f2 | %50
+ f2 e2- e/e/d/c/ d2- | d/d/c/B/ c/G/A/_B/ A3 A | G3 F E2 D2 | C8 |] %54
+V:2
+ C,4 D,2 E,2 | z2 z G, A,B, C2 | C2 B,A, B,2 A,G, | G,2 z2 G,2 A,2 | G,2 G,2 E,2 D,2 | %5
+ E,2 E,^F, G,4 | A,,2 ^F,2 G,2 C,E, | ^F,2 E,F, [D,G,]2 [^F,C][G,B,] | G,2 ^F,E, F,2 F,2 | %9
+ G,4- G,2 ^F,2 | B,2 CB, B,2 A,2 | [G,,G,]4 G,3 ^G, | A,2 G,2 F,2 E,D, | C,D, E,2 ^G,4 | %14
+ z4 E,2 D,2 | z4 F,2 D,2 | ^C,4 D,E,F,D, | G,A,_B,G, A,2 D,2 | A,2 A,,2 D,2 D,C, | %19
+ B,,2 G,,2 C,2 F,,2- | G,2 E,2 E,2 D,2 | z4 G,2 F,2 | G,2 A,B, C2 B,2 | C,E, A,2 D,F, G,2 | %24
+ G,2 A,G,F,E, G,2 F,2 | E,2 A,2[I:staff -1] C2 B,2 |[I:staff +1] [C,,C,]6 z2 |][M:4/4] z2 C4 B,2 | %28
+ C2 z2 G,3 B, | A,/G,/^F,/E,/ D,/C,/B,,/A,,/ B,,G,, G,2- | G,2 F,2 E,C, x2 | C2 B,2 C2 C2 | %32
+ B,2 B,,2 A,,2 D,2 | G,,2 G,2 F,2 F,,2 | E,,2 E,2 D,2 G,2 | C,2 C2 _B,2 _B,,2 | A,,2 A,2 G,2 C,2 | %37
+ F,3 A, G,/F,/E,/D,/ C,/_B,,/A,,/G,,/ | A,,F,, F,2 E,2 A,2 | D,2 D2 C2 C,2 | _B,,2 _B,2 A,2 ^C,2 | %41
+ D,2 A,4 ^F,2 | G,2 G,,2 A,,2 B,,2 | C,2 C2 B,2 ^G,2 | A,,2 A,4 ^G,2 | A,2 ^F,2 G,2 E,2 | %46
+ F,2 D,2 E,2 ^C,2 | A,2 G,4 G,2 | F,2 G,2 A,2 D,2 | G,3 B, A,/G,/F,/E,/ D,/C,/B,,/A,,/ | %50
+ B,,G,, C,2 A,,2 B,,2 | C,3 C, F,/G,/A,/G,/ F,/E,/D,/C,/ | B,,B,, C,F, G,2 G,,2 | [C,E,G,]8 |] %54
+V:3
+ x8 | F,3 E, D,2 C,2 | G,4 F,4 | E,2 D,B,, C,2 F,,2- | F,,2 E,,2 G,,4 | C,4 B,,2 B,,C, | x8 | %7
+ D,2 C,2 B,,2 A,,G,, | D,4 B,,2 B,,D, | E,4 A,,2 D,2 | G,2 C,2 D,2 D,,2 | x8 | x8 | x8 | A,,4 x4 | %15
+ C,2 B,,A,, ^G,,2 x2 | x8 | x8 | x8 | x8 | F,,2 C,,2 G,,4 | C,4 x4 | E,2 D,2 C,2 G,2 | x8 | %24
+ F,,6 G,,4 | C,,2 F,,2 G,,4 | x8 |][M:4/4] x8 | x8 | x8 | x8 | F,2 G,2 C,2 z/[I:staff -1] E/^F/E/ | %32
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %47
+[I:staff +1] D,2 =B,,2 C,2 E,2 | x8 | x8 | x8 | x8 | x8 | x8 |] %54
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z2 z2 EDCB, | C2 B,2 A,2[I:staff +1] ^G,2 | %13
+[I:staff -1] A,B, A,2 x4 | z2 x6 | x8 | G4- G2 F2- | F2 ED ^C2 D2 | D2 ^C2 D2 x2 | %19
+ D2[I:staff +1] B,2 G,2 A,2 | x8 | x8 | x8 |[I:staff -1] E2 E2 D2 B,2 | x10 | x8 | x8 |] %27
+[M:4/4] x8 | x6 z D | C2 x2 D3 B, | CC/B,/ CD E2[I:staff +1] C2- | x8 | %32
+[I:staff -1] D2 G2- G/G/^F/E/ ^F2 | G2 z/ B/A/G/ A4 | z/ d/e/B/ c2- c/c/d/A/ B2 | c2 z/ e/f/e/ d4 | %36
+ z/ g/a/e/ f2- f/f/g/d/ e2 | fc z e _B2 G2 | F2 z/ f/e/d/ z/ d/^c/B/ ^c2 | dA _B2- B/B/c/^G/ A2- | %40
+ A/A/_B/^F/ G2- G2 E2 | x8 | x2 z/ d/c/B/ c2- c/B/c/d/ | G2 z/ c/B/A/ z/ ^G/A/B/ E2 | %44
+ cA ce d2 BE- | E2 D4 C2- |[I:staff +1] C2 _B,4 A,2- | x8 |[I:staff -1] x4 z/ G/^F/E/ ^F2 | %49
+ BG x2 c2 A2 | G2 z/ G/A/G/ F2- F/F/G/F/ | E4 CF CF- | FE/D/ ED C2 B,2 | x8 |] %54
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 E,,4 | x8 | x8 | x8 | x8 | %18
+ x8 | x8 | x8 | x8 | x8 | x8 | x10 | x8 | x8 |][M:4/4] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %36
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %54
+

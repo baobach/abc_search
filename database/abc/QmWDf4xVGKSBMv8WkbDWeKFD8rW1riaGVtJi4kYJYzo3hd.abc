@@ -1,0 +1,79 @@
+X:1
+T:Eichendorff-Lieder
+T:Die Nacht
+T:Eichendorff-Lieder
+T:19. Die Nacht
+T:Hugo Wolf
+T:Joseph von Eichendorff
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+C:Hugo Wolf
+Z:Joseph von Eichendorff
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=70
+M:4/4
+K:A
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Sehr langsam" z8 | z8 |[K:A][K:treble] z8 | z8 |!pp! A3/2 A/ A B A3/2 G/ G2 | %5
+w: ||||Nacht ist wie ein stil- les Meer,|
+w: ||||Night is like a sea that heaves:|
+ G3/2 G/ c3/2 c/ (B c/) d/ d c | c3/2 c/ c ^d c3/2 ^B/ B2 | =B B B (A/=G/) (F2 A3/2) ^G/ | %8
+w: Lust und Leid und Lie- bes- * kla- gen|kom- men so ver- wor- ren her|in dem lin- den * Wel- * len-|
+w: joy and grief and love's * en- trea- ting|sound like voi- ces o'er the waves|on the shore in- * ces- * sant|
+ G F z2 z4 | B3/2 F/ F F B3/2 =G/ G2 | E =G =c c =d (e/=f/) e c | _e3/2 e/ =c _B _A3/2 c/ (e_G) | %12
+w: schla- gen.|Wün- sche wie die Wol- ken sind,|schif- fen durch die stil- len * Räu- me,|wer er- kennt im lau- en Wind, _|
+w: beat- ing.|Wish- es, light as clouds in air,|float be- neath the stars bright * gleam- ing,|heav'n- sent mes- sage each doth bear: _|
+ z/!pp! =F F/ _A _E[Q:1/4=66]"^poco rit." z/ =E[Q:1/4=62] E/ ^G !fermata!^D | %13
+w: ob's Ge- dan- ken o- der Träu- me?|
+w: are we wak- ing? are we dream- ing?|
+[Q:1/4=70]"^a tempo" z8 | !fermata!z8 | A3/2 A/ A B A3/2 G/ G2 | G G c3/2 c/ B (c/d/) d c | %17
+w: ||Schliess' ich nun auch Herz und Mund,|die so gern den Ster- nen _ kla- gen;|
+w: ||Tho' I bear the se- cret smart,|tho' fond love has ceased en- * treat- ing,|
+ f3/2 c/ A F c3/2 ^B/ B2 | =B B (B A/) =G/ (F2 A3/2) ^G/ | G F z2 z4 | !fermata!z8 |] %21
+w: lei- se doch im Her- zens- grund|bleibt das lin- * de Wel- * len-|schla- gen.||
+w: soft- ly, deep with- in my heart,|I can feel * those waves * still|beat- ing.||
+V:2
+!pp!"^zart und ausdrucksvoll" (A3 B A2- A/ G3/2- | G) (G2 c =B/c/ d2 c-) | c (c2 ^d c2 ^B2- | %3
+ B =B2 A/=G/) (F c2 C) | (A3 B A>G- G2-) | G!<(! (G2 c!<)!!mp! =B/c/!>(! d2 c-)!>)! | %6
+!pp! c (c2 ^d c2 ^B2-) | B (=B2 A/=G/ F c2 C) | z/ (C/A/G/ F/C/A,/G,/) z/ ([A,C]/A/G/ F/C/A,/G,/) | %9
+x4x2x/x/=D/=G/ |x2x/x/E/=G/x/x/x/G/x/x/=C/G/ |!<(! z2 _E/_A/_e/_a/ z2 E/A/e/!<)!!mp!_a/ | %12
+!pp! !fermata!z8 |!p! z/!<(! (GG/!<)!!mp!!>(! BA/!>)!!p!G/) z/!<(! (GG/!<)!!mp!!>(! BA/!>)!!p!G/) | %14
+ z/!<(! (BB/!<)!!mp!!>(! dc/!>)!!p!B/"_dim." A G2!pp! !fermata!c-) | (c3 B A>G- G2-) | %16
+ G!<(! (G2 c!mf! =B/!<)!!>(!c/ d2!>)! c-) |!p! c (c2 ^d c2 ^B2-) | ^B (=B2 =d/B/ A c2 C) | %19
+ z/ (C/A/G/ F/C/A,/G,/) z/ ([A,C]/A/G/ F/C/A,/G,/) | z8 |] %21
+V:3
+ A/G/F/C/ x x/ x/ A/F/E/D/ x x/ x/ | ^D/^B,/ x x2 x4 | A/G/F/^E/ F/ x/ x/ x/ x4 | A/^D/ x x2 x4 | %4
+ A/G/F/C/ x x/ x/ A/F/E/D/ x x/ x/ | ^D/ ^B,/ x x2 x4 | A/G/F/^E/ F/ x/ x/ x/ x2 x ^D/F/ | %7
+ A/ ^D/ x/ x/ x2 x4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | A/G/F/C/ x x/ x/ A/F/E/D/ x x/ x/ | %16
+ ^D/^B,/ x x2 x4 | A/G/F/^E/ F/ x/ x/ x/ x4 | A/^D/ x x2 x4 | x8 | x8 |] %21
+V:4
+ x6 C/G,/^E,/C,/ |(x/x/G,/F,/ =E,/G,/C/E/ =D/C/=B,/G,/!<(! A,/B,/C/!<)!!mp!F/) | %2
+!>(!x2x/C/A,/!>)!!pp!F,/ z/ (G,,,/^D,,/G,,/ ^D,/G,/[I:staff -1]^D/F/) | %3
+[I:staff +1](x/x/A,/F,/ =G,/B,/-B,/=D/- D/)(C/A,/F,/ A,/^G,/^E,/C,/) | %4
+ x2 A,/F,/C,/F,,/ x2 C/G,/^E,/C,/ |(x/x/G,/F,/ =E,/G,/C/E/) (=D/C/=B,/G,/ A,/B,/C/F/) | %6
+z2x/C/A,/F,/ z/ (G,,,/^D,,/G,,/ ^D,/G,/x/x/) | %7
+(x/x/A,/F,/ =G,/B,/-B,/=D/- D/)(C/A,/F,/ A,/^G,/^E,/C,/) | (F,,7/2 C,,/) (F,,7/2 C,,/) | %9
+!pp! (^D,,/A,,/B,,/^D,/ F,/A,/B,/F/) (=D,,/=G,,/B,,/=D,/ =F,/B,/ x/ x/) | %10
+ (=C,,/=G,,/=C,/E,/ =G,/ =C/ x/ x/) (G,,/ D,/ B,/ x/) (C,/ G,/ x/ x/) | %11
+ (_A,,/_E,/_A,/=C/ z2 _G,,/)E,/A,/C/ z2 | %12
+ (_D,,/_A,,/_D,/_A,/) (A,,/_E,/A,/=C/)!ppp! (=A,,/=E,/=G,/^C/) (^G,,/^D,/^F,/!fermata!^B,/) | %13
+ (C/=D/=B,/G,/ F,/^E,/B,/^B,/) (C/D/=B,/G,/ F,/^E,/B,/^B,/) | %14
+ (C/D/=B,/G,/ F,/^E,/A,/G,/ F,/) (C,,/^E,,/G,,/ B,,/C,/E,/!fermata!G,/) | %15
+ x2 A,/F,/C,/F,,/ x2 C/G,/^E,/C,/ |(x/x/G,/F,/ =E,/G,/C/E/) (=D/C/=B,/G,/ A,/B,/C/F/) | %17
+z2x/C/A,/F,/ z/ (G,,,/^D,,/G,,/ ^D,/G,/[I:staff -1]^D/F/) | %18
+[I:staff +1](x/x/A,/F,/ =G,/=B,/-B,/=D/- D/)(C/A,/F,/ A,/^G,/^E,/C,/) | %19
+ F,,7/2 (C,,/ (F,,7/2) (C,,/) | %20
+!ppp! z/ ([F,A,]<C) ([F,A,]<C) (([F,A,]/-[C,F,A,C]-))) !fermata![C,F,A,C]2 |] %21
+V:5
+ x2 A,/F,/C,/F,,/ x4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %16
+ x8 | x8 | x8 | x8 | F,,>C,, F,,>C,, F,,2- !fermata![F,,,F,,]2 |] %21
+

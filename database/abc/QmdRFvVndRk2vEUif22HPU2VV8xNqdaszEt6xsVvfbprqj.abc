@@ -1,0 +1,38 @@
+X:1
+T:Ich ruf´ zu dir, Herr Jesu Christ.
+T:Ich ruf´ zu dir, Herr Jesu Christ.
+T:a 2 Clav. e Pedale.
+T:J. S. Bach (1685-1750) 
+C:J. S. Bach(1685-1750)
+%%score { 1 | 2 | 3 }
+L:1/8
+Q:1/4=25
+M:4/4
+K:Eb
+V:1 treble nm="Pipe Organ" snm="Org."
+V:2 bass 
+V:3 bass-8 
+V:1
+"^Adagio" c2 | A2 B2 A>G F>G | A/B/A/B/ TB3/2A/4B/4 !fermata!c2 c>_d | e2{_d} c>B A2 Bc |1 %4
+ _d2- d/e/4f/4Pd/c/ !fermata!c2 :|2 _d2- d/e/4f/4Pd/c/ !fermata!c2 _e2 || f2 eP_d/4c/4d/ cBAB | %7
+ c2 B2 !fermata!A2 c2 | c2 c2 B2 A2 | G4 !fermata!F4 | A2 G2 F4 | !fermata!E6 E2 | A2 A2 B2 B2 | %13
+ !fermata!c4- c2 _d2 | c2 B2 A2 F>G | A2 G2 !fermata!F2 |] %16
+V:2
+ (A,/C/F/=E/) | (F/C/A,/F,/) (G,/B,/_D/C/) (F,/A,/C/B,/) A,/F,/A,/C/ | %2
+[K:treble] F/=E/F/A/ G/F/E/F/ (=E/C/G,/B,/) (A,/C/F/A/) | %3
+ (G/E/A/G/) A/E/F/_G/ (F/_D/F/A/) (=G/D/C/_G/) |1 (F/B,/_D/F/) (B/A/G/A/) G/C/=E/B,/ :|2 %5
+ (F/B,/_D/F/) (B/A/G/A/) (G/B,/A,/F/) (G,/D/A,/C/) || %6
+ A,/C/B,/_D/ (B,/D/A/G/) (A/E/D/G/) (C/F/A/G/) | %7
+ (A/E/A,/_G/) (F/A,/G,/_D/) (C/A,/C/E/) (=G/C/B,/G/) | =A,/C/F/G/ =A/F/_E/A/ _D/G/_A/G/ C/F/G/F/ | %9
+ (_D/F/G/F/) (=E/B,/D/C/) (A,/C/F/E/) (F/C/A,/F,/) | (B,/F/G/F/) B,/E/F/E/ C/E/F/E/ D/G,/=B,/D/ | %11
+[K:bass] G,/C/E/_D/ (G,/B,/D/C/) E,/A,/C/B,/ D/B,/E,/D/ | %12
+ F,/A,/_D/C/ F,/A,/C/B,/ F,/A,/B,/A,/ G,/B,/D/C/ | %13
+[K:treble] A,/C/E/A/ E/B/c/B/ =A/E/_G/=A,/ B,/=G/_A,/F/ | %14
+ G,/=E/F/_E/ F,/_D/E/D/ E,/C/D/C/ B,/F/G/F/ | =D/F/G/F/ =E/_D/B,/G,/ =A,/C/F |] %16
+V:3
+ F,,F,, | F,F,F,=E, F,F,F,_E, | _D,D,D,D, C,C,F,F, | CCCC CCB,=A, |1 B,_A,=G,F, =E,C, :|2 %5
+ B,_A,=G,F, =E,F,C,C, || _D,D,E,E, A,E,F,D, | E,C,_D,E, A,,A,,=E,,E,, | F,,F,,F,F, F,=E,F,_D, | %9
+ B,,G,,C,C, _D,D,D,D, | D,D,_E,E, =A,,A,,=B,,B,, | C,C,B,,B,, A,,A,,G,,G,, | %12
+ F,,F,,E,,E,, D,,D,,E,,E,, | A,,A,,_G,,G,, =F,,F,,B,,B,, | B,,A,,A,,G,, G,,F,,_D,D, | %15
+ =B,,B,,C,C, F,,2 |] %16
+

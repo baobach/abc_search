@@ -1,0 +1,37 @@
+X:1
+T:Rimsky-Korsakov Harmonic Exercises,
+T:Enharmonic modulation (1)
+T:Rimsky-Korsakov Harmonic Exercises, Enharmonic modulation (1) 
+T:"Practical Manual of Harmony" (1885)
+T:Examples by Rimsky-Korsakov
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/2=80
+M:5/1
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"""_C:""^C -- b""^The first technique of enharmonic modulation: take an incomplete dominant seventh chord\nwith a doubled third and equate it with a augmented sixth chord (\"Italian sixth\"). The resulting chord is resolved\ninto a tonic six-four chord or triad.\n" (e8"" f8"" f8-"""_b:""_=" ^e8"" !breath!^f8) |] %1
+"""_C:""^C -- B" (e8"" f8"" f8-"""_B:""_=" ^e8"" !breath!^f8) |] %2
+"""_C:""^C -- F♯" (e8"" f8"" f8-"""_=""_b:" ^e8"""_b:""_F♯:""_{" !breath!^f8) |] %3
+"""^C -- b""_C:""^The second technique: take a complete dominant seventh chord and equate it to augmented\nsix-five chord (\"German sixth\"). The resulting chord is resolved into a tonic six-four chord.\nWhen resolved into a triad, parallel perfect fifths occur.\n" (e8"" f8"" f8-"""_=""_b:" ^e8"" !breath!^f8) |] %4
+"""_C:""^C -- F♯" (e8"" f8"" f8-"""_=""_b:" ^e8"""_b:""_F♯:""_{" !breath!^f8) |] %5
+[M:4/2]"_Ways to hide \"Mozart fifths\":" (^e8 !breath!^f8) |] (^e8 !breath!^f8) |] %7
+[M:5/1]"""^C -- B""_C:""_Third technique: take a dominant seventh chord and equate\nit with a twice-augmented four-three chord. The resulting\nchord is resolved into a tonic six-four chord.\n" (e8"" f8"" f8-"""_=""_B:" ^e8"" !breath!^f8) |] %8
+[M:6/1]"""^C -- B""_Fourth technique: take a dominant seventh chord with a raised\nfifth and equate it to a twice-augmented six-five chord. The\nresulting chord is resolved into a tonic six-four chord.\n" (e8"" f8"" d8"" ^d8-"""_=""_B:" d8"" !breath!^d8) |] %9
+V:2
+ (c8 c8 B8- B8 B8) |] (c8 c8 B8- B8 B8) |] (c8 c8 B8- B8"" ^A8) |] (c8 c8 B8- B8 B8) |] %4
+ (c8 c8 B8- B8"" ^A8) |][M:4/2] (B8 ^A8) |] (B8- B4 ^A4) |][M:5/1] (c8 c8 B8- B8 B8) |] %8
+[M:6/1] (c8 c8 B8 B8- B8 B8) |] %9
+V:3
+ (G8 F8 B,8- B,8 D8) |] (G8 F8 B,8- B,8 ^D8) |] (G8 F8 B,8- B,8 ^C8) |] (G8 F8 D8- D8 D8) |] %4
+ (G8 F8 D8-"_\"Mozart fifths\"" D8 ^C8) |][M:4/2] (D4 ^C4 ^C8) |] (D8- D4 ^C4) |] %7
+[M:5/1] (G8 F8 D8- ^^C8 ^D8) |][M:6/1] (G8 F8 F8 F8- ^E8 ^F8) |] %9
+V:4
+ (C8 A,8 G,8- G,8 ^F,8) |] (C8 A,8 G,8- G,8 ^F,8) |] (C8 A,8 G,8- G,8 ^F,8) |] %3
+ (C8 A,8 G,8- G,8 ^F,8) |] (C8 A,8 G,8- G,8 ^F,8) |][M:4/2] (G,8 ^F,8) |] (G,8 ^F,8) |] %7
+[M:5/1] (C8 A,8 G,8- G,8 ^F,8) |][M:6/1] (C8 A,8 G,8 G,8- G,8 ^F,8) |] %9
+

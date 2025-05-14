@@ -1,0 +1,32 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=115
+M:4/4
+K:C
+V:1 treble nm="Grand Piano, Unnamed-000"
+V:2 treble 
+V:3 bass nm="Choir Pad, Easter Hymn, 77.77 D"
+V:4 bass 
+V:1
+ C2 [CE]2 [DG]2 C2 | [CF]2 [FA]2 [FA]2 [EG]2 | EFGC F-[B,F]EF | [CE]2 [B,D]2 C4 | %4
+w: By~Lyra~Davidica,~1708 * * *||||
+ [CF]2 [CG]2 [CA]2 [CG]2 | F-[B,F] [CE]2 [CE]2 [B,D]2 | EFGC F-[B,F]EF | [CE]2 [B,D]2 C4 | %8
+w: ||||
+ B2 c2 [Gd]2 G2 | [Gc]2 [Fd]2 [Ee]4 | BcdG c-[^Fc]Bc | [GB]2 [^FA]2 G4 | %12
+w: ||||
+ [B,G][CA][DB][B,G] [Cc]2 [CE]2 | [CF]2 [FA]2 [FA]2 [EG]2 | z4 .A2 z2 | z2 B2 z4 | z8 |] %17
+w: |||||
+V:2
+ x8 | x8 | C4 .C2 C2 | x8 | x8 | .C2 z2 z4 | C4 .C2 C2 | x8 | .G4 z4 | x8 | G4 .G2 G2 | x8 | x8 | %13
+ x8 | [Ec][FB][Gc][EG] F-[FB][Gc][Fd] | [Ec]2 GF [Ec]4- | [Ec]4 z4 |] %17
+V:3
+ E,2 G,2 G,2 E,2 | C2 C2 C4 | G,4 A,F,G,F, | G,3 F, E,4 | F,2 E,2 F,2 G,2 | A,F, G,2 G,4 | %6
+ G,4 A,F,G,F, | G,3 F, E,4 | D2 C2 B,2 B,2 | .C4 C4 | D4 D2 DC | D3 C[K:bass] B,4 | %12
+ G,3 G,- G,F,[K:treble]CB, | C2 C2 C4 | G,3 C CD[K:bass]CA, | G,4 G,4- | G,4 z4 |] %17
+V:4
+ C,2 C,2 B,,2 C,2 | A,2 F,2 C,4 | C,D, E,2 D,2 C,A,, | G,,4 C,4 | A,,2 C,2 z2 E,2 | D,2 C,2 G,,4 | %6
+ C,D, E,2 D,2 C,A,, | G,,4 C,4 | G,,2 A,,2 B,,2 G,F, | E,2 D,2 C,4 | G,A, B,2 A,2 G,E, | D,4 G,,4 | %12
+ z8 | A,2 F,2 C,4 | C,D,E,C, F,D,E,F, | z4 C,4- | C,4 z4 |] %17
+

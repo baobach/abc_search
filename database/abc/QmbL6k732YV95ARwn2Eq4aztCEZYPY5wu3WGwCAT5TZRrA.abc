@@ -1,0 +1,26 @@
+X:1
+T:Title
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=120
+M:3/4
+K:Bb
+V:1 treble nm="Church Organ"
+V:2 bass 
+V:1
+ [DB]3 [Ec]2 [Ed] | [DB]3 [DB] z [DF] | [EG]2 [EG] [DF]2 [CE] | D2 C D2 [CE] | [DF]3 [DF] z [DF] | %5
+w: DEVICE=GENERAL.MDV * *|||||
+ [EG]2 [DB] [CB]2 [EA] | [DB]3 [DB] z [DB] | [DB]2 [DF] [EG]2 [F_A] | [F_A]3 [EG] z [=Ec] | %9
+w: ||||
+ [=Ec]2 [_EG] [FA]2 [GB] | [GB]3 A z B | c2 d B2 c | d3 B z [Bd] | [Gc]2 [GB] A2 G | %14
+w: |||||
+ F2 F G2 [EGB] | [DFB]3 [CEA]3 | [B,DB]6 |] %17
+w: |||
+V:2
+ [B,,F,]3 [B,,F,]2 [B,,F,] | [B,,F,]3 [B,,F,] z [B,,F,] | [B,,F,]2 [B,,F,] [B,,F,]2 [B,,F,] | %3
+ [B,,F,B,]2 [B,,F,A,] [B,,F,B,]2 [B,,F,] | [B,,F,]3 [B,,F,] z [B,,F,] | %5
+ [B,,F,]2 [B,,F,] [B,,F,]2 [B,,F,] | [B,,F,]3 [B,,F,] z [B,,B,] | %7
+ [B,,B,]2 [B,,B,] [B,,B,]2 [B,,B,] | [E,B,]3 [E,B,] z [C,C] | [C,C]2 [C,C] [C,C]2 [C,C] | %10
+ [F,C]3 [F,CF] z [F,A,D] | [F,A,E]2 [F,B,E] [F,G,D]2 [F,A,E] | [^F,A,D]3 [G,B,D] z [D,=F,] | %13
+ [E,G,]2 [F,A,][K:treble] [G,B,F]2 [A,CE] | [B,D]2 [A,C] [G,B,E]2 E, | F,3 F,,3 | B,,6 |] %17
+

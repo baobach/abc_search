@@ -1,0 +1,55 @@
+X:1
+T:II. Là-bas, vers l'église
+T:III. Quel galant m'est comparable
+T:Traduction française par M.D Calvocoressi
+T:acct de piano par
+T: Maurice Ravel 
+T:Cinq mélodies populaires grecques
+%%score ( 1 2 ) { ( 3 5 ) | 4 }
+L:1/8
+Q:1/4=90
+M:2/4
+K:G
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:5 treble 
+V:4 bass 
+V:1
+"^Allegro" !fermata!z4 |!f! d2 (e/=f/e/d/) | d2 z D | d d e d | (cB/A/) B2 | B3/2 B/ B d | %6
+w: |Quel ga- * * *|lant, ga-|lant m'est com- pa-|ra- * * ble,|d'en- tre ceux qu'on|
+ c2 (AG) | (dc/B/ A) z |[Q:1/4=80]"^T" B3/2 B/ B d | c2 (AG) | A4[Q:1/4=90]"^T" | z4 | z4 | z4 | %14
+w: voit pas- *|ser? _ _ _|Dis, da- me Vas-|si- li- *|ki?||||
+ z4 |[Q:1/4=80]"^T" d2 (e/=f/e/d/) | d2 z D | d d d d | (dB/A/) B z | B3/2 B/ B d | c2 (AG) | %21
+w: |Vois, pen- * * *|dus, pen-|dus à ma cein-|tu- * * re,|pis- to- lets et|sabre ai- *|
+ (dc/B/ !fermata!A) z |!p!"^très tendre"[Q:1/4=50]"^Ralenti"[Q:1/4=50]"^suivez" B B B d | (c2 AG) | %24
+w: gu... _ _ _|Et c'est toi que|j'ai- * *|
+ A4[Q:1/4=70]"^T" | z4 | z4 | z4 | z4 | z4 | z4 |] %31
+w: me!|||||||
+V:2
+ x4 | x4 | x4 | x4 | cB/A/ x2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %18
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %31
+V:3
+!f!{/!fermata!^c'} !fermata![dgd']4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %10
+ z2 z!f! (d'/c'/ | b/a/b/c'/ d'/e'/d'/c'/ | b/c'/b/a/ g)(d'/c'/ | b/a/b/c'/ d'/e'/d'/c'/ | %14
+ b/c'/b/a/ g2) | z!f! .G.D.E | .=F.A.d.c | .B.G.c.B | .A.!courtesy!^F.B.A | %19
+!f! !arpeggio![gbe'g']2 !arpeggio![fad'f']2 | !arpeggio![egc'e']2 !arpeggio![ceac']2 | %21
+ !arpeggio![Ada]2- !fermata!z2 |!p! !tenuto![Beg] z !tenuto![Adf] z | %23
+ !tenuto![Gce] z !tenuto![EAc] z | !tenuto![DA] z z!pp! (d'/c'/ | b/a/b/c'/ d'/e'/d'/c'/ | %26
+ b/c'/b/a/ (g)d'/c'/ | b/a/b/c'/ d'/e'/d'/c'/ | b/c'/b/a/ g2) | z4 | %30
+{/!fermata!^c'} !fermata![dgd']4 |] %31
+V:4
+{/!fermata!^C,} !fermata![G,,D,]4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %11
+{/^C,} [G,,D,] (!>!.[G,D]2 .[G,D]) |{/^C,} [G,,D,] (!>!.[G,D]2 .[G,D]) | %13
+{/^C,} [G,,D,] (!>!.[G,D]2 .[G,D]) |{/^C,} [G,,D,] (!>!.[G,D]2 .[G,D]) | z4 | z4 | z4 | z4 | %19
+[K:treble] !arpeggio![EBe]2 !arpeggio![DAd]2 | !arpeggio![CGc]2 !arpeggio![A,EA]2 | %21
+[K:bass] !arpeggio![D,A,D]2- !fermata!z{/^C,} !>!D,- | D,4- | D,4- | D,2 z2 | %25
+{/^C,} [G,,D,] (!>!.[G,D]2 .[G,D]) |{/^C,} [G,,D,] (!>!.[G,D]2 .[G,D]) | %27
+{/^C,} [G,,D,] (!>!.[G,D]2 .[G,D]) |{/^C,} [G,,D,] (!>!.[G,D]2 .[G,D]) | %29
+{/^C,} [G,,D,] (!>!.[G,D]2 .[G,D]) |{/!fermata!^C,} !fermata![G,,D,]4 |] %31
+V:5
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z2{/!1!!1!^c} !1!!1!d2 | %12
+ z2{/!1!!1!^c} !1!!1!d2 | z2{/!1!!1!^c} !1!!1!d2 | z2{/!1!!1!^c} d2 | x4 | x4 | x4 | x4 | x4 | x4 | %21
+ x2 x x | x4 | x4 | x4 | z2{/!1!!1!^c} d2 | z2{/!1!!1!^c} d2 | z2{/!1!!1!^c} d2 | %28
+ z2{/!1!!1!^c} d2 | x4 | x4 |] %31
+

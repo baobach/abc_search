@@ -1,0 +1,30 @@
+X:1
+T:St. George
+T:R. Harrison
+T:St. George
+C:R. Harrison
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=180
+M:3/2
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ A4 | (d4 A4) B4 | (B4 A4) (A3 G) | (F4 E4) D4 | A8 (A3 G) | (F4 E4) D4 | (A4 c4) e4 | (d4 c4) B4 | %8
+ A8 (A3 G) | (F4 G4) A4 | B8 A4 | (B4 c4) d4 | (d4 c4) c4 | (d4 A4) B4 | (A6 G2) F4 | %15
+ (E2 FG F4) E4 | D8 |] %17
+V:2
+ F4 | F8 G4 | (G4 F4) (E3 C) | (D4 A,4) D4 | C8 (C3 E) | (D4 C4) B,4 | (C4 E4) E4 | (F4 E4) D4 | %8
+ C8 (C3 E) | (D4 E4) F4 | G8 F4 | G8 F4 | (F4 E4) G4 | F8 D4 | (D4 E4) D4 | D8 C4 | D8 |] %17
+V:3
+ A,4 | (A,4 B,4) B,4 | B,8 A,4 | A,8 ^G,4 | A,8 A,4 | (A,6 G,2) F,4 | A,8 A,4 | A,8 ^G,4 | %8
+ A,8 A,4 | A,8 A,4 | D8 D4 | (D4 A,4) A,4 | A,8 A,4 | (A,4 D4) D4 | (D4 A,4) A,4 | (B,4 A,4) G,4 | %16
+ F,8 |] %17
+V:4
+ D,4 | D,8 D,4 | D,8 (F,3 E,) | (D,4 C,4) B,,4 | A,,8 A,,4 | (D,4 A,,4) B,,4 | A,,8 C,4 | %7
+ (D,4 E,4) E,4 | A,,8 A,,4 | D,8 D,4 | D,8 D,4 | (G,3 F, E,4) D,4 | A,,8 A,,4 | D,8 G,4 | %14
+ (F,4 C,4) D,4 | (G,,4 A,,4) A,,4 | D,8 |] %17
+

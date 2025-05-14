@@ -1,0 +1,42 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=90
+M:4/4
+K:D
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 bass nm="Choir Pad, Bass"
+V:4 bass 
+V:1
+ D>[DE] [DF]>[FA] [DF]>[CE] [CE]<D | D>[DF] [FA]>[=F^G] [^FA]>[=GB] [FA]2 | %2
+w: By~Andrew~Linnaeus~Byers * * * * * * *||
+ [FA]>[FA] [GB]>[GB] [GB]>[Gd] [GB]<[FA] | [DF]>[DF] [DF]>[DF] [EG]>[DF] [CE]2 | %4
+w: ||
+ D>[DE] [DF]>[FA] [DF]>[CE] [CE]<D | D>[DF] [FA]>[FA] [GB]>[=F^G] [^FA]2 | %6
+w: ||
+ [FA]>[FA] [Fd]>[Fd] [Fd]>[FA] [GB]<[FA] | [DA]>[GB] [FA]>D [DF]>[CE] D2 | %8
+w: ||
+ D>[DF] [FA]4- [FA]>[DF] | D>[DB] [DA]6 | [DF]>[Fd] [Ec]4- [Ec]>[FA] | z2 d6 | %12
+w: ||||
+ [Fd]>[GB] [FA]>[DF] D>[DF] [FA]2 | [DA]>[DA] [DB]>[DG] [DE]>[DF] [DG]2 | [GB]>[GB] [FA]4- [FA]>D | %15
+w: |||
+ [DF]>[CE] D>[K:bass]A, B,>B, A,2- | A,6 z2 |] %17
+w: ||
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | [GB]>[Gc] F>F G>G F2 | x8 | x8 | x8 | %15
+ x7/2[K:bass] x9/2 | x8 |] %17
+V:3
+ F,>G, A,>A, A,>G, G,<F, | F,>A,[K:treble] D>D D>D D2 | D>D D>D D>[K:bass]B, D<A, | %3
+ A,>A, A,>A, A,>A, A,2 | F,>G, A,>A, A,>G, G,<F, | F,>A,[K:treble] D>D D>D D2 | %6
+ D>D[K:bass] A,>A, A,>D D<[K:treble]D | D>D D>A,[K:bass] A,>G, F,2 | F,>A,[K:treble] D>D D>D D2 | %9
+ F,>G, F,>F, F,>F, F,2 | A,>A, A,>A, A,>A, A,2 | A,>A, A,>A, B,>B, A,2 | A,>A, A,>A, F,>A, D2 | %13
+ F,>F, G,>G, G,>B, B,2 | D>D D2 D2 A,2 | A,>G, F,>F, G,>G, F,2- | F,6 z2 |] %17
+V:4
+ D,>D, D,>D, A,,>A,, D,<D, | D,>D, D,>D, D,>D, D,2 | D,>D, G,>G, G,>G, D,<D, | %3
+ D,>D, D,>D, C,>D, A,,2 | D,>D, D,>D, A,,>A,, D,<D, | D,>D, D,>D, D,>D, D,2 | %6
+ D,>D, D,>D, D,>D, D,<D, | F,>G, A,2 A,,>A,, D,2 | D,>D, D,>D, D,>D, D,2 | D,>D, D,>D, D,>D, D,2 | %10
+ D,>D, z2 z4 | A,,>A,, D,>D, D,>D, D,2 | D,>D, F,>D, D,>D, D,2 | D,>D, G,,>G,, G,,>G,, G,,2 | %14
+ G,,>G,, A,,>A,, A,,>A,, A,,>A,, | A,,>A,, D,6- | D,6 z2 |] %17
+

@@ -1,0 +1,44 @@
+X:1
+T:Prelude
+T:Prelude
+T:Op. 28 No. 20
+T:Frédéric Chopin
+C:Frédéric Chopin
+%%score { ( 1 2 ) | 3 }
+L:1/8
+Q:1/4=32
+M:4/4
+K:Eb
+V:1 bass nm="鋼琴" snm="Pno."
+V:2 bass 
+V:3 bass 
+V:1
+"^Largo"!ff! ([G,CEG]2 [A,CEA]2 [G,=B,]2 [E,G,CE]2) | %1
+ ([E,A,CE]2 [F,A,_DF]2 [_D,E,G,]2 [C,E,A,C]2) | %2
+!f!!<(! ([D,F,=B,D]2 [=E,G,_B,C=E]2 [A,C]2 [G,C_E]2) | %3
+ ([^F,CD]2 [G,=B,DG]2[K:treble] [CD^F]2!<)!!ff! [=B,DG]2) |!p! ([EGe]2 [EAe]2 [Dd]2 [DGd]2 | %5
+ [CGc]2 [CD^Fd]2 [DG=B]>[C=A] [=B,DG]2 | [CGc]2 [A,CA]2 G>F"_riten."[Q:1/4=30] [G,CE]2 | %7
+[K:bass][Q:1/4=28] [E,A,CE]2[Q:1/4=26] [F,A,_DF]2[Q:1/4=24] [F,G,=B,]2[Q:1/4=20] [E,G,C]2) | %8
+[K:treble]!pp![Q:1/4=32]"^a tempo" ([EGe]2 [EAe]2 [Dd]2 [DGd]2 | %9
+ [CGc]2 [CD^Fd]2 [DG=B]>[C=A] [=B,DG]2 | [CGc]2 [A,CA]2"_cresc." G>"^riten."F[Q:1/4=30] [G,CE]2 | %11
+[K:bass][Q:1/4=28] [E,A,CE]2[Q:1/4=26] [F,A,_DF]2[Q:1/4=24]!mp!!<(! [F,G,=B,]2[Q:1/4=20] [E,G,C]2)!<)! | %12
+[K:treble]!f! !>!!fermata![CEGc]8 |] %13
+V:2
+ x4 [EG]>[DF] x2 | x4 [CE]>[B,_D] x2 | x4 G>F x2 | x4[K:treble] =B>=A x2 | x4 A>^F x2 | x8 | %6
+ x4 [G,D]2 x2 |[K:bass] x4 E>=D x2 |[K:treble] x4 A>^F x2 | x8 | x4 [G,D]2 x2 | %11
+[K:bass] x4 E>=D x2 |[K:treble] x8 |] %13
+V:3
+!ped! [C,,C,]2!ped-up!!ped! [F,,,F,,]2!ped-up!!ped! [G,,,G,,]2!ped-up!!ped! [C,,G,,C,]2!ped-up! | %1
+!ped! [A,,,A,,]2!ped-up!!ped! [_D,,,_D,,]2!ped-up!!ped! [E,,,E,,]2!ped-up!!ped! [A,,,A,,]2!ped-up! | %2
+!ped! [G,,,G,,]2!ped-up!!ped! [C,,,C,,]2!ped-up!!ped! [F,,,F,,]2!ped-up!!ped! [C,,C,]2!ped-up! | %3
+!ped! [D,,=A,,D,]2!ped-up!!ped! [G,,,G,,]2!ped-up!!ped! [D,,,D,,]2!ped-up!!ped! [G,,,G,,]2!ped-up! | %4
+!ped! ([C,,C,]2!ped-up!!ped! [C,C]2!ped-up!!ped! [=B,,=B,]2!ped-up!!ped! [_B,,_B,]2!ped-up! | %5
+!ped! [=A,,=A,]2!ped-up!!ped! [_A,,_A,]2!ped-up!!ped! [G,,G,]2!ped-up!!ped! [F,,F,]2!ped-up! | %6
+!ped! [E,,E,]2!ped-up!!ped! [F,,F,]2!ped-up!!ped! [=B,,,=B,,]2!ped-up!!ped! [C,,C,]2!ped-up! | %7
+!ped! [A,,,A,,]2!ped-up!!ped! [_D,,,_D,,]2!ped-up!!ped! [G,,,G,,]2!ped-up!!ped! [C,,,C,,]2)!ped-up! | %8
+!ped! ([C,,C,]2!ped-up!!ped! [C,C]2!ped-up!!ped! [=B,,=B,]2!ped-up!!ped! [_B,,_B,]2!ped-up! | %9
+!ped! [=A,,=A,]2!ped-up!!ped! [_A,,_A,]2!ped-up!!ped! [G,,G,]2!ped-up!!ped! [F,,F,]2!ped-up! | %10
+!ped! [E,,E,]2!ped-up!!ped! [F,,F,]2!ped-up!!ped! [=B,,,=B,,]2!ped-up!!ped! [C,,C,]2!ped-up! | %11
+!ped! [A,,,A,,]2!ped-up!!ped! [_D,,,_D,,]2!ped-up!!ped! [G,,,G,,]2!ped-up!!ped! [C,,,C,,]2) | %12
+ !>!!fermata![C,G,]8!ped-up! |] %13
+

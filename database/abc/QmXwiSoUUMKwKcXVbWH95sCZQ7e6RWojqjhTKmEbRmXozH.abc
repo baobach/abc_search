@@ -1,0 +1,73 @@
+X:1
+T:Quasi adagio
+T:39-Allegro moderato 
+T:Béla Bartók Revised and Arranged by the Composer, January 1945 
+T:Book 1 (after Hungarian Folksongs)
+T:For Children Nr 39 , Sz 42
+C:Bela bartok
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=84
+M:2/4
+K:C
+V:1 treble nm="Piano"
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+"^Allegro moderato," z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |!pp!"^legatissimo" !3!dfed | e2 d^c | %10
+ dfed | e2 d^c | !5!d!3!AAG | !5!c2 !3!cd | e!4!d!5!dG |"^poco rallent." !3!A2 !4!A!4!A- | %16
+ !fermata!!2!A4 |!p![Q:1/4=76]"^Un poco più moderato," (!2!d!<(!fe!4!d!<)! |!>(! e2 d!>)!^c) | %19
+ (!2!d!<(!fed!<)! |!>(! !4!e2 d!>)!^c) | (!4!d!<(!!1!A!2!A!1!G | !3!c2 !2!c!<)!d | %23
+ !4!e!>(!!3!d!4!dG | !tenuto!!3!A2 !tenuto!!2!A!>)!!tenuto!!1!A) | %25
+[Q:1/4=74]"^T""^rall." z4"^al"[Q:1/4=72]"^T" |!pp![Q:1/4=70]"^Lento," (!2!dfed | !4!e2 d^c) | z4 | %29
+ (dfed | e2 d^c) | z4 | (!4!dA!2!AG | !3!c2 !2!cd) | z4 | (!4!e!3!d!4!dG | %36
+[Q:1/4=68]"^T""_calando""^rall." !3!A4 |[Q:1/4=64]"^T" !2!A2[Q:1/4=60]"^T" !fermata!!1!A2) | %38
+!mf![Q:1/4=60] z2[K:bass][Q:1/4=62]"^.4""^accel. poco a poco" !3!!4![G,A,]2- | %39
+[Q:1/4=64]"^.9" [G,A,]2[Q:1/4=67]"^.3""_cresc. sempre" [G,A,]2- | %40
+[Q:1/4=69]"^.8" [G,A,]2[Q:1/4=72]"^.2" [G,A,]2- |[Q:1/4=74]"^.6" [G,A,]2[Q:1/4=77]"^.1" [G,A,]2- | %42
+[Q:1/4=79]"^.5" [G,A,]2 [F,A,]2- |[Q:1/4=84]"^.4" [F,A,]2 [F,A,]2- | %44
+[Q:1/4=89]"^.2" [F,A,]2 [F,A,]2- |[Q:1/4=94]"^.1" [F,A,]2 [E,A,]2 | %46
+[K:treble][Q:1/4=99] (!1!A,2 !>!!3!!5![FA]2) |[Q:1/4=103]"^.9" (!1!_B2 !^!!4!!5![ga]2) | %48
+[Q:1/4=108]"^.8" (A,2 !>![FA]2) |[Q:1/4=113]"^.6" (_B2 !^![ga]2) | %50
+[Q:1/4=118]"^.5" (!1!=B,2 [FA]2) |[Q:1/4=123]"^.4" ((!1!c2 !^![ega]2)) | %52
+[Q:1/4=128]"^.2" (!1!B,2 !>![FA]2) |[Q:1/4=133]"^.1" (!1!^c2 !^![ega]2) | %54
+[Q:1/4=138]"^Presto,"!f! z (!^!!2!!4!!5![^cfa]2 !1![dfa]) | z (!^!!2!!3!!4![fga]2 !1![ega]) | %56
+ z (!^!!2!!4!!5![^cfa]2 [dfa]) | z (!^!!2!!3!!4![fga]2 [ega]) | z (!^!!1!!2!!3![fa_b]2 !4![fa=b]) | %59
+ z (!^!!2!!3!!5![fgc']2 !1![egc']) | z (!1!!2!!3![g_bd']2 !2!!3!!5![bd'f']) | %61
+ z (!^!!1!!3!!5![=bf'a']2 !2!!3!!5![^c'e'a']) | z (!>!!1!!4!!5![_B,FA]2 !1![=B,FA]) | %63
+ !^!!3!E!2!D!3!D!1!G, | z (!>![_Bfa]2 [=Bfa]) | !3!ed!3!dG | z4 | %67
+[K:bass]"_cresc." !^!!2!!4![^C,E,]2 [C,E,][C,E,] |[K:treble] !^!!2!!4![^CE]2 [CE][CE] | %69
+ !^![^ce]2 [ce][ce] |!ff! !^![^c'e'a']2 [c'e'a']!fermata![c'e'a'] |] %71
+V:2
+!f! (!3!D,,F,,E,,D,, | !^!!1!E,,2 D,,^C,,) | (!3!D,,F,,E,,D,, | !^!!1!E,,2 D,,^C,,) | %4
+ (!1!D,,!4!A,,,!3!A,,,G,,, | !^!!1!=C,,2 !3!C,,!2!D,,) | (!1!E,,!2!D,,!1!D,,!5!G,,, | %7
+ !tenuto!!3!A,,,2 !tenuto!!2!A,,,!tenuto!!fermata!!1!A,,,) |"_legatissimo" z A,,3- | A,,4- | %10
+ A,, A,,3- | A,,4 | z F,,3- | F,,4- | F,, F,,3- | F,,4 | E,,4 |!ped! (!5!!2![_B,,F,]4 | %18
+[K:treble] !2!!1![F_B]2)!ped-up! z2 |[K:bass]!ped! ([_B,,F,]4 |[K:treble] [F_B]2)!ped-up! z2 | %21
+[K:bass] (!5!!2![_B,,E,]4 |!ped! !3!!1![_B,F]2)!ped-up! z2 | z2 (!4!!2!!1![_B,DE]2- | %24
+!ped! [B,DE]2!ped-up! !5!!2![F,C]2) | !4!!2!!1![D,F,=B,]2 (.!5!!3!!1![B,,D,G,].[B,,D,G,]) | %26
+ !5!!3!!1![A,,C,F,]4 | z"_dolcissimo" (!5!G,!1!F_B,) | z (G,E_B,) | z4 | z (!5!F,DA,) | %31
+ z (!5!E,CG,) | z4 | z (!4!F,!1!_B,F,) | z (!5!C,!1!A,E,) | x3 _B,, | B,,2 z A,,- | %37
+ A,,2- !fermata!x2 |"_non legato" !3!D,F,E,D, | !^!!1!E,2 D,^C, | !3!D,F,E,D, | !^!!1!E,2 D,^C, | %42
+ !1!D,!4!A,,!3!A,,G,, | !^!C,2 !3!C,D, | !1!E,D,!1!D,G,, | !^!!3!A,,2 !2!A,,!1!A,, | !3!D,F,E,D, | %47
+ !^!E,2 D,^C, | !3!D,F,E,D, | !^!!1!E,2 D,^C, | !1!D,A,,!3!A,,G,, | !^!C,2 !3!C,D, | E,D,!1!D,G,, | %53
+ !^!!3!A,,2 A,,A,, |[K:treble] !3!DFED | !^!!1!E2 D^C | !3!DFED | !^!!1!E2 D^C | !1!DA,!3!A,G, | %59
+ !^!C2 !3!CD | ED!1!DG, | !^!!3!A,2 !2!A,!1!A, |[K:bass] !^!!1!E,!2!D,!1!D,G,, | z4 | %64
+ !^!!1!ED!1!DG, | z4 |!f!!ped! !^!!3+1!A,,,2 A,,,A,,, | z4 | !^![A,,E,]2 [A,,E,][A,,E,] | %69
+ !^![A,E]2 [A,E][A,E] |[K:treble] !^![Ae]2 [Ae]!fermata![Ae]!ped-up! |] %71
+V:3
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z A3- | A4- | A A3- | A4 | z !1!F3- | F4- | F F3- | %15
+ (!1!F4 | E4) | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %33
+ x4 | x4 | x4 | x4 | x4 | x2[K:bass] x2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |[K:treble] x4 | x4 | %48
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %67
+[K:bass] x4 |[K:treble] x4 | x4 | x4 |] %71
+V:4
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | !5!D,,F,,E,,D,, | !3!E,,2 D,,^C,, | D,,!2!F,,E,,D,, | %11
+ E,,2 D,,^C,, | !2!D,,!4!A,,,!4!A,,,G,,, | !3!C,,2 !4!C,,D,, | E,,D,,!2!D,,G,,, | %15
+ !4!A,,,2 !5!A,,,A,,,- | !fermata!A,,,4 | x4 |[K:treble] x4 |[K:bass] x4 |[K:treble] x4 | %21
+[K:bass] x4 | x4 | x4 | x4 | x4 | x4 | x G,3 | x G,3 | x4 | x F,3 | x E,3 | x4 | x F,3 | x C,3 | %35
+ z2 z (!4!_B,,- |G,D,) x !5!A,, |E,-C,- [A,,C,E,]2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %47
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 |[K:treble] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |[K:bass] x4 | %63
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 |[K:treble] x4 |] %71
+

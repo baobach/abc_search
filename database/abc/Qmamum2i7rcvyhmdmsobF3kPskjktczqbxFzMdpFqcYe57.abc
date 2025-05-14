@@ -1,0 +1,42 @@
+X:1
+T:Title
+%%score { ( 1 4 5 ) | ( 2 3 6 ) }
+L:1/8
+M:2/4
+K:F
+V:1 treble nm="Grand Piano"
+V:4 treble 
+V:5 treble 
+V:2 bass 
+V:3 bass 
+V:6 bass 
+V:1
+ z4 | z2 z[Q:1/4=100] C | DE FG | [DFA]2 [FA]2 | [^CEA]G FE | D4 | [A,DF]F EF | [DG]4 | [DFA]A GA | %9
+ [FAc]4 | DE FG | [DFA]2 [FA]2 | [DGB]B BA | [CEG]4 | [EGc]c cc | [FA]2 [Ac]2 | [EGc]B AG | %17
+ z2 z z/ A/ | cc cc | A3- A/A/ | [Fd][Fd] [Fd]c | [DFB]3 A | c2 A2 | [EB]2 [EG]2 | FE DE | F2 A2 | %26
+ c4 | cc cc | A3- A/A/ | z2 .d2 | [B,DFB]3 A | c2 B2 | A2 [EG]2 | FE DE | [CEA]2 [EG]2 | %35
+[M:3/8] [F,A,CF]3 |] %36
+V:2
+ z4 | z4 | [D,,D,]F, A,D | D,A, DD, | A,,F, =B,,^C, | z2 A,2 | [D,,D,]F, A,D | z2 B,2 | D,A, DD, | %9
+ .F,2 z2 | [D,,D,]F, A,D | D,A, DA, | G,,B,, D,G, | z2 z G, | C,C D,E, | z2[K:treble] z F | %16
+ C,G, CE, | F,C, F,,2 | [F,A,F][F,A,F] [F,A,E][F,A,E] | C4 | [B,,B,][B,,B,] D,[F,A,] | [B,,B,]4 | %22
+ [F,A,F]2 [F,CF]2 | [C,G,]2 [C,B,]2 | [C,G,]2 [C,B,]G, | [F,A,C]2 [F,CF]2 | F4[K:treble] | %27
+ [F,A,F][F,A,F] [F,A,F][F,A,F] | F4 | [B,,B,][B,,B,] D,F, | B,,4 | [F,A,F]2 [C,G,C]2 | %32
+ [F,CF]2 [C,B,]2 | [F,A,C]2 [C,B,]2 | z2 B,2 |[M:3/8] F,,3 |] %36
+V:3
+ x4 | x4 | x4 | x4 | x4 | D,F, z z/ E/ | x4 | G,,G, z z/ G/ | x4 | F,,4 | x4 | x4 | x4 | %13
+ C,D, .E,>G | x4 | F,A,[K:treble] .C>A | x4 | x4 | x4 | [F,A,]2 z2 | x4 | x4 | x4 | x4 | x4 | x4 | %26
+ [F,A,]2 z z/[K:treble] F/ | x4 | [F,C]2 z2 | x4 | x4 | x4 | x4 | x4 | .F,2 z C, |[M:3/8] x3 |] %36
+V:4
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | B,2 z2 | x4 | z G, z C | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %17
+ F4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z2 z z/ A/ | x4 | x4 | [Fd][Fd] F-[Fc] | x4 | x4 | %32
+ x4 | x4 | x4 |[M:3/8] x3 |] %36
+V:5
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z2 A,2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z2 F,2 | %18
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z2 C2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %35
+[M:3/8] x3 |] %36
+V:6
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x2[K:treble] x2 | x4 | %17
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z2 F,2[K:treble] | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %34
+ z .C,3 |[M:3/8] x3 |] %36
+

@@ -1,0 +1,33 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=100
+M:9/8
+K:C
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 treble nm="Choir Pad, Bass"
+V:4 bass 
+V:1
+ [EG][_E^F][=EG] [Ec]3 [EG]3 | [CE][CD]C [CE]6 | [CE][B,D][CE] [B,F]3 [DG]3 | [FA][GB][FA] [EG]6 | %4
+w: By~Charles~Hutchinson~Gabriel * * * *||||
+ [EG][_E^F][=EG] [Ec]3 [EG]3 | [Ge][Gd][Gc] [GB]3 [FA]3 | [Ac][GB][FA] [EG]3 [Ec]3 | %7
+w: |||
+ [FB][FA][FB] [Ec]6 | [Ec][DB][Ec] [Fd]3- [Fd]3/2 z/ [Ge] | [Bd][Ac][FA] [EG]6 | %10
+w: |||
+ [EG][_E^F][=EG] [=FA]3 [Gc]3 | cB[^Fc] [Gd]6 | G[^FA][=FB] [Ec]3 [Ge]3 | %13
+w: |||
+ [Ge][Gd][Gc] [GB]3 [FA]3 | [Ac][GB][FA] [EG]3 [Ec]3 | [FB]3 [Ec]6- | [Ec]3 z3 z3 |] %17
+w: ||||
+V:2
+ x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | x9 | .^F3 z3 z3 | x9 | x9 | x9 | x9 | x9 |] %17
+V:3
+ CCC G,3 C3 | G,F,E, G,6 | G,G,G, G,3 G,3 | G,G,B, G,6 | CCC G,3 C3 | CB,C C6 | CCC C3 C3 | %7
+ DDD C6 | z3 B,B,B, B,3 | z3 CCC C3 | z3 CCC C3 | D3[K:bass] B,2 B, B,3 | B,C[K:treble]D C3 C3 | %13
+ CB,C C6 | CCC[K:bass] C3 G,3 | G,3 G,6- | G,3 z3 z3 |] %17
+V:4
+ C,C,C, C,3 C,3 | C,C,C, C,6 | z F,E, D,3 B,,3 | G,,G,,G,, C,6 | C,C,C, C,3 C,3 | C,D,E, F,6 | %6
+ F,F,F, G,3 G,3 | G,G,G, C,6 | z3 G,G,G, G,3 | z3 C,C,C, C,3 | z3 F,F,F, F,3 | D,3 G,2 G, G,3 | %12
+ G,G,G, C,3 C,3 | C,D,E, F,6 | F,F,F, G,3 z3 | G,,3 C,6- | C,3 z3 z3 |] %17
+

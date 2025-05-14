@@ -1,0 +1,39 @@
+X:1
+T:Title
+%%score { ( 1 3 4 ) | ( 2 5 ) }
+L:1/8
+M:6/8
+K:C
+V:1 treble nm="Grand Piano"
+V:3 treble 
+V:4 treble 
+V:2 bass 
+V:5 bass 
+V:1
+ z3 z2[Q:1/4=95] [EG] | [EG]2 [CE] [DF]2 [EG] | [FA]2 [FB] [Ec]2 [Gc] | [Ac]2 [^GB] [Ac]2 [FA] | %4
+[M:5/8] [EG]-[EG]- [EG]3 |[M:1/8] [EG] |[M:3/4] [EG]2 [CE] [DF]2 [EG] | [FA]2 [GB] [Gc]2 [Ge] | %8
+ [^Fe]2 [Fd] [Fc]2 [FA] | G6 | [EG]4 z2 | F6 | d4 z2 | c6 | e4 z2 | z2 z d z2 | z2 z c z2 | %17
+ [CDA]3 [B,DG]2 [G,DF] | E2 z2 z2 | C2 C E2 [EG] | [Ec]2 [Ge] d2 G | e4- eG | A2 d f2 d | %23
+ z2 z B, Bd |[M:5/8] [Ec]-[Ec]- [Ec]3 |] %25
+V:2
+ z3 z2 [C,C] | [C,C]2 [C,G,] [C,C]2 [C,C] | [F,C]2 [D,G,] [C,G,]2 [E,C] | %3
+ [F,C]2 [F,C] [F,C]2 [F,C] |[M:5/8] [C,C]-[C,C]- [C,C]3 |[M:1/8] [C,C] | %6
+[M:3/4] [C,C]2 [C,G,] [C,C]2 [C,C] | [F,C]2 [F,D] [E,C]2 [^C,A,] | [D,A,]2 [D,A,] [D,A,]2 [D,C] | %9
+ [G,B,]6 | [C,C]C, .C,2 D[C,G,C] | [D,G,B,][G,B,] [G,B,] .[G,B,]3 | %12
+ F-[G,F-] [G,F]2 E[K:bass][G,D] | [C,G,][E,C] [G,E] .[CE]3 | [CG]3 [B,E]2 [A,EA] | %15
+ [E,E][E,E] [E,E] [E,E]2 [E,DE] | [A,CE]3 A, B,D, | G,3 G,, A,,B,, | C,2 E, [G,B,]2 [F,G,B,] | %19
+ [E,G,]2 [E,G,] [C,G,C]2 [C,G,] | [C,G,]2 [C,C][K:treble] [G,B,G]2 [B,D] | %21
+ [CG]4- [CG][K:bass][E,C] | F3[K:treble] A2 [F,CF] | F4- [G,F][G,F] | %24
+[M:5/8][K:bass] [C,G,]-[C,G,]- [C,G,]3 |] %25
+V:3
+ x6 | x6 | x6 | x6 |[M:5/8] x5 |[M:1/8] x |[M:3/4] x6 | x6 | x6 | z2 z F3 | z C .C2 FE | %11
+ z D D .D3 | z B, .B,2 cB | EG G .G3 | z2 z2 dc | [^GB][GB] [GB]G- [Gc]B | A3 ^F- [FB][CDA] | x6 | %18
+ [G,C]2- [G,CG] F2 D | x6 | x6 | x6 | x6 | G4 z2 |[M:5/8] x5 |] %25
+V:4
+ x6 | x6 | x6 | x6 |[M:5/8] x5 |[M:1/8] x |[M:3/4] x6 | x6 | x6 | x6 | z2 z .C3 | x6 | z2 z .B,3 | %13
+ x6 | z2 z .^G3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |[M:5/8] x5 |] %25
+V:5
+ x6 | x6 | x6 | x6 |[M:5/8] x5 |[M:1/8] x |[M:3/4] x6 | x6 | x6 | x6 | z2 z .C,3 | x6 | %12
+ .[G,B,]2 z .G,3[K:bass] | x6 | x6 | x6 | z2 z .D,3 | x6 | x6 | x6 | x3[K:treble] x3 | %21
+ x5[K:bass] x | [F,C]6[K:treble] | [G,C]4 z2 |[M:5/8][K:bass] x5 |] %25
+

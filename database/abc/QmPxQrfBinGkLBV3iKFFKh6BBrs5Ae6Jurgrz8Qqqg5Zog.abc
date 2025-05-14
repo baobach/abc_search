@@ -1,0 +1,60 @@
+X:1
+T:Che daro senza Euridice
+T:Che faro senza Euridice
+T:Recitative & Aria uit Orfeo
+T:Gluck
+C:Gluck
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=85
+M:4/4
+K:C
+V:1 treble nm="Piano"
+V:3 treble 
+V:2 bass 
+V:1
+ z4 z2 EF | G3 G G3 c | (cB) B4 cG | A3 A G2 F2 | F2 E2 z2 Ge | ([Ae]^c)([Ad]f) (fA)([Ad]=c) | %6
+ [DB]6 z2 | E,G,CG, E,G,CG, | F,G,B,G, F,G,CG, | F,A,CA, D,F,B,F, | F2 EG, CEGc | cG,BG, CEGc | %12
+ cG,BG, ecBd | cGFA GEDF | [E,G,C]4 ecBd | cGFA GEDB, | [E,C][EG][CE][EG] [CE][EG][CE][EG] | %17
+ DGDG DGB,D | CD[A,C]D [A,C]D[A,C]D | [A,C]D[G,B,]D [G,B,]DB,D | CD[A,C]D [A,C]D[A,C]D | %21
+ [A,C]D[G,B,]D [G,B,]D[G,D]G | [G,E]G[A,E]G [A,E]G[A,E]G | [A,G]^F[DA]F [DA]F[DB]G | %24
+ [Dd]2 [^F,A,D][Q:1/2=30][Q:1/2=30] z[Q:1/4=75] cAG^F | ^FGBG cAGF | ^FGGG [GB]AAe | edcB BAAe | %28
+ edcB BAG^F | ^FG !fermata!G2 z4[Q:1/4=85] | E,G,CG, E,G,CG, | =F,G,B,G, F,G,CG, | %32
+ F,A,CA, B,,,F,B,F, | E,G,CG, CEGc | cG,BG, CEGc | cG,BG, ecBd | cGFA GE[B,D]F | C4 ecBd | %38
+ cGFA GEDB, | [F,C]4 !fermata!z2[Q:1/4=75] z2 | [C_E^F]2 [CEF]2 !fermata![CEA]2 z2 | %41
+ [B,D]2 [B,DG]2 [B,DG]2 !fermata!z2 | [G,B,][B,D][G,B,][B,D] [G,B,][Q:1/4=75][F_A][_EG][DF] | %43
+ [C_E]2 [B,D][F_A] [FA]2 [EG][DF] | [CE]2 [B,D][F_A] [FA]2 [EG][DF] | [C_E]2 [B,D]G [B,D]G[B,D]G | %46
+ z [C_E^F]2 [CEF]2 [CEF]2 [CEF] | [C_E^F]4 !fermata!z4[Q:3/4=60][Q:1/4=60] | %48
+ [B,DG]4 !fermata!z2[Q:1/4=85] z2 | =E,G,CG, E,G,CG, | F,G,B,G, F,G,CG, | F,A,CA, B,,,F,A,F, | %52
+ E,G,CG, CEGc | cG,BG, CEGc | cG,BG, ecBd | cGFA GE[B,,,D]F | [C,,C]4 CEGc | cG,BG, DFBd | %58
+ FG, E2 ecBd |!<(! ecBd ecB z!<)! |!f! f f2 f fdce | edcB f f2 f | fdce edcB | [Ec]2 z2 CEGc | %64
+ (c2 B2) DFBd | (d2 c2) ecBd | ecBd ecBd | f f2 f fdce | edcB f2 f2 | fdce edcB | c4 z4 |] %71
+V:2
+ z8 |!p! C,G,E,G, C,G,E,G, | D,G,F,G, [D,F,]G,[C,E,]G, | F,C,F,C, B,,D,B,,D, | C,G,E,G, C,G,E,G, | %5
+ F,2 F,2 F,2 ^F,2 | G,2 D,2 G,,2 z2 | C,2 C,,2 z2 C,2 | D,2 G,,2 z2 E,,2 | F,,2 F,,,2 z2 G,,,2 | %10
+ C,,2 C,2 z2!f! E,2 | D,2 G,,2 z2!f! E,2 | D,2 G,,2 C,, z D,, z | E,, z F,, z G,, z G,, z | %14
+ [C,,C,]4 C,, z D,, z | E,, z F,, z G,, z G,,, z | C,,4 z4 | [B,,,B,,]4 z2 G,2 | A,2 D,2 z2 ^F,2 | %19
+ G,2 G,,2 z2 G,2 | A,2 D,2 z2 ^F,2 | G,2 G,,2 z2 B,,2 | C,2 A,,,2 z2 ^C,2 | D,2 D,,2 z2 G,2 | %24
+ ^F,2 !fermata!D,2 [C,,C,]4 | [B,,,B,,]2 [G,,,G,,]2 [A,,,A,,]2 [C,,C,]2 | %26
+ [B,,,B,,]2 [G,,,G,,]2 [C,,C,]4 | [B,,,B,,]2 [E,,E,]2 [C,,E,]2 z2 | %28
+ [B,,,B,,]2 [E,,E,]2 [C,,C,]2 [D,,D,]2 | !fermata![G,,,G,,]4 z4 | C,2 C,,2 z2 C,2 | %31
+ D,2 G,,2 z2 G,,2 | F,,2 F,,,2 z2 G,,,2 | C,,2 C,2 z2 E,2 | D,2 G,,2 z2 E,2 | %35
+ D,2 G,,2 C,, z D,, z | E,, z F,, z G,, z G,, z | C,,4 C,, z D,, z | E,, z F,, z G,, z A,,, z | %39
+ [C,,C,]4 !fermata!z2 z2 | A,2 A,2 !fermata!^F,2 z2 | G,2 G,2 G,2 !fermata!z2 | %42
+ [G,,,G,,]2 z2 [G,,,G,,]2 z2 | z2 [G,,,G,,]2 [G,,,G,,]4 | [G,,,G,,]2 [G,,,G,,]2 (([G,,,G,,]4 | %45
+ [G,,,G,,]2)) [G,,,G,,]2 [G,,,G,,]2 [G,,,G,,]2 | [A,,,=A,,]2 [A,,,A,,]2 [A,,,A,,]2 [A,,,A,,]2 | %47
+ [A,,,_A,,]4 !fermata!z4 | [G,,,G,,]4 !fermata!z2 z2 | C,2 C,,2 z2 C,2 | D,2 G,,2 z2 E,,2 | %51
+ F,,2 F,,,2 z2 G,,,2 | C,,2 C,2 z2!f! E,2 | D,2 G,,2 z2!f! E,2 | D,2 G,,2 C,, z D,, z | %55
+ E,, z F,, z G,, z G,,, z | C,,4 z2 E,2 | D,2 G,,2 z2 G,,2 | C,4 [C,G,]2 [D,G,]2 | %59
+ [C,G,]2 [D,G,]2 [C,G,]2 [D,G,]2 | B,,2 A,,2 G,,2 C,2 | F,2 G,2 B,,2 A,,2 | G,,2 C,2 F,2 G,2 | %63
+ [C,E,]G,[C,E,]G, [C,E,]G,[C,E,]G, | [D,F,]G,[D,F,]G, [G,,D,]F,[G,,D,]F, | %65
+ [C,F,]G,[C,E,]G, C,G,D,G, | C,G,D,G, C,G,D,G, | B,,2 A,,2 G,,2 C,2 | %68
+ F,,2 G,,2 [B,,,B,,]2 [A,,,A,,]2 | [G,,,G,,]2 [C,,C,]2 [F,,,F,,]2 [G,,,G,,]2 | [C,,C,]4 z4 |] %71
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | D2 A,2 E2 A,2 | D2 B,2 E2 A,2 | D2 B,2 E2 ^F2 | G2 G2 [EG]2 ^F2 | %28
+ G2 G2 E2 D2 | C2 !fermata!B,2 z4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %42
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | D2 C2 E2 F2 | %59
+ E2 F2 E2 F2 | G d2 c B2 G2 | GFED G d2 c | x8 | x8 | x8 | d2 c2 E2 F2 | x8 | GBdc Bd G2 | %68
+ GFED GBdc | Bd G2 GFED | E4 z4 |] %71
+

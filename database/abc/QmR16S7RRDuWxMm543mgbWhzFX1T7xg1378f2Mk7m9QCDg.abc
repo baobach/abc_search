@@ -1,0 +1,112 @@
+X:1
+T:6 Songs, Op.6
+T:Wie die Wolke nach der Sonne
+T:5. Wie die Wolke nach der Sonne
+T:Johannes Brahms
+T:August Heinrich Hoffmann von Fallersleben
+T:6 Songs, Op.6
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+C:Johannes Brahms
+Z:August Heinrich Hoffmann von Fallersleben
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/8
+Q:1/4=92
+M:4/4
+K:B
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:4 bass 
+V:5 bass 
+V:1
+"^Poco Andante"!p! B3 c d2 F2 | B3 c d2 F2 | B2 d2 f2 d2 | B2 c2 d2 z2 |!<(! B2 B2 e3!<)! e | %5
+w: Wie die Wol- ke|nach der Son- ne|voll Ver- lan- gen|irrt und bangt,|und durch- glüht von|
+w: Wie die Son- nen-|blu- me rich- tet|auf die Sonn ihr|An- ge- sicht|und nicht ehr auf|
+ e3 d d2 c z | !>!e6[Q:1/4=89]"^T""^dim. e sosten." c2 | %7
+w: Him- mels- won- ne|ster- bend|
+w: sie ver- zich- tet,|bis ihr|
+[Q:1/4=86]"^T" (.=A2[Q:1/4=83]"^T" .E2[Q:1/4=80]"^T" .E2 .B2) |[Q:1/4=92]"^a tempo"!p! ^A4 z4 | %9
+w: ihr am Bu- sen|hangt:|
+w: eig- nes Au- ge|bricht:|
+ z8 |1 z8 | z8 :|2 z8 | z8 ||[K:D]!f! B3 c d2 F2 | d3 e f2 d2 | g2 d2 c2 B2 | B2 e2 c2 z2 | %18
+w: |||||Wie der Aar auf|Wol- ken- pfa- de|seh- nend steigt ins|Him- mels- zelt|
+w: |||||||||
+ e3 f g2 B2 | e3 f g2 e2 | (.g2 .f2 .^e2 .=e2) |"^dim." !>!^d6 =d2 | %22
+w: und be- rauscht vom|Son- nen- ba- de|blind zur Er- de|nie- der-|
+w: ||||
+!>(! c4!>)! z4[Q:1/4=80]"^T"[Q:1/4=88]"^T"[Q:1/4=86]"^T" | %23
+w: fällt:|
+w: |
+[Q:1/4=84]"^T" z8[Q:1/4=80]"^T"[Q:1/4=80]"^T" ||[K:B][Q:1/4=92]"^a tempo"!p! B3 c d2 F2 | %25
+w: |So auch  muss ich|
+w: ||
+ B3 c d2 F2 | B2 d2 f2 d2 | (.B2 .c2 .d2) z2 |!<(! B2 B2!<)! e3 e | e3 d d2 c z | %30
+w: schmach- ten,  ban- gen,|spähn und trach- ten,|dich zu sehn,|will an dei- nen|Bli- cken han- gen|
+w: |||||
+ !>!e6[Q:1/4=90]"^T""^dim. e sosten." c2 | %31
+w: und an|
+w: |
+[Q:1/4=88]"^T" =A2[Q:1/4=86]"^T" E2[Q:1/4=83]"^T" E2[Q:1/4=80]"^T" B2 | %32
+w: ih- rem Glanz ver-|
+w: |
+!p! ^A2!mf! z2[Q:1/4=92]"^a tempo" e4- | e4 e4 | e6 e2 | d4 c4 | e8-[Q:1/4=88] | %37
+w: gehn, und|_ an|ih- rem|Glanz ver-|gehn,|
+w: |||||
+[Q:1/4=85]"^T" e2[Q:1/4=82]"^T" z2!p![Q:1/4=78]"^T" G4[Q:1/4=73] | !fermata!F8 |] %39
+w: _ ver-|gehn.|
+w: ||
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |1 x8 | x8 :|2 x8 | x8 ||[K:D] x8 | x8 | x8 | x8 | %18
+ x8 | x8 | x8 | x8 | x8 | x8 ||[K:B] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %36
+ x4 x2"^T""^rit."!>(! x2 | x2!>)! x2 x2"^T" x x | x8 |] %39
+V:3
+!p! z (.[DB]z.[Ec]z.[Fd]z.[DF]) | z (.[DB]z.[Ec]z.[Fd]z.[DF]) | %2
+ z!<(! (.[DB]z.[Gd]!<)!z.[FBf]z.[Fd]) | z (.[DB]z.[FAc]) z (.[DFBd]2 .[DFBd]) | %4
+ z (.[Ge]z.[=Af]) z (.[Bg]z.[GB]) | z (.[Gce]z.[df] z .[eg]z.[EG]) | %6
+ z!f! (.[ec'e']z.[=ac']z"_dim. e sosten.".[ea]z.[ce]) | %7
+ z (.[=Ac]z.[EA]z.[B,E]z!arpeggio!.[B,EGB]) |!p! z (!arpeggio!.[EF^Ae]z.[df]z.[eg]z.[FA]) | %9
+ z (.[ce]z.[df]z.[eg]z.[FA]) |1 z (.[eg]z.[FA] z .[eg]z.[FA]) | z (.[eg] z2 z .[FA]) z2 :|2 %12
+ z (.[e=g]z.[FA] z .[eg]z.[FA]) | z (.[ef] z2 z .[FA]) z2 || %14
+[K:D] (3z ([Bf]F) (3z ([cf]F) (3z ([df]F) (3z (fF) | %15
+ (3z ([da]A) (3z ([ea]A) (3z ([fa]A) (3z ([da]A) | (3z ([gb]B) (3z ([db]B) (3z ([cb]B) (3z (bB) | %17
+ (3z (bB) (3z (bB) (3z (^a^A) (3z (aA) | (3z ([eb]B) (3z ([fb]B) (3z ([gb]B) (3z (bB) | %19
+ (3z ([e=c']=c) (3z ([fc']c) (3z ([gc']c) (3z ([ec']c) | %20
+ (3z ([gb]B) (3z ([fb]B) (3z ([^eb]B) (3z ([=eb]B) | %21
+"_dim." (3z ([^db]B) (3z ([db]B) (3z ([db]B) (3z ([=db]B) | %22
+ (3z [c^a]^A"_dim. e rit. poco" (3z [ca]A (3z [ca]A (3z [ca]A | %23
+!>(! (3z (fF) (3z (fF) (3z (fF) (3z!>)! (fF) || %24
+[K:B]!p! (3z ([Bf]F) (3z ([cf]F) (3z ([df]F) (3z (fF) | %25
+ (3z ([Bf]F) (3z ([cf]F) (3z ([df]F) (3z (fF) | (3z [Bg]G (3z [dg]G (3z [fb]B (3z [db]B | %27
+ (3z [dgb]B (3z [fac']c (3z [fbd']d (3z [fbd']d | (3z [eb]B (3z [fb]B (3z [gb]B (3z bB | %29
+ (3z [ec']c (3z [fc']c (3z [gc']c (3z c'c | %30
+!f! (3z [c'e']e (3z [=ac']e (3z [ea]c"_dim. e sosten." (3z [ce]=A | %31
+ (3z [=Ac]E (3z [EA]C (3z EB, (3z [EGB]B, |!p! (3z [F^Ae]E!mf! z [df] (3z [eg]F (3z AF | %33
+ (3z [ce]F z [df] (3z [eg]F (3z AF |"_dim." (3z [Be]G z [df] (3z [eg]B (3z BG | %35
+ (3z [ce]F z [df]!mp! (3z [eg]F"_dim." (3z AF | (3z [gb]B (3z [eg]B (3z [Be]G (3z [GB]E | %37
+ (3z [EG]B, (3z [B,E]G,[K:bass]!p! (3z [G,B,]E, (3z [G,B,C]!>(!E, | z2 !fermata![D,F,B,D]6!>)! |] %39
+V:4
+ (.[B,,D,B,]2 z .[E,C] .[F,D]2 .[D,F,]2) | (.[B,,D,B,]2 z .[E,C] .[F,D]2 .[D,F,]2) | %2
+ (.[G,,D,B,]2 .[B,D]2) (.[D,,B,,D,]2 .[B,D]2) | (.[G,,D,G,]2 .[F,,F,]2 .[B,,,B,,]2) z2 | %4
+ (.[E,G,E]2 z .[B,F] .[EG]2 .[G,B,]2) | (.[C,G,E]2 z .[DF] .[EG]2 .[E,G,]2) | %6
+ (.[=A,,E,=A,]2[K:treble] .[=Ac]2 .[EA]2 .[CE]2) |[K:bass] (.[=A,C]2 .[E,A,]2 .[E,G,]2 .[C,,C,]2) | %8
+ .[F,,F,]2 z (.[DF] .[EG]2 .[F,A,]2) | (.[F,CE]2 z .[DF] .[EG]2 .[F,A,]2) |1 %10
+ (.[EG]2 .[F,A,]2 .[EG]2 .[F,A,]2) | (.[EG]2 z2 .[F,A,]2) z2 :|2 %12
+ (.[E=G]2 .[F,A,]2 .[EG]2 .[F,A,]2) | (.[EF]2 z2 .[F,A,]2) z2 || %14
+[K:D] [B,,D,B,]2 z [F,C] [B,D]2 [D,F,]2 | !arpeggio![A,,F,D]2 z [A,E] [DF]2 [F,D]2 | %16
+ !arpeggio![G,,D,B,]2 [B,D]2 [A,C]2 [G,B,]2 | [E,G,]4 [F,^A,]2 z2 | %18
+ [E,G,E]2 z [B,F] [EG]2 [G,B,]2 | !arpeggio![=C,G,E]2 z [^DF] [EG]2 [=CE]2 | (G2 F2 ^E2 =E2) | %21
+ (^D6 =D2) | [F,^A,C]2 (!>!G,4 F,2) | !arpeggio![F,,C,E,^A,]2 z2 z4 || %24
+[K:B] (.[B,,D,B,]2 z .[E,C] .[F,D]2 .[D,F,]2) | (.[B,,D,B,]2 z .[E,C] .[F,D]2 .[D,F,]2) | %26
+ (.[G,,D,B,]2 .[B,D]2 .[D,,B,,D,]2 .[F,D]2) | (.[G,,D,G,]2 .[F,,F,]2 .[B,,,B,,]2) z2 | %28
+ [E,G,E]2 z [=A,F] [B,G]2 [G,B,]2 | [C,G,E]2 z [DF] [EG]2 [E,G,]2 | %30
+ [=A,,E,=A,]2[K:treble] [=Ac]2 [EA]2 [CE]2 |[K:bass] [=A,C]2 [E,A,]2 [E,G,]2 [C,,C,]2 | %32
+ [F,,F,]2 z [DF] [EG]2 [F,A,]2 | [F,CE]2 z [DF] [EG]2 [F,A,]2 | [G,B,E]2 z [B,F] [EG]2 [G,B,]2 | %35
+ [A,E]2 z [DF] [EG]2 [F,A,]2 | [B,,B,]2 [EG]2 [B,E]2 [G,B,]2 |"^rit." [E,G,]2 [B,,E,]2 [E,,B,,]4 | %38
+ !fermata![B,,,F,,B,,]8 |] %39
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x2[K:treble] x6 |[K:bass] x8 | x8 | x8 |1 x8 | x8 :|2 x8 | x8 || %14
+[K:D] x8 | x8 | x8 | x8 | x8 | x8 | [G,B,]8 | [G,B,]4 [^E,B,]4 | x8 | x8 ||[K:B] x8 | x8 | x8 | %27
+ x8 | x8 | x8 | x2[K:treble] x6 |[K:bass] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %39
+

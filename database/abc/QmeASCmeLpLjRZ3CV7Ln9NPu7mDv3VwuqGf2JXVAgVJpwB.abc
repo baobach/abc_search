@@ -1,0 +1,28 @@
+X:1
+T:Winter
+T:Winter
+T:(Accompanied)
+T:Antonio Vivaldi arr. Biel Martín 
+C:Antonio Vivaldi
+%%score 1 ( 2 3 )
+L:1/8
+Q:1/4=76
+M:4/4
+K:C
+V:1 treble transpose=-9 nm="Saxòfon Contralt" snm="Sax. Contr."
+V:2 treble-8 nm="Guitarra clàssica" snm="Guit."
+V:3 treble-8 
+V:1
+[K:A]"^Andante" z2 | z8 | z8 ||!mf! (A2 ed c2 BA | B2 E4) (E2 | dcBA G2 d2 | d2 c4)!mp! (c2 | %7
+"^cresc." F2 GA B2 cd | G2 AB c2 de | A2 Bc d2 e2 |!f! G4) z2 (GA | BGFE cdec | B2 E2) z2!p! (GA | %13
+ BGFE cdec | B2 E2) z2!f! (Be | c2 BA"^rit." G2 A2 | A8) |] %17
+V:2
+!mf!!mf! dg | e2 dc TB3 c | c8 ||!p!!mp! z [EG][EG][EG] z [EG][EG][EG] | %4
+ z [DG][DG][DG] z [DG][DG][DG] | z [DG][DG][DG] z [DG][DG][DG] | %6
+!>(! z [EG][EG][EG] z!>)!!p! [EG][EG][EG] | z FFA z FFA | z GGB z GGB |!f!!mf! z AAc z AAc | %10
+ z GDB, z4 | [DGB]4 [EGc]4 | [DGB]6 z2 |!pp!!pp! [dgb]4 [egc']4 | [dgb]8 | %15
+!mf!!mf! z [EG][EG][EG] z [FG][FG][FG] | [EG]8 |] %17
+V:3
+ z2 | [CGc]4 [G,DG]4 | [CEG]8 || C4 C4 | G,4 G,4 | G,4 G,4 | C4 C4 | F,4 F,4 | G,4 G,4 | A,4 A,4 | %10
+ G,4 G,4 | G,4 G,4 | x8 | G4 G4 | G8 | C4 G,4 | C8 |] %17
+

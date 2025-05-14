@@ -1,0 +1,60 @@
+X:1
+T:h
+T:h
+%%score { ( 1 4 ) | 2 | ( 3 5 ) }
+L:1/8
+Q:1/4=120
+M:2/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:2 alto 
+V:3 bass 
+V:5 bass 
+V:1
+!mf! z4 | z4 | z4 | ([E,,E,Eee'e'']2 !trill(!!wedge!T[E,,,E,,E,Eee']) !trill)!z :| z4 | z4 | z4 | %7
+ z4 | z4 | z z z2 | %10
+[I:staff +1] ((!^![F,,,F,,F,Ff]>[I:staff -1][^D,^D^d^d'^d''])[I:staff +1] ([E,,,E,,E,Ee]/)[I:staff -1][E,Eee'e'']/[=d=d'=d'']/[B,,B,Bbb']/) | %11
+ [EAeae'a']2 z2 | z2 !wedge![^CEA] z | z z !wedge![DFA] z | z z z2 | z4 | z4 | z4 | %18
+ ([Fff']>[^D^d^d'^d'']) ([Eee']/[ee'e'']/[=d=d'=d'']/[Bbb']/) | %19
+ [CEAceac'e'a'c''e''a'']2 !wedge![C,A,CAcac'a'c''a'']2 | z4 | z4 |] %22
+V:2
+ !arpeggio!!wedge![A,,,,E,,,A,,,C,,A,,E,A,CEAce'a'c''a''] z3/4 [A,,,,A,,,A,,A,Aaa'a'']/4 ([A,,,,A,,,A,,A,Aaa'a'']/[C,,,C,,C,Ccc'c''c''']/[B,,,,B,,,B,,B,Bbb'b'']/[A,,,,A,,,A,,A,Aaa'a'']/) | %1
+ !arpeggio!!wedge![B,,,,E,,,^G,,,B,,,E,,^G,,E,B,E^GBe^ge'^g'b'e''^g''b''] z3/4 [E,,,E,,E,Eee'e'']/4 ([E,,,E,,E,Eee'e'']/[G,,,G,,^G,Ggg'g'']/[^F,,,^F,,^F,^F^f^f'^f'']/[E,,,E,,E,Eee'e'']/) | %2
+ !arpeggio!!wedge![A,,,,C,,,E,,,A,,,C,,E,,A,,E,A,CEce'a'c''a''] z3/4 [A,,,,A,,,A,,A,Aaa'a'']/4 ([A,,,,A,,,A,,A,Aaa'a'']/[C,,,C,,C,Ccc'c''c''']/[B,,,,B,,,B,,B,Bbb'b'']/[A,,,,A,,,A,,A,Aaa'a'']/) | %3
+ !arpeggio!!wedge![B,,,,^G,,,B,,,^G,,B,,E,B,^GB^g^g'b'^g''b''] z z2 :| %4
+ !arpeggio![A,,,,^C,,,E,,,A,,,^C,,E,,A,,E,A,^Cea^c'a'^c''e''a''] z3/4 [A,,,A,,A,Aaa'a'']/4 ([A,,,A,,A,Aaa'a'']/[_B,,,_B,,_B,_B_b_b'_b'']/[A,,,A,,A,Aaa'a'']/[G,,,G,,G,Ggg'g'']/) | %5
+ !arpeggio![A,,,,D,,,F,,,A,,,D,,F,,A,,D,A,DFAfaf'a'd''f''a''] z3/4 [D,,,D,,D,Ddd'd'']/4 ([D,,,D,,D,Ddd'd'']/[F,,,F,,F,Fff'f'']/[E,,,E,,E,Eee'e'']/[D,,,D,,D,Ddd'd'']/) | %6
+ !arpeggio!!wedge![B,,,,D,,,G,,,B,,,G,,D,G,B,dbg'b'd''g''b''] z3/4 [G,,,G,,G,Ggg'g'']/4 ([G,,,G,,G,Ggg'g'']/[A,,,A,,A,Aaa'a'']/[G,,,G,,G,Ggg'g'']/[F,,,F,,F,Fff'f'']/) | %7
+ !arpeggio!!wedge![C,,,E,,,G,,,C,,E,,G,,C,G,CEGege'g'c''e''g''c'''] z3/4 [C,,,C,,C,Ccc'c'']/4 ([C,,,C,,C,Ccc'c'']/[E,,,E,,E,Eee'e'']/[D,,,D,,D,Ddd'd'']/[C,,,C,,C,Ccc'c'']/) | %8
+ !arpeggio![B,,,,D,,,F,,,B,,,D,,F,,B,,D,F,B,FBfbf'b'd''f''b''] z3/4 [B,,,,B,,,B,,B,Bbb']/4 ([B,,,,B,,,B,,B,Bbb']/[D,,,D,,D,Ddd'd'']/[C,,,C,,C,Ccc'c'']/[B,,,,B,,,B,,B,Bbb']/) | %9
+ !arpeggio!!wedge![A,,,,C,,,E,,,A,,,C,,E,,A,,C,E,CEAeae'a'c''e''a''c'''] z3/4 [A,,,,A,,,A,,A,Aaa'a'']/4 ([A,,,,A,,,A,,A,Aaa'a'']/[C,,,C,,C,Ccc'c''c''']/[B,,,,B,,,B,,B,Bbb'b'']/[A,,,,A,,,A,,A,Aaa'a'']/) | %10
+ z !wedge![A,B,ABaba'b'a''b''] z !wedge![^GB^gb^g'b'^g''b''] | %11
+ z2 !arpeggio![A,,,,E,,,A,,,E,,A,,E,A,EAcac'a'c''a''c'''] z | %12
+ !arpeggio!!>!!wedge![A,,,,E,,,A,,,^C,,A,,E,A,^Cea^c'a'e''a''] z3/4 [aa'a'']/4 !wedge![aa'a'']/!wedge![_b_b'_b'']/!wedge![aa'a'']/!wedge![gg'g'']/ | %13
+ !arpeggio!!>!!wedge![D,,,A,,,D,,F,,D,A,DFAfaf'a'f''a''] z3/4 [dd'd'']/4 !wedge![dd'd'']/!wedge![ff'f'']/!wedge![ee'e'']/!wedge![dd'd'']/ | %14
+ !arpeggio!!>!!wedge![D,,,G,,,B,,,G,,D,G,B,DGBgd'g'b'g''] z3/4 [Ggg'g'']/4 !wedge![Ggg'g'']/!wedge![Aaa'a'']/!wedge![Ggg'g'']/!wedge![Fff'f'']/ | %15
+ !arpeggio!!>!!wedge![C,,,G,,,C,,E,,C,G,CEGege'g'e''g''] z3/4 [cc'c'']/4 !wedge![cc'c'']/!wedge![ee'e'']/!wedge![dd'd'']/!wedge![cc'c'']/ | %16
+ !arpeggio!!>!!wedge![D,,,F,,,_B,,,F,,D,F,_B,F_Bff'_b'f''] z3/4 [B_bb']/4 !wedge![Bbb']/!wedge![dd'd'']/!wedge![cc'c'']/!wedge![Bbb']/ | %17
+ !arpeggio!!>!!wedge![C,,,E,,,E,,C,E,Aee'a'e''] z3/4 [Aaa'a'']/4 !wedge![Aaa'a'']/!wedge![cc'c''c''']/!wedge![Bbb'b'']/!wedge![Aaa'a'']/ | %18
+ z4 | z2 z2 | z4 | z4 |] %22
+V:3
+!ped! z z!ped-up! z2 |!ped! z z!ped-up! z2 |!ped! z z z2!ped-up! |!ped! z z z2!ped-up! :| %4
+!ped! z!ped-up! z z2 |!ped! z!ped-up! z z2 |!ped! z!ped-up! z z2 |!ped! z!ped-up! z z2 | %8
+!ped! z!ped-up! z z2 |!ped! z!ped-up! z z2 | %10
+ z !wedge![A,,,,B,,,,A,,,B,,,A,,B,,] z !wedge![^G,,,B,,,^G,,B,,^G,B,] | %11
+ [A,,,,C,,,A,,,C,,A,,C,A,C]2 z2 |!ped! z z!ped-up! !wedge![^C,,,E,,,A,,,^C,,E,,A,,^C,E,A,] z | %13
+!ped! z z!ped-up! !wedge![D,,,F,,,A,,,D,,F,,A,,D,F,A,] z | %14
+!ped! z z!ped-up! !wedge![A,,,,B,,,D,,A,,B,DA] z | %15
+[K:bass]!ped! z z!ped-up! !wedge![C,,,E,,,G,,,E,,G,,C,E,G,CEG] z | %16
+[K:bass]!ped! z z!ped-up! !wedge![D,,,F,,,D,,F,,D,F,DF] z | %17
+[K:bass]!ped! z z!ped-up! !wedge![C,,,E,,,C,,E,,C,E,CE] z | %18
+ z [A,,,,B,,,,A,,,B,,,A,,B,,A,B,] z ([^G,,,B,,,^G,,B,,^G,B,]/[E,,,E,,E,E]/) | %19
+ [A,,,,E,,,A,,,A,,E,A,]2!ped! !wedge![A,,,,A,,,E,,A,,]2 | z4 | z4!ped-up! |] %22
+V:4
+ x4 | x4 | x4 | x4 :| x4 | x4 | x4 | x4 | x4 | x4 | x3 [E,,E,E] | x4 | x4 | x4 | x4 | x4 | x4 | %17
+ x4 | x2 E[Fff']/[=Ddd']/ | x4 | x4 | x4 |] %22
+V:5
+ x4 | x4 | x4 | x4 :| x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |[K:bass] x4 | %16
+[K:bass] x4 |[K:bass] x4 | !^![F,,,F,,F,]2 [E,,,E,,E,]2 | x4 | x4 | x4 |] %22
+

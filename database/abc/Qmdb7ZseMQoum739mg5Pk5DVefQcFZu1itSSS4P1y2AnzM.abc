@@ -1,0 +1,41 @@
+X:1
+T:Title
+%%score { ( 1 2 ) | 3 }
+L:1/8
+Q:1/4=100
+M:2/4
+K:Bb
+V:1 treble nm="Grand Piano"
+V:2 treble 
+V:3 bass 
+V:1
+ [DF]2 [DF]2 | [DF]4[K:bass] | [Fd][Fd] [Fd][F_d] | [Fd]4[K:bass] | [EF]2[K:treble] [EF]2 | %5
+w: Howard~E.~Smith *|||||
+ [EF]4[K:bass] | [Fe][Fe] [Fe][Fd] | [Fe]4[K:bass] | [Fe][Fe] [Fe][Fd] | [Fe]4[K:bass] | %10
+w: |||||
+ [Fd][Fd] [Fd][F_d] | [Fd]4[K:bass] | [=Ec][Ec] [Ec][E=B] | [=Ec]2 [CE]2 | [CF]4- | [CF]2 z2 | %16
+w: ||||||
+ z2 [EA]2 | [EA]4[K:bass] | z2[K:treble] [DG]2 | [DG]4 | z2 [EG]2[K:bass] | [EG]4 | z2 [DG]2 | %23
+w: |||||||
+ [DG]4[K:bass] | z2[K:treble] [EA]2 | [EA]4 | z2 [DB]2 | [DB]4[K:bass] | [=Ec][EB] [EA]B | d2 c2 | %30
+w: |||||||
+ B4- | B2 z2 |] %32
+w: ||
+V:2
+ z [F,B,] z [F,B,] | z[K:bass] [F,B,] z [F,B,] | x4 | z[K:bass] [F,B,] [F,B,][F,B,] | %4
+ z [F,A,][K:treble] z A, | z[K:bass] [F,A,] z [F,A,] | x4 | z[K:bass] [F,A,] [F,A,][F,A,] | x4 | %9
+ z[K:bass] [F,A,] [F,A,][F,A,] | x4 | z[K:bass] [F,B,] [F,B,][F,B,] | x4 | z [G,C] z B, | .A,2 z2 | %15
+ x4 | EA z [F,A,] | z[K:bass] [F,A,]/[F,A,]/ A,A, | D[K:treble]G z [F,B,] | z B,/B,/ B,B, | %20
+ EG z[K:bass] [F,A,] | z A,/A,/ A,A, | DG z [F,B,] | z[K:bass] B,/B,/ B,B, | %24
+ E[K:treble]A z [F,A,] | z A,/A,/ A,A, | FB z [F,B,] | z[K:bass] [F,B,]/[F,B,]/ [F,B,][F,B,] | x4 | %29
+ z F z F | z [DF]/[DF]/ [DF][DF] | [DF]2 z2 |] %32
+V:3
+ B,,D, F,,D, | B,,D, F,,D, | B,,[D,F,B,] F,,[D,F,B,] | B,,D, D,D, | C,E, F,,E, | C,E, F,,E, | %6
+ C,[E,F,A,] F,,[E,F,A,] | C,E, E,E, | C,[E,F,A,] F,,[E,F,A,] | C,E, E,E, | %10
+ B,,[D,F,B,] F,,[D,F,B,] | B,,D, D,D, | C,[=E,G,C] G,,[E,G,C] | C,=E, C,G, | F,C, A,,C, | F,,2 z2 | %16
+ C,[E,F,A,E] F,,E, | C,E,/E,/ E,E, | B,,[D,F,B,D] F,,D, | B,,[D,F,]/[D,F,]/ [D,F,][D,F,] | %20
+ C,[E,F,A,E] F,,E, | D,[E,F,]/[E,F,]/ [E,F,][E,F,] | B,,[D,F,B,D] F,,D, | %23
+ B,,[D,F,]/[D,F,]/ [D,F,][D,F,] | C,[E,F,A,E] F,,E, | C,[E,F,]/[E,F,]/ [E,F,][E,F,] | %26
+ B,,[D,F,B,D] F,,D, | B,,D,/D,/ D,D, | C,[=E,G,C] C,[E,G,C=E] | [F,,F,][F,A,E] F,[F,A,E] | %30
+ [B,,B,][F,,F,]/[G,,F,]/ [D,,D,][F,,F,] | [B,,,B,,]2 z2 |] %32
+

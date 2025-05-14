@@ -1,0 +1,91 @@
+X:1
+T:Tifa's Theme
+T:Tifa's Theme - lofi
+T:Nobuo Uematsu Arranged by Arthen 
+T:Final Fantasy VII
+%%score { 1 | 2 } 3 ( 4 5 )
+L:1/8
+Q:1/4=110
+M:12/8
+K:F
+V:1 treble nm="Piano" snm="Pno"
+V:2 bass 
+V:3 bass transpose=-12 nm="Contrabaixo" snm="Contb."
+V:4 perc nm="Bateria" snm="Bat."
+K:none
+I:percmap A A 41 normal
+I:percmap ^b b 55 x
+I:percmap ^c c 37 x
+I:percmap ^e e 46 x
+I:percmap ^g g 42 x
+I:percmap c c 38 normal
+I:percmap d d 45 normal
+V:5 perc 
+K:none
+I:percmap F F 35 normal
+V:1
+ !arpeggio![B-d-a]6 [Bdg]6 | (2:3:2!arpeggio![Gcg]A [cf]3- [cf]3- [cf] A2 | AGG- G A2 B3 A2 G | %3
+ [D-G] [DF]2- [DF]6 D2 F | !arpeggio![B,DG]3- [B,-DG-]2 [B,DG]- [B,DG]2 F A F2 | %5
+ !arpeggio![CFA]6 [EG]6 | [DF]6 [CE]3 cag | a2 c- c6 cag | a2 _d- d6 d_ed | c12 | z6 z3 cag | %11
+ a2 c- c6 cag | a2 c'- c'6 afe | d12 | z6 z3 dba | b2 d- d6 dba | b2 g- g6 gfg | a12- | %18
+ a6- a3- a2 a | a g2 g2 a b3 a2 g | g f2- f6 d2 f | g6- g3 daf | a6 g6 | f6 e3 cag | a c2- c6 cag | %25
+ a _d2- d6 d_ed | c12 | z6 z3 ca^g | a c2- c6 ca^g | a c'2- c'2 ^c'- c'3 afe | d12 | z6 z3 dba | %32
+ b d2- d6 dba | b g2- g6 gfg | a12- | a6- a3- a a2 | a g2- g a2 b3- bag | g f2- f6- fdf | %38
+ g6- g3 daf | a6 g6 | f6 e6 | d3- d2 c- c6- |[M:6/8] !arpeggio![Cc]3 F3 | G3 C3 | %44
+ !arpeggio![DF-B]6 | [CFA]6- | [CFA]6 | !arpeggio![DF]6- | [DF]6 | !arpeggio![CF]6- | [CF]6 |] %51
+V:2
+ !arpeggio![B,DG]12 | !arpeggio![A,CF]12 | !arpeggio![_E,B,_D]6 !arpeggio![E,G,B,D]6 | %3
+ !arpeggio![D,F,A,C]12 | !arpeggio![G,,D,F,]12 | !arpeggio![C,B,]12- | [C,B,]12 | [G,A,C]12 | %8
+ [F,B,_D]12 | [G,A,C]12 | [F,B,_D]3- [F,B,D]2 [E,G,C]- [E,G,C]6 | [G,A,C]12 | [G,A,C]12 | %13
+ [F,B,D]6 [^F,-A,-D]3 [F,A,C]3 | [G,B,D]6- [G,B,D]3 [^F,A,C]3 | [F,B,D]12 | [G,B,E]12 | [A,CE]12 | %18
+ [A,C_E]12 | !arpeggio![_E,B,_D]6- [E,G,B,D]6 | !arpeggio![D,F,A,C]12 | [D,F,G,=B,]12 | %22
+ [F,B,-]6 [D,G,B,-]6 | [C,F,B,-]6 [C,E,B,]6 | [G,A,C]12 | [F,B,_D]12 | [G,A,C]12 | %27
+ [F,B,_D]3- [F,B,D]2 [E,^G,C] z6 | [G,A,C]12 | [G,A,C]3- [G,A,C]2 [G,A,^C]- [G,A,C]6 | %30
+ [F,A,C]6 [E,-A,-^C]3 [E,A,=C]3 | [D,^G,=B,]3- [D,-G,B,]2 [D,F,_B,] z2 z [^F,A,C]3 | [F,B,D]12 | %33
+ [G,B,E]12 | [A,CE]12 | [A,C_E]12 | !arpeggio![_E,B,_D]6- [E,G,B,D]6 | !arpeggio![D,F,A,C]12 | %38
+ [D,F,G,=B,]12 | [F,B,-]6 [D,G,B,-]6 | [D,F,B,-]6 [C,E,B,-]6 | %41
+ [B,,D,B,]3- [B,,D,B,]2 [F,,C,]- [F,,C,]6- |[M:6/8] !arpeggio![F,,C,F,-G,-A,-]6 | [F,G,A,]6 | %44
+ !arpeggio![F,-B,]6 | [F,A,]6- | [C,,-F,A,-]3 [C,,E,A,]3 | !arpeggio![F,B,]6- | [F,,F,B,]6 | %49
+ !arpeggio![F,G,A,]6- | [F,G,A,]6 |] %51
+V:3
+ z12 | z12 | z12 | z12 | z12 | z12 | z12 | A,,3- A,,2 F,,- F,,3- F,,2 A,, | %8
+ B,,3- B,,2 G,,- G,,3- G,,2 B,, | A,,3- A,,2 F,,- F,,3- F,,2 A,, | B,,3- B,,2 C,- C,3 G,,3 | %11
+ A,,3- A,,2 F,,- F,,3- F,,2 A,, | C,3- C,2 A,,- A,,3- A,,2 C, | B,,6 D,3 C,3 | %14
+ B,,3- B,,2 G,,- G,,3 A,,3 | B,,3- B,,2 G,,- G,,3- G,,2 B,, | C,3- C,2 E,- E,3 G,3 | %17
+ F,3- F,2 F,,- F,,3- F,,2 F,, | F,3 _E,3 D,3 F,3 | _E,3- E,2 G,,- G,,3- G,,2 E, | %20
+ D,3- D,2 F,,- F,,3- F,,2 C, | D,3- D,2 G,,- G,,3- G,,2 D, | C,6 B,,6 | A,,6 G,,6 | %24
+ A,,3- A,,2 F,,- F,,3- F,,2 A,, | B,,3- B,,2 G,,- G,,3- G,,2 ^G,, | %26
+ A,,3- A,,2 F,,- F,,3- F,,2 A,, | B,,3 B,,2 C, z6 | A,,3- A,,2 F,,- F,,3- F,,2 A,, | %29
+ C,3- C,2 A,,- A,,3- A,,2 C, | D,6 ^C,3 =C,3 | =B,,3- B,,2 _B,, z2 z A,,3 | %32
+ B,,3- B,,2 G,,- G,,3- G,,2 B,, | C,3- C,2 E,- E,3 G,3 | F,3- F,2 F,,- F,,6 | F,3 _E,3 D,3 C,3 | %36
+ _E,3- E,2 G,,- G,,3- G,,2 E, | D,3- D,2 F,,- F,,3- F,,2 C, | D,3- D,2 G,,- G,,3- G,,2 D, | %39
+ C,6 B,,6 | A,,6 G,,6 | F,,3- F,,2 C,- C,6- |[M:6/8] C,6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |] %51
+V:4
+[K:C] z12 | z12 | z12 | z12 | z12 | z12 | z6 z2 c d z2 | ^e2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | %8
+ ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | %10
+ ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | %12
+ ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | %14
+ ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | %16
+ ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | %18
+ ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | %20
+ ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | %22
+ ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | ^g2 ^g [^c^g]2 ^g ^g3 A3 | %24
+ ^e2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | %26
+ ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | ^gcc ^e2 ^g z3 A z2 | ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | %29
+ ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | ^gcc ^e2 ^g z3 A z2 | %32
+ ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | %34
+ ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | %36
+ ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | %38
+ ^g2 ^g [^c^g]2 ^g ^g2 ^g [^c^g]2 ^g | ^g2 ^g [^c^g]2 z ^g2 ^g [^c^g]2 z | %40
+ ^g2 ^g [^c^g]2 z ^g2 z [^c^g]2 z | ^g2 ^g [^c^g]2 ^b z2 z4 |[M:6/8] z6 | z6 | z6 | z6 | z6 | z6 | %48
+ z6 | z6 | z6 |] %51
+V:5
+[K:C] x12 | x12 | x12 | x12 | x12 | x12 | x12 | F3 z2 F z3 z2 F | F3 z2 F z3 z2 F | %9
+ F3 z2 F z3 z2 F | F3 z2 F z3 z2 z | F3 z2 F z3 z2 F | F3 z2 F z3 z2 F | F3 z2 F F3 z2 F | %14
+ F3 z2 F z3 z2 z | F3 z2 F z3 z2 F | F3 z2 F z3 z2 z | F3 z2 F z3 z2 F | F3 z3 F3 z2 z | %19
+ F3 z2 F z3 z2 F | F3 z2 F z3 z2 F | F3 z2 F z3 z2 F | F3 z3 F3 z2 z | F3 z3 F3 z2 z | %24
+ F3 z2 F z3 z2 F | F3 z2 F z3 z2 F | F3 z2 F z3 z2 F | F3 F2 F x6 | F3 z2 F z3 z2 F | %29
+ F3 z2 F z3 z2 F | F3 z2 F F3 z2 F | F3 F2 F x6 | F3 z2 F z3 z2 F | F3 z2 F z3 z2 z | %34
+ F3 z2 F z3 z3 | F3 z3 F3 z2 z | F3 z2 F z3 z2 F | F3 z2 F z3 z2 F | F3 z2 F z3 z2 F | %39
+ F3 z3 F3 z2 z | F3 z3 F3 z2 z | F3 z3 z2 z4 |[M:6/8] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %51
+

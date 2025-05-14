@@ -1,0 +1,26 @@
+X:1
+T:Fado Serenata do Hylario
+T:Fado Serenata do Hylario
+T:in "Cantos Populares - 12 Fados para Piano"
+T:Editor: Eduardo da Fonseca - Porto [ca. 1900]
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=45
+M:2/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^Andante" z/ (F/B/d/) z !>![EGd] | z/ (C/F/c/) z !>![DFB] | z/ (C/F/A/ G)!>![B,CE] | %3
+ [A,CF]2- [A,CF] !fermata!z/ ||S (C/ | F>)F FE/F/ | (c2 B) z/ G/ | cB E/AG/ | G F2 z/ C/ | %9
+ F>F FE/F/ | (c2 B) z/ G/ | cB E/AG/ | F3 z/ [_A_a]/ | [_A_a]>[Aa] [Aa]/[Aa][Aa]/ | %14
+ [Gg] [Gg]2 [Gg] | [Ff][Ff] [Ff]/[Ee][Dd]/ | [Gg] [Gg]2 [Gg] | [Bb]>[Bb] [Bb]/[Bb][Bb]/ | %18
+ [Aa][Q:1/4=20] !fermata![cc']2[Q:1/4=45] [Ff] | %19
+ [Gg][Q:1/4=20]!fermata![cc']- [cc']/[Q:1/4=45][cc']/[Bb]/[Ee]/ | [Ff] [Ff]2 z/!D.S.! |] %21
+V:2
+ B, z (B,2 | A,) z (G,G,, | C,2-) C,[C,,C,] | F,,C, [F,,F,] !fermata!z/ || z/ | F,,[F,A,C] A,C | %6
+ G,,[B,C] G,[B,C] | C,[G,B,C] C,[G,B,C] | F,[A,C] [A,C] z | F,,[F,A,C] A,C | G,,[B,C] G,[B,C] | %11
+ C,[G,B,C] C,[G,B,C] | F,[A,C] [A,C] z | F,[_A,CF] F,[A,CF] | [E,,E,][E,G,C] [E,G,C][E,G,C] | %15
+ [D,,D,][D,G,=B,] [D,G,B,][D,G,B,] | [E,,E,][E,G,C] [E,G,C] z | [C,,C,][E,G,C] [E,,E,][E,G,C] | %18
+ [F,,F,][F,A,C] !fermata![A,CF] z | [E,,E,][G,B,C] [B,,,C,][G,B,C] | [F,,F,][F,A,C] [F,,F,] z/ |] %21
+

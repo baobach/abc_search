@@ -1,0 +1,53 @@
+X:1
+T:АНДАНТЕ
+T:М. ИППОЛИТОВ-ИВАНОВ (1859–1935)
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+Q:1/4=68
+M:3/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:1
+"^Andante comodo (Не спеша, спокойно)"!mf![I:staff +1](xE,C)(A,[I:staff -1]Ec) | %1
+[I:staff +1](xE,C)(A,[I:staff -1]Ec) |!mf!"^espressivo"!<(! (f3 Bcd!<)! |!>(! fe!>)! A3) z | %4
+!<(! (d3 FGB!<)! |!>(! !>!d2!>)! c3) z |!mf!!<(! (f3 Bcd!<)! |!>(! f=e!>)! c3) z | %8
+!mf!!<(! ([Aca]3 [FAf]!<)![Gcg][Aca] |!f!!>(! [cc'][Bb]!>)!!mf! [Gg]3) z | %10
+!f!!<(! ([c_gc']3 [Aca][B_gb][x_gc'])!<)! | %11
+!ff!!>(! !>![_gae'_g']!>![fad'f']!>![e_gc'e']!>![dfbd']!>![ce=ac']!>![Bd_gb]!>)! | %12
+!f!!>(! (!tenuto![=df!courtesy!_a][e_g][B=df][Be])!>)!!mf! [B=eb] z | %13
+!mf!!<(! ([Bfb]3 [Afa][_Gd_g][xdf])!<)! |!f!!>(! ([d=gd']4 [Geg]2)!>)! | %15
+!mf!!>(! ([Bc-_gb]4 [Aca]2)!>)! |!mp! [Fd] z z2 z2 |!p!!<(! (f3 Bcd!<)! |!>(! fe!>)! A3) z | %19
+!pp!!<(! ([dd']3 [Ff][Gg][Bb])!<)! |!>(! ([dd']2!>)! [cc']2) z2 | %21
+!>(![I:staff +1](x[I:staff -1]E[Q:1/4=64]c)[Q:1/4=60](A[Q:1/4=56]e[Q:1/4=52]c')!>)! | %22
+!ppp![Q:1/4=44] !arpeggio![ceac']6 |] %23
+V:2
+!p!!ped! A,, x x2 x2!ped-up! |!ped! A,, x x2 x2!ped-up! | %2
+!p!!ped!(xG,,F,)(D,!ped-up!!ped!G,[I:staff -1]F)!ped-up! | %3
+[I:staff +1] (C,,!ped!A,,E,)(C,A,[I:staff -1]E)!ped-up! | %4
+!ped![I:staff +1] (B,,,F,,D,)(B,,!ped-up!E,[I:staff -1]D) | %5
+!ped![I:staff +1](xE,C)(A,[I:staff -1]Ec)!ped-up! | %6
+!p!!ped![I:staff +1](xG,,F,)(D,!ped-up!!ped!G,[I:staff -1]F)!ped-up! | %7
+!mp![I:staff +1](x!ped!G,,=E,C,G,[I:staff -1]=E)!ped-up! | %8
+!ped![I:staff +1] (F,,C,A,)(F,!ped-up!!ped![I:staff -1]CA)!ped-up! | %9
+[I:staff +1] (E,,!ped!B,,G,)(E,B,[I:staff -1]G)!ped-up! | %10
+!ped![I:staff +1] (A,,E,C)(A,[I:staff -1]Ec)!ped-up! | %11
+[I:staff +1] [D,,,D,,] !>!A,!>!=A,!>!B,!>![F,=A,]!>![_G,B,] | %12
+ _CB,[!courtesy!_A,B,][_G,B,] [=G,B,] z |!ped! (A,,A,,F,)(D,G,[I:staff -1]F)!ped-up! | %14
+!ped![I:staff +1] (E,,B,,G,)(E,B,[I:staff -1]G)!ped-up! | %15
+!ped![I:staff +1] (A,,E,C)(A,[I:staff -1]Ec)!ped-up! | %16
+!ped![I:staff +1](x!p!A,,F,)(D,A,[I:staff -1]F)!ped-up! | %17
+!p!!ped![I:staff +1] (D,,G,,F,)(D,!ped-up!!ped!G,[I:staff -1]F)!ped-up! | %18
+[I:staff +1] (C,,!ped!A,,E,)(C,A,[I:staff -1]E)!ped-up! | %19
+!ped![I:staff +1] (B,,,F,,D,)(B,,!ped-up!E,[I:staff -1]D) | %20
+!ped![I:staff +1](xE,C)(A,[I:staff -1]Ec)!ped-up! |!ped![I:staff +1] A, x x2 x2!ped-up! | %22
+!ped! A,2 [A,,E,]2 A,,,2!ped-up! |] %23
+V:3
+ x6 | x6 | D,, x5 | x6 | x6 | A,, x5 | D,, x5 | C,, x5 | F,, x5 | E,, x5 | A,,, x5 | x6 | x6 | %13
+ A,,, x5 | E,,, x5 | x6 | D,, x5 | x6 | x6 | x6 | A,, x5 | x6 | x6 |] %23
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | d2- d3 x | x6 | x [DF][C_G][DF]ED | %12
+ [=DFA][E_G][=DF]E[=D=E] x | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | [EA]2 x4 |] %23
+

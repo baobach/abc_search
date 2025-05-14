@@ -1,0 +1,82 @@
+X:1
+T:Title
+T:The Happy Wanderer
+T:(Val-De Ri - Val-De Ra)
+C:Composer
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/2=110
+M:2/2
+K:Bb
+V:1 treble nm="Voice" snm="Vo."
+V:2 treble 
+V:3 treble nm="Piano" snm="Pno."
+V:6 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Brightly" z4 || z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 F4 |: F4 F4 | F6 E2 | E4 D4 | D6 D2 | %13
+w: ||||||||1.~~I|love to|go a-|wan- der-|ing, A-|
+w: ||||||||2.~~I|love to|wan- der|by the|stream That|
+w: ||||||||3.~~I|wave my|hat to|all I|meet, And|
+w: ||||||||4.~~High|o- ver-|head, the|sky- larks|wing, They|
+w: ||||||||5.~~Oh,|may I|go a-|wan- der-|ing Un-|
+ D4 D4 | F4 D4 | E8- | E4 F4 | F4 A4 | A6 A2 | B4 F4 | F6 F2 | G4 E4 | D4 C4 | B,8- | B,2 z2 F3 F | %25
+w: long the|moun- tain|track,|_ And|as I|go, I|love to|sing, My|knap- sack|on my|back.|_ Val- de|
+w: danc- es|in the|sun,|_ So|joy- ous-|ly it|calls to|me, "Come!|Join my|hap- py|song!"|_|
+w: they wave|back to|me,|_ And|black birds|call so|loud and|sweet From|ev- 'ry|green- wood|tree.|_|
+w: nev- er|rest at|home,|_ But|just like|me, they|love to|sing, As|o'er the|world we|roam.|_|
+w: til the|day I|die!|_ Oh,|may I|al- ways|laugh and|sing, Be-|neath God's|clear blue|sky!|_|
+ A8- | A4 F3 F | B8- | B4 F3 F | c8- | c4 F3 F | d2 c2 B2 A2 | B2 A2 G2 F2 | A8- | A4 F3 F | B8- | %36
+w: ri|_ Val- de|ra|_ Val- de|ra|_ Val- de|ha ha ha ha|ha ha Val- de|ri,|_ Val- de|ra,|
+w: |||||||||||
+w: |||||||||||
+w: |||||||||||
+w: |||||||||||
+ B4 F4 | G4 E4 | D4 C4 |1,2,3,4 B,8- | B,2 z2 F4 :|5 B,8- | B,2 z2 z4 |] %43
+w: _ My|knap- sack|on my|back.|_ 2.~~I|sky.|_|
+w: * "Come!|Join my|hap- py|song!"|_ 3.~~I|||
+w: * From|ev- 'ry|green- wood|tree.|_ 4.~~High|||
+w: * As|o'er the|world we|roam.|_ 5.~~Oh|||
+w: * Be-|neath God's|clear blue|||||
+V:2
+ x4 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |: x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+w: |||||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 | z4 FGAB | (c8 | B4) FGBc | (d8 | c4) FGAc | (e8 | d2) c2 B2 A2 | %32
+w: ||||||tra la la la|la|_ tra la la la|la|_ tra la la la|la||
+ B2 A2 G2 F2 | A4 FGAB | (c8 | B4) FGBc | d4 z4 | x8 | x8 |1,2,3,4 x8 | x8 :|5 x8 | x8 |] %43
+w: |* tra la la la|la|_ tra la la la|la|||||||
+V:3
+!f! F3 F || [CEFA]4 (FGAB | c4) [A,CEF]3 [A,CEF] | [DFB]4 (FGBc | d4) [B,DF]3 [B,DF] | %5
+!>(! [B,EG]4 [G,CE]4!>)! | [F,B,D]4 [E,A,C]4 |!mp! B,8- | B,4 F4 |: F4 F4 | F6 E2 | E4 D4 | D6 D2 | %13
+ D4 D4 | F4 D4 | [CE]2 ([^G,=B,]2 [A,C]3 [G_B] | [FA]4) F4 | F4 A4 | A6 A2 | B4 F4 | F6 F2 | %21
+ G4 E4 | D4 C4 | B,8- | B,2 z2 [B,DF]3 [B,DF] | A8- | A4 F3 F | B8- | B4 F3 F | c8- | c4 F3 F | %31
+ [Bd]2 [Ac]2 [GB]2 [FA]2 |!>(! B2 A2 G2 F2!>)! |!mf! A8- | A4 F3 F | B8- | B4 F4 |!>(! G4 E4!>)! | %38
+ D4 C4 |1,2,3,4 B,8- | B,2 z2 F4 :|5 [D,F,B,]8- | [D,F,B,]2 z2 [DFBdfb] z z2 |] %43
+V:4
+ F,3 F, || [F,,F,]4 (F,G,A,B, | C4) F,3 F, | [B,,F,]4 (F,G,B,C | D4) z4 | E,,4 E,,4 | F,,4 F,,4 | %7
+ z2 [D,F,]2 z2 [D,F,]2 | z2 [D,F,]2 z2[I:staff -1] [B,D]2 |:[I:staff +1] [B,,,B,,]2 z2 F,,2 z2 | %10
+ [B,,,B,,]2 z2 F,,2 z2 | [B,,,B,,]2 z2 F,,2 z2 | [B,,,B,,]2 z2 F,,2 z2 | [B,,,B,,]2 z2 F,,2 z2 | %14
+ [B,,,B,,]2 z2 F,,2 z2 | [C,,C,]2 z2 [C,,C,]2 z2 | F,,2 z2 F,,2 z2 | [C,,C,]2 z2 F,,2 z2 | %18
+ [C,,C,]2 z2 F,,2 z2 | [B,,,B,,]2 z2 [B,,,B,,]2 z2 | D,,2 z2 D,,2 z2 | E,,2 z2 E,,2 z2 | %22
+ F,,2 z2 F,,2 z2 | z2 [D,F,]2 z2 [D,F,]2 | B,,,2 z2!f! [B,,,B,,]3 [B,,,B,,] | [C,,C,]2 z2 F,,2 z2 | %26
+ [C,,C,]2 z2 F,,2 z2 | [B,,,B,,]2 z2 F,,2 z2 | [B,,,B,,]2 z2 F,,2 z2 | A,,2 z2 F,,2 z2 | %30
+ A,,2 z2 C,2 z2 | [B,,,B,,]2 z2 F,,2 z2 | F,,2 z2 F,,2 z2 | [C,,C,]2 z2 F,,2 z2 | %34
+ [C,,C,]2 z2 F,,2 z2 | [B,,,B,,]2 z2 F,,2 z2 | [B,,,B,,]2 z2 F,,2 z2 | E,,2 z2 E,,2 z2 | %38
+ F,,2 z2 F,,2 z2 |1,2,3,4 z2 [D,F,]2 z2 [D,F,]2 | z2 [D,F,]2 z2[I:staff -1] [B,D]2 :|5 %41
+[I:staff +1] [B,,,B,,]4 F,,4 | B,,,2 z2 z4 |] %43
+V:5
+ x4 || x8 | x8 | x8 | x8 | x8 | x8 | [B,,,B,,]2 z2 F,,2 z2 | [B,,,B,,]2 z2 F,,2 z2 |: x8 | x8 | %11
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | [B,,,B,,]2 z2 F,,2 z2 | x8 | x8 | x8 | %27
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |1,2,3,4 [B,,,B,,]2 z2 F,,2 z2 | %40
+ [B,,,B,,]2 z2 F,,2 z2 :|5 x8 | x8 |] %43
+V:6
+ x4 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |: z2 [B,D]2 z2 [B,D]2 | z2 [B,D]2 z2 C2 | %11
+ z2 F,2 z2 [F,B,]2 | z2 [F,B,]2 z2 B,2 | z2 [F,B,]2 z2 [F,B,]2 | z2 [B,D]2 z2 [F,B,]2 | x8 | %16
+ z2 [CE]2 z2 [CE]2 | x2 [CE]2 z2 [CEF]2 | x2 [CEF]2 z2 [CEF]2 | x2 [DF]2 z2 [B,D]2 | %20
+ x2 [B,D]2 z2 [B,D]2 | x2 [B,E]2 z2 [G,C]2 | x2 [F,B,]2 z2 [E,A,]2 | x8 | x8 | %25
+ z2 [CEF]2 z2 [CEF]2 | z2 [CEF]2 z2 [CE]2 | z2 [DF]2 z2 [DF]2 | z2 [DF]2 z2 [B,D]2 | %29
+ z2 [EFA]2 z2 [EFA]2 | z2 [EFA]2 z2 [CE]2 | D8 | [B,D]8 | z2 [CEF]2 z2 [CEF]2 | %34
+ z2 [CEF]2 z2!<(! [CE]2!<)! | z2 [DF]2 z2 [DF]2 | z2 [DF]2 z2 [B,D]2 | z2 [B,E]2 z2 [G,C]2 | %38
+ z2 [F,B,]2 z2 [E,A,]2 |1,2,3,4 x8 | x8 :|5 x8 | x8 |] %43
+

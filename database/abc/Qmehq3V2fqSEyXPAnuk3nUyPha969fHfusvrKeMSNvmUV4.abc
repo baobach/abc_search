@@ -1,0 +1,31 @@
+X:1
+T:Drumset Orchestra -- 48
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:C
+V:1 perc nm="Drumset" snm="Drs."
+K:none
+I:percmap A A 41 normal
+I:percmap F F 36 normal
+I:percmap ^a a 49 x
+I:percmap ^g g 42 x
+I:percmap c c 40 normal
+I:percmap d d 45 normal
+I:percmap e e 47 normal
+I:percmap f f 50 normal
+V:2 perc 
+K:none
+I:percmap F F 36 normal
+I:percmap c c 40 normal
+V:1
+ ^g^g^g^g ^g^g^g^g | ^g^g^g^g ^g^g^g^g | ^g^g^g^g ^g^g^g^g | f/fe/ e/ed/ AAAA | %4
+ [F^a]2 ^g^g ^g^g^g^g | ^g^g^g^g ^g^g^g^g | ^g^g^g^g ^g^g^g^g | ff/f/ e>e c/c/c/c/ AA | %8
+ [F^a]2 ^g^g ^g^g^g^g | ^g^g^g^g ^g^g^g^g | ^g^g^g^g ^g^g^g^g | x !>!^a x !>!^a x !>!^a x !>!^a | %12
+ (3^g z ^g (3^g z ^g (3^g z ^g (3^g z ^g | (3^g z ^g (3^g z ^g (3^g z ^g (3^g z ^g | %14
+ (3^g z ^g (3^g z ^g (3^g z ^g (3^g z ^g | (3fff (3eee (3ddd (3AAA | [F^a]2 z2 z2 z2 |] %17
+V:2
+ F2 c2 F2 c2 | F>F c2 F2 c2 | F2 c>c F2 c2 | x8 | c2 c2 F2 c2 | F2 c2 F2 c2 | F>F c>c F2 c2 | x8 | %8
+ c2 c2 F2 c2 | F>F c2 F2 c2 | F>F c>c F2 c2 | Fc F/F/c Fc F/F/c | F2 (3c z c F2 c2 | %13
+ F2 (3c z c F2 c2 | F2 (3c z c F2 c2 | x8 | c2 z2 z2 z2 |] %17
+

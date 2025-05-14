@@ -1,0 +1,79 @@
+X:1
+T:Canzonetta
+T:Canzonetta
+T:Op. 100
+T:Édouard Chavagnat
+C:Édouard Chavagnat
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=88
+M:2/4
+K:A
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:1
+"^Andantino grazioso" .g/ | .g/.a/.g/.c/ .G/.A/.G/.C/ | %2
+[I:staff +1] .G,/.A,/.G,/.C,/[I:staff -1] z3/2!p! .g/ | .g/.a/.g/.c/ .G/.A/.G/.C/ | %4
+[I:staff +1] .G,/.A,/.G,/.C,/[I:staff -1] z3/2!mf! c/ ||"^legatissimo" c/B/A/B/ cc | %6
+ (cF/) z/!p! (c'f/)!mf! c/ | c/B/A/B/ cc | (cF/) z/!p! (c'f/)!mf! f/ | f/e/d/e/{/de} f z/!p! f'/ | %10
+ f'/e'/d'/e'/{/d'e'} f' z/!mf! d/ | c/B/A/B/ c[C^Ec] | (cF/) z/!p! (c'f/)!p! f/ | %13
+ f/e/d/e/{/de} f z/!pp! f'/ | f'/e'/d'/e'/{/d'e'} f' z/!p! d/ | c/B/A/B/ c[C^Ec] | %16
+ (cF/) z/!pp! (c'f/) z/ ||[K:F#]!mf!"^con delicatezza" A/B/c/A/ G!p!(c'/g/) | %18
+!mf! F/G/A/F/ C!p!(f/c/) |!mf! G/A/B/G/ c!p!(g/c'/) |!mf! F/G/A/F/ c!p!(f/c'/) | %21
+!mf! A/B/c/A/ G!p!(c'/g/) |!mf! F/G/A/F/ C!p!(f/c/) |!mf! z2 g/a/b/g/ | %24
+ ([Af]/c/)([Bg]/c/) ([Af]/c/) z | A/B/c/A/ G!p!(c'/g/) |!mf! F/G/A/F/ C!p!(f/c/) | %27
+!mf! G/A/B/G/ c!p!(g/c'/) |!mf! F/G/A/F/ c!p!(f/c'/) |!mf! A/B/c/A/ G!p!(c'/g/) | %30
+!mf! F/G/A/F/ C!p!(f/c/) |!mf! z2 g/a/b/g/ | ([Af]/c/)([Bg]/c/) ([Af]/c/) z |: %33
+!mf! (G/C/) z (g/c/) z | (G/C/) z (g/c/) z |!p! ab/d'/ c'/a/b/d'/ | c'/(a/b/)(g/ a/).f/.c/.A/ | %37
+!mf! (G/C/) z (g/c/) z | (G/C/) z (g/c/) z |!p! ab/d'/ c'/a/b/d'/ | c'/(a/b/)(g/ a/).f/.c/.A/ | %41
+!mf! (G/C/) z (g/c/) z |!>(! (G/C/) z (g/c/) z!>)! |!p! A/B/c/A/!pp! G/(c'/g/c'/) | %44
+!p! F/G/A/F/!pp! C/(f/c/f/) |!p! G/A/B/G/!pp! c/(g/c'/g/) |!p! F/G/A/F/!pp! c/(f/c'/f/) | %47
+!p! A/B/c/A/!pp! G/(c'/g/c'/) |!p! F/G/A/F/!pp! C/(f/c/f/) |!p! G/A/B/G/!pp! c/(g/c'/)!p! G/ |1 %50
+ A/G/F/c/-!>(! [ca]/[Bg]/[Af]/ z/!>)! :|2!p! A/G/F/c/-!>(! [ca]/[Bg]/[Af]/!>)!!pp! z/ || %52
+ [CF] z z2 | [CF] z z2 |!<(! [CF] .^B,/.C/ .=D/.^D/.=E/.^E/ | .F/.=G/.^G/.=A/ .^A/.B/.^B/.c/!<)! || %56
+[K:A]"^legatissimo"!mf! c/B/A/B/ cc | (cF/) z/!p! (c'f/)!mf! c/ | c/B/A/B/ cc | %59
+ (cF/) z/!p! (c'f/)!mf! f/ | f/e/d/e/{/de} f z/!p! f'/ | f'/e'/d'/e'/{/d'e'} f' z/!mf! d/ | %62
+ c/B/A/B/ c[C^Ec] | (cF/) z/!p! (c'f/)!p! f/ | f/e/d/e/{/de} f z/!pp! f'/ | %65
+ f'/e'/d'/e'/{/d'e'} f' z/!p! d/ | c/B/A/B/ c[C^Ec] | (cF/) z/!pp! (c'f/)!mf! .g/ | %68
+ .g/.a/.g/.c/ .G/.A/.G/.C/ |[I:staff +1] .G,/.A,/.G,/.C,/[I:staff -1] z3/2!p! .g/ | %70
+ .g/.a/.g/.c/ .G/.A/.G/.C/ |[I:staff +1] .G,/.A,/.G,/.C,/[I:staff -1] z2 | %72
+!mf! [A,CF] z [B,C^EG] z |"_dim." [A,CFA]/[B,B]/.[Cc] .[Cc].[Cc] | [Acf] z [Bc^eg] z | %75
+ [Acfa]/[Bb]/.[cc'] .[cc'] z | [A,CF]2 (c'f) | [A,CF]2 (c'f) | [A,CF]2 [A,CF]2 | %79
+ [A,CF]2!pp! [ff'] z |] %80
+V:2
+ z/ | z4 | z2 .G,,/.C,/.C,,/ z/ | z4 | z2 .G,,/.C,/.C,,/ z/ ||"_sempre "!ped! F,,(F,[A,C]F,) | %6
+ F,,(F,[A,C]F,) | F,,(F,[A,C]F,) | F,,(F,[A,C]F,)!ped-up! |!ped! B,,(F,[B,D]F,) | %10
+ B,,(F,[B,D]F,)!ped-up! | .C,,.[C,F,A,] .C,,.[C,G,B,] |!ped! F,,(F,[A,C]F,)!ped-up! | %13
+"^una corda"!pp!!ped! B,,(F,[B,D]F,) | B,,(F,[B,D]F,)!ped-up! | .C,,.[C,F,A,] .C,,.[C,G,B,] | %16
+ F,,(F,[A,C]F,) ||[K:F#]!p!!ped! F,,(F,[G,B,C]F,)!ped-up! |!ped! F,,(F,A,F,)!ped-up! | %19
+!ped! F,,(F,[G,B,C]F,)!ped-up! |!ped! F,,(F,[A,C]F,)!ped-up! |!ped! F,,(F,[G,B,C]F,)!ped-up! | %22
+!ped! F,,(F,A,F,)!ped-up! |!ped! F,,(F,[G,B,C]F,)!ped-up! | %24
+!ped! F,,[F,-G,B,C-][F,A,C]!ped-up! .C,/.F,/ |"^una corda"!ped! F,,(F,[G,B,C]F,)!ped-up! | %26
+!ped! F,,(F,A,F,)!ped-up! |!ped! F,,(F,[G,B,C]F,)!ped-up! |!ped! F,,(F,[A,C]F,)!ped-up! | %29
+!ped! F,,(F,[G,B,C]F,)!ped-up! |!ped! F,,(F,A,F,)!ped-up! |!ped! F,,(F,[G,B,C]F,)!ped-up! | %32
+!ped! F,,[F,-G,B,C-][F,A,C]!ped-up! .C,/.F,,/ |:!ped! z (G,/C,/) z (G/C/) | %34
+ z (G,/C,/) z (G/C/)!ped-up! |[K:treble]"^una corda" z/ F/G/B/ A/F/G/B/ | %36
+ G/(F/G/)(E/ F/).C/.A,/.F,/ |[K:bass]!ped! z (G,/C,/) z (G/C/) | z (G,/C,/) z (G/C/)!ped-up! | %39
+[K:treble]"^una corda" z/ F/G/B/ A/F/G/B/ | G/(F/G/)(E/ F/).C/.A,/.F,/ | %41
+[K:bass]!ped! z (G,/C,/) z (G/C/) | z (G,/C,/) z (G/C/)!ped-up! |!ped! F,,(F,[G,B,C]F,)!ped-up! | %44
+!ped! F,,(F,A,F,)!ped-up! |!ped! F,,(F,[G,B,C]F,)!ped-up! |!ped! F,,(F,A,F,)!ped-up! | %47
+!ped! F,,(F,[G,B,C]F,)!ped-up! |!ped! F,,(F,A,F,)!ped-up! |!ped! F,,(F,[G,B,C]F,)!ped-up! |1 %50
+!ped! F,,(F,[A,C]F,/)!ped-up! [F,,C,]/ :|2!ped! F,,(F,[A,C]F,/)!ped-up! (C,/ || %52
+ A,/G,/F,/C,/ A,/G,/F,/C,/ | A,/G,/F,/C,/ A,/G,/F,/C,/ | A,/G,/F,/C,/ A,/G,/F,/) z/ | %55
+"^tre corde" z4 ||[K:A]!p!!ped! F,,(F,[A,C]F,) | F,,(F,[A,C]F,) | F,,(F,[A,C]F,) | %59
+ F,,(F,[A,C]F,)!ped-up! |!ped! B,,(F,[B,D]F,) | B,,(F,[B,D]F,)!ped-up! | %62
+ .C,,.[C,F,A,] .C,,.[C,G,B,] |!ped! F,,(F,[A,C]F,)!ped-up! |"^una corda"!pp!!ped! B,,(F,[B,D]F,) | %65
+ B,,(F,[B,D]F,)!ped-up! | .C,,.[C,F,A,] .C,,.[C,G,B,] |!ped! F,,(F,[A,C]F,/)!ped-up! z/ | %68
+"^tre corde" z4 | z2 .G,,/.C,/.C,,/ z/ | z4 | z2 .G,,/.C,/.C,,/C,/ | C,/B,,/A,,/B,,/ C,C, | %73
+!ped! (C,-[F,,C,]/) z/ z3/2 C,/!ped-up! | C,/B,,/A,,/B,,/ C,C, | %75
+!ped! (C,-[F,,C,]/) z/ z C,-!ped-up! | (C,-[F,,C,]/) z/ z C,- |!ped! (C,-[F,,C,]/) z/ z C,- | %78
+ (C,-[F,,C,]/) z/ (C,-[F,,C,]/) z/ | (C,-[F,,C,]/) z/ z2!ped-up! |] %80
+V:3
+ x/ | x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 ||[K:F#] x4 | %18
+ x4 | x4 | x4 | x4 | x4 | G/A/B/G/ c>B | x4 | x4 | x4 | x4 | x4 | x4 | x4 | G/A/B/G/ c>B | x4 |: %33
+ x4 | x4 | z/ c3/2- c<c- | c/cc/- c/.A/.F/.C/ | x4 | x4 | z/ c3/2- c<c- | c/cc/- c/.A/.F/.C/ | x4 | %42
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |1 x4 :|2 x4 || x4 | x4 | x4 | x4 ||[K:A] x4 | x4 | x4 | %59
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %78
+ x4 | x4 |] %80
+

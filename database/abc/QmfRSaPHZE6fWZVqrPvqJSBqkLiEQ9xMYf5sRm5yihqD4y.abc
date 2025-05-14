@@ -1,0 +1,34 @@
+X:1
+T:Sei tu Signore il pane
+T:Sei tu Signore il pane
+T:George Kyrbye (1560 - 1634)
+T:Sei tu, Signore, il pane, tu cibo sei per noi. Risorto a vita nuova, sei vivo in mezzo a noi. Nell'ultima sua cena Gesù si dona ai suoi: "Prendete pane e vino, la vita mia per voi". 
+T:Se porti la sua croce, in lui tu regnerai. Se muori unito a Cristo, con lui rinascerai. Verranno i cieli nuovi, la terra fiorirà. Vivremo da fratelli: la Chiesa è carità. 
+T:"Mangiate questo pane: chi crede in me vivrà. Chi beve il vino nuovo con me risorgerà". È Cristo il pane vero, diviso qui fra noi: formiamo un solo corpo e Dio sarà con noi.
+T:Scritto con MuseScore, un software libero e gratuito: http://musescore.org/it
+C:George Kyrbye (1560 - 1634)
+Z:Scritto con MuseScore, un software libero e gratuito: http://musescore.org/it
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=70
+M:4/4
+K:F
+V:1 treble nm="Soprano" snm="S."
+V:2 treble nm="Contralto" snm="A."
+V:3 bass nm="Tenore" snm="T."
+V:4 bass nm="Bassi" snm="B."
+V:1
+ F2 | A3 A G2 F2 | B4 !breath!A2 G2 | A2 c2 c2 =B2 | c4 z2 A2 | d3 c B2 A2 | %6
+ (G2 F2) !breath!E2 A2 | G2 F2 F2 E2 | F6 :| %9
+V:2
+ F2 | F3 F E2 D2 | (D2 E2) !breath!F2 E2 | F2 G2 F2 G2 | E4 z2 F2 | F3 F F2 F2 | %6
+w: Sei|tu Si\- gno\- reil|pa _ ne tu|ci\- bo sei per|noi. Ri\-|sor\- ~toa vi\- ta|
+ (E2 D2) !breath!^C2 D2 | D2 =C2 C2 C2 | C6 :| %9
+w: nuo _ va, sei|vi\- ~voin mez\- zoa-|noi.|
+V:3
+ F,2 | F,3 F, C2 A,2 | (B,2 C2) !breath!C2 C2 | C2 C2 D2 D2 | C4 z2 C2 | B,3 A, B,2 C2 | %6
+ (C2 A,2) !breath!A,2 A,2 | B,2 A,2 G,2 G,2 | F,6 :| %9
+V:4
+ F,2 | F,3 F, C,2 D,2 | (G,2 C,2) !breath!F,2 C,2 | F,2 E,2 D,2 G,2 | C,4 z2 F,2 | %5
+ B,,3 C, D,2 F,2 | (C,2 D,2) !breath!A,,2 [F,,F,]2 | [G,,G,]2 A,,B,, C,2 C,2 | F,,6 :| %9
+

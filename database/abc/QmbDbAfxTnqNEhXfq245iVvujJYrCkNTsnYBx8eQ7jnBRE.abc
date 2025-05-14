@@ -1,0 +1,55 @@
+X:1
+T:Sonata in F Major
+T:K.6
+T:Domenico Scarlatti
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=100
+M:3/8
+K:F
+V:1 treble nm="Harpsichord" snm="Hch."
+V:3 treble 
+V:2 bass 
+V:1
+"^Allegro" FAc | fc'a | fff | Tf2 f | (3(a/g/f/) (3(e/d/c/) (3(B/A/G/) | %5
+ (3(A/G/F/) (3(E/D/C/)[I:staff +1] (3(B,/A,/G,/) | (3(A,/G,/F,/) (3(E,/D,/C,/) (3(B,,/A,,/G,,/) | %7
+ F,,2[I:staff -1] x | (3A/B/c/ T_e2 | (3d/c/B/ B2 | (3B/c/d/ f3/2 _e/4d/4 | (3c/B/A/ TA2 | %12
+ (3A/B/c/ f (3=B/c/c/ | g (3c/d/e/ a | (3d/e/f/ (3=b/a/g/ (3f/e/d/ | (3e/f/g/ (3a/g/f/ (3e/d/c/ | %16
+ =B>AG | (3c/d/_e/ g3/2 f/4e/4 | (3_e/d/^c/ cd | (3d/_e/f/ g3/2 f/4e/4 | (3d/c/=B/ Bc | %21
+ (3c/d/_e/ Te3/2 d/4c/4 | (3=b/a/g/ (3f/_e/d/ (3e/d/c/ | (3=B/A/G/ (3F/_E/D/ (3E/D/C/ | %24
+[I:staff +1] T=B,>A,G, |[I:staff -1] (3G/=B/d/ d2 | (3F/=B/d/ d2 | (3F/=B/f/ f2 | (3F/=B/f/ f2 | %29
+ (3F/=B/d/ (3f/e/d/ (3a/g/f/ | (3e/f/g/ (3f/e/d/ (3g/f/e/ | (3a/g/f/ (3e/d/c/ (3d/c/=B/ | %32
+ (3c'/=b/a/ (3g/f/e/ (3d/c/=B/ | (3c/=B/A/ (3G/F/E/ (3D/[I:staff +1]C/=B,/ | %34
+ (3C/=B,/A,/ (3G,/F,/E,/ (3D,/C,/=B,,/ | (3C,/=B,,/A,,/ (3G,,/F,,/E,,/ (3D,,/C,,/=B,,,/ | %36
+[I:staff -1] x3 :: CEG | cge | cc'c | Tc2 c | (3b/a/g/ (3f/e/d/ (3^c/_B/A/ | %42
+ (3b/a/g/ (3f/e/d/ (3^c/_B/A/ | ^cde | Tf3/2e/4d/4 d | DFA | daf | ddd | Td2 d | %49
+ (3a/g/^f/ (3_e/d/c/ (3B/A/G/ | (3a/g/^f/ (3_e/d/c/ (3B/A/G/ | [^F_e][Gd][Ac] | TB3/2A/4G/4 G | %53
+ bb (3a/g/f/ | aa (3g/f/e/ | gg (3f/e/d/ | (3a/b/c'/ (3b/a/g/ (3^f/e/d/ | %57
+ (3g/a/b/ (3c/d/e/ (3f/g/a/ | (3a/b/c'/ (3b/a/g/ (3f/e/d/ | Te>dc | (3f/g/_a/ c'3/2 b/4a/4 | %61
+ (3_a/g/^f/ fg | (3g/_a/b/ c'3/2 b/4a/4 | (3g/f/e/ ef | (3f/g/_a/ Ta3/2 g/4f/4 | %65
+ (3e/f/g/ (3c/d/e/ (3f/g/a/ | (3b/a/g/ (3c/d/e/ (3f/g/a/ | (3b/a/g/ (3c/d/e/ (3f/g/a/ | %68
+ (3b/g/b/ (3a/f/a/ (3g/e/g/ | (3f/e/d/ (3B/A/G/ (3A/B/c/ | (3d/c/B/ (3A/G/F/ (3G/F/E/ | %71
+ (3f/e/d/ (3c/B/A/ (3G/F/E/ | (3F/E/D/[I:staff +1] (3C/B,/A,/ (3G,/F,/E,/ | %73
+ (3F,/E,/D,/ (3C,/B,,/A,,/ (3G,,/F,,/E,,/ |[I:staff -1] x3 :| %75
+V:2
+ F,,A,,C, | F,A,C |[I:staff -1] FBc | TA2 A | FFF |[I:staff +1] F,F,F, | F,,F,,F,, | x3 | %8
+ [F,C][F,C][F,C] | [F,B,][F,B,][F,B,] | [F,B,][F,B,][F,B,] | [F,C][F,C][F,C] | %12
+[I:staff -1] F (3D/E/F/ G | (3E/F/G/ A (3F/G/A/ | =B GB | cF^F | G[I:staff +1] G,2 | CCC | B,B,B, | %19
+ B,B,B, | _A,A,A, | _A,A,A, | G,G,G, | G,G,G, | G, G,,2 | G,G,G, | F,F,_E, | [D,=B,][D,B,][C,_A,] | %28
+ [=B,,G,][B,,G,][A,,E,G,] | [G,,D,G,][A,,C,G,][=B,,D,G,] | [C,E,C][D,F,C][E,G,C] | F,G,[G,=B,] | %32
+ CCC | C,C,C, | C,C,,C,, | C,, x2 | TC,,2 x :: C,,E,,G,, | C,E,G, | CE[I:staff -1]G | %40
+[I:staff +1] x3 | x3 | x3 | x3 |[I:staff -1] D[I:staff +1] D,2 | D,,F,,A,, | D,F,A, | %47
+[I:staff -1] DFA | TF2 F |[I:staff +1] CCC | CCC | (3C/B,/A,/ (3B,/A,/G,/ (3^F,/E,/D,/ | G, G,,2 | %53
+[I:staff -1] (3G/A/B/ (3c/d/e/ f | (3F/G/A/ (3B/c/d/ e | (3E/F/G/ (3A/_B/^c/ d | [^FA][GB][Ac] | %57
+ [Bd][EG][Ac] | [Fc][Bd][GB] | c[I:staff +1] C2 |[I:staff -1] [F_Ac][FAc][FAc] | [_EGc][EGc][EGc] | %62
+ [_EGc][EGc][EGc] | [_DFc][DFc][DFB] | [_DFB][DFB][DFB] | [CGB][CGB][CF=A] | [CGB][CGB][CFA] | %67
+ [CGB][CGB][CFA] | [CGB][CFA][CEG] | DEF |[I:staff +1] B,CC, |[I:staff -1] FF[I:staff +1]F, | %72
+ F,F,F,, | F,, F,, x | TF,,2 x :| %75
+V:3
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | DDD | DDD | FFF | x3 | x3 | x3 | x3 | x3 | %17
+ [_EG][EG][EG] | [DG][DG][DG] | [DG][DG][DG] | [CG][CG][CF] | [CF][CF][CF] | [DF][DF][CG] | %23
+ [DF]DC | x3 | DDD | DDC | x3 | x3 | x3 | x3 | [DF][CE]D | x3 | x3 | x3 | x3 | x3 :: x3 | x3 | x3 | %40
+ TE2 E | [EG][EG][EG] | [EG][EG][EG] | (3G/F/E/ (3F/E/D/ (3^C/[I:staff +1]=B,/A,/ | x3 | x3 | x3 | %47
+ x3 | x3 |[I:staff -1] _EEE | _EEE | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %63
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 :| %75
+

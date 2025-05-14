@@ -1,0 +1,63 @@
+X:1
+T:AGNUS DEI
+T:Stefano Vicelli
+T:AGNUS DEI
+C:Stefano Vicelli
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=100
+M:4/4
+K:C
+V:1 treble nm="Soprano" snm="S"
+V:2 treble nm="Contralto" snm="C"
+V:3 treble-8 nm="Tenore" snm="T"
+V:4 bass nm="Basso" snm="B"
+V:1
+!f!"^Mesto" G4 A4 |[M:5/4] A4 !fermata!G4 A2!mf! |[M:4/4] c4 B2 G2 | A2 A2 G4 | G8 | %5
+w: A- gnus|De- i Qui|tol- lis pec-|ca- ta Mun|di|
+!p!"^Rit....................................." F2 F2 F2 F2 | E4 !fermata!E4 |!f! c4 B4 | %8
+w: Mi- se- re- re|No- bis|A- gnus|
+[M:5/4] A4 !fermata!G4 A2 |[M:4/4] c4 B2 G2 | A2 A2 G4 | G8 |!p! A2 A2 A2 A2 |!f! A4 !fermata!A4 | %14
+w: De- i Qui|tol- lis pec|ca- ta Mun-|di|Mi- se- re- re|No- bis|
+ c4 d4 |[M:5/4] d4 !fermata!c4!mf! d2 |[M:4/4] c4 _B2 B2 | _A4 G2 F2 | G4 !fermata!G4 | z8 | z8 | %21
+w: A- gnus|De- i Qui|tol- lis pec-|ca- ta _|Mun- di|||
+ z8 | z8 | z8 | z8 | A2 A2 A2 A2 | A4 B4 | c2 c2 d2 d2 | e8 |!ff! !fermata!e8 |] %30
+w: ||||Do- na No- bis|Pa- cem|Do- na No- bis|Pa-|cem|
+V:2
+!f! D4 D4 |[M:5/4] D4 !fermata!D4 z2!mf! |[M:4/4] C4 C4 | C4 D4 | C4 B,4 |!p! A,2 A,2 B,2 B,2 | %6
+w: A- gnus|De- i|A- gnus|A- gnus|De- i|Mi- se- re- re|
+ C4 !fermata!B,4 |!f! C4 D4 |[M:5/4] D4 !fermata!D4 z2 |[M:4/4] C4 C4 | C4 D4 | C4 B,4 | %12
+w: No- bis|A- gnus|De- i|A- gnus|A- gnus|De- i|
+!p! A,2 F2 E2 D2 |!f! C4 !fermata!D4 | G4 G4 |[M:5/4] F2 E2 !fermata!D4 z2!mf! |[M:4/4] _E4 G4 | %17
+w: Mi- se- re- re|No- bis|A- gnus|De- * i|A- gnus|
+ G2 F2 _E2 D2 | D2 C2 !fermata!B,4 | z8 | z8 | z8 | z8 | G2 G2 G2 G2 | G4 G4 |!mp! F2 F2 F2 F2 | %26
+w: A- * * gnus|De- * i|||||Do- na No- bis|Pa- cem|Do- na No- bis|
+ F4 E4 |!<(! E2 E2 D2 D2 | D4 C4!<)! |!ff! !fermata!B,4 !fermata!B,4 |] %30
+w: Pa- cem|Do- na No- bis|Pa- cem|Pa- cem|
+V:3
+!f! c4 c4 |[M:5/4] G4 !fermata!G4 z2!mf! |[M:4/4] G8 | F4 E4- | E8 |!p! F2 F2 G2 G2 | %6
+w: A- gnus|De- i|A-|gnus Dei|_|Mi- se- re- re|
+ A4 !fermata!^G4 |!f! A4 G4 |[M:5/4] G4 !fermata!F4 z2 |[M:4/4] G8 | F4 E4- | E8 |!p! E2 A2 A2 A2 | %13
+w: No- bis|A- gnus|De- i|A-|gnus Dei|_|Mi- se- re- re|
+!f! A2 G2 !fermata!F4 | A4 A4 |[M:5/4] _B4 !fermata!B4 z2!mf! |[M:4/4] _B4 c2 d2 | _e2 d2 c2 _B_A | %18
+w: No- * bis|A- gnus|De- i|A- gnus _|A- * * gnus _|
+ G4 !fermata!d4 | z8 | z8 |!mp! c2 c2 c2 c2 | c4 c4!mp! | d2 d2 d2 d2 | d4 e4 | e2 e2 e2 e2 | %26
+w: De- i|||Do- na No- bis|Pa- cem|Do- na No- bis|Pa- cem|Do- na No- bis|
+ e2 d2 d4 |!<(! c2 c2 c2 B2 | B4 A4!<)! |!ff! !fermata!A2 !fermata!^F2 !fermata!^G4 |] %30
+w: Pa- * cem|Do- na No- bis|Pa- cem|Pa- * cem|
+V:4
+!f! G,,4 G,,4 |[M:5/4] C,4 !fermata!C,4 z2!mf! |[M:4/4] F,4 F,4 | C,4 C,4 | C,8 | %5
+w: A- gnus|De- i|A- gnus|A- gnus|Dei|
+!p! D,2 D,2 D,2 D,2 | E,4 !fermata!E,4 |!f! A,,4 B,,4 |[M:5/4] C,4 !fermata!C,4 z2 | %9
+w: Mi- se- re- re|No- bis|A- gnus|De- i|
+[M:4/4] F,4 F,4 | C,4 C,4 | C,4 C,4 |!p! C2 A,2 G,2 F,2 |!f! E,4 !fermata!D,4 | F,4 F,4 | %15
+w: A- gnus|A- gnus|De- i|Mi- se- re- re|No- bis|A- gnus|
+[M:5/4] A,4 !fermata!G,4 z2!mf! |[M:4/4] G,4 G,4 | F,4 F,4 | _E,2 F,2 !fermata!G,4 | %19
+w: De- i|A- gnus|A- gnus|De- * i|
+!mp! C,2 C,2 C,2 C,2 | C,4 C,4 | D,2 D,2 D,2 D,2 | D,4 E,4 | E,2 E,2 E,2 E,2 | E,2 D,2 C,2 B,,2 | %25
+w: Do- na No- bis|Pa- cem|Do- na No- bis|Pa- cem|Do- na No- bis|Pa- * cem _|
+ A,,2 A,,2 F,,2 F,,2 | F,,2 G,,2 A,,4 |!<(!!<(! G,,4 A,,4 | B,,2 C,2 D,4!<)!!<)! | %29
+w: Do- na No- bis|Pa- * cem|A- gnus|De- * *|
+!ff! !fermata!E,8 |] %30
+w: i|
+

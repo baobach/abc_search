@@ -1,0 +1,54 @@
+X:1
+T:Carnival of Venice - Score
+T:Carnival of Venice - Score
+T:Jean-Baptiste Arban
+T:Conductors Score
+C:Jean-Baptiste Arban
+Z:Conductors Score
+%%score 1 { 2 | 3 }
+L:1/8
+Q:3/8=60
+M:6/8
+K:Eb
+V:1 treble transpose=-9 nm="Alto Saxophone" snm="A. Sax."
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:1
+[K:C]"^Intro on Piano" z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |"^Original Theme"!f! z z z2 z g | %9
+ g2 g{/b} a2 g | c2 c f2 e | e3- edG | c2 z z z c | d2 A e2 A | g2 f e{/g}fd | c2 (3d/c/B/ c2 d | %16
+ B3- B z g | g2 g{/b} a2 g | c2 c f2 e | e3- edG | c2- c3 c | d2 b b2 b | b2 a e2 ^f | a6 | %24
+ g g2 z de | f2 f f2 f | f2 f b2 a | ^g3{ga} g^fg | a3- afe | ^d2 c B2 A | a2 (3c/d/c/ B2 A | %31
+ e2- !fermata!e3 e |{/e} d^cd b2 a | c2 c e2 a | g3- g2 f | e6 |{/e} d^cd b2 a | c2 (3c/d/c/ B2 A | %38
+ G^FG e2 d | c3 z z2 |] %40
+V:2
+!f! z4 z3/2 b/ | b>ab/c'/ b/e'/g/b/e/g/ | B>eg/c'/ b2 z/ b/ | a>gf/g/ a/b/c'/d'/e'/f'/ | %4
+ g'>d'e'/g/ b2 z/ e/ | e>dc/=B/ c/B/c/d/e/g/ | f>ga/g/ f/e/d/c/B/A/ | G>Be/g/ g/f/=e/f/a/d/ | %8
+!mf! e z [EG] [EG] z [EG] | [EG] z [EG] [EG] z [EG] | [EG] z [Gg] [cc']2 [Bb] | [Bb]3 [Aa]3 | %12
+ [Gg]2 [EG] [EG] z [EG] | F z [Ac] [Bc] z [Bc] | [Ac] z [Ac] [A_c] z [Ac] | %15
+ [GB] z [GB] [EGB] z [EGB] | [DF] z [DF] [DA] z [DA] | [EG] z [EG] [EG] z [EG] | %18
+ [EG] z [Gg] [cc'] z [Bb] | [Bb]3 [Aa]3 | [Gg]2 [EG] [EG] z [EG] | [DF] z [DF] [DF] z [DF] | %22
+ [=A,E] z [CE] [A,E] z [CE] | z/ f/a/c'/e'/g'/ f'/e'/c'/a/f/e/ | d3 z z2 | %25
+ [FA] z [FA] [FA] z [FA] | [FA] z [FA] [FA] z [FA] | [FG] z [FG] [FG] z [FG] | %28
+ [EG] z [EG] [EG] z [EG] | [E^F] z [EF] [EF] z [EF] | [CE^F]6 | !fermata![=B,DG]6 | %32
+ z [A,CF][A,CF] z [A,CF][A,CF] | z [G,B,E][G,B,E] z [G,B,E][G,B,E] | %34
+ z [B,CDF][B,CDF] z [B,CDF][B,CDF] | z [G,B,E][G,B,E] z [G,B,E][G,B,E] | %36
+ z [A,CF][A,CF] z [A,CF][A,CF] | z [G,B,E][G,B,E] [Bb]3 | [cc']3 [dd']3 | [ege']3- [ege'] z2 |] %40
+V:3
+!f! z6 | [E,,E,][G,B,E][G,B,E] [E,,E,][G,,G,][B,,B,] | %2
+ [E,,E,][G,B,E][G,B,E] [E,,E,][G,,G,][B,,B,] | [B,,,B,,][A,B,D][A,B,D] [D,,D,][F,,F,][B,,,B,,] | %4
+ [E,,E,][G,B,E][G,B,E] [E,,E,][G,,G,][E,,E,] | [C,,C,][G,CE][G,CE] [C,,C,][E,,E,][C,,C,] | %6
+ [A,,,A,,][A,CF][A,CF] [A,,,A,,][C,,C,][A,,,A,,] | [B,,,B,,][G,B,E][G,B,E] B,,[A,D]B,, | %8
+!mf! E,/G,/B,/E/B,/"^Sax Starts"G,/ E,/G,/B,/E/B,/G,/ | E,/G,/B,/E/B,/G,/ E,/G,/B,/E/B,/G,/ | %10
+ E,/G,/B,/E/B,/G,/ E,/G,/B,/E/B,/G,/ | D,/A,/B,/D/B,/A,/ D,/A,/B,/D/B,/A,/ | %12
+ E,/G,/B,/E/B,/G,/ E,/G,/B,/E/B,/G,/ | A,/C/F/A,/C/F/ =E,/B,/C/=E/C/B,/ | %14
+ F,/A,/C/F/C/A,/ A,,/A,/C/F/C/A,/ | B,,/G,/B,/E/B,/G,/ E,/G,/B,/E/B,/G,/ | %16
+ B,,/F,/B,/D/B,/A,/ B,,/A,/B,/D/B,/G,/ | E,/G,/B,/E/B,/G,/ E,/G,/B,/E/B,/G,/ | %18
+ E,/G,/B,/E/B,/G,/ E,/G,/B,/E/B,/G,/ | D,/A,/B,/D/B,/A,/ D,/A,/B,/D/B,/A,/ | %20
+ E,/G,/B,/E/B,/G,/ E,/G,/B,/E/B,/G,/ | F,,/F,/B,/D/B,/F,/ F,,/F,/B,/D/A,/F,/ | %22
+ F,,/F,/=A,/E/A,/F,/ F,,/F,/A,/E/A,/F,/ | [F,=A,E]6 | [B,D]3 z z2 | %25
+ F,/A,/C/F/C/A,/ F,/A,/C/F/C/A,/ | F,/A,/C/F/C/A,/ F,/A,/C/F/C/A,/ | %27
+ G,,/G,/=B,/D/B,/G,/ G,,/G,/B,/D/B,/G,/ | C,/E,/G,/C/G,/E,/ C,/E,/G,/C/G,/E,/ | %29
+ A,,/E,/A,/C/A,/E,/ A,,/E,/A,/C/A,/E,/ | [A,,A,]6 | !fermata![G,,G,]6 | A,,2 z A,,2 z | %33
+ B,,2 z B,,2 z | B,,2 z B,,2 z | E,2 z E,2 z | A,,2 z A,,2 z | B,,2 z B,,[G,B,E][G,B,E] | [D,B,]6 | %39
+ E,G,B, E z2 |] %40
+

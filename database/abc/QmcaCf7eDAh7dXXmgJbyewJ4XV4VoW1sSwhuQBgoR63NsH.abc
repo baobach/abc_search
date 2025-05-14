@@ -1,0 +1,55 @@
+X:1
+T:Goldberg Variations : Variation I
+T:BWV 988
+T:J. S. Bach
+%%score { 1 | 2 }
+L:1/8
+M:3/4
+K:G
+V:1 treble nm="Harp"
+V:2 bass 
+V:1
+ G/F/G- G/D/E/F/ G/A/B/^c/ | d/^c/d- d/A/B/c/ d/e/f/d/ | g/f/g- g/f/e/d/ ^c/e/A/G/ | %3
+ F/E/D/^C/ D/F/[I:staff +1]A,/G,/ F,/A,/F, |[I:staff -1] z d/c/ dG B,d | z e/d/ eA Ce | %6
+ z f/e/ fd ac- | cB z/ G/B/d/ g/d/g/a/ | b/g/d/B/ G/B/d/g/ b/g/f/e/ | a/e/^c/A/ F/A/c/e/ a/f/e/d/ | %10
+ g/d/B/G/ E/G/B/d/ g/f/e/d/ | ^c/G/E/^C/ A,/C/E/G/ c/e/d/c/ | d[K:bass]F, F,[K:treble]A df | %13
+ B[K:bass]G, G,[K:treble]B eg | ^c/e/A/G/ F/A/d/f/ g/e/d/c/ | f/d/^c/B/ A/G/F/E/ D2 | %16
+ G/F/G- G/D/E/F/ G/A/B/^c/ | d/^c/d- d/A/B/c/ d/e/f/d/ | g/f/g- g/f/e/d/ ^c/e/A/G/ | %19
+ F/E/D/^C/ D/F/[I:staff +1]A,/G,/ F,/A,/F, |[I:staff -1] z d/c/ dG B,d | z e/d/ eA Ce | %22
+ z f/e/ fd ac- | cB z/ G/B/d/ g/d/g/a/ | b/g/d/B/ G/B/d/g/ b/g/f/e/ | a/e/^c/A/ F/A/c/e/ a/f/e/d/ | %26
+ g/d/B/G/ E/G/B/d/ g/f/e/d/ | ^c/G/E/^C/ A,/C/E/G/ c/e/d/c/ | d[K:bass]F, F,[K:treble]A df | %29
+ B[K:bass]G, G,[K:treble]B eg | ^c/e/A/G/ F/A/d/f/ g/e/d/c/ | f/d/^c/B/ A/G/F/E/ D2 | %32
+ f/g/a- a/b/a/g/ f/e/d/c/ | B/c/d- d/e/d/c/ B/A/G/F/ | E/^G/A/B/ A/E/A/B/ c/A/^d/e/ | %35
+ f/e/^d/^c/ B4- | B/^d/e- e/^D/E- E/[I:staff +1]^D,/E, |[I:staff -1] z/ ^g/a- a/^G/A- A/^G,/A,- | %38
+ A,/B,/C/F/ B,/^D/E/G/ F/E/D/A/ | G/F/E/^D/ E/G/[I:staff +1]B,/A,/ G,/B,/E, | %40
+[I:staff -1] z e ce aA | z d Bd gG | c/A/E/C/ A,/C/E/A/ c/A/c/e/ | f/c/A/F/ D/F/A/c/ f/c/f/a/ | %44
+ b/g/d/B/ G/B/d/g/ b/=f/b/d'/ | e/d'/c'/e/ d/c'/b/d/ c/e/f/g/ | a/c/B/A/ B/d/B/G/ c/A/G/F/ | %47
+ B/G/F/E/ D/C/B,/A,/ G,2 | f/g/a- a/b/a/g/ f/e/d/c/ | B/c/d- d/e/d/c/ B/A/G/F/ | %50
+ E/^G/A/B/ A/E/A/B/ c/A/^d/e/ | f/e/^d/^c/ B4- | B/^d/e- e/^D/E- E/[I:staff +1]^D,/E, | %53
+[I:staff -1] z/ ^g/a- a/^G/A- A/^G,/A,- | A,/B,/C/F/ B,/^D/E/G/ F/E/D/A/ | %55
+ G/F/E/^D/ E/G/[I:staff +1]B,/A,/ G,/B,/E, |[I:staff -1] z e ce aA | z d Bd gG | %58
+ c/A/E/C/ A,/C/E/A/ c/A/c/e/ | f/c/A/F/ D/F/A/c/ f/c/f/a/ | b/g/d/B/ G/B/d/g/ b/=f/b/d'/ | %61
+ e/d'/c'/e/ d/c'/b/d/ c/e/f/g/ | a/c/B/A/ B/d/B/G/ c/A/G/F/ | B/G/F/E/ D/C/B,/A,/ !fermata!G,2 |] %64
+V:2
+ G,,B,/A,/ B,G, G,,G, | F,,F,/E,/ F,D, F,,D, | E,,E,/D,/ E,G, A,,^C | D,F,/E,/ F,D, D,, z/ C,/ | %4
+ B,,/A,,/B,,- B,,/D,/E,/F,/ G,/A,/B,/G,/ | C,/B,,/C,- C,/E,/F,/G,/ A,/B,/C/A,/ | %6
+ D,/^C,/D,- D,/A,/B,/C/ D/E/F/D/ | G/F/G/D/ B,/D/G,/B,/ D,/G,/B,,/D,/ | G,,G, B,G, G,,G, | %9
+ F,,F, A,F, F,,F, | E,,E, G,E, E,,G, | A,,E, A,E, A,,G, | F,/A,/D/F/ A/F/D/A,/ F,/A,/D,/F,/ | %13
+ G,/B,/D/G/ B/G/D/B,/ G,/B,/E,/G,/ | A,^C D/A,/F,/D,/ A,A,, | D,,/D,/E,/F,/ G,/A,/B,/^C/ D2 | %16
+ G,,B,/A,/ B,G, G,,G, | F,,F,/E,/ F,D, F,,D, | E,,E,/D,/ E,G, A,,^C | D,F,/E,/ F,D, D,, z/ C,/ | %20
+ B,,/A,,/B,,- B,,/D,/E,/F,/ G,/A,/B,/G,/ | C,/B,,/C,- C,/E,/F,/G,/ A,/B,/C/A,/ | %22
+ D,/^C,/D,- D,/A,/B,/C/ D/E/F/D/ | G/F/G/D/ B,/D/G,/B,/ D,/G,/B,,/D,/ | G,,G, B,G, G,,G, | %25
+ F,,F, A,F, F,,F, | E,,E, G,E, E,,G, | A,,E, A,E, A,,G, | F,/A,/D/F/ A/F/D/A,/ F,/A,/D,/F,/ | %29
+ G,/B,/D/G/ B/G/D/B,/ G,/B,/E,/G,/ | A,^C D/A,/F,/D,/ A,A,, | D,,/D,/E,/F,/ G,/A,/B,/^C/ D2 | %32
+ D,,F,/E,/ F,D, D,,F, | G,,B,/A,/ B,G, G,,B, | C,C/B,/ CF, A,C | %35
+ A,F, ^D,/B,,/D,/F,/ B,/^D/[I:staff -1]F/A/ | G>F G>[I:staff +1]F, G,>B,, | %37
+ C,>[I:staff -1]B c>[I:staff +1]B, C>E, | ^D,A, G,^A,, B,,F, | E,G,/F,/ G,E, E,, z/ D,/ | %40
+ C,/E,/A,/C/ E/C/A,/E,/ C,/E,/D,/C,/ | B,,/D,/G,/B,/ D/B,/G,/D,/ B,,/D,/C,/B,,/ | A,,C, E,G, F,E, | %43
+ D,F, A,C B,A, | G,B, D=F ED | CE F^G A=G | FD GG, DD, | G,/G,,/A,,/B,,/ C,/D,/E,/F,/ G,2 | %48
+ D,,F,/E,/ F,D, D,,F, | G,,B,/A,/ B,G, G,,B, | C,C/B,/ CF, A,C | %51
+ A,F, ^D,/B,,/D,/F,/ B,/^D/[I:staff -1]F/A/ | G>F G>[I:staff +1]F, G,>B,, | %53
+ C,>[I:staff -1]B c>[I:staff +1]B, C>E, | ^D,A, G,^A,, B,,F, | E,G,/F,/ G,E, E,, z/ D,/ | %56
+ C,/E,/A,/C/ E/C/A,/E,/ C,/E,/D,/C,/ | B,,/D,/G,/B,/ D/B,/G,/D,/ B,,/D,/C,/B,,/ | A,,C, E,G, F,E, | %59
+ D,F, A,C B,A, | G,B, D=F ED | CE F^G A=G | FD GG, DD, | %63
+ G,/G,,/A,,/B,,/ C,/D,/E,/F,/ !fermata!G,2 |] %64
+

@@ -1,0 +1,47 @@
+X:1
+T:Turandot: Nessun Dorma
+T:Turandot: Nessun Dorma 
+%%score 1 2 3 4
+L:1/8
+Q:1/4=56
+M:4/4
+K:none
+V:1 treble transpose=-7 nm="F-kürt" snm="F kt."
+V:2 treble transpose=-7 nm="F-kürt" snm="F kt."
+V:3 treble transpose=-7 nm="F-kürt" snm="F kt."
+V:4 bass transpose=-7 nm="F-kürt" snm="F kt."
+V:1
+[K:Eb]!p! E3 E G2!mf! B>B | B2 B2 z2 B,>B, | B,2 B,2 z4 | %3
+ z z B2 (3!tenuto!B!tenuto!B!tenuto!B B>A | G2 G2 (3!tenuto!G!tenuto!G!tenuto!G _G>D | %5
+ E2 E2 d2 d>c | B2 B2"^Not sure triola" (3!tenuto!B!tenuto!B!tenuto!B B>A | G2 G2 z G _G>D | %8
+ E2!>(! E6!>)! |[K:Bb] z!mf! (Bcd cB c>A) |[M:2/4] G4 |[M:4/4] z (cde dc d>B) | %12
+!<(! A2 B2 c (cde!<)! |!f! f4) f2 (f>d) | d4 z d (d>B) | F4 F2!>(! (c>A)!>)! |!mf! B4!pp! B,4 | %17
+[K:Eb]!pp! B,4 z!mp! B (B>A) | GGGB (d3 c) | B2 B3 z (_G>D) | E2 E2 z4 |[K:Bb] z!mf! (Bcd cB c>A) | %22
+[M:2/4] G4 |[M:4/4] z!mf! (cde dc d>B) | A2 B2!<(! c (cde!<)! | %25
+!f! f2) f2 !tenuto!f!tenuto!f (f>d) | d2 d2 z d (d>B) | F2 z F FF!f! (!fermata!c>A) |!<(! B6 G>B | %29
+ e6!ff! B>!<)!"^Musescore WHY?"!fermata!g |!ff! f8 |[M:2/4] z4 |[M:4/4] G8 | z8 | B8 |] %35
+V:2
+[K:Eb] z!p! (F,G,B, G2) _G2 | (G3 E G2) _G2 | z (F,G,B,) z4 | (FGBe) z2 _G2 | z (F,G,B, G2) _G2 | %5
+ z (G,B,E _G2 G3/2) z/ | z (F,G,B,) z2 z2 | z2 z (B, FG) D2 | z (F,G,B,) z4 |[K:Bb]!pp! D8 | %10
+[M:2/4] E2 D2 |[M:4/4] C2 G4 G2 |!<(! F2 F4 A2!<)! | z!f! (Bcd cB c>A) | z (GAB AG B>G) | %15
+ (FDBA!>(! GF A2)!>)! | z2 z2 z!mp! (B,FG |[K:Eb] B)(GBe) (eB) z2 | z2 (GB) A4 | z2 z (B, FG) z2 | %20
+ z4!>(! (FGBe)!>)! |[K:Bb]!p!!<(! f8!<)! |[M:2/4] B2 B2 |[M:4/4]!mf! G6 G2 | %24
+ F2 F2 F2!<(! (AG)!<)! | z!mf! (Bcd cB c>A) | z (GAB AG B>G) | (FDBA GF!f! !fermata!A2) | G8 | %29
+!<(! (BGBe ge)!ff! B>!<)!!fermata!B | z!ff! (Bcd cB c>A) |[M:2/4] G4 |[M:4/4] z (cde dc d>B) | %33
+ A2 B2 c (cde | f8) |] %35
+V:3
+[K:Eb]!p! B,6 _G2 | z (F,G,B, G2) z3/2 z/ | z3 (E FGBe) |!pp! G4 (FG) _G2 | B,3 B, E2 D2 | %5
+ B,2 z2 (B2 B3/2) z/ | B,3 (B, FG) _G2 | z (F,G,B,) z z _C2 | z2 z!>(! (B, FG"^Rit..."Be)!>)! | %9
+[K:Bb]!pp! f8 |[M:2/4] B,2"^Maybe \"A\"" B2 |[M:4/4]"^Maybe \"G\"" E2 E4 G2 |!<(! F2 F2 F2 A2!<)! | %13
+!f! D8 | E8 | (DB,DC!>(! B,D C2)!>)! | z!mp! (G,B,F G) z z2 |[K:Eb] (B,EGB FG) _G2 | B,2 (FG) _G4 | %19
+ z (F,G,B,) z2 D2 | z!>(! (F,G,B,!>)! E4) |[K:Bb]!p!!<(! D8!<)! |[M:2/4] B,2 B,2 | %23
+[M:4/4]!mf! G,6 B,2 | C2 C2 C2!<(! (AB)!<)! |!mf! D6 F2 | E6 G2 | (DB,DC B,D!f! !fermata!C2) | E8 | %29
+!<(! (GEGB eB)!ff! G>!<)!!fermata!B |!ff! D8 |[M:2/4] B,2 B,2 |[M:4/4] E8 | F2 F2 F2 (AF) | D8 |] %35
+V:4
+[K:Eb]!p! E,6 _C,2 | E,6 _C,2 | E,8 | E,6 _C,2 | E,6 _C,2 | E,4 z _C !tenuto!_G,!tenuto!_C, | %6
+ E,6 A,,2 | E,6 _C,2 | E,8 |[K:Bb]!pp! B,8 |[M:2/4] E,2 D,2 |[M:4/4] C,2 C,4 E,2 | %12
+!<(! F,2 G,2 A,2 F,E,!<)! |!f! B,,8 | C,8 |!>(! F,6 F,2!>)! |!mp! E,8 |[K:Eb] E,6 _C,2 | %18
+ E,4 z =B, _G,2 | E,6 _C,2 |!>(! E,4 G,4!>)! |[K:Bb]!p!!<(! B,4 F,4!<)! |[M:2/4] E,2 D,2 | %23
+[M:4/4]!mf! C,6 E,2 | F,2 G,2 A,2!<(! (F,E,)!<)! |!mf! B,,6 D,2 | C,6 C,2 | F,8 | E,8 | E,8 | %30
+!ff! B,,8 |[M:2/4] E,2 D,2 |[M:4/4] C,8 | F,2 G,2 A,2 (F,E,) |!mf! B,,8 |] %35
+

@@ -1,0 +1,67 @@
+X:1
+T:1a Kyrie
+T:WOLFGANG AMADEUS MOZART
+T:1a Kyrie
+C:WOLFGANG AMADEUS MOZART
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="Soprano" snm="S."
+V:2 treble nm="Alto" snm="A."
+V:3 treble-8 transpose=-12 nm="Tenor" snm="T."
+V:4 bass nm="Bass" snm="B."
+V:1
+ z8 | z8 | z8 | z4 d3 d | c2 f2 ^G3 G | A3 A =B3 A/B/ | c=B/c/ dc/d/ edcB | Agfe d2 z D | %8
+ G3 F/E/ AD d2- | d2 d2 d^c/d/ e2- | e2 d^c d2 z2 | z4 z =B BB | %12
+ c/d/c/=B/ c/d/B/c/ d/e/d/c/ d/e/c/d/ | ef/e/ d/c/=B/A/ ^GBed | c/=B<A_B/=G/A/ ^F2 GA | %15
+ D2 z2 c3 c | A2 d2 E3 E | F2 z F G3 F/G/ | AG/A/ BA/B/ cBAG | ^F2 GA B2 z2 | %20
+ z A AA B/c/B/A/ B/c/A/B/ | c/d/c/B/ c/d/B/c/ d_e/d/ c/B/A/G/ | ^FAdc B=Bcd | _e/d/c z2 z4 | z8 | %25
+ z8 | z4 f3 f | d2 g2 A3 A | B2 z B c3 B/c/ | dc/d/ _ed/e/ fcfe | dF B4 A2 | BB B4 _AG | %32
+ _A2 z2 z4 | z F B_A GCcB | _A2 z2 z4 | z4 z =A AA | B/c/B/A/ =B/c/A/B/ c/d/c/B/ ^c/d/B/c/ | %37
+ dAd=c =BEed | ^c2 z2 z4 | z e ee f/g/f/e/ f/g/e/f/ | g/a/g/f/ g/a/f/g/ ab/a/ g/f/e/d/ | %41
+ ^cd e2- egfe | d3 d ^ccde | A2 z2 z4 | z4 z A AA | B/c/B/A/ =B/c/A/B/ c/d/c/B/ ^c/d/B/c/ | %46
+ d2 z2 z e ee | f/g/f/e/ ^f/g/e/f/ g/a/g/f/ ^g/a/f/g/ |"^rit." a^cdd d2 c2 | %49
+ d4 !fermata!z2[Q:1/4=60] d>d |"^rit." ^c2 d2 d2 c2 | d8 |] %52
+V:2
+ z8 | z E EE F/G/F/E/ F/G/E/F/ | G/A/G/F/ G/A/F/G/ AB/A/ G/F/E/D/ | ^CEAG FE/F/ D/E/^F/^G/ | %4
+ A2 z2 z4 | z8 | z8 | A3 A F2 B2 | ^C3 C D2 z D | E3 D/E/ FE/F/ GF/G/ | AGFE D>E ^F^G | %11
+ A E2 D/C/ =B,2 z2 | z E A2- A/G/F/E/ FG/F/ | E2 z2 z E ^F^G | A2 z2 z A dc | B/A<GA/F/G/ E2 FG | %16
+ C2 z2 z C2 B, | A,FDB, z G EC | z E/F/ GF/G/ AEF^C | D2 E^F G2 z2 | z _E DC B,G, E2- | EC F4 _E2 | %22
+ D^FGA D_A G2 | z4 z D DD | _E/F/E/D/ E/F/D/E/ F/G/F/E/ F/G/E/F/ | G_A/G/ F/_E/D/C/ =B,DGF | %26
+ _E3 D CFG=A | BB, _E>D CC F2- | F_E/D/ E/F/D/E/ CD/E/ F2- | F B,2 G F2 z2 | z8 | z4 c3 c | %32
+ _A2 _d2 E3 E | F2 z2 z4 | z4 z D DD | _E/F/E/D/ =E/F/D/E/ F/G/F/E/ ^F/G/E/F/ | GDG=F EA,AG | %37
+ F2 A>A D=B B2 | E^CDE FE/F/ GF/G/ | ABAG FA d2- | d2 ^c2 z4 | z2 B2- BBAA | A2 ^GG A A2 A | %43
+ F2 B2 ^C3 C | D2 z D E3 D/E/ | F2 z2 z E EE | F/G/F/E/ ^F/G/E/F/ G/A/G/F/ ^G/A/F/G/ | %47
+ A2 A>A =G2 =B>B | AGF_B A3 A | =B4 !fermata!z2 B>B | A2 A2 A3 A | A8 |] %52
+V:3
+ z8 | z8 | z8 | z8 | z4 z =B BB | c/d/c/=B/ c/d/B/c/ d/e/d/c/ d/e/c/d/ | ef/e/ d/c/=B/A/ ^GBed | %7
+ c^cde AD=GF | EG B2 A2 z2 | z8 | z4 d3 d | c2 f2 ^G3 G | A2 z A =B3 A/B/ | c=B/c/ dc/d/ edcB | %14
+ A/=B/ c2 ^c dDE^F | G/A/ _B2 =B =c_BAG | A/F/G/A/ B/G/A/B/ cG c2- | cB/A/ B/c/A/B/ GA/B/ c2 | z8 | %19
+ d3 d B2 _e2 | ^F3 F G2 z G | A3 G/A/ BA/B/ cB/c/ | dcBA Gf_e=B | %23
+ cg f/_e/d/c/ d/c/=B/A/ G/_A/F/G/ | _EC _A2- AF _B2- | B2 _A2 G=A/=B/ cd | _e/d/c/_B/ AB- BABc | %27
+ d2 z2 z F FF | G/A/G/F/ G/A/F/G/ A/B/A/G/ A/B/G/A/ | B2 z2 z c cc | %30
+ d/_e/d/c/ d/e/c/d/ e/f/e/d/ e/f/d/e/ | fd=ef g2 fe | fFBG c2 z2 | z4 z G GG | %34
+ _A/B/A/G/ =A/B/G/A/ B/c/B/A/ =B/c/A/B/ | cGc_B ADdc | B2 z2 z G GA | A2 A>A =B2 B>B | %38
+ ^cA=Bc d3 d | e2 A2- AF _B2- | BGee d^c/d/ e/f/g/f/ | ed ^c>d e2 Ac | dfed eA=B^c | dDGE A_BAG | %44
+ FDGF ECAA | F2 d2 G2 z2 | z A dc =BBed | c2 d>d d2 e>e | e2 df e3 e | f4 !fermata!z2 f>f | %50
+ e2 f2 f2 e2 | d8 |] %52
+V:4
+ A,3 A, F,2 B,2 | ^C,3 C, D,2 z D, | E,3 D,/E,/ F,E,/F,/ G,F,/G,/ | A,G,F,E, D,C,=B,,E, | %4
+ A,,F,/E,/ D,/=B,,/C,/D,/ E,2 z2 | z2 A,4 G,/F,/E,/D,/ | C,2 =B,,F, E,>^F, ^G,/A,/F,/G,/ | %7
+ A,A,,=B,,^C, D,2 z2 | z E, E,E, F,/G,/F,/E,/ F,/G,/E,/F,/ | %9
+ G,/A,/G,/F,/ G,/A,/F,/G,/ A,B,/A,/ G,/F,/E,/D,/ | ^C,E,A,G, F,/E,/D,/=C,/ =B,,2 | %11
+ C,2 D,2 E,2 z E, | A,2- A,/G,/F,/E,/ F,D, G,2 | C,A,, F,>F, E,2 z2 | z A,/G,/ F,_E, D,2 z2 | %15
+ z G,/F,/ =E,D, C,2 D,E, | F,2 z2 z C, C,C, | D,/E,/D,/C,/ D,/E,/C,/D,/ E,/F,/E,/D,/ E,/F,/D,/E,/ | %18
+ F,G,/F,/ E,/D,/C,/B,,/ A,,C,F,_E, | D, C2 B,/A,/ G,/F,/_E,/D,/ C,/D,/B,,/C,/ | D,3 D, G,,2 z2 | %21
+ z8 | z4 G,3 G, | _E,2 _A,2 =B,,3 B,, | C,2 z C, D,3 C,/D,/ | _E,D,/E,/ F,E,/F,/ G,F,E,D, | %26
+ C,D,/_E,/ F,2- F,E,D,C, | B,,G,/F,/ _E,/C,/D,/E,/ F,2 z2 | z4 F,3 F, | D,2 G,2 A,,3 A,, | %30
+ B,,2 z B,, C,3 B,,/C,/ | D,B,/A,/ G,F, E,G, C,2 | z4 z C, C,C, | %33
+ _D,/_E,/D,/C,/ =D,/E,/C,/D,/ E,/F,/E,/D,/ =E,/F,/D,/E,/ | F,C,F,_E, D,G,,G,F, | _E,2 z2 z4 | %36
+ z4 z =E, E,E, | F,/G,/F,/E,/ ^F,/G,/E,/F,/ G,/A,/G,/F,/ ^G,/A,/F,/G,/ | A, A,2 A, =F,2 B,2 | %39
+ ^C,3 C, D,2 z D, | E,3 D,/E,/ F,E,/F,/ G,F,/G,/ | A,B,/A,/ G,/F,/E,/D,/ ^C,2 D,A, | %42
+ B,3 B, A,2 z2 | z4 z A,, A,,A,, | B,,/C,/B,,/A,,/ =B,,/C,/A,,/B,,/ C,/D,/C,/B,,/ ^C,/D,/B,,/C,/ | %45
+ D,D,G,F, E,E,A,G, | F,2 z2 z2 z E, | A,A,, D,C, =B,,B,, E,D, | ^C,A, _B,G, A,3 A, | %49
+ ^G,4 !fermata!z2 G,>G, | A,2 F,D, A,3 A, | D,8 |] %52
+

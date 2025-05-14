@@ -1,0 +1,50 @@
+X:1
+T:Title
+%%score { ( 1 3 4 ) | ( 2 5 6 ) }
+L:1/8
+Q:1/4=100
+M:4/4
+K:Ab
+V:1 bass nm="Grand Piano"
+V:3 bass 
+V:4 bass 
+V:2 bass 
+V:5 bass 
+V:6 bass 
+V:1
+ [A,CE]>[E,CE] [F,CE]>[K:treble][G,DF] [A,CE]>[K:bass][E,B,D] [E,A,C]>[E,CE] | %1
+w: Thoro~Harris * * * * * * *|
+ [CA]2 [DB]2 [Ec]3 [Fd] | c2 B2 B3 c | [DB]2 [CA]2 (3z cB A2 | %4
+w: |||
+ [A,CE]>[E,CE] [F,CE]>[K:treble][G,DF] [A,CE]>[K:bass][E,B,D] C>[K:treble]E |[M:7/8] A2 B2 c3 | %6
+w: ||
+[M:1/8] [Ed] |[M:4/4] [=Dc]2 [DB]2 [Ec]2 [_DB]2 | [CA]6 z2 | [DF]>=E F>A [Fd]4 | %10
+w: ||||
+ [CE]>=D [CE]>A [Ec]3- [Ec]/[Af]/ | [Ge]2 [Fd]2 [DF]2 [B,DG]2 | [DB]>A A,->[A,_CF][K:bass] [=CE]4 | %13
+w: |||
+ .[A,DF]>=E F>A [Fd]4 | [CE]>[_C=D] [=CE]>[CA] [Ec]3- [Ec]/[Af]/ | [Ge]2 [Fd]2 [DF]2 [B,DG]2 | %16
+w: |||
+ [CA]6 z2 |] %17
+w: |
+V:2
+ A,,>A,, A,,>A,, A,,>A,, A,,>A,, | [A,,E,]2 [A,,E,]2 [A,,A,]3 [A,,A,] | %2
+ [E,A,E]2 [E,G,D]2 [E,G,D]3 [E,G,E] | z4 z2[K:treble] (3F_ED | %4
+ A,,>A,, A,,>A,, A,,>A,, [A,,E,A,]>[C,E,] |[M:7/8] [F,C]2 [E,G,E]2 [A,E]3 |[M:1/8] [A,,A,] | %7
+[M:4/4] [B,,A,]2 [B,,A,]2 [E,G,]2 [E,G,]2 | [A,,A,]6 z2 | z4 A,4 | .A,>_C .A,>=C A,>E, C,>A,, | %11
+ E,,2 [E,G,B,]2 E,,2 E,2 | z z/ C/ z2 z2 (3A,B,C | z4 A,4 | A,2 z2 z4 | E,,2 [E,G,B,]2 E,,2 E,2 | %16
+ (3A,,C,F, (3E,C,B,, A,,2 z2 |] %17
+V:3
+ x7/2[K:treble] x2[K:bass] x5/2 | x8 | x8 | z4 A2 (3z GF | %4
+ x7/2[K:treble] x2[K:bass] x2[K:treble] x/ |[M:7/8] x7 |[M:1/8] x |[M:4/4] x8 | x8 | x8 | x8 | x8 | %12
+ z2 C2[K:bass] .E,2 z2 | x8 | z2 A,2 z4 | x8 | x8 |] %17
+V:4
+ x7/2[K:treble] x2[K:bass] x5/2 | x8 | x8 | z4 C4 | x7/2[K:treble] x2[K:bass] x2[K:treble] x/ | %5
+[M:7/8] x7 |[M:1/8] x |[M:4/4] x8 | x8 | x8 | x8 | x8 | x4[K:bass] x4 | x8 | x8 | x8 | x8 |] %17
+V:5
+ x8 | x8 | x8 | [A,,A,]2 [A,,E,]2 (3z[K:treble] E=E z2 | x8 |[M:7/8] x7 |[M:1/8] x |[M:4/4] x8 | %8
+ x8 | .[D,A,]>D .[D,A,D]>F D,>E, F,>G, | x8 | x8 | A,,2 E,>=D, (3z F,G, z2 | %13
+ .D,>D .[D,A,D]>F D,>E, F,>G, | z z/ F,/ E,>E, A,>E, C,>A,, | x8 | x8 |] %17
+V:6
+ x8 | x8 | x8 | z4 [A,,E,]4[K:treble] | x8 |[M:7/8] x7 |[M:1/8] x |[M:4/4] x8 | x8 | x8 | x8 | x8 | %12
+ z4 A,,4 | x8 | x8 | x8 | x8 |] %17
+

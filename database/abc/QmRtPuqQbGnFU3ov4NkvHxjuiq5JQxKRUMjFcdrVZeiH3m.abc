@@ -1,0 +1,40 @@
+X:1
+T:Title
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+M:4/4
+K:Db
+V:1 treble nm="Grand Piano"
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+ z4 z2[Q:1/4=84] [DF][EG] | [FA]>[_F=G] [=FA][_GB] [FA][DF][FA][FA] | %2
+ [GB]>[Bd] [Ac][GB] [FA]2 [DF][EG] | [FA]>[_F=G] [=FA][_GB] [FA][Fd][FA][Fd] | %4
+ [Ec][Fd][Ec][DB] [CA]2 AA | e>c AG F[FA][FA][FA] | e>c AG F2 [FA][FA] | [GB][Bd][Ac][GB] [FA]FDE | %8
+[M:3/4] [DF][DA] [A,CG][K:bass][G,CE] [F,D]2 |[M:1/4][K:treble] [A,F][A,EG] | %10
+[M:4/4] [DFA]<[DFA] [DFA]<[DFA] [DGB][DBd][DAc][DGB] | [DFA]6 [A,F][A,EG] | %12
+ [FA]<[FA] [FA]<[FA] [=GB]<[Ge] [Ge]>[Bd] | c6 Bc | [Fd][FA][_F=G][=FA] [DF]2 [FA][FA] | %15
+ [GB][Bd][Ac][GB] [FA]2 DE | %16
+[M:19/16] (3:2:12F-F3/16 z z3/16 z2 z3/8 [GB]2- [GB]3/8 z2 z3/8 z4[K:bass] z3/4 |[M:3/4] [F,D]6 |] %18
+V:2
+ z4 z2 [D,A,][D,A,] | [D,D]>[D,D] [D,D][D,D] [D,D][D,A,][D,D][D,D] | %2
+ [G,D]>[G,D] [G,D][G,D] [D,D]2 [D,A,][D,A,] | [D,D]>[D,D] [D,D][D,D] [D,D][D,D][D,D][D,D] | %4
+ [E,A,][E,A,][E,=G,][E,G,] [A,,A,]2[K:treble] [A,CG][A,CG] | %5
+ [A,CG]>[A,EG] [A,DF][K:bass][A,CE] [D,A,D][D,D][D,D][D,D] | %6
+ [A,CG]>[A,EG] [A,DF][K:bass][A,CE] [D,A,D]2 [D,D][D,D] | %7
+ [G,D][G,D][G,D][G,D] [D,D][D,A,D][F,A,][G,B,D] |[M:3/4] [A,,A,][A,,F,] A,,A,, D,2 |[M:1/4] D,D, | %10
+[M:4/4] D,<D, D,<D, G,G,G,G, | D,6 D,D, | [D,D]<[D,D] [D,D]<[D,D] [E,D]<[E,B,] [E,B,]>[E,E] | %13
+ [A,EA]6 [A,DA][A,EG] | [D,D][D,D][D,D][D,D] [D,A,]2 [D,D][D,D] | %15
+ [G,D][G,D][G,D][G,D] [D,D]2 [D,F,][D,G,D] | %16
+[M:19/16] (3:2:12[D,A,D]-[D,A,D]3/16 z z3/16 z2 z3/8 [D,D]2- [D,D]3/8 z2 z3/8 z4 z3/4 | %17
+[M:3/4] D,6 |] %18
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:3/4] x3[K:bass] x3 |[M:1/4][K:treble] x2 |[M:4/4] x8 | %11
+ x8 | x8 | x8 | x8 | x8 |[M:19/16] z/ [FA]-<[FA].[FA]3/2 z/ z [FA]<[A,DF][K:bass][G,CE]>[A,DF] | %17
+[M:3/4] x6 |] %18
+V:4
+ x8 | x8 | x8 | x8 | x6[K:treble] x2 | x3[K:bass] x5 | x3[K:bass] x5 | x8 |[M:3/4] x6 |[M:1/4] x2 | %10
+[M:4/4] x8 | x8 | x8 | x8 | x8 | x8 |[M:19/16] z/ [D,D]-<[D,D].[D,D]3/2 z/ z [D,D]<D,A,,>A,, | %17
+[M:3/4] x6 |] %18
+

@@ -1,0 +1,38 @@
+X:1
+T:Allegro Scherzando
+T:Allegro Scherzando
+T:Hob. III: 75/4
+T:Joseph Haydn
+T:Public Domain (PianoXML typeset)
+T:Public Domain (PianoXML typeset)
+C:Joseph Haydn
+Z:Public Domain (PianoXML typeset)
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=116
+M:2/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:1
+"^Allegro"!f!!p! (a | .f) .c.d.e | .f.g.a (f | .c')!<(! .c'.c'.c'!<)! | (a/!>(!b/a/g/ f)!>)! (a | %5
+ .f) .c.d.e | .f.g.a.f | .g.c' (=b/c'/d'/b/ | .c').c'.c' :|!f! (!>![DAc] | %10
+ .[DG_B]).[D^F].[DG].[DFA] | .[DGB].[DGB].[DGB] (!>![CGB] | .[C=FA]).[CE].[CF].[CEG] | %13
+ .[CFA].[CFA].[CFA]!mf! (F | .A,)(F.B,)(F | .C)(F.D)!p! .f | .A.f.B.f | .c.f.d!mf! (f | %18
+ .=B)(a.g)(f | .e)(d.c)!p!(g | .=B)(a.g)(f | .e)(d.c) (c | e2) z (e | g2) z (g | b2) z (b | %25
+ g2) z!p! (b |!<(! .g)(d'.b)(c' | .a)(b.g)!<)!!mf! (a | .f) .c.d.e | .f.g.a (f | %30
+ .c')!<(! .c'.c'.c'!<)! | (a/!>(!b/a/g/ f)!>)!!p! (A |!<(! .B) .c.d.e | .f.g.a.f!<)! | %34
+!f! .g.b (e/f/g/e/ | f2) z!p! (A | .B).d (G/A/B/G/ | A2) z!mf! (F | .G).B (A/G/F/E/ | %39
+ .F)!f! (!>![Ac]2 [GB] | .[FA])!p! (!>![ac']2 [gb] | .[fa])!f! (!>![Ac]2 [GB] | %42
+ .[FA]) (!>![Ac]2 [GB] | [FA]2)!<(! !>![GBe]2 | !>![FAf]2 !>![ceg]2!<)! |!ff! !>![cfa]2 z |] %46
+V:2
+"^Play repeat at piano" z | .[FA] z .[FB] z | [FA]2 z ([FA] | .[EG]).[CE] .[DF].[EG] | %4
+ !tenuto![FA]2 z2 | .[FA] z .[FB] z | [FA]2 z .[FAc] | .[EGc] z ([G,DF]2 | .[CE]).[CE].[CE] :| %9
+[K:bass] ^F, | .G,.C.B,.A, | .G,.G,.G, .E, | .=F,.B,.A,.G, | .F,.F,.F, (F, | .A,,)(F,.B,,)(F, | %15
+ .C,)(F,.D,) .F | .A,.F.B,.F | .C.F.D z | (!tenuto![G,D]4 | [CE]2) z2 | (!tenuto![G,D]4 | %21
+ [CE]2) z2 |[K:treble] z .[EG].[CE] z | z .[EG].[CE] z | z .[EG].[CE] z | z .[EG].[CE] z | z4 | %27
+ z4 | .[FA] z .[FB] z | [FA]2 z ([FA] | .[EG]) .[CE].[DF].[EG] | !tenuto![FA]2[K:bass] z (_E | %32
+ .D) .C.B,.G, | .A,.G,.F,.A, | .B, z ([C,G,B,]2 | [F,A,]2) z (F | .G) z (E2 | F2) z (A, | %38
+ .B,).D (C/B,/A,/G,/ | .F,) .C,.D,.E, | .F, .C.D.E | .F .C,.D,.E, | .F,.[C,,C,] .[D,,D,].[E,,E,] | %43
+ .[F,,F,]2 !>![C,C]2 | !>![F,,F,]2 !>![C,,C,]2 | !>![F,,,F,,]2 z |] %46
+

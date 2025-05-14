@@ -1,0 +1,39 @@
+X:1
+T:Title
+%%score { ( 1 3 5 ) | ( 2 4 ) }
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Grand Piano"
+V:3 treble 
+V:5 treble 
+V:2 bass 
+V:4 bass 
+V:1
+ z4 z2[Q:1/4=100] [DF]>[EG] | [FA]>[FA] [GB]>[FA] [Fd]2 [Ac]>[GB] | F2 z2 z4 | %3
+ [FA]>[FA] [GB]>[FA] [Ge]2 [Gc]>[GA] | d2- [Ed-]>[Gd-] [Fd]2 F>[FA] | %5
+ [Fd]>[Fd] [Fd]>[Fd] [Fd]2 [FA]>F | G>B [^Ge]>[Ge] [Ae]2 [Ge]>[Gd] | c>c c>c c2 B>A | %8
+[M:3/4] d2- [Gd-]>[Ed-] [Fd]2 |[M:1/4] A>A |[M:4/4] d6 z2 | F2 z2 z4 | B6 z2 | e6 z2 | [Af]6 z2 | %15
+ [GB]6 z2 | A6 z2 |[M:7/8] d2- [Gd-]>[=Fd-] [^Fd]3 |] %18
+V:2
+ z4 z2 [D,A,]>[D,A,] | [D,D]>[D,D] [D,D]>[D,D] [D,A,]2 [D,D]>[D,D] | [D,D]2 A,,>A,, D,2 D,>D, | %3
+ [D,D]>[D,D] [D,D]>[D,D] [A,,C]2 [A,,A,]>[C,A,] | [D,A,]2 [A,,A,]>[A,,A,] [D,A,]2 [D,A,D]>[D,D] | %5
+ [D,A,]>[D,A,] [D,A,]>[D,A,] [D,A,]2 [D,D]>[D,A,D] | %6
+ [G,B,D]>[G,DG][K:bass] [E,D]>[E,B,] [E,B,]2 [E,B,]>[E,B,] | %7
+ [A,G]>[A,G] [A,G]>[A,G] [A,G]2 [A,G]>[A,G] |[M:3/4][K:bass] A,2 B,>A, A,2 |[M:1/4][K:treble] F>F | %10
+[M:4/4] F2[K:bass] [D,A,]>[D,A,] [D,A,]>[D,A,] [D,A,]>[D,D] | [D,D]2 A,,>A,, D,2[K:treble] F>F | %12
+ G6[K:bass] z2 | [A,CG]2 [E,D]>[E,D] [A,C]2 [A,C]>[A,C] | [D,D]>D, D,>D, z z/ G/ [D,A,]>[D,D] | %15
+ [G,D]>G, G,>G, G,2[K:treble] G>G | F4- F>[A,F] [A,G]>[A,G] |[M:7/8][K:bass] A,2 B,>^G, A,3 |] %18
+V:3
+ x8 | x8 | A2- [CEA-]>[CEA-] [DFA]2 [A,DF]>[A,EG] | x8 | F2 z2 z4 | x8 | x8 | x8 | %8
+[M:3/4] F2 z2 z2 |[M:1/4] x2 |[M:4/4] z2 F>F F>[Fd] [Ac]>[GB] | A2- [CEA-]>[CGA-] [DFA]2 A>A | %12
+ z2 D>D D>B [Gc]>[Gd] | z2 ^G>G A2 A>A | z z/ D/ D>D z z/ e/ [Fd]>[FA] | z z/ D/ D>D D2 B>B | %16
+ z2 A,>A, A,>A B>c |[M:7/8] F2 z z z z2 |] %18
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x2[K:bass] x6 | x8 |[M:3/4][K:bass] D,6 |[M:1/4][K:treble] x2 | %10
+[M:4/4] x2[K:bass] x6 | x6[K:treble] x2 | z2 G,>G, G,>[A,DG][K:bass] [E,A,]>[D,A,] | x8 | %14
+ z4 D,2 z2 | x6[K:treble] x2 | x8 |[M:7/8][K:bass] D,-D,-D,- D,- D,3 |] %18
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:3/4] x6 |[M:1/4] x2 |[M:4/4] x8 | x8 | x8 | x8 | %14
+ z4 D2 z2 | x8 | x8 |[M:7/8] x7 |] %18
+

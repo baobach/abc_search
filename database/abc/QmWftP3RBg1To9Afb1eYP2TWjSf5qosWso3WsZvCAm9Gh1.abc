@@ -1,0 +1,52 @@
+X:1
+T:45
+T:45
+T:Études enfantines, op. 37
+T:Henry Lemoine
+C:Henry Lemoine
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+Q:1/4=135
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:1
+"^Moderato"!p! z/"_cresc." (!1!G/!4!d/.c/) z/ (!1!c/!4!f/.e/) z/ (!1!e/!4!a/.g/) z/ (!1!g/!4!d'/.c'/) | %1
+ z/!f! (!2!b/!5!e'/.d'/) z/ (!1!a/!4!d'/.c'/)"_ritenuto" (!1!!4![gc']/!>(!b/)(!1!!4![fb]/a/) (!1!!4![ea]/g/)(!1!!4![dg]/!>)!f/) | %2
+!p! z/"^in tempo" (!1!c/!4!g/.f/) z/!<(! (!1!e/!4!a/.g/) z/ (!1!g/!5!d'/.c'/) z/ (!1!e/!4!a/.g/) | %3
+ z/!<)!!f! (!2!f/!4!a/.g/) z/ (!1!e/!4!a/.g/) z/"_ritenuto"!>(! (!1!d/!5!a/!4!g/ !3!f/!1!d/!2!B/!>)!A/) | %4
+!p! z/"_cresc." (!1!G/!4!d/.c/) z/ (!1!c/!4!f/.e/) z/ (!1!e/!4!a/.g/) z/ (!1!g/!4!d'/.c'/) | %5
+ z/!f! (!2!b/!5!e'/.d'/) z/ (!1!a/!4!d'/.c'/)"_ritenuto" (!1!!4![gc']/!>(!b/)(!1!!4![fb]/a/) (!1!!4![ea]/g/)(!1!!4![dg]/!>)!f/) | %6
+!mf! z/"^in tempo" (!1!c/!4!f/.!5!e/) z/ (!1!e/!4!a/.g/) z/"_poco ritenuto" (!1!B/!4!e/d/ B/a/g/B/ | %7
+ !>!d4 .c) z z2!fine! |]!p! z/ (!1!B/!4!e/.d/) z/ (!1!B/!5!a/.g/) z/ (B/e/.d/) z/ (B/a/.g/) | %9
+!p! z/ (!1!c/!3!e/.d/) z/ (!1!c/!5!b/.a/) z/"_cresc." (c/e/.d/) z/ (c/b/.a/) | %10
+ z/ (!1!B/!4!e/.d/) z/!f! (B/e/.d/) z/ (B/e/.d/) z/ (!1!A/!5!e/.d/) | %11
+ z/ (!1!G/!5!d/.c/) z/"_dim." (!2!^F/!5!c/.B/) z/ (!1!E/!5!B/.A/) z/ (!1!D/!4!A/.^G/) | %12
+ z/ (!2!^G/!1!A/B/ c/!2!B/!1!c/d/ e/^d/!1!e/!2!^f/ !3!=g/f/g/a/ | %13
+!f! .b/) (!2!^f/!4!a/g/) z/ (!2!^d/!4!f/.e/) z/ (!2!^c/!4!e/.=d/) z/ (!1!B/!4!d/.=c/) | %14
+ z/ (!2!^A/!4!c/B/) z/ (!2!^G/!4!B/.=A/) z/ (!2!^F/!4!A/.=G/) z/ (!1!F/!5!e/d/ | %15
+ .G)!p! !4!c/"_cresc."B/ z/ (!1!B/!4!e/d/) z/ (!1!d/!4!a/g/) z/ (!1!g/c'/b/) | %16
+!mf! z/ (b/e'/d'/)"_dim." z/ (!1!f/c'/b/) z/ (!1!d/a/g/) .!3!G/ (!1!B/!4!e/d/) | %17
+!p! z/ (!1!d/g/f/) z/ (!1!B/!4!e/d/)!<(! z/ (d/!5!a/g/) .G/ (B/e/d/) | %18
+ z/!<)! (d/a/g/)"_poco a poco ritenuto" z/ (d/a/g/) z/ (!1!c/!5!g/^f/) ._A/ (c/g/=f/) | %19
+!>(! z/ (!1!c/!4!f/e/) z/ (c/f/_e/) z/ (c/f/=e/)!>)! z/ (!1!B/!4!e/d/)!D.C.! |] %20
+V:2
+ !tenuto!!3!!1![CE]4 !tenuto![CE]4 | !tenuto![DF]4 !tenuto![DF]4 | !tenuto![CE]4 !tenuto![CE]4 | %3
+ !4!!2![B,D]2 [CE]2 [B,F]2 z2 | !tenuto![CE]4 !tenuto![CE]4 | !tenuto![DF]4 !tenuto![DF]4 | %6
+ !tenuto![CE]4 !tenuto![DF]4 | (!>!!5!!4!!1![G,B,F]4 .[CE]2) z2 |] z2 D4 D2- | D2 D4 D2- | %10
+ D z[K:treble] (!4!D2 G2 ^F2 | !1!E2 !2!D2 C2 B,2 | !tenuto!!1!E4 !tenuto!E3 _E | %13
+ .!4!!1![B,D]) z .!5!!1![CG] z .!4!!1![DG] z .!4!!2![^D^F] z | %14
+ .[EG] z .!4!!2![CE] z .!3!!1![B,D] z[K:bass] ([D,A,C]2 | [G,B,]) z z2 z4 | z8 | z8 | z8 | %19
+ z4 z2 !tenuto![G,=F]2 |] %20
+V:3
+ z2 G,4 G,2- | G,2 G,4 G,2- | G,2 G,4 G,2- | G, G,2 G,2 z z2 | z2 G,4 G,2- | G,2 G,4 G,2- | %6
+ G,2 G,4 G,2 | x8 |] !tenuto!G,4 !tenuto!G,4 | !tenuto!!5!^F,4 !tenuto!F,4 | !4!G, z[K:treble] x6 | %11
+ x8 | !3!C8 | x8 | x6[K:bass] x2 | x8 | x8 | x8 | x8 | x8 |] %20
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] x8 | x8 | x8 | x8 | x8 | x8 | x8 | %15
+ x2 .!2!G/ x3/2 .!2!B/ x3/2 .!2!d/ x3/2 | .!2!g/ x3/2 .!2!d/ x3/2 .!1!B/ x7/2 | %17
+ .!1!B/ x3/2 .!3!G/ x3/2 .B/ x7/2 | .B/ x3/2 .B/ x3/2 .A/ x7/2 | .!1!G/ x3/2 .^F/ x3/2 .G/ x7/2 |] %20
+

@@ -1,0 +1,168 @@
+X:1
+T:1. Berceuse (Lullaby)
+T:3. Le Jardin de Dolly (Dolly's Garden) 
+T:Gabriel Fauré
+C:Gabriel Fauré
+%%score { 1 | 2 } { ( 3 5 ) | ( 4 6 ) }
+L:1/8
+Q:1/4=69
+M:3/4
+K:E
+V:1 treble nm="Prima" snm="P."
+V:2 treble 
+V:3 bass nm="Seconda" snm="S."
+V:5 bass 
+V:4 bass 
+V:6 bass 
+V:1
+"^Andantino""_dolce"!mp! (!fermata!G!fermata!FEG Bc/d/ | e^B c2!p! !fermata!=B2) | %2
+!mp! (!fermata!cdeg fe/d/ | =d=c/!fermata!B/ A>!fermata!=G F2) | %4
+!<(! (!fermata!^G!fermata!FEG!<)!!>(! c!fermata!B/!fermata!^A/)!>)! | %5
+!<(! (!fermata!GFEG!<)!!>(! e!fermata!d/!fermata!c/)!>)! | %6
+!p! (=c>!fermata!_d c>!fermata!_e c>!fermata!_B | %7
+ =c>!fermata!_B !fermata!_A>!fermata!=G !fermata!=F!fermata!^F) | %8
+"_sempre dolce"!mp! (!fermata!g!fermata!feg bc'/d'/ | e'^b c'2!p! !fermata!=b2) | %10
+!mp! (!fermata!c'd'e'g' f'e'/d'/ | !fermata!=d'=c'/!fermata!b/!>(! a>!fermata!=g f2)!>)! | %12
+!p!"_cresc." (!fermata!^g!fermata!feg c'b/!fermata!a/) | %13
+!<(! (!fermata!_a_g=fa =f'_e'/!fermata!_d'/)!<)! | %14
+!f! (!fermata!b>!fermata!c' !fermata!b>!fermata!=d'!>(! b/^a/!courtesy!^g/a/!>)! | %15
+ !fermata!b/c/e/!fermata!g/ b2 e') !fermata!z | %16
+!pp!!8va(! (!fermata!g'/!fermata!e'/c'/g/)!8va)! (g/e/c/[Q:1/4=71]"^71"G/) x2 | %17
+!8va(! (a'/e'/c'/a/)!8va)! (a/e/c/A/) x2[Q:1/4=69]"^69" | %18
+!8va(! (!fermata!a'/f'/b/a/)!8va)! (a/!fermata!f/!fermata!B/A/) x2 | %19
+!8va(! (g'/e'/c'/g/)!8va)! (g/e/c/G/) x2 | %20
+!8va(! (!fermata!g'/!fermata!e'/c'/g/)!8va)! (g/e/c/[Q:1/4=72]"^71"G/) x2 | %21
+!8va(! (g'/e'/c'/g/)!8va)! (g/e/c/G/) x2[Q:1/4=69]"^69" | %22
+!8va(! (!fermata!g'/!fermata!e'/c'/g/)!8va)! (g/e/c/G/) x2 | %23
+!8va(! (!fermata!g'/d'/^b/g/)!8va)! (g/d/!fermata!^B/G/) x2 |!mp! (e'2 c'2 g2[Q:1/4=72]"^71" | %25
+ e2 f>g a>c'[Q:1/4=69]"^69" | e'2 d'>!fermata!c' b2 | c'2 g4) |!mp! (e'2 c'2 g2[Q:1/4=72]"^71" | %29
+ ^a>b c'>d' !fermata!e'>!fermata!f'[Q:1/4=69]"^69" | g'2 f'>!fermata!e' d'2) | (d'2!p! g4) | %32
+!p! z6 | (^b>c' d'>e' f'>!fermata!g') | z6 | (!fermata!=c>!mp!=d e>=f =g>!fermata!_a) | %36
+!p! (=a2 b2 ^b2) | (^b>c' d'>!fermata!e' !fermata!f'>!fermata!g') | %38
+"^Rall." z2 d>!fermata!e !fermata!f>!fermata!g- | %39
+"_dolce espressivo"!mp!"^a Tempo" (!fermata!g!fermata!feg bc'/d'/ | e'^b c'2!p! !fermata!=b2) | %41
+!mp! (!fermata!c'd'e'g' f'e'/d'/ | !fermata!=d'=c'/!fermata!b/!>(! a>!fermata!=g f2)!>)! | %43
+!p!!<(! (!fermata!^G!fermata!FEG!<)!!>(! c!fermata!B/!fermata!^A/)!>)! | %44
+!<(! (!fermata!B^AGB d!fermata!c/!fermata!B/)!<)! | %45
+ (!fermata!f>!fermata!=g !fermata!f>!fermata!b f/e/=d/e/ | %46
+!>(! f/=g/a/!fermata!^a/ !fermata!b/!fermata!^b/!fermata!c'/!fermata!d'/!>)!!p! e') !fermata!z | %47
+!pp!!8va(! (!fermata!=g'/!fermata!e'/=c'/=g/)!8va)! (=g/e/=c/=G/) x2 | %48
+!p! (^g>a g>!fermata!^a !fermata!g>!fermata!b) | %49
+!pp!!8va(! (!fermata!=g'/!fermata!e'/=c'/=g/)!8va)! (=g/e/=c/=G/) x2 | %50
+!pp! (^g>a g>^a !fermata!g>b | %51
+ ^g>!fermata!=a !fermata!g>!fermata!^a!>(! !fermata!g>!fermata!b!>)! | [ge']6) |] %53
+V:2
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | (GFEG Bc/d/ | e^B c2 =B2) | (cdeg fe/d/ | %11
+ =d=c/B/ A>=G F2) | (^GFEG cB/A/) | (_A_G=FA =f_e/_d/) | (B>c B>=d B/^A/!courtesy!^G/A/ | %15
+ B/) z/ z (([Bd]2 [Be])) z |!ped! x4 (E/G/c/e/)!ped-up! |!ped! x4 (E/A/c/!fermata!e/)!ped-up! | %18
+!ped! x4 (!fermata!D/F/A/d/)!ped-up! | %19
+!ped! x4!ped-up!!ped! (^B,/F/!fermata!G/!fermata!^B/)!ped-up! |!ped! x4 (E/G/c/e/)!ped-up! | %21
+!ped! x4 (G/c/e/g/)!ped-up! | %22
+!ped! x4!ped-up!!ped! (!fermata!^^F/c/!fermata!d/!fermata!^^f/)!ped-up! | %23
+!ped! x4 (^F/!fermata!G/!fermata!^B/!fermata!^f/)!ped-up! |!p!!ped! (e2 c2 G2)!ped-up! | %25
+!ped! z2!ped-up!!ped! (F>G!ped-up!!ped! A>c!ped-up! |!ped! e2 d>c!ped-up!!ped! B2!ped-up! | %27
+!ped! c2) z2 z2!ped-up! |!p!!ped! (e2 c2) z2!ped-up! | %29
+!ped! (^A>B!ped-up!!ped! c>d!ped-up!!ped! e>f!ped-up! |!ped! g2 f>e!ped-up!!ped! d2)!ped-up! | %31
+!ped! (d2 G4)!ped-up! | (A2 B2 ^B2) |!ped! (^B>c!ped-up!!ped! d>e!ped-up!!ped! f>g)!ped-up! | %34
+ (A2!p! B2 ^B2) | z6 | (=A2 B2 ^B2) |!ped! (^B>c!ped-up!!ped! d>e!ped-up!!ped! f>g)!ped-up! | %38
+!ped! !fermata!^B>!fermata!c!ped-up!!ped! z2!ped-up!!ped! z2!ped-up! | (GFEG Bc/d/ | e^B c2 =B2) | %41
+ (cdeg fe/d/ | =d=c/B/ A>=G F2) | z2 z2 E2 |!ped! (D2!ped-up!!ped! E2!ped-up!!ped! ^E2)!ped-up! | %45
+ (F>=G F>B F/!courtesy!=E/=D/E/ | F/=G/A/^A/ B/^B/c/!courtesy!^d/ e) z | %47
+!ped! x4 (E/=G/=c/e/)!ped-up! |!ped! (e>B!ped-up!!ped! e>^A!ped-up!!ped! e>!courtesy!^G)!ped-up! | %49
+!ped! x4 (E/=G/=c/e/)!ped-up! |!ped! (e>B!ped-up!!ped! e>^A!ped-up!!ped! e>!courtesy!^G!ped-up! | %51
+!ped! e>B!ped-up!!ped! e>^A!ped-up!!ped! e>G!ped-up! |!ped! [Be]6)!ped-up! |] %53
+V:3
+!p! z/ (B,,/G,/B,/) z/ (G,/C/E/) z/ (F,/B,/F/) | z/ (E,/^B,/!fermata!E/)[K:treble] (GE F2) | %2
+ z/ (G,/B,/G/) z/ (G,/^A,/E/) z/ (F,/B,/F/) |[K:bass] z/ (=D,/=G,/=D/) (E!courtesy!=A, B,2) | %4
+!<(! z/ (E,/^G,/B,/) z/ x/ (D!<)!!>(! C2)!>)! |!<(! z/ (E,/^G,/B,/) z/ x/ (D!<)!!>(! C2)!>)! | x6 | %7
+ x4 _A,/!fermata!=C/^D/!fermata!^C/ |!p! z/ (B,,/G,/B,/) z/ (G,/C/E/) z/ (F,/B,/F/) | %9
+ z/ (E,/^B,/!fermata!E/)[K:treble] (GE F2) |[K:bass] z/ (G,/=B,/G/) z/ (G,/^A,/E/) z/ (F,/B,/F/) | %11
+!p! z/ (=D,/=G,/=D/) (E!courtesy!=A,!>(! B,2)!>)! | %12
+"_cresc." z/ (E,/^G,/B,/) z/ (G,/C/E/) z/ (F,/C/!courtesy!^D/) | %13
+!<(! (=F,/_D,/_G,/_D/) (_A,/D,/F,/!fermata!D/) z/ (!fermata!A,/D/=F/)!<)! | %14
+[K:treble][I:staff +1] (B,,/[I:staff -1]!courtesy!^G,/.[B,E])[I:staff +1] (=D,/[I:staff -1]G,/.[B,E])!>(![I:staff +1] (C,/[I:staff -1]G,/.[B,^E])!>)! | %15
+!p![I:staff +1] (G,/[I:staff -1]B,/.[B,=E]) (A,/!fermata!B,/!fermata!D/!fermata!A/) [G,EG] z | %16
+"^marcato""_espressivo"!mp! (E2 C2 G,2 |[I:staff +1] E,2 F,>G, A,>C) |[I:staff -1] (E2 D>C B,2 | %19
+!p! C2 G,4) |!mp! (E2 C2 G,2 | ^A,>B, C>D !fermata!E>!fermata!F) | (G2 F>E D2 | [G,^B,D]2!p! G,4) | %24
+!p! !fermata!z/"_sempre legato"[I:staff +1] !fermata!G,/C/G,/ E,/G,/C/G,/[I:staff -1] !>!E2 | %25
+ C/E/A/E/ A,/C/E/C/[K:bass] E,/A,/C/!fermata!A,/ | %26
+x/A,/C/G,/x/!fermata!C/!fermata!E/B,/[K:treble]!fermata!x/D/A/!fermata!D/ | !>!E>!>!F !>!G4 | %28
+ !fermata!z/[I:staff +1] !fermata!G,/C/G,/ E,/G,/C/G,/[I:staff -1] !>!G2 | %29
+ E/B,/[I:staff +1]E,/[I:staff -1]B,/ B,/E/G/E/ G,/B,/E/B,/ | %30
+[K:bass] !>!^A,>!>!B, !>!C>!>!!fermata!E[K:treble] !>!G>!>!!fermata!^^F | %31
+ !>!G/D/^B,/D/[K:bass] ^A,/^B,/D/B,/ G,/B,/!fermata!D/!fermata!B,/ | %32
+ F,/=C/E/C/ =G,/B,/E/B,/ F,/A,/E/A,/ | F,/A,/D/A,/ E,/G,/C/G,/ D,/F,/^B,/F,/ | %34
+ F,/=C/E/C/ =G,/B,/E/B,/ F,/A,/E/A,/ |!p! =G,2 _B,2 _A,2 |!p! !>!F,2 !>!=G,2 !>!F,2 | %37
+ !>!F,2 !>!E,2 !>!D,2 | %38
+"^Rall." z/ !fermata!F,/G,/F,/ z/ !fermata!F,/!fermata!A,/F,/ z/ !fermata!E,/!fermata!^A,/E,/ | %39
+"^a Tempo" z/ (!fermata!B,,/G,/B,/) z/ (G,/C/E/) z/ (F,/B,/F/) | %40
+ z/ (E,/^B,/!fermata!E/)[K:treble] (GE F2) | z/ (G,/B,/G/) z/ (G,/^A,/E/) z/ (F,/B,/F/) | %42
+[K:bass] z/ (=D,/=G,/=D/) (E!courtesy!=A,!>(! B,2)!>)! | %43
+!p! z/ (B,/^G,/B,/) z/ (B,/E,/B,/) z/ (G,/E,/G,/) | %44
+!<(! z/ (^^F,/D,/F,/) z/ (G,/E,/G,/) z/ (C,/B,/C,/)!<)! | %45
+!p![I:staff +1] (^F,,/[I:staff -1]=D,/[A,=D])[I:staff +1] (G,,/[I:staff -1]F,/[B,D])[I:staff +1] (A,,/[I:staff -1]=G,/[A,C]) | %46
+!>(![I:staff +1] (=C,/[I:staff -1]!fermata!F,/[A,=D])[K:treble][I:staff +1] (B,,,/[I:staff -1]!fermata!A,/!fermata![^DA])!>)!!p! [G,EG] z | %47
+[K:bass]"_marcato"!p! (E2 =C2 =G,2) |!pp! z/ (B,,/E,/^G,/ B,/G,/E,/B,,/) z/ (E,/G,/B,/) | %49
+!p! (E2 =C2 =G,2) |!pp! z/ (B,,/E,/^G,/ B,/G,/E,/B,,/) z/ (E,/G,/B,/) | %51
+ z/ (E,/G,/B,/) z/ (B,/!fermata!G,/E,/) z/!>(! (!fermata!E,/!fermata!G,/B,/)!>)! | [G,E]6 |] %53
+V:4
+!mp!!ped! (E,,2!ped-up!!ped! B,,2!ped-up!!ped! A,,2!ped-up! | %1
+!ped! G,,2!ped-up!!ped! A,,2!ped-up!!ped! D,2)!ped-up! | %2
+!ped! (E,2!ped-up!!ped! C,2!ped-up!!ped! D,2!ped-up! | %3
+!ped! B,,2!ped-up!!ped! C,,2!ped-up!!ped! ^D,,2)!ped-up! | %4
+!p!!ped! (B,,2!ped-up!!ped! ^A,,2!ped-up!!ped! D,,2)!ped-up! | %5
+!ped! (B,,2!ped-up!!ped! ^A,,2!ped-up!!ped! D,,2)!ped-up! | %6
+!p!!ped! (!fermata!_A,,/_E,/!ped-up![I:staff -1].[_A,=C_E])!ped![I:staff +1] (!fermata!_D,/_A,/!ped-up![I:staff -1].[C=F])!ped![I:staff +1] (!fermata!_E,,/=G,/!ped-up![I:staff -1].[_DE]) | %7
+!ped![I:staff +1] (_A,,/!fermata!_E,/!ped-up![I:staff -1].[_A,=C_E])!ped![I:staff +1] (=C,,/!fermata!=E,/!ped-up![I:staff -1]!fermata![_B,C])[I:staff +1] (=C,=B,,) | %8
+!mp!!ped! (E,,2!ped-up!!ped! B,,2!ped-up!!ped! A,,2!ped-up! | %9
+!ped! G,,2!ped-up!!ped! A,,2!ped-up!!ped! D,2)!ped-up! | %10
+!ped! (E,2!ped-up!!ped! C,2!ped-up!!ped! D,2!ped-up! | %11
+!ped! B,,2!ped-up!!ped! C,,2!ped-up!!ped! ^D,,2)!ped-up! | %12
+!p!!ped! B,,2!ped-up!!ped! ^A,,2!ped-up!!ped! (!>!G,,2!ped-up! | _A,,2) _B,,2 (!>!_C,2 | %14
+!f! =B,,2) =D,2 C,2 | G,2 [B,,,B,,]2 E,, z |!ped! [C,,C,]6!ped-up! | %17
+!ped! F,,6!ped-up!!ped!!ped-up!!ped!!ped-up! |!ped! [B,,,B,,]6!ped-up!!ped!!ped-up! | %19
+!ped! [E,,E,]4!ped-up!!ped! [D,,D,]2!ped-up! |!ped! [C,,C,]6!ped-up! | %21
+!ped! [E,G,]6!ped-up!!ped!!ped-up!!ped!!ped-up! |!ped! ^A,2 G,2!ped-up!!ped! ^^F,2!ped-up! | %23
+!ped! [G,,,G,,]6!ped-up! |!ped! [C,,C,]6!ped-up! |!ped! F,,6!ped-up!!ped!!ped-up!!ped!!ped-up! | %26
+!ped! [B,,,B,,]6!ped-up!!ped!!ped-up!!ped!!ped-up! | %27
+!ped! E,,2- [E,,E,]2!ped-up!!ped! [D,,D,]2!ped-up! |!ped! [C,,C,]6!ped-up! | %29
+!ped! G,,4!ped-up!!ped!!ped-up!!ped! =D,,2!ped-up! | %30
+!ped! ^D,,4-!ped-up!!ped!!ped-up!!ped! [D,,D,]2!ped-up! | %31
+!ped! [G,,,G,,]6!ped-up!!ped!!ped-up!!ped!!ped-up! |!ped! z6!ped-up!!ped!!ped-up!!ped!!ped-up! | %33
+!ped! [^G,,,^G,,]6!ped-up!!ped!!ped-up!!ped!!ped-up! |!ped! z6!ped-up!!ped!!ped-up!!ped!!ped-up! | %35
+!ped! [=C,,=C,]6!ped-up!!ped!!ped-up!!ped!!ped-up! |!ped! z6!ped-up!!ped!!ped-up!!ped!!ped-up! | %37
+!ped!!mp! [^G,,,^G,,]6!ped-up!!ped!!ped-up!!ped!!ped-up! | %38
+!ped! (=D,2!ped-up!!ped! C,2!ped-up!!ped! =C,2)!ped-up! | %39
+!mp!!ped! (E,,2!ped-up!!ped! B,,2!ped-up!!ped! A,,2!ped-up! | %40
+!ped! G,,2!ped-up!!ped! A,,2!ped-up!!ped! D,2)!ped-up! | %41
+!ped! (E,2!ped-up!!ped! C,2!ped-up!!ped! D,2!ped-up! | %42
+!ped! B,,2!ped-up!!ped! C,,2!ped-up!!ped! ^D,,2)!ped-up! | %43
+!p!!ped! (E,2!ped-up!!ped! D,2!ped-up!!ped! C,2)!ped-up! | %44
+!ped! (C,2!ped-up!!mp!!ped! B,,2!ped-up!!ped! G,,2)!ped-up! | %45
+!ped! F,,2!ped-up!!ped! ^G,,2!ped-up!!ped! A,,2!ped-up! | %46
+!ped! =C,2!ped-up!!ped!!mf! x2!ped-up! E,, z |!p!!ped! [E,,,E,,]6!ped-up! | %48
+!ped! E,,4!ped-up!!ped! B,,2!ped-up! |!ped! [E,,,E,,]6!ped-up! | %50
+!ped! E,,4!ped-up!!ped! B,,2!ped-up! |!ped! (C,2!ped-up!!ped! ^A,,2!ped-up!!ped! B,,2)!ped-up! | %52
+!ped! [E,,B,,]6!ped-up! |] %53
+V:5
+ x6 | x2[K:treble] G/C/!fermata!E/!fermata!G,/ F/[I:staff +1](A,/!fermata!=B,/!fermata!F,/) | x6 | %3
+[I:staff -1][K:bass] x2 E/!fermata!=G,/!fermata!A,/E,/ B,/(!fermata!F,/!fermata!A,/!fermata!B,,/) | %4
+ x5/2 G,/D/E,/ C/E,/^^F,/E/ | x5/2 G,/D/E,/ C/!fermata!E,/^^F,/E/ | x6 | x4 (_A,=A,) | x6 | %9
+ x2[K:treble] G/C/!fermata!E/!fermata!G,/ F/[I:staff +1](A,/!fermata!=B,/!fermata!F,/) | %10
+[I:staff -1][K:bass] x6 | %11
+ x2 E/!fermata!=G,/!fermata!A,/E,/ B,/!fermata!F,/!fermata!A,/!fermata!B,,/ | x6 | x6 | %14
+[K:treble] x6 | x6 | x6 | x6 | A,6 | G,2 x4 | x6 | x6 | C6 | x6 | x4 E/C/[I:staff +1]G,/E,/ | %25
+ !>!C2 !>!A,2[I:staff -1][K:bass] !>!E,2 | !>!F,>!>!G, !>!A,>!>!B,[K:treble] !>!C>!>!D | %27
+x/[I:staff +1]C/G,/[I:staff -1]F/x/[I:staff +1]C/F,/!fermata!C/[I:staff -1] z/[I:staff +1] ^B,/!fermata!F,/!fermata!B,/ | %28
+ x4[I:staff -1] G/E/C/G,/ | !>!E2 !>!B,2 !>!G,2 | %30
+[K:bass]x/G,/C,/B,/x/^A,/G,/E/[K:treble]x/[I:staff +1]C/!fermata!^A,/[I:staff -1]^^F/ | %31
+ x2[K:bass] ^A,2 G,2 | x6 | x6 | x6 | =G,/!fermata!_B,/E/B,/ B,/=C/E/C/ _A,/C/E/C/ | %36
+ F,/=C/E/C/ =G,/B,/E/B,/ F,/A,/E/A,/ | F,/A,/D/A,/ E,/G,/C/G,/ D,/F,/^B,/F,/ | x6 | x6 | %40
+ x2[K:treble] G/!fermata!C/E/!fermata!G,/ F/[I:staff +1]A,/!fermata!=B,/!fermata!F,/ | x6 | %42
+[I:staff -1][K:bass] x2 E/!fermata!=G,/!fermata!A,/E,/ B,/!fermata!F,/!fermata!A,/!fermata!B,,/ | %43
+ x6 | x6 | x6 | x2[K:treble] x4 |[K:bass] x6 | x6 | x6 | x6 | x6 | x6 |] %53
+V:6
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | D,6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %38
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %53
+

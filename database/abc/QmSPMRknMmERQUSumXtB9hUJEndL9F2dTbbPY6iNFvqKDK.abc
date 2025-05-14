@@ -1,0 +1,66 @@
+X:1
+T:Bist Du bei mir
+T:Bist Du bei mir
+T:from the lost opera "Diomedes"
+T:Gottfried Heinrich Stölzel
+T:J. S. Bach
+C:Gottfried Heinrich Stölzel
+Z:Gottfried Heinrich Stölzel
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=72
+M:3/4
+K:Eb
+V:1 treble nm="Stimme"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+ B2 e3 f | d4 z2 | e2 A2 A2 | A4 G2 | z B (dB) (=AB) | F B (dB) (=AB) | E2 (c3 d/e/) | %7
+w: Bist Du bei|mir,|geh' ich mit|Freu- den|zum Ster- * ben *|und zu mei- * ner *|Ruh', zum _ _|
+ d3/2 c/ B3/2 c/ F3/2 =A/ | B4 z2 :| e2 (ge) (_dc) | c6 | a2 f3 e | Td4 e2 | z e (ge) (de) | %14
+w: Ster- ben und zu mein- ~ner|Ruh|Bist Du * bei *|mir,|geh' ich mit|Freu- den|zum Ster- * ben *|
+ B e (ge) (de) | A2 (f3 g/a/) | g3/2 f/ e3/2 f/ B3/2 d/ | e4 z2 | g2 e3 d | c4 z2 | f2 B3 c | %21
+w: und zu mei- * ner *|Ruh', zum _ _|Ster- ben und zu mein- er|Ruh'.|Ach, wie ver-|gnügt|wär' so mein|
+ (=A2 GA) F2 | z c (ec) (=Bc) | G c (ec) (=Bc) | (F=E) F2 (d3/2e/4f/4) | e3/2 d/ c3/2 d/ G3/2 =B/ | %26
+w: En- * * de|es drück- * ten *|dei- ne schö- * nen *|Hän- * de mir _ _|die ge- treu- en Au- gen|
+ c6 | F2 e3 f | d4 z2 | e2 A2 A2 | A4 G2 | z B (dB) (=AB) | F B (dB) (=AB) | (ED) E2 (c3/2d/4e/4) | %34
+w: zu.|Ach, wie ver-|gnügt|wär' so mein|En- de,|es drück- * ten *|dei- ne schö- * nen *|Hän- * de mir _ _|
+ d3/2 c/ B3/2 c/ F3/2 =A/ | B6 | e2 (ge) (_dc) | c6 | a2 f3 e | Td4 e2 | z e ge de | B e ge de | %42
+w: die ge- treu- en Au- gen|zu.|Bist Du * bei *|mir,|geh' ich mit|Freu- den|zum Ster- * ben *|und zu mei- * ner *|
+ A2 (f3 g/a/) | g3/2 f/ e3/2 f/ B3/2 d/ | !fermata!e6 |] %45
+w: Ruh', zum _ _|Ster- ben und zu mein- er|Ruh'.|
+V:2
+ (B2 c4) | B4 z2 | (B2 (A4 | A4) G2) | G4 (dB) | F4 (dB) | E2 c2 =A2 | (B2 G2 [F=A]2) | [FB]4 z2 :| %9
+ (B2 G2) _d2 | c4 B2 | (A2 c2 e2) | (dcBA G2) | c4 (ge) | B4 (ge) | A2 (f2 d2) | (e4 d2) | e4 z2 | %18
+ (G4 B2) | (B2 =A4) |!<(! (B4 G2!<)! |!>(! F2 =E2 C2)!>)! | [CE]4 (ec) | [CE]4 (ec) | (F=E F2) d2 | %25
+ (c4 [FG=B]2) |!>(! c6!>)! |!p! (F2 c2 =A2 | B4) z2 |!<(! (B2 (A4!<)! | A4) G2) | G4 (dB) | %32
+ F4 (dB) | E2 (c2 =A2) | (B4 =A2) | B4 z2 |!p! (B2 G2 _d2 | c4 B2) | (A2 c2 e2) | %39
+!>(! (dcBA) G2!>)! | z4 (ge) | (de) z2 (ge) | (de) (f2 d2) | e2 [ce]2 d2 | e6 |] %45
+V:3
+ (G4 A2) | F4 z2 | B,2 CD E2 | F2 D2 E2 | [B,D]4 x2 | [B,D]4 x2 | B,2 C2 (F2 | (F2) E2 C2) | %8
+ D4 x2 :| (E6 | (E4) =E2) | (F6 | F4) E2 | [EG]4 x2 | [EG]4 x2 | E2 F2 B2 | (B2 c2 [FB]2) | %17
+ [GB]4 z2 | E6 | C4 F2 | F2 D2 E2 | C2 B,2 =A,2 | =A,4 x2 | G,4 x2 | C4 [FA]2 | G2 C2 F2 | [EG]6 | %27
+ C6 | F4 x2 | B,2 C3 G | F2 D2 E2 | [B,D]4 x2 | [B,D]4 x2 | B,2 C2 (F2 | F4) [CF]2 | [DF]4 x2 | %36
+ (E6 | E4) =E2 | (F6 | F4) E2 | z4 x2 | x6 | x2 F2 B2 | B2 F2 [AB]2 | [GB]6 |] %45
+V:4
+!p! (E,2 C,2 F,2) | B,,2 (B,2 A,2 |!<(! G,2 F,2 E,2!<)! |!>(! D,2 B,,2 E,2)!>)! | %4
+!p!!ped! (.=E,,2 .E,,2 .E,,2)!ped-up! |!ped! (.F,,2 .F,,2 .F,,2)!ped-up! | %6
+"^cresc." G,,2 (=A,,2 F,,2) |!mf! (B,,2 [E,,E,]2 [F,,F,]2) | %8
+!>(!!ped! B,,2 (B,A,G,F,)!>)!!ped-up! :|!p! (G,2 E,2 G,2 | A,2) (CA,) (A,G,) | %11
+!<(! (F,2 A,2 F,2)!<)! |!>(! B,3 =B, C2!>)! |!p!!ped! (.=A,,2 .A,,2 .A,,2)!ped-up! | %14
+!ped! (.B,,2 .B,,2 .B,,2)!ped-up! |"^cresc." .C,2 (D,2 B,,2) |!mf! (E,2 A,,2 B,,2) | %17
+!>(! .E,,2 (G,F,E,D,)!>)! |!ped! C,2 (C2 C,2)!ped-up! | F,2 (F,,2 E,,2 | D,,2 G,,2 E,,2) | %21
+ F,,4 z2 |!p!!ped! (.^F,,2 .F,,2 .F,,2)!ped-up! |!ped! (.G,,2 .G,,2 .G,,2)!ped-up! | %24
+"^cresc." A,,4 =B,,2 |!mf!!ped! (C,2 E,,2 G,,2)!ped-up! | C,2 (C2 B,2 | =A,4 F,2) | B,,2 (B,2 A,2 | %29
+ G,2 F,2 E,2 |!ped!!>(! D,2 B,,2 E,,2)!ped-up!!>)! |!ped! (.=E,,2 .E,,2 .E,,2)!ped-up! | %32
+!ped! (.F,,2 .F,,2 .F,,2)!ped-up! |"^cresc." .G,,2 (=A,,2 F,,2) | %34
+!mf!!ped! (B,,2 D,,2 F,,2)!ped-up! |!>(! B,,2 (B,2 A,2!>)! | G,2 E,2 G,2) | A,2 (CA,) (A,G,) | %38
+ (F,2 A,2 F,2) | B,3 =B, C2 | [E,G,]6 | [E,G,]6 | A,2 (D,2 B,,2) |!mf! E,2 [A,,A,]2 [B,,B,]2 | %44
+!ped! !fermata![E,,E,]6!ped-up! |] %45
+V:5
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 :| x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %38
+ x6 | x6 | (.=A,,2 .A,,2"^cresc." .A,,2) | (.B,,2 .B,,2 .B,,2) | [C,E,]2 x4 | x6 | x6 |] %45
+

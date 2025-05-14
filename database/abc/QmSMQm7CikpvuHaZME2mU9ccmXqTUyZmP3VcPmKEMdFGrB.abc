@@ -1,0 +1,24 @@
+X:1
+T:Sousuke no Namida
+T:Sosuke no Namida
+T:Gake no ue no Ponyo
+T:Joe Hisaishi
+C:Joe Hisaishi
+%%score { 1 | 2 }
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ z[Q:1/4=68]"^Adagio" FGd | c4- cF_Gd | c4- cd B>G | B4- Bd B>G | B4 z FGd | c4- cF_Gd | %6
+ c4- cd f>d | B4- Bd f>d | B4- BBeg ||"^A" [cf]2 B2 [FA]Beg | [Af]2 B2 cafd || cddB c4 | %12
+ cddB c2"C" B_G | [DF]2 d3 Beg | %14
+"^rit."[Q:1/4=68] [cf]2[Q:1/4=66] B2[Q:1/4=64] [FA][Q:1/4=63]B[Q:1/4=62]e[Q:1/4=61]g[Q:1/4=67][Q:1/4=65] | %15
+[Q:1/4=60] f2- !fermata!f z z4 |] %16
+V:2
+ z4 | E,,B,,F,G, D4 | E,,C,_G,A,- A,4 | G,,D,A,B, F4 | G,,D,A, B,3 z2 | E,,B,,F,G, D z z2 | %6
+ E,,C,_G,A,- A,4 | D,,D,F,B,- B,4 | D,,D,F,B,- B,2 [B,,E,]2 || B,,F,B,D z2 [B,,E,]2 | %10
+ D,,A,,D,F, A,4 ||[K:treble] [DEG]2 [DEG]2 [DEG]2 [DEG]2 | [CD_G]2 [CDG]2 [CDG]2 [CDG]2 | %13
+[K:bass] [B,,F,]2 A,2 _A,2 [B,,E,]2 | B,,F,B,D z2 [B,,E,]2 | D,,A,,[D,F,] z z4 |] %16
+

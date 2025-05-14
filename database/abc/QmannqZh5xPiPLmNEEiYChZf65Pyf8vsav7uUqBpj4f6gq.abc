@@ -1,0 +1,28 @@
+X:1
+T:Title
+%%score 1 2 3 4
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Part_1"
+V:2 treble-8 nm="Part_2"
+V:3 treble-8 nm="Part_3"
+V:4 bass nm="Part_4"
+V:1
+ D8 | F8 | G8 | A8 | A8 | A8 | B8 | A8 | G8 | F8 | G8 | F4 E4- | E2 D2 D4- | D4 ^C4 | D8 || D8 | %16
+ F8 | G8 | A8 | A8 | A8 | A8 | _B8 | A8 | G8 | F8 | G8 | F8- | F4 E4- | E4 D4- | D4 ^C4 | D8- | %32
+ D8 |] %33
+V:2
+[K:C] A8- | A4 B4 | c8 | A6 B2 | c4 f4 | e4 f4 | d4 G4 | A6 B2 | c3 B G4 | A8 | G8 | z4 c4- | %12
+ c4 A4- | A8 | A8 || A8- | A4 B4 | c8 | A8 | d2 e2 f4- | f8 | e4 f4 | d4 G4 | A6 B2 | c3 B G4 | %25
+ A8 | z4 e4 | d8- | d4 c4- | c4 A4- | A8 | F6 G2 | A8 |] %33
+V:3
+[K:C] d8- | d8 | e8 | c8 | A6 B2 | c4 d4- | d4 e4 | f8 | e4 c4 | d8 | B4 c4 | A8 | G4 F4 | E8 | %14
+ D8 || d8- | d8 | e8 | c8 | d8 | A6 B2 | c4 d4- | d4 e4 | f8 | e4 c4 | d8 | B4 c4 | A8 | A8 | %29
+ G4 F4 | E8 | D8- | D8 |] %33
+V:4
+[K:C] D,8- | D,8 | C,8 | F,8 | F,6 G,2 | A,4 D,4 | G,8 | D,4 F,4 | C,4 E,4 | D,8 | E,4 C,4 | %11
+ D,4 A,,4 | C,4 D,4 | A,,8 | [D,A,]8 || D,8- | D,8 | C,8 | F,8 | D,6 E,2 | F,3 D, F,2 G,2 | %21
+ A,4 D,4 | G,8 | D,4 F,4 | C,4 E,4 | D,8 | E,4 C,4 | D,8- | D,4 A,,4 | C,4 D,4 | A,,8 | A,8- | %32
+ A,8 |] %33
+

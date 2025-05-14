@@ -1,0 +1,42 @@
+X:1
+T:Pequeña serenata nocturna
+T:Pequeña serenata nocturna
+T:W. A. Mozart
+T:Macarena Iniesta
+T:Macarena Iniesta
+C:W. A. Mozart
+Z:Macarena Iniesta
+%%score 1 2 3 4
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Violín" snm="Vln."
+V:2 treble nm="Violín" snm="Vln."
+V:3 bass nm="Violonchelo" snm="Vc."
+V:4 treble transpose=-2 nm="Clarinete en Si♭" snm="Cl. Si♭"
+V:1
+!f! G2 z D G2 z D | GDGB d2 z2 | c2 z A c2 z A | cAFA D2 z2 |!mf! .G2 G2- G(BAG) | %5
+ (GF) F2- F((AcF)) | (AG) G2- G((BAG)) | (GF) F2- F(AcF) |!mf! .G.G (G/F/E/F/) .G.G (B/A/G/A/) | %9
+ .B.B (d/c/B/c/)!>(! d4!>)! |!p! d4 e4 |!<(! (dc) c2 (cB) B2!<)! | (BA) A2 (GF)(EF) | %13
+ .G2 .A2!>(! B4!>)! |!p! d4 e4 |"^rit." (dc)cc (cB)BB | (BA)AA (GF)EF | G4 z4 | %18
+ z2 (G/D/G/B/) d2 F2 | G8 | (G/D/G/B/) d2!f! F2 G2 | z2 .G2 z2 .G2 | G>G G6 |] %23
+V:2
+!f! G2 z D G2 z D | GDGB d2 z2 | c2 z A c2 z A | cAFA D2 z2 |!mf! .G2 G2- G(BAG) | %5
+!<(! (GF) F2- FAcF!<)! | (AG) G2- G!<(!(BAG)!<)! | (GF) F2- F(AcF) | %8
+!mf! .G.G (G/F/E/F/) .G.G (B/A/G/A/) | .B.B (d/c/B/c/)!>(! d4!>)! |!p! B4 c4 | %11
+!<(! (BA) A2 (AG) G2!<)! | (EA) A2 (CF)(EF) | .G2 .F2!>(! G4!>)! |!p! B4 c4 | (BA)AA (AG)GG | %16
+ (EA)AA (CF)EF | G4 z4 | z2 (G/D/G/B/) d2 F2 | G8 | (G/D/G/B/) d2 F2 G2 | z2 .G2 z2 .G2 | G>G G6 |] %23
+V:3
+!f! G,2 z D, G,2 z D, | G,D,G,B, D2 z2 | C2 z A, C2 z A, | CA,F,A, D,2 z2 | %4
+!p! .[B,D].[B,D].[B,D].[B,D] .[B,D].[B,D].[B,D].[B,D] | .[CD].[CD].[CD].[CD] .[CD].[CD].[CD].[CD] | %6
+ .[B,D].[B,D].[B,D].[B,D] .[B,D].[B,D].[B,D].[B,D] | .[CD].[CD].[CD].[CD] .[CD].[CD].[CD].[CD] | %8
+ B,2 C2 D2 z2 | G,2 A,2 B,4 | z8 | F,4 G,4 | C,4 D,4 |!>(! .B,,2 .D,2!>)! G,4 | z8 | F,4 G,4 | %16
+ C,2 C,2 D,2 D,2 | [G,B,]6 (D/B,/G,/B,/) | D2 z4 [CD]2 | [G,B,]4 (D/B,/G,/B,/) D2 | %20
+ z2 z2 [CD]2 [G,B,]2 | D,D, [G,B,]2 D,D, [G,B,]2 | G,,>G,, G,,6 |] %23
+V:4
+[K:A]!f! A2 z E A2 z E | AEAc e2 z2 | d2 z B d2 z B | dBGB E2 z2 |!mf! .A2 A2- A(cBA) | %5
+ (AG) G2- G((BdG)) | (BA) A2- A((cBA)) | (AG) G2- G(BdG) |!mf! .A.A (A/G/F/G/) .A.A (c/B/A/B/) | %9
+ .c.c (e/d/c/d/)!>(! e4!>)! |!p! e4 f4 |!<(! (ed) d2 (dc) c2!<)! | (cB) B2 (AG)(FG) | %13
+ .A2 .B2!>(! c4!>)! |!p! e4 f4 |"^rit." (ed)dd (dc)cc | (cB)BB (AG)FG | A4 z4 | %18
+ z2 (A/E/A/c/) e2 G2 | A8 | (A/E/A/c/) e2!f! G2 A2 | z2 .A2 z2 .A2 | A>A A6 |] %23
+

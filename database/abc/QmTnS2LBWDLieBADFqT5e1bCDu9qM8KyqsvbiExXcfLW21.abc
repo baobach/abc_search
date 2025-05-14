@@ -1,0 +1,72 @@
+X:1
+T:Odette solo
+T:Odette solo
+T:Swan Lake, Piano Arrangement for 3 hands
+T:Hinci
+C:Hinci
+%%score { ( 1 4 ) | ( 2 5 ) | 3 }
+L:1/8
+Q:3/8=52
+M:6/8
+K:E
+V:1 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:2 bass 
+V:5 bass 
+V:3 bass 
+V:1
+"^Moderato assai." z2 z [B,EG]2 z | z2 z [B,EG]2!mp! (B | e2) (d{d)e} f>.e.g | B3- B2 (B | %4
+ c2) .^B{Bc} d>.c.e | F3- F.F.^E | (GF) z z .B.^A | (cB) z z .e.d | f (!>!e2 [F-d]) (c2 | %9
+ [Fe]) (!>!d2 c)(B!mp!([Bb] | [ee']2)) .[dd']{d'e'} [ff']>.[ee'].[gg'] | [Bb]3- [Bb]2 ([Bb] | %12
+ [cc']2) .[^B^b]{bc'} [dd']>.[cc'].[ee'] | [Ff]3- [Ff]([Ff][Ee] | [^^C^^c][Dd]) z z ([^cc'][Bb] | %15
+ [^A^a][Bb]) z z ([ff'][ee'] | [^B^b][cc']) z z ([gg'][ff'] | [Bb]) z z z2!mp! (B | %18
+ e2) (d{d)e} f>.e.g | B3- B2 (B | c2) .^B{Bc} d>.c.e | F3- F.F.^E | (GF) z z .B.^A | %23
+ (cB) z z .e.d | f (!>!e2 [F-d]) (!>!c2 | [Fe]) (!>!d2 c)(B!mp!([Bb] | %26
+ [ee']2)) .[dd']{d'e'} [ff']>.[ee'].[gg'] | [Bb]3- [Bb]2 ([Bb] | %28
+ [cc']2) .[^B^b]{bc'} [dd']>.[cc'].[ee'] | [Ff]3- [Ff]([Ff][Ee] | [^^C^^c][Dd]) z z ([^cc'][Bb] | %31
+ [^A^a][Bb]) z z ([ff'][ee'] | [^B^b][cc']) z z ([gg'][ff'] | [Bb]) z2 z2 B | %34
+"^Molto più mosso."[Q:1/4=104] c>(de/f/) (g2 ^B) | c>(de/f/) (g2 ^B) | %36
+ (c/f/g/c/f/c/) (g/B/e/B/g/B/) | (d/A/f/A/d/A/) (f/G/c/G/e/G/) | c>(de/f/) (g2 ^B) | %39
+ c>(de/f/) (g2 ^B) | (c/f/g/c/f/c/) (g/B/e/B/g/B/) | %41
+ c/A/g/A/!<(!d/B/ e/([Ee]/[Ff]/[Gg]/[Aa]/[Bb]/)!<)! | %42
+!ff! [cc']>([dd'][ee']/[ff']/) ([gg']2 [^B^b]) | [cc']>([dd'][ee']/[ff']/) ([gg']2 [^B^b]) | %44
+ c/[cc']/g/[gg']/f/[ff']/ g/[gg']/e/[ee']/g/[gg']/ | %45
+ d/[dd']/f/[ff']/d/[dd']/ f/[ff']/c/[cc']/e/[ee']/ | [cc']>([dd'][ee']/[ff']/) ([gg']2 [^B^b]) | %47
+ [cc']>([dd'][ee']/[ff']/) ([gg']2 [^B^b]) | c/[cc']/g/[gg']/f/[ff']/ g/[gg']/e/[ee']/g/[gg']/ | %49
+ [cc']([gg'][dd'] [ee'])[Ee] !fermata!z |] %50
+V:2
+!p! E,2 z z2 z | E,2 z z2 z | E,2 z [B,EG]2 z | E,2 z [B,EG]2 z | E,2 z [CEG]2 z | %5
+ F,2 z [A,CF] z z | B,2 [B,DF] A,2 [B,DF] | G,2 [B,EG] E,2 [^B,EG] | C,2 [CEG] F,2 [^A,EF] | %9
+ [D,B,]2 [B,DF] F,2 [A,B,F] | [E,G,B,E]2 z [B,G]2 (B,, | [E,G,]2) .^^F,{F,G,} A,>.G,.B, | %12
+ .E,2 z [CDG]2 C, | C6 | .F,([G,B,D][F,B,D] ^E,[F,B,D])[B,D] | %15
+ G,([B,CE][B,E] [E,^^F,][G,CG])[C,G,C] | F,([^A,CF][A,CE] [A,^B,][F,CE])[F,CE] | B,3- B, z z | %18
+!p! E,2 z [B,EG]2 z | E,2 z [B,EG]2 z | E,2 z [CEG]2 z | F,2 z [A,CF] z z | B,2 [B,DF] A,2 [B,DF] | %23
+ G,2 [B,EG] E,2 [^B,EG] | C,2 [CEG] F,2 [^A,EF] | [D,B,]2 [B,DF] F,2 [A,B,F] | %26
+ [E,G,B,E]2 z [B,G]2 (B,, | [E,G,]2) .^^F,{F,G,} A,>.G,.B, | .E,2 z [CDG]2 C, | C6 | %30
+ .F,([G,B,D][F,B,D] ^E,[F,B,D])[B,D] | G,([B,CE][B,E] [E,^^F,][G,CG])[C,G,C] | %32
+ F,([^A,CF][A,CE] [A,^B,][F,CE])[F,CE] |!mp!!>(! B,3-!>)!!p! B, z z | [A,,A,]CC .G,^B,B, | %35
+ [A,,A,]CC .G,^B,B, | [A,,A,]CC [B,,B,][B,E][B,E] | [^B,,^B,][A,D][A,D] [C,C][G,C][G,C] | %38
+ [A,,A,]CC .G,^B,B, | [A,,A,]CC .G,^B,B, | [A,,A,]CC [B,,B,][B,E][B,E] | %41
+ .[B,,C]2 [B,,B,] [E,B,] z z |!f! [A,,A,][F,CDF][F,CDF] [G,,G,][G,^B,DG][G,B,DG] | %43
+ [A,,A,][F,CDF][F,CDF] [G,,G,][G,^B,DG][G,B,DG] | [A,,A,][F,CF][F,CF] [B,,B,][B,EGB][B,EGB] | %45
+ ^B,,[A,DFA][A,DFA] C,[G,CEG][G,CEG] | [A,,A,][F,CDF][F,CDF] [G,,G,][G,^B,DG][G,B,DG] | %47
+ [A,,A,][F,CDF][F,CDF] [G,,G,][G,^B,DG][G,B,DG] | [A,,A,][F,CF][F,CF] [B,,B,][B,EGB][B,EGB] | %49
+ [B,,,B,,]2 [B,,,B,,] [E,,E,][E,,E,] !fermata!z |] %50
+V:3
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %18
+[K:treble] z/!mp! .E/.D/.C/.B,/.A,/ .G, z z | z/ .G/.F/.E/.D/.C/ .B, z z | %20
+ z/ .c/.B/.A/.G/.F/ .E z z | z/ .f/.a/.g/.f/.c/ .A z z | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %30
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %49
+!ff! [DAd]2 [B,AB] [B,EGB] z !fermata!z |] %50
+V:4
+ x6 | x6 | [E-G-B]6 | [EG]6 | [EG]6 | [A,C]3- [A,C] z z | [^B,DF]6 | [EG]6 | G6 | x6 | x6 | x6 | %12
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | [^B,DF]6 | [EG]6 | G6 | x6 | x6 | x6 | x6 | x6 | %30
+ x6 | x6 | x6 | x6 | z FF z GG | z FF z GG | z FF z GG | z FF z EE | z FF z GG | z FF z GG | %40
+ z FF z GG | .[FA]2 [FA] [EG] z z | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %50
+V:5
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | [B,E]6 | [CE]6 | %13
+ [F,A,]2 .G,{G,A,} [B,C]>.A,.C | B,,3 A,,3 | G,,3 E,,3 | F,,3 ^A,,3 | D!mp![^A,EG]F B, z z | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | [B,E]6 | [CE]6 | [F,A,]2 .G,{G,A,} [B,C]>.A,.C | %30
+ B,,3 A,,3 | G,,3 E,,3 | F,,3 ^A,,3 | D[^A,EG]F B, x2 | z2 C ^B,>(DE/F/) | z2 C ^B,>(DE/F/) | x6 | %37
+ x6 | z2 C ^B,>(DE/F/) | z2 C ^B,>(DE/F/) | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %50
+

@@ -1,0 +1,40 @@
+X:1
+T:O gloriosa Virginum
+T:O gloriosa Virginum
+T:uit Twee Hymnes voor Onze Lieve Vrouw
+T:Jef Tinel (1885-1972)
+T:Ad van de Wege
+C:Jef Tinel (1885-1972)
+Z:Ad van de Wege
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+M:4/2
+K:C
+V:1 treble nm="Orgel" snm="Org."
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+"^I" (A4 | A4) G4 E4 D4 | G4 A4 c8 | c4 d4 e4 c4 | d4 c4 B8 | A16 ||"^II" z8 z4 [CEA]4 | %7
+ [CFA]4 [B,DG]4 [A,CE]4 [G,B,D]4 | [DG]4 [FA]4 c8 | [EGc]4 [FAd]4 [GBe]4 [FAd]4 | %10
+ [Ec]4 [DB]4 [CG]4 [B,F]4 | (!fermata!E8"^III" E2) z2 ([DFA]4 | A4) G4 E4 D4 | %13
+ [B,DG]8 [CFA]4 ([EGc]4 | c2) B2 A4 [GB]8 | [DFA]4 [FAd]8 [DGB]4 | %16
+ [EFc]4 [DB]2 [CA]2 [DFB]2 [CEA]2 [B,DG]4 | [A,EA]8 [GBd]8 |[M:2/2] [DEGB]4 [C^FAd]4 | %19
+[M:4/2] [^FAd]8 [Gce]4 [=FBd]4 |[M:4/4] [EGc]4 ([DFB]4 |[M:4/2] [CFA]4) ((([DB]4 [DGB]4))) [CDA]4 | %22
+ C8 B,8 | c4 B2 c2 d4 B4 | F8 F4 E2 D2 | [EA]16 |] %26
+V:2
+ z4 | [A,,E,]4 [B,,D,]4 [C,G,]4 [D,F,]4 | [E,G,]4 [D,F,]4 [C,G,]8 | C4 B,4 C2 B,2 A,4 | %4
+ A,8 A,4 G,4 | [A,,E,]16 || z8 z4 A,,4 | D,4 E,4 G,4 F,4 | E,4 D,4 A,8 | G,8 E,4 G,4 | %10
+ A,4 E,4 F,4 D,4 | ((!fermata![A,,C]8 [A,,C]2)) z2 (C4 | B,8) [F,A,]8 | E,8 D,4 A,4 | A,4 B,4 E,8 | %15
+ B,4 C2 B,2 G,4 E,4 | D,8 E,8 |"_zonder ped." A,,8 z8 |[M:2/2] z8 |[M:4/2] B,8 (A,8 |[M:4/4] A,8) | %21
+[M:4/2]!ped! D,8 E,4 F,4!ped-up! | z16 | A,4 D2 C2 B,4 D4 | D,8 E,8 | A,,16 |] %26
+V:3
+ x4 | C4 D4 C4 A,4 | C4 F8 E4 | E4 G8 A2 G2 | F4 (E4 E2) F2 E2 D2 | D4 C2 B,2 C8 || x16 | x16 | %8
+ B,4 C4 [EG]4 [DF]4 | x16 | G8 A8 | (A8 A2) x6 | [DF]8 C8 | x16 | [DF]8 D8 | x16 | x16 | %17
+ x8 ^F4 E2 D2 |[M:2/2] x8 |[M:4/2] x16 |[M:4/4] x8 |[M:4/2] x16 | [DG]16 | G8 A8 | %24
+ [Ec]2 [DB]2 [CA]4 [DB]4 [CA]2 [B,G]2 | x16 |] %26
+V:4
+ x4 | x16 | x16 | A,4 G,2 F,2 E,4 F,2 E,2 | D,2 F,2 A,2 C,2 E,8 | x16 || x16 | x16 | x16 | x16 | %10
+ x16 | x16 | x16 | x16 | x16 | x16 | x16 | x16 |[M:2/2] x8 |[M:4/2] x16 |[M:4/4] x8 |[M:4/2] x16 | %22
+ G,8 F,8 | E,8 F,8 | x16 | A,2 B,2 A,2 B,2"_tijdsduur 1'40''" ^C8 |] %26
+

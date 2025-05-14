@@ -1,0 +1,45 @@
+X:1
+T:The School Of Velocity 
+T:Carl Czerny (1791-1857)
+T:Op. 299, No. 4
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=90
+M:6/8
+K:C
+V:1 treble nm="Piano"
+V:2 bass 
+V:1
+"C""^4." z/ !3!C/!4!D/!3!C/!2!B,/!1!C/"G/B" z/ !3!D/!4!E/!3!D/!2!^C/!1!D/ | %1
+"C" z/ !3!E/F/E/^D/!1!E/"G/D" z/ !3!F/G/F/E/!1!F/ | %2
+"C/E" z/ !3!G/A/G/^F/!1!G/"F" z/ !3!A/B/A/^G/!1!A/ | %3
+"G7/F" z/ !3!B/c/B/^A/!1!B/"Am" z/ !3!c/d/c/B/!1!c/ | %4
+"Dm/F" z/ !3!d/e/d/^c/!1!d/"A7" z/ !3!e/f/e/^d/!1!e/ |"Dm" z/ !3!f/g/f/e/!1!f/"C7" z/ g/a/g/^f/g/ | %6
+"F" z/ a/=b/a/^g/a/"E7" z/ b/c'/b/^a/b/ |"Am" z/ c'/d'/c'/b/c'/"G7/B" z/ d'/e'/d'/^c'/d'/ | %8
+"C" !3!e'/!2!^d'/!3!e'/!4!f'/e'/=d'/"C/E" !1!c'/!2!b/!3!c'/!4!d'/c'/b/ | %9
+"F" !1!a/!2!^g/!3!a/!4!b/a/=g/"F/A" !1!f/e/!3!f/g/f/e/ | %10
+"G/B" !1!d/^c/!3!d/e/d/=c/"G/D" !1!B/^A/!3!B/c/B/=A/ | %11
+"C/E" !1!G/^F/!3!G/A/G/=F/"C/G" !1!E/^D/!3!E/F/E/=D/ | %12
+"Am"[I:staff +1] !1!C/B,/!3!C/D/C/B,/"Am/C" !1!A,/^G,/!3!A,/B,/A,/=G,/ | %13
+"Dm" !1!F,/E,/!3!F,/G,/F,/E,/"Dm/F" !1!D,/^C,/!3!D,/E,/D,/=C,/ | %14
+"G" !1!B,,/!3!D,/E,/D,/^C,/!1!D,/ !2!^F,/!3!G,/A,/G,/F,/!1!G,/ | %15
+"G7"[I:staff -1] !2!^A,/!3!B,/C/B,/A,/!1!B,/ !2!^C/!3!D/E/D/C/!1!D/ | %16
+"C" !2!^D/!3!E/=F/E/D/!1!E/ !2!^F/!3!G/A/G/F/!1!G/ | %17
+"F" !2!^G/!3!A/B/A/G/!1!A/ !2!B/!3!c/=d/c/B/!1!c/ | %18
+"C/G" !2!^d/!3!e/f/e/d/!1!e/ !2!^f/!3!g/=a/g/f/!1!g/ | %19
+"G7" !2!^a/!3!b/c'/b/a/!1!b/ !2!^c'/!3!=d'/e'/d'/c'/!1!d'/ | %20
+"C"!8va(! !2!^d'/!3!e'/=f'/e'/d'/!1!e'/ !2!^f'/!3!g'/a'/g'/f'/!1!g'/ | %21
+"F" !2!^g'/!3!a'/b'/a'/g'/!1!a'/ !2!b'/!3!c''/!4!=d''/!3!c''/!2!b'/!5!c''/ | %22
+"C" !2!^f'/!3!=g'/a'/g'/f'/!1!g'/ !2!b'/!3!c''/d''/c''/b'/c''/ | %23
+"C" !5!e'' z z"G7" [=f'g'b'd''] z z |"C" [e'g'c''] z!8va)! z4 | %25
+[I:staff +1] [E,G,C][I:staff -1] z z4 |] %26
+V:2
+ !2![C,E,] z z [B,,G,] z z | [C,G,] z z !5![=D,G,B,] z z | !4![E,G,C] z z !3![=F,A,C] z z | %3
+ [F,G,D] z z !4![E,G,C] z z | !3!!1![F,A,] z z !5![^C,G,A,] z z | !5![D,F,A,] z z !5![E,_B,C] z z | %6
+ !5![F,A,C] z z !5![^G,DF] z z |[K:treble] [A,CE] z z [B,FG] z z | [CEG] z z !2!E z z | %9
+ !1!F z z[K:bass] !5!A, z z | !4!B, z z !2!D z z | !1!E z z !5!G,, z z | !4!A,, z z !2!C, z z | %13
+ !1!D, z z F,, z z | G,, z z z2 z | [G,,B,,D,=F,]3 z2 z | [C,E,G,C]2 z z2 z | %17
+ [F,,A,,C,F,]2 z z2 z | [G,,C,E,G,]2 z z2 z | [G,DF]2 z[K:treble] [B,FG]2 z | [CEGc]2 z z2 z | %21
+[K:bass] [F,A,CF]2 z z2 z | [G,CE]6- | [G,CE] z z [G,,B,,D,G,] z z | [C,E,G,C]2 z2 z2 | %25
+ [C,,G,,C,]2 z4 |] %26
+

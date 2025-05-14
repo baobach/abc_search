@@ -1,0 +1,63 @@
+X:1
+T:English Suite I Prelude
+T:BWV 806
+T:J. S. Bach
+%%score { ( 1 3 4 5 ) | ( 2 6 ) }
+L:1/8
+M:12/8
+K:A
+V:1 treble nm="Harp"
+V:3 treble 
+V:4 treble 
+V:5 treble 
+V:2 bass 
+V:6 bass 
+V:1
+ z6 z3/2 A/G/F/ E/G/B/ d/c/B/ | A/B/c/ d/e/f/ g/a/b/ g/e/g/ a3- a3- | agf efd c3- c2 e/4d/4c/4d/4 | %3
+ edc BcA G3- G2 A | Bcd cdB c3- c2 d | ef=g fge f/4e/4f3/2 e d2 e | fga bga g3- g2 a/4g/4a/ | %7
+ bag fge ^def- f3- | fBe- ee^d edc BcA | G2 A A/4G/4A/4G/4A/4G/4A/4G/4F E6- | E^DC B,=DC DEF EFD | %11
+ AGF E=GF GAB ABG | FGA B2- B- BAG AFG | ^E6- EFG CFE | FGA B3- Bcd cdB | %15
+ ABG A/4G/4A/4G/4A/4G/4A/4G/4 F fed cdB | ^A2 B B/4A/4B/4A/4B/4A/4B/4A/4G F6- | FG^A BAc d6- | %18
+ dcB e3- edc dfe | f6- f=ga b=c'a | =gfe dec f2 g d/4c/4d/4c/4d/4c/4d/4c/4 B | bag fge ^def Bcd | %22
+ eBe- eed- ddc- cBA | G6 GAB cBd | c6- cde fe=g | f6- fga bfa | gfe a3- agf gef | =g6 f6 | %28
+ e6 d3- dcB | c6 cdc BcA | A/4G/4A/4G/4A/4G/4A/4G/4A/4G/4A/4G/4 A/4G/4A/4G/4AB EDC B,CA, | %31
+ edc Bdc d6- | d3 c3- cdc B=cA | G3- GBG EeA- ABG | agf efd c2 d d/4c/4d/4c/4d/4c/4d/4c/4B | %35
+ ABc dfe fde fag | a12 |] %37
+V:2
+ A,,/C,/E,/ A,/G,/F,/ E,/G,/B,/ D/C/B,/ A,/C/[I:staff -1]E/[I:staff +1] z3/2 z3/2 z3/2 | z12 | %2
+ A,2 z z3 z6 | z6 EDC B,CA, | G,3- G,2 E, A,G,F, E,F,D, | z z E, A,3- A,A,=G, F,G,E, | %6
+ ^D,2 F, D,2 B,, E,=D,C, B,,C,A,, | z B,,E, z C,F, B,,B,C ^DCB, | EG,A, B,A,B, z z F, G,2 A, | %9
+ B,2 z z3 z6 | G,,2 A,, G,,F,,E,, F,,G,,A,, G,,A,,B,, | A,,2 B,, C,B,,A,, B,,C,D, C,D,E, | %12
+ D,E,F, G,,A,,B,, F,,/4^E,,/4D,,/4E,,/4F,,/4E,,/4F,,/4E,,/4F,,/4E,,/4D,,/4E,,/4 F,,=E,,D,, | %13
+ C,,6- C,,3- C,,2 C, | D,3 ^D,3 E,3 ^E,3 | F,3- F,F,^E, F,2 G, ^A,2 B, | C2 z CDB, ^A,2 B, A,2 G, | %17
+ F,2 E, D,2 C, B,,2 z z3 | z12 | F,G,^A, B,A,C D3- D2 ^D | EF=G FGE DFE FCE | %21
+ ^D3- D2 E FB,A, G,A,F, | E,F,G, A,F,B, G,E,A, ^D,3 | E,6- E,F,G, A,G,B, | A,6- A,B,C DCE | %25
+ D6 z3 z3 | E,6- E,3- E,ED | CDB, CB,A, D3- DB,D | %28
+ G,B,E, A,C,E, F,,3 F,,/4G,,/4A,,/4G,,/4A,,/4G,,/4A,,/4G,,/4A,,/4G,,/4F,,/4G,,/4 | %29
+ A,,C,E, A,A,,C, D,,3 C,,/4^D,,/4E,,/4D,,/4E,,/4D,,/4E,,/4D,,/4E,,/4D,,/4C,,/4D,,/4 | %30
+ E,,2 z z3 z6 | E,2 F, G,2 A, B,2 z z3 | G,,F,,E,, A,,B,,C, D,C,E, D,E,=F, | z6 C3 B,3 | %34
+ C2 D C2 B, A,6 | CDE FDC DFE DFE | F[I:staff -1]AG A3- A6 |] %37
+V:3
+ x12 | z6 ag/f/e/d/ z/ B/A/G/A/E/- | E2 z z3 AGF EFD | C3- C2 D E6- | E2 B, E3- E2 z z3 | x12 | %6
+ z6 e6- | e3 z3 z3 BcA | G3 F3 E6- | E[I:staff +1]^DC B,B,A, G,2 A, G,2 F, | E,6[I:staff -1] z6 | %11
+ C6 D3 E3- | E3 D3 C3- C2 B, | CB,A, G,B,A, B,6 |[I:staff +1] A,3- A,G,F, G,3- G,G,C | %15
+[I:staff -1] z6 F6- | FED z3 x ED CDB, | ^A,2 z z3 B,CD EDF | =G3- GFE B6 | ^ABc de=A B6- | %20
+ B6- B3 ^A2 B | B6- B3 B2 A | G3 F3 E3 z[I:staff +1] F,[I:staff -1]B,- | B,C^D EDF E6- | %24
+ EFG AGB A6- | ABc dce d6- | d3 cBA B3- Bcd | edf e3- eAc d3- | dGB c3- cBA B3- | BA=G FGE F6 | %30
+ EDC[I:staff +1] B,CA, G,2 A, G,2 F, |[I:staff -1] G,2 A, B,EF G3- G2 A | B3- BA=G F3 =F3- | %33
+ FED CDB, E3 D3 | A6- AGF EFD | A3- A3- A d2- d3- | d3- dcB c6 |] %37
+V:4
+ x12 | z6 z2 e- [ce-]3 | [ce]2 z z3 z6 | x12 | z6 A6- | A6- A6 | x12 | x12 | x12 | x12 | x12 | %11
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | z6 z3 F3 | x12 | x12 | x12 | %26
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | z6 z3 f3- | f3- fed e6 |] %37
+V:5
+ x12 | z6 z3 z2 A- | A2 z z3 z6 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %14
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %30
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 |] %37
+V:6
+ x12 | x12 | x12 | x12 | x12 | C,3- C,2 A,, D,3 z3 | x12 | G,,3 A,,3 B,,2 z z3 | z6 E,6- | %9
+ E,6- E,^D,C, B,,C,A,, | x12 | x12 | x12 | x12 | x12 | F,2 B,, C,3 [F,,F,-]3 F,3- | F,6- F,6- | %17
+ F,2 z z3 z6 | x12 | x12 | x12 | x12 | x12 | z z B,, G,,A,,B,, E,,2 z z3 | %24
+ z z E, C,D,E, A,,2 z z3 | z z A, F,=G,A, D,F,D, B,,D,B,, | x12 | x12 | x12 | x12 | x12 | %31
+ z6 E,D,C, B,,C,A,, | x12 | E,6- E,6 | A,6- A,6- | A,6- A,6- | A,6 A,,6 |] %37
+

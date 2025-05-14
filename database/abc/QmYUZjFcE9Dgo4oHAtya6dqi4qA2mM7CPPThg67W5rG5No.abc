@@ -1,0 +1,35 @@
+X:1
+T:Sweet and Low
+T:Sweet and Low
+T:Barnby
+C:Barnby
+%%score 1 2 3
+L:1/8
+M:6/8
+K:C
+V:1 treble nm="Flute" snm="Fl."
+V:2 treble transpose=-2 nm="B♭ Clarinet" snm="B♭ Cl."
+V:3 treble transpose=-2 nm="B♭ Clarinet" snm="B♭ Cl."
+V:1
+"^Larghetto"!pp! E2 E A3 | G2 G c3 | cBA G2 ^F | (A3 G2) z | E3 A3 | G2 !>!E !fermata!A3 | %6
+!p! dB!pp!c A2 B | (A3 G2) z |!mf! GBA GAG | GcA G3 |!pp! GBA GAG | Gc!>!^F G3 |!f! ccc c2 B | %13
+!<(! (A3 !fermata!_A3)!<)! |!p! G2 G G>AG | G2 G G>AG |!>(! (c6!>)! | c3-) c2 z |!pp! C2 C _E3 | %19
+ E2 E F3 | EEE D>DD | (D3 D2) z | C3 _E3 | E2!<(! E !fermata!^F3!<)! |!p! dBc A2 B | (A3 G2) z | %26
+!mf! GBA GAG | GcA G3 |!pp! F2 F F2 F | E2 !>!_E =E3 |!f! CEA ^G2 G | %31
+!>(!!>(! (F3 !fermata!^F3)!>)!!>)! |!p! C2 E D>DD | E2 _E D>D_D |!pp!!>(! (E3 F3)!>)! | E3- E2 z |] %36
+V:2
+[K:D]!pp! D2 D =F3 | F2 F G3 | DDD E2 E | (E3 E2) z | D3 =F3 | F2 !>!F !fermata!^G3 |!p! EED F2 E | %7
+ (D3 C2) z |!mf! ECD EDE | FF=F ^F3 |!pp! G2 G G2 G | F2 !>!=F ^F3 |!f! DFB ^A2 A | %13
+!<(! (G3 !fermata!^G3)!<)! |!p! D2 F E>EE | F2 =F E>E_E |!pp!!>(! (F3 G3)!>)! | F3- F2 z | %18
+!pp! A,2 A, ^G,3 | A,2 A, B,3 | A,ED C>CB, | (D3 C2) z | A,3 ^G,3 | D2!<(! D !fermata!E3!<)! | %24
+!p! EED F2 E | (D3 C2) z |!mf! ECD EDE | FF=F ^F3 |!pp! AcB ABA | Ad!>!^G A3 |!f! ddd d2 c | %31
+!>(!!>(! (B3 !fermata!_B3)!>)!!>)! |!p! A2 A A>BA | A2 A A>BA |!pp!!>(! (d6!>)! | d3-) d2 z |] %36
+V:3
+[K:D] A,2 A, ^G,3 | A,2 A, B,3 | A,ED C2 B, | (D3 C2) z | A,3 ^G,3 | D2 D !fermata!E3 | %6
+!p! CA,F, D2 ^G | (^G3 A2) z |!mf! CA,B, CB,C | DA,^G, A,3 |!pp! CA,B, CB,C | DB,!>!B, D3 | %12
+!f! B,DF F2 E |!<(! (D3 !fermata!=F3)!<)! |!p! ^F2 D C>CC | D2 D C>CC | %16
+!pp!!pp!!>(! (=C3 B,2) _B,!>)! | A,3- A,2 z |!pp! F2 F B3 | A2 A d3 | dcB A>A^G | (B3 A2) z | %22
+ F3 B3 | A2!<(! F !fermata!B3!<)! |!p! CA,F, D2 ^G | (^G3 A2) z |!mf! CA,B, CB,C | DF,^G, A,3 | %28
+!pp! CA,B, CB,C | DB,B, D3 |!f! B,DF F2 E |!>(! (D3 !fermata!=F3)!>)! |!p! ^F2 D C>CC | D2 D C>CC | %34
+!pp!!>(! (=C3 B,2) _B,!>)! | A,3- A,2 z |] %36
+

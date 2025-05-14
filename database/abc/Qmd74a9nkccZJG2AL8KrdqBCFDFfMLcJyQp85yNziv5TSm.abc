@@ -1,0 +1,46 @@
+X:1
+T:An die Musik
+T:Franz Schubert
+T:Franz Schubert: An die Musik (Mélisande on http://www.musescore.com)
+T:Franz Schubert: An die Musik (Mélisande on http://www.musescore.com)
+Z:Franz Schubert: An die Musik
+Z:(Mélisande on http://www.musescore.com)
+%%score 1 { 2 3 }
+L:1/8
+Q:1/4=60
+M:2/2
+K:F
+V:1 treble nm="Voice" snm="Voice\n"
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass nm="Piano"
+V:1
+"^Mäßig" z8 | z8 |: z2 c2 f2 f2 | A6 d2 |{d} F3 F AG FG | A2 F2 z4 | z2 c2 d2 d2 | E3 E F3 F | %8
+w: ||Du hol- de|Kunst, in|wie viel grau- * en _|Stun- den,|wo mich des|Le- bens wil- der|
+w: ||Oft hat ein|Sef- zer,|dei- ner Harf' _ ent- *|flo- ssen|ein sü- sser|hei- li- ger Ac-|
+ AG FG A4 | z8 | z2 f2 g3 B | (A2 c4) de | f3 a ge cB |{B} A2 A2 z2 c2 | d3 d d2 ef | f3 f a3 g | %16
+w: Kreis _ um- * strickt,||hast du mein|Herz _ zu _|war- mer Lieb' * ent- *|zun- den, hast|mich in ei- ne _|bess'- re Welt ent-|
+w: cord _ von _ dir,||den Him- mel|bess'- * rer _|Zei- ten mir _ er- *|schlo- ssen, du|hol- de Kunst ich _|dan- ke dir da-|
+{g} f4 z d e f | (f2 A) A (c2 E) E | F4 z4 | x8 | x8 | x8 :| x8 |] %23
+w: rückt, in ei- ne|bess'- * re Welt- * ent-|rückt.|||||
+w: für, du hol- de|Kunst, _ ich dan- * ke|dir.|||||
+V:2
+ [CFA][CFA][CFA][CFA] [CFA][CFA][CFA][CFA] | [CFc][CFc][CFc][CFc] [CEB][CEB][B,CEG][B,CEG] |: %2
+ [A,CF][CFA][CFA][CFA] [CFA][CFA][CFA][CFA] | [CFA][CFA][CFA][CFA] [A,FA][A,A][DFA][DFA] | %4
+ z [CFA][CFA][CFA] z [CEB][CEB][CEB] | z [CFA][CFA][CFA] [CFA][CFA][CFA][CFA] | %6
+ [CFc][CFc][CFc][CFc] [DFd][DFd][DFd][DFd] | z [G,B,E][G,B,E][G,B,E] z [F,A,F][F,A,F][F,A,F] | %8
+ z [B,CG][B,CG][B,CG] z [A,CA][A,CA][A,CA] | [CEG][CEG][CEc][CEc] [DFc][DFc][EGc][EGc] | %10
+ [FAc][FAc][FAc][FAc] [GBc][GBc][GBc][GBc] | [FAc][FAc][EGc][EGc] [DFc][DFc][EGc][EGc] | %12
+ [FAc][FAc][FAc][FAc] [GBc][GBc][GBc][GBc] | z [CFA][CFA][CFA] [CEB][CEB][_EFc][EFc] | %14
+ z [DFd][DFd][DFd]!p! z [FAd][FAd][FAd] | z [FAc][FAc][FAc] z [GAe][GAe][GAe] | %16
+ z [FAf][FAf][FAf] z [F_Ad][FAd][FAd] | z [F=Ac][FAc][FAc] z [B,CE][B,CE][B,CE] | %18
+ [A,CF][FAf][FAf][FAf] [FAf][FAf][GBe][Acf] | ([Fce][Bd]).[FBd].[FBd] [FBd][DBd][FBd][GBd] | %20
+ ([Bd][CAc]).[CAc].[CAc] [CAc][CAc][EAc][FAc] | %21
+ ([D^FAc][GB]).[DGB].[DGB] [EGB].[B,CEG].[B,CEG].[B,CEG] :| %22
+ ([B,CEG][A,CF]).[A,CF].[A,CF] [A,CF]2 z2 |] %23
+V:3
+!p! z2 (C,2 F,2) .F,2 | !>!A,,4 .C,2 .C,,2 |:!pp! F,,2 z2 z4 | z2 (A,,2 D,2) .=B,,2 | %4
+ C,2 z2 C,2 z2 | .F,2 (C,2 F,2) .F,2 | (A,,4 B,,4) | (C,2 ^C,2 D,4) | (E,4 F,4) | %9
+ (C,2 C2 =B,2 _B,2) | (A,2 F,2 E,2 C,2) | (F,2 C,C =B,2 _B,2) | (A,2 F,2 E,3 C,) | (F,4 G,2 A,2) | %14
+ (B,4 =B,4) |!<(! (C4!<)!!>(! ^C4)!>)! | (D4!p! =B,4) | (C4 C,4) |!<(! F,2 z2 z4!<)! | %19
+ [B,,,B,,]4 z .B,,.D,.E, | [F,,F,]4 z .F,.G,.A, | [B,,B,]4 C,4 :| [F,,F,]6 z2 |] %23
+

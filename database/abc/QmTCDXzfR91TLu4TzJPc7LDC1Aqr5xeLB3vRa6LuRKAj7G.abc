@@ -1,0 +1,40 @@
+X:1
+T:Air
+T:Johann S. Bach
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=72
+M:4/4
+K:D
+V:1 treble nm="Violin"
+V:2 treble nm="Organ"
+V:4 treble 
+V:3 bass 
+V:1
+!mp!"^Adagio" f8- | f!tenuto!b/!tenuto!g/ (e/d/c/d/) c2 B<A | %2
+ a4- a/(!tenuto!f/(=c/B/)) (e/^d/)(a/g/) | g4- g/(!tenuto!e/(B/A/)) (d/c/)(g/f/) | %4
+ f3 (^g/a/) d(d/4e/4f/- f/)(e/(e/d/)) | (c/B/)(B/4c/4d/- d)c/B/ A4 :: %6
+!mf! c2- c/(d/4c/4B/4c/4A/) a3 =c | (Bb- b/)a/g/f/{f} g2- (g/4f/4e/4d/4c/B/) | %8
+ ^A/B/c- c/d/e- e/f/g- gf | (e/d/)(c/B/) (c/d/4e/4d){c} B4 | d2- d/(f/e/d/) b3 (a/^g/) | %11
+ f/4e/4a/A (B3/2c/4d/4) (Tc>B) A2 |"Cpoco cresc."!p! d3 (f/e/) e3!mp! (g/f/) | f3!mf! (a/g/) g4 | %14
+ A2- A/(c/e/g/) g/e/(f- f3/2g/4a/4) |!mf! d2- d/!<(!(f/a/!<)!=c'/) b3 d | %16
+ c/e/ g2 B A(e/4f/4g/- g/)(fe/) | (d/4c/4Bc/) (dTc/)d/ d4 :| %18
+V:2
+!mp! [FAd]4 [FBd]4- | [FBd]2 [EB]2 [CEA]4- | [CEA](=c/B/ ca/c/ [FB]) z z2 | %3
+ Be/d/ e/f/g/e/ [EA] z z2 | A4- A^G/A/ BG | A A2 ^G [CEA]4 ::!mf! ([C-EA-]4 [CFA]/B/=c- c/B/A/G/) | %7
+ (F/G/A/F/ ^D)^d ([Ge-]4 | e4- e/d/c/B/ ^A/B/c) | BBB^A [DFB]4 | B,B (A/^G/A) (G>F G/A/B- | %11
+ B) A2 ^G A4- |!p! A(B/!<(!=c/ B/^c/d- d)(c/B/ c/^d/e-!<)! | e)(^d/c/ d/e/f-!mf! f/d/e/B/) G2- | %14
+ G/C/E/A/ cA- Ac/d/ [DA]2- | [DA]!mf![EG] [FA]2 [GB]4- | [GB]B (e2- e/d/c/B/) AB | %17
+ [FA]2 (TG/F/G) [A,DF]4 :| %18
+V:3
+ D,DCC, B,,B,A,A,, | G,,G,^G,^G,, A,,A,=G,=G,, | F,,F,E,E,, ^D,,^D,B,,B, | E,,E,D,D,, C,,C,A,,A, | %4
+ D,DCC, B,,B,^G,E, | A,D,E,E,, (A,,/B,,/C,/D,/ E,/G,/F,/E,/) :: A,,A,G,G,, F,,F,E,E,, | %7
+ ^D,,^D,F,B,, E,E=D=D, | C,CB,B,, ^A,,B,,C,A,, | B,,G,E,F, B,,B,A,A,, | ^G,,^G,F,F,, E,,E,D,D,, | %11
+ C,,C,D,E, A,,A,G,G,, |"Cpoco cresc." F,,F,G,G,, ^G,,^G,A,A,, | ^A,,^A,B,B,, E,EDD, | %14
+ C,CA,C DD,=C,=C | B,B,,A,,A, G,G,,F,,F, | E,E,,D,,D, C,A,,D,G, | A,G,A,A,, D,,4 :| %18
+V:4
+ x8 | x8 | x D- D [E=c] x4 | [EG] B2 e x4 | [DF]3 E FDB,E- | EFB,E x4 :: x5 ^D/E/ F2 | %7
+ F3 B B2 B,2 | C/D/E/F/ G/F/G/E/ FE/D/ CF | F(E/D/ GF/E/) x4 | E2 F2 B,E/F/ E2- | %11
+ EEFE (E>D C/D/E/C/) | A, D2 B- B E2 c- | c F2 ^d B2- B/(B/G/E/) | AGFE D2 x2 | x4 D4 | %16
+ E/(B,/E/G/ B/A/G/F/) E A2 G | x2 E2 x4 :| %18
+

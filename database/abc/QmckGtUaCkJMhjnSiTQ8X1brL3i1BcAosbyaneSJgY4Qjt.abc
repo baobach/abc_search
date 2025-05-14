@@ -1,0 +1,37 @@
+X:1
+T:J.S. BACH
+T:KOMM, SÜSSER TOD BWV 478
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=52
+M:3/4
+K:Eb
+V:1 bass nm="Violoncello" snm="Vc."
+V:2 treble nm="Klavier" snm="Klav."
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Lento Molto Expressivo" u!4!C2 !2!B,2 (!2!A,G,) |!>(! !fermata!G,6!>)! | u!2!E2 !1!D2 (!2!C=B,) | %3
+!>(! !fermata!=B,6!>)! |!<(! u!1!C2!<)! !3!D2 !4!E2 |!>(! (!4!A,2!>)! G,F,) G,2 | %6
+!>(! v!3!F,4 !breath!!fermata!E,2!>)! |!<(! v!4!G,2 !0!=A,2 =B,2 | (!1!C2 DE) (!3!D!1!C)!<)! | %9
+!>(! (!2!B,2!>)! !1!=A,2) !fermata!!1!G,2 | !1!B,2 !4!_D2 (CB,) | !2!A,2 (!1!G,2- G,A,/B,/) | %12
+ !fermata!A,6 | (!4!F!1!D) !4!B,2 !2!A,2 | (!1!G,2 !2!ED) E2 |!>(! !fermata!!1!D6!>)! | %16
+!p! u!1!E2 (GF) (!4!ED) |!<(! (CE DC) (!1!=B,C)!<)! |!>(! !4!G,6!>)! | %19
+"^(rit.)"!p! (u!2!A,G,) !4!E,2 (D,C,) | !fermata!C,6 |] %21
+V:2
+!p! c2 B2 AG | G6 | e2 d2 c=B | =B6 | c2 d2 e2 | A2 GF G2 | F4 E2 | G2 =A2 =B2 | %8
+!<(! c2 d!<)!!>(!e dc!>)! | B2 =A2 G2 | B2 _d2 cB | A2 G3 A/B/ | A6 | fd B2 A2 | G2 ed e2 | %15
+!>(! d6!>)! | e2 gf ed | ce dc =Bc |!>(! G6!>)! | AG E2 DC | C6 |] %21
+V:3
+ E2 F4- | F2 E4 | E2 A4- | A2 G4 | G2 F2 E2 | E6- | E2 D2 B,2 | G2 F4 | G2 =A2 B2 | B2 =A2 G2 | %10
+ =E2 F2 G2 | F4 =E2 | F6 | A2 FE FD | G4 F2 | F6 | B2 G2 B2 | A6 | D2 E4 | D2 C2 =B,2 | G,6 |] %21
+V:4
+ C,2 D,4 | E,6 | C,2 F,4 | G,4 F,2 | E,2 D,2 C,2- | C,2 D,2 E,2 | A,,2 B,,2 E,2 | E,4 D,2 | %8
+ E,2 ^F,,2 G,,2 | D,4 G,,2 | G,2 F,2 =E,2 | F,2 B,,2 C,2 | F,,2 F,G, F,E, | D,3 C, D,B,, | %14
+ E,2 C,2 F,2 | B,,2 B,C B,A, | G,F, E,2 G,2 | A,G, F,E, F,2- | F,2 E,D, E,C, | F,,2 G,,4 | %20
+ [C,E,]6 |] %21
+V:5
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | C,,6 |] %21
+

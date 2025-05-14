@@ -1,0 +1,23 @@
+X:1
+T:Wet Hands
+T:Wet Hands
+T:C418
+C:C418
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=80
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^\n" z2 z2 z4 | z8 :| ^G6 A2 | F6 EF | ^G6 Bc- |[K:D] c F4- Fce |[K:D] g3 f d2 AB- | B8 | %8
+ g2 f2 d2 AB- | B6 A2 | E8 | z4 CEAc- | c8 | [FBd]3 c A2 [Ee][Ff]- | [Ff] d4- dBc | %15
+ [GBd]2 c d2 f- f2 | c6 BA | B8 | z8 | gfed edef | e4 a4 | ^geB^G E4 | B^GEB, ^G,4- | G,8 |] %24
+V:2
+!ped! A,,E,A,B, CB,A,E, | D,F,CE C A,3 :| A,,E,A,B, CB,A,E, | D,F,CE C A,3 | A,,E,A,B, CB,A,E, | %5
+[K:D] D,F,CE C A,3 |[K:D] G,,B,,D,F, A,F,D,B,, | G,,B,,D,F, A,4 | G,,B,,D,F, A,F,D,B,, | %9
+ G,,B,,D,F, A,4 | A,,E,A,B, CB,A,E, | A,,C,E,A, z4 | z8 | B,,D,F,A, C4 | B,,D,F,A, C4 | %15
+ G,,B,,D,F, A,4 | [A,,C,E,]8 | E,,^G,,B,,E, ^G,E,B,,G,, | E,,^G,,B,,E, ^G,E, A,,2 | %19
+ G,,B,,D,F, A,F,D,B,, | A,,C,E,A, CB,A,E, | E,,^G,,B,,E, ^G,4 | E,,^G,,B,,E, ^G,4- | G,8!ped-up! |] %24
+

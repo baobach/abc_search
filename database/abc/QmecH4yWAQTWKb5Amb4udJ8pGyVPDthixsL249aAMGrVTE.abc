@@ -1,0 +1,85 @@
+X:1
+T:Schlechter Trost
+T:Schlechter Trost
+T:Ferruccio Busoni
+T:Johann Wolfgang von Goethe
+C:F. Busoni
+Z:W. Goethe
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=100
+M:2/2
+K:C
+V:1 bass nm="Baritone" snm="Bar."
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Andante tranquillamente" z2 | z8 | z8 | C3 C C4 | _D6 C2 | B,2 B,2 z4 | z4 G,2 G,2 | _B,6 A,2 | %8
+w: |||Mit- ter- nachts|weint und|schluchzt ich,|weil ich|dein ent-|
+ _A,2 A,2 z4 | C,4 C,2 C,2 | _D,6 _E,2 | C,4 C,4 | z4!p! _D,2 D,2 | _E,6 =D,2 | _D,8 | z8 | %16
+w: behr- te,|Da ka- men|Nacht- ge-|spen- ster,|und ich|schäm- te|mich.||
+!mf! z8 | !>!=E6 =D2 | C4 =B,2 z2 |!p! _B,4!mf! B,4 | =E4 D2 D2 | C4 =B,2 z2 | _B,4 B,2 B,2 | %23
+w: |Nacht- ge-|spen- ster,|sagt ich,|schluch- send und|wei- nend|fin- det ihr|
+ _B,4 _E,2 F,2 | ^F,4 F,4- | F,2 E,2 ^D,2 ^C,2 | E,2 ^D,2 D,4 | z8 | C6 C2 | ^C4 D2 C2 | A,4 A,4 | %31
+w: mich, dem ihr|sonst Schla-|* fen- dem, vor-|ü- ber- zogt.||Gro- sse|Gü- ter ver-|miss ich.|
+ E6 E2 | =C4 C2 C2 | E,4 E,2 =F,2 | G,8 | B,4 A,4 | A,4 G,4 | z8 | _A,6 A,2 | _B,4 B,2 _A,2 | %40
+w: Denkt nicht|schlim- mer von|mir, den ihr|sonst|wei- se|nann- tet;||gro- sses|ü- bel be-|
+ _A,4 A,4 | z8 | z8 | z8 | z4!p! G,2 _E,2 | C,6 C,2 | C,2 C,2 z2 =A,2 | G,4 G,2 =E,2 | C,2 C,2 z4 | %49
+w: trifft ihn!||||Und die|Nacht- ge-|spen- ter mit|lan- gen Ge-|sich- tern|
+ (C,2 ^C,2) D,2 _E,2 | _A,4 z4 | z4 G,2 _B,2 | A,2 ^C,2 D,2 =C,2 | B,,4 =F,4 | z8 | D,6 C,2 | %56
+w: zo- * gen vor-|bei,|ob ich|wei- se o- der|tö- rig,||völ- lig|
+ D,6 C,2 | D,2 z2 C,2 z2 | z8 | !fermata!z8 |] %60
+w: un- be-|küm- mert.|||
+V:2
+ c2 | B2 ^F2 G2 _B2 | A2 ^C2 D2 F2 | _A,2 F2 =A,2 F2 | _B,2 _D2 _B2 A2 | ^G2 ^D2 E2 =G2 | %6
+ ^F2 ^A,2 B,2 D2 | G,2 D2 ^F,2 D2 | =F,2 _A,2 F2 (C,2 | _E,2 _A,2 C2) (C,2 | F,2 _A,2 F2) (C,2 | %11
+ =E,2 =A,2 C2) C,2 | F,2 _A,2 F2 _D,2 | _G,2 _B,2 G,2 B,2 | E,2 A,2 E,2 A,2 | G,2 G2 G,2 G2 | %16
+ G,2 G2 G,2 G2 | G,2 G2 G,2 G2 | G,2 G2 G,2 G2 | G,2 G2 G,2 G2 | G,2 G2 G,2 G2 | G,2 G2 G,2 G2 | %22
+ G,2 G2 G,2 G2 | G,2 G2 G,2 G2 | G,2 G2 G,2 G2 | G,2 G2 G,2 G2 | ^F,2 ^F2 =F,2 F2 | %27
+ =D,2 =F2 D,2 F2 | E,2 A,2 E,2 E2 |[K:bass] E,2 _B,2 E,2 E2 | E,2 ^C2 E,2 E2 | =F,2 A,2 F,2 =C2 | %32
+ ^F,2 ^A,2 F,2 E2 | G,2 C2 G,2 G2 | G,2 E2 G,2 =F2 | G,2 _E2 G,2 F2 | G,2 _E2 G,2 =E2 | %37
+[K:treble] ([_B,_B]6 [_A,_A]2) | [_A,_A]6 z2 | ([_B,_B]6 [_A,_A]2) | [_A,_A]6 z2 | %41
+[K:bass] ([^F,^F]6 [E,E]2) | G,2 =C2 G,2 C2 | (G,2 _B,2 G,2 B,2 | %44
+ G,2 _B,2 G2)[K:treble]!p! [Cc]2- | [Cc]8- | [Cc]6!p! [Cc]2 | [Dd]2 [^F,^F]2 [G,G]2 [_B,_B]2 | %48
+ [A,A]2 D2 _E2 ([Gg]2 | [^F^f]2 [^C^c]2 [Dd]2 [Aa]2 | [_A_a]2 [Ee]2 [=F=f]2) z2 |!p! (([_df]8 | %52
+ [=B^f]6)) z2 |!p! (([_d=f]8 | [=B^f]6)) z2 | [B^f]8 | [B^f]8- | [Bf]4 ([Ag]4 | [ea]4 [fb]4) | %59
+ !fermata![ea]8 |] %60
+V:3
+ C,2 | B,,2 ^F,,2 G,,2 _B,,2 | A,,2 ^C,,2 D,,2 F,,2 | _A,,,2 F,,2 =A,,,2 F,,2 | %4
+ _B,,,2 _D,,2 _B,,2 A,,2 | ^G,,2 ^D,,2 E,,2 =G,,2 | ^F,,2 ^A,,,2 B,,,2 D,,2 | %7
+ G,,,2 D,,2 ^F,,,2 D,,2 | =F,,,2 _A,,,2 F,,2 (C,,2 | _E,,2 _A,,2 C,2) (C,,2 | %10
+ F,,2 _A,,2 F,2) (C,,2 | =E,,2 =A,,2 C,2) C,,2 | F,,2 _A,,2 F,2 _D,,2 | _G,,2 _B,,2 G,,2 B,,2 | %14
+ E,,2 A,,2 E,,2 A,,2 | G,,,2 G,,2 G,,,2 G,,2 | G,,,2 G,,2 G,,,2 G,,2 | (G,,,2 G,,2 G,,,2 G,,2) | %18
+ (G,,,2 G,,2 G,,,2 G,,2) | G,,,2 G,,2 G,,,2 G,,2 | G,,,2 G,,2 G,,,2 G,,2 | G,,,2 G,,2 G,,,2 G,,2 | %22
+ G,,,2 G,,2 G,,,2 G,,2 | G,,,2 G,,2 G,,,2 G,,2 | G,,,2 G,,2 G,,,2 B,,,2 | G,,,2 G,,2 G,,,2 G,,2 | %26
+ ^A,,,2- ^F,,2 A,,,2 F,,2 | =A,,,2 F,,2 F,,,2 F,,2 | E,,,2 A,,,2 E,,,2 E,,2 | %29
+ E,,,2 _B,,,2 E,,,2 E,,2 | E,,,2 ^C,,2 E,,,2 E,,2 | =D,,,2 A,,,2 D,,,2 =C,,2 | %32
+ ^F,,,2 ^A,,,2 F,,,2 E,,2 | G,,,2 C,,2 G,,,2 G,,2 | G,,,2 E,,2 G,,,2 =F,,2 | %35
+ G,,,2 _E,,2 G,,,2 F,,2 | G,,,2 _E,,2 G,,,2 =E,,2 | _D,2 F,2 D,2 F,2 | =B,,2 =E,2 B,,2 E,2 | %39
+ _D,2 F,2 D,2 F,2 | =B,,2 =E,2 B,,2 E,2 | =A,,2 ^C,2 A,,2 C,2 | G,,2 =C,2 G,,2 C,2 | %43
+ G,,2 _B,,2 G,,2 B,,2 | G,,2 _B,,2 G,2"_legato" C,2 | [B,,B,]2 [^F,,^F,]2 [G,,G,]2 [_B,,_B,]2 | %46
+ [A,,A,]2 [^C,,^C,]2 [D,,D,]2!pp! [=C,,,=C,,]2 | %47
+ [^C,,,^C,,]2 [D,,,D,,]2 [_E,,,_E,,]2 [=E,,,=E,,]2- | %48
+ [E,,,E,,]2 [F,,,F,,]2 [^F,,,^F,,]2 ([G,,,G,,]2 | %49
+ [_A,,,_A,,]2 [=A,,,=A,,]2 [_B,,,_B,,]2 [=B,,,^D,,=B,,]2 | %50
+ [C,,E,,C,]2 [_D,,_G,,_D,]2 [=D,,=G,,=D,]2)!p! [C,C]2 | [=B,,=B,]2 [^F,,^F,]2 [G,,G,]2 [_B,,_B,]2 | %52
+ [A,,A,]2 [^C,,^C,]2 [D,,D,]2 [=C,,=C,]2 | ([=B,,,=B,,]2 [^F,,,^F,,]2 [G,,,G,,]2 [_B,,,_B,,]2 | %54
+ [A,,,A,,]2 [^C,,,^C,,]2 [D,,,D,,]2 [=C,,,=C,,]2) | %55
+ ([A,,,A,,]2 [^C,,,^C,,]2 [D,,,D,,]2 [=C,,,=C,,]2 | %56
+ [A,,,A,,]2 [^C,,,^C,,]2 [D,,,D,,]2 [=C,,,=C,,]2) | [E,,,E,,]8 | [C,,G,,]8 | !fermata![A,,,A,,]8 |] %60
+V:4
+ x2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | _D,,8- | D,,8 | x8 | %18
+ x8 | (_E,,6 D,,2) | (D,,2 C,,2) z4 | x8 | (_E,,6 D,,2) | (D,,4 E,,4) | C,,6 G,,2 | %25
+ (B,,,6 ^A,,,2) | ^C,,4 =C,,4- | (C,,4 ^D,,4) | (^D,,2 A,,,4) x2 | x8 | x8 | x8 | x8 | x8 | x8 | %35
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %54
+ x8 | x8 | x8 | x8 | x8 | x8 |] %60
+V:5
+ x2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ (_C6 D2) | (D2 C2) z4 | x8 | (E6 D2) | (D4 C4) | (C6 B,2) | (B,6 ^A,2) | (^A,4 (=A,4-) | %27
+ A,4 ^D4) | (^D2 A,4) x2 |[K:bass] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[K:treble] _D2 F2 D2 F2 | %38
+ =B,2 =E2 B,2 E2 | _D2 F2 D2 F2 | =B,2 =E2 B,2 E2 |[K:bass] A,2 ^C2 A,2 C2 | ([E,E]6 [D,D]2) | %43
+ [D,D]8- | [D,D]6[K:treble] x2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %58
+ x8 | x8 |] %60
+

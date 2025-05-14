@@ -1,0 +1,48 @@
+X:1
+T:Partita V Passepied
+T:BWV 829
+T:J. S. Bach
+%%score { ( 1 3 ) | 2 }
+L:1/8
+M:3/8
+K:G
+V:1 treble nm="Harp"
+V:3 treble 
+V:2 bass 
+V:1
+ D | G/4F/4G3/2 G/4A/4B/ | A2 G | FGE | DAG | FcB | Aed | d/4c/4d/4c/4B/A/d | c/B/A/G/D | %9
+ A/4G/4A3/2 G/4A/4B/ |{B} A2 G | FGE | D/F/E/D/E/F/ | G/e/d/^c/B/A/ | ^G/A/ag | fd^c | d2 D | %17
+ G/4F/4G3/2 G/4A/4B/ | A2 G | FGE | DAG | FcB | Aed | d/4c/4d/4c/4B/A/d | c/B/A/G/D | %25
+ A/4G/4A3/2 G/4A/4B/ |{B} A2 G | FGE | D/F/E/D/E/F/ | G/e/d/^c/B/A/ | ^G/A/ag | fd^c | d2 a | %33
+ d/4^c/4d3/2 d/4e/4f/ | g2 a | ba/g/f/g/ | a/g/f/e/g |{c} B2 c/4d/4e/ | G2 g |{c} B2 c/4d/4e/ | %40
+ G2 =f- | f=fe | c'fg | A/B/cB |{B} A2 d | g/4f/4g3/2 g/4a/4b/ | e2 d | cB/c/d/B/ | d/c/B/A/d/B/ | %49
+ d/c/B/A/d/B/ | d/c/B/A/c/A/ | c/B/A/G/c/A/ | c/B/A/G/A/B/ | E2 F/4G/4A/ | D2 d | %55
+ G/4F/4G3/2 F/4G/4A/ | D2 d |{c} B2 c/4d/4e/ | =f2 g | e=fd | =f/e/d/c/e/c/ | e/d/c/B/d/B/ | %62
+ d/c/B/A/c/A/ | dGF | G2 a | d/4^c/4d3/2 d/4e/4f/ | g2 a | ba/g/f/g/ | a/g/f/e/g |{c} B2 c/4d/4e/ | %70
+ G2 g |{c} B2 c/4d/4e/ | G2 =f- | f=fe | c'fg | A/B/cB |{B} A2 d | g/4f/4g3/2 g/4a/4b/ | e2 d | %79
+ cB/c/d/B/ | d/c/B/A/d/B/ | d/c/B/A/d/B/ | d/c/B/A/c/A/ | c/B/A/G/c/A/ | c/B/A/G/A/B/ | %85
+ E2 F/4G/4A/ | D2 d | G/4F/4G3/2 F/4G/4A/ | D2 d |{c} B2 c/4d/4e/ | =f2 g | e=fd | =f/e/d/c/e/c/ | %93
+ e/d/c/B/d/B/ | d/c/B/A/c/A/ | dGF | !fermata!G2 z |] %97
+V:2
+ G,, | G,3 | F,2 G, | A,2 A,, | B,,/C/B,/A,/B,/G,/ | A,,/A,/G,/F,/G,/E,/ | F,2 G, | C,D,D,, | %8
+ G,,G,F, | E,3 | F,2 B, | G,2 A, | B,B,,^C,- | C,^C,D,- | D,D,E, | F,G,A, | D,2 G,, | G,3 | %18
+ F,2 G, | A,2 A,, | B,,/C/B,/A,/B,/G,/ | A,,/A,/G,/F,/G,/E,/ | F,2 G, | C,D,D,, | G,,G,F, | E,3 | %26
+ F,2 B, | G,2 A, | B,B,,^C,- | C,^C,D,- | D,D,E, | F,G,A, | D,2 D, | C3 | B,2 A, | G,A,B, | %36
+ E,B,E/C/ | E/D/C/B,/E/C/ | E/D/C/B,/E/C/ | E/D/C/B,/E/C/ | E/D/C/B,/D/B,/ | CD,C, | B,,A,G, | %43
+ F,D,G, | D,/D/C/B,/C/A,/ | B,3 | C2 =F | DEE, | A,,A,^G, | A,C,B,, | A,,G,F, | G,B,,A,, | %52
+ G,, z/ B,/A,/G,/ | C/B,/A,/G,/C/A,/ | C/B,/A,/G,/C/A,/ | C/B,/A,/G,/C/A,/ | C/B,/A,/G,/A,/F,/ | %57
+ G,3 | A,2 B, | C=F,G, | C,3 | B,,3 | A,,3 | B,,C,D, | G,,2 D, | C3 | B,2 A, | G,A,B, | E,B,E/C/ | %69
+ E/D/C/B,/E/C/ | E/D/C/B,/E/C/ | E/D/C/B,/E/C/ | E/D/C/B,/D/B,/ | CD,C, | B,,A,G, | F,D,G, | %76
+ D,/D/C/B,/C/A,/ | B,3 | C2 =F | DEE, | A,,A,^G, | A,C,B,, | A,,G,F, | G,B,,A,, | %84
+ G,, z/ B,/A,/G,/ | C/B,/A,/G,/C/A,/ | C/B,/A,/G,/C/A,/ | C/B,/A,/G,/C/A,/ | C/B,/A,/G,/A,/F,/ | %89
+ G,3 | A,2 B, | C=F,G, | C,3 | B,,3 | A,,3 | B,,C,D, | !fermata!G,,2 z |] %97
+V:3
+ x | z B,E- | E D2- | DE^C | D3- | D3- | DcB | AGF | G2 z | z B,^C- | C D2 | DE^C | %12
+[I:staff +1] B,3 | A,3 | B,2 ^C |[I:staff -1] DFE | F2 z | z B,E- | E D2- | DE^C | D3- | D3- | %22
+ DcB | AGF | G2 z | z B,^C- | C D2 | DE^C |[I:staff +1] B,3 | A,3 | B,2 ^C |[I:staff -1] DFE | %32
+ F2 x | z FA | DGF- | FE^D | E z z | x3 | x3 | x3 | x3 | ABc- | ccB | A2 G | F2 z | z DG- | G^GA- | %47
+ A2 ^G | A z z | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z =FE- | EED | CdB- | B[I:staff +1]B,A,- | %61
+ A,A,G, | G,G,F, | G,B,A, | B,2[I:staff -1] z | z FA | DGF- | FE^D | E z z | x3 | x3 | x3 | x3 | %73
+ ABc- | ccB | A2 G | F2 z | z DG- | G^GA- | A2 ^G | A z z | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %89
+ z =FE- | EED | CdB- | B[I:staff +1]B,A,- | A,A,G, | G,G,F, | G,B,A, | B,2 x |] %97
+

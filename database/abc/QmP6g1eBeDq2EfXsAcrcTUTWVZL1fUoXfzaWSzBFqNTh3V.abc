@@ -1,0 +1,45 @@
+X:1
+T:Rimsky-Korsakov Harmonic Exercises,
+T:Altered Chords (1)
+T:Rimsky-Korsakov Harmonic Exercises, Altered Chords (1) 
+T:"Practical Manual of Harmony" (1885)
+T:Examples by Rimsky-Korsakov
+%%score { ( 1 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=100
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"""^Dominant seventh chord on the second scale degree (secondary dominant)\nand diminished seventh chord on the raised second scale degree\n""_C:""^These chords may appear due to passing chromatic tones.\nMost often they are used in the first and second inversion in cadences.\n" (d4-"" d4 | %1
+"""^(""^)""^(the six-four chord can be skipped)" e4"" !breath!d4) |]"" (f4"" ^f4 | %3
+"""""^(""^)" !breath!g8) |]"" (d4"" ^d4 | %5
+"""^(here the six-four chord cannot be skipped)" e4"" !breath!=d4) |]"" ((f4"" ^f4 | %7
+"""" !breath!g8)) |] %8
+[M:5/1]""[Q:1/2=110]"^Also, these chords can be used after the triads of the first or sixth or fourth scale degree." (c8"" c8"" c8"""" B8"" !breath!c8) |] %9
+"" (c8"" c8"" c8"""" B8"" !breath!c8) |]"" (c8"" c8"" c8"""" B8"" !breath!c8) |] %11
+"" (c8"" c8"" c8"""" B8"" !breath!c8) |] %12
+[K:Eb][M:4/4]""[Q:1/4=100]"_c:""^In a minor, the secondary dominant, in addition\nto raising the third, also requires raising the fifth.\nIn the second inversion, this is not very common.\n" (d4-"" d4 | %13
+"" e4"" !breath!d4) |] %14
+"""^In a minor, a diminished seventh chord is not possible\non the second scale degree, but can be formed on the\nfourth scale degree by raising the root and third.\n" (e4-"" e4 | %15
+"" e4"" !breath!d4) |] %16
+V:2
+ (c4- c4 | c4 B4) |] (d4- d4 | e4 d4) |] (c4- c4 | c4 B4) |] ((d4 ^d4 | e4 d4)) |] %8
+[M:5/1] (G8 A8 G8 G4 F4 E8) |] (A8 ^F8 G8 G4 =F4 E8) |] (G8 A8 G8 G4 F4 E8) |] %11
+ (A8 ^F8 G8 G4 =F4 E8) |][K:Eb][M:4/4] (c4- c4 | c4 =B4) |] (c4- c4 | c4 =B4) |] %16
+V:3
+ (A4- A4 | G8) |] (c4- c4 | c4 B4) |] (A4- A4 | G8) |] (c4- c4 | c4 B4) |][M:5/1] x40 |] x40 |] %10
+ x40 |] x40 |][K:Eb][M:4/4] (A4 =A4 | G4 G4) |] (A4 =A4 | G8) |] %16
+V:4
+ (F,4 ^F,4 | G,8) |] (A,4- A,4 | G,8) |] (F,4 ^F,4 | G,8) |] (A,4- A,4 | G,8) |] %8
+[M:5/1] (E8 D8 E8 D8 C8) |] (E8 D8 E8 D8 C8) |] (E8 ^D8 E8 =D8 C8) |] (E8 ^D8 E8 =D8 C8) |] %12
+[K:Eb][M:4/4] (F,4 ^F,4 | G,8) |] (F,4 ^F,4 | G,8) |] %16
+V:5
+ x8 | x8 |] x8 | x8 |] x8 | x8 |] x8 | x8 |][M:5/1] (C8 ^F,8 G,8 G,8 C,8) |] %9
+ (A,8 A,8 G,8 G,8 C,8) |] (C8 ^F,8 G,8 G,8 C,8) |] (A,8 A,8 G,8 G,8 C,8) |][K:Eb][M:4/4] x8 | x8 |] %14
+ x8 | x8 |] %16
+

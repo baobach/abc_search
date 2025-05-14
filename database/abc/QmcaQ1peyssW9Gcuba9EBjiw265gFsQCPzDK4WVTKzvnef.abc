@@ -1,0 +1,48 @@
+X:1
+T:Title
+%%score { ( 1 2 3 ) | ( 4 5 6 7 ) }
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="Part_1"
+V:2 treble 
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:6 bass 
+V:7 bass 
+V:1
+ (6:4:2!tenuto!D4 D2 x4 | G3 F F4 | D4 A2 B2 | A4 x8 | B4 d2 x4 | d3 c c2 x4 | B4 A2 x4 | F4 D4 | %8
+ D4 D2 x19/4 | G3 F2 E2 x | D4 A2 B2 | A3 G G2 x11/4 | d4 x19/4 | e3 G F2 A2 | B4 x4 | G6 x2 :| %16
+ [EG]8 |] G8 | %18
+V:2
+ (6:4:2B,4 B,2 x4 | C3 C2 x3 | C4 C2 D2 | D4 x8 | G4 G2 x4 | E3 E E2 x4 | ^C4 C2 x4 | D4 =C4 | %8
+ B,4 D2 x19/4 | D3 D2 C2 x | C4 D2 D2 | D3 D D2 x11/4 | G4 x19/4 | E3 E F2 x2 | D4 x4 | B,6 x2 :| %16
+[I:staff +1] C8 |][I:staff -1] D8 | %18
+V:3
+ x8/3 z[I:staff +1] G,2 x7/3 | x4 !wedge!D,4 | x4[I:staff -1] z2 x2 | x20/3 D4 x4/3 | %4
+ x22/3 =F2 x2/3 | x22/3 B2 x2/3 | x22/3 ^C2 x2/3 | x8 | x8 D2 x3/4 | x2 D x5 | %10
+[I:staff +1] G,,,,4 x4 | x17/3[I:staff -1] B2 x13/12 | x2 =F2 x19/4 | x8 | x A3 x4 | x8 :| x8 |] %17
+ x8 | %18
+V:4
+ G,4 x4 | A,3 A,2 x3 | A,4 F,2 D2 | (3:2:2C4 z2 B,4 x4 | D4 (3:2:2B,2 z G,2 x2 | %5
+ G,3 G, (3:2:2G,4 z2 x2 | G,4 (3:2:2A,2 z A,2 x2 | A,4 A,4 | G,4 (3B,2 B,2 z2 x11/4 | %9
+ C3 C2 [G,A,]2 x | A,4 C2 D2 | C3 B, (3:2:1B,2 x41/12 | B,4 x19/4 | G,3 G, G,4 | G,4 x4 | G,6 x2 :| %16
+!p! C,8 |] B,8 | %18
+V:5
+ G,,,4 x4 | !wedge!D,3 D, A,4 | F,4 D,2 !>!F,2 | x4/3 (3G,4 G,4 z4 x8/3 | %4
+ x2/3 !arpeggio!F,,,4 (3B,,2 B,,2 z2 x4/3 | x4/3 C,3 !>!C, (3:2:2(C,2 z G,,2) x2/3 | %6
+ x2/3 G,,,4 (3A,,2 A,,2 z2 x4/3 | D,4 F,4 | x4/3 G,4 (3G,2 G,2 z2 x17/12 | A,2 C A,2 x3 | %10
+ F,4 F,2 F,2 | G,3 G, G,2 x11/4 | !>!G,,2 (3:2:1G,2 x65/12 | C,3 C, C,4 | D,4 x4 | .G,,,4 z2 x2 :| %16
+ x8 |] !>!G,,8 | %18
+V:6
+ x8/3!ped! G,2 x10/3 | x4[I:staff -1] C4 | x4[I:staff +1] z2 x2 | x20/3[I:staff -1] G4 x4/3 | %4
+ x22/3 d2 x2/3 | x6[I:staff +1] !arpeggio!G,,,,4 | x22/3[I:staff -1] E2 x2/3 | x8 | x8 G2 x3/4 | %9
+ x2 F x5 |[I:staff +1] F,,,4 x2 z x | x4 z (3:2:2D2 z x7/4 | x2[I:staff -1] d2 x19/4 | %13
+ x3[I:staff +1] z x4 | z!ped! F,3 x4 | x4 z2 x2 :| x8 |] x8 | %18
+V:7
+ x8/3 !arpeggio!F,,,4 x4/3 | x8 | x8 | x12 | x10 | x22/3[I:staff -1] D2 x2/3 | %6
+ x22/3[I:staff +1] z2 x2/3 | x8 | x43/4 | x2 A, x5 | x8 | x17/3[I:staff -1] D2 x13/12 | %12
+ x2[I:staff +1] B,,2 x19/4 | x8 | x[I:staff -1] C3 x4 | x8 :| x8 |] x8 | %18
+

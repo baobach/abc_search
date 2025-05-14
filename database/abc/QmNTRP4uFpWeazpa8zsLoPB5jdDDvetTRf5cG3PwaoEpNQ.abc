@@ -1,0 +1,26 @@
+X:1
+T:Trumpet
+%%score [ 1 2 3 4 ]
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Soprano" snm="S"
+V:2 alto nm="Alto" snm="A"
+V:3 treble-8 nm="Tenor" snm="T"
+V:4 bass nm="Bass" snm="B"
+V:1
+ z4 z2 z B | B2 z d d2 z A | G2 G2 A2 z2 | (G/A/B)ce d2 d2 | (d/c/B) A2 A2 z B | G2 A2 B2 z d | %6
+ B2 G2 A2 z B | G2 (AB) c2 d2 | (dc)(Bc) d2 z2 | e2 d2 (3(cBA) B2 | g2 d2 (3(edc) B2 | %11
+ e2 (dc) B2 (3(cBA) | G2 F2 G4 |] %13
+V:2
+ z4 z2 z D | D2 z F G2 z D | D2 G2 F2 z2 | G2 FG F2 F2 | G2 z G F2 z G | G2 (FD) D2 z D | %6
+ D2 G2 F2 z G | G2 G2 F2 G2 | G2 F2 G2 z2 | G2 G2 (FE) D2 | G2 G2 F2 G2 | E2 F2 G2 G2 | G2 F2 G4 |] %13
+V:3
+ z4 z2 z G | G2 z A B2 z A | B2 ^c2 d2 z2 | B/(c/d)cB A2 D2 | (B/c/d)(cB) A2 z D | E2 F2 G2 z A | %6
+ B2 ^c2 d2 z B | e2 d2 c2 B2 | (Ae)(dc) B2 z2 | c2 B2 (3(AGF) G2 | e2 d2 (3(cBA) B2 | %11
+ g2 (fe) d2 (3(edc) | B2 A2 G4 |] %13
+V:4
+ z4 z2 z G,, | B,,2 z D, G,2 z F, | G,2 E,2 D,2 z2 | (G,/A,/B,)A,G, D,2 D,2 | %4
+ (G,/A,/B,)(A,G,) D,2 z B,, | C,2 A,,2 G,,2 z D, | G,2 E,2 D,2 z G, | C2 B,2 A,2 G,2 | %8
+ C,2 D,2 G,2 z2 | C,2 G,2 D,2 G,,2 | C,2 B,,2 A,,2 G,,2 | G,,2 A,,2 B,,2 C,2 | D,2 D,2 G,,4 |] %13
+

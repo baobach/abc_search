@@ -1,0 +1,63 @@
+X:1
+T:Ave Maria
+T:Ave Maria
+T:String Quartet Rearrenged
+T:Franz Schubert
+C:Franz Schubert
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=35
+M:4/4
+K:G
+V:1 treble nm="Violin I"
+V:2 treble nm="Violin II"
+V:3 alto nm="Viola"
+V:4 bass nm="Violoncello"
+V:1
+ z2 z2 z2 z2 | z2 z2 z4 |!f! G3 F/G/ (B7/2 A/) | G2 z2 (A2{BA} G/F/) E/F/ | %4
+ G2 z B B3/2A/4G/4 F/E/B/^c/ | B2 ^A>F =A>G (3F/A/B/(3c/A/F/ | G3 B/A/ A>F (3E/^G/B/(3d/B/G/ | %7
+ A2- (6:4:6A/E/F/G/{AG}F/E/ D2 z D | A>A A/>^G/A/>B/ A/>B/=G z G | A>A (3A/^G/A/(3c/B/A/ =G2 z G | %10
+ A>A B/>B/ (3PB/A/B/{/e} dc z3/2 E/ | BA (3G/F/G/(3_B/A/G/ A3 z | G3 F/G/ (B7/2 A/) | %13
+ !tenuto!G2 z2 z4 | z8 | z8 | G8 |] %17
+V:2
+!ff! G z G z G z G z | G z G z!>(! G z G z!>)! |!mf! G z E z D z D z | E z E z C z D z | %4
+ G z G z G z G z | F z F z ^D z D z | E z E z F z B z | A z A z d z d z | d z d z d z d z | %9
+ d z d z e z e z | d z B z A z A z | c z e z d z d z | G z E z D z D z | G z G z G z G z | %14
+ G z G z G z G z | G z G z G z G z | G8 |] %17
+V:3
+!f! (6:4:6z/ (D/G/B/G/D/) (6:4:6z/ D/G/B/G/D/!<(! (6:4:6z/ G/B/d/B/G/ (6:4:6z/ B/d/=f/d/B/!<)! | %1
+ (6:4:6z/ G/c/e/c/G/ (6:4:6z/ F/c/_e/c/F/!>(! (6:4:6z/ G/B/d/B/G/ (6:4:6z/ D/G/B/G/D/!>)! | %2
+!mf! (6:4:6z/ D/G/B/G/D/ (6:4:6z/ ^C/G/B/G/C/ (6:4:6z/ D/G/B/G/D/ (6:4:6z/ F/A/c/A/F/ | %3
+ (6:4:6z/ E/G/B/G/E/ (6:4:6z/ E/G/B/G/E/ (6:4:6z/ E/A/c/A/E/ (6:4:6z/ D/F/A/F/D/ | %4
+ (6:4:6z/ D/G/B/G/D/ (6:4:6z/ D/G/B/G/D/ (6:4:6z/ ^D/G/B/G/D/ (6:4:6z/ E/G/B/G/E/ | %5
+ (6:4:6z/ E/G/B/G/E/ (6:4:6z/ E/F/^A/F/E/ (6:4:6z/ F/=A/c/A/F/ (6:4:6z/ F/A/c/A/F/ | %6
+ (6:4:6z/ E/G/B/G/E/ (6:4:6z/ ^C/G/B/G/C/ (6:4:6z/ D/F/A/F/D/ (6:4:6z/ E/^G/d/G/E/ | %7
+ (6:4:6z/ F/A/d/A/F/ (6:4:6z/ G/A/^c/A/G/ (6:4:6z/ F/A/d/A/F/ (6:4:6z/ F/A/d/A/F/ | %8
+!mf! (6:4:6z/ F/A/d/A/F/ (6:4:6z/ F/A/d/A/F/ (6:4:6z/ G/B/d/B/G/ (6:4:6z/ G/B/d/B/G/ | %9
+ (6:4:6z/ F/A/d/A/F/ (6:4:6z/ F/A/d/A/F/ (6:4:6z/ E/G/B/G/E/ (6:4:6z/ B,/E/G/E/B,/ | %10
+ (6:4:6z/ D/F/A/F/D/ (6:4:6z/ ^D/F/B/F/D/ (6:4:6z/ E/A/c/A/E/ (6:4:6z/ E/A/c/A/E/ | %11
+ (6:4:6z/ C/E/A/E/C/ (6:4:6z/ ^C/G/_B/G/C/ (6:4:6z/ D/F/A/F/D/ (6:4:6z/ D/F/A/F/D/ | %12
+ (6:4:6z/ D/G/B/G/D/ (6:4:6z/ ^C/G/B/G/C/ (6:4:6z/ D/G/B/G/D/ (6:4:6z/ D/F/A/F/D/ | %13
+ (6:4:6z/ D/G/B/G/D/ (6:4:6z/ D/G/B/G/D/!<(! (6:4:6z/ G/B/d/B/G/ (6:4:6z/ B/d/=f/d/B/!<)! | %14
+!f! (6:4:6z/ G/c/e/c/G/ (6:4:6z/ F/c/_e/c/F/ (6:4:6z/!>(! G/B/d/B/G/ (6:4:6z/ D/G/B/G/D/!>)! | %15
+ (6:4:6z/ B,/D/G/D/B,/ (6:4:6z/ G,/B,/D/B,/G,/ (6:4:6z/ D,/G,/B,/G,/D,/ (6:4:6z/ D,/G,/B,/G,/D,/ | %16
+ D,8 |] %17
+V:4
+!f! (6:4:6G,,/(B,,/D,/G,/D,/B,,/) (6:4:6G,,/B,,/D,/G,/D,/B,,/ (6:4:6G,,/!<(!D,/G,/B,/G,/D,/ (6:4:6G,,/=F,/B,/D/B,/F,/!<)! | %1
+ (6:4:6G,,/E,/G,/C/G,/E,/ (6:4:6G,,/_E,/F,/C/F,/E,/ (6:4:6G,,/!>(!D,/G,/B,/G,/D,/ (6:4:6G,,/B,,/D,/G,/D,/B,,/!>)! | %2
+!mf! (6:4:6G,,/B,,/D,/G,/D,/B,,/ (6:4:6E,,/B,,/^C,/G,/C,/B,,/ (6:4:6D,,/B,,/D,/G,/D,/B,,/ (6:4:6D,,/=C,/F,/A,/F,/C,/ | %3
+ (6:4:6E,,/B,,/E,/G,/E,/B,,/ (6:4:6E,,/B,,/E,/G,/E,/B,,/ (6:4:6C,,/C,/E,/A,/E,/C,/ (6:4:6D,,/C,/D,/F,/D,/C,/ | %4
+ (6:4:6G,,/B,,/D,/G,/D,/B,,/ (6:4:6G,,/B,,/D,/G,/D,/B,,/ (6:4:6G,,/B,,/^D,/G,/D,/B,,/ (6:4:6G,,/B,,/E,/G,/E,/B,,/ | %5
+ (6:4:6F,,/^C,/E,/G,/E,/C,/ (6:4:6F,,/C,/E,/F,/E,/C,/ (6:4:6^D,,/=C,/F,/A,/F,/C,/ (6:4:6D,,/C,/F,/A,/F,/C,/ | %6
+ (6:4:6E,,/B,,/E,/G,/E,/B,,/ (6:4:6E,,/B,,/^C,/G,/C,/B,,/ (6:4:6F,,/A,,/D,/F,/D,/A,,/ (6:4:6B,,/D,/E,/^G,/E,/D,/ | %7
+ (6:4:6A,,/D,/F,/A,/F,/D,/ (6:4:6A,,/^C,/G,/A,/G,/C,/ (6:4:6D,,/D,/F,/A,/F,/D,/ (6:4:6D,,/D,/F,/A,/F,/D,/ | %8
+!mf! (6:4:6D,,/C,/F,/A,/F,/C,/ (6:4:6D,,/C,/F,/A,/F,/C,/ (6:4:6D,,/B,,/G,/B,/G,/B,,/ (6:4:6D,,/B,,/G,/B,/G,/B,,/ | %9
+ (6:4:6D,,/C,/F,/A,/F,/C,/ (6:4:6D,,/C,/F,/A,/F,/C,/ (6:4:6E,,/B,,/E,/G,/E,/B,,/ (6:4:6E,,/G,,/B,,/E,/B,,/G,,/ | %10
+ (6:4:6D,,/A,,/D,/F,/D,/A,,/ (6:4:6B,,/B,,/^D,/F,/D,/B,,/ (6:4:6A,,/C,/E,/A,/E,/C,/ (6:4:6A,,/C,/E,/A,/E,/C,/ | %11
+ (6:4:6C,/A,,/C,/E,/C,/A,,/ (6:4:6E,/_B,,/^C,/G,/C,/B,,/ (6:4:6D,/A,,/D,/F,/D,/A,,/ (6:4:6D,/=C,/D,/F,/D,/C,/ | %12
+ (6:4:6G,,/B,,/D,/G,/D,/B,,/ (6:4:6E,,/B,,/^C,/G,/C,/B,,/ (6:4:6D,,/B,,/D,/G,/D,/B,,/ (6:4:6D,,/=C,/D,/F,/D,/C,/ | %13
+ (6:4:6G,,/B,,/D,/G,/D,/B,,/ (6:4:6G,,/B,,/D,/G,/D,/B,,/ (6:4:6G,,/!<(!D,/G,/B,/G,/D,/ (6:4:6G,,/=F,/B,/D/B,/F,/!<)! | %14
+!f! (6:4:6G,,/E,/G,/C/G,/E,/ (6:4:6G,,/_E,/F,/C/F,/E,/ (6:4:6G,,/!>(!D,/G,/B,/G,/D,/ (6:4:6G,,/B,,/D,/G,/D,/B,,/!>)! | %15
+ (6:4:6G,,/G,,/B,,/D,/B,,/G,,/ (6:4:6G,,/D,,/G,,/B,,/G,,/D,,/ (6:4:6G,,/B,,/D,/G,/D,/B,,/ (6:4:6G,,/B,,/D,/G,/D,/B,,/ | %16
+ B,,8 |] %17
+

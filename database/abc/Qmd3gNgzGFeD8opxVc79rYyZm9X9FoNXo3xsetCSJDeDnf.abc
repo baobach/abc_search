@@ -1,0 +1,74 @@
+X:1
+T:Le Lac des Cygnes
+T:Le Lac des Cygnes
+T:Danse Napolitaine
+T:Piotr Ilitch Tchaïkovski
+T:arr. Laurence Sardain
+T:by Mutopia - Pubblico dominio
+T:by Mutopia - Pubblico dominio
+T:by Mutopia - Pubblico dominio
+C:Piotr Ilitch Tchaïkovski
+Z:arr. Laurence Sardain
+Z:by Mutopia - Pubblico dominio
+%%score 1 2 { 3 | 4 }
+L:1/8
+Q:1/4=100
+M:2/4
+K:C
+V:1 treble transpose=-2 nm="B♭ Trumpet" snm="B♭ Tpt."
+V:2 perc stafflines=1 nm="Tambourine" snm="Tamb."
+K:none
+I:percmap E B 54 normal
+V:3 treble nm="Piano" snm="Pno."
+V:4 bass 
+V:1
+[K:F]"^Comodo" z4 | z!p! .c/"^grazioso".d/ (.f/.e/).d/.c/ | .e z .e2- | .e.d/.e/ (.f/.e/).d/.e/ | %4
+ .d z .c2- | .c.c/.c/ .d/.c/.B/.A/ | .c z .B2- | .B.B/.B/ (c/B/).A/.G/ | A z !>!F2- | %9
+!>(!"_dim." F4-!>)! | F z z2 | z .c/.d/ (.f/.e/).d/.c/ | .e z !>!e2- | e.d/.e/ (f/e/).d/.e/ | %14
+ .d z .c2- | .c.c/.c/ .d/.c/.B/.A/ | .c z .B2- | .B.B/.B/ (c/B/).A/.G/ |!>(!"_dim." !>!F4- | %19
+ F2 F>(F!>)! | .d) z !>!d2- | d.e/.f/ (.g/.f/).e/.d/ | .d z !>!c2- | c(=B/c/) (B/c/).e/.d/ | %24
+ .c z .B2- | .B(.A/.B/) (.A/.B/).d/.c/ |!>(! !>!F4-!>)! | F2 F>(F | .d) z !>!d2- | %29
+ d.e/.f/ (.g/.f/).e/.d/ | .d z !>!c2- | c(=B/c/) (B/c/).e/.d/ | .c z !>!B2- | %33
+ B(A/B/) (A/B/).d/.c/ |!>(!"_dim." !>!F4-!>)! | F3!f! (f | .d)(f .d)(f | .d)f (g/f/e/d/) | %38
+ (d/c/).c/.c/ (d/c/).c/.c/ | (d/c/).c/.c/ (d/c/)B/A/ | (c/B/).B/.B/ (c/B/).B/.B/ | %41
+ (c/B/).B/.B/ (c/B/A/G/ | .F/)(F/G/A/ B/c/d/e/ | .e) z z (f | .d)(f .d)(f | .d).f (g/f/e/d/) | %46
+ (d/c/).c/.c/ (d/c/).c/.c/ | (d/c/).c/.c/ (d/c/B/A/) | (c/B/).B/.B/ (c/B/).B/.B/ | %49
+ (c/B/).B/.B/ (c/B/A/G/ | .F/)(F/G/A/ B/c/d/e/ | .f/)(F/G/A/ B/c/d/e/ | .f) z .f z | %53
+ .F z !fermata!z2 |] %54
+V:2
+ z E/E/ EE | z E/E/ EE | E z E z | z E/E/ EE | E z E z | z E/E/ EE | E z E z | z E/E/ EE | %8
+ E z E z | z E/E/ EE | E z E z | z E/E/ EE | E z E z | z E/E/ EE | E z E z | z E/E/ EE | E z E z | %17
+ z E/E/ EE | E2 z2 | z4 | E z E z | E2 z2 | E z E z | E2 z2 | E z E z | E2 z2 | z4 | z4 | E z E z | %29
+ E2 z2 | E z E z | E2 z2 | E z E z | E2 z2 | z4 | z4 | E2 E2 | E2 E2 | E2 E2 | E2 E2 | E2 E2 | %41
+ E2 E2 | E2 z2 | EE E z | E2 E2 | E2 E2 | E2 E2 | E2 E2 | E2 E2 | E2 E2 | E2 z2 | E2 z2 | E2 E2 | %53
+ E2 z2 |] %54
+V:3
+[K:Eb]!p! z .[G,B,E]/.[G,B,E]/ .[G,B,E].[G,B,E] | z .[G,B,E]/.[G,B,E]/ .[G,B,E].[G,B,E] | %2
+ z .[A,B,E]/.[A,B,E]/ .[A,B,E].[A,B,E] | z .[A,B,E]/.[A,B,E]/ .[A,B,E].[A,B,E] | %4
+ z .[G,B,E]/.[G,B,E]/ .[G,B,E].[G,B,E] | z .[G,B,E]/.[G,B,E]/ .[G,B,E].[G,B,E] | %6
+ z .[A,B,E]/.[A,B,E]/ .[A,B,E].[A,B,E] | z .[A,B,E]/.[A,B,E]/ .[A,B,E].[A,B,E] | %8
+ z .[G,B,]/.[G,B,]/ .[G,B,].[G,B,] | z .[G,B,]/.[G,B,]/ .[G,B,].[G,B,] | %10
+ z .[G,B,E]/.[G,B,E]/ .[G,B,E].[G,B,E] | z .[G,B,E]/.[G,B,E]/ .[G,B,E].[G,B,E] | %12
+ z .[A,B,E]/.[A,B,E]/ .[A,B,E].[A,B,E] | z .[A,B,E]/.[A,B,E]/ .[A,B,E].[A,B,E] | %14
+ z .[G,B,E]/.[G,B,E]/ .[G,B,E].[G,B,E] | z .[G,B,E]/.[G,B,E]/ .[G,B,E].[G,B,E] | %16
+ z .[A,B,E]/.[A,B,E]/ .[A,B,E].[A,B,E] | z .[A,B,D]/.[A,B,D]/ .[A,B,D].[A,B,D] | %18
+ z .[G,B,]/.[G,B,]/ .[G,B,].[G,B,] | z4 | z .[CE]/.[CE]/ .[CE].[CE] | z .[CE]/.[CE]/ .[CE].[CE] | %22
+ z .[G,B,E]/.[G,B,E]/ .[G,B,E].[G,B,E] | z .[G,B,E]/.[G,B,E]/ .[G,B,E].[G,B,E] | %24
+ z .[F,B,D]/.[F,B,D]/ .[F,B,D].[F,B,D] | z .[F,B,D]/.[F,B,D]/ .[F,B,D].[F,B,D] | %26
+ z .[G,B,]/.[G,B,]/ .[G,B,].[G,B,] | z .[G,B,]/.[G,B,]/ .[G,B,].[G,B,] | %28
+ z .[CE]/.[CE]/ .[CE].[CE] | z .[CE]/.[CE]/ .[CE].[CE] | z .[G,B,E]/.[G,B,E]/ .[G,B,E].[G,B,E] | %31
+ z .[G,B,E]/.[G,B,E]/ .[G,B,E].[G,B,E] | z .[F,B,D]/.[F,B,D]/ .[F,B,D].[F,B,D] | %33
+ z .[F,B,D]/.[F,B,D]/ .[F,B,D].[F,B,D] | z .[G,B,]/.[G,B,]/ .[G,B,].[G,B,] | z .[G,B,] z2 | %36
+!f! z .[CE] z .[CE] | z .[CE] z .[CE] | z .[G,B,E] z .[G,B,E] | z .[G,B,E] z .[G,B,E] | %40
+ .[F,B,D] z .[F,B,D] z | .[F,B,D] z .[F,B,D] z | z .[G,B,] z2 | z .B, .[B,E].B, | z .[CE] z .[CE] | %45
+ z .[CE] z .[CE] | z .[G,B,E] z .[G,B,E] | z .[G,B,E] z .[G,B,E] | z .[G,B,E] z .[G,B,E] | %49
+ z .[G,B,E] z .[G,B,E] | z2 .[B,DF] z | .[EG] z .[B,DF] z | .[EG] z .F z | .[G,E] z !fermata!z2 |] %54
+V:4
+[K:Eb] .E,2 z2 | .B,,2 z2 | .F,2 z2 | B,,2 z2 | .E,2 z2 | .B,,2 z2 | .F,2 z2 | B,,2 z2 | E,2 z2 | %9
+ B,,2 z2 | E,2 z2 | B,,2 z2 | .F,2 z2 | B,,2 z2 | .E,2 z2 | .B,,2 z2 | .F,2 z2 | B,,2 z2 | %18
+ .E,2 z2 | [G,B,]2 z2 | .A,2 z2 | .A,2 z2 | .E,2 z2 | .E,2 z2 | .B,,2 z2 | .B,,2 z2 | .E,2 z2 | %27
+ .E,2 z2 | .A,2 z2 | .A,2 z2 | .E,2 z2 | .E,2 z2 | .B,,2 z2 | .B,,2 z2 | .E,2 z2 | .E,2 z2 | %36
+ .A, z .A, z | .A, z .A, z | .E, z .E, z | .E, z .E, z | .B,, z .B,, z | .B,, z .B,, z | .E, z z2 | %43
+ z .[E,G,] .G,.[E,G,] | .A, z .A, z | .A, z .A, z | .E, z .E, z | .E, z .E, z | .B,, z .B,, z | %49
+ .B,, z .B,, z | .[E,G,B,] z z2 | z4 | z2 .[E,B,] z | .[E,B,] z !fermata!z2 |] %54
+

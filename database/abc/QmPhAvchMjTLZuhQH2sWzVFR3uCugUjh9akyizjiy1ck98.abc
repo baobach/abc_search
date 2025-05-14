@@ -1,0 +1,34 @@
+X:1
+T:I Got Rythm
+T:George Gershwin
+T:swing cover for piano
+%%score { 1 | 2 }
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^B6"!fff! [DFGB]2 z"^F105" [A,-_D-_E-_A]2 [A,D_E_G]3 |: %1
+ z2"^B6" [G,B,DF]2 z"^Bdim7/D" [B,_D=EG] z2 |"^Cm9" [DEGB]2 z"^Edim7/F" [E_GAc]3 z2 | %3
+ z2"^B9/6" [DFGc]2 z"^Ddim7" [_D=EGB] z2 |"^Cm9" [B,DEG]2 z"^F95" [G,A,_DEF]3 z2 | %5
+ z2"^B6" [G,B,DF]2 z"^Bdim7/D" [B,_D=EG] z2 |"^Cm9" [DEGB]2 z"^Edim7/F" [E_GAc]2 ec z | %7
+"^C9/6" .[=EABd]2 .[=EABd]2"^Edim7/F" [_E_GAc]dc z |1 %8
+ [DFGB]2 z"^F105" [A,-_D-_E-_A]2 [A,D_E_G]3 ||2 [DFGB]6 z2 :| z2"^Am11" [=EG=Bd]2 z [=EG=Bd] z2 | %11
+"^F613" [_G=Bcd]2 z [_G=Bc=e]4 z | z2"^Dm9" [=EFAcd]2 z [EFAcd] z2 | %13
+"^F9/6" [=E-F-A=B-d-]3 [EFGBd]4 z | z2"^Gm11" [DFAc]2 z [DFAc] z2 | %15
+"^E613" [_FABc]2 z [_F=ABd]4 z | z2"^Cm9" [DEGBc]2 z [DEGBc] z2 |"^Cdim7/G" [CE_GAc]6 z2 || %18
+ z2"^B6" [G,B,DF]2 z"^Bdim7/D" [B,_D=EG] z2 |"^Cm9" [DEGB]2 z"^Edim7/F" [E_GAc]3 z2 | %20
+ z2"^B9/6" [DFGc]2 z"^Ddim7" [_D=EGB] z2 |"^Cm9" [B,DEG]2 z"^F95" [G,A,_DEF]3 z2 | %22
+ z2"^B6" [G,B,DF]2 z"^Bdim7/D" [B,_D=EG] z2 |"^Cm9" [DEGB]2 z"^Edim7/F" [E_GAc]2 ec z | %24
+"^B6" .[FGBd]2 .[FGBd]2"^A9/6" [_GBc]de z |"^G9" [F_A=Bdf]4 z e2 =B | %26
+"^C9/6" .[=EABd]2 .[=EABd]2"^Edim7/F" [_E_GAc]dc z |"^B6" [DFGB]2 z2"^B6/9" .[cdfgb]2 z2 |] %28
+V:2
+ B,,2 D,,2 F,,2 E,,2 |: D,,2 B,,2 _D,,2 =E,,2 | C,,2 E,,2 F,,2 E,,2 | D,,2 B,,2 _D,,2 =E,,2 | %4
+ C,,2 E,,2 F,,2 E,,2 | D,,2 B,,2 _D,,2 =E,,2 | C,,2 E,,2 F,,2 E,,2 | C,,2 E,,2 F,,2 A,,2 |1 %8
+ B,,2 D,,2 F,,2 E,,2 ||2 B,,2 D,,2 F,,2 G,,2 :| A,,2 C,2 =E,2 _E,2 | D,2 A,,2 D,,2 ^F,,2 | %12
+ D,,2 =F,,2 A,,2 _A,,2 | G,,2 =B,,2 D,2 D,,2 | G,,2 _B,,2 D,2 _D,2 | C,2 G,,2 C,,2 =E,,2 | %16
+ C,,2 _E,,2 G,,2 _G,,2 | F,,2 A,,2 C,2 E,,2 || D,,2 B,,2 _D,,2 =E,,2 | C,,2 E,,2 F,,2 E,,2 | %20
+ D,,2 B,,2 _D,,2 =E,,2 | C,,2 E,,2 F,,2 E,,2 | D,,2 B,,2 _D,,2 =E,,2 | C,,2 E,,2 F,,2 A,,2 | %24
+ B,,2 F,,2 _A,,2 C,2 | G,,2 =B,,2 D,2 _D,2 | C,2 =E,,2 F,,2 A,,2 | B,,2 F,,2 .B,,,2 z2 |] %28
+

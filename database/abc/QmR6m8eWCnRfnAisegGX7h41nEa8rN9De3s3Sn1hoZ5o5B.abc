@@ -1,0 +1,83 @@
+X:1
+T:Allegro (Fugue)
+T:Allegro
+T:from Suite No 3 in D Minor HWV 428
+T:Georg Friedrich Händel
+C:Georg Friedrich Händel
+%%score { ( 1 3 4 ) | ( 2 5 6 ) }
+L:1/8
+Q:1/4=100
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:4 treble 
+V:2 bass 
+V:5 bass 
+V:6 bass 
+V:1
+ z D/>E/ F/>G/A/=B/ .c.G _B2 | .Ad- d/^c/d/e/ f2 e=c- | c/d/B/c/ Ad- d/e/c/d/ =Bc/d/ | %3
+ e/^g/a- a/d/=g- gf/g/ a/e/a/g/ | f/e/f/g/ cf- f/g/e- e/f/d/e/ | ^c/=B/A z e- e/d/=c/d/ Gc- | %6
+ c/d/=B- B/c/A/B/ ^GE B2- | B/c/A- A/^G/A/=B/ c/d/e- e/A/d- | de/d/ c/=B/A/=G/ Ff/e/ d/c/B/A/ | %9
+ ^GA- AG z a/=g/ f/e/d/=c/ | Bg/f/ e/d/c/B/ A2 A2 | G2 G2- G/A/F/G/ E2- | %12
+ E/F/D- D/^C/D/E/ F2- F/E/F/G/ | A2- A/F/G- G/E/F- FE | F/G/A- A/B/G/A/ ^FD z2 | %15
+ z G- G/^F/G/A/ B2- B/c/A/=B/ | ^GE z2 z A- A/^G/A/=B/ | cA/=B/ c/d/e/^f/ gd =f2 | %18
+ ea- a/^g/a/=b/ e2- e/d/e/f/ | ^GA AG Ac/_B/ A/=G/F/E/ | Dd/c/ B/A/G/F/ Ee/d/ c/B/A/G/ | %21
+ Ff/e/ d/c/B/A/ Gg/f/ e/d/c/B/ | Aa/g/ f/e/d/c/ Bd b2- | b/a/b/g/ a2- a/g/a/f/ g2- | %24
+ g/f/g/e/ f2- f/e/f/d/ e2 | d4 c2- c/B/c/A/ | %26
+ B2- B/A/B/G/ A[I:staff +1]A,/B,/ C/[I:staff -1]D/E/F/ | GC/D/ E/^F/G/A/ BB,/C/ D/E/=F/G/ | %28
+ AD/E/ F/G/A/B/ .c.G B2 | AA d>e ^cA f>g | z b/a/ g/f/e/d/ ^cA G2 | z d/c/ B/A/G/F/ EA ^F2 | %32
+ G3 G- Aa/g/ f/e/d/=c/ | =Be ^c2 df/e/ d/=c/=B/A/ | ^GE C2- C=B, A,d- | %35
+ d/e/c/d/ =B2- B/c/A- A/^G/A/B/ | c>d =B2- B/E/A- A/D/=G- | G/^F/G/A/ B>c A2- A/D/G- | %38
+ G/C/F- F/E/F/G/ A>B G2- | G/C/F- F/E/F/G/ z d/e/ f/g/a/=b/ | .c'.g _b2 .ad- d/^c/d/e/ | %41
+ .fA- A/^G/A/=B/ .cF- F/E/F/=G/ | A/^C/D- D/C/D/E/ F/A,/B,- B,/=C/A,- | %43
+ A,/C/B,/A,/ G,/F/E/D/ ^CA/G/ F/E/D/=C/ | B,B/A/ G/F/E/D/ ^CA, F2- | %45
+ F/G/E- E/F/D/E/ ^CD-[Q:1/4=80]"^Adagio" DC | D8 |] %47
+V:2
+ x8 | x8 | x8 | x8 | z D,/>E,/ F,/G,/A,/=B,/ .C.G, _B,2 | %5
+ .A,D- D/^C/D/E/ z A,,/>=B,,/ =C,/D,/E,/^F,/ | .G,.D, =F,2 =B,C B,C/D/ | E>F D2 C=B,/C/ A,>B, | %8
+ ^G,/A,/=B, C2- CB, D2- | D/=B,/C/D/ E/B,/E/D/ ^CA, D2- | %10
+ D/F/E/D/ C/B,/A,/G,/ F,/A,/=B,/^C/ F,,/G,,/A,,/=B,,/ | .C,.G,, _B,,2 .A,,D,- G,F,/G,/ | %12
+ A,>B, G,A,- A,/D,/E,/F,/ G,2- | G,/F,/G,/A,/ B,>G, A,>F, G,/D/C/B,/ | %14
+ A,>B, C2- C/D/B,/C/ G,/^F,/G,/A,/ | B,2 A,2 .G,.D, F,2 | .E,A,- A,/^G,/A,/=B,/ C2 B,2 | %17
+ A,2 A,,/=B,,/C,/D,/ E,/^F,/G, D,/E,/=F,/G,/ | A,/=B,/C/D/ ED CA, DD, | %19
+ E,A,, E,E/D/ C/_B,/A,/=G,/ F,A,, | z F, G,2 z G, A,2 | z A, B,2 z G, CE | %22
+ z F,/E,/ D,/C,/B,,/A,,/ G,,B,/A,/ G,/F,/E,/D,/ | C,4- C,4- | C,6 C2- | %25
+ C/B,/C/A,/ B,2- B,/A,/B,/G,/ A,/G,/A,/F,/ | G,B, CC, F,F,,/G,,/ A,,/B,,/C,/D,/ | %27
+ z E,2 ^F, G,2 z2 | F,2 D,2 z B,/A,/ G,/F,/E,/D,/ | ^C,D, B,,2 A,,D,,/E,,/ F,,/G,,/A,,/=B,,/ | %30
+ .C,.G,, B,,2 .A,,D,- D,/^C,/D,/E,/ | A,2 G,E, A,C, D,2 | G,,B,/A,/ G,/F,/E,/D,/ ^C,^C D2- | %33
+ D[I:staff -1]G[I:staff +1] A,A,, D,A, D2 | z A,,/=B,,/ C,/D,/E,/^F,/ .=G,.D, =F,2 | %35
+ .E,A,- A,/^G,/A,/=B,/ C>D B,2- | =B,/E,/A,- A,/^G,/A,/=B,/ C>D _B,>C | %37
+ A,2- A,/D,/G,- G,/^F,/G,/A,/ B,>C | A,>B, G,2- G,/C,/F,- F,/E,/F,/G,/ | A,>B, G,C F,>E, D,D | %40
+ A,C G,2 D2 A,2 | D,2 E,2 A,,A, =G,C, | A,>B, G,2 F,>G, E,>F, | D,4 E,2 A,F,- | %44
+ F,E, G,2- G,F,/E,/ D,A, | G,3 D, A,2 A,2 | [D,,F,A,]8 |] %47
+V:3
+ x8 | x4 z[I:staff +1] A,/>=B,/ C/D/[I:staff -1]E/^F/ | .G.D =F2 .EA- A/^G/A/=B/ | %3
+ c>A _B>c d/A/d- d^c | d/=c/B- BA G2 G2- | GF/G/ EF/G/ A2 G2 | D2 D2- DC E2 | x8 | x8 | x4 A2 z2 | %10
+ x6 D/E/F- | FE/D/ E/F/D/E/ ^C[I:staff +1]A, x2 | x8 | x8 | x6 A,[I:staff -1]D- | %15
+ D/C/D/_E/ C2 D/G/=F/=E/ D2- | D/E/C/D/ =B,E- E/[I:staff +1]D/E/F/ D2 | %17
+ EC[I:staff -1] z c- c/d/=B/c/ Ad- | dc =B2- B/A/B/c/ Fd- | d/e/c/d/ =B2 A x3 | x8 | x8 | %22
+[I:staff +1] F2[I:staff -1] z F G2 z g | ec- c/B/c/A/ B2- B/A/B/G/ | A2- A/G/A/F/ G2- G/F/G/E/ | %25
+ F2- F/E/F/D/ E2 F2- | F/D/F/E/ E2 F2 z2 | x8 | x4 z2 z G- | G/E/F/E/ D/E/F/G/ AF A2 | %30
+ G2 G2- G/A/F/G/ E2 | D2 D2 C2- C/B,/C/A,/ | B,D B2 G[I:staff +1]E x2 | %33
+ x2[I:staff -1] EA/G/ F2 z2 | DC E2 DF/E/ D/[I:staff +1]C/=B,/A,/ | ^G,[I:staff -1]E E>D E2 D2 | %36
+ E2 x6 | x8 | x8 | x4 A2- A[I:staff +1]F | E2 D[I:staff -1]G- G/E/F/G/ EA- | %41
+ A/[I:staff +1]A,/D/C/ =B,[I:staff -1]E- E/D/C/D/[I:staff +1] _B,2 | x8 | x8 | %44
+ x6[I:staff -1] A,=C- | CB,- B,[I:staff +1]G,- G,F, E,2 | x8 |] %47
+V:4
+ x8 | x8 | x8 | x8 | x8 | x4 F2- FE | GF- F[I:staff +1]A, x4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %14
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %30
+[I:staff -1] e2 x6 | F2 x6 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %46
+ x8 |] %47
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x4 .E,A,- A,/^G,/A,/=B,/ | C2 =B,2 A,=G, F,2 | E,^G, A,C, D,3 F, | %9
+ E,2 z2 z2 z F, | G,2 C,2 F,2 x2 | x6 D,/^C,/D,/E,/ | F,>G, E,A,, D,,D, B,,=C, | %13
+ F,,F, D,E, C,D, B,,C, | .F,.C, _E,2 .D,G,- x2 | x8 | x8 | x8 | x8 | x8 | B,,2 z =B,, C,2 z ^C, | %21
+ D,2 z D, E,2 z2 | x8 | x8 | x8 | x8 | x8 | E,C, B,,A,, G,,G,,/A,,/ B,,/C,/D,/E,/ | x8 | x8 | x8 | %31
+ F,D, x6 | x6 DF, | G,E, x6 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | F,2 E,A,, D,2 =C,2 | %43
+ B,,3 B,, A,,^C, D,2 | G,,3 B,, z D,,/E,,/ F,,/G,,/A,,/=B,,/ | .C,.G,, _B,,2 A,,D,, A,,2 | x8 |] %47
+V:6
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 z D,,/E,,/ x2 | x8 | x8 | x8 | x8 | x8 | x8 | %17
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %36
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 A,,2 x2 | x8 | x8 |] %47
+

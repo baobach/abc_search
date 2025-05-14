@@ -1,0 +1,56 @@
+X:1
+T:Dir, Herr, dir will ich mich ergeben
+T:Anton Bruckner (1824-1896)
+T:Ludwig Rudolph von Senftt zu Pilsach 
+T:Dir, Herr, dir will ich mich ergeben
+T:WAB 12
+C:Anton Bruckner
+C:(1824-1896)
+Z:Ludwig Rudolph von Senftt zu Pilsach
+%%score [ 1 2 3 4 ]
+L:1/8
+M:2/2
+K:A
+V:1 treble nm="Sopran" snm="S."
+V:2 treble nm="Alt" snm="A."
+V:3 treble-8 transpose=-12 nm="Tenor" snm="T."
+V:4 bass nm="Bass" snm="B."
+V:1
+"^Choral" A4 E4 | F4 E2 E2 | d4 c4 | (c2 B2) !fermata!A4 | (F4 G4) | A4 B4 | c4 (A2 G2) | F4 d4 | %8
+w: Dir, Herr,|dir will ich|mich er-|ge- * ben,|dir, _|des- sen|Ei- gen- *|tum ich|
+ !fermata!B8 | (A4 E4) | F4 G4 | A8 | A8 | G4 F4 | (E4 F4) | !fermata!G8 | E8 | ^D4 C4 | B,4 G4 | %19
+w: bin.|Nur _|du al-|lein,|du|bist mein|Le- *|ben|und|Ster- ben|wird mir|
+ c4 (^d2 c2) | !fermata!^B8 | z4 =B4 | c4 (B2 A2) | !fermata!G8 | z4 A4 | G4 (A2 G2) | %26
+w: dann Ge- *|winn.|Ich|le- be _|dir,|ich|ster- be _|
+ !fermata!F8 | z4 F4 | E4 d4 | c4 B4 | B4 B4 | !fermata!A8 |] %32
+w: dir.|Sei|du nur|mein, so|g'nügt es|mir.|
+V:2
+ C4 C4 | D4 C2 C2 | (F2 G2) A4 | (A2 G2) !fermata!A4 | (D4 E2 D2) | C4 D4 | C4 C4 | (D2 F2) F4 | %8
+w: Dir, Herr,|dir will ich|mich * er-|ge- * ben,|dir, _ _|des- sen|Ei- gen-|tum * ich|
+ !fermata!E8 | C8 | C4 ^E4 | F8 | F8 | =E4 ^D4 | (E4 ^D2 C2) | !fermata!^B,8 | C8 | B,4 ^A,4 | %18
+w: bin.|Nur|du al-|lein,|du|bist mein|Le- * *|ben|und|Ster- ben|
+ G,4 E4 | G4 A4 | !fermata!G8 | z4 G4 | A4 (G2 F2) | !fermata!E8 | z4 F4 | F4 ^E4 | !fermata!F8 | %27
+w: wird mir|dann Ge-|winn.|Ich|le- be _|dir,|ich|ster- be|dir.|
+ z4 D4 | E4 (F2 G2) | A4 A4 | A4 G4 | !fermata!A8 |] %32
+w: Sei|du nur _|mein, so|g'nügt es|mir.|
+V:3
+ A4 A4 | A4 A2 A2 | (d2 e2) e4 | (e2 d2) !fermata!c4 | (A4 E4) | E4 G4 | G4 (A2 B2) | A4 B4 | %8
+w: Dir, Herr,|dir will ich|mich * er-|ge- * ben,|dir, _|des- sen|Ei- gen- *|tum ich|
+ !fermata!G8 | A8 | c4 B4 | A8 | c8 | B4 (B2 A2) | (G4 C4) | !fermata!^D8 | E8 | (F2 G2) ^A4 | %18
+w: bin.|Nur|du al-|lein,|du|bist mein _|Le- *|ben|und|Ster- * ben|
+ B4 G4 | e4 ^d4 | !fermata!^d8 | z4 e4 | e4 ^d4 | !fermata!e8 | z4 c4 | d4 (c2 B2) | !fermata!A8 | %27
+w: wird mir|dann Ge-|winn.|Ich|le- be|dir,|ich|ster- be _|dir.|
+ z4 A4 | A4 (d2 e2) | e4 f4 | e4 (e2 d2) | !fermata!c8 |] %32
+w: Sei|du nur _|mein, so|g'nügt es _|mir.|
+V:4
+ A,,4 A,,4 | D,4 A,,2 A,,2 | B,,4 (C,2 D,2) | E,4 !fermata!A,,4 | (D,4 C,2 B,,2) | %5
+w: Dir, Herr,|dir will ich|mich er- *|ge- ben,|dir, _ _|
+ A,,4 (G,,2 F,,2) | ^E,,4 F,,4 | D,4 B,,4 | !fermata!E,8 | A,,8 | A,,4 G,,4 | F,,8 | F,,8 | %13
+w: des- sen _|Ei- gen-|tum ich|bin.|Nur|du al-|lein,|du|
+ (G,,2 A,,2) B,,4 | (C,4 A,,4) | !fermata!G,,8 | C,8 | (^D,2 E,2) F,4 | G,4 E,4 | E,4 F,4 | %20
+w: bist * mein|Le- *|ben|und|Ster- * ben|wird mir|dann Ge-|
+ !fermata!G,8 | z4 E,4 | A,,4 B,,4 | !fermata!E,8 | z4 F,4 | B,,4 C,4 | !fermata!F,8 | z4 D,4 | %28
+w: winn.|Ich|le- be|dir,|ich|ster- be|dir.|Sei|
+ C,4 B,,4 | A,,4 D,2 ^D,2 | E,4 E,4 | !fermata!A,,8 |] %32
+w: du nur|mein, so _|g'nügt es|mir.|
+

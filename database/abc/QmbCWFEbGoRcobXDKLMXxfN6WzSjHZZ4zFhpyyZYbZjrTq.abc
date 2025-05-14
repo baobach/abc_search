@@ -1,0 +1,76 @@
+X:1
+T:Berceuse
+T:Berceuse
+T:No. 3 from Suite Polonaise, Op. 23
+T:Felix Blumenfeld (1863-1931) 
+C:Felix Blumenfeld (1863-1931)
+%%score { ( 1 2 5 ) | ( 3 4 6 ) }
+L:1/8
+Q:1/4=92
+M:3/4
+K:Gb
+V:1 treble nm="Grand Piano" snm="Pno."
+V:2 treble 
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:6 bass 
+V:1
+"^Andantino semplice"!pp! z2"_molto legato" x4 | x6 |: (e3 gfa | gfegfB | eB A2 GF) | (eB A2 GF) | %6
+ (e3 gfa | gfegfB | eB A2 GF) | (eB{/cd} c2 BA) | (g3 bac' | bagbad) | (gd c2 BA) | (gd c2 BA) | %14
+ (g3 bac' | bagbag | fagfef) | (B4 f2 | e2) (!tenuto!B4- | B=c=defg | e2) (!tenuto!B4- | %21
+!<(! B=c=defg) | (eg!<)!!f!abc'e') | (df"_dim."gabd') | (cefgac') | (cefgac') |!>(! (bagfef!>)! | %27
+!pp! B4 f2) ||[Q:1/4=110]"^Poco più mosso"!p! (e6- | efgfec' | b4) (ef | gab=c'=d'e' | f'g'f'age' | %33
+ =d'e'd'fe_d' | c'=d_dbac | Bg{/fg}[Af][Ge][Af][Bg]) | (e6- | efgfec' | %38
+!p!"_cresc." b4)!mp!!<(! (ef | gab=c'=d'e'!<)! |!f! f'b')(!>!a'c'bg' | f'g'f'"_dim."age' | %42
+ =d'fe!>(!_d'c'=d | _db[ca][Bg][Af][Bg]!>)! |!p! [EGe]2) z2 z2 | (!>![Bb]6 |1 %46
+ e'2)"_dim." z2"^più tranquillo"[Q:1/4=106] z2 |[Q:1/4=104] (B6[Q:1/4=102][Q:1/4=100] | %48
+[Q:1/4=98] e2)!pp![Q:1/4=96] (B4[Q:1/4=94] |[Q:1/4=92]"^Tempo I" e2) B4 :|2 %50
+ (e'2[Q:1/4=100] z2)[Q:1/4=90] z2 ||[Q:1/4=80]!p! ([Bb]6 | [cc']6 | [dd']6 |!mp!!>(! [cc']6)!>)! | %55
+!p! [B=dfb-]6 |!pp! [Begb]6 |!ppp! E2 z2 z2 |] %58
+V:2
+ x2 B4- | B2 B4- |: B2 B4 | [GB]2 B4 | G2 B4- | [GB]2 B4- | [GB]2 B4 | [GB]2 B4 | G2 B4 | %9
+ G2 x2 [Fd]2 | [Bd]2 z2 z2 | [Bd]2 z2 z2 | B2 d4- | [Bd]2 d4 | [Bd]2 z2 z2 | [Bd]2 c4 | c2 =c4 | %17
+ F4- [FB-]2 | [GB]2 F2 E2 | F4 B2- | [GB]2 (F2 E2 | F4 B2) | B2 e4 | d2 d4 | c2 c4- | c2 c4 | %26
+ [Be]4 c2 | F4- [FB]2 || [EG]2 z2 z2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | G2 z2 z2 | x6 | x6 | x6 | %40
+ x6 | x6 | x6 | x6 | x6 | z2!>(! ([=ce]2 [=df]2!>)! |1 [eg]2) x4 | z2!>(! (E2 F2!>)! | %48
+ [EG]2) (E2 F2 | [EG]2) (E2 F2) :|2 [eg]2 x4 || z2 ([=ce]2 [=df]2-) | [df]2!<(! ([eg]2 [fa]2-) | %53
+ [fa]2 ([fa]2 (!>![gb]2-)!<)! | [gb]2 [fa]2 [eg]2) | x6 | x6 | x6 |] %58
+V:3
+ E,,2[I:staff -1] ([=CE]2 [=DF]2 | [EG]2) ([=CE]2 [=DF]2 |: [EG]2)[I:staff +1] ([=CE]2 [=DF]2 | %3
+ E2) ([=CE]2 [=DF]2 | E2) (=C2 =D2 | E2) (=C2 =D2 | E2) ([=CE]2 [=DF]2 | E2) ([=CE]2 [=DF]2 | %8
+ E2) (=C2 =D2 | E2) E2 (DC) | G2[K:treble] ([EG]2 [FA]2 | G2) ([EG]2 [FA]2 | G2) (E2 F2 | %13
+ G2) (E2 F2 | G2) ([EG]2 [FA]2 | G2) (E4- | E3 F GF) | E2 =D=C [DA]2 | [B,E]2 =D2 =C2 | %19
+ =D4- [DA]2 | E2 =D2 =C2 | =D4- [DA]2 | G2 !tenuto!c4- | c2 B4- | B2 A4 | B2 A4 | [G,EG]4 [A,E]2 | %27
+ (E2 =D=C D2) ||[K:bass]!ped! (E,,B,,G,B,,G,E |[K:treble] B,Ge) z z2!ped-up! | %30
+[K:bass]!ped! (E,,B,,G,B,,G,E |[K:treble] B,Ge) z z2!ped-up! |[K:bass]!ped! (E,,C,A,=D,CA, | %33
+ FCA,F, C,2)!ped-up! |!ped! (E,,C,A,=D,CA, | FCA,F,C,B,,)!ped-up! |!ped! (E,,B,,G,B,,G,E | %37
+[K:treble] B,Ge) z z2!ped-up! |[K:bass]!ped! (E,,B,,G,B,,G,E |[K:treble] B,Ge) z z2!ped-up! | %40
+[K:bass]!ped! (E,,C,A,=D,CA, | FCA,F, C,2)!ped-up! |!ped! (E,,C,A,=D,CA, | %43
+ =DA,F,=D,C,B,,)!ped-up! |!ped! (E,,B,,G,[K:treble]B,EB)!ped-up! | z2 ([=CE]2 [=DF]2) |1 %46
+[K:bass]!ped! (E,,B,,E,G,B,E)!ped-up! | z2 (=C2 =D2) | z2 (=C2 =D2) | z2 (=C2 =D2) :|2 %50
+!ped! (E,,B,,G,[K:treble]B,EB)!ped-up! || z2 ([=CE]2 [=DF]2-) | [DF]2 ([EG]2 [FA]2-) | %53
+ [FA]2 ([FA]2 (!>![GB]2-) | [GB]2 [FA]2 [EG]2) |!ped! ([B,=DF]6!ped-up! |!ped! [EG]6)!ped-up! | %57
+[K:bass]!ped! [E,G,]2!ped-up! z2 z2 |] %58
+V:4
+ x2 B,4 | E,2 B,4 |: E,2 B,4 | E,2 B,4 | E,2 B,4- | [E,B,]2 B,4- | [E,B,]2 B,4 | E,2 B,4 | %8
+ E,2 B,4- | ([E,B,]2 A,2 D,2) | [G,B,]2[K:treble] [D-d]4 | [G,D]2 [D-d]4 | [G,D]2 D4- | %13
+ [G,D]2 D4- | [G,D]2 [D-d]4 | D2 x2 F,2 | A,2 =A,4 | B,4 x2 | E,6- | E,4 x2 | E,6- | E,4 B,2 | %22
+ E2 ([A,G]4 | [DF]2) ([G,F]4 | [CE]2) [F,E]4 | [CE]2 [F,E]4 | x6 | B,6 ||[K:bass] x6 | %29
+[K:treble] x6 |[K:bass] x6 |[K:treble] x6 |[K:bass] x6 | x6 | x6 | x6 | x6 |[K:treble] x6 | %38
+[K:bass] x6 |[K:treble] x6 |[K:bass] x6 | x6 | x6 | x6 | x3[K:treble] x3 | B,6 |1[K:bass] x6 | %47
+ B,6- | [E,B,]2 B,4- | [E,B,]2 B,4 :|2 x3[K:treble] x3 || (B,6 | A,6 | G,6 | A,6) | x6 | x6 | %57
+[K:bass] [E,,,E,,]2 x4 |] %58
+V:5
+ x6 | x6 |: x6 | x6 | x3/2 (2:1:2A/-[xB]/- x2 x2- | x3/2 (2:1:2A/-[xB]/- x2 x2- | x2 x4 | x6 | %8
+ x3/2 (2:1:2A/[xB]/- x2 x2 | x6 | x6 | x6 | x3/2 (2:1:2c/-[xd]/- x2 x2- | %13
+ x3/2 (2:1:2c/-[xd]/- x2 x2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %27
+ x6 || x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |1 %46
+ x6 | x6 | x6 | x6 :|2 x6 || x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %58
+V:6
+ x6 | x6 |: x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x2[K:treble] x4 | x6 | x6 | x6 | x6 | G,4 x2 | %16
+ x6 | x6 | x6 | x4 B,2- | B,2 x4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 ||[K:bass] x6 |[K:treble] x6 | %30
+[K:bass] x6 |[K:treble] x6 |[K:bass] x6 | x6 | x6 | x6 | x6 |[K:treble] x6 |[K:bass] x6 | %39
+[K:treble] x6 |[K:bass] x6 | x6 | x6 | x6 | x3[K:treble] x3 | x6 |1[K:bass] x6 | x6 | x6 | x6 :|2 %50
+ x3[K:treble] x3 || x6 | x6 | x6 | x6 | x6 | x6 |[K:bass] x6 |] %58
+

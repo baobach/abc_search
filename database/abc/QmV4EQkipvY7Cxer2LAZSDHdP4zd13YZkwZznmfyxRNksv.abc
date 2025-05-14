@@ -1,0 +1,104 @@
+X:1
+T:6 Lieder, Op.23
+T:Geheimes Flüstern hier und dort
+T:6 Lieder, Op.23
+T:3. Geheimes Flüstern hier und dort
+T:Clara Schumann
+T:Hermann Rollet
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+C:Clara Schumann
+Z:Hermann Rollet
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | 4 }
+L:1/8
+Q:1/4=62
+M:3/8
+K:Db
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:1
+"^Langsam und sehr leise" z3 | z3 | z3 | z3 | z3 | z3 | z3 |!mf! z2 A |: f2 c | d2 =A | B2 F | %11
+w: |||||||1. Ge-|hei- mes|Flü- stern|hier und|
+w: ||||||||schreit ich|in den|Wald hin-|
+w: ||||||||lei- se|mich um-|schwebt, um-|
+ G2 z | z2 G |!<(! B2!<)! e | d2 c |!>(! B2!>)! A | z2 A | B2"^cresc." B | c3- | c2 f |!mf! f3 | %21
+w: dort,|ver-|borg'- nes|Quel- len-|rau- schen,|o|Wald, o|Wald|_ ge-|weih-|
+w: aus,|da|grü- ssen|mich die|Bäu- me|du|lie- bes|frei-|* es|Got-|
+w: klingt,|ich|will es|treu be-|wah- ren,|und|was mir|tief|_ zum|Her-|
+ =e3 | f3- | f2 z | z2 G | B2 e | e3- | e2 A |"^cresc." (B3 | e2) g | g3- | g2[Q:1/4=59] z | %32
+w: ter|Ort,|_|lass|mich des|Le-|* bens|rein-|* stes|Wort|_|
+w: tes-|haus,|_|du|schlie- ssest|mich|_ mit|Sturm-|* ge-|braus|_|
+w: zen|dringt,|_|will|ich, vom|Geist|_ der|Lieb'|_ be-|schwingt|_|
+ z2!p![Q:1/4=58] c | d2 e |[Q:1/4=57] d3- | d2 =A |!pp![Q:1/4=56] (B3 | c3) | d2 z[Q:1/4=57] | %39
+w: in|Zweig und|Blatt|_ be-|lau-||schen!|
+w: in|dei- ne|küh-|* len|Räu-||me!|
+w: in|Lie- dern|of-|* fen-|ba-||ren!|
+ z3 |1,2[Q:1/4=58] z3 |[Q:1/4=59] z3 |[Q:1/4=60] z3 |[Q:1/4=61] z3 | z3 | z2 A[Q:1/4=62] :|3 z3 || %47
+w: ||||||2. Und||
+w: ||||||3. Was||
+w: ||||||||
+ z3 |[Q:1/4=56] z3 |[Q:1/4=55] z3 |[Q:1/4=54] z3 | z3 |[Q:1/4=53] z3 |[Q:1/4=52] z3 | z3 | z3 |] %56
+w: |||||||||
+w: |||||||||
+w: |||||||||
+V:2
+!p! (f3/2 d3/2 | =A2 B) | (e3/2 c3/2 | =G2 A) | (d3/2 G3/2- | ^F2 =G) | (c3/2 _c3/2 | B3/2 A3/2) |: %8
+!pp! (f3/2 c3/2 | d3/2 =A3/2) | (B3/2 F3/2 | G3/2 =D3/2) | E3/2[I:staff +1] E3/2 | %13
+[I:staff -1] G3/2[I:staff +1] B3/2 |[I:staff -1] (d2 c | B2 A) | A3 | B3 | c3- | c2 f |!mf! f3 | %21
+ =e3 | f2 z | x3 |!p! G3 | B3 | B3 | A3 | B3 | d3 | d3 |!>(! c2!>)! g |!p! (f2 c) | d2 e | %34
+ (d3/2 =A3/2 | B3/2 F3/2) |!pp! B3 | __B3 | (f3/2 d3/2 | =A2 B) |1,2 (e3/2 c3/2 | =G2 A) | %42
+ (d3/2 G3/2- | ^F2 =G) | (c3/2 _c3/2 | B3/2 A3/2) :|3 (e3/2 c3/2 || =G2 A) | (d3/2 G3/2- | G2 F) | %50
+ (B3/2 E3/2- | E2 [CF]) | (D3/2[I:staff +1] D3/2 |[I:staff -1] F3/2 A3/2) | d3- | d2 z |] %56
+V:3
+ f/A/F/ x3/2 | =A/_F/D/ x3/2 | e/_A/E/ x3/2 | =G/=D/_C/ x3/2 | d/_G/D/ x3/2 | ^F/[C=E]/=G,/ x3/2 | %6
+ c/F/C/ x3/2 | B/E/B,/ x3/2 |: f/d/A/ __B/G/E/ | d/_B/F/ G/E/C/ | B/F/D/[I:staff +1] =D/_C/A,/ | %11
+[I:staff -1] G/E/B,/[I:staff +1] _C/A,/F,/ |[I:staff -1] E/B,/G,/[I:staff +1] E/B,/G,/ | %13
+[I:staff -1] G/E/B,/[I:staff +1] B/G/E/ |[I:staff -1] d/[GA]/E/[I:staff +1] G/E/A,/ | %15
+[I:staff -1] B/G/D/[I:staff +1] G/E/C/ |[I:staff -1] A/[DF]/A,/[I:staff +1] D/[F,A,]/D,/ | %17
+[I:staff -1] B/[=E=G]/D/"_cresc."[I:staff +1] D/[=E,=G,]/D,/ | %18
+[I:staff -1] c/[F=A]/C/[I:staff +1] C/[F,=A,]/C,/ | %19
+[I:staff -1] c/[F=A]/C/[I:staff +1] C/[F,=A,]/C,/ | %20
+[I:staff -1] f/[Bc]/F/[I:staff +1] F/[B,C]/=G,/ | %21
+[I:staff -1] =e/[Bc]/=E/[I:staff +1] =E/[B,C]/=G,/ |[I:staff -1] f/[=Ac]/F/ c/[FA]/C/ | %23
+ (=A/[CF]/=A,/[I:staff +1] F/[=A,C]/F,/) |[I:staff -1] G/E/B,/[I:staff +1] E/[G,B,]/E,/ | %25
+[I:staff -1] B/[EG]/B,/[I:staff +1] E/[G,B,]/E,/ | %26
+[I:staff -1] B/[EG]/B,/[I:staff +1] E/[G,B,]/E,/ | %27
+[I:staff -1] (A/[EG]/A,/[I:staff +1] E/[G,A,]/E,/) | %28
+[I:staff -1] B/[EG]/B,/"_cresc."[I:staff +1] E/[G,B,]/E,/ | %29
+[I:staff -1] d/[EG]/D/[I:staff +1] E/[E,G,]/D,/ |[I:staff -1] d/[EG]/D/[I:staff +1] D/G,/E,/ | %31
+[I:staff -1] c/[EG]/C/[I:staff +1] C/G,/E,/ |[I:staff -1] f/c/F/[I:staff +1] F/E/=A,/ | %33
+[I:staff -1] d/[F=A]/E/[I:staff +1] F/E/=A,/ |[I:staff -1] d/B/F/ =A/_G/E/ | %35
+ B/F/D/[I:staff +1] D/_C/D,/ |[I:staff -1] B/G/D/[I:staff +1] B,/G,/D,/ | %37
+[I:staff -1] __B/G/E/[I:staff +1] __B,/G,/E,/ |[I:staff -1] f/A/F/[I:staff +1] A/F/A,/ | %39
+[I:staff -1] =A/_F/D/[I:staff +1] _F/D/=G,/ |1,2[I:staff -1] e/A/E/[I:staff +1] E/A,/E,/ | %41
+[I:staff -1] =G/=D/_C/[I:staff +1] =D/A,/F,/ |[I:staff -1] d/_G/D/[I:staff +1] D/G,/D,/ | %43
+[I:staff -1] ^F/[=C=E]/=G,/[I:staff +1] C/[=E,=G,]/C,/ | %44
+[I:staff -1] c/F/C/[I:staff +1] _C/[=D,F,]/A,,/ |[I:staff -1] B/E/B,/[I:staff +1] =C/G,/A,,/ :|3 %46
+[I:staff -1] e/A/E/[I:staff +1] E/A,/E,/ ||[I:staff -1] =G/=D/_C/[I:staff +1] =D/A,/F,/ | %48
+[I:staff -1] d/_G/D/[I:staff +1] _D/B,/D,/ |[I:staff -1] G/C/__B,/[I:staff +1] _C/A,/D,/ | %50
+[I:staff -1] B/E/B,/[I:staff +1] B,/=G,/D,/ |[I:staff -1] D/__B,/G,/[I:staff +1] A,/G,/A,,/ | %52
+[I:staff -1] D/[I:staff +1]A,/F,/ D/A,/F,/ |[I:staff -1] F/D/A,/ A/F/D/ | d3 | x3 |] %56
+V:4
+!ped! D, z/ A/F/A,/!ped-up! |!ped! z z/ _F/D/=G,/!ped-up! |!ped! C, z/ E/A,/E,/!ped-up! | %3
+!ped! _C, z/ =D/A,/F,/!ped-up! |!ped! B,, z/ D/G,/D,/!ped-up! | %5
+!ped! B,,, z/ C/[=E,=G,]/C,/!ped-up! |!ped! A,, z/ _C/[=D,F,]/A,,/!ped-up! | %7
+!ped! _G,, z/ =C/!ped-up!G,/A,,/ |:!ped! D, z/!ped! x/!ped-up! x | %9
+!ped! z z/!ped! x/!ped-up! x!ped-up! |!ped! D, z/!ped! x/!ped-up! x!ped-up! | %11
+!ped! z z/ x/ x!ped-up! |!ped! D,, z/ z!ped-up! z/ |!ped! z z/[K:treble] z z/!ped-up! | %14
+[K:bass]!ped! D, z/ x/ x!ped-up! |!ped! z z/ x/!ped-up! x |!ped! D,, z/ x/!ped-up! x | %17
+!ped! B,, z/ x/ x!ped-up! |!ped! F,, z/ x/ x!ped-up! |!ped! =A,,, z/ x/ x!ped-up! | %20
+!ped! C,, z/ x/ x!ped-up! |!ped! z z/ x/ x!ped-up! |!ped! F,, z/ x x/!ped-up! | z z/ x/ x | %24
+!ped! E, z/ x/ x!ped-up! |!ped! D, z/ x/ x!ped-up! |!ped! C, z/ x/ x!ped-up! | %27
+!ped! z z/ x/ x!ped-up! |!ped! B,, z/ x/ x!ped-up! |!ped! __B,, z/ x/ x!ped-up! | %30
+!ped! A,, z/ x/ x!ped-up! |!ped! z z/ x/ x!ped-up! |!ped! =A,, z/ x/ x!ped-up! | %33
+!ped! F,, z/ x/ x!ped-up! |!ped! B,, z/ x/ x!ped-up! |!ped! z z/ x/ x!ped-up! | %36
+!ped! G,, z/ x/ x!ped-up! |!ped! z z/ x/ x!ped-up! |!ped! D,, z/ x/ x!ped-up! | %39
+!ped! z z/ x/ x!ped-up! |1,2!ped! C, z/ x/ x!ped-up! |!ped! _C, z/ x/ x!ped-up! | %42
+!ped! B,, z/ x/ x!ped-up! |!ped! B,,, z/ x/ x!ped-up! |!ped! A,, z/ x/ x!ped-up! | %45
+!ped! _G,, z/ x/ x!ped-up! :|3!ped! D,, z/ x/ x!ped-up! ||!ped! z z/ x/ x!ped-up! | %48
+!ped! D,, z/ x/ x!ped-up! |!ped! z z/ x/ x!ped-up! |!ped! D,, z/ x/ x!ped-up! | %51
+!ped! z z/ x/ x!ped-up! |!ped! D,, z/ x/ x!ped-up! | z z/ x/ x | z3 | z3 |] %56
+

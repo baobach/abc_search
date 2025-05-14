@@ -1,0 +1,43 @@
+X:1
+T:Blues Riff in C
+T:Blues Riff in C
+T:Berklee School of Music - Developing Your Musicanship
+T:Daniels Elizabeth Calvin
+T:05/19/2016
+T:05/19/2016
+C:Daniels Elizabeth Calvin
+Z:05/19/2016
+%%score { 1 | 2 } 3 ( 4 5 )
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:3 treble nm="Riff" snm="Riff"
+V:4 perc stafflines=3 nm="Drumset" snm="Drs."
+K:none
+I:percmap ^d d 42 x
+I:percmap c c 40 normal
+V:5 perc stafflines=3 
+K:none
+I:percmap A A 35 normal
+V:1
+!pp! [_B,EG]8 | [_B,EG]8 | [_B,EG]8 | [_B,EG]8 | [_EAc]8 | [_EAc]8 | [_B,EG]8 | [_B,EG]8 | [FBd]8 | %9
+ [_EAc]8 | [_B,EG]8 | [_B,EG]8 |] %12
+V:2
+!pp! C,,8 | C,,8 | C,,8 | C,,8 | F,,8 | F,,8 | C,,8 | C,,8 | G,,8 | F,,8 | C,,8 | C,,8 |] %12
+V:3
+!mf! c6 _e2 | f3 g2 g f3/2 z/ | c2 !stemless!B2 !stemless!B2 !stemless!B2 | %3
+ !stemless!B2 !stemless!B2 !stemless!B2 !stemless!B2 | c6 _e2 | f3 g2 g f3/2 z/ | %6
+ c2 !stemless!B2 !stemless!B2 !stemless!B2 | !stemless!B2 !stemless!B2 !stemless!B2 !stemless!B2 | %8
+ c>c' _bg fg>_ef | _B>c g/ z/ f/f/ _e/ z/ [Cc]/[_Ee]/ [Ee]/ z/ [Ff]7/8[Cc]/8 | c6 z2 | %11
+ !stemless!B2 !stemless!B2 !stemless!B2 !stemless!B2 |] %12
+V:4
+!mp! ^d^d[c^d]^d ^d^d[c^d]^d | ^d^d[c^d]^d ^d^d[c^d]^d | ^d^d[c^d]^d ^d^d[c^d]^d | %3
+ ^d^d[c^d]^d ^d^d[c^d]^d | ^d^d[c^d]^d ^d^d[c^d]^d | ^d^d[c^d]^d ^d^d[c^d]^d | %6
+ ^d^d[c^d]^d ^d^d[c^d]^d | ^d^d[c^d]^d ^d^d[c^d]^d | ^d^d[c^d]^d ^d^d[c^d]^d | %9
+ ^d^d[c^d]^d ^d^d[c^d]^d | ^d^d[c^d]^d ^d^d[c^d]^d | ^d^d[c^d]^d ^d^d[c^d]^d |] %12
+V:5
+ A z z2 A z z2 | A z z2 A z z2 | A z z2 A z z2 | A z z2 A z z2 | A z z2 A z z2 | A z z2 A z z2 | %6
+ A z z2 A z z2 | A z z2 A z z2 | A z z2 A z z2 | A z z2 A z z2 | A z z2 A z z2 | A z z2 A z z2 |] %12
+

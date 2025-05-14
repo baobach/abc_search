@@ -1,0 +1,39 @@
+X:1
+T:Temer, Donna, non dei
+T:Constantijn Huygens
+T:Temer, Donna, non dei
+C:Constantijn Huygens
+%%score 1 2 { ( 3 4 ) | 5 }
+L:1/8
+Q:1/4=50
+M:4/4
+K:Bb
+V:1 treble nm="Soprano" snm="S"
+V:2 treble transpose=-12 nm="Viola da Gamba" snm="V.Gam."
+V:3 treble nm="Harpsichord" snm="Hpschd."
+V:4 treble 
+V:5 bass 
+V:1
+ z2 GG B2 ^FF | G4 D4 | z2 D2 GGAA | BBcc d4 | !fermata!d2 z d BFFF | G2 G2 z2 GG | %6
+w: Te- mer, Don- na, non|de- i,|ch'io sco- pra al- trui gia-|mai gl'in- cen- di mie-|i. Il mio rin- chiu- so ar-|do- re Non ve-|
+ c2 BB AF AB/4 c/4d/4c/4 | c4 B4 :: d6 A2 | A2 AG G2 c2- | c2 FF F4 | G2 C2 EEFF | GGGc BGed | %13
+w: drà, non sa- prà, (non ch'al- tri) A- * *|mo- re.|Ar- do e|sem- pre ar- de- rò ta-|* ci- to a- man-|te, Se pur tra fiam- me|tan- te, fiam- me tan- te, fiam- me|
+ c2 BA GABc | d2 dA A2 G2 | ^F2 z A d2 FG | A4 d4- | d2 eA A2 B c/d/ | A4 G4 :| %19
+w: tan- te Non s'a- pre il pet- to e|fo- re L'i- ma- gin|tua, l'i- ma- gin _|tua non|_ ma- ni- fes- ta il _|co- re.|
+V:2
+ g4 d4 | g4 ^f4 | g2 G6 | gf e2 d4 | d2 B6 | e4 =e4 | =e4 f2 F2 | f4 B4 :: B2 c2 d4 | %9
+ d2 c2 =B2 c2 | A2 B2 F4 | c8 | c4 e4 | f4 gf e2 | d4 ^c4 | d8 | d4 =B4 | c4 d4 | D4 G4 :| %19
+V:3
+ [DGB]4- B2 z2 | [B,DG]4 [A,D^F]4 | z2 D2 [B,DG]2 [D^FA]2 | [DG]2 [EG]2 [DA]4 | %4
+ [D^FAd]2 [D=FB]2 [DF]2 [DF]2 | [CG]4 [CG]4 | [=EGc]4 [CFA]4 | c4 B4 :: [GBd]4 [FAd]4 | %9
+ [D^FA]4 [DG=B]2 [=EGc]2 | [=EAc]2 [B,DF]2 [A,CF]4 | [C=EG]4 [C_EG]2 [CF_A]2 | %12
+ [CEG]2 [=EGc]2 [_EGB]2 [GBe]2 | [FAc]2 [DFB]2 [B,DG]2 [EGB]2 | [FAd]4 [=EA^c]4 | [D^FA]4 [A,DF]4 | %16
+ [D-^F-A]4 [DF]4 | [D-^F]2 [DG]2 [=FA]2 [GB]2 | ^F4 [DG]4 :| %19
+V:4
+ B,4 [DG]2 [A,D^F]2 | x8 | x8 | B,2 C2 AG^FG | x8 | x8 | x8 | F2 E/D/E D4 :: x8 | x8 | x8 | x8 | %12
+ x8 | x8 | x8 | x8 | x8 | x8 | D2 C2 B,4 :| %19
+V:5
+ G,4 D,4 | G,4 ^F,4 | G,2 G,,6 | G,F, E,2 D,4 | D,2 B,,6 | E,4 =E,4 | =E,4 F,2 F,,2 | F,4 B,,4 :: %8
+ B,,2 C,2 D,4 | D,2 C,2 =B,,2 C,2 | A,,2 B,,2 F,,4 | C,8 | C,4 E,4 | F,4 G,F, E,2 | D,4 ^C,4 | %15
+ D,8 | D,4 =B,,4 | C,4 D,4 | D,,4 G,,4 :| %19
+

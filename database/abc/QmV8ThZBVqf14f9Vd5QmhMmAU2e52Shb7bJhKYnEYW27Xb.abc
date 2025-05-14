@@ -1,0 +1,51 @@
+X:1
+T:Schubert's Seranade Piano Solo
+T:Schubert's Serenade Piano Solo
+T:Franz Schubert
+C:Franz Schubert
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=52
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^\n"!mp! z2 [FAd]2 [Adf]2 z2 | z2 [FBd]2 [Bdf]2 z2 | z2 [EGd]2 [GBe]2 z2 | z2 [EG^c]2 [Gce]2 z2 | %4
+!p! (3ABA d2- d3 A | (3GAG d2- d3 G | A4- AG (3GFE | F8 | (3ABA f2- f3 A | (3GAG e2- e3 d | %10
+ c4- cB (3BAG | A8 | A^c f2- f3 e | dA F2- F3 D | (3BAB d2- d3 B | A8 | A^c f2- f3 e | %17
+ dA ^F2- F3 D | (3=B^AB [Bd]2- [Bd]3 [GB] | [^FA]4 z A A/d/^f/a/ | %20
+!p! (3[eg][^d^f][eg] [g=b]2- [gb]3 [=eg] | [=d^f]4- [df]A^FD | [GB]6 [Bd]>[GB] | [^FA]8 | %24
+ [G=B]6 [Bd]>[GB] | !fermata![^FA]4!<(! (7:4:7C/D/E/=F/G/_A/B/ (7:4:7c/d/e/=f/g/_a/b/!<)! || %26
+[K:Ab]!f! (3[cac'][dbd'][cac'] [faf']2- [faf']3 [cac'] | %27
+ (3[Bgb][cac'][Bgb] [fd'f']2- [fd'f']3 [Bdb] | [c=ec']4- [cec'][Bgb] (3[Bgb][Afa][Geg] | [Afa]8 | %30
+ (3[cac'][dbd'][cac'] [ac'a']2- [ac'a']3 [cec'] | (3[Bdb][cec'][Bdb] [gbg']2- [gbg']3 [faf'] | %32
+ [ege']4- [ege'][dbd'] (3[dbd'][cac'][Bgb] | [cac']8 | [c=ec'][eg=e'] [ae'a']2- [ae'a']3 [ge'g'] | %35
+ [f=af'][cc'] [=Af=a]2- [Afa]3 [Ff] | (3[=db=d'][^c=a^c'][dbd'] [fd'f']2- [fd'f']3 [dbd'] | %37
+ [c^ac']6!>(! F/=A/c!>)! |!mp! [Bd]6 [df]>[Bd] | [=Ac]8 |[K:F] [Bd]6 [df]>[Bd] | %41
+ [Ac]6 (3[Ac][Ac][Ac] | [Bc]6 (3[Bc][Bc][Bc] | [Ac]6 (3[Ac][Ac][Ac] | [Bc]6 (3[Ec][Gc][Bc] | %45
+!pp! !fermata![Ac]8 |] %46
+V:2
+!ped! D,,[F,D][A,F][F,D] [A,F][F,D][A,F][F,D]!ped-up! | %1
+!ped! B,,,[D,D][F,F][D,D] [F,F][D,D][F,F][D,D]!ped-up! | %2
+!ped! G,,,[G,D][B,E][G,D] [B,E][G,D][B,E][G,D]!ped-up! | %3
+!ped! A,,,[G,^C][B,E][G,C]!>(! [B,E]!>)![G,C][B,E][G,C]!ped-up! | %4
+ D,[F,D][A,F][F,D] [A,F][F,D][A,F][F,D] | B,,[F,D][B,E][F,D] [B,E][F,D][B,E][F,D] | %6
+ A,,[G,^C][A,E][G,C] [A,E][G,C][A,E][G,C] | D,[F,D][A,F][F,D] [A,F][F,D][A,F][F,D] | %8
+ D,[F,D][A,F][F,D] [A,F][F,D][A,F][F,D] | B,,[G,D][B,E][G,D] [B,E][G,D][B,E][G,D] | %10
+ C,[G,C][B,E][G,C] [B,E][G,C][B,E][G,C] | F,,C[A,F]C [A,F]C[A,F]C | A,,A,[G,^C]A, [G,C]A,[G,C]A, | %13
+ D,,A,[F,D]A, [F,D]A,[F,D]A, | B,,[F,D][B,F][F,D] [B,F][F,D][B,F][F,D] | F,,C[A,F]C [A,F]C[A,F]C | %16
+ A,,A,[G,^C]A, [G,C]A,[G,C]A, | D,,A,[^F,D]A, [F,D]A,[F,D]^F,, | G,,D[=B,G]D [B,G]D[B,G]D | %19
+ D,A,[^F,D]A, [F,D]A,,^F,,D,, | A,,G,[G,^C]A, [G,C]A,[G,C]A, | D,,A,[^F,D]A, [F,D]A,[F,D]A, | %22
+ G,,B,[G,D]B, [G,D]B,[G,D]B, | D,A,[^F,D]A, [F,D]A,[F,D]A, | G,,=B,[G,D]B, [G,D]B,[G,D]=B, | %25
+ !fermata!D,,A,, !fermata!^F,2 [C,=B,]4 ||[K:Ab] F,,[F,C][A,F][F,C] [A,F][F,C][A,F][F,C] | %27
+ D,,F,[G,D]F, [G,D]F,[G,D]F, | C,,[G,C][B,=E][G,C] [B,E][G,C][B,E][G,C] | %29
+ F,,[F,C][A,F][F,C] [A,F][F,C][A,F][F,C] | F,,[F,C][A,F][F,C] [A,F][F,C][A,F][F,C] | %31
+ D,,[F,D][A,F][F,D] [A,F][F,D][A,F][F,D] | E,,[G,D][B,E][G,D] [B,E][G,D][B,E][G,D] | %33
+ A,,E,[A,C]E, [A,C]E,[A,C]E, | C,,[G,C][B,=E][G,C] [B,E][G,C][B,E][G,C] | %35
+ F,,F,[=A,C]F, [A,C]F,[A,C]F, | B,,,B,[F,=D]B, [F,D]B,[F,D]B, | F,,F,[=A,C]F, [A,C]F,[A,C]F, | %38
+ B,,[F,D][B,F][F,D] [B,F][F,D][B,F][F,D] | F,,[F,C][=A,F][F,C] [A,F][F,C][A,F][F,C] | %40
+[K:F] B,,[F,=D][B,F][F,=D] [B,F][F,=D][B,F][F,=D] | F,,[F,C][A,F][F,C] [A,F][F,C][A,F][F,C] | %42
+ C,,[E,C][G,E][E,C] [G,E][E,C][G,E][E,C] | F,,[F,C][A,F][F,C] [A,F][F,C][A,F][F,C] | %44
+ C,,[E,C][G,E][E,C]!>(! [G,E][E,C][G,E][E,C]!>)! | !fermata!F,,8 |] %46
+

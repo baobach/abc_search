@@ -1,0 +1,58 @@
+X:1
+T:Orgelkonzert 5, Presto
+T:Orgelkonzert 5, Presto
+T:G. F. Händel
+T:Für Orgel und Tenorsaxophon, t = 2'50"
+T:Satz: Andreas Roth
+T:Satz: Andreas Roth
+T:Satz: Andreas Roth
+C:G. F. Händel
+Z:Satz: Andreas Roth
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:3/8=96
+M:12/8
+K:Eb
+V:1 treble transpose=-14 nm="Tenorsax"
+V:2 treble nm="Orgel"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+[K:F] z12 | z12 | faf cAc faf cAc | gbg ece agf z2 a | gab c'bc' f2 z3 f | efg aga d3 z2 g | %6
+ cde fga bag agf | gfe fed edc gfe | agf edc =bag c'ba | gfe fed c3 z3 | z12 | z12 :: %12
+"^Händel Orgelkonzert 5, Presto, Seite 2" ceg ecG ceg c'ge | afd =Bdg ecG z3 | faf cAc faf cAc | %15
+ gbg ece agf z2 a | bag fed ^c2 b (a3 | a2) g/4a/4b/ (a3 a2) g/4a/4b/ a2 g | fed Ad^c d2 z3 d' | %19
+ e2 d' d'2 d' d'c'=b c'2 z | z8 z3 b | c2 b b2 b bag abc' | gab agf e3 z2 c | def gab cde fga | %24
+"^Händel Orgelkonzert 5, Presto, Seite 3" d3 z z6 z a | gab c'bc' f3 z3 | z8 z3 g | %27
+ cde fga bag agf | gfe fed edc fga | def cfe (f3 f)ge | (f3 f)ga bag agf | gef cfe f3 z3 | z12 | %33
+ z12 :| %34
+V:2
+ !wedge![Ge]3 !wedge![FB]3 !wedge![Ge]3 z2 [EB] | c2 A F2 B G2 F E3 | G3 G3 G3 z2 B | %3
+ c2 A F2 B, EB,G, E,B,E | E2 E D2 D z6 | A3 G3 A3 z2 C | DEF B,2 B A3 G3 | F3 E3 D3 (B3 | %8
+ B3) z3 c3 B2 c | dcB cB=A B3 ([cf]3 | f2) B e2 e e2 g f2 e | d3 Tc3 B3 z3 :: D12 | C6 F2 z4 | %14
+ G12 | E2 C D2 F EB,G, E,G,C | F3 F3 D2 z3 C | =B,3 z2 C B,3 z2 G | C2 F E2 D CCB, =A,B,C | %19
+ z3 ^FG=A (d3 d2) b | c2 b b2 b bag a2 z | A3 DEF Bcd e2 e | ABc cde F3 D3 | z8 z3 g | %24
+ abc' bc'a g3 z2 B | c3 B3 c3 z2 e | def gfg c3 z2 C | DEF B,2 B A3 G3 | F3 E3 D2 B BAG | %29
+ c2 A G2 F G3 F3 | EGc B3 A2 B G2 B | c2 A G2 F E3!f! B3 | e2 G A2 A A2 F G2 A | %33
+ (TF3 F2) E E3 z3 :| %34
+V:3
+ G,3 B,3 G,3 z2 B, | A,2 C B,2 F, G,6 | E,3 D,3 C,3 G,3 | A,3 B,3 E,2 z4 | z6 CG,E, C,G,C | %5
+ C2 C B,2 B, A,E,C, A,,E,A, | A,2 A, G,2 G, F,2 D E,2 C | D,2 B, C,2 =A, B,2 B,, D,C,B,, | %8
+ E,3 G,3 F,3 D,2 E, | F,2 B,, F,2 F,, B,,3 =A,3 | G,3 C3 F,2 E, D,2 E, | F,3 F,,3 B,,3 z3 :: %12
+ B,3 =A,3 G,3 D,3 | E,3 F,3 B,,2 B, _A,G,F, | E,3 D,3 C,3 G,3 | A,3 B,3 E,2 z4 | z3 A,,3 G,,2 z4 | %17
+ z12 | z2 F, G,2 G,, C,2 z4 | ^F,G,=A, D,=E,F, G,D,B,, G,,D,G, | =E,F,G, C,D,E, F,C,A,, F,,C,F, | %21
+ D,E,F, B,,C,D, E,B,,G,, E,,2 G, | A,3 C3 B,F,D, B,,F,B, | B,2 B, A,2 A, A,2 A, G,2 G, | %24
+ F,2 F, D2 D EB,G, E,B,E | E2 E D2 D CG,E, C,G,C | C2 C B,2 B, A,E,C, A,,E,A, | %27
+ A,2 A, G,2 G, F,2 D E,2 C | D,2 B, C,2 A, B,,2 A, G,F,E, | A,2 F, B,2 B,, E,G,B, B,,3 | %30
+ C,E,G, G,,2 E, F,2 D, E,2 G,, | A,,2 C, B,,3 E,,3 (B,3 | B,3) A,3 F,2 B, B,2 C | %33
+ [B,E]3 [A,D]3 [G,B,]3 z3 :| %34
+V:4
+ E,3 D,3 C,3 x2 G, | A,2 F, B,2 B,, E,3 E,,3 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %10
+ x12 | x12 :: x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %26
+ x12 | x12 | x12 | x12 | x12 | x9 D,3 | C,3 F,3 B,,2 B,, E,2 A,, | B,,6 E,,3 x3 :| %34
+V:5
+ x12 | E3 D3 B,3 B,3 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | B2 (B B)=AG A2 G B2 B | %11
+ B3 =A3 [DF]3 x3 :: x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %25
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | (E3 E)DC D2 D E2 E | x12 :| %34
+

@@ -1,0 +1,63 @@
+X:1
+T:Gabriel's Oboe - Fl, Vn1, Vn2, Vla, Vc
+T:Gabriel's Oboe - Nella Fantasia
+T:Ennio Morricone
+T:from 'The Mission' (1986) for Flute and Piano
+C:Ennio Marricone
+%%score 1 { ( 2 3 ) | 4 }
+L:1/8
+Q:1/4=60
+M:4/4
+K:D
+V:1 treble nm="Flute" snm="Fl."
+V:2 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:4 bass 
+V:1
+ z8 | z8 | (5:4:5((A/-A/B/A/G/ A2-)) A3 ((A | de/d/ c/d/c/B/)) ((BA)) A2- | A3 ((A de/d/ cd/c/)) | %5
+ B4- B((dcB)) | (3((AGA- A2- A3)) A | ((fe))((ed)) d3 A | ((f/e/))((e/d/)) d4 ((c/d/c/d/)) | %9
+ B4- B((Bdg)) | ((gf/-))f/ f4 ((db)) | b4- b3 a | a8- | a4- a z ((((gf))) | (e6) f2) | f8- | %16
+ f2 z d ((((((g2 f2 | e6-)))))) ed | d8- | d4 z4 | F4 G4 | A4 B2- BA/B/ | c2- cB/c/ d2 c2 | B8 | %24
+ A8 | z2 z d/e/ feed | d2- dd/e/ feed | B8 | A4 B4 | BAGF E4 | A8- | A6 z2 | %32
+ (5:4:5((((A/-A/B/A/G/ A2-)))) A3 (A | de/d/ c/d/c/B/) ((((BA)))) A2- | A3 ((A de/d/ cd/c/)) | %35
+ B4- B((dcB)) | (3((((AGA- A2-)) A2)) z A | (fe)(ed) d3 A | (f/e/)(e/d/) d4 (c/d/c/d/) | %39
+ B4- B(Bdg) | (gf/-)f/ f4 (db) | (((b4- b3))) a | a4- (((a z (((gf)))))) | (e6 f2) | f8- | %45
+ f2 z d g2 f2 | e6- ed | d8- | !fermata!d8 |] %49
+V:2
+!p!!p!!p!!p! A,4 B,2 C2 | [B,D]2 [CE]2 [DF]2 [EG]2 | [DFA]2 [DFA]2 [CGA]2 [CGA]2 | %3
+ [A,DA]2 [A,DA]2 [B,DG]2 [B,DG]2 | [A,CG]2 [A,CG]2 [A,DA]2 [A,DA]2 | %5
+ [B,DG]2 [B,DG]2 [B,DG]2 [B,DG]2 | [B,DA]2 [B,DA]2 [CGA]2 [CGA]2 | [DFA]2 [DFA]2 [DFA]2 [DFA]2 | %8
+ [DFA]2 [DFA]2 [DFA]2 [DFA]2 | [B,DG]2 [B,DG]2 [B,DG]2 [B,DG]2 | [DFA]2 [DFA]2 [DFA]2 [DFA]2 | %11
+ [DGB]2 [DGB]2 [DGB]2 [DGB]2 | [DEA]2 [DEA]2 [DEA]2 [DEA]2 | [A,EA]2 [A,EA]2 [DGB]2 [DGB]2 | %14
+ [DEA]2 [DEA]2 [CEA]2 [CEA]2 | ([CEF]2 [CEF]2 [CEF]2 [CEF]2 | [B,DF]2) [B,DF]2 [DGB]2 [DGB]2 | %17
+ [DEA]2 [DEA]2 [CGA]2 [CGA]2 | [DFA]2 [DFA]2 [DFA]2 [DFA]2 | [DFA]2 [DFA]2 [DFA]2 [DFA]2 | %20
+ (5:4:5((A/-A/B/A/G/ A2-)) A3 ((A | de/d/ c/d/c/B/)) ((BA)) A2- | A3 ((A de/d/ cd/c/)) | %23
+ B4- B((dcB)) | (3((AGA- A2- A3)) A | ((fe))((ed)) d3 A | ((f/e/))((e/d/)) d4 ((c/d/c/d/)) | %27
+ B4- B((Bdg)) | ((gf/-))f/ f4 ((db)) | b4- b3 a | a8- | a4 FGAG | F4 G3 E | A4 B4 | c4 d2 c2 | %35
+ G3 F G4 | G3 F E4 | z2 z d/e/ feed | d2- dd/e/ feed | B8 | a4 b4 | bagf e4 | a8- | a8 | ^a8 | %45
+ b2 a2 g4 | a8 | d8- | d8 |] %49
+V:3
+ A,4 A,4 | x8 | x4 z4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %18
+ x8 | x4 z4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %37
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %49
+V:4
+ A,,,4 A,,,2 A,,A,,, | A,,,2 A,,2 A,,,2 A,,A,,, | D,,2 D,,2 E,,2 E,,2 | F,,2 F,,2 G,,2 G,,2 | %4
+ A,,2 A,,2 F,,2 F,,2 | G,,2 G,,2 G,,2 G,,2 | E,,2 E,,2 A,,2 A,,2 | D,,2 D,,2 C,2 C,2 | %8
+ B,,2 B,,2 A,,2 A,,2 | G,,2 G,,2 G,,2 G,,2 | D,,2 C,2 B,,2 A,,2 | G,,2 G,,2 E,,2 E,,2 | %12
+ A,,2 A,,2 A,,2 A,,2 | F,,2 F,,2 G,,2 G,,2 | A,,2 A,,2 A,,2 A,,2 | (^A,,2 A,,2 A,,2 A,,2 | %16
+ B,,2) A,,2 G,,2 G,,2 | A,,2 A,,2 A,,2 A,,2 | D,,2 D,,2 D,,2 D,,2 | D,,2 D,,2 D,,2 D,,2 | %20
+ [D,F,A,]2 [D,F,A,]2 [C,G,A,]2 [C,G,A,]2 | [A,,D,A,]2 [A,,D,A,]2 [B,,D,G,]2 [B,,D,G,]2 | %22
+ [A,,C,G,]2 [A,,C,G,]2 [A,,D,A,]2 [A,,D,A,]2 | [B,,D,G,]2 [B,,D,G,]2 [B,,D,G,]2 [B,,D,G,]2 | %24
+ [B,,D,A,]2 [B,,D,A,]2 [C,G,A,]2 [C,G,A,]2 | [D,F,A,]2 [D,F,A,]2 [D,F,A,]2 [D,F,A,]2 | %26
+ [D,F,A,]2 [D,F,A,]2 [D,F,A,]2 [D,F,A,]2 | [B,,D,G,]2 [B,,D,G,]2 [B,,D,G,]2 [B,,D,G,]2 | %28
+ [D,F,A,]2 [D,F,A,]2 [D,F,A,]2 [D,F,A,]2 | [D,G,B,]2 [D,G,B,]2 [D,G,B,]2 [D,G,B,]2 | %30
+ [D,E,A,]2 [D,E,A,]2 [D,E,A,]2 [D,E,A,]2 | [C,E,A,]2 [C,E,A,]2 [C,E,A,]2 [C,E,A,]2 | %32
+ [D,F,A,]2 [D,F,A,]2 [C,G,A,]2 [C,G,A,]2 | [A,,D,A,]2 [A,,D,A,]2 [D,G,B,]2 [D,G,B,]2 | %34
+ [C,G,A,]2 [C,G,A,]2 [A,,D,A,]2 [A,,D,A,]2 | [B,,D,G,]2 [B,,D,G,]2 [B,,D,G,]2 [B,,D,G,]2 | %36
+ [D,E,A,]2 [D,E,A,]2 [C,E,A,]2 [C,E,A,]2 | [D,F,A,]2 [D,F,A,]2 [D,F,A,]2 [D,F,A,]2 | %38
+ [D,F,B,]2 [D,F,B,]2 [D,F,A,]2 [D,F,A,]2 | [B,,D,G,]2 [B,,D,G,]2 [B,,D,G,]2 [B,,D,G,]2 | %40
+ [D,F,A,]2 [D,F,A,]2 [D,F,A,]2 [D,F,A,]2 | [B,,D,G,]2 [B,,D,G,]2 [C,E,G,]2 [C,E,G,]2 | %42
+ [A,,E,A,]2 [A,,E,A,]2 [D,G,B,]2 [D,G,B,]2 | [D,E,A,]2 [D,E,A,]2 [C,E,A,]2 [C,E,A,]2 | %44
+ [C,E,F,]2 [C,E,F,]2 [C,E,F,]2 [C,E,F,]2 | [B,,D,F,]2 [B,,D,F,]2 [D,G,B,]2 [D,G,B,]2 | %46
+ [D,E,A,]2 [D,E,A,]2 [C,G,A,]2 [C,G,A,]2 | [D,F,A,]2 [D,F,A,]2 [D,F,A,]2 [D,F,A,]2 | [D,F,A,]8 |] %49
+

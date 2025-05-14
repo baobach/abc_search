@@ -1,0 +1,39 @@
+X:1
+T:Hai, Umat Nyanyilah!
+T:Hai, Umat Nyanyilah!
+T:For NREC 2019
+T:Johann Sebastian Bach (1685-1750) 
+T:Valentin Ernst Loscher (1673-1749) 
+C:Valentin Ernst Loscher (1673-1749)
+Z:Johann Sebastian Bach (1685-1750)
+%%score 1 [ ( 2 3 ) ( 4 5 ) ]
+L:1/8
+Q:3/8=50
+M:6/8
+K:D
+V:1 treble transpose=24 nm="Glockenspiel" snm="Glock."
+V:2 treble nm="Violin I"
+V:3 treble 
+V:4 bass nm="Violoncello"
+V:5 bass 
+V:1
+ z | [DF]3 [Dd]3 | AEA F3 | [E^G]3 [Ee]3 | A/B/cB AA/G/F/E/ | [DF]3 [Dd]3 | AEA F3 | %7
+ [E^G]3 [Ee]2 d | ee/d/c/B/ A3 | [^DF]3 FAF | GEG BGE | D3 [EA]2 F | GDG BGB | [E^c]2 z [EB]2 z | %14
+ [DF]2 z [DG]2 z | E2 F G/B/d[Gc] | [Fd]6 |] %17
+V:2
+ A | FED dcB | A3- A2 F | ^GAB EAD | C2 B, A,2 A | FED dcB | A3- A2 F | ^GAB EAD | C2 B, A,2 E | %9
+ ^D2 E F/G/AF | G3- G2 A | DdG AB=c | B3- B2 e | ^c2 d BAG | F2 E D2 B | E/F/GF EDC | D3- D3 |] %17
+V:3
+ F | D2 D D2 D | EFG F2 F | E2 D B,A,A, | C2 ^G, A,2 F | D2 D D2 D | EFG F2 F | E2 D B,A,A, | %8
+ C2 ^G, A,2 A, | B,2 B, =C2 B, | B,3- B,2 E | D2 D E3 | D3 D2 G | E2 F E2 E | D2 C B,2 E | %15
+ C/D/E[A,D] [G,B,]2 [E,A,] | [F,A,]3 [F,A,]3 |] %17
+V:4
+ D, | F,2 G, A,2 B, | C3 D2 A, | B,E,^G, E,2 A,, | E,2 E, C,2 D, | F,2 G, A,2 B, | C3 D2 A, | %7
+ B,E,^G, E,2 A,, | E,2 E, C,2 E, | F,2 E, E,2 ^D, | E,3- E,2 E, | F,2 G, G,2 F, | G,3- G,2 B, | %13
+ A,2 D D2 C | B,A,/G,/A, G,G,,G, | G,C,D, G,2 G, | DF,A, D,3 |] %17
+V:5
+ D,, | D,2 E, F,2 G, | G,F,E, F,E,D, | D,C,B,, C,2 F,, | E,,D,,E,, A,,2 D,, | D,2 E, F,2 G, | %6
+ G,F,E, F,E,D, | D,C,B,, C,2 F,, | E,,D,,E,, A,,2 =C, | B,,A,,G,, A,,F,,B,, | E,,G,,B,, E,D,=C,- | %11
+ C,B,,/A,,/B,, =C,2 D, | G,,B,,D, G,F,E, | A,G,F, G,2 A, | B,A,/G,/A, G,G,,G, | G,C,D, G,,2 A,, | %16
+ D,F,,A,, D,,3 |] %17
+

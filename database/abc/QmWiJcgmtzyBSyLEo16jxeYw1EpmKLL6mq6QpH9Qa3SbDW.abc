@@ -1,0 +1,50 @@
+X:1
+T:Dúo de las flores
+T:Dúo de las flores
+T:Opera Lakmé
+T:Leo Delibes
+C:Leo Delibes
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/8=120
+M:6/8
+K:B
+V:1 treble nm="Violin I"
+V:2 treble nm="Violin II"
+V:3 alto nm="Viola"
+V:4 bass nm="Violoncello"
+V:1
+ x!p! d2- d(c/d/.e) | x d2- d(c/d/.e) | x!<(! (d/e/d/!<)!e/!>(! f/g/f/e/d/c/)!>)! | %3
+ (B/c/B/c/B/c/ A3) | x d2- d(c/d/.e) | x d2- d(c/d/.e) | %6
+ x!<(! (d/e/d/!<)!e/!>(! f/g/f/e/d/c/)!>)! | (B/c/!<(!B/c/B/!<)!c/!>(! d3)!>)! | %8
+ z!mf! c2- c(c/f/)(f/c/) | x!p! d2- d (d/A/)(A/d/) | z!mf! c2- c (c/f/)(f/c/) | %11
+ x (c/f/)(f/c/) z!<(! (f2!<)! | (g3 g/)e/B/G/B/e/) | (g b2!>(! g2 e/)!>)! z/ | %14
+!p! ((e3 e/)B/=G/E/G/B/) |!<(! (e =g2!<)!!>(! e2 B)!>)! | ((d3 d)^gd) | ((f3 f)gd | f)(eG) z (eG) | %19
+ z"^poco rall." (eG eGe) |"^a tempo" x!p! d2- d(c/d/.e) | x d2- d(c/d/.e) | z6 | %23
+"^rall." z3"^pizz" [G,E]2 z | z6 | b2 z4 | z6 | z6 | z6 | z6 | z6 | z6 |] %32
+V:2
+ x!p! (B/A/B/A/ G)(A/B/.c) | x (B/A/B/A/ G)A/B/.c | %2
+ x!<(!!<(! (B/c/B/!<)!!<)!c/!>(! d/e/d/c/B/!>)!A/) | (G/A/G/A/G/A/ F3) | x (B/A/B/A/ G)(A/B/.c) | %5
+ x (B/A/B/A/ G)(A/B/.c) | x!<(!!<(! (B/c/B/!<)!!<)!c/!>(! d/e/d/c/B/!>)!A/) | (G/A/G/A/G/A/ B3) | %8
+ z!mf! (A/G/F/G/ G)(A/F/)(F/A/) | z!p! (A/G/F/G/ G)(A/F/)(F/A/) | z!mf! (A/G/F/G/ G)(A/F/)(F/A/) | %11
+ z (A/F/)(F/A/) z!<(! (F2!<)! | (e3 e/)B/G/E/G/B/) | (e g2!>(! e2 G/) z/!>)! | %14
+!p! ((G3 G/)G/E/B,/D/G/) | (B e2 B2 =G) | F(B/^A/^G/A/) B3 | z (=A/G/F/G/) A3 | z (GE) z (GE) | %19
+ z (GE GEG) | x!p! (B/A/B/A/ G)(A/B/.c) | x (B/A/B/A/ G)(A/B/.c) | z6 | z3"^pizz" [G,E]2 z | z6 | %25
+ b2 z4 | z6 | z6 | z6 | z6 | z6 | z6 |] %32
+V:3
+ z!p! (F,F) E !>!G,2 | z (F,F) E !>!G,2 | z F,(!>!F F)(FF,) | z (G,D) D, z z | z (F,F) E !>!G,2 | %5
+ z (F,F) E !>!G,2 | z F,(!>!F F)(FF,) | z (G,D) z3 |!mf! z (!>!C,2 C,)A,C, | z!p! (D,(A, A,))A,D, | %10
+!mf! z (!>!C,2 C,)A,C, | z A,C, z3 | z6 | z3"^pizz." E,G,B, | z6 | z3"^pizz." E,G,B, | %16
+ z"^arco" (!>!F,2 F,3) | z (!>!^B,2 B,3 | C)(G,^A,) z (G,A,) | z (G,(A, A,))(G,A,) | %20
+ z!p! (F,F) E !>!G,2 | z (F,F) E(G,=G,) | (F,6 | F,) z z"^pizz." [G,E]2 z | z z F, B,DF | B2 z4 | %26
+ z6 | z6 | z6 | z6 | z6 | z6 |] %32
+V:4
+!p! B,, !>!F,2 z (G,B,,) | B,, !>!F,2 z (G,B,,) | B,, (!>!F,2 F,3) | B,, !>!G,2 (D,/A,/).D,.D, | %4
+!p! B,, !>!F,2 z (G,B,,) | B,, !>!F,2 z (G,B,,) | B,, (!>!F,2 F,3) | B,, !>!G,2 (B,,/F,/).B,,.B,, | %8
+!mf! (F,,!<(!C,(A, A,))A,C,!<)! |!p! D,,!<(!D,(A, A,)A,D,!<)! |!mf! (F,,!<(!C,(A, A,))A,C,!<)! | %11
+ F,,A,C, F,,2 z | z/!mf! (E,,/B,,/E,/G,/B,/) E z z | z"^pizz." E,,B,, E,G,B, | %14
+ z/"^arco" (E,,/B,,/E,/=G,/B,/) E z z | z"^pizz." E,,B,, E,=G,B, | z"^arco" (!>!F,2 F,3) | %17
+ .F,, (!>!F,2 F,3) | .F,,(G,^A,) .F,,(G,A,) | F,,(G,(A, A,)G,A,) |!p! B,, !>!F,2 z (G,B,,) | %21
+ B,, !>!F,2 z (G,=G,) | (B,,6 | B,,) z z"^pizz." !arpeggio![B,,G,E]2 z | z B,,F, B,DF | z6 | z6 | %27
+ z6 | z6 | z6 | z6 | z6 |] %32
+

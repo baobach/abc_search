@@ -1,0 +1,91 @@
+X:1
+T:Este a székelyeknél
+T:Bartók Béla (1881-1945)
+T:www.digitaliskottatar.hu (CC0 1.0) 
+T:www.digitaliskottatar.hu (CC0 1.0) 
+T:www.digitaliskottatar.hu (CC0 1.0) 
+C:Beethoven
+Z:www.digitaliskottatar.hu (CC0 1.0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=80
+M:4/4
+K:C
+V:1 treble nm="Fuvola"
+V:2 treble nm="Zongora"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Lento, rubato \n\n"!mf!"_espressivo" (!>!e4- e.d.B.d) | (ed)!tenuto!d!>!B- B4 | %2
+ (!>!e4- e.d.B.d) | (ed)!tenuto!B!>!A-!>(! A4!>)! | (B4- B!<(!.A.B.e)!<)! | (dB)!tenuto!G!>!E- E4 | %6
+ (B4- B.A.B.d |[M:3/4]"^rit. _     _     _     _     _" .B)!tenuto!A !tenuto!G2!>(! !>!E2- | %8
+ E6!>)! || %9
+[M:4/4]!p![Q:1/4=144]"^Vivo, non rubato""^Vivo, non rubato ( = 144)" .d"_scherzando".e.e.e .d.e.b.a | %10
+ .g !tenuto!d3 !>!e4 | .d.e.e.e .d.e.b.a | .g !tenuto!d3 !>!e4 | .g.a.a.a .g.a.e'.d' | %14
+ .b !tenuto!g3 !tenuto!a3 .b | .g !tenuto!d3 !tenuto!e3 .a | .g !tenuto!d3 !tenuto!e3 .a | %17
+ .g !tenuto!d3 !^!e4- |!>(! e8!>)! | z8 || %20
+[M:3/4]!mf![Q:1/4=80]"^Tempo I.""^Tempo I." (!>!e2- e.d.B.d) | %21
+ ((ed))!tenuto!d!>!B-[Q:1/4=80] !fermata!B2 |[Q:1/4=80] (!>!e2- e.d.B.d) | %23
+ ((ed))!tenuto!B!>(!!>!A-[Q:1/4=80] !fermata!A2!>)! |[Q:1/4=80] (!>!B2- B!<(!.A.B.e) | %25
+ ((d!<)!B))!tenuto!G!>!E-[Q:1/4=80] !fermata!E2 |[Q:1/4=80] (!>!B2- B.A.B.d | %27
+ .B)!tenuto!A !tenuto!G2!>(! !>!E2- | E6!>)! || %29
+[M:4/4]!p![Q:1/4=144]"^Vivo, non rubato""^Vivo, non rubato" .d"_scherzando".e .e(e/.g/) (d/e/.b) .b.a | %30
+ (3(!>!g/a/g/ d3) !>!e4 | .d.e .e(e/.g/) (d/e/.b) .b.a | (3(!>!g/a/g/ d3) !>!e4 | %33
+ .g.a .a(a/.b/) (g/a/.e') .e'.d' | (3(b/d'/b/ g3) !tenuto!a3 .b | .g !tenuto!d3 !tenuto!e3 .a | %36
+!<(! .g !tenuto!d3 !tenuto!e3 .a | .g !tenuto!d3!<)!!mp! !>!e4- | e3 (a/g/ e3) (a/g/ | %39
+ e)"_dim."(a/g/ e)(a/g/ e)(a/g/ e)!pp!(a/g/) | z8 || %41
+!f![Q:1/4=80]"^Tempo I.""^Tempo I." (e4- e.d.B.d) |[M:3/4] (ed)!tenuto!d!>!B-!>(! B2- | %43
+[M:4/4] B8!>)! |!f! (!>!e4- e.d.B.d) |[M:3/4] ((ed))!tenuto!B!>!A-!>(! A2- |[M:4/4] A8!>)! | %47
+[M:4/4]!mf! (B4- B.A.B.e) |[M:3/4] ((dB))!tenuto!G!>!E-!>(! E2- |[M:4/4] E8!>)! |!p! (B4- BABd | %51
+[M:2/4] B)!tenuto!A !tenuto!G2 |[M:3/4]!>(! !>!E6- | E6- |!ppp! E6!>)! |] %55
+V:2
+ z4!mf! [EG]4- | [EG]2 [D^F]6 | z4 [EG]4- | [EG]2 [D^F]6 | z4 [D^F]4- | [DF]2 C6 | z4 D4 | %7
+[M:3/4] [B,D]2 [B,D]4- | [B,D]6 ||[M:4/4] z2!pp! .[EGB]2 z2 .[DGB]2 | z2 .[EGB]2 z2 .[DGB]2 | %11
+ z2 .[EGB]2 z2 .[DGB]2 | z2 .[EGB]2 z2 .[DGB]2 | z2 .[GBd]2 z2 .[GAce]2 | z2 .[GBd]2 z2 .[GAce]2 | %15
+ z2 .[GBd]2 z2 .[DEGB]2 | z2 .[EGBd]2 z2 .[DEGB]2 | z2 .[EGBd]2 z2 .[^CE^G]2 | %18
+ z2 .[^CE^G]2 z2 .[CEG]2 | z8 ||[M:3/4] z2!mf! E4- | E4 !fermata!E2 | z2 E4- | E4 !fermata!_E2 | %24
+ z2 [G,D]4- | [G,D]2 !fermata![G,CE]4 | z2 [B,D]4- | [B,D]2 [B,D]4- | [B,D]6 || %29
+[M:4/4]!pp! .[EGB]2 .[DGB]2 .[EGB]2 .[DGB]2 | .[EGB]2 .[DGB]2 .[EGB]2 .[DGB]2 | %31
+ .[EGB]2 .[DGB]2 .[EGB]2 .[DGB]2 | .[EGB]2 .[DGB]2 .[EGB]2 .[DGB]2 | %33
+ .[GBd]2 .[GAce]2 .[GBd]2 .[GAce]2 | .[GBd]2 .[GAce]2 .[GBd]2 .[GAce]2 | %35
+ .[GBd]2 .[EGBd]2 .[DEGB]2 .[EGBd]2 | .[DEGB]2 .[EGBd]2 .[DEGB]2 .[EGBd]2 | %37
+ .[DEGB]2 .[EGBd]2 .[^CE^G]2 .[EG^c]2 | .[^CE^G]2 .[EG^c]2 .[CEG]2 .[EGc]2 | %39
+ .[^CE^G]2 .[EG^c]2 .[CEG]2 .[EGc]2 | z8 ||!f! e4- edBd |[M:3/4] eddB- B2- |[M:4/4] B8 | e4- edBd | %45
+[M:3/4] edBA- A2- |[M:4/4] A8 |[M:4/4] B4- BABe |[M:3/4] dBGE- E2- |[M:4/4] E8 | B4- BABd | %51
+[M:2/4] BA G2 |[M:3/4] E6- | E6 |!ppp! [gbd'e']6 |] %55
+V:3
+ z8 | z8 | z4 C4- | C2 C6 | z4 B,4- | B,2 A,6 | z4 G,4 |[M:3/4] ^F,2 [E,G,]4- | [E,G,]6 || %9
+[M:4/4] z2 .[E,G,B,]2 z2 .[D,G,B,]2 | z2 .[E,G,B,]2 z2 .[D,G,B,]2 | z2 .[E,G,B,]2 z2 .[D,G,B,]2 | %12
+ z2 .[E,G,B,]2 z2 .[D,G,B,]2 | z2 .[G,B,D]2 z2 .[G,A,CE]2 | z2 .[G,B,D]2 z2 .[G,A,CE]2 | %15
+ z2 .[G,B,D]2 z2 .[D,E,G,B,]2 | z2 .[E,G,B,D]2 z2 .[D,E,G,B,]2 | %17
+ z2 .[E,G,B,D]2 z2!ped! .[^C,E,^G,]2 | z2 .[^C,E,^G,]2 z2 .[C,E,G,]2!ped-up! | z8 || %20
+[M:3/4] z2 [C,G,]4- | [C,G,]4 !fermata![C,G,]2 | z2 [C,G,]4- | [C,G,]4 !fermata![C,G,]2 | %24
+ z2 [G,,D,]4- | [G,,D,]2 !fermata![G,,C,E,]4 | z2 ^F,4- | F,2 [E,G,]4- | [E,G,]6 || %29
+[M:4/4] .[E,G,B,]2 .[D,G,B,]2 .[E,G,B,]2 .[D,G,B,]2 | .[E,G,B,]2 .[D,G,B,]2 .[E,G,B,]2 .[D,G,B,]2 | %31
+ .[E,G,B,]2 .[D,G,B,]2 .[E,G,B,]2 .[D,G,B,]2 | .[E,G,B,]2 .[D,G,B,]2 .[E,G,B,]2 .[D,G,B,]2 | %33
+ .[G,B,D]2 .[G,A,CE]2 .[G,B,D]2 .[G,A,CE]2 | .[G,B,D]2 .[G,A,CE]2 .[G,B,D]2 .[G,A,CE]2 | %35
+ .[G,B,D]2 .[E,G,B,D]2 .[D,E,G,B,]2 .[E,G,B,D]2 | %36
+ .[D,E,G,B,]2 .[E,G,B,D]2 .[D,E,G,B,]2 .[E,G,B,D]2 | %37
+ .[D,E,G,B,]2 .[E,G,B,D]2!ped! .[^C,E,^G,]2 .[E,G,^C]2 | %38
+ .[^C,E,^G,]2 .[E,G,^C]2 .[C,E,G,]2 .[E,G,C]2 | .[^C,E,^G,]2 .[E,G,^C]2 .[C,E,G,]2 .[E,G,C]2 | %40
+ z8!ped-up! || E4- EDB,D |[M:3/4] EDDB,-!ped! B,2- |[M:4/4]!mf! B,8 | E4- EDB,D!ped-up! | %45
+[M:3/4] EDB,A,-!ped! A,2- |[M:4/4]!mf! A,8 |[M:4/4]!mf! B,4- B,A,!ped-up!B,E | %48
+[M:3/4] DB,G,E,-!ped! E,2- |[M:4/4]!p! E,8 | B,4- B,A,!ped-up!B,D |[M:2/4] B,A, G,2 | %52
+[M:3/4]!ped! E,6- | E,6 |[K:treble] E6!ped-up! |] %55
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:3/4] x6 | x6 ||[M:4/4] x8 | x8 | x8 | x8 | x8 | x8 | x8 | %16
+ x8 | x8 | x8 | x8 ||[M:3/4] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 ||[M:4/4] x8 | x8 | x8 | %32
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 |[M:3/4] x6 |[M:4/4] [DEG]2 [DEG]4 [DEG]2- | %44
+ [DEG]2 [DEG]4 z2 |[M:3/4] z6 |[M:4/4] [B,EG]2 [B,EG]4 [B,EG]2- |[M:4/4] [B,EG]2 [B,EG]4 z2 | %48
+[M:3/4] z6 |[M:4/4] [G,B,D]2 [G,B,D]4 [G,B,D]2- | [G,B,D]2 [G,B,D]4 z2 |[M:2/4] z4 | %52
+[M:3/4] x4 [B,D]2 | [B,D]6 | x6 |] %55
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:3/4] x6 | x6 ||[M:4/4] x8 | x8 | x8 | x8 | x8 | x8 | x8 | %16
+ x8 | x8 | x8 | x8 ||[M:3/4] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 ||[M:4/4] x8 | x8 | x8 | %32
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 |[M:3/4] x6 | %43
+[M:4/4] [D,E,G,]2 [D,E,G,]4 [D,E,G,]2- | [D,E,G,]2 [D,E,G,]4 z2 |[M:3/4] z6 | %46
+[M:4/4] [B,,E,G,]2 [B,,E,G,]4 [B,,E,G,]2- |[M:4/4] [B,,E,G,]2 [B,,E,G,]4 z2 |[M:3/4] z6 | %49
+[M:4/4] [G,,B,,D,]2 [G,,B,,D,]4 [G,,B,,D,]2- | [G,,B,,D,]2 [G,,B,,D,]4 z2 |[M:2/4] z4 | %52
+[M:3/4] z4!pp! [E,,B,,D,]2 | [E,,B,,D,]6 |[K:treble] x6 |] %55
+

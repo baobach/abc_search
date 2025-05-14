@@ -1,0 +1,50 @@
+X:1
+T:Sinfonia V
+T:BWV 791    (A = 415 Hz)
+T:J. S. Bach
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=72
+M:3/4
+K:Eb
+V:1 treble nm="Harp"
+V:3 treble 
+V:2 bass 
+V:1
+"^Adagio" z2 z z/ B/ e/4d/4e/4f/4e/4d/4e/4f/4 | ed- d>c _d>e |{_d} c2- c>c{c} f>g | %3
+{f} e2- e3/2d/4e/4{d} e/4d/4e/4f/4e/4d/4e/4f/4 |{e} d2- d>d{d} g/4f/4gg/ |{g} c2- c>c{c} f>f | %6
+{f} B2 e/4d/4e3/2- e2- | e2 d4 |{d} e2- e3/2 z/ z2 | z2 z z/ a/ f/4c/4d/4c/4d/d/ | %10
+ e/4d/4c/4d/4-d- d>e{e} f2- | f>e e/>f/e/4d/4c/4d/4 e/4d/4c/4d/4e/4d/4c/ | c/4=B/4c3/2 z2 z2 | %13
+ z2 z z/ c/ f/4e/4f/4g/4f/4e/4f/4g/4 |{e} d2- d>e{e} f>g | %15
+{f} e>d d/c/4B/4=A/4B/4e/4c/4 d/4c/4B/4c/4d/4c/4B/ | B/4=A/4B3/2 z z/ b/ b/4a/4g/4a/4b/4a/4b/ | %17
+{a} g2- g>a b2- | b>g{f} =e>f g2- | g>f{e} _d>c{c} f>g |{f} =e2- e>e z/ aa/ | %21
+ a2 g/4f/4g/f/=e/4f/4{f} b>b | b2 f/4=e/4=d/4e/4f/4e/4f/4e/4{e} f>e | %23
+{=e} f>g f2- f/4e/4d/4e/4f/4e/4f/ | f2 z2 z2 | z2 z z/ f/ ba/g/4f/4 |{f} g2- g>a{e} _d2- | %27
+ d>c c2 c/4B/4A/4B/4c/4B/4A/ | A/4G/4A3/2- A>E A/4G/4A/4B/4A/4G/4A/4B/4 |{A} G2- G>F G>A | %30
+ B2- B>F{F} B>c |{B} A2- A>G{G} A>B |{A} G2- G>G c>c | c2 c/4B/4A/4B/4- B3- | %34
+ B2 B/4A/4G/4A/4- A3- | A2- A>G A/4B/4c/4B/4c/c/ |{c} F2- F>F B/4A/4B/4c/4B/4A/4B/4c/4 | %37
+{!fermata!A} !fermata!G6 |] %38
+V:2
+ z/ E,/G,/B,/ E2 C2 | z/ B,,/D,/F,/ B,2 A,2 | z/ A,,/C,/E,/ A,2 F,2 | z/ C,/E,/G,/ C2 =A,2 | %4
+ z/ B,,/D,/F,/ B,2 G,2 | z/ A,,/C,/E,/ A,2 D,2 | z/ G,,/B,,/D,/ G,2 A,2 | z/ B,,/F,/A,/ B,2 B,,2 | %8
+ z/ E,,/G,,/B,,/ E,2 C,2 | z/ A,,/C,/E,/ A,2 F,2 | z/ F,/A,/C/ F2 z/ =B,/=A,/G,/ | %11
+ C/G,/A,/F,/ G,2 G,,2 | z/ C,,/E,,/G,,/ C,2 E,,2 | z/ F,,/=A,,/C,/ F,2 A,,2 | %14
+ z/ B,,/D,/F,/ B,2 G,2 | z/ G,/=A,/B,/ F,2 F,,2 | z/ B,,/D,/F,/ B,2 D,2 | z/ E,/G,/B,/ E2 G,2 | %18
+ z/ A,,/C,/E,/ A,2 =E,2 | z/ F,,/A,,/C,/ F,2 _D,2 | z/ C,/=E,/G,/ C2 A,2 | z/ B,,/_D,/F,/ B,2 G,2 | %22
+ z/ C,,/=E,,/G,,/ C,2 _D,2 | z/ _D,/C,/B,,/ C,2 C,,2 | z/ F,,/A,,/C,/ F,2 A,,2 | %25
+ z/ B,,/_D,/F,/ B,2 D,2 | z/ E,/G,/B,/ E2 z/ G,/F,/E,/ | A,/E,/F,/_D,/ E,2 E,,2 | %28
+ z/ A,,/C,/E,/ A,2 F,2 | z/ E,,/G,,/B,,/ E,2 C,2 | z/ B,,/D,/F,/ B,2 G,2 | z/ A,,/C,/E,/ A,2 F,2 | %32
+ z/ C,/E,/G,/ C2 =A,2 | z/ B,,/D,/F,/ B,2 E,2 | z/ A,,/C,/E,/ A,2 D,2 | z/ G,,/B,,/D,/ G,2 A,2 | %36
+ z/ B,,/F,/A,/ B,2 B,,2 | !fermata!E,,6 |] %38
+V:3
+ x6 | z2 z z/ F/ B/4A/4B/4c/4B/4A/4B/4c/4 |{B} A2- A>G{G} A>B |{A} G2- G3/2G/4c/4 c/4B/4cd/ | %4
+{c} B6- | B2- B/4A/4G/4A/4-A- A2- | A2- A>G{G} c/4B/4cc/ |{c} F2- F>F B/4A/4B/4c/4B/4A/4B/4c/4 | %8
+{A} G2- G>g e/4=B/4c/4B/4c/c/ | d/4c/4B/4c/4-c- c4- | c2{c} =B/4A/4Bc/{c} d/4c/4d3/2- | %11
+ d>c c2 =B2 | c/4=B/4c3/2 z z/ G/ c/4B/4c/4d/4c/4B/4c/4d/4 |{B} =A2- A>B c2- | %14
+ c2 B>c{c} d/4c/4de/ |{d} c>B B2 =A2 | B/4=A/4B3/2 z2 z2 | z2 z z/ e/ e/4_d/4c/4d/4e/4d/4e/ | %18
+{_d} c2- c>d{c} B>c |{B} A2- A>G{G} A>B | c2- c>c f/4=e/4f_e/ | e/4_d/4c/4d/4-d- d4- | %22
+ d2 c>B{B} A>G |{G} A>B A2 G>A | A/4G/4A3/2- A>c{c} fe/_d/4c/4 |{c} _d6- | d2- d>c B2- | %27
+ B>A A2 G2 | A2 z2 z2 | z2 z z/ B,/ E/4D/4E/4F/4E/4D/4E/4F/4 |{E} D2- D>C{C} _D>E | %31
+{_D} C2- C>C{C} F>G |{F} E2- E>D{D} E/4D/4EF/ |{E} D2- D>D G/4F/4GG/ | GC- C>C D/4E/4F/4E/4F/F/ | %35
+{F} B,2 E4- | E2{E} D4 |{D} E6 |] %38
+

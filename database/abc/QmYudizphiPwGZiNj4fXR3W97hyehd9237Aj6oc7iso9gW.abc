@@ -1,0 +1,45 @@
+X:1
+T:Zwölf Deutsche und Italiänische Romantische Gesänge
+T:Aus Ariels Offenbarungen
+T:9. Aus Ariels Offenbarungen
+T:Louise Reichardt
+T:Achim von Arnim
+T:Zwölf Deutsche und Italiänische Romantische Gesänge
+T:OpenScore (CC0) 
+C:Louise Reichardt
+Z:Achim von Arnim
+Z:OpenScore (CC0)
+%%score 1 { ( 2 3 ) | 4 }
+L:1/8
+Q:1/4=65
+M:2/4
+K:F
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:1
+"^Innig" c2 A2 |{c} B2 G2 | A2{c} B2 | A G z2 | G2 G2 | _A2 G2 | G c c B | %7
+w: Li- lie|sieh' mich|Thau um-|blinkt dich,|du bist|trau- rig,|bei dir fühl' ich|
+{!fermata!B} !fermata!_A2 !fermata!G2 | =A2 B2 | (c>f) c z | (c/f/a/g/ f/e/) (d/c/) | (c>f) c z | %12
+w: Lei- den!|ich bin|fröh- * lich,|Ro- * * * * * se *|kenn * mich|
+ d2 c2 | (f>e) e z | (f/a/) (e/f/) (^c/d/) (B/G/) | (F2{A} G2) | F z G3/2 C/ | A3/2 F/ G3/2 C/ | %18
+w: duf- te|se- * lig|bei * dir * fühl' * ich *|Freu- *|den. Ro- sen|Li- lien, Freu- den,|
+ A3/2 F/ A3/2 F/ | B3/2 F/ c3/2 F/ | d2- d/A/B/ G/ |[Q:1/4=60] (F2[Q:1/4=55]{A} G2) | %22
+w: Lei- den blü- hen|bey- de mei- nem|Kran- * * * ze|bey- *|
+[Q:1/4=50] F2 z2 |] %23
+w: de.|
+V:2
+!mf! c2 A2 | B2 G2 | A2 B2 | AG z2 |!p! G2 G2 | _A2 G2 | Gc cB |{!fermata!B} !fermata!_A2 G2 | %8
+!mf! C/F/=A/F/ C/E/B/E/ | C/F/c/F/ C/F/A/F/ | C/F/A/ z/ z2 | C/F/c/F/ C/F/A/F/ | %12
+ E/G/d/G/ F/A/c/A/ | G/B/e/B/ G/B/e/B/ | F/c/f/c/ D/G/B/G/ | C/F/A/F/ B,/E/G/E/ | %16
+ A,/C/F/C/ B,/C/G/C/ | A,/C/F/C/ B,/C/G/C/ | C/F/A/F/ C/F/A/F/ | D/F/B/F/ _E/F/c/F/ | %20
+ D/F/d/F/ D/G/B/G/ | C/F/A/F/ B,/E/G/E/ | A,/C/F/C/ [A,CF] z |] %23
+V:3
+ A2 F2 | G2 E2 | F2 G2 | FE x2 | E2 E2 | F2 E2 | E2 EG | F2 E2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %15
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %23
+V:4
+ F,2 z2 | C,2 z2 | F,2 B,,2 | C,2 C,,2 | C2 C2 | =B,2 C2 | C2 C2 | !fermata!=B,2 C2 | F,2 G,2 | %9
+ A,2 F,2 | z4 | A,2 F,2 | B,2 A,2 | G,2 C,2 | A,2 B,2 | C,4 | F,C, E,C, | F,C, E,C, | F,C, _E,F, | %19
+ D,F, A,,F, | B,,B, B,B, | C,4 | F,2 F,, z |] %23
+

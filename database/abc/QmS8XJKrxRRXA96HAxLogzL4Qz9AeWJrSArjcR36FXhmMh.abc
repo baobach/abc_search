@@ -1,0 +1,41 @@
+X:1
+T:Zwölf Deutsche und Italiänische Romantische Gesänge
+T:Aus Tiecks Genoveva
+T:11. Aus Tiecks Genoveva
+T:Louise Reichardt
+T:Johann Ludwig Tieck
+T:Zwölf Deutsche und Italiänische Romantische Gesänge
+T:OpenScore (CC0)
+C:Louise Reichardt
+Z:Johann Ludwig Tieck
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=55
+M:3/4
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Sehr langsam" c c | c3 B A G | G2 F2 F A | G3 G A G | G2 z2 c c | c3 B A G |{G} F2 F2 F G | %7
+w: 1.~Dicht von|Fel- sen ein- ge-|schlos- sen wo die|stil- len Bäch- lein|gehn, wo die|dunk- eln Wei- den-|spros- sen wünsch ich|
+w: 2.~Hat sie|dich ja doch ver-|stos- sen Und sie|war so süss so|schön, Tau- send|Thrä- nen sind ge-|flos- sen Und sie|
+w: 3.~Hoff- end|und ich ward ver-|stos- sen Bit- ten|zeug- ten nur Ver-|schmähn. Dicht von|Fel- sen ein- ge-|schlos- sen Wo die|
+ A d c2 B2 | A2 z2 A A | =A3/2 A/ B B c c | d2 d d c d | c B A2 G2 | F4 |] %13
+w: bald mein Grab zu|sehn. Hier im|stil- len ein- sam grün- en|Thal such ich Ruh für|mein- es Herz- ens|Quaal.|
+w: durf- te dich ver-|schmähn. Such- e|Ruh für dein- es Herz- ens|Quaal Hier ein Grab im|ein- sam grü- nen|Thal.|
+w: still- en Bäch- lein|gehn, Hier im|still- en ein- sam grü- nen|Thal Such zum Tros- te|dir ein Grab zu-|mahl.|
+V:2
+ z2 | !arpeggio![CFAc]6- | [CFAc]4 [CFA]2 | [DFG]4 [=DFA]G | [=EG]4 z2 | [CFAc]6 | z2 [A,DF]2 FG | %7
+ [EA][FBd] [EAc]2 [DGB]2 | [CEA]4 A2 | =A2 B2 c2 | d2 d2 cd | cB A2 [B,=EG]2 | [A,CF]4 |] %13
+V:3
+ z2 | !arpeggio![F,,A,,C,F,]6- | [F,,A,,C,F,]4 F,2 | B,4 =B,2 | C4 z2 | [F,,A,,C,F,]6 | %6
+ z2 [D,,A,,D,]2 D,2 | C,D, E,2 E,,2 | A,,4 z2 | F,2 B,2 =A,2 | B,2 B,4 | A,B, C2 C,2 | F,,4 |] %13
+V:4
+ x2 | x6 | x6 | x6 | x6 | x6 | x2 F,2 x2 | x6 | x6 | x6 | x6 | x6 | x4 |] %13
+V:5
+ x2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x4 z _G | FE D2 F2 | F2 =E4 | FG F2 x2 | x4 |] %13
+

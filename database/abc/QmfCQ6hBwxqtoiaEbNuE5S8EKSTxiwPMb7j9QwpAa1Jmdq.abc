@@ -1,0 +1,55 @@
+X:1
+T:Fritz Lullaby
+T:Fritz Lullaby
+T:For Cornet & Piano
+T:Septimus Winner
+T:Arr. by Sep Winner
+T:by IMSLP - Public Domain
+T:by IMSLP - Public Domain
+C:Septimus Winner
+Z:Arr. by Sep Winner
+Z:by IMSLP - Public Domain
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+M:2/2
+K:G
+V:1 treble transpose=-3 nm="A Cornet"
+V:2 treble nm="Grand Piano"
+V:3 bass 
+V:4 bass 
+V:1
+[K:Bb] d4 B2 e2 | d4 BFBd | c3 B Aedc | dfec dBcF | d4 B2 e2 | d4 BFBd | c3 B Aedc | BdcF B2 z2 || %8
+w: ||||||||
+ d4 B2 e2 | d4 BFBd | c3 B Aedc | dfec dBcF | d4 B2 e2 | d4 BFBd | c3 B Aedc | BdcF B2 z2 | %16
+w: ||||||||
+ d2 B2 G2 d2 | ^FF dd GA (B=B) | c2 c2 F2 c2 | =E2 c2 F2 z2 | d2 d2 c2 c2 | B3 A G4 | %22
+w: |||rit. * *|||
+ (cB) AG F2 d2 | c2 c2 B2 z2 ||"^CHORUS." F2 F2 F4 | FFGA (Bf)dc | (Af)ec (B[db]) f2 | %27
+w: |||||
+ FFGA (Bf)dc | (Ag)fA B2 z2 |!pp! G4 (B3 G) | F8 | G4 _G4 | !fermata!F8 |] %33
+w: |||dim.|||
+V:2
+ [B,D]4 [B,G]2 [CE]2 | [B,D]4 B,2 B,D | C3 B, A,EDC | D=FEC DB, C2 | [B,D]4 [B,G]2 [CE]2 | %5
+ [B,D]4 B,2 B,D | C3 B, A,EDC | [B,G]D[CF]D [B,E]B, [B,G]2 || z (D[B,G]D) ([B,G]D[CG]E) | %9
+ z (D[B,G]D) z (D[B,G]D) | z (D[CF]D) z (D[CF]D) | ([B,G]D[CF]D) ([B,G]D[CF]D) | %12
+ z (D[B,G]D) ([B,G]D)([CG]E) | z (D[B,G]D) z (D[B,G]D) | C3 B, A,EDC | B,2 [CD]2 [B,D]2 z2 | %16
+ z (B,[EG]B,) z (B,[EG]B,) | z (B,[^DA]B,) z (B,[DE]B,) | z (C[EA]C) z (A,[EG]A,) | %19
+ z (A,[^CG]A,) ([CFA] =CB,A,) | z (D[GB]D) z (B,[^DA]B,) | z (B,[GB]B,) z (C[GB]C) | %22
+ z (^C[_B,E]C) z (D[=B,G]D) | z (D[CF]D) [B,DG]2 z2 || [DFA]2 [DGB]2 [DAc]4 | DDEF (Gd)BA | %26
+ (Fd)cA (G[Bg]) d2 | DDEF (Gd)BA | (Fe)dF G2!pp! z2 | [G,CE]4 [G,CE]2 z2 | [G,B,D]8 | %31
+ [G,CE]4 [G,C_E]4 | !fermata![B,D]8 |] %33
+V:3
+ G,,D,G,D, G,,D,E,G, | G,,D,G,D, G,,D,G,D, | G,,D,G,,D, G,,D,D,,D, | [G,,G,]4- [G,,G,]2 [F,,F,]2 | %4
+ G,,D,G,D, G,,D,E,G, | G,,D,G,D, G,,D,G,D, | F,,D,G,,D, G,,D,D,,D, | G,,2 D,2 [G,,G,]2 [G,,G,]2 || %8
+ [G,,G,]6 z2 | [A,,G,]4 [A,,G,]4 | [F,,F,]4 D,4 | G,,2 A,,2 B,,2 A,,2 | [G,,G,]6 z2 | %13
+ [G,,G,]4 G,,(D,G,D,) | (D,,D,[F,A,]D,) (D,,D,[F,C]D,) | (G,,D,[F,A,]D,) [G,,G,]2 z2 | %16
+ E,2 z2 E,2 z2 | F,2 z2 E,2 z2 | D,2 z2 D,2 z2 | E,2 z2 [D,,D,] z z2 | [G,,G,]2 z2 [F,,F,]2 z2 | %21
+ [E,,E,]2 z2 C,2 z2 | ^C,2 z2 D,2 z2 | D,2 z2 [G,,G,]2 z2 || [D,A,C]2 [D,G,B,]2 [D,F,A,]4 | %25
+ D,/C/A,/C/ D,/C/A,/C/ G,/D/B,/D/ G,/D/B,/D/ | G,/D/C/D/ G,/D/C/D/ G,/D/B,/D/ G,/D/B,/D/ | %27
+ D,/C/A,/C/ D,/C/A,/C/ G,/D/B,/D/ G,/D/B,/D/ | G,/D/C/D/ D,/D/C/D/ G,/D/B,/D/ G,2 | %29
+ [C,,C,]4 [C,,C,]2 z2 | [G,,D,]8 | [C,,G,,C,]4 [C,,G,,C,]4 | !fermata![G,,D,G,]8 |] %33
+V:4
+ G,,4 G,,2 x2 | G,,4 G,,4 | G,,2 G,,2 G,,2 D,,2 | x8 | G,,4 G,,2 G,,2 | G,,4 G,,4 | %6
+ F,,2 G,,2 G,,2 D,,2 | x8 || x8 | x8 | x8 | x8 | x8 | x4 G,,4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %21
+ x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %33
+

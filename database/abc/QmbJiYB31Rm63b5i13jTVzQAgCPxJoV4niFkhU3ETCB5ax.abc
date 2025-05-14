@@ -1,0 +1,26 @@
+X:1
+T:Mission Briefing
+T:Mission Briefing
+T:Azimuth OST - 20
+T:MD Steele Arr. Rayerdyne 
+C:MD Steele
+%%score { 1 | 2 } 3
+L:1/8
+Q:1/4=140
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pia."
+V:2 bass 
+V:3 perc nm="Batterie" snm="Bat."
+K:none
+I:percmap ^=b b 52 x
+I:percmap ^b b 52 x
+V:1
+|: cc z c c2 cc | z8 | cc z c c2 cc | z8 :: cc z c c2 cc | z!8va(! c'g'c' g'a'f'g'!8va)! | %6
+ cc z c c2 cc |!8va(! z c'g'c' g'a'f'g'!8va)! :| %8
+V:2
+|: C,,8 | C,,8 | C,,8 | C,,8 :: C,,8 | C,,8 | C,,8 | C,,8 :| %8
+V:3
+|: ^=b^b z ^b ^b z ^b^b | z ^=b^b^b ^b^b^b^b | ^=b^b z ^b ^b z ^b^b | z ^=b^b^b ^b^b^b^b :: %4
+ ^=b^b z ^b ^b z ^b^b | z ^=b^b^b ^b^b^b^b | ^=b^b z ^b ^b z ^b^b | z ^=b^b^b ^b^b^b^b :| %8
+

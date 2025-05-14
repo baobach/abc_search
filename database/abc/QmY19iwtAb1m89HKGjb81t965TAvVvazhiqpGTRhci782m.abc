@@ -1,0 +1,38 @@
+X:1
+T:Title
+%%score [ ( 1 2 ) ( 3 4 ) ] { ( 5 6 ) | ( 7 8 ) }
+L:1/8
+Q:1/4=120
+M:4/4
+K:E
+V:1 treble nm="Midi_74"
+V:2 treble 
+V:3 bass nm="Midi_74"
+V:4 bass 
+V:5 treble nm="Org."
+V:6 treble 
+V:7 bass 
+V:8 bass 
+V:1
+"^No. 60" (e6 G2) |"^Double counterpoint." A4 B4 | c8 || d8 | e4 c4 | B4 A4 | G8 || (E6 =d2) | %8
+ c4 G4 | A8 || A8 | G4"^William Henry Havergal\n(1793-1870)" A4 | B4 D4 | E8 |] %14
+V:2
+ (G6 E2) | E4 E4 | E8 || F8 | E4 (E2 A2) | G4 F4 | E8 || E8 | E4 E4 | E8 || F8 | E4 E4 | %12
+ (E2 B,2) B,4 | B,8 |] %14
+V:3
+ (B,6 E2) | E4 =D4 | C8 || B,8 | B,4 (C2 E2) | E4 D4 | E8 || (G,6 B,2) | A,4 =D4 | E8 || B,8 | %11
+ B,4 A,4 | G,4 F,4 | G,8 |] %14
+V:4
+ (E,6 =D2) | C4 G,4 | A,8 || A,8 | G,4 A,4 | B,4 B,,4 | E,8 || (E,6 G,,2) | A,,4 B,,4 | C,8 || %10
+ D,8 | E,4 C,4 | B,,4 B,,4 | E,8 |] %14
+V:5
+ e6 G2 | A4 B4 | c8 || d8 | e4 c4 | B4 A4 | G8 || E6 =d2 | c4 G4 | A8 || A8 | G4 A4 | B4 D4 | E8 |] %14
+V:6
+ [EGB]6 E2 | E4 [=DE]4 | [CEA]8 || [FB]8 | [EB]4 [EA]4 | [EG]4 [B,DF]4 | [B,E]8 || x6 [EB]2 | %8
+ [EA]4 [=DE]4 | E8 || [B,F]8 | [B,E]4 E4 | [B,EG]4 x4 | x8 |] %14
+V:7
+ x8 | x8 | x8 || x8 | x8 | x8 | x8 || [G,B,]6 x2 | x8 | x8 || x8 | x8 | x4 [F,B,]4 | x8 |] %14
+V:8
+ E,6 =D2 | C4 G,4 | A,8 || A,8 | G,4 A,4 | B,4 B,,4 | E,8 || E,6 G,,2 | A,,4 B,,4 | C,8 || D,8 | %11
+ E,4 C,4 | B,,4 B,,4 | [E,G,B,]8 |] %14
+

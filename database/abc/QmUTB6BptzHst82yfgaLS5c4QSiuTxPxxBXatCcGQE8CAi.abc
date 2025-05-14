@@ -1,0 +1,80 @@
+X:1
+T:Fantasie.
+T:Fantasie.
+T:G-Moll.
+%%score { ( 1 3 ) | ( 2 4 5 ) }
+L:1/8
+Q:1/4=90
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:5 bass 
+V:1
+!ff! z[Q:1/4=40] Md z/[Q:1/4=95] !fermata!e/4!fermata!d/4c/4B/4A/4G/4 ^F/4G/4!fermata!A/4!fermata!D/4[Q:1/4=35] G/[Q:1/4=90] z/ z z/ z/4[Q:1/4=95] !fermata!G/4 | %1
+ !fermata!=F/4!fermata!E/4D/4C/4[Q:1/4=100][I:staff +1] B,/4A,/4G,/4^F,/4 G,/4[Q:1/4=95]A,/4!fermata!B,/4!fermata!D,/4[Q:1/4=20] G,/4[Q:1/4=90][I:staff -1] z/4 z/ z/4!>(![I:staff +1] !fermata!G,/4!fermata!=F,/4E,/4 D,/4C,/4!fermata!B,,/4!fermata!A,,/4!>)![Q:1/4=7]!f! G,,/4[Q:1/4=40][I:staff -1] z/4 z/ z | %2
+[Q:1/4=90]!mf! z8 | z4 z !wedge!a!wedge!f!wedge!d | %4
+ !wedge!g!wedge!f!wedge!g!wedge!a !wedge!g!wedge!a!wedge!=e!wedge!g | %5
+ !wedge!f!wedge!=e!wedge!f!wedge!g !wedge!f!wedge!g.d.f | _e8 | d4- d!wedge!c!wedge!d!wedge!B | %8
+ c4- c!wedge!B!wedge!c!wedge!A | B2 .G.A !wedge!B2 !wedge!G2 | !wedge!d2 !wedge!A2 d4- | d4 ^c4 | %12
+ d2 z2 z4 | z8 | z8 | z8 |!<(! z8!<)! | z8 |!mf! z2 .d.=e !tenuto!.^f2 .d2 | %19
+ !tenuto!.g2 !wedge!d2 g4- | g4 ^f4 | z!<(! !tenuto!.gd!<)!!f!=f!>(! _e4- | %22
+ e.fc!tenuto!.e!>)!!mf! d4- | d!>(!e=B!tenuto!.d c4- | c!>)!!mp!!tenuto!.d=Ac =B.c.A.B | c4 c4 | %26
+ =B4 _B4 | A8- | AG.A.^F G4- | G!tenuto!.GA!tenuto!.^F G4- | G^F!wedge!G.A F4 | z G.D.=F =E4 | %32
+ z A.=E.G F4 | z B!wedge!F!tenuto!.A G4 |!<(! z c!wedge!G!wedge!B A4 | z dAc!<)!!f! Be=Bd | %36
+ ^c2 d2- d!tenuto!.=ePdc | dA d2 z !wedge!a.f!tenuto!.d | Pg.f.g.a .g.a!wedge!=e!wedge!g | %39
+ f4 z !tenuto!.g!tenuto!.d!tenuto!.f | _e4 z !wedge!f!wedge!c!wedge!e | %41
+ d4 z!<(! !tenuto!.g!tenuto!.f!tenuto!.e!<)! |!f! f8- | %43
+ f!mf![Q:1/4=87]f!>(!ed e3[Q:1/4=80][Q:1/4=77]"^,5" e!>)! | %44
+!mp![Q:1/4=80] d2[Q:1/4=90]!<(! Bc!<)!!mf! !tenuto!.d2 B2 | !wedge!f2 !wedge!c2 f4- | f4 e4- | %47
+ e4 d4- | d4 c4- | c4 =B4 | c4 z =e.=a.g | f4- f!tenuto!.b!wedge!f!wedge!a | %52
+ g4- ga!wedge!=e!wedge!g | ^f4 z gd!tenuto!.=f | _e4 e4 |!f! d4 d4 | =B4 _B4 | A4 z2 A2 | %58
+ A4 z2 G2 | %59
+ !fermata!G2 z2[Q:1/4=100][Q:1/4=90]!>(! x2 z[Q:1/4=40] [D^F]!>)![Q:1/4=95][Q:1/4=80][Q:1/4=70] | %60
+!mf![Q:1/4=30] !fermata!G8 |] %61
+V:2
+ x8 | x8 | z2 !wedge!G,!wedge!A, !wedge!B,2 !wedge!G,2 | !wedge!D2 !wedge!A,2 D4- | D4 ^C4 | D8- | %6
+ D2 .C.B, C4- | C4 B,4 | A,4 D4 | .G,.A,.B,.C !wedge!D2 !wedge!B,2 | A,8 | z8 | z4 z .F.D.B, | %13
+ ._E.D.E.F .E.F.C.E | D4 z !wedge!D!wedge!B,!wedge!G, | %15
+ !wedge!C!wedge!B,!wedge!C!wedge!D !wedge!C!wedge!D!wedge!A,!wedge!C | !tenuto!.B,D^C=E!f! D4- | %17
+ D6 ^C2 | D4 z4 | z4 z !wedge!D,!wedge!B,,!wedge!G,, | %20
+ C,.B,,.C,.D, !tenuto!.C,!tenuto!.D,!tenuto!.A,,!tenuto!.C, | B,,4 z .C,.G,,.B,, | %22
+ A,,4 z .B,,.F,,.A,, | G,,4 z ._A,,.E,,.G,, | !wedge!F,,2 !wedge!D,,2 G,,4 | C,,2 C,D, E,2 C,2 | %26
+ G,2 D,2 G,4- | G,4 ^F,4 | G,4- G,^F,G,D, | E,4- E,D,E,B,, | C,2 A,,2 D,4 | G,4 C,4 | ^C,4 D,4- | %33
+ D,4 _E,4 | =E,4 F,4 | ^F,4 G,2 z2 | z4 A,4 | A,3 A, D4- | D2 D2 ^C4 | D4 z4 | z2 C2 F4 | B,6 C2- | %42
+ CCB,A, D4- | D4 C4 | B,4 z4 | z4 z!>(! !wedge!C!wedge!_A,!wedge!F, | %46
+ !tenuto!.B,!wedge!_A,!wedge!B,!wedge!C!>)!!mp! !wedge!B,!wedge!C!wedge!G,!wedge!B, | %47
+ !tenuto!._A,!wedge!G,!wedge!A,!wedge!B, !wedge!A,!tenuto!.B,!wedge!F,!wedge!A, | %48
+ G,!wedge!F,!wedge!G,!wedge!_A, G,!wedge!A,!wedge!E,!wedge!G, | %49
+ F,!wedge!E,!wedge!F,!wedge!G, F,!wedge!G,!mf!D,F, | !tenuto!.=E,.G, C2- C4 | D8 | _E4 C4 | %53
+ z !wedge!D!wedge!A,!wedge!C =B,4 | z F_ED CDC_B, | A,4 A,4 | G,4 z DB,G, | %57
+ CB,CD !fermata!C!fermata!E!fermata!D!fermata!C | %58
+ !fermata!B,!fermata!A,B,C B,D!fermata!G,!fermata!B, | A,/G,/A,/B,/ x2 x x z A, | G,8 |] %61
+V:3
+ x8 | x8 | z4 G4 | ^F4 =F4 | =E8 | D2 F2 B4 | G4- G!wedge!B!wedge!A!wedge!G | %7
+ !wedge!^F!wedge!=E!wedge!F!wedge!D G4- | G!wedge!^F!wedge!G!wedge!=E F4 | G2 z2 z4 | %10
+ z4 z .A.=F.D | !wedge!G!wedge!F!wedge!G!wedge!A !wedge!G!wedge!A!wedge!=E!wedge!G | %12
+ !tenuto!.F2 !wedge!G!wedge!A B4- | B4 A4- | A2 .PG!wedge!^F G4- | G4 ^F4 | G4- G!>(!=F.GA | %17
+ !tenuto!.BA!tenuto!.GF .=E!tenuto!.F!tenuto!.G!fermata!E!>)! | D4 d4 | =B4 _B4 | A8 | G8 | F8 | %23
+ E8 | D8 | .C!mf!.DEF G2 E2 | D4 z !tenuto!.D!tenuto!.B,G, | CB,C!tenuto!.D C!tenuto!.DA,C | B,8- | %29
+ B,8 | A,4 z !tenuto!.D!tenuto!.A,!tenuto!.C | B,4 z C.G,.B, | A,4 z !tenuto!.D.A,.=C | %33
+ B,4 z _E!wedge!B,.D | C4 z !tenuto!.FC_E | D4 z GDF | =EGFA E4 | D4 z4 | z8 | %39
+ z!mf! d!tenuto!.A!tenuto!.=c =B4 | z !wedge!c!wedge!G!wedge!_B A4 | %41
+ z !wedge!B!wedge!F!wedge!_A G4 | =A4- A!>(!F B2- | B4-!>)! BG A2 | B4 B4 | A4 _A4 | G8 | F8 | E8 | %49
+ D8 | C2 z !tenuto!.G c4- | c!tenuto!.d!wedge!=A.c B4- | Bc!wedge!G!wedge!B A4- | A4 G4 | %54
+ z!<(! dc_B ABAG-!<)! | GG^FG A2 F2 | G8 | E4 z2 A,2 | D4 z2 E2 | E2 C/D/=E/^F/ G2 z C | [=B,D]8 |] %61
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z4 G,4 | ^F,4 =F,4 | =E,4 A,,4 | D,6 G,2 | C,4 F,4 | %14
+ B,,6 _E,2 | A,,4 D,4 | G,,2 A,,2 B,,2 =F,,2 | G,,2 =E,,2 A,,4 | D,,4 z4 | x8 | x8 | x8 | x8 | x8 | %24
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | ^F,4 =F,4 | =E,8 | z2 D,2 G,4 | %40
+ C,4 z4 | z2 B,,2 E,4- | E,4 D,3 E, | F,8 | B,,4 z4 | x8 | x8 | x8 | x8 | z4 z2 G,,2 | C,4 z4 | %51
+ z8 | z8 | z4 z2 G,2 | C6 C,2 | D,2 D,=E, ^F,2 D,2 | G,2 D,2 G,4- | G,4 z2 ^F,2 | G,4 z2 G,2 | %59
+ !fermata!C,2 z2 z/ !tenuto!.B,/!tenuto!.A,/!tenuto!.G,/ D,2 | !fermata!G,,8 |] %61
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %37
+ !arpeggio!x3- x x4 | x8 | x8 | x4 z2 F,2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %52
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %61
+

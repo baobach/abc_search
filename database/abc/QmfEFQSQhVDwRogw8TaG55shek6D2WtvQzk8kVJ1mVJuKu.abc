@@ -1,0 +1,86 @@
+X:1
+T:Theme for contest.
+T:Dec. 31 st Contest Variations on Schumann Nachtstucke Op. 24 No. 4 
+T:The_Mad_Duck
+C:Hazim Azlan
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+M:4/4
+K:F
+V:1 bass nm="Piano" snm="Pno."
+V:3 bass 
+V:2 bass 
+V:4 bass 
+V:1
+ x6[Q:1/4=52]"^Lento"!p! CA | !arpeggio![F,CA] z !arpeggio![G,^CA] z !arpeggio![F,DA] z G,>G, | %2
+ !arpeggio![E,CG] z !arpeggio![D,B,F] z/ !arpeggio![E,G]/ !arpeggio![F,CA] z C,>^C | %3
+ !arpeggio![D,B,D] z !arpeggio![C,B,E] z !arpeggio![C,CF] z !arpeggio![F,DG] z | %4
+ !arpeggio![G,CE] z !arpeggio![G,=B,D] z/ C/ [E,C] z CA | %5
+ !arpeggio![F,CA] z !arpeggio![G,^CA] z !arpeggio![F,DA] z G,>G, | %6
+ !arpeggio![E,CG] z !arpeggio![D,B,F] z/ !arpeggio![E,G]/ !arpeggio![F,CA] z C,>^C | %7
+"_cresc." !arpeggio![D,B,D] z !arpeggio![C,B,E] z!f! !arpeggio!!fermata![C,CF]2[Q:1/4=32]"^Largo"!pp!"_cresc." .[F,DA].[G,G] | %8
+ [A,CF] z PE2"^Variaton 1"!p!!ped! [A,CF]4 | %9
+!ped! !arpeggio![F,CA]!ped-up! z !arpeggio![G,^CA] z!ped! !arpeggio![F,DA]!ped-up! z G,>G | %10
+!ped! !arpeggio![E,CG]!ped-up! z !arpeggio![D,B,F] z/ !arpeggio![E,G]/!ped! !arpeggio![F,CA]!ped-up! z [C,F,A,C]A/G/ | %11
+!ped! z/!ped-up! !arpeggio![D,B,DF] z/ !arpeggio![C,B,E]F!ped! !arpeggio![C,CF]!ped-up! z !arpeggio![F,DG] z | %12
+!ped! !arpeggio![G,CE]!ped-up! z !arpeggio![G,=B,D] z/ C/!ped! [E,C]!ped-up!c'CA | %13
+!ped! !arpeggio![F,CA]!ped-up! z !arpeggio![G,^CA] z!ped! !arpeggio![F,DA]!ped-up! z G,>G | %14
+!ped! !arpeggio![E,CG]!ped-up! z !arpeggio![D,B,F] z/ !arpeggio![E,G]/!ped! !arpeggio![F,CA]!ped-up! z [C,F,A,C]A/G/ | %15
+!ped! !arpeggio![D,B,DF]!ped-up! z !arpeggio![C,B,E] z!ped! !arpeggio![C,CF]!ped-up! z !arpeggio![F,DG] z | %16
+!ped! [A,CF]2!ped-up! [G,CE]>C [A,CF]4[Q:1/8=120] | %17
+[M:6/8][K:treble][Q:1/4=180]"^Variation 2\nAllegro\n" !arpeggio![FAc]6 | !arpeggio![^C^c]6 | %19
+ [FAd]6 | [FBd]4 z A | [CEG]6 | [B,DF]4 z G | [CFA]6 | [CEAc]4 z ^c | [DBd]6 | %26
+"_cresc." [EBe]4- [EBe]c |!f! [FAcf]6 | [Gdf]6 | [Gce]6 | [G=Bd]4 z c | [EGc]6 | [EGc]3 [ca]3 | %33
+ [FAcf]6 | [^ce]6 | [FAd]6 | [FBd]4 z A | [CEG]6 | [B,DF]4 z G | [CFA]6 | [CEAc]4 z ^c | [DBd]6 | %42
+"_cresc." [EBe]4- [EBe]c |!f! [FAcf]6 |"_dim." [Gdf]6 |!p!"_cresc." [FBdf]6 | [EGBe]4- [EGBe][cf] | %47
+[Q:1/4=150]"_rit" [FAcf]6-!ped!!ped-up![Q:1/4=130] |[Q:1/4=120] [FAcf]6[Q:1/4=110] | %49
+[M:3/4][Q:1/4=100]"^Variation 3\nAdante\n" z6 |[Q:1/4=95]"^Poco a poco rit." z6 |[Q:1/4=90] z6 | %52
+[Q:1/4=85] z6 |[Q:1/4=80] z6 |[Q:1/4=75] z2 z4 |[Q:1/4=70] z6 | %56
+[Q:1/4=80]"^Adagio"!pp!!8va(!!ped! c'4 a'2!ped-up! |[K:F]!ppp! f'6 | g'4 f'2 | d'6 | b'4 a'2 | %61
+ g'6 | f'4 g'2 | a'6 | c'4 ^c'2 | d'6 | e'4 c'2 | f'6 |[Q:1/4=90] a'3[Q:1/4=85] g'3 | %69
+[Q:1/4=80] f'6 |[Q:1/4=75] e'4 c'2 |[Q:1/8=70] f'6- | f'6!8va)! |] %73
+V:2
+ x8 | [F,,,F,,] z [G,,,G,,] z [D,,D,] z [G,,,G,,] z | %2
+ [C,,C,] z [C,,,C,,] z [F,,,F,,] z [A,,,A,,] z | %3
+ [B,,,B,,] z [G,,,G,,] z [F,,,F,,] z [=B,,,=B,,] z | [C,,C,] z [G,,,G,,] z [C,,,C,,] z z2 | %5
+ [F,,,F,,] z [G,,,G,,] z [D,,D,] z [G,,,G,,] z | [C,,C,] z [C,,,C,,] z [F,,,F,,] z [A,,,A,,] z | %7
+ [B,,,B,,] z [G,,,G,,] z [F,,,F,,]2 .[B,,,B,,].[=B,,,=B,,] | %8
+ [C,,C,] z [C,,,C,,] z [F,,,F,,]/F,,/A,,/C,/ F,/C,/A,,/F,,/ | %9
+ [C,,F,,]/F,,/A,,/C,/ E,/^C,/A,,/F,,/ D,,/F,,/A,,/=C,/ D,>E,, | %10
+ [C,,,C,,]/E,,/G,,/C,/ [D,,D,]/B,,/F,,/C,,/ [F,,,F,,]2 C,,>[^C,,E,,] | %11
+ D,,/F,,/B,,/D,/ E,/B,,/G,,/E,,/ F,,/A,,/C,/F,/ G,/D,/B,,/F,,/ | %12
+ G,,/C,/E,/G,/ [G,,=B,]/G,/E,/C,/ [C,,C,]4 | %13
+ [C,,F,,]/F,,/A,,/C,/ E,/^C,/A,,/F,,/ D,,/F,,/A,,/=C,/ D,>E,, | %14
+ [C,,,C,,]/E,,/G,,/C,/ [D,,D,]/B,,/F,,/C,,/ [F,,,F,,]2 C,,>[^C,,E,,] | %15
+ D,,/F,,/B,,/D,/ E,/B,,/G,,/E,,/ F,,/A,,/C,/F,/ G,/D,/B,,/F,,/ | %16
+ [C,,C,]2 [C,,,C,,]2 [F,,,F,,]3!f! (3C,/D,/E,/ |[M:6/8] F,, z [F,C] C,, z [F,C] | %18
+ ^C,, z [E,A,^C] G,,, z [E,A,C] | D,, z [F,A,D] A,,, z [F,A,D] | D,, z [G,B,D] G,,, z [G,B,D] | %21
+ E,, z [G,CE] C,, z [G,CE] | D,, z [G,B,D] B,,, z [G,B,E] | F,, z [F,C] C,, z [F,C] | %24
+ C,, z [E,A,C] A,,, z [E,A,^C] | B,, z [F,B,D] F,, z [F,B,D] | %26
+ [G,,,G,,].!^!G,,,.!^!G,,, .!^!G,,,.!^!G,,,.!^!G,,, | F,,, z [F,A,C] C,, z [F,A,C] | %28
+ =B,,, z [F,G,=B,D] G,,, z [F,G,B,D] | C,, z [G,CE] G,,, z [G,CE] | %30
+ =B,,, z [G,=B,D] G,,, z [G,B,D] | C,, z [G,CE] G,,, z [G,CE] | C,, z [G,CE] G,,, z [G,CE] | %33
+ F,, z [F,C] C,, z [F,C] | ^C,, z [E,A,^C] G,,, z [E,A,C] | D,, z [F,A,D] A,,, z [F,A,D] | %36
+ D,, z [G,B,D] G,,, z [G,B,D] | E,, z [G,CE] C,, z [G,CE] | D,, z [G,B,D] B,,, z [G,B,E] | %39
+ F,, z [F,C] C,, z [F,C] | C,, z [E,A,C] A,,, z [E,A,^C] | B,, z [F,B,D] F,, z [F,B,D] | %42
+ [G,,,G,,].!^!G,,,.!^!G,,, .!^!G,,,.!^!G,,,.!^!G,,, | F,,, z [F,A,C] C,, z [F,A,C] | %44
+ =B,,, z [F,G,=B,D] G,,, z [F,G,B,D] | D,, z [G,B,D] B,,, z [G,B,D] | C,, z [G,B,E] G,,,3 | %47
+ [F,,,F,,]6- | [F,,,F,,]6 |[M:3/4][K:treble] F2 [cfa]2 [cfa]2 | E2 [^ceg]2 [ceg]2 | %51
+ D2 [dfa]2 [dfa]2 | C2 [ceg]2 [ceg]2 | G,2 [=Bdg]2 [Bdg]2 | =B,2 [=Bdg]2 [Bdg]2 | %55
+ !arpeggio![Ccegc'e'g'c'']6 | z6 |[K:F] [CFA]6 | [^CEA]6 | [A,DF]6 | [G,B,DG]6 | [G,CEG]6 | %62
+ [CEG]6 | [CFA]6 | [CEA]6 | [B,DF]6 | [G,CE]6 | [F,A,CF]6 | z6 | [F,A,CF]6 | [E,G,B,C]6 | %71
+ [F,A,CF]6- | [F,A,CF]6 |] %73
+V:3
+ x8 | x6 !arpeggio![DB] z | x6 !arpeggio![F,C] x | x8 | x8 | x6 !arpeggio![DB] z | %6
+ x6 !arpeggio![F,C] x | x8 | x2 [G,C]2 x4 | x6 !arpeggio![DB] x | x8 | x8 | x8 | %13
+ x6 !arpeggio![DB] x | x8 | x8 | x8 |[M:6/8][K:treble] x6 | A3 GAG | x6 | x6 | x6 | x6 | x6 | x6 | %25
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | A3 GAG | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %44
+ x6 | x6 | x6 | x6 | x6 |[M:3/4] x6 | x6 | x6 | x6 | x6 | x6 | x6 |!8va(! x6 |[K:F] x6 | x6 | x6 | %60
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6!8va)! |] %73
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:6/8] x6 | %18
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %37
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x3 F,,,3 | C,,3 !fermata!F,,3 | %49
+[M:3/4][K:treble] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |[K:F] x6 | x6 | x6 | x6 | x6 | c4 B2 | %63
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %73
+

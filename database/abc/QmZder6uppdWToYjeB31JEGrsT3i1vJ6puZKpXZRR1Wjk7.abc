@@ -1,0 +1,62 @@
+X:1
+T:Valses poéticos
+T:Tempo de Vals noble
+T:Valses poéticos
+T:No. 2
+T:Enrique Granados
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+C:Enrique Granados
+Z:OpenScore (CC0)
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+Q:1/4=240
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:1
+"^Tempo de Vals noble"!<(! (A6 | B6 | =B6 | c6!<)! | f2) c2 A2 |({AB)} (AG G2) G2 | %6
+"_rubatto" !tenuto!f!tenuto!e!tenuto!f(cBA |"_rall."{AB} AG G2 ^G2) |"_a tempo"!<(! (A6 | B4 =B2 | %10
+ f6!<)! |"_dim." c6)"_con molta fantasia" | (c'2 a2 f2 |!>(!({ef)} ed d2 c2)!>)! | %14
+!pp! (c'2 g2"_rit." c2 |({ga)} gf) !fermata!f4 |"_vivo" (a6 | b6 | =b6 | c'6) | %20
+"_cresc." (f'2 g2 c2 |({ab)} ag g2 g2) |"_rubatto" .f'.e'.d'.c'.b.a |({ab)} ag g2 ^g2 | a6 | b6 | %26
+ =b6 | c'6 |!8va(! f'd'c'=b_af |{de} dc!8va)! DC[I:staff +1] D,[I:staff -1] x | %30
+"_Adagio" (c'2 g2 c2 |!pp!{ga} [cg][Af] !fermata![Af]4) || (a6 | ^g6 | g6 | ^f6) | (=f6 | e6 | %38
+ ^d6 | e6) | z2 FAcf | z2 DF=Bd | z2!<(! ^CEG_B | z2 FAcf | z (f c_AFC) | %45
+ ecGE!<)![I:staff +1] C[I:staff -1] x | z (F =Bd) z B | (dc_BGE) z |!<(! (A6 | B6 | =B6 | c6)!<)! | %52
+ (f2 c2 A2 |{AB} AG G2) G2 |"_rubatto" !tenuto!f!tenuto!e!tenuto!f(cBA |"_rall."{AB} AG G2 ^G2) | %56
+"_a tempo"!<(! (A6 | B4 =B2!<)! | f6 | c6)"_con molto fantasia" | (c'2 a2!>(! f2 | %61
+{ef} ed d2 c2)!>)! |!pp! (c'2 g2"_rit." e2 |{ga} gf !fermata!f4) |] %64
+V:2
+ (F,,C,A,C,) F,,2 | (G,,F,B,F,) G,,2 | (^G,,F,=B,F,) G,,2 | (A,,F,CF,) A,,2 | (A,,2 [F,C]4) | %5
+ (B,,2 [F,D]4) | (A,,2 [F,C]4) | (E,,2 [CE]2 [B,D]2) | ([A,C]F, A,,2 .A,,2) | (B,F, _A,,2) A,,2 | %10
+ ([F,=B,]D, =G,,2) ^G,,2 | (=A,,[F,C] [F,C]2) [F,C]2 | z2 [F,C]4 | ^G,,2 [F,=B,]2 [F,A,C]2 | %14
+ z2 [E,B,]4 | z2 !fermata![F,A,C]4 | .F,.C z[K:treble] .F z2 |[K:bass] .G,.F z[K:treble] .F z2 | %18
+[K:bass] .^G,.D z[K:treble] .F z2 |[K:bass] .A,.F z[K:treble] .F z2 | .A,.F.c.F.A,.F | %21
+ .B,.F.d.F.B,.F | A,FcFA,F |[K:bass] .E,.B,[K:treble].D.B.E.D |[K:bass] F,C z F z2 | G,F z F z2 | %26
+ ^G,D z F z2 | A,F z F z2 |[K:treble] .^G,.F.=B.F.G,.F | A,F z2[K:bass] D,C, | z2 [E,B,]4 | %31
+ z2 !fermata![C,F,A,]4 || F,G z F z2 | E,F z E z2 | _E,F z _E z2 | F,_E z D z2 | D,2 z2 C_A, | %37
+ G,,2 z2 CG, | G,,2 x2 G,G,, | [C,,C,]2 x2 B,G, | A,4 z2 | ^G,4 z2 | =G,4 z2 | F,C z2 z2 | %44
+ _A,2 z2 z2 | z2 z2 CG, | G,,2 z2[K:treble] g z |[K:bass] z2 z2 z C, | (F,,C,A,C, F,,2) | %49
+ (G,,F,B,F, G,,2) | (^G,,F,=B,F, G,,2) | (A,,F,CF, A,,2) | (A,,2 [F,C]4) | (B,,2 [F,D]4) | %54
+ (A,,2 [F,C]4) | (E,,2 [CE]2 [B,D]2) | ([A,C]F, A,,2) A,,2 | (B,F, _A,,2) A,,2 | %58
+ ([F,=B,]D, =G,,2) ^G,,2 | (=A,,[F,C]) [F,C]2 [F,C]2 | z2 [F,C]4 | ^G,,2 [F,=B,]2 [F,A,C]2 | %62
+ z2 [E,B,]4 | z2 !fermata![F,A,C]4 |] %64
+V:3
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | A,,4 z2 | x6 | C,,4 z2 | F,,6 | %16
+ x3[K:treble] x3 |[K:bass] x3[K:treble] x3 |[K:bass] x3[K:treble] x3 |[K:bass] x3[K:treble] x3 | %20
+ x6 | x6 | x6 |[K:bass] x2[K:treble] x4 |[K:bass] x6 | x6 | x6 | x6 |[K:treble] x6 | %29
+ x4[K:bass] x2 | C,,6 | F,,,6 || x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | A,C z2 x2 | ^G,=B, z2 x2 | %42
+ G,_B, z2 x2 | x6 | x6 | x6 | x4[K:treble] x2 |[K:bass] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %55
+ x6 | x6 | x6 | x6 | x6 | A,,4 z2 | x6 | C,,6 | F,,6 |] %64
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z2!pp! .A2 .c.A | %17
+ z2 .B2 .d.B | z2 .=B2 .d.B | z2 .c2 .f.c | x6 | x6 | x6 | x6 | z2 .A2 .c.A | z2 .B2 .d.B | %26
+ z2 B2 f'f | z2 .c2!>(! .a.f |!8va(! x6 | x2!8va)! x2!>)! x2 | x6 | x6 || z2 A2 cA | z2 ^G2 =BG | %34
+ z2 =G2 BG | z2 ^F2 AF | z c _AF z2 | z c GE z2 | z G F[I:staff +1]B,[I:staff -1] x2 | %39
+ z G E[I:staff +1]C[I:staff -1] x2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %52
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %64
+

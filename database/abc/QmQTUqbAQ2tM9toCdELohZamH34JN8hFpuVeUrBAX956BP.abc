@@ -1,0 +1,39 @@
+X:1
+T:The Phrygian cadence in the operas of Mussorgsky
+T:The Phrygian cadences in the operas by Mussorgsky
+T:M. Mussorgsky
+C:M. Mussorgsky
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=50
+M:4/4
+K:C
+V:1 treble-8 nm="Голос" snm="Го."
+V:2 treble nm="Фортепиано" snm="Ф-но"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Moderato non troppo lento""^Khovanshchina" z"^Подьячий" c A c d B c d | e2 B z B2 ^G G |] %2
+w: Да на Ан- дре- е, на Хо-|ван- ском, сам зна- ешь|
+[K:treble][Q:1/4=114]"^Moderato"[Q:1/4=80]"^Марфа""^Phrygian tetrachord on the strong beats in the melody""^Khovanshchina" d2 A _B c2 G2 | %3
+w: Ма- ти Су- сан- на|
+ _B E F G (A>B) A e | d2 A _B c2 G2 | _B3/2 B/ F G[Q:1/4=50] A2 E2 |] %6
+w: гне- вом вос- пы ла- * ла на|речь на мо- ю без|ле- сти и об- ма- на|
+[K:bass][Q:1/4=92]"^Andante tranquillo""^Пимен""^Boris Godunov" z4[Q:1/4=50] z E, E, E, | %7
+w: Тог- да я|
+ E, E, z E, G,3/2 G,/ F, G, | A, A, G, A, E,2 E, z |] %9
+w: в Уг- лич на не- ко- е был|ус- лан по- слу- ша- нье|
+V:2
+"""_a:" (c4"""" (d4) |"" e4-) e z z2 |]"""_d:" (d2 A_B"" c2 G2 |"" _BEFG"" E2 A2) | %4
+"" (d2 A_B"" c2 G2 |"" _B2 FG"" A2) z2 |] z4"""_a:" (E4 |"" E4"" G4 |"" A4"" E2-) E z |] %9
+V:3
+ (A4 (B2) (A2) | ^G4-) G z z2 |] (F4 E4 | D4 E4) | (F4 E4 | D4 ^C2) z2 |] z4 (B,4 | C4 D4 | %8
+ D4 B,2-) B, z |] %9
+V:4
+"_Phrygian tetrachord in bass\n" (E4 (D4) | E4-) E z z2 |] (D4 C4 | _B,4 ^C4) | (D4 C4 | %5
+ G,4 A,2) z2 |] z4 (E,4 |"_Phrygian tetrachord in bass\n" E,4 B,4 | A,4 E,2-) E, z |] %9
+V:5
+ (A,4 (G,2) (F,2) | E,4-) E, z z2 |] (D,4 E,4 | G,4 A,4) | (_B,4 C4 | G,4 A,2) z2 |] z4 (E,,4 | %7
+ A,,4 G,,4 | F,,4 E,,2-) E,, z |] %9
+

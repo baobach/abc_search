@@ -1,0 +1,32 @@
+X:1
+T:BWV 924 Little Prelude in C major (A = 415 Hz)
+T:From Clavier-Büchlein vor Wilhelm Friedemann Bach
+T:J. S. Bach
+%%score { ( 1 3 ) | 2 }
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Harp"
+V:3 treble 
+V:2 bass 
+V:1
+ z/ G/c/e/ z/ G/c/e/ z/ G/c/d/ z/ B/d/g/ | z/ A/d/g/ z/ A/d/f/ z/ A/d/e/ z/ c/e/a/ | %2
+ z/ B/e/a/ z/ B/e/g/ z/ c/e/f/ z/ G/d/f/ | z/ G/d/e/ z/ G/c/e/ z/ A/c/d/ z/ E/B/d/ | %4
+ z/ E/B/c/ z/ E/A/c/ z/ F/A/_B/ z/ C/G/B/ | z/ C/G/A/ z/ C/F/A/ z/ D/F/B/ z/ E/G/c/ | %6
+ z/ D/G/c/ z/ D/G/B/ z/ C/G/B/ z/ C/^F/A/ | z/ B,/D/A/ z/ B,/D/G/ z/ A,/C/G/ z/ A,/C/F/ | %8
+ !arpeggio![B,DF]2 z2 z4 | z2 F/G/B/d/ B/ G/B/d/ f/g/b/f/ | %10
+ e/c'/g/f/ e/c'/g/e/ d/c'/f/e/ d/b/f/d/ | c/b/e/d/ c/a/e/c/ B/a/d/c/ B/g/d/B/ | %12
+ A/g/c/B/ A/^f/c/A/ B/=f/d/c/ B/f/d/B/ | G/e/c/B/ A/e/c/A/ ^F/d/B/A/ G/d/B/G/ | %14
+ E/c/A/G/ ^F/c/A/F/ D/c/c/4B/4A/ B/G/d/F/ | G/E/F/d/ c/B/A/G/ f/d/_e/c/ _G/e/d/c/ | %16
+ B/d/B/G/ _A/F/G/D/ _E/^F/=A/c/ z/ cB/ | !fermata![EGc]8 |] %18
+V:2
+ C,2 E,2 G,/4F,/4G,3/2 G,,2 | D,/4C,/4D,3/2 F,2 A,/4G,/4A,3/2 A,,2 | %2
+ E,2 E/4D/4E3/2 A,2 A,/4B,/4C/4B,/4C/4B,/4A,/4B,/4 | %3
+ C2 E,2 ^F,2 A,/4^G,/4F,/4G,/4A,/4G,/4F,/4G,/4 | A,2 C,2 D,2 E,2 | %5
+ F,2 E,2 E,/4D,/4E,/4D,/4E,/4D,/4E,/4D,/4 C,2 | G,/4F,/4G,3/2 G,,2 G,/4F,/4G,3/2 G,,2 | %7
+ G,/4F,/4G,3/2 G,,2 G,/4F,/4G,3/2 G,,2 | G,/4F,/4G,3/2 z2 z/ G,,/B,,/D,/ F,/G,/B,/D/ | %9
+ B,/ G,/B,/D/ z2 z4 | [G,,G,]8- | [G,,G,]8- | [G,,G,]8- | [G,,G,]8- | [G,,G,]8- | [G,,G,]8- | %16
+ [G,,G,]8 | !fermata![C,,C,]8 |] %18
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z4 z2 D=F | x8 |] %18
+

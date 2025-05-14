@@ -1,0 +1,44 @@
+X:1
+T:Title
+%%score { ( 1 4 5 ) | ( 2 3 ) }
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="Grand Piano"
+V:4 treble 
+V:5 treble 
+V:2 bass 
+V:3 bass 
+V:1
+ z4 z2[Q:1/4=100] [A,CE][A,DF] | [CEA][CEA][CEA][A,DF] [CA][CA][CE][DF] | A2 F2 E>E FA | %3
+ _c<=c _c<=c EA A/B/c | e2- e<e- e/ z/ z z2 | [CA][CEA][CEA][A,DF] [CA][CA][CE][CF] | %6
+[M:11/16] A-<AF-<FE3/2 |[M:5/16] E/AB |[M:4/4] c6 z2 |[M:5/8] A-A- A3 |[M:3/8] EE>F | %11
+[M:4/4] _c<=c _c<=c EA A/B/c |[M:3/4] z2 .f2 f<e |[M:1/4] fe |[M:4/4] cccB A2 [Ec][EB] | %15
+[M:11/16] [FA][FA][FA]FE3/2 |[M:5/16] E/AB |[M:4/4] c6 z2 |[M:13/8] A-A- A3 z z z z z z z2 |] %19
+V:2
+ z4 z2 A,,A,, | A,,A,,A,,A,, [A,,E,][A,,E,][A,,A,][A,,A,] | %2
+ [D,A,D]2 [F,A,D]2[K:treble] [A,C]>C DE | A6 .C2 | [A,CA]2 [E,B,]2 [A,CA]2 [A,EA][A,DA] | %5
+ A,,A,,A,,A,, [A,,E,][A,,E,][A,,A,][A,,A,] | %6
+[M:11/16] [D,A,D]-<[D,A,D][F,A,D]-<[F,A,D][K:treble][A,C]3/2 |[M:5/16] C/CD | %8
+[M:4/4] E2[K:bass] z2 z4 |[M:5/8] z2 F,2 E, |[M:3/8][K:treble] CC>D |[M:4/4] A6 .C2 | %12
+[M:3/4] [A,CA]2 [E,B,]2 [A,CA]2 |[M:1/4] [A,DA][A,CA] | %14
+[M:4/4] [A,EA][A,EA][A,EA][A,DG][K:bass] [A,C]2 C,C, | %15
+[M:11/16] [D,D][D,D][D,D][F,A,D][K:treble][A,C]3/2 |[M:5/16] C/CD |[M:4/4] E2[K:bass] z2 z4 | %18
+[M:13/8] z2 F,2 .E,2 z z z z z z2 |] %19
+V:3
+ x8 | x8 | x4[K:treble] x4 | [A,CE]2 [F,CF]2 [A,C][A,CE] [A,E]/-[A,DE]/[A,EA] | x8 | x8 | %6
+[M:11/16] x4[K:treble] x3/2 |[M:5/16] x5/2 |[M:4/4] z[K:bass] F,[F,A,]F,- F,C,E,[E,G,] | %9
+[M:5/8] A,,-A,,- A,,3 |[M:3/8][K:treble] x3 | %11
+[M:4/4] [A,CE]2 [F,CF]2 [A,C][A,CE] [A,E]/-[A,DE]/[A,EA] |[M:3/4] x6 |[M:1/4] x2 | %14
+[M:4/4] x4[K:bass] x4 |[M:11/16] x4[K:treble] x3/2 |[M:5/16] x5/2 | %17
+[M:4/4] z[K:bass] F,[F,A,]F,- F,C,E,[E,G,] |[M:13/8] A,,-A,,- A,,3 z z z z z z z2 |] %19
+V:4
+ x8 | x8 | x8 | x8 | z2 .f2 f<e cB | x8 |[M:11/16] x11/2 |[M:5/16] x5/2 |[M:4/4] z2 F4 z2 | %9
+[M:5/8] [A,C]2 D2 C |[M:3/8] x3 |[M:4/4] x8 |[M:3/4] e2- e<e- e/ z/ z |[M:1/4] x2 |[M:4/4] x8 | %15
+[M:11/16] x11/2 |[M:5/16] x5/2 |[M:4/4] z2 F4 z2 |[M:13/8] [A,C]2 D2 .C2 z z z z z z2 |] %19
+V:5
+ x8 | x8 | x8 | x8 | z2 G2 z4 | x8 |[M:11/16] x11/2 |[M:5/16] x5/2 | %8
+[M:4/4] z A, z A,- A,[A,EA][B,EG][DB] |[M:5/8] x5 |[M:3/8] x3 |[M:4/4] x8 |[M:3/4] z2 G2 z2 | %13
+[M:1/4] x2 |[M:4/4] x8 |[M:11/16] x11/2 |[M:5/16] x5/2 |[M:4/4] z A, z A,- A,[A,EA][B,EG][DB] | %18
+[M:13/8] x13 |] %19
+

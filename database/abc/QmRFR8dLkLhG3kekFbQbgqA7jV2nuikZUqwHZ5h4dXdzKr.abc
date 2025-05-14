@@ -1,0 +1,35 @@
+X:1
+T:Courante
+T:(2e) Courante
+T:Elisabeth Jacquet de la Guerre
+T:Suite in D Minor  N°4
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+M:3/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+ z[Q:1/4=144]"^Allegro" F | [DF]2 MG2 A2 PG2 MA2 _B2 | PA2 d2 !turn!^c2 d3 e f2 | %3
+ Pe2 a2 g2 Mf2 Pf3 e/f/ | d2 Mc3 d M_B2 PB3 A/B/ | A3 A M_B2 !turn!G2 A2 E2 | MF2 G2 A2 PE3 FED | %7
+ P^C3 D E2 MF2 PF3 E | E6- E4 ::"_Reprise" z e | [^ce]6 A2 PG2 FE | MF2 G2 A2 M_BA PG3 F | %12
+ PE2 MF2 G2 A2 M_B2 !turn!c2 | D2 !turn!E2 F2 MG2 A2 !turn!_B2 | c2 F2 _B2 A2 G4 | %15
+ [CF]4 C2 MEF G2 A2 | [G_B]2 !turn!c2 d2 e2 Mf2 !turn!g2 | a2 Pgf e2 d^c Md2 e2 | %18
+ A2 B2 ^c2 d4 Pc2 | [Ad]6- [Ad]4 :| %20
+V:2
+ z2 | D,2 E,2 F,2 E,2 F,2 G,2 | z2 A,2 G,2 z2 A,2 D2- | E4 A4- A4 | z2 z2 F6 E2 | %5
+ z2 A,2 D2- D4 ^C2 | D,2 E,2 F,2 G,2 A,2 _B,2 | A,2 A,,B,, ^C,A,, D,6 | A,,6 MA,,4 :: z2 | %10
+ z2 A2 PG2 F2 E2 ^C2 | D2 E2 F2 GF E2 D2 | ^C2 D2 E2 F2 G,2 A,2 | _B,,2 C,2 D,2 E,2 F,2 G,2 | %14
+ A,2 _B,,A,, G,,2 F,,2 C,4 | F,,2 F,G, A,2 G,F, C2 P_B,A, | G,2 G,,A,, _B,,2 A,,G,, D,2 E,2 | %17
+ F,2 G,2 A,2 _B,2 A,2 G,2 | F,2 E,D, A,,2 G,,2 A,,4 | z2 z2 A,,2 MD,4 :| %20
+V:3
+ x2 | !arpeggio![A,D]2 x10 | x6 F3 G A2 | x12 | x12 | x12 | x12 | x12 | z ^C- [A,C]4- [A,C]4 :: %9
+ x2 | A6 x6 | x12 | x12 | d4 x8 | C2 D2 E2 F4 PE2 | A,4 x4 E2 ^F2 | D2 x10 | x12 | x4 G2 F2 E4 | %19
+ F6- F4 :| %20
+V:4
+ x2 | D,,2 x4 E,4 x2 | F,4 E,2 D,6 | D2 ^C4 D2 A,4 | _B,2 A,4 G,6 | F,6 E,6 | D2 x10 | %7
+ x6 z2 z2 D,,2 | z2 z2 A,,,2- A,,,4 :: x2 | A,12- | A,12 | A,4 G,2 F,2 x4 | _B,2 x10 | %14
+ A,,2 x6 C,2 C,,2 | x12 | x12 | x12 | x8 z2 A,,,2 | D,,6- D,,4 :| %20
+

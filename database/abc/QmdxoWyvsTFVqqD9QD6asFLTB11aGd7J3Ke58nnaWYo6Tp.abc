@@ -1,0 +1,45 @@
+X:1
+T:Sonntagmorgen
+T:Ludwig Erk
+T:Franz Alfred Muth
+T:Sonntagmorgen
+T:CPDL - Creative Commons Attribution Non Commercial 3.0
+C:Ludwig Erk
+Z:Franz Alfred Muth
+Z:CPDL - Creative Commons Attribution Non Commercial 3.0
+%%score [ ( 1 2 ) ( 3 4 ) 5 ]
+L:1/8
+Q:1/4=72
+M:6/8
+K:C
+V:1 treble nm="Sopran\nAlt"
+V:2 treble 
+V:3 treble-8 nm="Tenor"
+V:4 treble-8 
+V:5 bass nm="Bass"
+V:1
+"^Allegretto"!p! A | A>EA A>D"^dim."A | A>!pp!DA A2 ||[K:A]"^dolce" c | B>Ec A>Ec | %5
+w: 1.,~4.~Die|Glo- cken ver- klin- gen, all-|ü- ber- all Ruh';|die|Ler- chen nur sin- gen am|
+w: 2.~All-|ü- ber- all be- ten die|Blu- men der Heid',|all-|ü- ber- all re- den die|
+w: 3.~Ein|se- li- ges Träu- men durch-|we- het die Welt,|fern|zwi- schen den Bäu- men geht|
+!>(! B>Ec A2!>)!!<(! c | e>!<)!B"^cresc."e e>ce |!>(! e>Be!>)!!>(! !fermata!e2!>)!!pp!"^Echo" c | %8
+w: Him- mel sich zu, die|Ler- chen nur sin- gen am|Him- mel sich zu, am|
+w: Wip- fel so weit, all-|ü- ber- all re- den die|Wip- fel so weit, die|
+w: Gott durch das Feld, fern|zwi- schen den Bäu- men geht|Gott durch das Feld, geht|
+ !>!e>Be!>(! !fermata!e2!>)! |] %9
+w: Him- mel sich zu.|
+w: Wip- fel so weit.|
+w: Gott durch das Feld.|
+V:2
+ E | E>A,E D>A,D | D>A,D E2 ||[K:A] E | E>EE E>EE | E>EE E2 E | D>DD C>EE | E>EE E2 E | D>DD C2 |] %9
+V:3
+"^Nach der 3. Strophe wird die erste nochmals gesungen."!p! A | A>AA A>A"^dim."A | A>!pp!AA A2 || %3
+[K:A]"^dolce" c | d>de c>cc |!>(! d>de c2!>)!!<(! A | G>!<)!G"^cresc."G A>Ac | %7
+!>(! d>dd!>)!!>(! !fermata!c2!>)!!pp!"^Echo" A | G>GG!>(! !fermata!A2!>)! |] %9
+V:4
+ E | E>EE F>FF | F>FF E2 ||[K:A] A | G>GG A>AA | G>GG A2 E | E>EE E>EA | G>GG A2 E | E>EE E2 |] %9
+V:5
+!p! A,, | A,,>A,,A,, A,,>A,,"^dim."A,, | A,,>!pp!A,,!>(!A,, A,,2!>)! ||[K:A]"^dolce" A, | %4
+ E,>E,E, E,>E,E, |!>(! E,>E,E, A,,2!>)!!<(! A,, | A,,>!<)!A,,"^cresc."A,, A,,>A,,A,, | %7
+!>(! E,>E,E,!>)! !fermata!A,,3- |!pp!"^dim.""^Echo" A,,3- !fermata!A,,2 |] %9
+

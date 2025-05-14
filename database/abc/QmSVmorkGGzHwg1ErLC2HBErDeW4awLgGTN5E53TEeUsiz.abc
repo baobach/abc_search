@@ -1,0 +1,55 @@
+X:1
+T:BWV 826 Capriccio Strings Arrangement
+T:BWV 827 Gigue Strings Arrangement
+T:J. S. Bach
+C:J. S. Bach
+%%score 1 2 3
+L:1/8
+Q:3/8=132
+M:12/8
+K:C
+V:1 treble nm="Violin"
+V:2 alto nm="Viola"
+V:3 bass nm="Violoncello"
+V:1
+ .E | (A,CE A^GA) (B,DE AGA) | (CE^G ABc DcA _BdA) | ^G3- G^F=G A3- ABc | B3- B^de c6- | %5
+ cBA B^fA- AG^F G3- | GAG AeG- GFE F3- | FFE FdF- FED EdE | c3- cBc d3- def | e3- e^ga f6- | %10
+ fed ebd !>!c6- | cA^F AFD !>!B6- | BGE GEC !>!A6- | A^F^D FDB, GB^d e3- | e2 ^d ^f3- fef g3- | %15
+ ge^g ac'=g !^!^f6- | fe^d e2 B !^!e6- | ed^c d2 A !^!d6- | dcB c2 ^G A3- A2 A | d6- db^g eBe | %20
+ Ace a^ga Bde aga | ce^g abc' dc'a _bd'a | ^gbg eBd cec AEG | !wedge!Faf dAc BdB GDF | %24
+ E e2- e2 d e3- e2 :: z | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 | z6 z3 z z .B | %35
+ eB^G E^DE dBG EDE | cAF E^GA FDB, ^G,ED | CEA c^GA c^F=G cEF | B,DG B^FG BEF B^DE | %39
+ A,CE AE^F A^DE A^CD | G2 z z3 G2 z z3 | ^F2 z z3 F2 z z3 | E2 z z3 z3 z z .^f | %43
+ b^fd B^AB af^d BAB | gec B^de cA^F ^DBA | G z z z ^fg P^g3- gfg | a3- abc' d2 f B2 ^g | a6- a6- | %48
+ a6 g6- | g2 e f3- f2 e f3- | f2 b b2 d d2 B B2 e | edc dcB A3- A2 :| %52
+V:2
+ z | z12 | z6 z3 z z .A, | (E,^G,B, E^DE) (^F,A,B, EDE) | G,B,^D E^FG A,GE =FAE | %5
+ ^D3- D^CD E3- EB,=D | ^C3- CB,C D3- DA,=C | B,2 C B,2 A, ^G,2 B, G,3 | A,2 ^G A3- A2 G B3 | %9
+ BAB c3- cA^c df=c | B6 z AE CEA | D z z z3 z GD B,DG | C z z z3 z ^FE ^DEF | B, z z z3 G3- G^FG | %14
+ A3- ABc B3- B^de | c6- cBA B^fA | G6- GAG AeG | F6- FGF GdF | E6- E2 A, D3- | DFA ^GBA B2 z z3 | %20
+ z3 E3 F2 E D3 | E2 B, C2 E A,3 D3 | D^G,B, E^GE A2 z z3 | z F,A, DFD G2 z z3 | %24
+ z z c (B A2-) A/c/B/A/^G/^F/ E2 :: z | z12 | z6 z3 z z .E | (AEC A,^G,A,) (GE^C A,G,A,) | %29
+ FD_B, A,^CD B,G,E, ^C,A,G, | F, z z z3 z ^F,G, B,D=F, | E, z z z3 z E,F, A,CE, | %32
+ D, z z z3 z D,E, ^G,B,D, | C,E,F, A,CE, D,^F,G, B,D=F, | E,^G,A, CE=G, F,A,_B, DFA, | %35
+ ^G,3 A,6 G,3 | A,3 z3 z3 B,3 | B,C,E, A,B,C DA,B, ^F,G,A,- | A,B,D, G,A,B, CG,A, E,^F,G,- | %39
+ G,A,C, ^F,G,A, B,F,G, ^D,E,F,- | F,EB, G,^F,G, z ED ^CB,C- | CDA, ^F,^E,F, z D^C B,^A,B,- | %42
+ B,^C^A, E,^D,E, ECB, A,^G,A, | ^F,3 z3 B,3 z3 | B,2 z z3 z3 z z .B | eBG E^DE dB^G EDE | %46
+ cAF E^GA FDB, ^G,ED | C z z z Bc P^c3- cBc | d3- def e3- e^ce | A3- A2 ^c d3- d2 A | %50
+ d2 d d2 B B2 ^G G2 G | A3- A2 ^G A/F/E/D/^C/B,/ A,2 :| %52
+V:3
+ z | z12 | z12 | z12 | z12 | z12 | z12 | z6 z3 z z E, | A,,C,E, A,^G,A, B,,D,E, A,G,A, | %9
+ C,E,^G, A,B,C D,CA, _B,DA, | ^G,2 B, G,2 E, A,,C,E, A,CA, | ^F,A,D D,F,A, G,,B,,D, G,B,G, | %12
+ E,G,C C,E,G, ^F,,A,,C, ^F,A,F, | ^D,^F,B, B,,D,F, E,,G,,B,, E,D,E, | %14
+ ^F,,A,,B,, E,^D,E, G,,B,,D, E,^F,G, | A,,G,E, F,A,E, ^D,3- D,^C,D, | %16
+ E,,G,,B,, E,G,E, ^C,3- C,B,,C, | D,,F,,A,, D,F,D, B,,3- B,,A,,B,, | %18
+ C,,E,,G,, C,E,C, F,,A,,C, F,A,F, | B,,D,F, B,DB, E,^G,B, E^GD | C6 D2 C B,3 | A,3- A,2 G, F,6 | %22
+ E,2 z z3 A,,C,E, A,CA, | D,2 z z3 G,,B,,D, G,B,G, | C,2 A,, F,2 F,, E,,^G,,B,, E,2 :: .B, | %26
+ (EB,^G, E,^D,E,) (DB,G, E,D,E,) | CA,F, E,^G,A, F,D,B,, ^G,,E,D, | C,3- C,B,,C, ^C,3- C,B,,C, | %29
+ D,3- D,E,F, G,, z z A,, z z | !wedge!D,,A,F, D,A,,C, B,,6- | B,,G,E, C,^G,,B,, A,,6- | %32
+ A,,F,D, B,,^F,,A,, ^G,,3- G,,E,,G,, | A,,3- A,,F,,A,, B,,3- B,,G,,B,, | C,3- C,A,,^C, D,6- | %35
+ D,3 C,3 B,,3 E,3 | A,,3 C,3 D,3 E,3 | !>!A,,3 z3 z6 | !>!G,,3 z3 z6 | !>!^F,,3 z3 z6 | %40
+ E,,G,,B,, E,^D,E, A,,^C,E, A,^G,A, | D,,^F,,A,, D,^C,D, G,,B,,D, G,^F,G, | %42
+ ^C,,E,,G,, ^C,B,,C, ^F,,^A,,C, ^F,^E,F, | D,3- D,^C,D, ^D,3- D,C,D, | E,3- E,^F,G, A, z z B, z z | %45
+ E, z z z3 z6 | z6 z3 z z .E | AEC A,^G,A, GE^C A,G,A, | FD_B, A,^CD B,G,E, ^C,A,G, | %49
+ F,A,^C DA,F, D,F,^G, A,F,D, | B,,D,^G, A,,D,F, ^G,,B,,D, F,E,D, | C,B,,A,, E,2 E,, A,,^C,E, A,2 :| %52
+

@@ -1,0 +1,75 @@
+X:1
+T:Transcendental Études
+T:Transcendental Études
+T:S. 139/1 "Preludio"
+T:Franz Liszt
+C:Franz Liszt
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=160
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Presto""^energico" z3/2 C/-C z!8va(! (19:4:19(!^!c'/[e'c'']/_b'/g'/e'/c'/!8va)!_b/g/e/c/_B/G/E/[K:bass]!>(!C/_B,/G,/E,/C,/_B,,/)!>)! G,,/D,/C,/_B,,/ | %1
+!<(! A,,/E,/D,/C,/ B,,/F,/E,/D,/ C,/G,/F,/E,/ D,/A,/G,/F,/!<)! | %2
+ !wedge!E, z/[K:treble] C/-C z!8va(! (19:4:19(!^!c'/[e'c'']/_b'/g'/e'/c'/!8va)!_b/g/e/c/_B/G/E/[K:bass]!>(!C/_B,/G,/E,/C,/_B,,/)!>)! G,,/D,/C,/_B,,/ | %3
+ A,,/E,/D,/C,/ B,,/F,/E,/D,/ C,/G,/F,/E,/ D,/A,/G,/F,/ | %4
+!<(! E,/_B,/A,/G,/ F,/C/=B,/A,/!<)! G,/D/C/_B,/ A,/E/D/C/ | %5
+[K:treble] B,/F/E/D/ C/G/F/E/ D/A/G/F/ E/f/e/d/ | c/a/g/f/ e/f'/e'/d'/!8va(! c'/a'/g'/f'/ e' d'' | %7
+e'' d''e'' d''e'' d''e''d'' | %8
+ !wedge![e'e'']!8va)! z !wedge![EG_de] z !wedge![F_Adf] z !wedge![Ac_e_a] z | %9
+ !wedge![_df_a_d'] z!8va(! !wedge![^f^a^c'^f'] z !wedge![b^d'f'b'] z !wedge![e'^g'b'e''] z | %10
+ !wedge![ae'a']2 z2 !wedge![f'a'd''f'']2!8va)! z2 | [F,_B,D]8 | [=B,DG]16 | %13
+[I:staff +1] !>!C,,2"^non troppo presto"[I:staff -1] x2 z/ (B/d/_a/ g/b/d'/g'/) | %14
+ x4 z/ (B/d/_a/ g/b/d'/g'/) | x4 z/!<(! (c/e/a/!8va(! c'/e'/a'/e''/!<)! | %16
+ c''/g'/e'/c'/!8va)! g/e/c/G/) z/"_cre"!<(! (A/c/e/!8va(! a/c'/e'/c''/!<)!!8va)! | %17
+ g'/e'/c'/g/ e/c/G/E/) z/"_do"!<(! (C/E/G/ c/e/a/e'/!<)! | %18
+ c'/g/e/c/ G/E/C/G,/) z/!<(! (A,/C/E/ A/c/e/c'/!<)! | %19
+ g/e/c/G/ E/C/[I:staff +1]G,/E,/)[I:staff -1] z/!<(![I:staff +1] (C,/E,/A,/[I:staff -1] C/E/A/e/!<)! | %20
+ c/G/E/C/[I:staff +1] G,/E,/C,/G,,/)[I:staff -1] z/!fff![I:staff +1] (A,,/C,/F,/ A,/[I:staff -1]C/F/A/ | %21
+ (5:4:5c/f/a/c'/f'/)!8va(! (!^![c'f'a']/c''/f'/c'/) (!^![c'f'a']/c''/f'/c'/) (!^![c'f'a']/d''/f'/c'/) | %22
+ x !fermata![e'g'e'']8!8va)! |] %23
+V:2
+ x6[K:bass] G,,/ x/ ^G,,/ x/ | A,,/ x/ ^A,,/ x/ B,,/ x/ B,,/ x/ C,/ x/ ^C,/ x/ D,/ x/ ^D,/ x/ | %2
+ x6[K:treble][K:bass] G,,/ x/ ^G,,/ x/ | %3
+ A,,/ x/ ^A,,/ x/ B,,/ x/ B,,/ x/ C,/ x/ ^C,/ x/ D,/ x/ ^D,/ x/ | %4
+ E, x F,/ x/ ^F,/ x/ G,/ x/ ^G,/ x/ A,/ x/ ^A,/ x/ | %5
+[K:treble] B, x C/ x/ ^C/ x/ D/ x/ ^D/ x/ E/ x/ B/ x/ | c de b!8va(!c' d' e'/a'/g'/f'/ | %7
+ e'/a'/g'/f'/ e'/a'/g'/f'/ e'/a'/g'/f'/ e'/a'/g'/f'/ | x!8va)! x7 | x2!8va(! x6 | x6!8va)! x2 | %11
+ x8 | x16 | x8 | x8 | x6!8va(! x2 | x2!8va)! x4!8va(! x2!8va)! | x8 | x8 | x8 | x8 | x2!8va(! x6 | %22
+ x9!8va)! |] %23
+V:3
+!ped! x3/2!f! C,/-!8vb(!C,,!8vb)! x[K:treble] x4!ped-up![K:bass] | %1
+ !wedge!F,,!wedge!^F,, !wedge!G,,!wedge!^G,, A,,2 !wedge!_B,,!wedge!=B,, | %2
+!ped! !wedge!C, x/!ff! C,/-!8vb(!C,,!8vb)! x[K:treble] x4!ped-up![K:bass] | %3
+ !wedge!F,,!wedge!^F,,"^poco    a    poco     cre" !wedge!G,,!wedge!^G,, A,,2 !wedge!_B,,!wedge!=B,, | %4
+"^scen" !wedge!C,!wedge!^C, !wedge!D,!wedge!^D, E,2 !wedge!F,"^do"!wedge!^F, | %5
+ !wedge!G,!wedge!^G, A,2 !wedge!_B,!wedge!=B, !wedge!C !wedge![G,E] | %6
+"^ed accelerando" !wedge![A,E] !wedge![B,G]!wedge![CG] !wedge![^G,E]!wedge![A,E] !wedge![B,G]!wedge![CG] !wedge![B,G] | %7
+!wedge![CG]"^semrpre più forte" !wedge![B,,G,B,]!wedge![C,G,C] !wedge![B,,,G,,B,,]!wedge![C,,G,,C,] !wedge![B,,,G,,B,,]!wedge![C,,G,,C,]!wedge![B,,,G,,B,,] | %8
+ !wedge![C,,G,,C,] z !wedge![_B,,_D,E,G,_B,] z !wedge![_A,,D,F,_A,] z !wedge![_G,,C,_E,_G,] z | %9
+ !wedge![F,,_A,,_D,F,] z !wedge![E,,^A,,^C,E,] z !wedge![^D,,^F,,B,,^D,] z !wedge![=D,,^G,,B,,=D,] z | %10
+ !wedge![^C,,E,,A,,^C,]2 z2 !wedge![D,,F,,A,,D,]2 z2 | %11
+!fff!!ped! !trill(!T_B,,6"^rit." T_A,,2!ped-up! |!ped! [F,G,]16!ped-up! | %13
+!mf!!<(!!ped! (C,,/"^legatissimo"E,,/G,,/C,/ E,/G,/[I:staff -1]C/E/)!<)!!ped-up!!ped![I:staff +1] (!^![_A,_A]2 !arpeggio!!wedge![G,B,DFG]) z!ped-up! | %14
+!<(!!ped! (C,,/E,,/G,,/C,/ E,/G,/[I:staff -1]C/E/)!<)!!ped-up!!ped![I:staff +1] (!^![_A,_A]2 !arpeggio!!wedge![G,B,DFG]) z!ped-up! | %15
+!ped! (C,,/E,,/G,,/C,/ E,/G,/[I:staff -1]C/E/)!ped-up!!ped![I:staff +1] !^![=A,CE=A]4!ped-up! | %16
+!ped! !^![G,CEG]4!ped-up!!ped! !^![E,A,CE]4!ped-up! | %17
+"^scen"!ped! !^![C,E,G,C]4!ped-up!!ped! !^![A,,C,E,A,]4!ped-up! | %18
+!ped! !^![G,,C,E,G,]4!ped-up!!ped! !^![E,,A,,C,E,]4!ped-up! | %19
+!ped! !^![C,,E,,G,,C,]4!ped-up!!ped! !^![A,,,C,,E,,A,,]4!ped-up! | %20
+!ped! !^![G,,,C,,E,,G,,]4!ped-up!!ped! !^![F,,,A,,,C,,F,,]4- | %21
+ [F,,,A,,,C,,F,,]2"^poco rallentando" !^![F,,,A,,,C,,F,,]2 !^![A,CFA]2 !^![F,,,A,,,C,,F,,]2!ped-up! | %22
+!ped! C,,/4E,,/4G,,/4C,/4[K:treble] !fermata![CEGc]8!ped-up! |] %23
+V:4
+ z2!8vb(! C,,,!8vb)! z[K:treble] !arpeggio!!wedge![CG_Be]"^rinf." !fermata!z!p! z[K:bass] !wedge!E,, | %1
+ x8 | %2
+ x z!8vb(! C,,,!8vb)! z[K:treble] !arpeggio!!wedge![CG_Be]"^rinf." !fermata!z!p! z[K:bass] !wedge!E,, | %3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %12
+ !^!TG,,2 !^!TF,,2 !^!TD,,2 !^!TB,,,2"^rinf."!>(! !^!TG,,,4-!>)! G,,,!<(! !wedge!^F,,,/!wedge!G,,,/!wedge!_A,,,/!wedge!=A,,,/!wedge!_B,,,/!wedge!=B,,,/!<)! | %13
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x[K:treble] x8 |] %23
+

@@ -1,0 +1,65 @@
+X:1
+T:BUTTERFLIES
+T:Chas. L. Johnson
+T:BUTTERFLIES
+T:Jenne Van Antwerpen
+T:Jenne Van Antwerpen
+C:Chas. L. Johnson
+Z:Jenne Van Antwerpen
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=100
+M:4/4
+K:F
+V:1 treble nm="Dwarsfluit" snm="Fl."
+V:2 treble nm="Honky tonk piano" snm="Hnk. Pno."
+V:3 bass 
+V:4 bass 
+V:1
+"^\n"!mp! (3(c'/d'/c'/)=b d' | c'4- c'(3(c/d/c/) =Bd | c4- c(3(c'/d'/c'/) =bc' |: %3
+{/e'} .d'.c'.^g.a ._b.a.e.f |{ga} gf c2- cAB=B | .c.f.c.d .e.f.c.d | e4- e(3(c'/d'/c'/ =bc') | %7
+ .e'.d'.^c'.d' .=c'.b.a.g | .^f.a g2- g(=fed |!mf! c'c'c'c' c'c'c'c' | c'4-) c'(3(c'/d'/c'/) =bc' | %11
+{/e'} .d'.c'.^g.a ._b.a.e.f |{ga} gf c2- c(c'd'e') | .f'.f'.f'.f' .f'.f'.f'.f' | f'4- f'(d'^c'd') | %15
+ .e'.d'.^c'.d' .g.a.b.=b | .d'.c'.=b.c' .f.g.^g.a | (c'bdf) (a3 g) |1 %18
+ f z !>!c z f(3c'/d'/c'/ =bc' :|2 f z !>!c z !>!fc=BA |:[K:C]!f! B4- BAGf | e4- ee{/g}fe | %22
+!mp! a z{/a} d2 g z{/g} B2 |{/e} dcBA GcBA |!f! B4- BAGf | e4- ee{/g}fe | %26
+!mp! a z{/a} d2 g z{/g} B2 |1 c z g z c'(cBA) :|2 (cdcd c)(3(c'/d'/c'/) =bc' || %29
+[K:F]{/e'} .d'.c'.^g.a ._b.a.e.f |{ga} gf c2- cAB=B | .c.f.c.d .e.f.c.d | e4- e(3(c'/d'/c'/ =bc') | %33
+ .e'.d'.^c'.d' .=c'.b.a.g | .^f.a g2- g(=fed |!mf! c'c'c'c' c'c'c'c' | c'4-) c'(3(c'/d'/c'/) =bc' | %37
+{/e'} .d'.c'.^g.a ._b.a.e.f |{ga} gf c2- c(c'd'e') | .f'.f'.f'.f' .f'.f'.f'.f' | f'4- f'(d'^c'd') | %41
+ .e'.d'.^c'.d' .g.a.b.=b | .d'.c'.=b.c' .f.g.^g.a | (c'bdf) (a3 g) | f z !>!c z !>!f z || %45
+[K:Bb] z2 |] %46
+V:2
+!mp! (3(c'/d'/c'/)=b d' | z [g_b][^fa][=f_a] [eg](3(c/d/c/) =Bd | z [G_B][^FA][=F_A] [EG] z z2 |: %3
+ .d'.c'.^g.a ._b.a.e.f | gf c2- cAB=B | .c.f.c.d .e.f.c.d | e4 [CEB] z z2 | %7
+ .e'.d'.^c'.d' .=c'.b.a.g | .^f.a g2- g(=fed |!mf! cdef g^fg^g | a4-) a z z2 | %11
+ .d'.c'.^g.a ._b.a.e.f | gf c2- c(cde) | .f.g.a.b .c'.=b.c'.^c' | d'4- d'(d'^c'd') | %15
+ .e'.d'.^c'.d' .g.a.b.=b | .d'.c'.=b.c' .f.g.^g.a | (c'bdf) z (c=B_B) |1 %18
+ A z !>![EB] z [FA] z z2 :|2 A z [EB] z [FA]C=B,A, |:[K:C]!f! z2 [B,G]2 [B,G]A,G,F | %21
+ z2 [EG]2 [EG^c] z z2 |!mp! a z d2 g z B2 | dcBA GCB,A, |!f! z2 [B,G]2 [B,G]A,G,F | %25
+ z2 [EG]2 [EG^c] z z2 |!mp! a z d2 g z B2 |1 c z [Bf] z [ce](CB,A,) :|2 %28
+ [CEG]2 [C^FA]2 [CG_B] z z2 ||[K:F] .d'.c'.^g.a ._b.a.e.f | gf c2- cAB=B | .c.f.c.d .e.f.c.d | %32
+ e4 [CEB] z z2 | .e'.d'.^c'.d' .=c'.b.a.g | .^f.a g2- g(=fed |!mf! cdef g^fg^g | a4-) a z z2 | %37
+ .d'.c'.^g.a ._b.a.e.f | gf c2- c(cde) | .f.g.a.b .c'.=b.c'.^c' | d'4- d'(d'^c'd') | %41
+ .e'.d'.^c'.d' .g.a.b.=b | .d'.c'.=b.c' .f.g.^g.a | (c'bdf) z (c=B_B) | A z !>![EB] z !>![FA] z || %45
+[K:Bb] z2 |] %46
+V:3
+ z2 z | z8 | z8 |: F,,2 [A,CF]2 [CFA]2 z2 | F,,2 [A,CF]2 [CFA] z z2 | F,,2 [A,CF]2 C,,2 [A,CF]2 | %6
+ G,,2 [B,E]2 z2 z2 | G,,2 [G,_B,D]2 [B,DG]2 z2 | G,,2 [G,B,D]2 [B,DG] z z2 | %9
+ C,,2 [B,CE]2 [B,CE]2 z2 | F,,2 [A,CF]2 [CFA] z z2 | F,,2 [A,CF]2 [CFA]2 z2 | z8 | %13
+ F,,2 [A,_EF]2 [A,EF] z z2 | B,,2 [F,B,D]2 [B,DF] z z2 | B,,2 [G,B,D]2 [B,DG]2 z2 | %16
+ C,2 [A,CF]2 [CFA]2 z2 | G,,2 [G,B,D]2 z (CDE) |1 F z !>![C,G,] z !arpeggio![G,,C,A,] z z2 :|2 %19
+ F z !>![C,G,] z !arpeggio![F,,C,F,] z z2 |:[K:C] z (D,^D,E,) F,2 z2 | z (CB,_B,) A,2 z2 | %22
+ D,,2 [CD^F]2 G,,2 [G,=F]2 | C,2 [^F,C_E]2 [G,C=E] z z2 | z (D,^D,E,) F,2 z2 | z (CB,_B,) A,2 z2 | %26
+ D,,2 [CD^F]2 G,,2 [G,=F]2 |1 [CE] z [G,D] z [C,C] z z2 :|2 x8 ||[K:F] F,,2 [A,CF]2 [CFA]2 z2 | %30
+ F,,2 [A,CF]2 [CFA] z z2 | F,,2 [A,CF]2 C,,2 [A,CF]2 | G,,2 [B,E]2 z2 z2 | %33
+ G,,2 [G,_B,D]2 [B,DG]2 z2 | G,,2 [G,B,D]2 [B,DG] z z2 | C,,2 [B,CE]2 [B,CE]2 z2 | %36
+ F,,2 [A,CF]2 [CFA] z z2 | F,,2 [A,CF]2 [CFA]2 z2 | z8 | F,,2 [A,_EF]2 [A,EF] z z2 | %40
+ B,,2 [F,B,D]2 [B,DF] z z2 | B,,2 [G,B,D]2 [B,DG]2 z2 | C,2 [A,CF]2 [CFA]2 z2 | %43
+ G,,2 [G,B,D]2 z (CDE) | F z !>![C,G,] z !arpeggio![F,,C,A,] z ||[K:Bb] z2 |] %46
+V:4
+ x3 | x8 | x8 |: x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 C,,4 |1 %18
+ x8 :|2 x8 |:[K:C] G,,4- G,,2 x2 | C,,4 x4 | x8 | x8 | G,,4- G,,2 x2 | C,,4 x4 | x8 |1 x8 :|2 x8 || %29
+[K:F] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 C,,4 | x6 || %45
+[K:Bb] x2 |] %46
+

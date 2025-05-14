@@ -1,0 +1,40 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/8
+Q:1/4=90
+M:4/4
+K:A
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 treble nm="Choir Pad, From the Cyber Hymnal™"
+V:4 bass 
+V:5 bass 
+V:1
+ [CE]>[DF] [EA]>[EB] [EA]>[CE] [DF]<[CE] | [CE]>[DF] [FA]>[FB] [FA]>[DF] [CE]2 | z2 c6 | z2 B4 z2 | %4
+w: By~George~W.~Stapleton * * * * * * *||||
+ [CE]>[^DF] [EA]>[EB] [EA]>[CE] [=DF]<[CE] | [CE]>[DF] [FA]>[FB] [FA]>[DF] [CE]2 | z2 c4 z2 | %7
+w: |||
+ [GB]>[GB] A>E F>F E2 | z2 e6 | z2 e6 | z2 c6 | z2 B6 | [CE]>[^DF] [EA]>[EB] [EA]>[CE] [=DF]<[CE] | %13
+w: ||||||
+ [CE]>[DF] [FA]>[FB] [FA]>[DF] [CE]2 | z2 c4 z2 | z2 A6- | A6 z2 |] %17
+w: ||||
+V:2
+ x8 | x8 | (3EFA z2 F>F FE | [^Dc]>[DA] E>E D>D E2 | x8 | x8 | (3EFA z2 F>F [FA]A | x8 | %8
+ (3cBA z A G>B A2 | (3[Ac][EB][FA] c>A G>B A2 | (3EFA z F F>F FE | [^Dc]>[DA] E>E D>D E2 | x8 | %13
+ x8 | (3EFA z2 F>F [FA]A | [GB]>[GB] z z/ E/ F>F E2- | E6 z2 |] %17
+V:3
+ A,>A, C>D C>[K:bass]A, A,<A, | A,>A, A,>D D>A, A,2 | z4 A,>A, A,2 | A,>F, G,>G, F,>F, G,2 | %4
+ A,>A,[K:treble] C>D C>A, A,<[K:bass]A, | A,>A, A,>D D>A, A,2 | z4 A,>A, A,2 | D>D C>C D>D C2 | %8
+ z2 z C B,>D C2 | (3EDC E>C B,>D C2 | z2 z[K:bass] A, A,>A, A,2 | A,>F, G,>G, F,>F, G,2 | %12
+ A,>A,[K:treble] C>D C>A, A,<[K:bass]A, | A,>A, A,>D D>A, A,2 | z4 A,>A, A,2 | D>D C>C D>D C2- | %16
+ C6 z2 |] %17
+V:4
+ A,,>A,, A,,>A,, A,,>A,, A,,<A,, | A,,>A,, D,>D, D,>D, A,,2 | z4 F,>F, F,C, | %3
+ B,,>B,, E,>E, B,,>B,, E,2 | A,,>A,, A,,>A,, A,,>A,, A,,<A,, | A,,>A,, D,>D, D,>D, A,,2 | %6
+ z4 F,>F, F,C, | E,>E, [A,,A,]6 | z2 z A, E,>E, A,2 | (3:2:2A,2 A, A,>A, E,>E, A,2 | %10
+ z2 z F, F,>F, F,C, | B,,>B,, E,>E, B,,>B,, E,2 | A,,>A,, A,,>A,, A,,>A,, A,,<A,, | %13
+ A,,>A,, D,>D, D,>D, A,,2 | z4 F,>F, F,C, | E,>E, A,6 | z8 |] %17
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z2 A,,6- | A,,6 z2 |] %17
+

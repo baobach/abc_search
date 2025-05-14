@@ -1,0 +1,91 @@
+X:1
+T:Papillon Op 43 No.1
+T:Papillon Op 43 No.1
+T:Butterfly from Lyric Pieces
+T:Edvard Grieg
+C:Edvard Grieg
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=156
+M:4/4
+K:A
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:1
+"^Allegro grazioso" (!>!f>G A/^A/B/^B/!<(! c/d/^d/e/ =a/e/c/=A/)!<)! | %1
+ (!>!^^F>e !>!G>e !>!F>f!>(! !>!G>^e)!>)! | (!>!f>G A/^A/B/^B/ c/d/^d/e/ =a/e/c/=A/) | %3
+"_cresc." (!>!c'>^d e/^e/f/!<(!^^f/ g/a/^a/b/ =e'/b/g/=e/)!<)! |!f! (B>g!>(! G>e E>c!p! C>^A!>)! | %5
+ =C>=A A,>F G,>E) z2 :| %6
+[Q:1/4=156]"^Allegro grazios""_cresc." (!>!=G>B !>!d/=g/!>!c/[cg]/!<(! !>!B/[dg]/!>!A/[Bd]/ !>!=G/[GB]/!>!F/[GB]/)!<)! | %7
+ (!>!^E>[^Gc]) (!>!F>[Ac]) (!>!^D>[Fc]) (!>!E>[Gc]) | %8
+ (!>!C>[FAc] !>!D/[FAc]/!>!=E/[FAc]/) (!>!C>[^EAc] !>!C>[EAc]) | %9
+ z2!>(! (z/ z/ z/ z/ z/ z/ z/) z3/2 z!>)! | %10
+[Q:1/4=156] (=c>e !>!=g/=c'/!>!f/[gc']/ !>!e/[gc']/!>!d/[eg]/ !>!c/[eg]/!>!B/[eg]/) | %11
+ (^A>[^cf]) (B>[df]) (G>[Bf]) (A>[cf]) | %12
+ (!>!F>[Bdf] !>!=G/[Bdf]/!>!A/[Bdf]/) (!>!F>[^Adf]) (!>!F>[Adf]) | %13
+ (!>!F>[B^df] !>!^G/[Bdf]/!>!^A/[cef]/ !>!F>[Adf] !>!F>[Adf]) | z8 | %15
+[Q:1/4=156]"^Allegro grazioso" (!>!f>^G!<(! A/^A/B/^B/ c/d/^d/e/ =a/e/c/=A/)!<)! | %16
+ (!>!^^F>e !>!G>e !>!F>e!>(! !>!G>^e)!>)! | %17
+"_cresc." (!>!f>G A/^A/B/^B/ c/d/^d/e/!>(! =a/e/c/=A/)!>)! | %18
+ (!>!c'>^d!<(! e/^e/f/^^f/ g/a/^a/b/ =e'/b/g/=e/)!<)! | %19
+!f! (!>!f'>g a/^a/b/^b/!<(! c'/d'/^d'/e'/ =a'/e'/c'/=a/)!<)! | %20
+ (!>!e>c' !>!c>a"_dim." !>!A>f !>!F>^d | !>!=F>=d !>!D>B !>!C>)A z2 | %22
+[Q:1/4=156]"^Allegro grazioso" (=G>B !>!d/=g/!>!c/[dg]/ !>!B/[dg]/!>!A/[Bd]/ !>!G/[Bd]/!>!F/[Bd]/) | %23
+ (!>!^E>[^Gc]) (!>!F>[Ac]) (!>!^D>[Ac]) (!>!E>[Gc]) | %24
+ (!>!C>[FAc] !>!D/[FAc]/!>!=E/[FAc]/)!<(! (!>!C>[^EAc]) (!>!C>[EAc])!<)! |!f! z8 | %26
+[Q:1/4=156]"^Allegro grazioso" (!>!=A>e !>!=g/=c'/!>!f/[gc']/ !>!e/[gc']/!>!d/[eg]/ !>!c/[eg]/!>!B/[eg]/) | %27
+ (!>!^A>[cf] !>!B>[df] !>!G>[Bf] !>!A>[cf]) | %28
+ (!>!F>[Bdf] !>!=G/[Bdf]/!>!A/[Bdf]/ !>!F>[^Adf] !>!F>[Adf]) | %29
+!pp! (!>!F>[B^df] !>!^G/[Bdf]/!>!^A/[Bdf]/) (!>!F>[A^df]) (!>!F>[Adf]) | z8 | z8 | %32
+[Q:1/4=156]"^Allegro grazioo" (!>!f>^G!<(! A/^A/B/^B/ c/d/^d/e/ =a/e/c/=A/)!<)! | %33
+ (!>!^^F>e !>!G>e !>!F>e !>!G>^e) |"_cresc." (!>!f>G A/^A/B/^B/ c/d/^d/e/ =a/e/c/=A/) | %35
+ (!>!c'>^d e/!<(!^e/f/^^f/ g/a/!>(!^a/b/ =e'/b/g/=e/)!<)!!>)! | %36
+!f! (!>!f'>!<(!g a/^a/b/^b/ c'/d'/^d'/e'/ =a'/e'/c'/=a/)!<)! | (!>!e>c' !>!c>a !>!A>f !>!F>^d | %38
+ !>!=F>=d!>(! !>!D>B) z4!>)! |"_dim." (!>!E>c) (!>!C>A) ((!>!A,>F)[K:bass] (!>!F,>^D) | %40
+!>(! !>!=F,>D !>!D,>B,!pp! !>!C,>A,) z2!>)! |] %41
+V:2
+!p!!ped! (z/ (D,/G,/B,/) .F) z!ped! z2 z/ (C,/A,/E/)!ped-up! | %1
+!ped! z/ (^A,,/E,/C/) z/ (B,,/E,/D/) z/ (A,,/E,/C/) z/ (B,,/E,/D/)!ped-up! | %2
+!ped! z/ (D,/G,/B,/ .F) z z2 z/ (C,/A,/E/)!ped-up! | %3
+[K:treble]!ped! z/ (A,/^D/F/ c) z z2 z/ (G,/E/B/)!ped-up! | %4
+[K:bass]!ped! z/ (B,,/G,/E/) z2 z/ (B,,/=G,/E/) z2!ped-up! | %5
+"^poco rit."!ped! z/ (B,,/F,/^D/) z2 z/ (E,,/B,,/) z/ E,,,2!ped-up! :| %6
+!ped! z/ (B,,/=G,/D/) z2 z4!ped-up! | %7
+!ped! z/ (C,/B,/) z/ z/ (C,/C/) z/ z/ (C,/B,/) z/ z/ (C,/B,/) z/!ped-up! | %8
+!ped! z/ (F,,/C,/A,/) z2 z/ (F,,/C,/B,/) z/ (F,,/C,/B,/)!ped-up! | %9
+!ped! z/ (F,,/E,/A,/[I:staff -1]F/[I:staff +1]G/[I:staff -1]A/[I:staff +1]c/) (F,/C/A/[I:staff -1]f/g/[I:staff +1]a/[I:staff -1]c'/)[I:staff +1] z/!ped-up! | %10
+!ped! z/ (E,/=C/=G/) z2 z4!ped-up! | %11
+!ped! z/ (F,/E/) z/ z/ (F,/F/) z/ z/ (F,/F/) z/ z/ (F,/E/) z/!ped-up! | %12
+!ped! z/ (B,,/F,/D/) z2 z/ (B,,/F,/E/) z/ (B,,/F,/E/)!ped-up! | %13
+!ped! z/ (B,,/F,/^D/) z2 z/ (B,,/F,/E/) z/ (B,,/F,/E/)!ped-up! | %14
+!ped! z/ (B,,/F,/^D/[I:staff -1]A/[I:staff +1]c/[I:staff -1]^d/[I:staff +1]f'/) z/ (B,,/F,/D/B/[I:staff -1]c/^d/[I:staff +1]f/)!ped-up! | %15
+"^dolce"!ped! ([D,,D,]/^G,/B,/F/) z2 z2 z/ (C,/A,/!ped!E/)!ped-up! | %16
+!ped! z/ (^A,,/E,/C/) z/ (C,/E,/D/) z/ (A,,/E,/C/) z/ (B,,/E,/D/)!ped-up! | %17
+!ped! z/ (D,/G,/)B,/ F/ z/ z"^poco a poco" z2 z/ (C,/A,/E/)!ped-up! | %18
+[K:treble]"^con moto e poco stretto"!ped! z/ (A,/^D/F/ c) z z2 z/ (G,/E/B/)!ped-up! | %19
+!ped! z/ (D/G/B/ f) z z2 z/ (C/A/e/)!ped-up! | %20
+[K:bass]!ped! z/ (E,/C/A/) z2 z/ (E,/=C/A/) z2!ped-up! | %21
+!ped! z/ (E,/B,/G/) z2"^rit." z/ (A,,/E,/) z/ A,,,2!ped-up! |!ped! z/ (B,,/=G,/D/) z2 z4!ped-up! | %23
+!ped! z/ (C,/B,/) z/ z/ (C,/C/) z/ z/ (C,/A,/) z/ z/ (C,/A,/) z/!ped-up! | %24
+!ped! z/ (F,,/C,/A,/) z2 z/ (F,,/C,/B,/) z/ (F,,/C,/B,/)!ped-up! | %25
+!ped! z/ (F,,/E,/A,/F/[I:staff -1]G/[I:staff +1]G/[I:staff -1]c/)"^rit."[I:staff +1] z/ (F,/C/[I:staff -1]A/f/[I:staff +1]g/[I:staff -1]a/[I:staff +1]c'/)!ped-up! | %26
+!ped! z/ (=C,/=C/=G/) z2 z4!ped-up! | %27
+!ped! z/ (F,/E/) z/ z/ (F,/F/) z/ z/ (F,/D/) z/ z/ (F,/E/) z/!ped-up! | %28
+!ped! z/ (B,,/F,/D/) z2 z/ (B,,/F,/E/) z/ (B,,/F,/E/)!ped-up! | %29
+!ped! z/ (B,,/F,/^D/) z2 z/ (B,,/F,/E/) z/ (B,,/F,/E/)!ped-up! | %30
+!ped! z/ (B,,/F,/^D/B/!<(!c/^d/[I:staff -1]f/)[I:staff +1] z/ (B,,/^G,/D/d/c/"^rit."[I:staff -1]d/[I:staff +1]f/)!ped-up!!<)! | %31
+!ped! z/ (B,,/F,/=D/=d/c/B/F/) z/ (B,,/F,/[I:staff -1]D/d/[I:staff +1]c/B/=G/)!ped-up! | %32
+"^dolce"!ped! ([D,,D,]/^G,/B,/F/) z2 z2 (C,/A,/E/) z/!ped-up! | %33
+!ped! z/ (^A,,/E,/C/) z/ (B,,/E,/D/) z/ (A,,/E,/)C/ z/ (B,,/E,/D/)!ped-up! | %34
+"^poco a poco"!ped! z/ (D,/G,/)B,/ F z z2 z/ (C,/A,/)E/!ped-up! | %35
+[K:treble]!ped! z/"^poco stretto" (A,/^D/F/ c) z z2 z/ (G,/E/B/)!ped-up! | %36
+!ped! z/ (=D/G/B/ f) z z2 z/ (C/A/e/)!ped-up! | %37
+[K:bass]!ped! z/"^ffz" (E,/C/F/) z2 z/ E,/=C/A/ z2!ped-up! |!ped! z/ (E,/B,/G/) z2 z4!ped-up! | %39
+!ped! z/ (E,,/C,/A,/) z2 z/ (E,,/=C,/A,/) z2!ped-up! | %40
+"^rit."!p!!ped! z/ (E,,/B,,/G,/) z2 z/ (A,,,/E,,/) z/ A,,,,2!ped-up! |] %41
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 :| x8 | x8 | x8 | C8 | x8 | x8 | x8 | x8 | !>!F4 !>!F4 | x8 | x8 | %17
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | C8 | x8 | x8 | x8 | x8 | !>!F4 !>!F4 | !>!f4 !>!f4 | x8 | %33
+ x8 | x8 | x8 | x8 | x8 | x8 | x6[K:bass] x2 | x8 |] %41
+

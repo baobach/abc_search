@@ -1,0 +1,131 @@
+X:1
+T:# / 6 handel: pour forth no more (jephtha no.3)
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=80
+M:3/4
+K:F
+V:1 bass nm="Midi_71"
+V:2 treble nm="Midi_1"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Vivace" z6 |"^AIR: '\"Pour forth no more unheeded pray'rs\"""^(Jephtha No.3)" z6 | z6 | %3
+w: |||
+"^G. F. Handel""^(1685-1759)" z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |"^A""^ZEBUL" C,2 F,2 A,2 | %12
+w: ||||||||Pour forth no|
+ C2 z2 z B, | (A,2 C2) B,2 | A,4 z2 | C,2 F,2 A,2 | C2 z2 z B, | (A,2 C2) B,2 | A,4 z2 | %19
+w: more un-|\-heed- * ed|pray'rs,|Pour forth no|more un-|heed- * ed|pray'rs|
+ z C B,A, G,F, | E, (=B,2 C2 A, | C, A,2 !courtesy!_B,2 G, | C, G,2 A,2 F,) | C2 z F, E,D, | %24
+w: To i- dols deaf and|vain, * * *|||\_\_ To i- dols|
+ C,2 z2 z2 | z6 | z2 z2 F,2 | (C=B,/A,/ G,CE,G,) | (C, ^F,2 A,2 =B,/C/ | =B,A, G,2) z2 | %30
+w: deaf||and|vain, * * * * * *|||
+ z2 z2 G,2 | (C3 D/=B,/ A,/C/B, | C)F, G,3 G, | C,4 z2 | z6 | z6 | z6 |"^B" C,2 E,2 G,2 | %38
+w: To|i- * * * * *|* dols deaf and|vain.||||Pour forth no|
+ C2 z2 z F, | (E,2 G,2) =B,2 | C4 z2 | C,2 F,2 A,2 | C4 z A, | (A,2 C2) B,2 | A,4 B,2 | %45
+w: more un-|heed- * ed|pray'rs,|Pour forth no|more un-|heed- * ed|pray'rs, un-|
+ (C2 _E2) D2 | C4 z2 | F,2 F,2 F,2 | F,2 z2 z2 | z6 | z2 z2 F,2 | CB, (A,G,) (F,_E,) | %52
+w: heed- * ed|pray'rs|To i- dols|deaf,||To|i- dols deaf * and *|
+ (D,B,,F,D, B,2-) | B,(D/C/ B,A,G,F,) | (E,C,G,E, C2-) | CC,D,E,F,G, | A,E,F,G,A,B, | %57
+w: vain, * * * *|||||
+ C,3 B, (A,G,) | (A,G,/F,/) C2 C,2 |"^C" F,2 z F, E,D, | E,2 z E, D,C, | D,2 z D CB, | %62
+w: * to i *|dols * * deaf and|vain; Pour forth no|more un- heed- ed|pray'rs, Pour forth no|
+ C2 z C B,A, | B,2 z B, A,G, | A,2 z A, G,F, | C2 z2 z2 | z2 z2 F,2 | C3 (B, A,2) | (G,F,) C,3 C | %69
+w: more un- heed- ed|pray'rs To i- dols|deaf, To i- dols|vain;|To|i- * *|dols * deaf and~|
+ !fermata!D6 | z2 z E, F,2 | B,,2 C,3 C, |"^tem. 1mo." F,4 z2 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %80
+w: vain,|To i-|dols deaf and|vain:||||||||
+ z6 | z6 | z6 | !fermata!z6 ||"^D" D,2 F,2 D,2 | A,2 F,4 | (B,CB,A,) (B,G,) | D4 z2 | D2 C3 F, | %89
+w: ||||No more with|vile un-|hal- * * * low'd *|airs,|The sa- cred|
+ B,2 B,4 | A,6 | D,2 E,2 ^F,2 | G,2 z2 z2 | C,2 D,2 E,2 | F,4 F,2 | E,4 E,2 | D,4 D,2 | C,4 C,2 | %98
+w: rites pro-|fane,|No more, no|more,|no more, no|more The|sa- cred|rites pro-|fane, With|
+ F,4 F,2 | G,4 G,2 | A,4 F,2 | C4 C2 | B,4 G,2 | D4 D2 | C6 | C,2 D,2 z E, | A,2 (=B,A,B,D) | %107
+w: vile un-|hal- low'd|airs, No|more the|sa- cred|rites pro-|fane.|No more with|vile un- * * *|
+ C2 DC!courtesy!=B,A, | ^G,3 G, A,2 | D,2 E,3 E, | F,6 | z2 z2"^Adagio" D,2 | E,4 A,2 | E,4 E,2 | %114
+w: hal- low'd * * *|airs, The sa-|\-cred rites pro-|fane,|The|sa- cred|rites pro-|
+"^Da capo sino al Fine." A,,6 || %115
+w: fane.|
+V:2
+!f! fa/b/ c'c'c'c' | c'A/B/ cccc | c/f/e/f/ z/ f/e/f/ [eg]B | A/f/e/f/!p! z/ f/e/f/ gB | %4
+!f! Ad'/^c'/ .d'4 | d'/d'/(!courtesy!=c'/=b/) c'4 | c'/c'/!courtesy!_b/a/ b4- | b/b/a/g/ a c'2 f | %8
+ eg/e/ =B/c/B/c/ G/_B/A/G/ | A/f/c/d/ A/B/E/F/ CG | A/f/c/d/ AdG[Be] | f2 z2 z2 | %12
+!p! [FA](A/B/ c)ccc | c/f/e/f/ z/ [Af]/[Ge]/[Af]/ [Bg][Gce] | %14
+ [Ac]/[fa]/[eg]/[fa]/ z/ [ca]/[Bg]/[ca]/ [db][Beg] | [Af]2 z2 z2 | [FA]A/B/ cccc | %17
+ c/f/e/f/ z/ [Af]/[Ge]/[Af]/ [Bg][Ge] | [Ac]/[fa]/[eg]/[fa]/ z/ x/ g2 x | [fa]2 BAGF | %20
+!pp! [CEG] [D=B]2 [Ec]2 [FA] | C [FA]2 [G!courtesy!_B]2 [EG] | C [EG]2 [FA]2 [DF] | %23
+ [EG]!p!c'b[ca][cg][=Bf] | [ce]!pp! [d=b]2 [ec']2 [fa] | c [fa]2 [g!courtesy!_b]2 [eg] | %26
+ [Gc] [eg]2 [fa]2 [df] | [eg]2 z2 z2 | [A,C^F]6 | [=B,DG] [A^f]2 [=Bg]2 [ce] | %30
+ G [ce]2 [df]2 [=Bd] | [Ge]3 (dc=B) | c2 c2 =B2 |!f! cd/e/ ffff | f/e/d/e/ e/c/=B/c/ dB | %35
+ c/g/^f/g/ f/g/f/g/ A/[ce]/[=Bd]/[Ac]/ | !courtesy!=f/d/e/f/ ec A=B | c2 z2 z2 |!p! ce/f/ gggg | %39
+ g/c'/=b/c'/ g/c'/b/c'/ [bd'][df] | e/c/=B/c/ z/ c/B/c/ [Bd][DF] | EC z2 z2 | %42
+ [A,CF]A/!courtesy!_B/ cccc | d/f/e/f/ z/ f/e/f/ ge | [Ac]d/e/ ffff | a/f/e/f/ z/ a/g/a/ fb | %46
+ a/f/e/f/ z/ a/g/a/ fb |!pp! c e2 f2 d | [FA] d2 _e2 c | F c2 d2 B | [A,F] [GB]2 [Ac]2 [FA] | %51
+ _EA/B/ cccc | F2 z [Fd][FBf][FBd] | [Bdg]2 z [Fc][Dd][DGB] | [!courtesy!=EG]2 z [Ge][Gcg][Gce] | %55
+ [FAc]CDE[DF][CG] | [CA]GABcd | EGCBAG | [DF]2 [G,CF]2 [G,CE]2 |!p! [A,CF][fa] z (agf) | %60
+ d'/d'/c'/=b/ c'4- | c'/c'/!courtesy!_b/a/ b4- | b/b/a/g/ a4- | a/a/g/f/ g4- | g/g/f/e/ ffff | %65
+ eg/e/ =B/c/B/c/ C/_B/A/G/ | A/f/c/d/ A/B/E/F/ C/D/C/D/ | C3 B A2 | GF [CE]2 z c | !fermata!d6 | %70
+ z2 z G A2 | GF [A,CF]2 [G,B,CE]2 |"^tem. 1mo."!f! [A,CF]a/b/ c'[ac'][gc'][egc'] | %73
+ [fac']A/B/ c[Ac][Gc][EGc] | cf- f/g/f/e/ bb- | b/b/a/g/ a2- aa- | a/b/g/f/ g/a/f/e/ f/g/e/d/ | %77
+ eg/e/ =B/c/B/c/ G/_B/A/G/ | Aa/f/ e/f/e/f/ c/_e/d/c/ | d/b/f/g/ d/e/f/A/ G[Gce] | %80
+ A/f/c/d/ A/B/E/F/ C[EG] | A/f/c/d/ A/B/E/F/ C[eg] | af-fg e>f | %83
+ f/c/d/e/ f/F/B/c/"^Fine." !fermata!F2 ||!p! d2 d2 d2 | [A^c]2 d4 | d4 d2 | df/g/ aaaa | %88
+ ff/g/ a2- aa- | aa g/a/g/f/ ^g2 | a2 !courtesy!=g/a/g/f/ ge | ^f2 g2 ad | %92
+ dg !courtesy!=f/g/f/e/ fd | e2 f2 gc | cc' d'4 | d'/d'/c'/=b/ c'4- | c'/c'/=b/a/ b4 | %97
+ c'g !courtesy!_b/c'/b/a/ bg | ac c2 f2 | f/f/e/d/ b4- | bb a/b/a/g/ a(f | f2) _e/f/e/d/ ec | %102
+ [Bd]G g4- | gg f/g/f/!courtesy!=e/ fd | [ce]c/d/ ee ee | a2 =ba[^gb]d' | [ac']2 ^g3 g | aefe d2- | %108
+ d=b b2 e2 | fd c2 ([^G=B]>A) | A6 | z2 z2 d2 | d4 [Ac]2 | [Ac]4 ([E^G=B]2 | [CE]6) || %115
+V:3
+ [Ac] z z age | a z z AG[EG] | A2 z/ A/G/A/ B[EG] | F2 z/ A/G/A/ BG | F z z a/g/ a/a/g/f/ | %5
+ g2 gg/f/ g/g/f/e/ | f2- ff/e/ f/f/e/d/ | e2 f a2 A | G z z2 G/G/F/E/ | F z F2 CE | F z z FFG | %11
+ A2 z2 z2 | C z z AGE | A2 z/ x/ x x2 | x4 x2 | x4 x2 | C z z AGE | A2 z/ x/ x x2 | %18
+ x2 z/ [ca]/B/[ca]/ [db][eg] | cc B,2 =B,2 | x4 x2 | x4 x2 | x4 x2 | x6 | x6 | x6 | x6 | x6 | %28
+ x4 x2 | x4 x2 | x4 x2 | x4 x2 | G[FA] [EG]2 [DG]2 | [EG]=B/c/ dddd | d/c/=B/c/ G2 [FA][DG] | %35
+ x4 x2 | G2 G2 DG/F/ | E2 z2 z2 | [EG] z z ed=B | e4 d=B | G2 [EG]2 F=B, | C2 z2 z2 | x2 z AG[EG] | %43
+ AG/A/ z/ A/G/[GA]/ BG | x2 z [Ac]Bd | c2 [Fc]B/c/ dd | c2 cB/c/ dd | A G2 A2 B | F B2 c2 A | %49
+ F A2 B2 G | x4 x2 | _E3 EDC | D2 z x x2 | x4 x2 | x4 x2 | x4 x2 | x4 x2 | x2 C2 C2 | x4 x2 | %59
+ x2 d'4 | g2 z gfe | f2 z fed | e2 z edc | d2 z dcB | c3 cBA | G2 z2 x2 | x4 x2 | C4 C2 | %68
+ D2 x2 z x | x4 x2 | z2 z C C2 | [B,D]2 x2 x2 | x4 x2 | x4 x2 | F[FB]/A/ B2 fe/d/ | %75
+ e2- e/f/e/d/ ee | d4 dG | G2 x2 x2 | x4 x2 | x4 x2 | x4 x2 | x4 x2 | fA Ge/d/ cB | %83
+ AB/G/ A/A/G/E/ F2 || [FA]2 A2 [FA]2 | E2 [DA]4- | [DA]2 G2 [GB]2 | [FA] z z fe[^ce] | %88
+ A2 e/f/e/d/ eA | d4 e/f/e/d/ | ^c>d [Ae]2- [Ae]A | Ad c/d/c/=B/ c2 | =B2 c2 G2 | %93
+ Gc !courtesy!_B/c/B/A/ B2 | Aa a/b/a/g/ a/a/g/f/ | g2 g/a/g/f/ g/g/f/e/ | f2- f/g/f/e/ f/f/e/d/ | %97
+ e2 g/a/g/f/ ge | cA A/B/A/G/ AG/F/ | B2 e/f/e/d/ eg | c2 f2 c2 | gG G2- GA | x2 d/_e/d/c/ dB | %103
+ A4- A=B | GE/F/ GG[Ac][Ac] | [Ae]2 f2 e2 | e2 dcd=B | eA- A2 ^G[Ac] | =Bd e/f/e/d/ c/d/c/B/ | %109
+ A2 [EA]2 D2 | C6 | z2 z2 [FA]2 | [E^G]4 E2 | E4 D2 | A6 || %115
+V:4
+"^Vivace"!f! [F,,C,F,]2 z F,E,C, | F,2 z F,E,C, | F,2 z CCC | C2!p! z CCC | %4
+!f! [F,C][F,A,][F,A,][F,A,][F,A,][F,A,] | [E,G,][E,G,][E,G,][E,G,][E,C][E,G,] | %6
+ [D,F,][D,F,][D,F,][D,F,][D,B,][D,F,] | [C,G,][C,G,][C,F,C][C,F,C][C,F,C][C,F,C] | %8
+ [C,G,C]2 z [G,D][E,C][C,C] | [F,C]2 z [G,B,][E,G,][C,G,C] | [F,C]2 z B,CC, | [F,,C,F,]2 z2 E,2 | %12
+!p! F,,2 z F,E,C, | F,2 z CCC | C2 x2 x2 | [F,,C,F,]2 z2 z2 | F,,2 z F,E,C, | F,2 z CCC | %18
+ C2 x2 x2 | [F,,F,]2 z2 D,2 |!pp! C,2 z2 z2 | C,2 z2 z2 | C,2 z2 z2 | C,2!p! z F,E,D, | %24
+ C,2!pp! G2 C2 | z2 C2 E2 | E2 C2 F,2 | C2 E,2 z2 | A,,2 z2 z2 | G,,2 z2 z2 | z2 z2 G,2 | %31
+ C3 =B, A,2 | E,F, G,2 G,,2 |!f! C,2 GGGG | G2 z E,F,G, | [A,C^F]2 E,2 [CDF]2 | [=B,D]2 CE,F,G, | %37
+ [G,C]2 z2 z2 |!p! [C,C]2 z C,=B,,G,, | C,C,C,C,G,,G,, | C,C,C,C, G,G, | G,[E,G,] F,2 [F,A,]2 | %42
+ [F,,C,F,]2 z F,E,C, | F,F,[F,C][F,C][C,C][C,C] | [F,C]2 z F,D,B,, | A,,A,,F,,F,,B,,B,, | %46
+ F, F, F,, F,, B,, B,, |!pp! F,2 z2 z2 | [F,C]2 z2 z2 | A,2 F2 F,2 | C2 z2 F,2 | %51
+ [A,,F,]2 F,,2 [A,,F,]2 | [B,,F,]2 z B,,D,B,, | G,,2 z A,,B,,G,, | C,2 z C,E,C, | A,,2 z C,D,E, | %56
+ F,E,F,G,A,B, | G,2 x E, F,2 | B,,2 C,2 C,,2 |!p! F,,F,F,F,E,D, | E,E,E,E,D,C, | D,DDDCB, | %62
+ CCCCB,A, | B,B,B,B,A,G, | A,A,A,A,G,F, | C2 z [G,E][E,C][C,C] | [F,C]2 z E,F,F, | G,2 E,2 A,2 | %68
+ B,2 G,2 [C,C]2 | !fermata![D,D]6 | E,2-"^Adagio." z [E,,E,] [F,,F,]2 | %71
+ [B,,,B,,]2 [C,,C,]2 [C,,G,,C,]2 |!f! [F,,C,F,]2 z F,E,C, | F,2 z F,E,C, | D,DDDDD- | CCCCCC | %76
+ B,B,=B,B, G,G, | G,E, F,F, CC | [F,A,C][F,A,C][G,B,][G,B,][A,CF][A,CF] | [B,DF]2 z [A,CF][B,F]C | %80
+ [F,C]2 z [G,B,][E,B,][C,B,] | [F,A,C][A,CF] z [G,B,][E,C][C,C] | [F,C]DB,G,CC, | %83
+ F,4 !fermata!z2 ||!p! D,2 F,2 D,2 | A,2 F,4 | (B,CB,A,B,G,) | D2 z D^CA, | D2 !courtesy!=C3 F, | %89
+ B,B,B,B,B,B, | A,A,^C,C,C,C, | D,D,E,E,^F,F, | G,G,A,A,=B,B, | CC,D,D,E,E, | F,F,F,F,F,F, | %95
+ E,E,E,E,E,E, | D,D,D,D,D,D, | C,C,C,C,C,C, | F,F,F,F,F,F, | G,G,G,G,G,G, | A,A,A,A,F,F, | CCCCCC | %102
+ B,B,B,B,G,G, | DDDDDD | CCCCA,A, | C,2 D,2 z E, | A,2 =B,A,B,D | C2 DC=B,A, | ^G,3 G, A,2 | %109
+ D,2 E,3 E, | [F,,C,F,]6 | z2 z2"^Adagio" [D,,D,]2 | [E,,=B,,E,]4 [A,,,A,,]2 | [C,E,]4 [=B,,E,]2 | %114
+"^Da capo sino al Fine." E,6 || %115
+V:5
+ x4 x2 | x4 x2 | F,F,,F,F,C,C, | F,F,F,F,E,E, | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %13
+ F,F,,F,F,C,C, | F,F,F,F,B,,C, | x4 x2 | x4 x2 | F,F,,F,F,C,C, | F,F,F,F,B,,C, | x4 x2 | x4 x2 | %21
+ x4 x2 | x4 x2 | x4 x2 | x2 z2 z2 | z6 | z2 z2 F,2 | x4 x2 | x6 | x6 | x6 | x6 | x6 | x2 z C=B,G, | %34
+ C2 z x x2 | x4 x2 | x4 x2 | C,2 z2 z2 | x4 x2 | x4 x2 | x4 x2 | C,2 A,,2 F,,2 | x4 x2 | x6 | x6 | %45
+ x6 | x6 | x6 | x4 x2 | z6 | x4 x2 | x4 x2 | x4 x2 | x4 x2 | x4 x2 | x4 x2 | x4 x2 | C,3 x x2 | %58
+ x4 x2 | x4 x2 | x6 | x6 | x6 | x6 | x4 x2 | x4 x2 | x2 z C,A,,F,, | E,2 C,2 F,2 | B,,2 C,2 x2 | %69
+ x4 x2 | x6 | x6 | x6 | x6 | x6 | x4 x2 | x4 =B,,B,, | C,C,D,D,[E,G,][E,G,] | x4 x2 | x4 x2 | x6 | %81
+ x6 | x6 | x6 || x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %100
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x4 x2 | x4 x2 | x4 x2 | x4 x2 | [E,,A,,]4 E,,2 | %114
+ A,,6 || %115
+

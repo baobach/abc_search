@@ -1,0 +1,33 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=100
+M:4/4
+K:F
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 bass nm="Choir Pad, Bass"
+V:4 bass 
+V:1
+ [FA]2 [EA][EG] F2 C2 | F2 [EG]2 [FA]4 | [FA]2 [FA][FB] [Fc]2 [FA]2 | [Fd]3 [GB] [EG]4 | %4
+w: By~Arranged~from~Klein,~1884 * * * *||||
+ [FA]2 [EA][EG] F2 C2 | F2 [EG]2 [FA]4 | [FG]2 [FA][FG] GA=Bc | [Fd]2 [D=B]2 [Ec]4 | %8
+w: ||||
+ [Ac]2 [Ac][Ac] [Ad]3 [^FA] | [GB]2 [Ac]2 [Ac]2 [GB]2 | [GB]2 [GB][GB] [Gc]3 [EG] | %11
+w: |||
+ [FA]2 [GB]2 [GB]2 [FA]2 | C2 CC F2 C2 | [EG]2 C2 [FA]4 | [GB]2 [FA][EG] [Fc]3 [GB] | %15
+w: ||||
+ [FA]2 [EG]2 F4- | F4 z4 |] %17
+w: ||
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | z4 E2 E2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %17
+V:3
+ C2 CB, A,2 A,2 | C2 C2 C4 | C2 C[K:bass]B, A,2 C2 | B,3 D[K:treble] C4 | C2 CC A,2 A,2 | %5
+ C2 C2 C4 | =B,2 CB, C2 C2 | A,2 G,2 G,4 | E2 E[K:treble]_E D3 D | D2 D2 D4 | D2 D^C =C3 C | %11
+ C2 C2 C4 | C2 CC C2 C2 | C2 C2 C4 | C2 CC C3[K:bass] D | C2 B,2 A,4- | A,4 z4 |] %17
+V:4
+ F,2 C,C, F,2 F,2 | A,2 z2 F,4 | F,2 F,G, z2 G,2 | B,,3 B,, C,4 | F,2 C,C, F,2 F,2 | A,2 z2 F,4 | %6
+ G,2 G,G, z2 A,2 | F,2 z2 C,4 | A,2 A,G, ^F,3 D, | D,2 ^F,2 G,4 | G,2 G,F, E,3 C, | C,2 E,2 F,4 | %12
+ z4 A,2 A,2 | G,2 z2 F,4 | C,2 C,B,, A,,3 B,, | C,2 C,2 F,4- | F,4 z4 |] %17
+

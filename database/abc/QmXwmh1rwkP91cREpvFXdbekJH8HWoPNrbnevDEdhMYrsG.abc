@@ -1,0 +1,52 @@
+X:1
+T:Le Quattro Stagioni
+T:Le Quattro Stagioni
+T:L'estate 2° Mov.
+T:Antonio Vivaldi
+T:arr. Joseph Nguyen
+C:Antonio Vivaldi
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=44
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:1
+"^Adagio""^Toglie alle membra lasse il suo riposo Il timore de' Lampi, e tuoni fieri E de mosche, e mosconi il stuol furioso!""_MOSCHE E MOSCONI"!mf! g4- g3 b | %1
+ c4 a3 d | b>a g2[Q:1/4=144]"^Presto""_TUONI" G,G,/G,/ G,/G,/G,/G,/[Q:1/4=144] | %3
+ G,/G,/G,/G,/ G,/G,/G,/G,/[Q:1/4=44] G,2 z2 |[Q:1/4=44]"^Adagio"!mf! g3 b a3 c' | e3 c' d3 B | %6
+ f3 b g3 b | d2 !trill(!Tc2[Q:1/4=144]"^Presto" B,B,/B,/ B,/B,/B,/B,/ | %8
+ B,/B,/B,/B,/ B,/B,/B,/B,/[Q:1/4=44] B,2 z2 |!mf! f3 B _a3 f | !trill(!Te>d c2 g3 c | %11
+ b3 g !trill(!T^f>=e d2 | b3 g _a3 g | ^f3 d e3 d | c'3 d ba/g/ !trill(!T^f>g | %15
+[Q:1/4=144]"^Presto" g2 z2 z4 |[Q:1/4=44] z4[Q:1/4=44]"^Adagio"!mf! d4- | d4 g3 c' | %18
+ c3 a ba/g/ !trill(!T^f>g- |[Q:1/4=144]"^Presto" g8- |[Q:1/4=44]"^\n" g8-[Q:1/4=44]"^Adagio" | %21
+ !fermata!g8 |] %22
+V:2
+!p! [G,B,]/>[G,B,]/[G,B,]/>[G,B,]/ [G,B,] z [G,B,]/>[G,B,]/[G,B,]/>[G,B,]/ [G,B,] z | %1
+ [A,^F]/>[A,F]/[A,F]/>[A,F]/ [A,F] z [DF]/>[DF]/[DF]/>[DF]/ [DF] z | %2
+ [G,B,]/>[G,B,]/[G,B,]/>[G,B,]/ [G,B,] z!f! G,,G,,/G,,/ G,,/G,,/G,,/G,,/ | %3
+ G,,/G,,/G,,/G,,/ G,,/G,,/G,,/G,,/ G,,2 z2 | %4
+!p! [B,D]/>[B,D]/[B,D]/>[B,D]/ [B,D] z [CE]/>[CE]/[CE]/>[CE]/ [CE] z | %5
+ [A,F]/>[A,F]/[A,F]/>[A,F]/ [A,F] z [B,F]/>[B,F]/[B,F]/>[B,F]/ [B,F] z | %6
+ [B,D]/>[B,D]/[B,D]/>[B,D]/ [B,D] z [B,E]/>[B,E]/[B,E]/>[B,E]/ [B,E] z | %7
+ [B,D]/>[B,D]/[B,D]/>[B,D]/ [A,D] z!f! B,,B,,/B,,/ B,,/B,,/B,,/B,,/ | %8
+ B,,/B,,/B,,/B,,/ B,,/B,,/B,,/B,,/ B,,2 z2 | %9
+!p! [B,D]/>[B,D]/[B,D]/>[B,D]/ [B,D] z [=B,D]/>[B,D]/[B,D]/>[B,D]/ [B,D] z | %10
+ [CE]/>[CE]/[CE]/>[CE]/ [CE] z [CE]/>[CE]/[CE]/>[CE]/ [CE] z | %11
+ [^C=E]/>[CE]/[CE]/>[CE]/ [CE] z [DA]/>[DA]/[DA]/>[DA]/ [DA] z | %12
+ [G,G]/>[G,G]/[G,G]/>[G,G]/ [G,G] z [CE]/>[CE]/[CE]/>[CE]/ [CE] z | %13
+ [CD]/>[CD]/[CD]/>[CD]/ [CD] z [^FA]/>[FA]/[FA]/>[FA]/ [FA] z | %14
+ [^FA]/>[FA]/[FA]/>[FA]/ [FA] z [^C=E]/>[CE]/[CE]/>[CE]/ D z | %15
+!f! [G,,G,][G,,G,]/[G,,G,]/ [G,,G,]/[G,,G,]/[G,,G,]/[G,,G,]/ [G,,G,]/[G,,G,]/[G,,G,]/[G,,G,]/ [G,,G,]/[G,,G,]/[G,,G,]/[G,,G,]/ | %16
+ [G,,G,]2 z2!p! [GB]/>[GB]/[GB]/>[GB]/ [GB] z | %17
+ [FA]/>[FA]/[FA]/>[FA]/ [FA] z [EG]/>[EG]/[EG]/>[EG]/ [EG] z | %18
+ [D^F]/>[DF]/[DF]/>[DF]/ [DF] z [^C=E]/>[CE]/[CE]/>[CE]/ D z | %19
+!f! [G,,G,][G,,G,]/[G,,G,]/ [G,,G,]/[G,,G,]/[G,,G,]/[G,,G,]/ [G,,G,]/[G,,G,]/[G,,G,]/[G,,G,]/ [G,,G,]/[G,,G,]/[G,,G,]/[G,,G,]/ | %20
+ [G,,G,]2 z2!p! [G,B,]/>[G,B,]/[G,B,]/>[G,B,]/ [G,B,] z | %21
+ [G,B,]/>[G,B,]/[G,B,]/>[G,B,]/ [G,B,] z !fermata!z4 |] %22
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 B4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 |] %22
+

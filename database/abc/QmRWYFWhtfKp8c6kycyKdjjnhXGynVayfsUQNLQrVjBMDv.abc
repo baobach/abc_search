@@ -1,0 +1,24 @@
+X:1
+T:Fairfield
+%%score 1 2 3
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Soprano" snm="S."
+V:2 treble-8 nm="Tenor" snm="T."
+V:3 bass nm="Bass" snm="B."
+V:1
+ z4 B4 | G2 E2 B2 ^D2 | E6 F2 | (G>A) B2 A2 G2 | F4 z2 F2 | G2 (A>B) c2 B2 | A2 G2 F2 E2 | %7
+ ^D2 E2 (F3/2G/4A/4) G2 | F4 z2 d2 | B2 G2 d2 F2 | G6 A2 | B2 (G>A) B2 ^c2 | %12
+ d2 z (c/>B/) (A>G)(F>G) | A2 B2 c2 E2 | D4 z2 B2 | G2 E2 e2 c2 | B4 z2 (AB/c/) | B2 (D>F) G2 F2 | %18
+ E8 |] %19
+V:2
+ z4 e4 | B2 G2 F2 (FG/A/) | G6 B2 | (B>A) G2 F2 E2 | ^D4 z2 D2 | E2 (F>G) A2 E2 | E2 E2 c2 B2 | %7
+ A2 G2 B2 B2 | B4 z2 A2 | d2 d2 A2 (AB/c/) | B6 d2 | d2 d2 g2 (ef/g/) | f2 z g d2 (A>B) | %13
+ c2 d2 e2 (A>G) | F4 z2 F2 | F2 B2 A2 A2 | G4 z2 (FG/A/) | G2 e2 e2 ^d2 | e8 |] %19
+V:3
+ z4 E,4 | E,2 E,2 ^D,2 B,,2 | E,6 B,,2 | E,2 G,2 D,2 E,2 | B,,4 z2 B,,2 | E,2 E,2 A,2 G,2 | %6
+ C2 B,2 A,2 G,2 | F,2 E,2 ^D,2 E,2 | B,,4 z2 F,2 | G,2 (B,,>C,) D,2 D,2 | G,6 D,2 | %11
+ G,2 F,2 E,2 A,2 | D,2 z E, F,2 D,2 | C,2 B,,2 A,,2 A,,2 | B,,4 z2 ^D,2 | E,2 D,2 C,2 A,,2 | %16
+ E,4 z2 D,2 | E,2 (G,>A,) B,2 B,,2 | E,8 |] %19
+

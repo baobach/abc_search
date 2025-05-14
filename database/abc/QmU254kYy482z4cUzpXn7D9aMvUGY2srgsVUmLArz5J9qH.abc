@@ -1,0 +1,47 @@
+X:1
+T:The Blue Danube
+T:The Blue Danube
+T:(An der schönen blauen Donau)
+T:Johann Strauss II
+C:Johann Strauss II
+%%score 1 2 3 4
+L:1/8
+Q:1/4=160
+M:3/4
+K:D
+V:1 treble nm="Flute" snm="Fl."
+V:2 treble nm="Flute" snm="Fl."
+V:3 treble nm="Flute" snm="Fl."
+V:4 treble nm="Flute" snm="Fl."
+V:1
+"^\n"!pp! z6 | z6 | z6 ||!p! (D2 F2 A2) | A4{/A} a2 | a2 z2{/A} f2 | f2 z2 D2 | (D2 F2 A2) | %8
+ A4{/A} a2 | a2 z2{/A} g2 | g2 z2 C2 | (C2 E2 B2) | B4{/c} b2 | b2 z2{/c} g2 | g2 z2 C2 | %15
+ (C2 E2 B2) | B4{/d} b2 | b2 z2{/d} f2 | f2 z2 D2 | (D2 F2 A2) | d4{/d} d'2 | d'2 z2{/d} a2 | %22
+ a2 z2 D2 | (D2 F2 A2) | d4{/d} d'2 | d'2 z2{/d} b2 | b2 z2 e2 | (e2 g2 b) z |!ff! (!>!b6 | %29
+ b2) ^g2 a2 | (!>!f'6 | f'2) d'2 f2 | (f4 e2) | (b4 a2) | d2 z d d2 ||[K:A]!p! z2 d' z c' z |: %36
+ c' z b z b z | z2 b z ^a z | ^a z b z b z | z2!f! e z e z | (f4 e2) | z2 e z e z | (b4 a2) | %43
+ z2!p! d' z c' z | c' z b z b z | z2 b z c' z | e' z d' z d' z | z2 g z b z | (!>!b4 a2) | %49
+ g3 f dB | ff f2 e2 |1 A2!p! d' z c' z :|2 A2 z2 z2 |] %53
+V:2
+!pp! z6 | z6 | z6 || z6 | z2 z2 f2 | f2 z2 d2 | d2 z2 z2 | z6 | z2 z2 g2 | g2 z2 c2 | c2 z2 z2 | %11
+ z6 | z2 z2 g2 | g2 z2 c2 | c2 z2 z2 | z6 | z2 z2 f2 | f2 z2 d2 | d2 z2 z2 | z6 | z2 z2 a2 | %21
+ a2 z2 f2 | f2 z2 z2 | z6 | z2 z2 b2 | b2 z2 e2 | e2 z2 E2 | (G2 B2 B) z |!ff! (!>!B6 | %29
+ B2) ^G2 A2 | (f6 | f2) d2 f2 | B6 | g6 | d2 z d A2 ||[K:A]!p!!p! z2 e z d z |: e z d z d z | %37
+ z2 d z c z | c z d z d z | z2!f! e z e z | z6 | z6 | (B4 A2) | z2!p! f z e z | e z d z d z | %45
+ z2 d z ^a z | c' z b z b z |!f! z6 |!f! (!>!B4 A2) | G3 z z2 | dd d2 G2 |1 C2!p! f z e z :|2 %52
+ C2 z2 z2 |] %53
+V:3
+!pp! z6 | z6 | z6 || z6 |!p! D2 A2 A2 | D2 A2 A2 | D2 A2 A2 | D2 A2 A2 | E2 c2 c2 | E2 c2 c2 | %10
+ E2 c2 c2 | E2 c2 G2 | G2 g2 g2 | G2 g2 g2 | A2 c2 A2 | A2 c2 G2 | d2 f2 f2 | d2 f2 f2 | d2 f2 f2 | %19
+ d2 f2 f2 | f2 a2 a2 | f2 a2 a2 | f2 a2 a2 | f2 a2 a2 | g2 b2 b2 | g2 b2 b2 | B2 z2 E2 | %27
+ (E2 G2 B) z | e2 a2 a2 | A2 c2 c2 | d2 f2 f2 | f2 a2 a2 | d6 | e6 | G2 z2 d2 ||[K:A] z6 |: %36
+ E2 G2 G2 | E2 G2 =G2 | E2 G2 G2 | E2 G2 G2 | A2 c2 c2 | A2 c2 c2 | G2 c2 c2 | A2 f2 c2 | %44
+ E2 G2 G2 | E2 G2 G2 | E2 G2 G2 | E2 d2 B2 | F6 | B4 z2 | E2 G2 E2 |1 A2 z2 z2 :|2 A2 z2 z2 |] %53
+V:4
+!pp! A2 z2 z2 | G2 z2 z2 | F2 z2 z2 || z6 |!p! D2 F2 F2 | D2 F2 F2 | D2 F2 F2 | D2 F2 F2 | %8
+ E2 G2 G2 | E2 G2 G2 | E2 G2 G2 | E2 G2 G2 | E2 G2 G2 | E2 G2 G2 | E2 G2 E2 | A2 c2 c2 | D2 F2 F2 | %17
+ D2 F2 F2 | D2 F2 F2 | D2 F2 F2 | F2 d2 d2 | F2 d2 d2 | F2 d2 d2 | F2 d2 d2 | G2 d2 d2 | G2 d2 d2 | %26
+ d2 z2 E2 | E2 G2 B z | E2 c2 c2 | A2 c2 c2 | D2 F2 F2 | F2 d2 d2 | D6 | E6 | G2 z2 D2 || %35
+[K:A] z6 |: E2 e2 e2 | E2 e2 e2 | E2 e2 e2 | E2 e2 e2 | A2 e2 e2 | A2 e2 e2 | G2 e2 e2 | A2 d2 c2 | %44
+ E2 e2 e2 | E2 e2 e2 | E2 e2 e2 | E2 B2 ^E2 | c6 | d4 z2 | E2 E2 E2 |1 C2 z2 z2 :|2 C2 z2 z2 |] %53
+

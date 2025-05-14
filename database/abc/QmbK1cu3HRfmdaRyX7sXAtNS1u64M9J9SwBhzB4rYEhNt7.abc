@@ -1,0 +1,65 @@
+X:1
+T:So wünsch ich ihr ein' gute Nacht
+T:So wünsch ich ihr ein' gute Nacht
+T:Nº 18 Deutsche Volkslieder WoO 33
+T:Johannes Brahms (1833-1897)
+C:Johannes Brahms (1833-1897)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=65
+M:2/4
+K:F
+V:1 treble-8 nm="Tenor"
+V:2 treble nm="Klavier"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ z c |: A G F G | C2 E2 | F3 F | d c B A | G2 G c | A G F G | C2 E2 | F3 F | d c B A | G2 G c | %11
+w: So|wünsch' ich ihr ein'|gu- te|Nacht, bei|der ich war al-|lei- ne; Ein|freund- lich Wort sie|zu mir|sprach, da|wir uns soll- ten|schei- den. Ich|
+w: |Näch- ten da ich|bei ihr|war, ihr|An- ge- sicht wollt|rö- then, sie|sah den Kna- ben|freund- lich|an, sprach:|Gott thu' dich be-|hü- ten. Mein|
+ f2 f2 | e3 e | d2 d2 | c2 B A/G/ | A B/A/ G- G | F2 z2 | z4 | z2 !fermata!z c :: A G F G | C2 E2 | %21
+w: scheid' mit|Leid, Gott|weiß die|Zeit, wie- der- *|kom- men _ bringt uns|Freud'.||Zu|Maid- lein an der|Zin- nen|
+w: Schimpf, mein|Schmerz, bricht|mir mein|Herz, das werd' ich|jetz- und _ in- *|nen.||Das|Knab' wohl üb'r die|Hai- den|
+ F3 F | d c B A | G2 G c | A G F G | C2 E2 | F3 F | d c B A | G2 G c | f2 f2 | e3 e | d2 d->d | %32
+w: stand, hub|kläg- lich an zu|wei- nen: Ge-|denk da- ran, du|Rei- ters-|knab, lass|mich nicht läng'r al-|lein- ne; Kehr|wie- der|bald, mein|Auf- ent- *|
+w: reit't und|wend't sein Röss- lein|rum- me: Da-|an ge- denk, du|schö- ne|Maid, und|kehr' dein Red' mit|um- me, be-|schert Gott|Glück, geht's|wie- der zu-|
+ c2 B A/G/ | A B/A/ G- G | F2 z2 | z4 |1 z2 !fermata!z c :|2 z4 || z2 |] %39
+w: halt, lös' mich von|schwe- ren * Träu- *|men.||Der|||
+w: rück, du bleibst mein'm|Her- zen * ein- ne|Kron.|||||
+V:2
+!f! [B,EG]2 |: ([A,FA][B,E][CF][B,D]) | [A,C]2 z!p! (C | [A,F][CE][B,D][A,^C]) | [B,D]3 ([FA] | %5
+!<(! [Ec][D_B][B,G][CE])!<)! | ([A,FA][B,E][CF][B,D]) | [A,C]2 z (C | [A,F][CE][B,D][A,^C]) | %9
+ [B,D]3!<(! ([Af] | [ce][_Bd][GB][Ec])!<)! |!f! [FA]2 [F=B]2 | (dc=Bc) | [DF]2 [EG]2 | %14
+ ([GB][FA]^FG) | (EF) (^DE) | [A,F]2!f! [Af]2 | ([^Fc_e][GBd]) ([=EBd][=FAc]) | %18
+ ([DAc][_EGB])!>(! !fermata![B,=EG]2!>)! :: (A,/[FA]/B,/E/ C/F/[I:staff +1] D,/[B,D]/) | %20
+[I:staff -1] z2 z!p! (C | [A,F][CE][B,D][A,^C]) | [B,D]3 ([FA] | [Ec][D_B][B,G][CE]) | (AEFD) | %25
+ z2 z ((C | [A,F][CE][B,D][A,^C])) | [B,D]3 ([Af] | [ce][_Bd][GB][Ec]) |!f! [FA]2 [F=B]2 | %30
+ (dc=Bc) | [DF]2 [EG]2 | (BA) (^FG) | (EF) (^DE) | [A,F]2 z!f! [Af] | ([c_e][Bd]) ([Bd][Ac]) |1 %36
+ (([DAc][_EGB])) !fermata![B,=EG]2 :|2 ([DAc][_EGB]) (G>F) || !fermata![A,CF]2 |] %39
+V:3
+!>(! [C,,C,]2!>)! |: ([F,,,F,,][G,,,G,,][A,,,A,,][B,,,B,,]) |!>(! [C,,C,]2 [C,G,B,]2!>)! | %3
+ F,,3 F,- | F,4 | (C,F,E,G,) | ([F,,,F,,][G,,,G,,][A,,,A,,][B,,,B,,]) | %7
+!>(! [C,,C,]2 [C,G,B,]2!>)! | F,,3 (F, | [_B,,F,]3) (D, | G,F,E,[G,_B,]) | [D,F,A,]2 [D,F,=B,]2 | %12
+ [C,G,]3 [C,E,] | [_B,,D,F,]2 [B,,E,G,]2 | C,F,!p!!>(! B,D,!>)! |!>(! (A,!>)!F,)!>(! (G,!>)!C,) | %16
+ (F,,C,) (F,C) | (A,D,) (G,C,) | (^F,G,) !fermata![C,,C,]2 :: %19
+ ([F,,,F,,][G,,,G,,][A,,,A,,][B,,,B,,]) | (C/A,/C,/C/ B,/G,/C,/B,/ | F,,/F,/) z z (F,,/F,/ | %22
+ B,,/F,/) z z (=B,,,/=B,,/ | C,,/C,/F,/C,/ E,/C,/G,/C,/) | ([F,,,F,,][G,,,G,,][A,,,A,,][B,,,B,,]) | %25
+ (C/A,/C,/C/ B,/G,/C,/B,/ | F,,/F,/) z z (F,,/F,/ | B,,/F,/) z z (=B,,,/=B,,/) | x F,E,B, | %29
+ D,3/2 D,3/2 C, |!>(! [C,G,C]2 z/ (C,,/C,/E,/)!>)! |!<(! _B,,3/2 B,,3/2 A,,!<)! | %32
+!>(! G,F,!>)!!>(! B,,2!>)! |!>(! C,/A,F,/!>)!!>(! C,/G,C,/!>)! | %34
+ z/!<(! (F,,/C,/F,/ A,/C/)!<)! z/ F,/ | A,/^F,/G,/D,/ G,/E,/=F,/C,/ |1 %36
+!<(! [G,,G,](G,,!<)!!>(! !fermata![C,,C,]2)!>)! :|2!<(! [G,,G,](G,,!<)!!>(! [C,,C,]2)!>)! || %38
+ !fermata![F,,,F,,]2 |] %39
+V:4
+ x2 |: x4 | x4 | x4 | B,,3 =B,, | C,2 C,2 | x4 | x4 | x4 | x3 =B,, | C,2 C,2 | x4 | x4 | x4 | %14
+ A,,2 B,,2 | C,2 C,2 | x4 | B,,2 A,,2 | B,,2 x2 :: x4 | C,, x3 | x4 | x4 | x4 | x4 | C,, x3 | x4 | %27
+ x4 | (C,,/C,/F,/C,/ E,/C,/G,/)C,/ |x/F,/A,/x/!<(! F,/=B,/C,/-G,/-!<)! | x4 | %31
+(x/D,/F,/x/ E,/G,/A,,/C,/) | G,/A,,/F,/A,,/ B,,/B,D,/ | C,2 C,2 | x4 | B,,B,, A,,A,, |1 x4 :|2 %37
+ x4 || x2 |] %39
+V:5
+ x2 |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | E3 C | x4 | C2 D2 | C2 B,2 | x4 | %17
+ x4 | x4 :: A,B,C x | x4 | x4 | x4 | x4 | F/A,/E/B,/ F/C/B,/[I:staff +1]D,/ | x4 | x4 | x4 | x4 | %29
+ x4 |[I:staff -1] E3 C | x4 | C2 D2 | C2 B,2 | x4 | ^F/A/D/G/ =E/G/C/=F/ |1 x4 :|2 x2 [B,=E]2 || %38
+ x2 |] %39
+

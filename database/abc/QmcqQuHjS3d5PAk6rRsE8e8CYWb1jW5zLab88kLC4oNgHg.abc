@@ -1,0 +1,73 @@
+X:1
+T:8 Lieder and Songs, Op.59
+T:Eine gute, gute Nacht
+T:Eine gute, gute Nacht
+T:Johannes Brahms
+T:8 Lieder and Songs, Op.59 No.6
+T:Georg Friedrich Daumer
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+C:Johannes Brahms
+Z:Georg Friedrich Daumer
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=80
+M:2/4
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Poco Andante" z | z4 | z4 | z4 | z4 | z4 | z2 e B | d A B G | (dc) z2 | z2 G d | (fe) z c | %11
+w: ||||||Ei- ne|gu- te, gu- te|Nacht *|pflegst du|mir * zu|
+ (B>e) A2 | z4 | z4 | z c2 c | B B e3/2 d/ | c2 ^f e | c3/2 B/ (c>B) | ^G2 z2 | z4 | A3/2 B/ c e | %21
+w: sa- * gen,|||ü- ber|die- ses eit- le|Wort, o wie|muss ich~ kla- *|gen!||Dass du~ mei- ner|
+ e3/2 d/ (cB) | A3/2 c/ e ^f | e2 ^d z | z e2 ^c | A3 d | =c2 B z | z4 | z2!p! e B | d A B G | %30
+w: See- le~ Glut *|nicht so~ grau- sam|nähr- test,|nicht, so|grau- sam|nähr- test,||ei- ne|gu- te, gu- te|
+ (dc) g2- | g f d B | (e>^c) A2 | z (a- a/f/) (d/B/) | e2 z ^f | (e3 B) | ^c2 z2 | z4 | z4 | z4 | %40
+w: Nacht, * dass|* du sie ge-|währ- * test,|dass * * du *|sie ge-|währ- *|test!||||
+ z4 | z2 z |] %42
+w: ||
+V:2
+!p!"^grazioso" e | (fB) (fB) | (e>c ^G/A/B/c/) | (fB)!<(! (fB)!<)! | (a>e d/c/B/A/) | %5
+!>(! (!arpeggio![^DA-^f-]2 [Af]>e!>)! | [E^Ge]2) x2 | x4 | x2 z/ (f/e/B/) | %9
+ z/ (e/d/A/) z/ (c/B/G/) | z/ (d/c/G/ c/B/E/A/) | (F/A/^G) z/ (E/A/c/) |!<(! (B>e) ((A>f)) | %13
+ ((B>e)) (((A>=g)))!<)! | ((^f/!>(!e/c/A/ ^F/E/C/A,/))!>)! | (^G,/B,/^G/E/) (B,/D/B/E/) | %16
+ (^f/!>(!e/c/A/ ^F/E/C/A,/)!>)! | (^G,/B,/^G/E/) (A,/^D/A/^F/) | z/ (^G,/B,/E/ ^G/B/^d/e/) | %19
+!>(! (=fB)!>)!!>(! (fB)!>)! | z/ (e^G/) z/ A/z/c/ | z/!>(! (fB/)!>)! z/!>(! (fB/)!>)! | %22
+!>(! z/ (ae/) z/ c/z/A/!>)! |!>(! z/ (a^f/) z/ ^d/z/A/!>)! | %24
+"_dim."!>(! z/ (.^g/z/.^G/) z/ (.=g/z/.=G/)!>)! |!>(! z/ (.^f/z/.^F/) z/ (.=f/z/.=F/)!>)! | %26
+ z/ [A=ce]/z/[EAc]/ z/"_dolce"!>(!!>(! [^GBe]/z/[EGB]/!>)!!>)! | %27
+ z/!>(! [DAd]/z/[DA]/!>)! z/!>(! [DFB]/z/[DFG]/!>)! |!>(! z/ [EGd]/z/[EGc]/!>)! x2!p! | x4 | %30
+ x3 z/!f! (c'/ | b/!>(!a/f/d/ B/A/F/D/)!>)! | (^C/E/^c/A/) (E/G/e/A/) | %33
+!f! (b/a/!>(!f/d/ B/A/F/!>)!D/) |!<(! (^C/E/^c/A/) (^D/^F/^d/A/)!<)! | %35
+!>(! (E/A/e/B/) (E/^G/e/!>)!B/) |!>(! (=g^c)!>)!!>(! (gc)!>)! |"_dim." (e>_B A/G/^F/G/) | %38
+ (d^G) (dG) | (B>F E/D/^C/D/) |!p! z [A,^CA]3- | [A,CA] z z |] %42
+V:3
+ z | x/ (D/F/B,/) x/ (D/F/B,/) | C,/ x/ x x2 | x/ (D/F/B,/) x/ (D/F/B,/) | C,/ x/ x x2 | %5
+!f! (B,,,/B,,/^D,/^F,/ A,/B,/^D/) z/ | (E,,/E,/^G,/B,/)!p! z/ (^G,/B,/E/) | %7
+ z/ (((F,/A,/D/))) z/ (F,/G,/B,/) | z/ (E,/G,/C/) x/ (^G,/B,/E/) | x/ (F,/A,/D/) x/ (F,/G,/B,/) | %10
+ (C,/E,/G,/C/) (A,,/E,/A,/C/) | D,E, A,C | DE CA, | DE CA, | (A,,!arpeggio![E,^F,C]) z [A,,E,F,] | %15
+!p! (B,,E,) (^G,,E,) | (A,,!arpeggio![E,^F,C]) z [A,,E,F,] |!p! (B,,E,) (B,,,B,,) | E,,E, z2 | %19
+ x/ (D/F/B,/) x/ (D/F/B,/) | C, .[CE].[A,C].[E,A,] | D,[DF] D,[DF] | %22
+ C,[I:staff -1] [EA][CE][I:staff +1][A,C] | B,,[I:staff -1] [^FA][^DF][I:staff +1][A,D] | %24
+ E,,E, A,,A, | D,D D,,D, | E,,C, E,,C, | F,,F, G,,G, | x x z/ [^G,B,]/z/[G,E]/ | F,,D, G,,D, | %30
+ C,,C, E,,[E,G,C] | D,,[D,F,A,] z [D,F,A,] | E,,[E,A,] ^C,,[^C,E,A,] | D,,[D,F,A,D] z [D,F,A,B,] | %34
+ E,,[E,A,] E,,[E,A,=C] | E,,[E,A,B,] z [E,^G,B,] | A,,/ x/ x A,,/ x/ x | A,,/ x/ x x2 | %38
+ A,,/ x/ x A,,/ x/ x | x/ (B,/D/^G,/ B,/F,/G,/B,,/) | A,,, [A,,E,]3- | [A,,E,] z z |] %42
+V:4
+ x | D,/ x/ x D,/ x/ x | x/ (C/E/A,/ C/E,/A,/C,/) | D,/ x/ x D,/ x/ x | x/ (E/A/C/ E/A,/C/E,/) | %5
+ x4 | x2 E,, z | F,, z G,, z | C,, z E,,/ x3/2 | F,,/ x/ x G,,/ x/ x | x4 | x4 | x4 | x4 | x4 | %15
+ x4 | x4 | x4 | x4 | D,/ x/ x D,/ x/ x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | C,,C, E,,E, | %29
+ z/ [F,A,]/z/[F,D]/ z/ [F,G,]/z/[F,B,]/ | z/ [E,G,]/z/[E,C]/ z/ [E,G,]/ x | x4 | x4 | x4 | x4 | %35
+ x4 | x/ (E/G/A,/) x/ (E/G/A,/) | x/ (E/G/^C/ E/_B,/C/E,/) | x/ (D/F/)=B,/ x/ (D/F/B,/) | %39
+ A,,/ x/ x x2 | x4 | x3 |] %42
+V:5
+ x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | FE/D/ C z | z/ (A/^G) z/ (E/c) | %13
+ z/ (A/^G) z/ (E/c) | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %29
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x3 |] %42
+

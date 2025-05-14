@@ -1,0 +1,45 @@
+X:1
+T:Title
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=108
+M:6/8
+K:G
+V:1 treble nm="Grand Piano"
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+ [B,D]2 [B,G] [DB]2 [Ec] | B2 A A3 | D2 F A2 B | [CA]2 [B,G] [B,G]3 | [CE]3 [DF]3 | [DG]3 [DB]3 | %6
+w: Haldor~Lillenas * * *||||||
+ [^CA]2 [CE] [CF]2 [CG] | [CA]6 | [B,D]2 [B,G] [DB]2 [Ec] | B2 A A3 | D2 F A2 B | %11
+w: |||||
+ [CA]2 [B,G] [B,G]3 | B3 [=Fd]3 | [EG]3 [EA]3 | [^DB]2 A G2 F |[M:5/8] E3 ^D2- |[M:1/8] D | D | %18
+w: |||||||
+[M:3/4] G3 B3 | e3 d3 | .B2 z2 z2 | E6 | A3 B3 | A3 E3 | .A2 z E z2 | A6 | G3 B3 | e3 d3 | %28
+w: ||||||||||
+ .B2 z2 z2 | E6 | [CE]2 [CE] [DF]2 [DF] |[M:7/8] [DG]2 A B3 [Ec] |[M:3/4] [DB]3 [CA]3 | [B,G]6 |] %34
+w: ||||||
+V:2
+ [G,,G,]2 [G,,D,] [G,,G,]2 [G,,G,] | [D,G,D]2 [D,F,C] [D,F,C]3 | %2
+ [D,F,C]2 [D,A,C] [D,F,C]2 [D,F,D] | [G,,D,]2 [G,,D,] [G,,G,]3 | [C,G,]3 [C,A,]3 | %5
+ [B,,G,]3 [G,,G,]3 | [A,,G,]2 [A,,G,] [A,,A,]2 [A,,G,] | [D,F,]6 | %8
+ [G,,G,]2 [G,,D,] [G,,G,]2 [G,,G,] | [D,G,D]2 [D,F,C] [D,F,C]3 | %10
+ [D,F,C]2 [D,A,C] [D,F,C]2 [D,F,D] | [G,,D,]2 [G,,D,] [G,,G,]3 | [G,D]3 [B,,G,]3 | %13
+ [C,G,]3 [C,E,]3 | [B,,F,]2 A, G,2 F, |[M:5/8] E,3 ^D,2- |[M:1/8] D, | D, | %18
+[M:3/4] z2 .B,2 z[K:treble] D | z2 .G2 z G | [G,,G,]2 [G,,G,] [G,,G,]2 [G,,G,] | %21
+ [C,G,C]2 [C,G,] [B,,^G,]2 [B,,G,] | [A,,G,]2 [A,,G,] [A,,G,]2 [A,,G,] | %23
+ [A,,G,]2 [A,,G,] [A,,G,]2 [A,,G,] | [A,,G,]2 .[A,,G,]2 FA,, | [D,F,C]2 [D,F,] [D,F,]2 D, | %26
+ z2 .B,2 z[K:treble] D | z2 .G2 z G | [G,,G,]2 [G,,G,] [G,,G,]2 [G,,G,] | %29
+ [C,G,C]2 [C,G,] [B,,^G,]2 [B,,G,] | [A,,A,]2 [A,,A,] [C,A,]2 [C,A,] | %31
+[M:7/8] [B,,G,]2 [D,F,D] [G,D]3 [C,G,] |[M:3/4] [D,G,]3 [D,F,]3 | [G,,D,G,]6 |] %34
+V:3
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |[M:5/8] x5 |[M:1/8] x | %17
+ x |[M:3/4] z2 .D2 z G | z2 .B2 z B | [DG]-[DG_B] [DG=B] [D=Fc]2 [DFB] | z2 C D2 [DE] | %22
+ [^CE]2 [CE] [CE]2 [CE] | [^CE]2 [CE] C2 C | ^C-[CB] [CA] [G,C]2 [G,CG] | z2 C C2 D | z2 .D2 z G | %27
+ z2 .B2 z B | [DG]-[DG_B] [DG=B] [D=Fc]2 [DFB] | z2 C D2 [DE] | x6 |[M:7/8] x7 |[M:3/4] x6 | x6 |] %34
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |[M:5/8] x5 |[M:1/8] x | %17
+ x |[M:3/4] G,3 B,3[K:treble] | E3 D3 | x6 | x6 | x6 | x6 | z2 z .A,,3 | x6 | G,3 B,3[K:treble] | %27
+ E3 D3 | x6 | x6 | x6 |[M:7/8] x7 |[M:3/4] x6 | x6 |] %34
+

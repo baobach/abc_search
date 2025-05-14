@@ -1,0 +1,50 @@
+X:1
+T:Choral
+T:Choral
+T:Op. 68, No. 4
+T:Robert Schumann
+T:Public Domain (PianoXML typeset)
+C:Robert Schumann
+Z:Public Domain (PianoXML typeset)
+%%score { ( 1 3 5 ) | ( 2 4 6 7 ) }
+L:1/8
+Q:1/4=80
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:5 treble 
+V:2 bass 
+V:4 bass 
+V:6 bass 
+V:7 bass 
+V:1
+"^Legato" G4 A4 | B4 A4 | G4 F4 | E4 !fermata!D4 | G4 A4 | B4 c4 | B4 A4 | !fermata!G8 | G4 A4 | %9
+ B4 A4 | G4 F4 | E4 !fermata!D4 | G4 A4 | B4 c4 | x4 A4 | !fermata!G8 | B4 c4 | d4 c4 | B4 A4 | %19
+ !fermata!B8 | d4 d4 | e4 d4 | c4 B4 | !fermata!A8 | (B2 c2 d4) | c4 B4 | G4 A4 | %27
+ !fermata!B4 !fermata!G4 | B2 c2 d4 | c4 B4 | A4 A4 | !fermata!G8 |] %32
+V:2
+!p! B,4 A,4 | G,4 A,4 | A,4 A,4 | A,4 F,4 | E,4 F,4 | G,4 F,4 | x8 | G,8 | B,4 A,4 | G,4 A,4 | %10
+ A,4 A,4 | A,4 F,4 | E,4 F,4 | G,4 G,4 | G,4 F,4 | G,8 | D4 C4 | B,4 C4 | D4 E2 D2 | D8 | B,4 D4 | %21
+ C4 D4 | D4 D4 | D8 | x8 | E4 D4 | C4 C4 | D4 C4 | x8 | x4 x4 | x4 x4 | x8 |] %32
+V:3
+ D4 D4 | D4 D4 | ^C4 D4 | x8 | B,4 D4 | D4 x4 | x8 | x8 | D4 D4 | D4 D4 | ^C4 D4 | x8 | B,4 D4 | %13
+ D4 x4 | D4- x4 | x8 | G4 F4 | G4 F4 | G4 x4 | G8 | G4 G4 | G4 G4 | F4 G4 | x8 | x8 | G4 G4 | %26
+ E4 F4 | G4 x4 | x8 | x8 | x8 | x8 |] %32
+V:4
+ G,4 F,4 | G,4 F,4 | E,4 D,4 | A,,4 !fermata!D,4 | E,4 D,4 | G,4 D,4 | D,4 D,4 | !fermata!G,,8 | %8
+ G,4 F,4 | G,4 F,4 | E,4 D,4 | A,,4 !fermata!D,4 | E,4 D,4 | G,4 E,4 | D,4 D,4 | !fermata!G,,8 | %16
+ G,4 A,4 | B,4 A,4 | G,4 (C2 D2) | !fermata!G,8 | G,4 B,4 | C4 B,4 | A,4 G,4 | !fermata!D,8 | %24
+ (G,2 A,2 B,4) | C4 G,4 | C4 A,4 | !fermata!G,4 !fermata!C,4 | G,2 A,2 B,4 | A,4 G,4 | C,4 D,4 | %31
+ !fermata!G,8 |] %32
+V:5
+ x8 | x8 | x8 | ^C4 D4 | x8 | x4 G4 | D4- D2 C2 | B,8 | x8 | x8 | x8 | ^C4 D4 | x8 | x4 G4 | %14
+ B4 D2 C2 | B,8 | x8 | x8 | x4 (G2 F2) | x8 | x8 | x8 | x8 | F8 | G4 G4 | x8 | x8 | x4 E4 | G4 G4 | %29
+ F4 G4 | E4 F4 | G8 |] %32
+V:6
+ x8 | x8 | x8 | x8 | x8 | x8 | G,4 F,4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %18
+ x8 | x8 | x8 | x8 | x8 | x8 | D4 D4 | x8 | x8 | x8 | D4 D4 | x8 | x8 | B,8 |] %32
+V:7
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | D4 D4 | C4 C4 | x8 |] %32
+

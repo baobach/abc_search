@@ -1,0 +1,42 @@
+X:1
+T:Simple 12 Bar Blues Duet
+T:For practice with rhythm and triplets and a feel for the blues.
+T:Stephan Peters
+T:Written by Stephan Peters in 2016. This score is in the public domain. Feel free to use it and abuse it.
+Z:Written by Stephan Peters in 2016.
+Z:This score is in the public domain.
+Z:Feel free to use it and abuse it.
+%%score 1 2
+L:1/8
+Q:1/4=90
+M:4/4
+K:E
+V:1 treble nm="Piano"
+V:2 bass nm="Piano"
+V:1
+|:"^to start" e8 | z2 (3:2:2z e2 (3:2:2=g2 e- (3:2:2e g2 | e8 | %3
+w: I|||
+ z2 (3:2:2z e2 (3:2:2=g2 e- (3:2:2e g2 | a8 | z2 (3:2:2z e2 (3:2:2=g2 e- (3:2:2e g2 | e8 | %7
+w: |IV||I|
+ z2 (3:2:2z e2 (3:2:2=g2 e- (3:2:2e g2 | b4 b2- (3:2:2b ^a2 | %9
+w: |V * * *|
+ a2 (3:2:2z e2 (3:2:2=g2 e- (3:2:2e g2 | e8 | (3z bb (3z bb (3z bb (3bbb :|O e8- | %13
+w: IV * * * * *|I|V * * * * * * * *|I|
+ e2- (3:2:2e e2 (3:2:2=g2 e- (3:2:2e g2 | e8 |] %15
+w: ||
+V:2
+|: [E,,B,,]2- (3:2:2[E,,B,,] [E,,B,,]2 [E,,!courtesy!^C,]2- (3:2:2[E,,C,] [E,,C,]2 | %1
+ [E,,B,,]2- (3:2:2[E,,B,,] [E,,B,,]2 [E,,C,]2- (3:2:2[E,,C,] [E,,C,]2 | %2
+ [E,,B,,]2- (3:2:2[E,,B,,] [E,,B,,]2 [E,,C,]2- (3:2:2[E,,C,] [E,,C,]2 | %3
+ [E,,B,,]2- (3:2:2[E,,B,,] [E,,B,,]2 [E,,C,]2- (3:2:2[E,,C,] [E,,C,]2 | %4
+ [A,,E,]2- (3:2:2[A,,E,] [A,,E,]2 [A,,!courtesy!^F,]2- (3:2:2[A,,F,] [A,,F,]2 | %5
+ [A,,E,]2- (3:2:2[A,,E,] [A,,E,]2 [A,,F,]2- (3:2:2[A,,F,] [A,,F,]2 | %6
+ [E,,B,,]2- (3:2:2[E,,B,,] [E,,B,,]2 [E,,C,]2- (3:2:2[E,,C,] [E,,C,]2 | %7
+ [E,,B,,]2- (3:2:2[E,,B,,] [E,,B,,]2 [E,,C,]2- (3:2:2[E,,C,] [E,,C,]2 | %8
+ [B,,!courtesy!^F,]2- (3:2:2[B,,F,] [B,,F,]2 [B,,!courtesy!^G,]2- (3:2:2[B,,G,] [^A,,=G,]2 | %9
+ [A,,E,]2- (3:2:2[A,,E,] [A,,E,]2 [A,,F,]2- (3:2:2[A,,F,] [A,,F,]2 | %10
+ [E,,B,,]2- (3:2:2[E,,B,,] [E,,B,,]2 [E,,C,]2- (3:2:2[E,,C,] [E,,C,]2 | %11
+ (3B,,B,,B,, (3B,,[B,,!courtesy!^F,][B,,F,] (3B,,[B,,F,][B,,F,] (3[B,,F,][B,,F,][B,,F,] :| %12
+ [E,,B,,]2- (3:2:2[E,,B,,] [E,,B,,]2 [E,,C,]2- (3:2:2[E,,C,] [E,,C,]2 | %13
+ [E,,B,,]2- (3:2:2[E,,B,,] [E,,B,,]2 [E,,C,]2- (3:2:2[E,,C,] [E,,C,]2 | [E,,B,,]8 |] %15
+

@@ -1,0 +1,23 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=110
+M:4/4
+K:Bb
+V:1 treble nm="Grand Piano, Staff 1"
+V:2 treble 
+V:3 bass nm="Choir Pad, Solitude, 77.77"
+V:4 bass 
+V:1
+ z4 B2 z2 | [Ge]2 dc [GB]4 | [FB]2 [DF][EG] [F_A]2 [EG]2 | [EF]2 [Ec]2 [DB]4 | %4
+ [GB]2 [^FA]2 [GB]2 [EG]2 | [Ee]2 fe [_Ad]4 | .G2 G2 ._A2 c2 | [EG]2 [DF]2 E4- | E4 z4 |] %9
+V:2
+ [GB]2 [^FA]2 GF [EG]2 | z2 _A2 z4 | x8 | x8 | x8 | z2 _A2 z4 | e-[Fe]E_D C-[CB]EF | x8 | x8 |] %9
+V:3
+ B,2 C2 B,2 B,2 | B,2[K:treble] C2 E4 | D2 B,2 B,2[K:bass] B,2 | C2 A,2 B,4 | B,2 C2 B,2 B,2 | %5
+ _A,2 C2 B,4 | B,2 B,2[K:treble] C2 CD | EB,[K:bass] _A,2 G,4- | G,4 z4 |] %9
+V:4
+ E,2 E,2 E,2 E,2 | E,2 E,2 E,4 | B,,2 B,,2 D,2 E,2 | _A,2 F,2 B,,4 | E,2 E,2 E,2 E,2 | %5
+ C,2 _A,,2 B,,4 | E,2 E,2 _A,,2 A,,2 | B,,2 B,,2 E,4- | E,4 z4 |] %9
+

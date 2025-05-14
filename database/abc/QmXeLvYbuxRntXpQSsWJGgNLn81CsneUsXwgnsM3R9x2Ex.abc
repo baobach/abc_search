@@ -1,0 +1,31 @@
+X:1
+T:Title
+%%score ( 1 2 ) { ( 3 5 ) | 4 }
+L:1/8
+M:6/8
+K:F
+V:1 treble nm="Bright Piano"
+V:2 treble 
+V:3 bass nm="Bright Piano"
+V:5 bass 
+V:4 bass 
+V:1
+ z3 z2[Q:1/4=72] C | [CF]2 [CF] GA[CB] | AF[CG] [CF]2 [Cc] | [CA]2 [CG] [CF]2 [CE] | %4
+ [B,D][DF][B,D] [A,C]2 [CA] | Gc[CA] [EG]2 [CF] | [CE]2 [DF] [EG]2 [EG] | [Ec]2 [Fd] [Ge][Ec][FA] | %8
+[M:5/8] [EG][CE][=B,F] [CE]2 |[M:1/8] C |[M:3/4] [CF]2 [CA]G c[CE] | [CF]C [CA]G c[CE] | %12
+ F-[B,F] [CF][DG] [^FA][GB] | [FA]3 [EG] [DF][EG] |[M:5/8] [CF]-[CF]- [CF]3 |] %15
+V:2
+ x6 | z3 .C3 | .C3 z3 | x6 | x6 | .C3 z3 | x6 | x6 |[M:5/8] x5 |[M:1/8] x |[M:3/4] z2 z .C3 | %11
+ z2 z .C3 | .C2 z2 z2 | x6 |[M:5/8] x5 |] %15
+V:3
+ z3 z2 C, | A,2 A, B,A,G, | z A,B, A,2 C, | C2 B, A,2 F, | F,2 F, F,2 F, | E,2 F, G,CA, | %6
+ G,2 G, G,2 G, | G,2 G,[K:treble] C2 C |[M:5/8] CG,G,[K:bass] G,2 |[M:1/8] B, | %10
+[M:3/4] A,2 F, B,2 B, | A,2 F, B,2 B, | A,G, A,B, CD | CA, F, B,2 B, |[M:5/8] A,-A,- A,3 |] %15
+V:4
+ z6 | F,2 F, F,2 F, | z2 F, .F,3 | F,2 F, F,2 A,, | B,,2 B,, F,,2 F,, | C,2 C, C,2 C, | %6
+ C,2 C, C,2 C, | C,2 C, C,2 F,, |[M:5/8] G,,2 G,, C,2 |[M:1/8] C, |[M:3/4] F,,2 F,, C,2 C, | %11
+ F,,2 F,, C,2 C, | F,2 F,B,, A,,G,, | C,4- C,C, |[M:5/8] [F,,F,]-[F,,F,]- [F,,F,]3 |] %15
+V:5
+ x6 | x6 | .F,3 z3 | x6 | x6 | x6 | x6 | x3[K:treble] x3 |[M:5/8] x3[K:bass] x2 |[M:1/8] x | %10
+[M:3/4] x6 | x6 | x6 | x6 |[M:5/8] x5 |] %15
+

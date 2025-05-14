@@ -1,0 +1,61 @@
+X:1
+T:Voice Piano template
+T: 
+T:Suites de Pièces pour le Clavecin
+T:Handel, George Frideric 
+T:Suite Sixième
+T:4-Gigue
+T:Oli 2020
+T:Oli 2020
+Z:Oli 2020
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+Q:1/4=187
+M:12/8
+K:A
+V:1 treble nm="Piano"
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:1
+"^Presto" c | fgf T^e>^de fcA F2 G | ABA TG>FG AFC A,2 B | cdc TB>AB cAE CcB | cde dec TB3 z cB | %5
+ ABc BcA GFE z z e | fdA Gag aec A2 e | e2 d d2 d dcB cdc | Bc^d ede A3- ABA | GAB cBc F3- FGF | %10
+ EFG ABc ded c^dc | ^BcB c^dc dBG g3- | g2 g f3- f2 f efe | ^def gfg c3 z dc | Bc^d ede A3 z BA | %15
+ G^A^B c^de ABc def | ^Bc^d efg cde A=Bc | FGA ^DEF ^B,CD G,GF | EGc ^Dc^B [^EGc]3- [EGc]3 :: g | %20
+ ^efg c^de fc^A Ff=e | ^def Bcd eBG Ee=d | cde FGA G^AB ABc | Bcd cdB ^AGF Acf | %24
+ =g2 g g2 g f3 z z e | ^a2 e edc dfe fed | cdB FB^A BFD B,2 c | ded Tc>Bc dBF DcB | %28
+ cdc TB>^AB c=AE C2 c | d2 d d2 d c3 cBA | B2 B B2 B AFC A,2 A | BG^E CGB [FAc]3 z z c | %32
+ dBG ^EGB C3 z z c | fgf T^e>^de fcA F2 g | aba Tg>fg a2 c =d2 d | dBG c2 c cAF B2 B | %36
+ BG^E AGF C^D^E FGA | ^D^EF GAB EFG ABc | FGA Bcd c^d^e fga | gab ^efg Bcd cdB | %40
+ Acf Gf^e fga d=ef | Bcd GAB ^EFG CDB, | A,CF G,F^E [A,CF]3- [A,CF]2 :| %43
+V:2
+ z | A,3 B,3 C3 z z C, | F,G,F, T^E,>^D,E, F,C,A,, F,,2 G, | A,B,A, TG,>F,G, A,E,C, A,,A,G, | %4
+ A,B,C B,CA, EB,G, E,2 E | E2 E D2 D D2 D D2 C | D2 D D2 D C3 z z C, | %7
+ F,E,F, G,F,G, A,E,C, A,,2 A, | B,2 B, B,2 B,[I:staff -1] C3[I:staff +1] z z C | %9
+ G,2 G, G,2 G, A,3 z z A, | G,2 G, E,2 E, A,2 A, A,2 A, | G,2 G, G,2 G, G,3 E^DE | %12
+ C^DE DEC ^B,^A,G, C2 C, | G,2 G, G,,2 G,, A,,3 z z A,, | E,2 E, E,,2 E,, F,,3 z z F,, | %15
+ C,2 C, C2 C F,2 F, F,2 =A, | G,2 G, ^B,2 G, A,2 C F,2 A, | ^D,2 F, ^B,,2 D, G,,6 | %18
+ C,2 E, G,2 G,, [C,,C,]3- [C,,C,]3 :: z | z2 z z z C ^A,B,C F,G,A, | %21
+ B,F,^D, B,,B,=A, G,A,B, E,F,G, | A,B,C D2 D D2 D C2 C | D2 B, =G,2 G, F,3 z z F | %24
+ F=GF E>^DE FC^A, F,C,^A,, | F,,^A,,C, F,C,A,, B,,2 C, D,2 F, | E,F,=G, F,2 F,, B,,3- B,,D,F, | %27
+ B,CB, T^A,>^G,A, B,F,D, B,,=A,G, | A,B,A, TG,>F,G, =A,E,C, A,,E,A, | %29
+ A,B,A, G,F,G, A,E,C, A,,2 F, | F,G,F, ^E,>^D,E, F,C,A,, F,,C,F, | G,,3 z z G, A,F,C, A,,C,F, | %32
+ B,,2 B, B,2 B, B,G,^E, C,G,B, | z z C B,2 B, A,3 z z C | FGF T^E>^DE FCA, F,B,=D | %35
+ E,2 E, E,C,A,, D,2 D, D,B,,G,, | C,2 C, F,2 B,, C,2 C, A,2 A, | B,,2 ^D, B,2 B,, C,2 ^E, C2 C, | %38
+ =D,2 F, D2 B, ^E,2 C A,2 F | B,2 D G,2 B, ^E,2 B, C,2 E, | F,2 A, B,2 C D2 F B,2 D | %41
+ G,2 B, ^E,2 G, C,3- C,3 | F,2 A,, B,,2 C, F,,3- F,,2 :| %43
+V:3
+ x | F,3 G,3 A,3 x2 x | x12 | x12 | x12 | x12 | C2 C C2 B, A,3 x2 x | x12 | %8
+ A,2 A, G,2 G, F,C,A,, F,,2 F, | F,2 F, E,2 E, D,A,,F,, D,,2 D, | D,2 D, C,2 C, F,2 F, x3 | x12 | %12
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 :: x | x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %28
+ x12 | x12 | x12 | x12 | x12 | F,2 A, G,2 G, F,3 x3 | z12 | x12 | x12 | x12 | x12 | x12 | x12 | %41
+ x12 | x11 :| %43
+V:4
+ x | x12 | x12 | x12 | x3 z z A G3 z z G | F2 F F2 F E2 x E2 E | x8 x z z E | A2 A B2 B E3 z z E | %8
+ x12 | x12 | x8 x F2 F | F2 F E2 E[I:staff +1] ^B,3[I:staff -1] z z G | A3- A2 A G3 z z c | %13
+ c2 c B2 B AE[I:staff +1]C A,2[I:staff -1] A | A2 A G2 G FC[I:staff +1]A, F,2[I:staff -1] F | %15
+ F3 E2 E E2 E ^D2 D | ^D2 D x8 x | x4 x2 z z[I:staff +1] F, E,2 ^D, | x12 :: x | x12 | x12 | %22
+[I:staff -1] x6 E2 E E2 E | F2 F E2 E C3 x3 | [Bd]2 [Bd] [ce]2 [ce] [^Ae]3 x x c | %25
+ c2 c ^A2 A F3 x3 | x12 | x12 | x8 x3 A | B2 B B2 B BAG A3 | G2 G G2 G x6 | x12 | x12 | x12 | x12 | %35
+ x12 | x12 | x12 | x12 | x12 | x12 | x6 z z[I:staff +1] B, A,2 G, | x11 :| %43
+

@@ -1,0 +1,68 @@
+X:1
+T:Ave Maria
+T:Ave Maria
+T:Franz Schubert
+C:Franz Schubert
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=60
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:1
+!mp!!ped! (3z!ped! FB (3dBF!ped-up!!ped! (3z!ped-up!!ped! FB (3dBF!ped-up! | %1
+ (3z!ped! Bd (3fdB (3z!ped-up!!ped! df (3_afd!ped-up! | %2
+ (3z!ped! Be (3geB (3z!ped-up!!ped! Ae (3^feA!ped-up! | %3
+ (3z!ped! Bd (3fdB (3z!ped-up!!ped! FB (3dBF!ped-up! | %4
+!p!{/B} b4!ped! [B,,=E,]2!ped-up!!ped! [Aa][Bb]!ped-up! | %5
+ [dd']2!ped! z2 z2!ped-up!!ped! [cc']2!ped-up! | %6
+ [Bb]4!ped! [cc']3!ped-up!!ped! [dd']/[cc']/!ped-up! | %7
+ [Beb]!ped![Aa][Gg][Aa] [Bdb]4!ped-up!!ped!!ped-up! | %8
+ z2!ped! [dd']2 [dd']2!ped-up!!ped! (6:4:6z/ z/ z/ z/ [cc']/[Bb]/!ped-up! | %9
+ [Aa]!ped![Gg][dd'][=e=e']!f! [dgd']4!ped-up!!ped!!ped-up! | %10
+ [_dg_d']2-!ped! [dgd'][Aa] [cc']2!ped-up!!ped! (3z z [Bb]!ped-up! | %11
+ (3[Aa]!ped![cc'][dd'] (3[ee'][dd'][Aa] (3:2:1[Bb]3!ped-up!!ped! z2!ped-up! | %12
+ z2!ped! (3[dd'] z [cc'] [cac']!ped-up!!ped! z z [Aa]!ped-up! | %13
+!mf! (3[Gg]!ped![=B=b][dd'] (3[fbf'][dd'][Bb] [cfc']!ped-up!!ped! z z2!ped-up! | %14
+ (3z!ped! [Gg][Aa] (9:4:5(1:1:3[B=eb]/c'/[Bb]/[Aa][Gg] [FAf]3!ped-up!!ped! [Ff]!ped-up! | %15
+!f! [cc']!ped! z (3z z [cc'] (3[cc']!ped-up!!ped! z [=Bd=b] (3[cec'] z [dfd']!ped-up! | %16
+ (3[cec']!ped! z [dfd'] (3[Bdb] z z z2!ped-up!!ped! [Bb]2!ped-up! | %17
+ [cc']2-!ped! (3:2:2[cc']2 [cc']!>(! (3[cc']!ped-up!!ped![=B=b][cc'] (3[eae'][dd'][cc']!>)!!ped-up! | %18
+!mp! [Bdb]!ped! z z2 z2!ped-up!!ped! [Bb]2!ped-up! | %19
+ [cc']2!ped! (3[A,,F,A,] z [cc'] (3[dd']!ped-up!!ped! z [dd'] (9:4:5(1:1:3[d^fd']/e'/[dd']/[_d_d'][=df=d']!ped-up! | %20
+ [fc'f']!ped![ege'] z2 [G,CE]2!ped-up!!ped! (3[Gg] z z!ped-up! | %21
+ [dd']!ped![cc'] (3z z [cc'] (3[Bb]!ped-up!!ped![Aa][Bb] (3[_dg_d'][cc'][Bb]!ped-up! | %22
+ [cc']6!ped!!ped-up!!ped! z2!ped-up! | %23
+ (3[bd'b']!ped![db][fd'] (3[bf'][fd'][db] (3[D,G,B,=E]!ped-up!!ped![Bg][=eb] [aa'][bb']!ped-up! | %24
+ (3[d'f'b'd'']!ped![db][fd'] (3[bf'][fd'][db] (3[c'e'a'c'']!ped-up!!ped![ca][ec'] (3[ae'][ec'][ca]!ped-up! | %25
+ [bd'b']6 z2 |] %26
+V:2
+ (3_B,,,DF (3_BFD (3B,,,DF (3BFD | (3_B,,,F_B (3dBF (3B,,,^Gd (3fdG | %2
+ (3_B,,,G_B (3_eBG (3B,,,^Fc (3^dcF | (3_B,,,F_B (3dBF (3B,,,DF (3BFD | %4
+ (3_B,,,[_B,F][D_B] (3[Fd][DB][B,F] (3G,,,[B,G][=EB] (3[Gd][EB][B,G] | %5
+ (3F,,,[_B,F][D_B] (3[Fd][DB][B,F] (3F,,,[A,F][CA] (3[_Ec][CA][A,F] | %6
+ (3G,,,[_B,G][D_B] (3[Gd][DB][B,G] (3_E,,,[B,G][_EB] (3[G_e][EB][B,G] | %7
+ (3F,,[F,_E][A,F] (3[CA][A,F][F,E] (3_B,,,[_B,F][D_B] (3[Fd][DB][B,F] | %8
+ (3_B,,,[F,D][_B,F]!<(! (3[D_B][B,F][F,D] (3_B,,,,[^F,D][B,^F] (3[DB][B,F][F,D] | %9
+ (3[_B,,,_B,,][G,D][_B,G] (3[D_B][B,G][G,D]!f!!>(! (3A,,,!<)![B,G][DB] (3[Gd][DB][B,G] | %10
+ (3A,,,[A,=E][^CG] (3[E^c][CG][A,E]!>)!!p! (3^F,,,[=CA][_E=c] (3[^F^d][Ec][C_G] | %11
+ (3D,,,[A,^F][CA] (3[_Ec][CA][A,F] (3G,,,[_B,G][D_B] (3[Gd][DB][B,G] | %12
+!<(! (3G,,[_B,G][=E_B] (3[Gd][EB][B,G] (3[A,,,A,,][A,F][CA] (3[Fc][CA][A,F]!<)! | %13
+!<(! (3[D,,D,][=B,G][D=B] (3[Gd][DB][B,G] (3C,,[A,F][CA] (3[Fc][CA][A,F] | %14
+ (3C,,[_B,G][=E_B] (3[G=e][EB][B,G] (3F,,,[A,F][CA] (3[Fc][CA][A,F]!<)! | %15
+ (3F,,,[A,_E][CA] (3[Ec][CA][A,E] (3F,,[A,E][CA] (3[Ec][CA][A,E] | %16
+ (3F,,,[_B,F][D_B] (3[Fd][DB][B,F] (3F,,[DB][Fd] (3[Bf][Fd][DB] | %17
+ (3F,,,[A,F][CA] (3[Fc][CA][A,F]!>(! (3F,,[A,_E][CA] (3[Ec][CA][A,E]!>)! | %18
+ (3G,,,[_B,G][D_B] (3[Gd][DB][B,G]!<(! (3_B,,,[G,D][B,G] (3[DB][B,G][G,D]!<)! | %19
+!f! (3A,,,[A,F][CA] (3F,,,[F,C][A,F] (3[D,,,D,,][^F,D][A,^F] (3[DA][A,F][F,D] | %20
+!f! (3C,,,[G,_E][CG] (3[Ec][CG][G,E]!>(! (3[C,,G,,^D,][G,E][CG] (3[Ec][CG][G,E]!>)! | %21
+!p! (3[_E,,,G,,][CG][_Ec] (3[G_e][Ec][CG]!<(! (3[G,,,G,,][_B,G][^C_B] (3[=E^c][CB][B,G] | %22
+ (3F,,[A,F][CA] (3[Fc][CA][A,F] (3F,,,[CA][_Ec] (3[A_e][Ec][CA]!<)! | %23
+!f! (3[_B,,,_B,,][_B,F][D_B] (3[Fd][DB][B,F] (3[G,,,B,,][B,G][=EB] (3[Gd][EB][B,G] | %24
+ (3F,,[_B,F][D_B] (3[Fd][DB][B,F] (3F,,,[A,F][CA] (3[_Ec][CA][A,F] | [_B,,,,_B,,,]6 z2 |] %26
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | z2 z2 z2 (3z [=eb] z | x8 | x8 |] %26
+

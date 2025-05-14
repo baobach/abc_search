@@ -1,0 +1,32 @@
+X:1
+T:Title
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Choir Aahs"
+V:2 treble nm="Grand Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+ z2[Q:1/4=100] D>E GB- B/_B/=B |[M:3/4] d2 e B2 B | E>F G A2 D | D6 | D>E GB- B/_B/=B | d2 e B2 B | %6
+ EF G A2 D | G6 | DG B d2 B | e6 | dB G c2 B | A6 | z6 | z6 | z6 | z6 |] %16
+V:2
+ z2 [DGB]2- [DGB] [DGB]3 |[M:3/4] [GBd]2 [GBe] .[DGB]3 | [^CGA]3 [=CFA]3 | %3
+ [G,D]2 [G,^CE] [F,=CD]3 | [DGB]3 [DGB]3 | d2 e B2 B, | [^CGA]3 [=CFA]3 | G6 | %8
+ [Dd][Gg] [Bb] [dd']2 [Ba] | [ee']6 | [dc'][Bb] [Gg] [cc']2 [Bb] | a6 | DG c B3 | GB e d2 B | %14
+ BA G [GB]2 A | G6 |] %16
+V:3
+ z2 D,>E, G,B,- B,/_B,/=B, |[M:3/4] D2 E B,2 B, | A,,>F, G, D,2 F, | B,,2 _B,, A,,2 D, | %4
+ D,>E, G,B,- B,/_B,/=B, | [DGB]2 [EGB] .[B,DG]3 | [A,,E,]F, G, D,2 D, | D,2 E, .D,3 | %8
+ [G,,G,]2 [D,G,B,] [G,B,D]2 [D,G,B,] | [E,,E,]2 [E,G,] [G,B,]2 [E,G,] | %10
+ [G,,G,]2 [D,G,B,] [G,CE]2 [B,D] | [D,D]2 [E,E] [D,D]3 | [G,B,][K:treble][G,B,D] [F,EG] [G,DG]3 | %13
+ [G,B,D][G,DG] [G,CG] [G,B,G]2 [G,DG] | [G,^CG][G,CG][K:bass] [A,CE] [D,D]2 [D,=CD] | [G,B,D]6 |] %16
+V:4
+ x8 |[M:3/4] x6 | x6 | x6 | x6 | x6 | x6 | B,2 C .B,3 | x6 | z2 B, E2 B, | x6 | %11
+ [Adf]2 [A^cg] [Adf]3 | x6 | x6 | x6 | x6 |] %16
+V:5
+ x8 |[M:3/4] x6 | x6 | x6 | x6 | x6 | x6 | G,,6 | x6 | x6 | x6 | x6 | x[K:treble] x5 | x6 | %14
+ x2[K:bass] x4 | x6 |] %16
+

@@ -1,0 +1,44 @@
+X:1
+T:Leichte Sonatine
+T:Leichte Sonatine
+T:L. van Beethoven
+T:Sonatina №37 in G-Dur
+T:Ludwig van Beethoven
+T:Arrangement für zwei Violinen von Alexander Jewstügow
+%%score [ 1 2 ]
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="Violin"
+V:2 treble nm="Violin"
+V:1
+ vG4({/B} uAGAB) | vG2 (ugd) (vdB) (uBG) | vc4({/c} uBABc) | vA2 (udedBcA) | vG4({/B} uAGAB) | %5
+ vc4({/f} uedef) | (vgd) (uec) (vBd) (ucA) | (v!4!A4 G2) z2 |: vA4 (ucBAB | dc) (vagf!0!edc) | %10
+ uB4 (vdcBc | !4!ed) (ubagf!0!ed | c2) (vagf!0!edc | B2) (ugfedcB) | vA2 (uDEFGAB) | %15
+ !fermata!vc2 (uBcdcAB) | vG4({/B} uAGAB) | G2 (gd) (dB) (BG) | c4({/c} BABc) | A2 (dedBcA) | %20
+ G4({/B} AGAB) | c4({/f} edef) | (gd) (ec) (Bd) (cA) | (!4!A4 G2) z2 :| vD4 uD2 uD2 | vD4 uG2 uB2 | %26
+ vd4 ud2 ud2 | vB4 z4 | vd4 ud2 ud2 | vd4 uB2 ud2 | va2 z2 uf2 z2 | vg2 z2 vg2 ug2 | vg4 ug4 | %33
+ vg8 |]:[M:6/8][Q:1/4=80] (uB"^Romanze"cd) | (vG2 !tenuto!G)({/B} uAGA) | (vB2 G) (uBcd) | %37
+ (vG2 !tenuto!G)({/A} uGFG) | v!4!A2 z (uBcd) | (vG2 !tenuto!G) (uGAB) | vc2 ue (vge)uc | %41
+ vB2 ud (vcA)ud | vG2 z ::({/!4!A} uGFG) | (.v!0!A.uB.^c .d.e.f) | (va2 g) (ufed) | %46
+ (v^cBA) (uecG) | (vF2 A) udvdud | (vB2 G) udvdud | (B2 G) ddud | (vBG)uE (vFG)uE | vD2 z (uFED | %52
+ !4!A2) z (v!4!AGF | !1!c2) z (u!2!cBA) | !fermata!ve2 (ud cBA | GFE) (vDEF | %56
+ G!0!A!1!^A) (u!1!Bcd) | ((vG2 !tenuto!G))({/B} AGA) | (B2 G) (Bcd) | ((vG2 !tenuto!G))({/A} GFG) | %60
+ !4!A2 z (Bcd) | (G2 !tenuto!G) (GAB) | c2 e (ge)c | B2 d (cA)d | G2 z :| (u!stemless!Bcd) | %66
+ vA2 uA{/AB} vc>uBvA | uG2 vG({/A} uGFG) | (vEFG) (uABA) | (vA2 D) (uBcd) | %70
+ ((vA2 !tenuto!A))({/AB} ucBA) | vG3 (ug2 e) | (vd2 B) (uA2 d) | vB3 (g2 e) | (d2 B) (cAd) | %75
+ vG2 z ug2 z | vG2 z |] %77
+V:2
+ B,4 D4 | G,2 z2 z4 | A,4 G,4 | D2 z2 z4 | G,DB,D =F2 B,2 | G,ECE G,2 A,2 | B,2 C2 D2 C2 | %7
+ D2 A,2 G,2 z2 |: F2 D2 B,2 G,2 | A,2 z2 z4 | G2 D2 A,2 C2 | B,2 z2 z4 | A2 z2 z2 .F2 | %13
+ G2 z2 z2 .E2 | F2 z2 z4 | z8 | B,4 D4 | G,2 z2 z4 | A,4 G,4 | D2 z2 z4 | G,DB,D =F2 B,2 | %21
+ G,ECE G,2 A,2 | B,2 C2 D2 C2 | D2 A,2 G,2 z2 :| A,CDC A,CDC | G,B,DB, G,B,DB, | A,CDC A,CDC | %27
+ G,B,DB, G,B,DB, | A,CDC A,CDC | G,B,DB, G,B,DB, | CDFA DFAd | G2 z2 G,2 B,2 | D2 G2 D2 B,2 | %33
+ G,8 |]:[M:6/8] z3 | .G,.D.D .A,.C.C | .G,.D.B, z3 | .B,.E.E .A,.^C.C | .D.F.F z3 | G,B,B, D=FF | %40
+ E2 z z3 | GDB, FDC | G,2 z :: z3 | F6 | E6 | A,3 ^C3 | D2 z DEF | G,A,B, DEF | G,A,B, DEF | %50
+ G, z z A, z2 | A,2 z z3 | F2 z z3 | D2 z z3 | !fermata!F2 z z3 | z6 | z6 | .G,.D.D .A,.C.C | %58
+ .G,.D.B, z3 | .B,.E.E .A,.^C.C | .D.F.F z3 | G,B,B, D=FF | E2 z z3 | GDB, FDC | G,2 z :| z3 | F6 | %67
+ E2 z z3 | C3 ^C3 | D2 z z3 | A,DF A,CF | B,EG CEG | B,DG CDF | GEB, CEG | B,DG FDC | B,2 z D2 z | %76
+ G,2 z |] %77
+

@@ -1,0 +1,65 @@
+X:1
+T:Rimsky-Korsakov Harmonic Exercises,
+T:Enharmonic modulation (5)
+T:Rimsky-Korsakov Harmonic Exercises, Enharmonic modulation (5)
+T:"Practical Manual of Harmony" (1885)
+T:Realizations by S. Shchetnikov
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/2=80
+M:7/1
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Exercise: compose enharmonic modulations through the diminished seventh chord.\n\n\nRealizations:\n\n\n\n""^C -- c" (G8 A8 A8 _A8 G8 G8 !breath!G8) |] %1
+[M:6/1]"^C -- D♭" (c8 ^c8- _d8 _d8 =c8 !breath!_d8) |] %2
+[M:7/1]"^C -- c♯" (c8 B8 _B8 A8 ^G8 ^G8 !breath!^G8) |] %3
+[M:7/1]"^C -- D" (c8 d8 d8- d8 d8 ^c8 !breath!d8) |] %4
+[M:7/1]"^C -- d" (c8 B8 B8 _B8 A8 A8 !breath!A8) |] %5
+[M:6/1]"^C -- E" (G8 G8- ^^F8 ^G8 ^F8 !breath!E8) |]"^C -- e" (G8 G8- G8 G8 ^F8 !breath!E8) |] %7
+[M:7/1]"^C -- E♭" (c8 d8 c8 _c8 _B8 _B8 !breath!_B8) |] %8
+"^C -- e♭" (c8 d8 c8 _c8 _B8 _B8 !breath!_B8) |]"^C -- F" (c8 d8 d8 _d8 c8 c8 !breath!c8) |] %10
+"^C -- f" (c8 d8 d8 _d8 c8 c8 !breath!c8) |]"^C -- F♯" (c8 c8 c8- ^B8 ^c8 ^c8 !breath!^c8) |] %12
+[M:6/1]"^C -- f♯" (G8 ^F8- ^F8 ^F8 ^E8 !breath!^F8) |]"^C -- G" (G8 G8- G8 G8 ^F8 !breath!G8) |] %14
+"^C -- g" (G8 G8- G8 G8 ^F8 !breath!G8) |][M:7/1]"^C -- A♭" (G8 _A8 _A8- _A8 _A8 G8 !breath!_A8) |] %16
+"^C -- g♯" (G8 _A8 _A8- ^G8 ^G8 ^^F8 !breath!^G8) |]"^C -- A" (G8 A8 A8- A8 A8 ^G8 !breath!A8) |] %18
+"^C -- a" (G8 A8 A8- A8 A8 ^G8 !breath!A8) |]"^C -- B♭" (c8 B8 _B8- _B8 _B8 A8 !breath!_B8) |] %20
+"^C -- b♭" (c8 B8 _B8- _B8 _B8 A8 !breath!_B8) |]"^C -- B" (G8 _A8 _A8 G8 ^F8 ^F8 !breath!^F8) |] %22
+"^C -- b" (G8 _A8 _A8 G8 ^F8 ^F8 !breath!^F8) |] %23
+V:2
+ (E8 F8 _E8- _E8 _E8 D8 _E8) |][M:6/1] (G8 G8- G8 _A8 _A8 _A8) |] %2
+[M:7/1] (G8 G8 E8- E8 E8 ^D8 E8) |][M:7/1] (G8 G8 _A8- ^G8 =A8 A8 A8) |] %4
+[M:7/1] (G8 G8 F8- F8 F8 E8 F8) |][M:6/1] (E8 E8- E8 E8 ^D8 B,8) |] (E8 E8- E8 E8 ^D8 B,8) |] %7
+[M:7/1] (G8 G8 ^F8- ^F8 G8 _A8 G8) |] (G8 G8 ^F8- _G8 G8 =F8 _G8) |] (G8 G8 _A8- ^G8 =A8 =G8 A8) |] %10
+ (G8 G8 _A8- _A8 _A8 G8 _A8) |] (G8 A8 A8- ^^G8 ^A8 ^G8 ^A8) |][M:6/1] (E8 _E8 =D8 ^C8 ^C8 ^C8) |] %13
+ (E8 E8 _E8 D8 D8 D8) |] (E8 E8 _E8 D8 D8 D8) |][M:7/1] (E8 F8 D8- D8 _E8 E8 E8) |] %16
+ (E8 F8 D8- ^^C8 ^D8 ^D8 D8) |] (E8 F8 ^F8 =F8 E8 E8 E8) |] (E8 F8 ^F8 =F8 E8 E8 E8) |] %19
+ (G8 F8 E8- E8 F8 F8 F8) |] (G8 F8 E8- E8 F8 F8 F8) |] (E8 F8 D8- ^^C8 ^D8 E8 ^D8) |] %22
+ (E8 F8 D8- D8 D8 E8 D8) |] %23
+V:3
+ (C8 C8 C8- C8 C8 B,8 C8) |][M:6/1] (E8 E8- =E8 F8 _E8 F8) |] %2
+[M:7/1] (E8 D8 ^C8- ^C8 ^C8 ^B,8 ^C8) |][M:7/1] (E8 F8 F8- ^E8 ^F8 G8 ^F8) |] %4
+[M:7/1] (E8 D8 D8- D8 D8 ^C8 D8) |][M:6/1] (C8 ^C8 =C8 B,8 A,8 ^G,8) |] (C8 ^C8 =C8 B,8 A,8 G,8) |] %7
+[M:7/1] (E8 D8 _E8- _E8 _E8 D8 _E8) |] (E8 D8 _E8- _E8 _E8 =D8 _E8) |] (E8 F8 F8- F8 F8 E8 F8) |] %10
+ (E8 F8 F8- F8 F8 =E8 F8) |] (E8 F8 ^F8- ^F8 ^F8 ^E8 ^F8) |][M:6/1] (C8 A,8- A,8 A,8 ^G,8 A,8) |] %13
+ (C8 _B,8- ^A,8 =B,8 =A,8 B,8) |] (C8 _B,8- _B,8 _B,8 A,8 _B,8) |] %15
+[M:7/1] (C8 C8 B,8- B,8 C8 _B,8 C8) |] (C8 C8 B,8- B,8 B,8 ^A,8 B,8) |] %17
+ (C8 C8 C8- ^B,8 ^C8 D8 ^C8) |] (C8 C8 C8- C8 C8 D8 C8) |] (E8 D8 ^C8- ^C8 D8 _E8 D8) |] %20
+ (E8 D8 ^C8- _D8 _D8 _E8 _D8) |] (C8 C8 B,8- B,8 B,8 ^A,8 B,8) |] (C8 C8 B,8- B,8 B,8 ^A,8 B,8) |] %23
+V:4
+ (C,8 F,8 ^F,8- ^F,8 G,8 G,8 C,8) |][M:6/1] (C,8 _B,,8 __B,,8 _A,,8 _A,,8 _D,8) |] %2
+[M:7/1] (C,8 G,8 G,8- ^^F,8 ^G,8 ^G,,8 ^C,8) |][M:7/1] (C,8 B,,8 B,,8 _B,,8 A,,8 A,,8 D,8) |] %4
+[M:7/1] (C,8 G,,8 _A,,8- ^G,,8 =A,,8 A,,8 D,8) |][M:6/1] (C,8 _B,,8- ^A,,8 =B,,8 B,,8 E,8) |] %6
+ (C,8 _B,,8- ^A,,8 =B,,8 B,,8 E,8) |][M:7/1] (C,8 B,,8 A,,8- A,,8 _B,,8 _B,,8 _E,8) |] %8
+ (C,8 B,,8 A,,8- A,,8 _B,,8 _B,,8 _E,8) |] (C,8 B,,8 B,,8- B,,8 C,8 C,8 F,8) |] %10
+ (C,8 B,,8 B,,8- B,,8 C,8 C,8 F,8) |] (C,8 F,8 _E,8 =D,8 ^C,8 ^C,8 ^F,8) |] %12
+[M:6/1] (C,8 C,8- ^B,,8 ^C,8 ^C,8 ^F,8) |] (C,8 ^C,8- ^C,8 D,8 D,8 G,8) |] %14
+ (C,8 ^C,8- ^C,8 D,8 D,8 G,8) |][M:7/1] (C,8 F,8 F,8 _F,8 _E,8 _E,8 _A,8) |] %16
+ (C,8 F,8 F,8 E,8 ^D,8 ^D,8 ^G,8) |] (C,8 F,8 _E,8- ^D,8 =E,8 E,8 A,8) |] %18
+ (C,8 F,8 _E,8- ^D,8 =E,8 E,8 A,8) |] (C,8 G,8 G,8 _G,8 F,8 F,8 _B,8) |] %20
+ (C,8 G,8 G,8 _G,8 F,8 F,8 _B,,8) |] (C,8 F,8 F,8- ^E,8 ^F,8 ^F,8 B,,8) |] %22
+ (C,8 F,8 F,8- ^E,8 ^F,8 ^F,8 B,,8) |] %23
+

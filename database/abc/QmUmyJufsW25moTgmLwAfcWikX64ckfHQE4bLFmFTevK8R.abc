@@ -1,0 +1,55 @@
+X:1
+T:Piano Concerto No.2, Op.8
+T:Piano Concerto No. 2, Op. 8 - Mov. 1
+T:S. Rachmaninoff
+T:Arranjo de Gabriel C. Lanzi
+C:S. Rachmaninoff
+Z:Arranjo de Gabriel C. Lanzi
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+Q:1/4=72
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:1
+!pp! !tenuto![FAc]8 |"_cresc." !tenuto![_DFAc]8 | !tenuto![=DFAc]8 | !tenuto![EFAc]8 | %4
+ !tenuto![EF=Ac]8 | !tenuto![EF_Ac]8 | !>![DFAc]8 | !>![_DFAc]8 |[Q:1/4=122]!f! !>![CEGc]8 | z8 | %10
+ (!tenuto!!3!c6 d2) | (!tenuto!c6 d2) | (!tenuto!c6 B2) | (A2 B2) G4 | (c2 d2) (e2 d2) | (e6 d2) | %16
+ (c4 B4 |!>(! B2 A2 G) z!>)! z2 |!f! (!tenuto!c6 d2) | (!tenuto!c6 d2) | (!tenuto!c6 B2) | %21
+ (A2 B2) G4 | c4 A4- | A4 G4 |"_dim." (F2 E2) D4 | (C6 D2) |!mf! z2 (G2 [CA]4- | %27
+ [CA]2 F2) (G2 A2) |"_cresc." (B6 A2) | (G2 A2) (B4- | B2 =B2) ([Ac]4- | [Ac]2 A2) (B2 c2) | %32
+ (d6 c2) |!f! =B2 (c2 d2) e2 | f6 e2 | [=Bd]4 (e2 f2) | [eg]8- | [eg]4 (f2 g2) | %38
+ ([fa]2 f2) (g2 a2) | (b2!<(! a2) [_fb]4 | [gc']8!<)! | ([ad']6 c'2) | b2- b2 (a2 b2) | %43
+ ([gc']6 b2) | ([fa]6 g2) | (f2 g2) (a2 b2) | (g6 _g2) | (_g2 f2) (g2 a2) | f2- f6 | (g6 f2) | %50
+ (f2 =e2)"_dim." (_e4- | e2 d2) (_d2 =B2) |!mp!!>(! (c6 B2) | (=B6 c2)!>)! |!p! c8 | %55
+!mp! C2 !>![CEGc]2 !>![DFGd]2 !>![CEGc]2 |] %56
+V:2
+ [F,A,C]8 | [_D,A,C]8 | [=D,F,A,C]8 | [E,F,A,C]8 | [E,F,=A,]8 | [E,F,_A,C]8 | !>![D,F,A,C]8 | %7
+ !>![_D,F,A,C]8 | C,E,G,C E,G,CE | C,E,G,C G,,=B,,D,G, | C,E,G,C G,,=B,,D,F, | %11
+ C,E,G,C G,,=B,,D,G, | C,E,G,C D,F,A,C | F,,A,,C,F, G,,=B,,D,G, | C,E,G,C D,F,A,C | %15
+ E,,G,,B,,E, G,,=B,,D,G, | A,,C,E,A, C,=E,G,B, | F,,A,,C,F, A,,C,E,A, | C,E,G,C G,,=B,,D,G, | %19
+ C,E,G,C G,,=B,,D,G, | C,E,G,C B,,D,F,B, | D,F,A,C A,,C,F,A, | C,E,G,C D,_F,A,_C | %23
+ A,,C,F,A, C,=E,G,B, | _D,F,A,C G,,=B,,=D,F, | C,E,G,C (3ECG, (3^F,CD | [D,G,=B,]2 [A,C]2 F,CG,C, | %27
+ F,,B,,D,F, C,E,G,C | B,,D,F,A, CB,F,C, | C,E,G,B, CB,G,B, | ^C,E,G,^C A,,=C,F,A, | %31
+ F,C,A,,F,, E,,G,,B,,E, | D,F,A,C D,G,C,G, | E,G,D,F, G,,=B,,D,F, | D,F,A,D D,F,A,D | %35
+ G,,=B,,D,G, E,,G,,B,,E, | ^C,E,G,B, C,E,G,B, | =C,=E,G,B, E,G,B,E | F,A,CF F,A,CF | %39
+ B,,_D,_F,A, E,G,B,_D | A,,C,E,A, A,,C,E,A, | D,^F,=A,C DCA,C | G,,B,,_D,=F, G,F,D,F, | %43
+ C,=E,G,B, CB,G,B, | _D,F,A,C A,F,A,C | E,,G,,=B,,D, A,,D,F,A, | =E,,G,,=B,,D, _E,,_G,,_B,,_D, | %47
+ _D,,F,,A,,D, C,E,_G,C | _D,F,A,C =B,,D,F,A, | G,,=B,,D,F, _B,,D,F,B, | G,,C,G,D, C,E,G,B, | %51
+ [=A,EF]2 D,2 _D,2 [=D,F,=B,]2 | [CE]2 [^F,A,]2 [A,,C,]2 [B,,B,]2 | %53
+ [=B,,G,=B,]2 [G,B,]2 [C,F,]2 [C,C]2 | [E,B,C]8 | z2 !>![C,E,G,C]2 !>![D,F,G,D]2 !>![C,E,G,C]2 |] %56
+V:3
+ z4 !tenuto!F,,,4 | z4 !tenuto!F,,,4 | z4 !tenuto!F,,,4 | z4 !tenuto!F,,,4 | z4 !tenuto!F,,,4 | %5
+ z4 !tenuto!F,,,4 | z4 !>!F,,,4 | z2 !>![A,,,A,,]2 !>![F,,,F,,]2 !>![G,,,G,,]2 | x8 | x8 | x8 | %11
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %30
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %49
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %56
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | z2 !>!A,2 !>!F,2 !>!G,2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %15
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | D8- | D8 | x8 | x8 | x8 | x8 | %34
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %53
+ x8 | z2 E2 C2 G2 | x8 |] %56
+

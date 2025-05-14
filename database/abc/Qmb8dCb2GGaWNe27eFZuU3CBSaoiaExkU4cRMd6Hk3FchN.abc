@@ -1,0 +1,30 @@
+X:1
+T:Cadenza
+T:Cadenza
+T:Haydn Cello Concerto in D major, Opus 101, 1st movement
+T:Carter Brey
+T:by Mutopia-2013/01/22-231 - public domain
+C:Carter Brey
+Z:by Mutopia-2013/01/22-231 - public domain
+%%score ( 1 2 )
+L:1/8
+Q:1/4=58
+M:4/4
+K:D
+V:1 bass nm="Violoncello" snm="Vc."
+V:2 bass 
+V:1
+ z2!ff! !fermata!A,,/(D,/4F,/4) A,/4D,/4F,/4A,/4 D/4F,/4A,/4D/4 F/4A,/4D/4F/4[K:treble] A/4D/4F/4A/4 d/4F/4A/4d/4 | %1
+ [Df]2 ([Df]/[Eg]/)([Eg]/[Fa]/) [Fa]>[df] [fa]2 | %2
+[K:bass]!mp! ([F,A,]>[D,F,]) ([=C,A,][_B,,G,]) =F,>D, F,/D,/F,/D,/ | %3
+!p! F,>G, A,^A, ([G,,D,B,]/[B,D]/)[B,D]/(G,,/ B,,/D,/)([=A,C]/[G,B,]/) | %4
+ ([G,B,]/[F,A,]/G,/[B,,F,]/) E,A, G,2 F,2 | %5
+ (!tenuto![E,,B,,G,]/4F,/4G,/4F,/4 G,/4F,/4E,/4D,/4) (!tenuto![A,,C,]/4D,/4C,/4D,/4 C,/4E,/4F,/4G,/4) (!tenuto![F,,D,A,]/4^G,/4A,/4G,/4 A,/4=G,/4F,/4E,/4)!>(! (!tenuto![B,,^D,]/4E,/4F,/4G,/4"_esitando" A,/4B,/4C/4)^D/4!>)! | %6
+[K:treble]"^accel"!<(! (!1!E/4F/4E/4F/4 G/4A/4G/4A/4) (!1!B/4c/4^d/4!1!e/4 f/4!1!g/4a/4!3!^a/4) (!3!b/4!<)!^g/4=f/4g/4 f/4=d/4B/4^G/4) (=F/4D/4B,/4^G,/4[K:bass] =F,/4D,/4B,,/4^G,,/4) | %7
+!ff! (!tenuto![A,,D,]/4F,/4E,/4G,/4 F,/4A,/4G,/4B,/4[K:tenor] A,/4D/4C/4E/4 D/4F/4E/4G/4) (F/4A/4G/4B/4 A/4d/4c/4e/4[K:treble] d/4f/4e/4g/4 f/4a/4g/4b/4) | %8
+ a>f a(3(d/e/f/) Te3 d | d2 z2 z4 |] %10
+V:2
+ x6[K:treble] x2 | x8 |[K:bass] x4 z/ A,,/_B,,/=B,,/ =C,/ z/ ^C,/ z/ | %3
+ z/ D,/C,/B,,/ F,/D,/F,/D,/ x4 | x2 G,,A,, B,,C, ^D,2 | x8 |[K:treble] x7[K:bass] x | %7
+ x2[K:tenor] x4[K:treble] x2 | x4 G2 A2 |{/D} D2 x6 |] %10
+

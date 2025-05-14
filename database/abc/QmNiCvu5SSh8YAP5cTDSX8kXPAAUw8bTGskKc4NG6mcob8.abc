@@ -1,0 +1,36 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=100
+M:4/4
+K:F
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 bass nm="Choir Pad, Bass"
+V:4 bass 
+V:1
+ C>C [CF]2 [CF]>[CF] [CF][CE] | z2 A4 z2 | [FA][FB][Fc][Fc] [Fc][Ac][GB][GB] | [FA]>[FA] [EG]4 z2 | %4
+w: By~Ira~David~Sankey * * * * * *||||
+ C>C [CF]2 [CF]>[CF] [CF][CE] | z2 A4 z2 | F[FG] [FA]2 [FB]>[FB] [FA]<[FA] | [EG]2 F6 | %8
+w: ||||
+ [Fc]>[Fc] [Fc]4 [FA]2 | [Fc]>[Fc] [Fd]4 [DG]2 | [DG][^FA][GB][GB] [GB][=FB] [EB]<[Ed] | %11
+w: |||
+ [Fc]>[GB] [FA]6 | C>C [CF]2 [CF]>[CF] [CF][CE] | z2 A4 z2 | F[FG] [FA]2 [FB]>[FB] [FA]<[FA] | %15
+w: ||||
+ [EG]2 F6- | F2 z2 z4 |] %17
+w: ||
+V:2
+ x8 | [CF][EG] F2- F-[FB] [FA]2 | x8 | x8 | x8 | [CF][EG] F2- F-[FB] [Fc]2 | x8 | x8 | x8 | x8 | %10
+ x8 | x8 | x8 | [CF][EG] F2- F-[FB] [Fc]2 | x8 | x8 | x8 |] %17
+V:3
+ A,>A, A,2 A,>A, A,G, | CC C2- CD C2 | F,G,A,A, A,[K:treble]CCC | C>C C4 z2 | %4
+ A,>A, A,2 A,>A, A,[K:treble]C | CC C2- CB, A,2 | CD C2 D>C[K:bass] B,<C | B,2 A,6 | A,>A, A,4 C2 | %9
+ A,>A, B,4 B,2 | B,[K:treble]DDD CC C<[K:bass]B, | A,>C C6 | A,>A, A,2 A,>A, A,[K:treble]C | %13
+ CC C2- CB, A,2 | CD C2 D>C[K:bass] B,<C | B,2 A,6- | A,2 z2 z4 |] %17
+V:4
+ F,>F, F,2 F,>F, F,C, | A,,C, F,4 F,2 | z F,F,F, F,F,E,E, | F,>F, C,4 z2 | F,>F, F,2 F,>F, F,B, | %5
+ A,G, F,4 F,2 | A,,B,, C,2 C,>C, C,<C, | C,2 F,6 | F,>F, F,4 F,2 | F,>F, B,,4 B,,2 | %10
+ z A,G,F, E,D, C,<C, | C,>C, F,6 | F,>F, F,2 F,>F, F,B, | A,G, F,4 F,2 | A,,B,, C,2 C,>C, C,<C, | %15
+ C,2 F,6- | F,2 z2 z4 |] %17
+

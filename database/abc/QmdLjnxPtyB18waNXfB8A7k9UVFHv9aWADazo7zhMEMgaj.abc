@@ -1,0 +1,49 @@
+X:1
+T:Lacrimosa
+T:Lacrimosa
+%%score 1 2 3 4
+L:1/8
+M:12/8
+K:F
+V:1 treble nm="Flute" snm="Fl."
+V:2 treble nm="Oboe" snm="Ob."
+V:3 treble transpose=-2 nm="B♭ Clarinet" snm="B♭ Cl."
+V:4 bass nm="Bassoon" snm="Bsn."
+V:1
+!p! z[Q:3/8=60] (^cd) z (ab) z (dc) z (c'b) | z (ad') z (bg) z (ef) z (a^c) | %2
+ z (^cd) z (ab) z (dc) z (ba) | z (^cd) z (ab) z (dc) z (ba) | z (dA) z (eA) z (fd) z (gc) | %5
+ z (af) z (=be) z (c'"_cresc."a) z (d'g) | z (_ec) z (=ec) z (fc) z (^fA) | %7
+!f! z (g=B) z (^g_B) z (aA) z (aA) |!p! z (ec) z (BA) z (dA) z (fd) | %9
+ z (gB) z (de) z (aA) z (^cd) | z!f! (_e_E) z (ge) z (eF) z (dB) | z (dD) z (fe) z (eF) z (d_a) | %12
+ z (_a_A) z (gf) z (fG) z (eb) | z (bB) z (ag) z (gA) z (fd') |!p! z (F=B) z (Fc) z (Fd) z (Fd) | %15
+ z (Fd) z (Fc) z (F=B) z (FB) | z (G=B) z (Gc) z (Ed) z (cf) | z (df) z (d'=b) z (c'a) z (_bg) | %18
+ z (Ff) z (Ff) z (Ff) z (Ff) | z (Ff) z (fd') z (c'a) z (bg) |!f! z (ef) z (^c'd') z (d^c) z (ac) | %21
+ z (^cd) z (ab) z (dc) z (ba) | z (^cd) z (ab) z (dc) z (ba) | z (^cd) z (ba) z (cd) z (d'c') | %24
+ z (d_e) z (ba) z (f=e) z (ad') | z (ed) z (d'f) z (^ce) z (fd') | z (ea) z (d'f) z (ea) z (^c'e) | %27
+ z (^cd) z (g^f) z (ba) z (d'c') | z (bg) z (gd) z (dB) z (BG) | ^f12 |] %30
+V:2
+!p! F2 z A2 z G2 z ^c2 z | d2 z E2 z D2 z G2 z | (A3 (A)f)d d3 ^c z z | (A3 (A)f)d d3 ^c z z | %4
+ D z z E z z F z z G z z | A z z =B z z c z"_cresc." z d z z | _e3 =e3 f3 ^f3 | %7
+!f! g3 ^g3 a3 A z z | (A3 (A)f)d d3 ^c z z | (^c3 (c)d)e e3 d2 z |!f! (_e3 (e)g)e e3 d z z | %11
+ (d3 (d)f)e e3 d z z | (d'3 (d')g')f' f'3 e'2 z | (e3 e2) A A3 A3 |!p! =B3 c3 d3 d3 | %15
+ d3 c3 =B3 B3 | =B3 c3 d3 (c2 f) | (f3 (f)d)=B (c3 (c)_B)G | (f6 f3) ac'f' | %19
+ (f3 (f)d)=B (c3 (c)_B)G |!f! f2 z a3 g3 e3 | (A3 (A)f)d d3 ^c z z | (A3 (A)f)d d3 ^c z z | %23
+ z6 d'3 c'3 | b3 a3 g3 f3 | e3 d3 (^c3 d3) | e3 f3 e3 e3 | d3 ^f3 a3 d'3 | d'12 | d12 |] %30
+V:3
+[K:G]!p! E2 z G2 z F2 z A2 z | G2 z A2 z B2 z B2 z | (g3 (g)e)b a3 a z z | (g3 (g)e)b a3 a z z | %4
+ G z z ^d z z B z z f z z | d z z ^a z z f"_cresc." z z ^c' z z | a3 a3 d'3 b3 | %7
+!f! a3 e'3 e'3 ^d' z z | (f3 (f)e)^d (g3 (g)e)g | (a3 a2) ^d b3 g2 z |!f! (c'3 (c')c)a g3 g z z | %11
+ (g3 (g)e)B (e3 (g)c')_b | (g3 (g)e)^c (a3 (a)d')c' | (c'3 (c')b)f a3 g2 z |!p! g3 g3 g3 g3 | %15
+ g3 g3 g3 g3 | a3 f3 f3 g3 | (e'3 _b2) b (g3 f2) f | B3 =f3 e3 f3 | e3 _B3 =B3 c3 | %20
+!f! B2 z B3 c3 ^d3 | (g3 (g)e)b a3 a z z | (g3 (g)e)b a3 a z z | z6 e3 ^g3 | =f3 f3 ^f3 B3 | %25
+ c3 G3 (F3 G3) | (^d3 e6) d3 | B2 z d2 z d2 z B2 z | c12 | B12 |] %30
+V:4
+ z12 | z12 |!p! (D,3 D,2) D, E,3 A, z z | (D,3 D,2) D, E,3 A, z z | D, z z A, z z D, z z C, z z | %5
+ F, z z E, z z A,"_cresc." z z G, z z | C,3 B,,3 A,3 C3 |!f! =B,,3 _B,,3 A,,3 A,, z z | %8
+ ^C,3 A,3 D,3 A,3 | E,3 A,3 F,3 A,3 |!f! G,,3 G,,3 _A,,3 A,,3 | A,,3 A,,3 B,,3 B,,3 | %12
+ =B,,3 B,,3 C,3 C,3 | ^C,3 C,3 D,3 D,3 | D,3 C,3 =B,,3 B,,3 | =B,,3 C,3 _D,3 D,3 | %16
+ D,3 C,3 B,,3 A,,3 | B,,3 D,3 C,3 C,2 C, | F,,3 A,,3 B,,3 C,3 | B,,3 D,3 C,3 C,3 | %20
+!f! F,,2 z F,,3 E,,3 A,,3 | (D,3 D,2) D, E,3 A, z z | (D,3 D,2) D, E,3 A, z z | D,3 C,3 B,,3 A,,3 | %24
+ G,3 C,3 ^C,3 D,3 | (G,,3 ^G,,3) (A,,6 | (A,,6) A,,3) A,,3 | D,2 z D,2 z D,2 z D,2 z | B,,12 | %29
+ D,12 |] %30
+

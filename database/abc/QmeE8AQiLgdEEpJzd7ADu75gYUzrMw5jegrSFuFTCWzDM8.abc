@@ -1,0 +1,40 @@
+X:1
+T:大脱走マーチ
+T:リコーダー４重奏
+%%score 1 2 3 4
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Alto Recorder" snm="A. Rec."
+V:2 treble nm="Alto Recorder" snm="A. Rec."
+V:3 treble nm="Tenor Recorder" snm="T. Rec."
+V:4 bass+8 nm="Bass Recorder" snm="B. Rec."
+V:1
+ =A4 =e2 de | =a2 =b6 | c'_d' z2 z4 | z8 | B4 f2 ef | b2 c'6 | d'=e' z e' z3 e' | z3 =e' z2 d'_e' | %8
+ z8 | z8 |: .b.e' z3 .b g'>f' | .e'.c' z6 | .f' f'2 e' d'>e' .d'.c' | .b.g z3 .g.a.=a | %14
+ .b.e' z3 .b g'>f' | .e'.c' z6 | .f' f'2 .e' .d' b2 .f' | e'6 z2 :| .B B2 .c B2 e>f | %19
+ .g g2 .f .g.f e2 | .c c2 .B c2 e>f | .g g2 .f .g.f e2 | .B B2 .c B2 e>f | .g g2 .f .g.f e2 | %24
+ .c f2 .e .d B2 .f | e6 z2 | G2 c>=e g2 z g | _g>=e dg e2 c2 | G2 c>=e =a e2 e | _g z g z3 g z | %30
+ z2 _g z3 =ef | z8 | z8 |: .c.f z3 .c =a>g | .f.d z6 | .g g2 f =e>f .e.d | .c.=A z3 AB=B | %37
+ .c.f z3 .c =a>g | .f.d z6 | .g g2 f =e c2 g |1 f6 z2 :|2 f z f z3 f z || z2 f z2 d =e2 | %43
+ =A4 =e2 de | =a2 =b6 | c'_d' z3 d' z2 | z _d'2 d'2 d'2 z |] %47
+V:2
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |!mf! z8 |: .g.b z3 .g e'>d' | .c'.a z6 | %12
+ .d' d'2 c' b>c' .b.a | .g.e z3 .e.=e.f | .g.b z3 .g e'>d' | .c'.a z6 | .d' d'2 .c' .b g2 .a | %17
+ g6 z2 :| B8 | b4 .c'.bge | c8 | b4 .c'.bge | B8 | b4 .c'.bga | b4 a4 | g6 z2 | z8 | z8 | z8 | z8 | %30
+ z8 | z8 | z8 |: c'8 | d'8 | =e'8 | f'4 =e'2 d'2 | c'8 | d'8 | =e'8 |1 f'8 :|2 f' z f' z3 f' z || %42
+ z2 f' z2 d' =e'2 | z8 | z8 | z8 | z8 |] %47
+V:3
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |:!p! B8 | c8 | d8 | e4 d2 c2 | B8 | c8 | B4 A4 | %17
+ G6 z2 :| z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |: %33
+ .=A.d z3 .A f>=e | .d.B z6 | .=e e2 d c>d .c.B | .A.F z3 FGA | .=A.d z3 .A f>=e | .d.B z6 | %39
+ .=e e2 d c =A2 B |1 =A6 z2 :|2 z8 || z8 | z8 | z8 | z8 | z8 |] %47
+V:4
+ =A,,8- | A,,8 | A,,_D, z2 z4 | z8 | B,,8- | B,,8 | =A,,=E, z E, z3 E, | z3 =E, z2 D,_E, | %8
+ E, z B,, z E, z _G,>F, |!p! E, z B,, z E, z _G,>F, |: .E,2 .B,,2 .E,2 .G,2 | .A,2 .G,2 .F,2 .A,2 | %12
+ .B,2 .C2 .D2 .B,2 | .E,2 .B,,2 .C,2 .D,2 | .E,2 .B,,2 .E,2 .G,2 | .A,2 .G,2 .F,2 .A,2 | %16
+ .B,2 .A,2 .A,2 .F,2 | .E,2 .B,,2 .E,2 z2 :| B,,8 | E,8 | C,8 | F,8 | B,,8 | C,8 | B,,4 A,,4 | %25
+ G,,6 z2 | G,8 | _G,4 =E,4 | =E,8 | _G, z G, z3 G, z | z2 _G, z3 C,F, | F, z C, z F, z A,>G, | %32
+ F, z C, z F, z A,>G, |: =A,,8 | B,,8 | C,8 | D,4 C,2 B,,2 | =A,,8 | B,,8 | C,4 B,,4 |1 %40
+ =A,,6 z2 :|2 =A,,8 || =A,,8 | =A,,8 | =A,,8 | A,,_D, z3 D, z2 | z _D,2 D,2 D,2 z |] %47
+

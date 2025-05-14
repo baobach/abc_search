@@ -1,0 +1,92 @@
+X:1
+T:Una furtiva lagrima
+T:from
+T:L'Elisir d'Amore
+T:Gaetano Donizetti (1797 - 1848)
+T:Una furtiva lagrima from L'Elisir d'Amore
+C:Gaetano Donizetti
+C:(1797 - 1848)
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Vocals" snm="Vox."
+V:2 treble nm="Keyboard" snm="Kbd."
+V:4 treble 
+V:3 bass 
+V:1
+ z8 ||[M:6/8][Q:1/4=60]"^Instrument change"[Q:1/4=60] z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %10
+w: ||||||||||
+"^dolce" (f_B)B B2 B | (_B/>=A/) c2- c z z | _gc.c({c_d} _ed).c | _B2 z z3 | f=ef !>!_a2 _g | %15
+w: U- na fur- ti- va|la- gri- ma _|ne- gli\_oc- chi * * spun-|tó.|Quel- le fe- sto- se|
+ =e7/4f/4f z !>!f2 | (_ef)e (_dc)_B | F2 z z3 |!p! fcc (_d{_ed}c)_B | c2 z z3 | f_g_e (_dc)_B | %21
+w: gio- va- ni in|vi- * di- ar _ sem-|bró.|Che piú cer- can- * do\_io|vo'?|Che piú cer- can- * do\_io|
+!<(! f6!<)! |!f! f3 _d z f | (_a_gf) (_ef)g | _d2 _A/>A/ (!>!f2{/f} _e) | !>!_d2 z z3 | z6 | %27
+w: vo'?|M'a- ma, si,|m'a- * * ma _ lo|ve- do, lo ve- *|do!||
+!p! f_BB B2 B | _B/>=A/ c2- c z z | _gcc({c_d} _ed)c | _B2 z z3 | f=ef !>!_a2 _g | %32
+w: Un so- lo\_i- stan- te\_i|pal- pi- ti _|del suo bel * * sen-|tir.|I miei so- spir con-|
+ !>!=e2- e/f/ f2!pp! f | f_e>e (e_d)d | c2 z z2 z/ f/ | !>!f>cc/c/ !>!_e>_dc/_B/ | c2 z z2 f | %37
+w: fon- * de- re per|poc- co a' suoi _ so-|spir. I|pal- pi- ti, i pal- pi- ti sen-|tir, con-|
+ !>!f>cc/c/ !>!_e>_dc/_B/ |!f!!<(! f6!<)! ||[K:Bb] !>!gfd (fe)c | B3!p! (=B/c/)(d/e/)(f/g/) | %41
+w: fon- de- re i miei co' suoi so-|spir!|Cie- lo, si puó _ mo-|rir; di _ piú _ non _|
+ gB.B (cdc) | B z z !>!f3 | gf.d f/e/(g/f/)(e/c/) | B3 c(d/e/)(f/g/) | %45
+w: chie- do, non chie- * *|do. Ah!|cie- lo, si puó, si puó _ mo- *|rir; di piú _ non _|
+ gBB !fermata!A2{!fermata!A!fermata!G!fermata!F!fermata!G!fermata!A!fermata!B!fermata!c!fermata!B!fermata!A!fermata!B!fermata!c!fermata!d!fermata!e!fermata!d!fermata!c!fermata!d!fermata!e!fermata!f} x | %46
+w: chie- do, non chie|
+{!fermata!a!fermata!g!fermata!e!fermata!c} !fermata!A2 z!f! Ace | !fermata!g2 z!p! Ace | %48
+w: _ Si puó mo-|rir; si puó mo-|
+ !fermata!_g3 !fermata!f3 | B z z z3 | z2 z z3 | z6 | z6 |] %53
+w: rir d'a-|mor.||||
+V:2
+ z8 ||[M:6/8]!p!"^Instrument change" z6 | (F_B,)B, B,2 B, | (_B,/>=A,/) C2- C z z | (_GC)C C2 C | %5
+ (C/>_B,/) _D2- D z z |"^cresc." F{_GF}=EF !>!_A2 G |"^calando" (F3 _E){FE}_DC | %8
+ ._B,(_G/F/)(=E/F/) .=A,(G/F/)(E/F/) | _B, z z z3 | z6 | z3 (_B/>=A/c) z | z6 | z3 (c/>_B/_d) z | %14
+ .[_D_B]2 z .[_Ec]2 z | .[F_d]2 z .[Fd]2 z | [C_Gc]2 z [_D=G_B]2 z | %17
+ ([F=A]C).C ([_D_B]/_E/4D/4C)._B, | ([=A,=A]3 [_B,_B]) z z | (fc)c _d/(_e/4d/4c_B) | %20
+ .=A2 z .[_D_B]2 z | [C=A]2 z z3 | .[F_A]2 z [FA]2 z | .[_G_B]2 z [GB]2 z | .[F_A]2 z [_Ec]2 z | %25
+ [F_d]2 z({c'_d'} [_e_e'][dd'][cc']) | [_B_b] z z z3 | z6 | z3 ([_B_b]/>[=A=a]/[cc']) z | z6 | %30
+ z3 ([cc']/>[_B_b]/[_d_d']) z | .[_D_B]2 z .[_Ec]2 z | [F_d]2 z [Fd]2 z | [C_Gc]2 z [_D=G_B]2 z | %34
+ ([F=A]C)C ([_D_B]/_E/4D/4C)_B, | ([=A,=A]3 [_B,_B]) z z | (fc)c _d/(_e/4d/4c_B) | %37
+ .=A2 z .[_D_B]2 z | .[C=A]([FA][=G_B] [Ac][B=d][c_e]) ||[K:Bb] ([eg][df])[Bd] ([df][ce])[Ac] | %40
+ B.[DGB].[DGB] .[EGc]2 z | z .[DFB].[DFB] z .[CFA].[CFA] | %42
+ (!>![ge'][fd'])[db] (!>![fd'][ec'])[ca] | (!>![eg][df]).[Bd] (!>![df][ce]).[Ac] | %44
+ z .[GB].[GB] z .[EGc].[EGc] | .[DFB]2 z [CFA]2 !fermata!z | z6 | z6 | z6 | %49
+ z (g/f/)(=e/f/) .c(g/f/)(e/f/) | .B(_G/F/)(=E/F/) .A,(G/F/)(E/F/) | B, z z .[DFB].[DFB].[DFB] | %52
+ .[DFB]2 z z3 |] %53
+V:3
+"^Una Furtiva Lagrima""^GAETANO DONIZETTI" z8 || %1
+[M:6/8] ._B,,,/F,,/_B,,/_D,/B,,/F,,/ .B,,,/F,,/B,,/D,/B,,/F,,/ | %2
+ ._B,,,/F,,/_B,,/_D,/B,,/F,,/ .B,,,/F,,/B,,/D,/B,,/F,,/ | %3
+ .C,,/F,,/=A,,/_E,/A,,/F,,/ .C,,/F,,/A,,/E,/A,,/F,,/ | %4
+ .=A,,,/_G,,/C,/_E,/C,/G,,/ .A,,,/G,,/C,/E,/C,/G,,/ | %5
+ ._B,,,/F,,/_B,,/_D,/B,,/F,,/ .B,,,/F,,/B,,/D,/B,,/F,,/ | %6
+ ._B,,,/F,,/_B,,/_D,/B,,/F,,/ .B,,,/_A,,/_E,/_G,/E,/A,,/ | %7
+ ._B,,,/_A,,/_D,/F,/D,/A,,/ ._E,,/_G,,/C,/_E,/C,/G,,/ | [F,,_B,,_D,] z z [F,,C,] z z | %9
+ ._B,,/F,/_B,/_D/B,/F,/ .B,,/F,/B,/D/B,/F,/ | ._B,,/F,/_B,/_D/B,/F,/ .B,,/F,/B,/D/B,/F,/ | %11
+ .C,/F,/=A,/_E/A,/F,/ .C,/F,/A,/E/A,/F,/ | .=A,,/_G,/C/_E/C/G,/ .A,,/G,/C/E/C/G,/ | %13
+ ._B,,/F,/_B,/_D/B,/F,/ .B,,/F,/B,/D/B,/F,/ | ._B,,/F,/_B,/_D/B,/F,/ .B,,/F,/B,/D/B,/F,/ | %15
+ ._D,/F,/_A,/_D/A,/F,/ .D,/F,/A,/D/A,/F,/ | [_E,,_E,]2 z [=E,,=E,]2 z | %17
+ .F,,/=A,,/C,/F,/C,/A,,/ .F,,/_B,,/_D,/F,/D,/B,,/ | %18
+ .F,,/=A,,/C,/F,/C,/A,,/ .F,,/_B,,/_D,/F,/D,/B,,/ | .F,,/C,/F,/=A,/F,/C,/ .F,,/_D,/F,/_B,/F,/D,/ | %20
+ .F,,/C,/F,/=A,/F,/C,/ .F,,/_D,/F,/_B,/F,/D,/ | .F,,/=A,,/C,/F,/C,/A,,/ .F,,/A,,/C,/F,/=A,/C/ | %22
+ !>!_D,,/_A,,/_D,/F,/D,/A,,/ .D,,/A,,/D,/F,/D,/A,,/ | %23
+ ._G,,/_B,,/_E,/_G,/E,/B,,/ .G,,/B,,/E,/G,/E,/B,,/ | %24
+ ._A,,/_D,/F,/_A,/F,/D,/ .A,,/C,/_E,/_G,/E,/C,/ | %25
+ ._D,,/_A,,/_D,/F,/D,/A,,/ .F,,/=A,,/C,/F,/C,/A,,/ | ._B,,/F,/_B,/_D/B,/F,/ .B,,/F,/B,/D/B,/F,/ | %27
+ ._B,,/F,/_B,/_D/B,/F,/ .B,,/F,/B,/D/B,/F,/ | .C,/F,/=A,/_E/A,/F,/ .C,/F,/A,/E/A,/F,/ | %29
+ .=A,,/_G,/C/_E/C/"^smorz."G,/ .A,,/G,/C/E/C/G,/ | ._B,,/F,/_B,/_D/B,/F,/ .B,,/F,/B,/D/B,/F,/ | %31
+ ._B,,/F,/_B,/_D/B,/F,/ ._A,,/_G,/C/_E/C/G,/ | ._D,/F,/_A,/_D/A,/F,/ .D,/F,/A,/D/A,/F,/ | %33
+ [_E,,_E,]2 z [=E,,=E,]2 z | .F,,/=A,,/C,/F,/C,/A,,/ .F,,/_B,,/_D,/F,/D,/B,,/ | %35
+ .F,,/=A,,/C,/F,/C,/A,,/ .F,,/_B,,/_D,/F,/D,/B,,/ | .F,,/C,/F,/=A,/F,/C,/ .F,,/_D,/F,/_B,/F,/D,/ | %37
+ .F,,/C,/F,/=A,/F,/C,/ .F,,/_D,/F,/_B,/F,/D,/ | .F,,/F,/=A,/C/F,/C/ F,/F/F,/F/F,/F/ || %39
+[K:Bb] .B,,/F,/[B,D]/F,/[B,D]/F,/ .F,,/F,/[CE]/F,/[CE]/F,/ | G,,/B,,/D,/G,/D,/B,,/ [E,,E,] z z | %41
+ .F,,/D,/F,/B,/F,/D,/ .F,,/E,/F,/A,/F,/E,/ | .B,,/F,/[B,D]/F,/[B,D]/F,/ .F,,/F,/[CE]/F,/[CE]/F,/ | %43
+ .B,,/F,/[B,D]/F,/[B,D]/F,/ .F,,/F,/[CE]/F,/[CE]/F,/ | G,,/B,,/D,/G,/D,/B,,/ [E,,E,] z z | %45
+ [F,,F,]2 z [F,,F,]2 !fermata!z | z6 | z6 | z6 | .[B,D]2 z .[F,A,E]2 z | .[B,D]2 z .[F,,C,E,]2 z | %51
+ [B,,D,] z z .B,,.F,,.D,, | .B,,,2 z z3 |] %53
+V:4
+ x8 ||[M:6/8] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %18
+ x6 | =A3 _B x x | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %36
+ =A3 _B x x | x6 | x6 ||[K:Bb] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %52
+ x6 |] %53
+

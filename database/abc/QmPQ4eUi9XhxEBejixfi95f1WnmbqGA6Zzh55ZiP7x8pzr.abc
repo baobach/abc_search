@@ -1,0 +1,47 @@
+X:1
+T:Petite pièce
+T:Petite pièce
+T:Zacharias A. Johnson
+C:Zacharias A. Johnson
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=92
+M:4/4
+K:Eb
+V:1 treble nm="Flûte" snm="Fl."
+V:2 treble nm="Piano" snm="Pia."
+V:3 bass 
+V:1
+"^Andante" z4 z4 | c4 G4 | B6 A2 |[K:Eb] G4 C4 | D8 | F4 A4 | G6 =A2 | =B2 c2 d2 B2 | G8 | e4 c4 | %10
+ d6 B2 | G2 A2 B2 c2 | F8 | A4 F4 | G6 =A2 | =B2 c2 G4 | e4 g4 | f6 e2 | d2 _c2 G2 e2 | c4 _c4 | %20
+ c4 A4 | G6 E2 | D2 F2 E2 D2 | C2 z2 z4 | z8 | z8 | z8 | z8 |] %28
+V:2
+ (3c'ge (3ceg (3c'ge (3ceg | (3c'ge (3ceg (3c'ge (3ceg | (3bfd (3Bdf (3bfd (3cAe | %3
+[K:Eb] (3gec (3Gce (3gec (3Gce | (3fd=B (3GBd (3fag (3c'=be' | (3c'af (3ac'f' (3c'af (3ac'f' | %6
+ (3g'e'c' (3gc'e' (3f'd'=b (3e'c'=a | (3=Bdf (3ceg (3dfa (3egc' | (3dg=b (3afe (3d=BG (3dfe | %9
+ (3c'ge (3ceg (3c'ge (3ceg | (3afd (3fad' (3gec (3egb | (3g=bd' (3ac'e' (3_bd'f' (3c'e'g' | %12
+ (3f'd'=b (3gbd' (3bgf (3dfg | (3afc (3fac' (3fcA (3cfa | (3gd=B (3GBd (3Bdg (3=aga | %15
+ (3=bgd (3cdf (3gd=B (3GBd | (3edc (3GEG (3cBA (3GEF | (3FAc (3fcA (3cAF (3GEC | %18
+ (3DFA (3EG=B (3GBd (3Ace | (3cGE (3Gce (3=BFD (3FBd | (3cGE (3Gce (3AFC (3FAc | %21
+ (3G=Bd (3g=bd (3BdG (3EGc | (3dBG (3fcA (3ecG (3d=BG | (3ceg (3c'e'g' c''2 (3Bdf | %24
+ (3bd'f' b'2 (3Ace (3ac'e' | a'2 (3G=Bd (3gdB (3dBG | (3=BGD (3GD=B, (3ceg (3c'e'g' | c''4 z4 |] %28
+V:3
+ !arpeggio![C,E,G,C]8 | !arpeggio![C,E,G,C]4 !arpeggio![G,,C,E,G,]4 | %2
+ !arpeggio![B,,D,F,B,]6 !arpeggio![A,,C,E,A,]2 | %3
+[K:Eb] !arpeggio![G,,C,E,G,]4 !arpeggio![C,E,G,C]4 | !arpeggio![D,F,=B,D]8 | %5
+ !arpeggio![F,,A,,C,F,]4 !arpeggio![A,,C,F,A,]4 | !arpeggio![G,,C,E,G,]6 !arpeggio![=A,,C,E,=A,]2 | %7
+ !arpeggio![=B,,D,F,=B,]2 !arpeggio![C,E,G,C]2 !arpeggio![D,F,A,D]2 !arpeggio![E,G,CE]2 | %8
+ !arpeggio![D,G,=B,D]8 | !arpeggio![C,E,G,C]4 !arpeggio![G,,C,E,G,]4 | %10
+ !arpeggio![D,F,A,D]6 !arpeggio![B,,E,G,B,]2 | %11
+ !arpeggio![G,,=B,,D,G,]2 !arpeggio![A,,C,E,A,]2 !arpeggio![_B,,D,F,B,]2 !arpeggio![C,E,G,C]2 | %12
+ !arpeggio![G,,=B,,D,F,]8 | !arpeggio![A,,C,F,A,]4 !arpeggio![F,,A,,C,F,]4 | %14
+ !arpeggio![G,,=B,,D,G,]6 !arpeggio![=A,,C,F,=A,]2 | %15
+ !arpeggio![=B,,D,G,=B,]2 !arpeggio![C,D,F,A,]2 !arpeggio![G,,B,,D,G,]4 | %16
+ !arpeggio![E,,G,,C,E,]4 !arpeggio![G,,B,,D,G,]4 | !arpeggio![A,,C,F,A,]6 !arpeggio![C,E,G,C]2 | %18
+ !arpeggio![=B,,D,F,=B,]6 !arpeggio![E,A,CE]2 | !arpeggio![C,E,G,C]4 !arpeggio![=B,,D,F,=B,]4 | %20
+ !arpeggio![C,E,G,C]4 !arpeggio![A,,C,F,A,]4 | !arpeggio![G,,=B,,D,G,]6 !arpeggio![C,E,G,C]2 | %22
+ !arpeggio![G,B,DG]2 !arpeggio![F,A,CF]2 !arpeggio![E,G,CE]2 !arpeggio![D,G,=B,D]2 | %23
+ !arpeggio![C,E,G,C]6 !arpeggio![B,,D,F,B,]2- | [B,,D,F,B,]4 !arpeggio![A,,C,E,A,]4- | %25
+ [A,,C,E,A,]2 (3G,=B,D (3GDB, (3DB,G, | (3=B,G,D, (3G,D,=B,, !arpeggio![C,E,G,C]4- | %27
+ [C,E,G,C]4 z4 |] %28
+

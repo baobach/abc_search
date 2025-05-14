@@ -1,0 +1,67 @@
+X:1
+T:Ambitious Section
+T:Toccata in D
+T:J. S. Bach
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=72
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 treble 
+V:1
+ (a/4g/4!fermata!a3/2) z/ (g/4f/4e/4d/4^c/) d z !fermata!z2 | %1
+ (A/4G/4!fermata!A3/2) z/ E/F/^C/ D z !fermata!z2 | %2
+[K:bass] A,/4G,/4!fermata!A,3/2 z/ G,/4F,/4E,/4D,/4^C,/ D, z !fermata!z2 | %3
+ z4 (3^C,E,G,- (3[G,B,]-[G,B,^C]-[G,B,CE]- | [G,-B,CE]4 !fermata![A,D]4 | %5
+[K:treble] z4 z2 z[Q:1/4=120] ^C | (3DE^C (3DEC (3DEC DE | (3FGE (3FGE (3FGE FG | %8
+ (3ABG (3ABG (3ABG A2 | z4 z2 z ^c | (3de^c (3dec (3dec de | (3fge (3fge (3fge fg | %12
+ (3abg (3abg (3abg a2 | z4 z2 z a | (3gbe (3gbe (3fad (3fad | (3egc (3egc (3dfB (3dfB | %16
+ (3ceA (3ceA (3BdG (3BdG | (3AcF (3AcF (3GBE (3GBE | (3FAD (3FAD (3EG^C (3EGC | %19
+[K:bass] z ^C,E,G,[K:treble] B,^C-[CE]-[CEG]- | [CEGB-]4 B/A/G/F/ z2 | %21
+ z2 EG- (3G/F/G/F/G/ F z/ E/ | !fermata![A,DF]4 z2 z A | .d.e.f.d .e.f.g.e | .f.g.a.f .g.a.b.g | %25
+ .a.f.g.e .f.d.e.^c | .d.A.B.G .A.F.G.E | .F.D.G.E .F.D.E.^C |[K:bass] .D.A,.B,.G, .A,.F,.G,.E, | %29
+ .F,.D,.G,.E, .F,.D,.E,.^C, | D,2 z/[K:treble] F/B/F/ z/ E/A/E/ z/ D/G/D/ | %31
+ z/ ^C/E/A/ D[FB] A,[EA]B,[DG] | [A,^CEA]2 z/ F/B/F/ z/ E/A/E/ z/ D/G/D/ | %33
+ z/ ^C/E/A/ D[FB] A,[EA]B,[DG] | [A,^CEA-]4 A/G/F/E/ D/C/=B,/C/ | %35
+ A,/=B,/^C/D/ E/F/G/A/ G/F/E/F/ D/F/A/^c/ | d/A/=B/^c/ d/e/f/4g/4a/ !fermata!b2 d[fb] | %37
+ A[ea]B[dg] [A^cea]2 z/ f/b/f/ | z/ e/a/e/ z/ d/g/d/ z/ ^c/e/a/ d[fb] | %39
+ A[ea]B[dg] [A^cea]2 !fermata![F=Bd]2 | !fermata![EA^c]3 =B Ac e/g/!fermata!b | %41
+ a/g/f/e/ f/e/d/^c/ d/=c/B/A/ G/F/E/D/ | [GB^c-e]8 | (3ce^c (3BcB (3cec (3BcB | %44
+ (3^cec (3BcB (3cec (3BcB | (3GBG (3EGE (3GBG (3EGE | (3GBG (3EGE (3GBG (3EGE | %47
+ (3^CEC (3B,CB, (3CEC (3B,CB, | (3^CEC (3B,CB, (3CEC (3B,CB, | (3^CEC (3EGE (3CEC (3EGE | %50
+ (3^CEC (3EGE (3CEC (3EGE | (3GBG (3BGB (3GBG (3BGB | (3^cBc (3ece (3cec (3ece | %53
+ [GA^cea]4 [Adfa]4 | [GBdg]4 z4 | [A^ceg]3 z z4 | z4 z2 z [EG^c] | %57
+ [DFAd]2 [A,DF]2"^ritardando" [DE-]2 [^CE]2 | !fermata![A,D]8 |] %59
+V:2
+ (A/4G/4!fermata!A3/2) z/ (G/4F/4E/4D/4^C/) D z !fermata!z2 | %1
+[K:bass] (A,/4G,/4!fermata!A,3/2) z/ E,/F,/^C,/ D, z !fermata!z2 | %2
+ A,,/4G,,/4!fermata!A,,3/2 z/ G,,/4F,,/4E,,/4D,,/4^C,,/ D,, z !fermata!z2 |[K:bass-8] [D,,D,]8- | %4
+ !fermata![D,,D,]8 |[K:bass] z4 z2 z ^C, | (3D,E,^C, (3D,E,C, (3D,E,C, D,E, | %7
+ (3F,G,E, (3F,G,E, (3F,G,E, F,G, | (3A,B,G, (3A,B,G, (3A,B,G, A,2 |[K:treble] z4 z2 z ^C | %10
+ (3DE^C (3DEC (3DEC DE | (3FGE (3FGE (3FGE FG | (3ABG (3ABG (3ABG A2 | z4 z2 z A | %14
+ (3GBE (3GBE (3FAD (3FAD | (3EGC (3EGC (3DFB, (3DFB, | (3CEA, (3CEA, (3B,DG, (3B,DG, | %17
+[K:bass] (3A,CF, (3A,CF, (3G,B,E, (3G,B,E, | (3F,A,D, (3F,A,D, (3E,G,^C, (3E,G,C, | %19
+[K:bass-8] [D,,D,]8- | [D,,D,]4 z2[K:bass] E/D/^C/=B,/ | (3^CA,C z2 z4 | %22
+[K:bass-8] !fermata![D,,D,]4 z4 |[K:treble] z/ .A.A.A.A.A.A.AA/ | z/ .A.A.A.A.A.A.AA/ | %25
+ z/ .A.A.A.A.A.A.AA/ | z/ .A.A.A.A.A.A.AA/ | z/ .A.A.A.A.A.A.AA/ | z/ .A.A.A.A.A.A.AA/ | %29
+ z/ .A.A.A.A.A.A.AA/ | z2[K:bass] D z C z B, z | A, z [D,,D,]2 [C,,C,]2 [B,,,B,,]2 | %32
+ [A,,,A,,]2 D z C z B, z | A, z [D,,D,]2 [C,,C,]2 [B,,,B,,]2 | [A,,,A,,]4 z4 | z8 | %36
+ z4 !fermata!z2 [D,,D,]2 | [C,,C,]2 [B,,,B,,]2 [A,,,A,,]2[K:treble] d z | %38
+ c z B z A z[K:bass] [D,,D,]2 | [C,,C,]2 [B,,,B,,]2 [A,,,A,,]2 !fermata![^G,,,^G,,]2 | %40
+ !fermata![G,,,G,,]3 z z4 | z8 | [G,^CE-]8 | (3EGE (3^CEC (3EGE (3CEC | (3EGE (3^CEC (3EGE (3CEC | %45
+ (3B,^CB, (3G,B,G, (3B,CB, (3G,B,G, | (3B,^CB, (3G,B,G, (3B,CB, (3G,B,G, | %47
+ (3E,G,E, (3^C,E,C, (3E,G,E, (3C,E,C, | (3E,G,E, (3^C,E,C, (3E,G,E, (3C,E,C, | %49
+ (3E,G,E, (3G,B,G, (3E,G,E, (3G,B,G, | (3E,G,E, (3G,B,G, (3E,G,E, (3G,B,G, | %51
+ (3E,G,E, (3G,E,G, (3B,^CB, (3CB,C | (3E^CE (3CEC (3ECE (3CEC | [G,,G,]4 [F,,F,]4 | %54
+ [B,,B,]6 [A,,A,][G,,G,] | [A,,A,]3 [E,,E,] [F,,F,][D,,D,][E,,E,][^C,,^C,] | %56
+ [D,,D,][=B,,,=B,,][^C,,^C,][A,,,A,,] [_B,,,_B,,][^G,,,^G,,][A,,,A,,][=G,,G,] | %57
+ [F,,F,]2 [D,,D,]2 [A,,,A,,]4 |[K:bass-8] !fermata![D,,D,]8 |] %59
+V:3
+ x8 | x8 |[K:bass] x8 | x8 | z4 G,E, !fermata!^F,2 |[K:treble] x8 | x8 | x8 | x8 | x8 | x8 | x8 | %12
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 |[K:bass] x4[K:treble] x4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %27
+ x8 |[K:bass] x8 | x8 | x5/2[K:treble] x11/2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %41
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z4 A,2- A,G, | %58
+ G,2 F,E, !fermata!D,4 |] %59
+

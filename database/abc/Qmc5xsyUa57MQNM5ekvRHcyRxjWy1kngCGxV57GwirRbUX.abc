@@ -1,0 +1,61 @@
+X:1
+T:The Well-Tempered Clavier Part II Praeludium XXII
+T:BWV 891
+T:J. S. Bach
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=200
+M:2/2
+K:Db
+V:1 treble nm="Harp"
+V:3 treble 
+V:2 bass 
+V:1
+"^Prestissimo" dcB=A B2 F2 | G2 E2 C2 F2 | z4 bagf | gfed cfef | d2 F2 z dcd | e2 B2 c4 | %6
+ d2 z2 z4 | a=gf=e f2 c2 | d2 B2 =G2 c2 | A2 F2 f2 f2 | f2 =ef =g2 g2 | =g2 fg a2 a2 | %12
+ a2 f2 =g2 b2 | b2 =e2 f4- | f4 =e4 | f2 c2 Ae=de | f2 B2 A2 f2- | f2 ef g2 B2 | ABcd efge | %19
+ f2 G2 F2 d2 | B6 ed | c6 B2- | Bcde =Agfe | dfed cB=Ac | B2 dc d2 d2 | d2 cd e2 e2 | e2 de fagf | %27
+ edce A4 | d4 z4 | z Bcd efge | fedc d2 A2 | B2 G2 E2 A2 | F2 D2 d2 d2 | d2 cd e2 e2 | %34
+ e2 de f2 f2 | f2 ef =gabg | a8- | a8- | a2 =ga b2 d2- | d2 cd e2 G2- | GF=GA BcdB | c4 z4 | %42
+ z edc BA=GB | E4 z2 G2 | F2 B2 z2 A2 | G2 _c2 z2 B2 | A2 d2 z2 _c2 | B4 z4 | z8 | z2 d2 g2 g2 | %50
+ g2 f^f a2 a2 | a2 gf g4- | g2 _c'b agfa | =dcde fgaf | gfe=d e2 B2 | _c2 A2 F2 B2 | G2 E2 e2 e2 | %57
+ e2 =de f2 f2 | f2 e=d e4- | ed_cB cABc- | cB=c=d efge | f2 F2 B4- | B4 =A4 | B=ABc defd | %64
+ edcd efge | f4 z2 bf | gagf edce | =A2 c2 f2 d2 | efge cgfe | d4 c2 f2 | B4 A2 d2 | G8- | %72
+ GFED CDEC | DEF=G =ABcA | BcdB cdec | def=g =abc'a | b8- | b8- | b8- | b2 =ab c'2 e2- | %80
+ e2 de fe[de]=A | B3 c =A3 B | !fermata!B8 |] %83
+V:2
+ B,,4 B,4- | B,4 =A,4 | B,A,G,F, G,F,E,D, | E,D,C,B,, =A,,F,,=G,,A,, | B,,C,D,E, D,2 G,2 | %5
+ C,D,E,F, E,2 A,2 | D,2 C,2 D,2 B,,2 | F,2 A,2 DCB,A, | B,=G,A,B, CB,A,G, | F,4- F,=G,A,F, | %10
+ =G,A, B,2 =E,2 F,G, | A,B,A,=G, F,E,D,F, | B,,4 z4 | z DCB, A,=G,F,A, | D,2 B,,2 C,2 C,,2 | %15
+ F,,C,=D,=E, F,=G,A,F, | =D,4 z2 B,,2 | E,,B,,C,=D, E,F,G,E, | C,2 E,2 C,2 A,,2 | %19
+ D,,A,,B,,C, D,E,F,D, | G,A,G,F, E,D,C,E, | =A,,F,,=G,,A,, B,,C,D,B,, | E,2 C,2 F,2 F,,2 | %23
+ B,,2 z2 z2 C2 | DCB,=A, B,2 F,2 | G,2 E,2 C,2 F,2 | D,2 B,,2 B,2 B,2 | B,2 A,B, C2 C2 | %28
+ C2 B,C D2 D2 | D2 CB, C2 E2 | A,4 z D,E,F, | G,A,B,G, A,4 | D,F,G,A, B,CDB, | EFED C2 A,2 | %34
+ D4 z2 A,2 | B,A,=G,F, E,D,C,B,, | A,,B,,C,D, E,F,G,E, | F,E,D,E, F,=G,A,F, | DCB,A, =G,F,E,G, | %39
+ C,F,E,D, C,B,,A,,C, | D,,2 F,2 D,2 E,2 | A,=G,F,E, F,2 C,2 | D,2 B,,2 =G,,2 E,2 | %43
+ C,B,,A,,B,, C,=D,E,C, | =D,C,B,,C, D,E,F,D, | E,F,G,F, E,D,_C,B,, | _C,E,D,C, B,,A,,G,,F,, | %47
+ G,,2 A,,2 B,,G,,A,,B,, | _C,D,E,C, D,E,F,D, | G,A,G,F, E,F,G,E, | A,B,A,G, F,G,A,F, | %51
+ =D,B,,C,D, E,F,G,E, | _CB,A,B, C4 | B,8 | z2 E,F, G,E,G,B, | E=D E4 D2 | ED_CB, CB,A,G, | %57
+ A,G,F,E, =D,B,,C,D, | E,F,G,A, G,2 _C2 | F,G,A,B, A,2 D2 | G,2 F,2 G,2 E,2 | B,2 D2 G,F,E,D, | %62
+ E,C,D,E, F,E,D,C, | B,,4- B,,C,D,B,, | C,D, E,2 =A,,2 B,,C, | D,E,D,C, B,,A,,G,,B,, | E,,2 z2 z4 | %67
+ z G,F,E, D,C,B,,D, | G,,2 E,,2 F,,2 F,2 | B,,C,D,E, F,G,A,F, | G,A,B,C DEDC | B,A,G,F, E,F,G,E, | %72
+ F,8- | F,8- | F,4 F4- | F8- | FGFE =DCB,D | E,F,G,A, B,C=DB, | GFEF GABG | EDCB, =A,=G,F,A, | %80
+ D,G,F,E, D,C,B,,C, | D,C,D,E, F,E,F,F,, | !fermata!B,,8 |] %83
+V:3
+ x8 | x8 | D2 B,2 B2 B2 | B2 =AB c2 c2 | c2 B=A B4- | BAGF GEFG- | GF=G=A BcdB | c2 C2 F4- | %8
+ F4 =E4 | F=EF=G ABcA | BA=GA BcdB | c4 z2 fc | dedc BA=GB | =E2 =G2 C2 c2 | BcdB =GdcB | %15
+ A4 z2[I:staff +1] C2 | B,C=D[I:staff -1]E FGAF | G4 z2 G2- | %18
+ G2[I:staff +1] __B,2 A,2[I:staff -1] c2 | d2 E2 D2 z2 | z2 D2 G4- | G2 FE D4 | %22
+[I:staff +1] C4[I:staff -1] z4 | z[I:staff +1] B,CD EF[I:staff -1]GE | F2 z2 dcB=A | B4- B=A=GA | %26
+ B2 F2[I:staff +1] D2 EF | G4- G[I:staff -1]FEG | FEDE FGAF | G4 z2 D2 | CGFE F4- | F2 ED CDB,C | %32
+ D2 z2 BAGF | G2[I:staff +1] E2[I:staff -1] AG[I:staff +1]FE |[I:staff -1] FEFG ABcA | d8- | %36
+ d2 ed c2 e2 | A2 fe d2 c2 | B4 z2 B2- | B2 A2 z2 E2- | E2[I:staff +1] DC B,A,=G,B, | %41
+ A,[I:staff -1]EF=G ABcA | e2 z2 z4 | z2 A,2 E2 E2 | E2 =DE F2 F2 | F2 EF G2 G2 | G2 FG A2 A2- | %47
+ AAGF G2 D2 | E2 _C2 A,2 D2 |[I:staff +1] B,4[I:staff -1] z2 B2 | _c6 c2 | B6 e2 | A2 z2 z2 A2- | %53
+ ABAG FE=DF | E2 z2 z4 | x8 | z4 ed_cB | _cBAG F2 B2 | G2 B2 z GFG | A2 E2 F4 | G4 z2 c2 | %61
+ dcB=A B2 F2 | G2 E2 C2 F2 | D2[I:staff +1] B,2[I:staff -1] B2 B2 | B2 =AB c2 c2 | c2 Bc d2 d2 | %66
+ d2[I:staff +1] B,2 C2 E2 |[I:staff -1] E2[I:staff +1] =A,2 B,2[I:staff -1] B2 | B4 =A4 | %69
+ BF B4 A2- | AD G4 F2- | F2 ED C2 B,2 | =A,2[I:staff +1] B,4 A,2 | B,CDB, CDEC | %74
+ DEF[I:staff -1]=G =ABcA | BcdB cdec | =dcde fgaf | g2 fe =d2 f2 | B2 gf e2 d2 | c4 z2 c2- | %80
+ c2 B2 z2 G2 | F3 G C4 | =D8 |] %83
+

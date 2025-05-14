@@ -1,0 +1,29 @@
+X:1
+T:Title
+%%score { ( 1 2 ) | 3 }
+L:1/8
+Q:1/4=90
+M:6/8
+K:G
+V:1 treble nm="Grand Piano"
+V:2 treble 
+V:3 bass 
+V:1
+ B3 D3 | z3 B3 | z3 A3 | z3 G3 | B3[K:bass] D3 | z3 B3 | z3 [G^c]3 | d6 | z3 [=ce]3[K:bass] | %9
+w: Howard~E.~Smith *|||||||||
+ z3 [Bd]3 | z3[K:bass] D3 | z3 D3 | z3 [=ce]3 | z3 [Bd]3 | [DGB][EGc][DGB] [CFB]2 [CFA] | G6 |] %16
+w: |||||||
+V:2
+ z B,B, z B,B, | EGc z B,B, | BAA z CC | AGG z B,B, | z[K:bass] B,B, z B,B, | EGc z B,B, | %6
+ A^cc z [A,^C][A,C] | z [A,CDF][A,CDF] .[A,CDF]3 | [Bd][_B^c][=Bd] z[K:bass] [F,C][F,C] | %9
+ [Ac][^GB][Ac] z [G,B,][G,B,] | [Ac][K:bass][F,CD][F,CD] z [F,C][F,C] | %11
+ [GB][G,B,D][G,B,D] z [G,B,][G,B,] | [Bd][_B^c][=Bd] z [A,C][A,C] | [Ac][^GB][Ac] z [G,B,][G,B,] | %14
+ x6 | z [B,D][B,D] .[B,D]3 |] %16
+V:3
+ G,,[D,G,][D,G,] B,,[D,G,][D,G,] | C,[E,G,C][E,G,C] G,,[D,G,][D,G,] | %2
+ D,,[D,F,C][D,F,C] D,,[D,F,][D,F,] | G,,[D,G,B,][D,G,B,] G,,[D,G,][D,G,] | %4
+ G,,[D,G,][D,G,] B,,[D,G,][D,G,] | C,[E,G,C][E,G,C] G,,[D,G,][D,G,] | %6
+ A,,[K:treble][G,A,^CG][G,A,CG][K:bass] A,,G,G, | D,F,F, .F,3 | G,,[D,G,B,][D,G,B,] D,,D,D, | %9
+ D,,[D,F,C][D,F,C] G,,D,D, | D,,D,D, D,,D,D, | G,,D,D, G,,D,D, | E,,[E,^G,D][E,G,D] A,,E,E, | %13
+ D,,[D,F,C][D,F,C] G,,D,D, | [D,,D,][D,,D,][D,,D,] [D,,D,]2 [D,,D,] | G,D,B,, .G,,3 |] %16
+

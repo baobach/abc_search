@@ -1,0 +1,46 @@
+X:1
+T:Khvalitye imya Gospodie
+T:Сергeй Рахманинов, 1910
+T:Attributed to John Chrysostom, c. 349-407 AD
+T:И духови Твоему и Един Свят
+T:Литургиа Святого Иоанна Златоуста , Op. 31, No. 15
+T:Public Domain
+C:Sergei Rakhmanninov
+Z:Public Domain
+%%score [ 1 2 ( 3 4 ) 5 ]
+L:1/8
+Q:1/4=60
+M:4/4
+K:F
+V:1 treble nm="Сопрано" snm="С"
+V:2 treble nm="Альт" snm="А"
+V:3 treble-8 nm="Тенор" snm="Т"
+V:4 treble-8 
+V:5 bass nm="Бас" snm="Б"
+V:1
+"^Довольно Медленно и покойно\nVery slow and calmly""^I        du –  ko – vi       Tvo  – ye –  mu.                Te – bye,       Gos–po–di.                       A     –    min'."!p!"^И       ду –  ко – ви      Тво  –  е  –  му.                  Те – бе,         Гос–по–ди.                       А     –    минь.\n" F2 | %1
+ F4 F2 F2 | _EF G2 !fermata!F4 ||!p! z2!<(! F2 G4!<)! |!>(! !tenuto!_A3 A A4!>)! || %5
+!mf! z4!<(! B4!<)! |!>(! !tenuto!!fermata!c8!>)! || %7
+[Q:1/4=150]"^Довольно скоро\nVery fast"!ff!"^Ед–ин     Свят,          Ед–ин  Гос – подь, ___          I  – и  –  сус Хрис–тос, ___   во  сла–ву  Бо  –  га   От  – ца.   А – минь.\n""^Yed–in   Svyat,          Yed–in  Gos – pod', ___          I  –  i   –  sus Khris–tos, ___   vo  sla–vu   Bo  –  ga   Ot  – tsa.   A – min'." f f2 | %8
+ e4 z fff | e4- e z ff |!>(! e2 d2 !tenuto!c4-!>)! | %11
+!mf! c"^замедляя\nslowing"[Q:1/4=100]ccc[Q:1/4=80] B2 AA | %12
+[Q:1/4=60]!>(! F2 G2!p! !fermata!F4!>)! |] %13
+V:2
+!p! A,2 | A,4 A,2 A,2 | B,2 B,2 !fermata!A,4 ||!p! z2!<(! C2 _E4!<)! |!>(! !tenuto!C3 C C4!>)! || %5
+!mf! z4!<(! F4!<)! |!>(! !tenuto!!fermata!E8!>)! ||!ff! A A2 | c4 z AAA | c4- c z AA | %10
+!>(! [Gc]2 F2 !tenuto![EA]4-!>)! | [EA]!mf!FFF F2 EE |!>(! D2 E2!p! !fermata!F4!>)! |] %13
+V:3
+!p!"^И       ду –  ко – ви      Тво  –  е  –  му.                  Те – бе,         Гос–по–ди.                       А     –    минь.\n""^I        du –  ko – vi       Tvo  – ye –  mu.                Te – bye,       Gos–po–di.                       A     –    min'." C2 | %1
+ C4 C2 C2 | _E2 G2 !fermata!C4 ||!p! z2!<(! A2 B4!<)! |!>(! !tenuto!_E3 E E4!>)! || %5
+!mf! z4!<(! _d4!<)! |!>(! !tenuto!!fermata![Gc]8!>)! || %7
+!ff!"^Ед–ин     Свят,          Ед–ин  Гос – подь, ___          I  – и  –  сус Хрис–тос, ___   во  сла–ву  Бо  –  га   От  – ца.   А – минь.\n""^Yed–in   Svyat,          Yed–in  Gos – pod', ___          I  –  i   –  sus Khris–tos, ___   vo  sla–vu   Bo  –  ga   Ot  – tsa.   A – min'." [cf] [cf]2 | %8
+ [eg]4 z [cf][cf][cf] | [eg]4- [eg] z [cf][cf] |!>(! [ce]2 [Ad]2 !tenuto![Ac]4-!>)! | %11
+ [Ac]!mf![Fc][Fc][Fc] [Fd]2 AA |!>(! A2 B2!p! !fermata!A4!>)! |] %13
+V:4
+ x2 | x8 | _E2 E2 C4 || x8 | x8 || x4 _d4 | x8 || x3 | x8 | x8 | x8 | x8 | x8 |] %13
+V:5
+!p! F,,2 | F,,4 F,,2 F,,2 | G,,F,, _E,,2 !fermata!F,,4 ||!p! z2!<(! F,2 _E,4!<)! | %4
+!>(! !tenuto!_A,,3 A,, A,,4!>)! ||!mf! z4!<(! G,4!<)! |!>(! !tenuto!!fermata!C,8!>)! || %7
+!ff! F, A,2 | C4 z F,F,A, | C4- C z F,F, |!>(! C,2 D,2 !tenuto![A,,E,]4-!>)! | %11
+ [A,,E,]!mf!A,,A,,A,, B,,2 C,C, |!>(! D,2 C,2!p! !fermata![F,,C,]4!>)! |] %13
+

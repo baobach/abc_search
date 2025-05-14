@@ -1,0 +1,63 @@
+X:1
+T:The Returning Hunter
+T:The Returning Hunter
+T:No. 2 from Eskimos, Op. 64
+T:Amy March Cheney Beach
+T:Public Domain (PianoXML typeset)
+T:Public Domain (PianoXML typeset)
+C:Amy March Cheney Beach
+Z:Public Domain (PianoXML typeset)
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=172
+M:2/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+"^Allegro vivace" .d.d.B.G | (A2 G2) | (E2 D).D | (E2 D2) | (E2 D).D | .E.E !tenuto!D2 | EEDD | %7
+ EE !tenuto!D2 |"_cresc." .E.E.D.D | .E.E .D(3(D/E/F/ | G).G .A((D |!<(! G))GAA!<)! | %12
+!f!"_rit." !tenuto![DB]2 !tenuto![CDA]2 | !fermata![B,DG]4 |"_a tempo" .d'.d'.b.g | ([ea]2 [dg]2) | %16
+ (e2 d)d | e2 d2 | .e.e.d.d | .e.e !tenuto!d2 | .g.g.f.f | .g.g !tenuto!f2 |"_cresc." GGFF | %23
+ GG F(3(F/^G/_B/ | B)B^cF- | [Fd][Fd][^Ge][Ge] |!f! !tenuto![Af]2 !tenuto![GAe]2 | [FAd]3!mf! (a | %28
+ [GAe]3) (f | d2) !>!B2- | B2- [B^c]e | d2 !>!B2- |!f! B2 f^c |!<(! B^cdf | !arpeggio![G^ca]4!<)! | %35
+!f! d'd'd'd' | aa !>!a2 | dddd | AA !>!A2 |"_dim." [^CGA]4 | [DFB]4 |!>(! [^CGA^c]4 | [FAf]4!>)! | %43
+!p! ffdB | (^c2 B2) | (G2 F)F | (G2 F2) | bbge |"_cresc." (f2 e2) | e'e'c'a | (b2 a2) | %51
+!8va(! a'a'f'_e'!8va)! | c'c'af | (_e2 d2) |!>(! _ee d2 | (=f2 _e2) | =ff _e2!>)! | %57
+"_poco rit." ^ff=ee | !tenuto!f!tenuto!f !tenuto!e2 |!pp! bbaa | !tenuto!b!tenuto!b !tenuto!a2 | %61
+"^sotto voce.""_a tempo" _EEDD | _EE D(3(D/=E/F/ | G)G AD- | GG AA | (([DB]2 [DAd]2)) | %66
+ [Gdg]3 (d' | [cda]3) (b | g2) e2- | e2 fa | !>!g2 e2- |!<(! e2 bf | efgb | !arpeggio![cad']4!<)! | %74
+!f!!8va(! g'g'g'g' | d'd' d'2!8va)! |"_dim." gggg | dd d2 | [Fcd]4 | [GBe]4 | [Fcdf]4 | [Bdgb]4 | %82
+[K:bass] E,2 D,D, | E,E, !>!D,2 | .[F,B,D] z[K:treble] .[CDF] z | %85
+"_senza rit." .[B,DGB] z !fermata!z2 |] %86
+V:2
+ z4 | z4 | z4 | z4 | [C,F,A,]4 | [B,,G,]4 | [A,,F,]4 | [G,,D,G,]4 | .E,.E,.D,.D, | %9
+ .E,.E, .D,(3(D,/E,/F,/ | G,).G,.A,(D, | [B,,G,]2) [^C,G,]2 | [D,F,]4 | !fermata![G,,D,G,]4 | z4 | %15
+[K:treble] (([Gc]2 [GB]2)) | ([FAc]4 | [GB]4) | ([CFA]4 | [B,G]4) | ([E^A^c]4 | [DB]4) | %22
+[K:bass] G,G,F,F, | G,G, F,(3(F,/^G,/^A,/ | B,)B,^CF, | ([B,D]4 | [A,^C]4) | %27
+!ped! .D.A,.D, z!ped-up! |!ped! .^C.A,.D, z!ped-up! |!ped! .B,.A,.D, z!ped-up! | ^CA,D, z | %31
+ B,A,D, z | ^CA,D, z | DB,D, z | EA,D, z |[K:treble] ([DFB]4 | [^CEA]4) | ([B,DG]4 | [A,^CF]4) | %39
+[K:bass] A,G,F,E, | D,D, !>!D,2 | A,,G,,F,,E,, | D,,D,, !>!D,,2 | z4 |[K:treble] [EG]2 [DF]2 | %45
+ ([^A,E]4 | [=A,C^D]4) | [G,B,E]2 z2 | BBGE | [CEA]2 z2 | eecA | [FAc_e]2 z2 | _eecA | ([Fc]4 | %54
+ [G_B]4) | ([_DG_B]4 | [C_A]4) | [=CE=A]4- | [CEA]4 | (([A,EG]4 | [A,_EG]4)) |[K:bass] _E,E,D,D, | %62
+ _E,E, D,(3(D,/=E,/F,/ | G,)G,A,D, | (([B,,G,]2 [^C,G,]2)) | ([D,F,]2- [D,F,C]2) | %66
+!ped! .B,.D,.G,, z!ped-up! |[K:treble]!ped! .F.D.G, z!ped-up! |!ped! .E.D.G, z!ped-up! | FDG, z | %70
+ EDG, z | FDG, z | EDG, z | FDG, z | [EGc]4 | [DFB]4 | [CEA]4 | [B,DG]4 | DCB,A, | %79
+[K:bass] G,G, !>!G,2 | D,C,B,,A,, | G,,G,, !>!G,,2 | E,,2 D,,D,, | E,,E,, !>!D,,2 | %84
+ .[B,,,B,,] z .[A,,,A,,] z | .[G,,,G,,] z !fermata!z2 |] %86
+V:3
+ x4 | x4 | x4 | x4 | x4 | x4 | C4 | B,4 | x4 | x4 | x4 | D2 E2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | F4 | G4 | F4 | G4 | F4 | x4 | d4 | x4 | x4 | %38
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |!8va(! x4!8va)! | x4 | x4 | x4 | %55
+ x4 | x4 | x4 | x4 | c4- | c4 | x4 | x4 | x4 | D2 E2 | x4 | x4 | x4 | B4 | c4 | B4 | c4 | B4 | x4 | %74
+!8va(! g4 | x4!8va)! | x4 | x4 | x4 | x4 | x4 | x4 |[K:bass] x4 | x4 | x2[K:treble] x2 | x4 |] %86
+V:4
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |[K:treble] x4 | x4 | %17
+ x4 | x4 | x4 | x4 | x4 |[K:bass] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %35
+[K:treble] x4 | x4 | x4 | x4 |[K:bass] x4 | x4 | x4 | x4 | x4 |[K:treble] B,4 | x4 | x4 | x4 | x4 | %49
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |[K:bass] x4 | x4 | x4 | x4 | x4 | x4 | %67
+[K:treble] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |[K:bass] x4 | x4 | x4 | x4 | %83
+ x4 | x4 | x4 |] %86
+

@@ -1,0 +1,48 @@
+X:1
+T:Marcia Funebra
+T:Marcia Funebra
+T:Jef Tinel (1885 -1972)
+T:Ad van de Wege
+T:Ad van de Wege
+C:Jef Tinel (1885 -1972)
+Z:Ad van de Wege
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Orgel" snm="Org."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^langzaam"!mf! G2 d2 e4 | G2 df e4 |!p! G4 c4 | [DB]2 [CA]2 [=B,G]4 |!f! B2 f2 g4 | B2 fa g4 | %6
+!p! B4 e4 | e2 _d2 c4 |!mf! G2 d2 e4 | G2 df e4 | G4 c4 | [Fd]2 [DB]2 [Ec]4 || %12
+[K:Ab]"^langzaam"!pp! ([Ac]2 (([ce]2) e4)) | [FAd][EGc][DFB][EGc] [CEA]2 [A,CE]2 | %14
+"^iets trager" F2 (E2 E2) D2 | C2 B,A, B,4 |"^tijdmaat" [Ac]2 [ce]2 e4 | %17
+ [FAd][EGc][DFB][EGc] [CEA]2 [A,CE]2 | [DF]2 (E2"^vertragen" E2) (A2 | A2) G2 A4 || %20
+[K:Eb]"^tijdmaat" G2 d2 e4 | G2 df e4 |!p! G4 c4 | [Fd]2 [DB]2!<(! [Ec]2 z2!<)! | %24
+!f! d2!>(! B2 c2 z2!>)! |!p! [^Fd]2 [DB]2 [CEc]2 z2 |"_wegstervend" [CEc]2 z2 [CEc]2 z2 | %27
+ (((!fermata![CGc]4 [CGc]))) z z2 |] %28
+V:2
+ [FG]4 cB A2 | [FG]4 cB A2 | GFED C2 DE | x8 | [AB]4 ed c2 | [AB]4 ed c2 | BAGF E2 FG | %7
+ AG (F2 [CF]4) | [FG]4 cB A2 | [FG]4 cB A2 | GFED C2 DE | x8 ||[K:Ab] G2 [FA]2 (3cGB [FA]2 | x8 | %14
+ [B,D]2 CB, C2 x2 | x8 | G2 [FA]2 (3cGB [FA]2 | x8 | B,2 CB, C2 F2 | F2 E(D D2) C2 || %20
+[K:Eb] [FG]4 cB A2 | [FG]4 cB A2 | GFED C2 DE | x8 | F2 ED E2 x2 | x8 | x8 | x8 |] %28
+V:3
+"_zonder ped." G,2 D2 E4 | G,2 DF E4 |!ped! G,4 CB,A,G,!ped-up! | F,E,D,C, D,4 | %4
+[K:treble]"_zonder ped." B,2 F2 G4 | B,2 FA G4 |[K:bass]!ped! B,4 E_DCB,!ped-up! | %7
+ A,2 G,F, [C,=A,]4 |"_zonder ped." G,2 D2 E4 | G,2 DF E4 |!ped! G,4 CB,A,G,!ped-up! | %11
+ F,2 G,F, G,4 ||[K:Ab]"_zonder ped." x4 E2 D2 | B,2 E,2 F,2 G,2 | %14
+ A,2!ped! G,2 (A,2 ([F,A,]2)!ped-up! | [D,F,A,]2) [=D,F,]2 [E,A,]2 [E,,G,]2 | %16
+"_zonder ped." x4 E2 D2 | B,2 E,2 F,2 G,2 | A,2!ped! G,2 A,2 C2!ped-up! |{B,} B,4 [E,A,]4 || %20
+[K:Eb]"_zonder ped." G,2 D2 E4 | G,2 DF E4 |!ped! G,4 CB,A,G,!ped-up! | F,2 G,F, G,2 z2 | %24
+ B,2 G,2 A,2 z2 | =A,2 G,F, [C,,G,,E,]2 C,D, | [G,,E,]2 C,D, [G,,E,]2 C,D, | %27
+ (((!fermata![C,,G,,=E,]4 [C,,G,,E,]))) z z2 |] %28
+V:4
+ [F,G,]4 CB, A,2 | [F,G,]4 CB, A,2 | G,F,E,D, C,3 B,, | A,,G,, F,,2 G,,4 | %4
+[K:treble] [A,B,]4 E D2 C | [A,B,]4 ED C2 |[K:bass] B,A,G,F, E,3 [_D,F,] | C,2 B,,2 F,,4 | %8
+ [F,G,]4 CB, A,2 | [F,G,]4 CB, A,2 | G,F,E,D, C,3 B,, | A,,2 B,,2 C,4 ||[K:Ab] x8 | x8 | %14
+ A,2 E,2 F,2 B,,2 | x8 | x8 | x8 | A,2 E,2 F,2 D,2 | E,2 E,2 A,,4 ||[K:Eb] [F,G,]4 CB, A,2 | %21
+ [F,G,]4 CB, A,2 | G,F,E,D, C,3 B,, | A,,2 B,,2 C,2 D,E, | B,,2 E,2 A,,2 D,E, | D,2 G,,2 x4 | %26
+ C,,2 z2 C,,2 z2 | x8 |] %28
+

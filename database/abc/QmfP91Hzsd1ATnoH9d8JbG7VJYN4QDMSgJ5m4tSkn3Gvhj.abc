@@ -1,0 +1,60 @@
+X:1
+T:Fugue No 2 in C Minor
+T:Fugue No 2 in C Minor
+T:Arranged for String Trio
+T:Composed by: J.S. Bach
+T:Arranged: Owen Smith
+C:J.S. Bach
+Z:Owen Smith
+%%score [ 1 2 3 ]
+L:1/8
+Q:1/4=80
+M:4/4
+K:Eb
+V:1 treble nm="Violin"
+V:2 alto nm="Viola"
+V:3 bass nm="Violoncello"
+V:1
+!mf! z8 | z8 | z .g/.^f/ .g.c .e.g/.f/ .g.=a | .d.g/.^f/ .g.=a .c/.d/ (!>!e2 .d/).c/ | %4
+ .B.e/.d/ .e.G .A.f/.e/ .f.=A | .B.g/.f/ .g.=B .c.d/.e/ !>!f2- | .f.e/.d/ .c/.B/.A/.G/ .F.a.g.f | %7
+ .e.d .e.f .=B.c .d.B ||"^9" .c.g/.^f/ .g.d .e2 z .=e | .f.f/.=e/ .f.c .d2 z .d | %10
+ .e.e/.d/ .e.B .c.e/.d/ .e.f | .B.e/.d/ .e.f .A/.B/ (!>!c2 .B/).A/ | %12
+ .G/.E/.F/.G/ .A/.B/.c/.d/ .e/.d/.c/.d/ .e/.f/.g/.=a/ | %13
+ .b/.F/.G/._A/ .B/.c/.d/.=e/ .f/._e/.d/.e/ .f/.g/.=a/.=b/ || %14
+"^15" .c'.=b/.=a/ .g/.f/.e/.d/ .c.e.d.c | .B.=A.B.c .^F.G.A.F | .G.d/.c/ .d z z .=e/.d/ .e z | %17
+ z .^f/.=e/ .f z z .G/.F/ .G z | z .=A/.G/ .A z z .=B/.A/ .B z | z c/=B/ cG Ac/B/ cd | %20
+ Gc/=B/ cd .F/.G/ (!>!A2 .G/).F/ ||"^22" Ec/=B/ cG A2 z =A | B(PB/=A/ B)F G2 z (G | %23
+ G)A/B/ c/=B/c/A/ (F4 | F)d/c/ dF Ee/d/ eG | Ff/e/ fA G/f/e/d/ c/=B/=A/G/ | .c.f.e.d z .A.G.F | %27
+ .G.F/.E/ .F(D AG) z (=A || =Bc F/E/D/C/ C).c/.B/ .c(G | .A).c/.=B/ .c([Bd] .G).c/.B/ .c(d | %30
+ .F/).G/ (!>!A2 .G/).F/ [C=E]4 |] %31
+V:2
+!mf! z .c/.=B/ .c.G .A.c/.B/ .c.d | .G.c/.=B/ .c.d .F/.G/ (!>!A2 .G/).F/ | %2
+ .E/.c/.=B/.=A/ .G/.F/.E/.D/ .C.e.d.c | .B.=A .B.c .^F.G .A.F | %4
+ .G2 z/ .C/.D/.E/ .=F/.G/!>!A- A/.D/.E/.F/ | .G/.=A/!>!B- B/.E/.F/.G/ ._A/.G/.F/.E/ .D.c/.=B/ | %6
+ .c2 z2 z .f.e.d | z .A.G.F .G.F/.E/ .F.D || .G2 z .=B .c.c/.B/ .c.G | .A2 z .=A ._B.B/.A/ .B.F | %10
+ .G2 z .G .A.A .G.F | z .A,.B,.C z .A,/.G,/ .A,.F, | .B,.C.B,.A, .B,.G,.F,.E, | %13
+ .F,._D.C.B, .C.A,.G,.F, || .G,.G/.^F/ .G.C .E.G/.F/ .G.=A | .D.G/.^F/ .G.=A .C/.D/ .E2 .D/.C/ | %16
+ .B, z z/ .D/.=E/.^F/ .G/.=A/!>!B- B/.=E/.=F/.G/ | .=A/.B/!>!c- c/.^F/.G/.A/ .B.E/.D/ .E.G, | %18
+ ._A,.F/.E/ .F.=A, ._B,.G/.F/ .G.=B, | C/F/E/D/ C/_B,/_A,/G,/ F,A GF | EDEF =B,CDB, || %21
+ C2 z =E FF/E/ FC | D2 z D E(PE/D/ E)B, | (C4 C)D/E/ F/E/F/D/ | =B, z z B, C z z E | %25
+ D z z (F F) z z F | .E.A.G.F .E.D.E.F | =B,CDB,- B,C z (C || F/D/E/C/- C=B, C2) z2 | %29
+ .F2 z ([F=A] .F).E/.D/ .E[FA] | [=B,D] z [B,D] z G,4 |] %31
+V:3
+!mf! z8 | z8 | z8 | z8 | z8 | z8 | z .C/.=B,/ .C.G, .A,.C/.B,/ .C.D | %7
+ .G,.C/.=B,/ .C.D .F,/.G,/ (A,2 .G,/).F,/ || %8
+ .E,/.C/.=B,/.=A,/ .G,/.F,/.E,/.D,/ .C,/.D,/.E,/.D,/ .C,/._B,,/._A,,/.G,,/ | %9
+ .F,,/.B,/.A,/.G,/ .F,/.E,/.D,/.C,/ .B,,/.C,/.D,/.C,/ .B,,/.A,,/.G,,/.F,,/ | %10
+ .E,,/.A,/.G,/.F,/ .E,/._D,/.C,/.B,,/ .A,,.C.B,.A, | .G,.F,.G,.A, .D,.E,.F,.D, | %12
+ .E,.A,.G,.F, .G,.E,.D,.C, | .D,.B,.A,.G, .A,.F,.E,.D, || .E, z z2 z .C,._B,,.=A,, | %15
+ z .E,.D,.C, .D,.C,/.B,,/ .C,.D, | .G,,.B,/.=A,/ .B,.D, .E,.C/.B,/ .C.=E, | %17
+ .F,.D/.C/ .D.^F, G,2 z/ .G,,/.=A,,/.=B,,/ | %18
+ .C,/.D,/!>!E,- E,/.=A,,/._B,,/.C,/ .D,/.E,/!>!F,- F,/.=B,,/.C,/.D,/ | E, z z =E, F, .F,,.E,,.D,, | %20
+ z .A,,.G,,.F,, .G,,.F,,/.E,,/ .F,,.G,, || %21
+ .C,/.D,/.E,/.D,/ .C,/.B,,/.A,,/.G,,/ .F,,/.B,/.A,/.G,/ .F,/.E,/.D,/.C,/ | %22
+ B,,/C,/D,/C,/ B,,/A,,/G,,/F,,/ E,,/A,/G,/F,/ E,/D,/C,/B,,/ | %23
+ A,,/B,,/C,/B,,/ A,,/G,,/F,,/E,,/ D,,/G,/F,/E,/ D,/C,/=B,,/=A,,/ | %24
+ G,,2 z2 z/ .G,,/.=A,,/.=B,,/ .C,/.D,/.E,/.F,/ | %25
+ .G,/.F,/._A,/.G,/ .F,/.E,/.D,/.C,/ .=B,,.C,/.B,,/ .C,.G,, | %26
+ .A,,.C,/.=B,,/ .C,.D, .G,,.C,/.B,,/ .C,.D, | .F,,/.G,,/ (A,,2 G,,/)F,,/ E,,2 z (E, || %28
+ D,C, G,G,,) [C,,C,]4- | [C,,C,]8- | [C,,C,]8 |] %31
+

@@ -1,0 +1,81 @@
+X:1
+T:6 Lieder
+T:Wanderlied
+T:2. Wanderlied
+T:Fanny (Mendelssohn) Hensel
+T:Johann Wolfgang von Goethe
+T:6 Lieder, Op.1
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+C:Fanny (Mendelssohn) Hensel
+Z:Johann Wolfgang von Goethe
+Z:OpenScore (CC0)
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=80
+M:4/8
+K:D
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+"^Allegro molto vivace" z4 | z2 z!f! F/ G/ |]:!f! ^G A e d | c B z E/ F/ | G ^G A B | %5
+w: |Von den|Ber- gen zu den|Hü- geln, nie- der-|ab das Thal ent-|
+w: ||nicht am Bo- den|hef- ten, frisch ge-|wagt, und frisch hin-|
+ (dc) z F/ E/ | D F d B | A ^G z B/ A/ | A"^cresc." (d/c/) c (f/e/) |!ff! (e^d)!mf! =d c | %10
+w: lang, * da er-|klingt es wie von|Flü- geln, da be-|wegt sichs * wie Ge- *|sang, * da be-|
+w: aus, * Kopf und|Arm mit hei- tern|Kräf- ten, ü- ber-|all sind * sie zu *|Haus, * ü- ber-|
+!p! (B2 =c) A | (A2 !turn!^c3/2) B/ | A2 z2 | z2 z E/ F/ | G G e3/2 d/ | d c z E/ F/ | %16
+w: wegt * sichs|wie * Ge-|sang.|Und dem|un- be- ding- ten|Trie- be fol- get|
+w: all * sind|sie * zu|Haus.|Wo wir|uns der Son- ne|freu- en, sind wir|
+ G G e3/2 d/ | B2 z2 | z2 z!p! F/ G/ | ^G A d c | ^A B z"^cresc." G/ A/ | ^A B e d | %22
+w: Freu- de, fol- get|Rath,|und dein|Stre- ben sei's in|Lie- be, und dein|Le- ben sei die|
+w: je- der Sor- ge|los,|dass wir|uns in ihr zer-|streu- en da- rum|ist die Welt so|
+ (^B!ff!c) z!mf! A/ B/ | ^B c f e | c d!f! g f | (ed) (c B) |"^cresc." A3 (d/B/) |!ff! (A4 | %28
+w: That, * und dein|Stre- ben sei's in|Lie- be, und dein|Le- * ben dein|Le- ben *|sei-|
+w: gross, * dass wir|uns in ihr zer-|streu- en, da- rum|ist * die *|Welt die *|Welt-|
+ !turn!B2) c2 | d4 | z4 | z4 | z2 z F/ G/ :| z4 | z4 |] %35
+w: * die|That.|||2.~Blei- be|||
+w: * so|gross.||||||
+V:2
+ (3z/[I:staff +1] ^E,/F,/!<(! (3A,/[I:staff -1]D/F/!<)! (3A/^E/F/ (3D/[I:staff +1]A,/F,/ | %1
+[I:staff -1] (3z/[I:staff +1] ^E,/F,/ (3A,/[I:staff -1]D/F/ (3A/^E/F/ (3D/[I:staff +1]A,/F,/ |]: %2
+[I:staff -1] (3z/[I:staff +1] ^E,/F,/ (3A,/[I:staff -1]D/F/ (3A/^E/F/ (3D/A,/[I:staff +1]F,/ | %3
+[I:staff -1] (3z/[I:staff +1] F,/G,/ (3B,/[I:staff -1]D/G/ (3B/F/G/ (3E/B,/G,/ | %4
+ (3G/C/G,/ (3=F/[I:staff +1]B,/=F,/[I:staff -1] (3E/[I:staff +1]A,/E,/[I:staff -1] (3D/[I:staff +1]^G,/E,/ | %5
+[I:staff -1] (3z/[I:staff +1] E,/=G,/ (3^A,/[I:staff -1]C/E/ (3c/^A/F/ (3E/[I:staff +1]C/A,/ | %6
+[I:staff -1] (3z/[I:staff +1] ^E,/F,/ (3B,/[I:staff -1]D/F/ (3B/^E/F/ (3D/B,/[I:staff +1]F,/ | %7
+[I:staff -1] (3z/ ^A,/B,/ (3D/^G/B/ (3d/^A/B/ (3G/D/B,/ | (3A/C/A,/ (3B/E/B,/ (3c/E/C/ (3d/^G/D/ | %9
+ (3e/A/E/ (3[^df]/A/F/ (3[e^g]/=d/G/ (3[ea]/c/!ff!A/ | %10
+!p! (3z/[I:staff +1] F,/B,/[I:staff -1] (3[DF]/[I:staff +1]B,/F,/[I:staff -1] (3z/[I:staff +1] A,/=C/[I:staff -1] (3[FA]/[I:staff +1]C/A,/ | %11
+[I:staff -1] (3z/ D/A/ (3[Bd]/A/D/ (3z/ D/^G/ (3[Be]/G/D/ | %12
+ (3z/ ^B,/C/ (3E/A/c/ (3e/^B/c/ (3A/E/C/ | (3z/ ^B,/C/ (3E/A/c/ (3e/^B/c/ (3A/E/C/ | %14
+ (3z/ ^B,/C/ (3E/G/c/ (3e/^B/c/ (3G/E/C/ | (3z/ ^B,/C/ (3E/G/c/ (3e/^B/c/ (3G/E/C/ | %16
+ (3z/ ^B,/C/ (3E/G/c/ (3e/^B/c/ (3G/E/C/ |!mp! (3z/ C/E/ (3G/c/e/ (3!>!g/^d/e/ (3c/G/E/ | %18
+ (3!>!e/^B/c/ (3G/E/C/ (3!>!c/F/G/!p! (3E/C/A,/ | (3z/ A,/C/ (3D/F/A/ (3d/^G/A/ (3F/D/A,/ | %20
+ (3z/ B,/^C/ (3D/G/B/"_cresc." (3d/^A/B/ (3G/D/B,/ | (3z/ B,/^D/ (3E/G/B/ (3e/^A/B/ (3G/E/B,/ | %22
+!ff! (3z/ ^B,/C/!f! (3E/A/c/ (3e/^B/c/!mf! (3A/E/C/ | (3z/ ^B,/C/ (3F/A/c/ (3f/^B/c/ (3A/F/C/ | %24
+ (3z/ C/D/ (3F/B/(d/!f! (3[dg]/)B/G/ (3[cf]/A/F/ | %25
+ (3[Be]/G/E/ (3[Ad]/F/D/ (3[Gc]/E/C/ (3[FB]/D/B,/ | %26
+ (3[EA]/C/A,/ (3[EG]/C/G,/ (3[DF]/A,/F,/ (3[D=F]/B,/=F,/ | %27
+ (3z/[I:staff +1] ^E,/^F,/ (3A,/[I:staff -1]D/F/ (3A/^E/F/ (3D/[I:staff +1]A,/F,/ | %28
+[I:staff -1] (3z/[I:staff +1] G,/C/[I:staff -1] (3E/G/c/ (3e/^B/c/ (3G/E/C/ | %29
+!ff! (3z/[I:staff +1] ^E,/F,/ (3A,/[I:staff -1]D/F/ (3A/^E/F/ (3D/[I:staff +1]A,/F,/ | %30
+[I:staff -1] (3z/[I:staff +1] A,/C/[I:staff -1] (3D/F/A/ (3d/^G/A/ (3F/D/A,/ | %31
+ (3z/ ^E/F/ (3A/d/f/ (3!>!a/^e/f/ (3d/A/F/ | (3!>!f/c/d/ (3A/F/D/ (3!>!d/^G/A/ (3F/D/A,/ :| %33
+ (3!>!A/^E/F/(3D/[I:staff +1]A,/F,/[I:staff -1] (3!>!F/C/D/[I:staff +1](3A,/F,/D,/ | %34
+[I:staff -1] z4 |] %35
+V:3
+!f! [D,,D,] z [F,A,] z | [D,,D,] z [F,A,] z |]:!f! [D,,D,] z [F,A,] z | [G,,,G,,] z [G,B,] z | %4
+ [E,,E,][D,,D,][C,,C,][B,,,B,,] | [^A,,,^A,,] z z2 | [B,,,B,,] z [F,B,D] z | [E,,E,]2 [^E,,^E,]2 | %8
+ [F,,F,][^G,,^G,][A,,A,][B,,B,] | [C,C]!<(![=C,=C][B,,B,][A,,A,]!<)! | [D,,D,]2 [^D,,^D,]2 | %11
+!ped! [E,,E,]2 [E,B,]2!ped-up! |!ped! [A,,A,]2 [CE]2!ped-up! | [A,,A,]2 [CE]2 | %14
+!ped! [_B,,_B,] z [CE] z!ped-up! |!ped! [A,,A,] z [CE] z!ped-up! | %16
+!ped! [_B,,_B,] z [CE] z!ped-up! | A,,2 z2 | z4 | [F,,F,] z [F,A,] z | [G,,G,] z [G,B,] z | %21
+ [G,,G,] z [G,B,] z | [A,,A,] z [CE] z | [A,,A,] z [CF] z | [B,,B,] z [B,,B,][A,,A,] | %25
+ [G,,G,][F,,F,][E,,E,][D,,D,] | [C,,C,][A,,,A,,][D,,D,][^G,,,^G,,] | %27
+!ped! [A,,,A,,] z [F,A,] z!ped-up! |!ped! [A,,,A,,]2 [G,A,CE]2!ped-up! | %29
+!8vb(!!ped! [D,,,D,,]2!8vb)! [F,A,]2 | [D,,D,]2 [F,A,]2!ped-up! | [D,,D,]2 z2 | z4 :| z4 | %34
+!8vb(! D,,,2!8vb)! z2 |] %35
+

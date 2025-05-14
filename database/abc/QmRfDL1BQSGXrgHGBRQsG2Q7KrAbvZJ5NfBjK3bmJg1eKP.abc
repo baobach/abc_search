@@ -1,0 +1,32 @@
+X:1
+T:Der Lindenbaum
+T:Der Lindenbaum
+T:Mel: Frank Schubert 1826 Arr: Ludwig Erk 
+T:Text: Wilhelm Müller 1822
+C:Frank Schubert
+Z:Wilhelm Müller
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=60
+M:3/4
+K:Eb
+V:1 treble nm="S" snm="S"
+V:2 treble nm="A" snm="A"
+V:3 treble-8 nm="T" snm="T"
+V:4 bass nm="B" snm="B"
+V:1
+ B | B3 G GG | G2 E2 z E | F3 G A>F | G4 z B | B3 G GG | G2 E2 z E | F3 G (3(BA)F | E4 z E | %9
+ F3 F FF | G>A B2 z B | c3 B GE | F4 z E | F3 F FF | G>A B2 z B | (e2 B)G A>F | B4 z B | %17
+ (e2 B)G (3(BA)F | E4 z |] %19
+V:2
+ E | E3 E EE | E2 B,2 z B, | D3 E F>D | E4 z E | G3 E EE | B,2 B,2 z B, | D3 E (3(GF)D | E4 z B, | %9
+ D3 D DD | E>F G2 z G | A3 G EB, | D4 z E | D3 D DD | E>F G2 z G | G3 E F>D | E4 z E | G3 E DD | %18
+ E4 z |] %19
+V:3
+ G | G3 B BB | B2 G2 z G | B3 B B>B | B4 z G | B3 B BB | e2 B2 z B | B3 B BA | G4 z G | B3 B BB | %10
+ B2 B2 z e | e3 e BG | B4 z G | B>B B3 B | B2 B2 z B | B3 e d>B | B4 z B | B3 B FA | G4 z |] %19
+V:4
+ E, | E,3 E, E,E, | E,2 E,2 z E, | B,,3 B,, B,,>B,, | E,4 z E, | E,3 E, E,E, | E,2 G,2 z G, | %7
+ B,3 B, B,,B,, | E,4 z E, | B,,>B, B,3 B,, | E,2 E,2 z E, | E,3 E, E,G, | B,,4 z E, | %13
+ B,3 B,, B,,B,, | E,2 E,2 z E, | (E,G, B,)B, B,>A, | G,4 z E, | (E,G, B,)B, B,,B,, | E,4 z |] %19
+

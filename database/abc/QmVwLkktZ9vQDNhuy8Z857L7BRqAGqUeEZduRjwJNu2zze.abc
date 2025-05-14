@@ -1,0 +1,52 @@
+X:1
+T:L'amour est un oiseau rebelle
+T:L'amour est un oiseau rebelle
+T:Georges Bizet
+C:Georges Bizet
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=60
+M:2/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ z4 | z4 | z4 | z2 .d'.^c' | (3=c'c'c' .=b._b | aa/a/ .^g.=g | (3f/g/f/e/f/ .g.f | .e2 .d'.^c' | %8
+ (3=c'c'c' =b_b | (3aaa .g.f | (3e/f/e/d/e/ .f.e | .d2 .d'.^c' | (3=c'c'c' .=b._b | a/aa/ .^g.=g | %14
+ (3f/g/f/e/f/ .g.f | .e2 .d'.^c' | =c'/c'/c' .=b._b | a/aa/ .g.f | (3e/f/e/d/e/ .f.e | %19
+ .d2 .d'.^c' | (3=c'c'c' .=b._b | a>a .^g.=g | (3^f/g/f/e/f/ .g.f | .e2 .d'.^c' | %24
+ (3=c'c'c' .=b._b | .a>a .g.^f | (3e/^f/e/d/e/ .f.e | .d>.A .d.e | .^f>.a .f.e | .d>.e .^f.g | %30
+ .a/.a/.a/.a/ .=b.a | .g>.=B .e.^f | .g>.=b .g.^f | .e>.^f .g.a | .=b/.b/.b/.b/ .^c'.b | %35
+ .a>!8va(!.a' .[^f'd''].[a'e'']!8va)! | .[d'^f']>.a .^f.e | .d>.e .^f.g | .a/.a/.a/.a/ .d'.^c' | %39
+ g>!8va(!.=b' .[b'e''].[b'^f'']!8va)! | [e'g']>.=b .g.^f | !tenuto!e!tenuto!^f !tenuto!g!tenuto!a | %42
+ !fermata!^c'2 !fermata!=b!fermata!a | !fermata!g3/2a/4g/4 ^fe | d4 | z4 | a'/4g'/4f'/4e'/4 d'3 | %47
+ a/4g/4f/4e/4 d3 | A/4G/4F/4E/4D d'^c' | (3=c'c'c' =b_b | aa/a/ ^g=g | (3f/g/f/e/f/ gf | %52
+ e2 .d'.^c' | (3=c'c'c' .=b._b | a/aa/ .g.f | (3e/f/e/d/e/ .f.e | .d2 .d'.^c' | (3=c'c'c' .=b._b | %58
+ a/aa/ .^g.=g | (3f/g/f/e/f/ .g.f | e2 .d'.^c' | (3=c'c'c' .=b._b | a/aa/ .g.f | %63
+ (3e/f/e/d/e/ .f.e | .d2 .d'.^c' | (3=c'c'c' .=b._b | a>a .^g.=g | (3^f/g/f/e/f/ .g.f | %68
+ e2 .d'.^c' | (3=c'c'c' .=b._b | a>a .g.^f | (3e/^f/e/d/e/ .f.e | .d>!8va(!a d'e' | ^f'>a' f'e' | %74
+ d'>e' .^f'.g' | a'/a'/a'/a'/ =b'a' | g'>=b e'^f' | g'>=b' g'^f' | e'>^f' .g'.a' | %79
+ =b'/b'/b'/b'/ .^c''.b' | .a'>!8va)!A .[^Fd].[Ae] | .[d^f]>!8va(!a' ^f'e' | d'>e' ^f'g' | %83
+ a'/a'/a'/a'/ d''^c'' | g'>!8va)!=B .[Be].[B^f] | .[eg]>=b g^f | e^f ga | (3^c'=b^g- ga | %88
+ !fermata!^f'3 (3e'/f'/e'/ | d'4 |] %90
+V:2
+ D,,>.A,, .F,.A,, | D,,>.A,, .F,.A,, | D,,>.A,, .F,.A,, | D,,>.A,, .F,.A,, | D,,>.A,, .F,.A,, | %5
+ D,,>.A,, .F,.A,, | D,,>.A,, .F,.A,, | D,,>.B,, .G,.B,, | D,,>.B,, .G,.B,, | D,,>.B,, .G,.B,, | %10
+ D,,>.B,, .G,.B,, | D,,>.A,, .F,.A,, | D,,>.A,, .F,.A,, | D,,>.A,, .F,.A,, | D,,>.A,, .F,.A,, | %15
+ D,,>.B,, .G,.B,, | D,,>.B,, .G,.B,, | D,,>.B,, .G,.B,, | D,,>.A,, .G,.A,, | D,,>.A,, .^F,.A,, | %20
+ D,,>.A,, .^F,.A,, | D,,>.A,, .^F,.A,, | D,,>.A,, .^F,.A,, | D,,>.=B,, .G,.B,, | %24
+ D,,>.=B,, .G,.B,, | D,,>.=B,, .G,.B,, | D,,>.A,, .G,.A,, | D,,>.A,, .^F,.A,, | D,,>.A,, .^F,.A,, | %29
+ D,,>.A,, .^F,.A,, | D,,>.A,, .^F,.A,, | D,,>.=B,, .G,.B,, | D,,>.=B,, .G,.B,, | %33
+ D,,>.=B,, .G,.B,, | D,,>.^C, .A,.C, | D,,>.A,, .^F,.A,, | D,,>.A,, .^F,.A,, | D,,>.A,, .^F,.A,, | %38
+ D,,>.A,, .^F,.A,, | D,,>.=B,, .G,.B,, | D,,>.=B,, .G,.B,, | D,,>.=B,, .G,.B,, | [D,,A,,]4- | %43
+ [D,,A,,]4 | D,,>.A,, .^F,.A,, | D,,>.A,, .^F,.A,, | D,,>.A,, .=F,.A,, | D,,>.A,, .F,.A,, | %48
+ D,,>.A,, .F,.A,, | D,,>.A,, .F,.A,, | D,,>.A,, .F,.A,, | D,,>.A,, .F,.A,, | D,,>.B,, .G,.B,, | %53
+ D,,>.B,, .G,.B,, | D,,>.B,, .G,.B,, | D,,>.A,, .G,.B,, | D,,>.A,, .F,.A,, | D,,>.A,, .F,.A,, | %58
+ D,,>.A,, .F,.A,, | D,,>.A,, .F,.A,, | D,,>.B,, .G,.B,, | D,,>.B,, .G,.B,, | D,,>.B,, .G,.B,, | %63
+ D,,>.A,, .G,.A,, | D,,>.A,, .^F,.A,, | D,,>.A,, .^F,.A,, | D,,>.A,, .^F,.A,, | D,,>.A,, .^F,.A,, | %68
+ D,,>.=B,, .G,.B,, | D,,>.=B,, .G,.B,, | D,,>.=B,, .G,.B,, | D,,>.A,, .G,.A,, | D,,>.A,, .^F,.A,, | %73
+ D,,>.A,, .^F,.A,, | D,,>.A,, .^F,.A,, | D,,>.A,, .^F,.A,, | D,,>.=B,, .G,.B,, | %77
+ D,,>.=B,, .G,.B,, | D,,>.=B,, .G,.B,, | D,,>.^C, .A,.C, | D,,>.A,, .^F,.A,, | D,,>.A,, .^F,.A,, | %82
+ D,,>.A,, .^F,.A,, | D,,>.A,, .^F,.A,, | D,,>.=B,, .G,.B,, | D,,>.=B,, .G,.B,, | %86
+ D,,>.=B,, .G,.B,, | [D,,A,,]4 | [D,,A,,]4 | .D,,>.A,, .D,2 |] %90
+

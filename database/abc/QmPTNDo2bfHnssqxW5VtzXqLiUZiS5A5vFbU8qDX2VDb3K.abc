@@ -1,0 +1,56 @@
+X:1
+T:Vivace
+T:Vivace
+T:Nicolas Chédeville
+C:Nicolas Chédeville
+%%score { 1 | 2 | 3 | 4 }
+L:1/8
+Q:1/4=132
+M:3/4
+K:F
+V:1 treble nm="Klavier" snm="Klav."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^beschwingt" d2 | (d2 f2) (A2 | GF G2) e2 | F2 EF GA | (F2 !breath!E2) A2 | (d2 c2) =B2 | %6
+ (c=B A^G) (A2- | A=B) (c2 B2) | !breath!A4 d2 | (d2 f2) (A2 | GF) G2 e2 | F2 EF GA | %12
+ (F2 !breath!E2) =c2 | (d2 e2) f2 | (3BAB GB AG | (3AGA FA GF | (GB A2) G2 | c3 B (AG | %18
+ A)B (G3 F) | !breath!F2 A2 A2 | A2 GF GA | !breath!B2 B2 B2 | B2 AG AB | !breath!c2 f2 f2 | %24
+ d2 e4 | (^cd e2) e2 | f2 gf ed | e2 A2 d2 | FG G3 G | !breath!A4 d2 | (d2 f2) (A2 | GF G2) e2 | %32
+ F2 EF GA | (F2 !breath!E2) A2 | (dc) (cB) (BA) | G2 z2 z2 | (cB) (BA) (AG) | F2 z2 z2 | %38
+ (BA) (AG) (GF) | E2 z2 z2 | (AG) (GF) (FE) | ^c2 d2 z2 | F2 z2 z2 | F2 z2 z2 | E2 z2 z2 | %45
+ E2 z2 z2 | D2 z2 z2 | D2 z2 d2 | (^c2 d2) A2 | (GF G2) E2 | (FE F2) D2 | (BA B2) G2 | ^c2 A2 d2 | %53
+ GF (E3 D) | !fermata!D6 |] %55
+V:2
+ F2 | (F2 A2) (F2 | ED E2) E^C | (D2 A,2) ^C2 | (D2 !breath!^C2) z2 | (F2 G2) F2 | E2 E2 E2 | %7
+ A2 (A2 ^G2) | !breath!E4 F2 | (F2 A2) ((F2 | ED)) E2 E^C | (D2 A,2) ^C2 | (D2 ^C2) z2 | F4 C2 | %14
+ (D2 C2) C2 | (C2 B,2) B,2 | ((D2 E2) E2) | F4 F2- | F2 (F2 E2) | !breath!F2 F2 F2 | F2 ED EF | %21
+ !breath!G2 G2 G2 | G2 FE FG | !breath!F2 F2 F2 | F2 G4 | !breath!E3 A AG | F4 G2 | A4 F2- | %28
+ FG F2 D2 | !breath!E4 F2 | (F2 A2) (F2 | ED E2) E^C | (D2 A,2) ^C2 | (D2 ^C2) z2 | F2 E2 ^F2 | %35
+ (BA) (AG) (GF) | E2 D2 E2 | (AG) (GF) (FE) | D2 C2 D2 | (GF) (FE) (ED) | D2 D2 ^C2 | %41
+ E2 !breath!F2 D2 | D2 F2 z2 | D2 F2 z2 | B,2 E2 z2 | A,2 E2 z2 | A,2 D2 z2 | G,2 D2 z2 | %48
+ EG FE D2 | E3 E (GE) | D3 F (AF) | D3 G (=BG) | (ED E2) D2 | EF (D2 ^C2) | !fermata!A,6 |] %55
+V:3
+ z2 | z2 z2 A,2 | (A,2 E2) A,2 | (A,2 E,2) A,2 | A,A, !breath!A,2 z2 | A,D G,2 ^G,2 | A,2 ED (C2 | %7
+ D2) (E2 D2) | !breath!C4 A,2 | A,A, A,A, DA, | A,4 A,2 | (A,2 E,2) A,2 | A,4 z2 | B,4 F,2 | %14
+ (F,2 E,2) E,2 | (E,2 D,2) D,2 | (B,2 G,2) C2 | C4 C2 | A,D (C2 B,2) | !breath!A,2 A,B, CD | %20
+ C2 C2 C2 | !breath!B,2 B,C DE | D2 D2 D2 | !breath!C2 A,B, CA, | B,C B,A, G,B, | A,4 A,2 | %26
+ !breath!A,4 ^CD | ^C2 D=C B,F, | A,2 D2 D2 | ^C4 z2 | z2 z2 A,2 | (A,2 E2) A,2 | (A,2 E,2) A,2 | %33
+ A,A, A,2 z2 | D2 A,2 D2 | D2- C2 D2 | C2 G,2 C2 | C2- B,2 C2 | B,2 F,2 B,2 | B,2- A,2 B,2 | %40
+ A,2 B,2 A,2 | A,2 A,2 z2 | z (B, A,B, A,B,) | z (B, A,B, A,B,) | z (A, ^G,A, G,A,) | %45
+ z (A, ^G,A, G,A,) | z ((G, ^F,)G, F,G,) | z (G, ^F,G, F,G,) | A,4 (A,=B,) | ^C4 (CA,) | %50
+ A,2 z2 (F,A,) | G,2 z2 (G,=B,) | A,2 ^C2 A,2 | ^CA, (A,2 G,2) | !fermata!F,6 |] %55
+V:4
+ z2 | z D, (^C,D,) D,D, | D,2 ^C,=B,, C,A,, | (D,2 ^C,2) A,,2 | D,2 !breath!A,,2 F,2 | %5
+ F,2 E,2 D,2 | (E,D, C,)=B,, C,A,, | F,2 E,2 E,2 | (A,B, A,G, F,E, | D,)D, (^C,D,) D,D, | %10
+ D,2 ^C,=B,, C,A,, | (D,2 ^C,2) A,,2 | D,2 A,,2 z2 | B,,4 A,,2 | G,,2 z2 z2 | F,,2 z2 z2 | %16
+ (B,,2 C,2) C,2 | A,3 G, (F,E, | F,B,,) C,2 !breath!C,2 | F,,E,, F,,G,, A,,B,, | %20
+ C,2 C,2 !breath!C,2 | G,,F,, G,,A,, B,,C, | D,2 D,2 !breath!D,2 | A,,G,, F,,G,, A,,F,, | %24
+ B,,A,, G,,A,, B,,G,, | (A,,3 =B,,) ^C,2 | (D,2 =C,2) B,,2 | A,,2 F,2 D,2- | D,C, B,,2 B,2 | %29
+ (A,B, A,G, F,E, | D,)D, ^C,D, D,D, | D,2 ^C,=B,, C,A,, | (D,2 ^C,2) A,,2 | D,2 A,,2 z2 | %34
+ B,,2 C,2 D,2 | (G,,2 A,,2 B,,2) | A,,2 B,,2 C,2 | (F,,2 G,,2 A,,2) | G,,2 A,,2 B,,2 | %39
+ (E,,2 F,,2 G,,2) | F,,2 G,,2 A,,2 | G,2 !breath!F,2 D,2 | D,2 z2 z2 | D,2 z2 z2 | ^C,2 z2 z2 | %45
+ =C,2 z2 z2 | =B,,2 z2 z2 | _B,,2 z2 z2 | (A,,2 D,2) F,2 | (E,2 ^C,2) A,,2 | D,2 D,2 D,2 | %51
+ G,,2 G,2 E,2 | A,2 G,2 F,2 | E,D, A,2 A,,2 | !fermata!D,6 |] %55
+

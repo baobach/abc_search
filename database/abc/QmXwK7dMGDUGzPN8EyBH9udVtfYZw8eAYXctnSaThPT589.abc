@@ -1,0 +1,31 @@
+X:1
+T:20. Stay Home, Hanulienka
+T:For Children, Book 2,
+T:20. Stay Home, Hanulienka
+T:Béla Bartók Revised and Arranged by the Composer, January 1945 
+T:For Children Nr 20 , Sz 42 
+T:Book 2 (after Slovakian Folksongs)
+T:Oli 2020
+C:Bartók, Béla,
+Z:Oli 2020
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=187
+M:2/4
+K:C
+V:1 treble nm="Piano"
+V:2 bass 
+V:1
+"^Prestissimo"!f!!<(! (!1!FGA!1!B | cded | !^!c2!<)! !4!d2 | cB .A2) | (!^!!2!A2 G2 | AB .c2) | %6
+ (!^!!5!c2 B2 | AG F2) |!<(! (FGAB | cded | !^!c2!<)! d2 | cB A2) | (!^!A2 G2 | AB c2) | %14
+ (!^!c2 B2 | AG .F2) |!f!!<(! (FGAB | cde!<)!d | !^!c2 B2 | cB .A2) | (!^!A2 G2 | AB .c2) | %22
+ !fermata!z4 |[Q:1/4=60]"^Adagio" (a2 g2 | .a.b .c'2) |[Q:1/4=180]"^Vivo" (c2 B2 | AG .F2) |] %27
+V:2
+ (!3!!1![A,C]F,[A,C]F, | [G,B,]F,[G,B,]F, | [A,C]F,[A,C]F, | [A,C]F,[A,C]F,) | %4
+ (!2!!1![B,D]F,[B,D]F, | !3!!1![A,C]F,[A,C]F, | [G,B,]F,[G,B,]F, | !2!!1![A,C]!5!E,[A,C]E,) | %8
+ (!3!!1![F,A,]!5!D,[F,A,]D, | [E,G,]D,[E,G,]D, | [F,A,]D,[F,A,]D, | [F,A,]D,[F,A,]D,) | %12
+ (!3!!1![F,B,]D,[F,B,]D, | !2!!1![E,A,]A,,[E,A,]A,,) | (!2!!1![D,F,]G,,[D,F,]G,, | %15
+ !2!!1![C,F,]F,,[C,F,]F,,) | (!1!C,!5!F,,C,F,, | !2!B,,F,,B,,F,, | !3!A,,F,,A,,F,, | A,,F,,C,F,,) | %20
+ (!2!B,,F,,B,,F,, | !1!A,,!4!E,,A,,E,,) | !fermata!z4 |!p! (B,F,B,F, | A,E,A,E,) | (!4!C,2 D,E, | %26
+ !1!F,!2!C, .F,,2) |] %27
+

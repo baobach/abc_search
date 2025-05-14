@@ -1,0 +1,70 @@
+X:1
+T:Winterreise, D.911
+T:Die Nebensonnen
+T:Winterreise, D.911
+T:23. Die Nebensonnen
+T:Franz Schubert
+T:Wilhelm Müller
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+C:Franz Schubert
+Z:Wilhelm Müller
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=36
+M:3/4
+K:A
+V:1 treble nm="Singstimme\nVoice"
+V:2 bass nm="Pianoforte"
+V:4 bass 
+V:3 bass 
+V:5 bass 
+V:1
+"^Nicht zu langsam" z | z6 | z6 | z6 | z2 z2 z!p! c | c3/2 B/ B2 B c | d3/2 c/ c3 c | %7
+w: ||||Drei|Son- nen sah ich am|Him- mel steh'n, hab|
+ c3/2 B/ A2- (3A Bc | c3/2 B/ A2 z2 | z2 z2 z c | c3/2 B/ B3 c | d3/2 c/ c3 c | %12
+w: lang und fest _ _ sie|an- ge- sehn;|Und|sie auch stan- den|da so stier, als|
+ c3/2 B/ (A2 (3A) Bc | c3/2 B/ A2 z2 | z6 | z2 z2 z!mp! A | =c c c c (3cB A | B4 z e | %18
+w: woll- ten sie _ _ nicht|weg von mir.||Ach,|mei- ne Son nen seid _ ihr|nicht! schaut|
+ e3/2 =c/ c c d3/2 c/ | B4 z e | e3/2 d/ d3 e | =f3/2 e/ e3 e | e3/2 d/ =c3 c | =c3/2 B/ A2 z2 | %24
+w: an- dern doch in's An- ge-|sicht! Ja,|neu- lich hatt' ich|auch wohl drei; nun|sind hin- ab die|be- sten zwei.|
+ z6 | z2 z2 z ^c | c3/2 B/ B3 c | d3/2 c/ c3 c | c3/2 B/ A2- (3AB c | c3/2 B/ A2 z2 | z6 | z6 | %32
+w: |Ging'|nur die dritt' erst|hin- ter- drein! Im|Dun- keln wird _ _ mir|woh- ler sein.|||
+ z6 |] %33
+w: |
+V:2
+ E, | ([A,C]>[G,B,])!<(! ([G,B,]3 [A,C])!<)! |!>(! ([F,A,D]>[E,A,C])!>)! ([E,A,C]3 [E,A,C]) | %3
+ (C>B, !turn!A,3)!pp! (B,/C/) |!>(! (C>B,)!>)! A,3!pp! C | %5
+ ([A,C]>[G,B,])!<(! ([E,G,B,]3 [=G,A,C])!<)! |!>(! ([F,A,D]>[E,A,C])!>)! [E,A,C]3 [E,A,C] | %7
+ (C>B, A,3)!pp! [E,A,C] | (C>B, A,3)!mf! x |!>(! ([CE]>[B,D]!>)! C3)!f! x | %10
+ [F,A,C]>[F,B,]!<(! [F,B,]3 [F,^A,C]!<)! | [B,D]>[=A,C] [A,C]3 x |!>(! C>B,!>)! A,3!p! x | %13
+ (C>B, A,3)!f! x |!<(! (C>D!<)!!>(! D3)!>)!!p! x | (C>B, A,2) z2 |!p! [E,A,=C]4 z [E,A,] | %17
+!<(! (.[G,B,].[G,B,].[G,B,].[G,B,])!<)![K:treble]!>(! (3(B,ED)!>)! | [A,=C]4 z [A,C] | %19
+!<(! ([G,B,][G,B,][=G,B,][G,B,][G,=C][G,CE])!<)! | ([=CE]>[B,D]!<(! [B,D]3) x!<)! | %21
+!>(! [A,=F]>[=G,E]!>)! [=CE]3!p! x | (E>D"_dim." =C3) C |[K:bass] (=C>B,!pp! A,3) C | %24
+ (=C>B, A,G,A,D, | E,4) z!p! [E,A,C] | ([A,C]>[G,B,])!<(! ([E,G,B,]3 [=G,A,C])!<)! | %27
+!>(! ([F,A,D]>[E,A,C])!>)! [E,A,C]3 [E,A,C] | C>B, [F,A,]3!pp! [A,C] | C>B, A,3!f! [A,C] | %30
+!<(! (C>D)!<)!!>(! (D3!>)! [E,A,C]) | (C>B, A,3)!pp! [A,C] | (C>B, A,2) z2 |] %33
+V:3
+ z | (A,,>E,,) (E,,3 A,,) | (D,,>A,,) (A,,3 A,,) | (([E,,D,]2 [A,,C,]3)) A,, | %4
+ (([E,,D,]2 [A,,C,]3)) A,, | (A,,>E,,) (E,,3 A,,) | (D,,>A,,) A,,3 A,, | %7
+ (([E,,D,]2 [A,,C,]3)) A,, | (([E,,D,]2 [A,,C,]3)) [A,,E,] | [E,,E,]2 [A,,E,]3 F,, | %10
+ F,,>[D,,D,] [D,,D,]3 [C,,C,] | [B,,,B,,]>F,, F,,3 [F,,C,] | [^E,,C,]2 [F,,C,]3 [F,,C,] | %13
+ (([=E,,D,]2 [A,,C,]3)) [F,,C,] | ([^E,,C,]>[=E,,B,,]) ([E,,B,,]3 [A,,C,]) | %15
+ (([E,,D,]2 [A,,C,]2)) z2 | A,,4 z [A,,=C,] | (.[E,,E,].[E,,E,].[E,,E,].[E,,E,]) [E,,E,][B,,E,] | %18
+ [A,,E,]4 z [A,,E,] | (E,E,E,[D,=F,][=C,E,]C,) | (=C,>=G,,) (G,,3 C,) | (=F,,>=C,) C,3 C, | %22
+ [^G,,E,]2 [A,,E,]3 [A,,E,] | (([E,,D,]2 [=F,,=C,]3)) [F,,C,] | [E,,D,]2 =C,B,,A,,B,, | %25
+ [E,,G,,]4 z A,, | (A,,>E,,) E,,3 A,, | (D,,>A,,) A,,3 A,, | [^E,,C,]2 [F,,C,]3 [F,,C,] | %29
+ [=E,,D,]2 [A,,C,]3 [F,,C,] |!p! ([^E,,C,]>[=E,,B,,]) ([E,,B,,]3 [A,,C,]) | %31
+ (([E,,D,]2 [A,,C,]3)) [A,,E,] | (([E,,D,]2 [A,,C,]2)) z2 |] %33
+V:4
+ x | E,2 E,3 =G, | x6 | [E,^G,]2 E,3 [E,A,] | [E,G,]2 E,3 [E,A,] | E,2 x4 | x6 | [E,^G,]2 E,3 x | %8
+ [E,G,]2 E,3 [CE] | G,2 A,3 [F,A,C] | x6 | F,2 F,3 [A,C] | G,2 F,3 [A,C] | [E,G,]2 E,3 [A,C] | %14
+ G,2 G,3 [E,A,C] | [E,G,]2 E,2 x2 | x6 | x2 x2[K:treble] G,G, | x6 | x6 | =G,2 (G,3 [_B,=CE]) | %21
+ =C2 =G,3 [CE] | B,2 A,3 A, |[K:bass] ^G,2 A,3 A, | G,2 x4 | x6 | E,2 x4 | x6 | G,2 x4 | %29
+ [E,G,]2 E,3 x | G,2 G,3 x | [E,G,]2 E,3 x | [E,G,]2 E,2 x2 |] %33
+V:5
+ x | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %20
+ x6 | x6 | x6 | x6 | x2 =F,,4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %33
+

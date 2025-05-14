@@ -1,0 +1,37 @@
+X:1
+T:Leck mich im Arsch
+T:W.A. Mozart
+%%score 1 2 3 4
+L:1/8
+M:2/2
+K:Bb
+V:1 treble transpose=-2 nm="B♭ Trumpet" snm="Tpt. 1"
+V:2 treble transpose=-2 nm="B♭ Trumpet" snm="Tpt. 2"
+V:3 bass nm="Trombone" snm="Tbn."
+V:4 bass nm="Tuba" snm="Tba."
+V:1
+[K:C]!p! c8 | d8 | B8 | c8 |[K:C] z4 c4- | c4 B4 | z4 f4- | f4 e4 | e4 g4 | f4 d4 | g4 G4 | %11
+ z4 c2 B2 | A2 G2 F2 E2 | D2 D2 G2 A2 | G2 F2 E2 D2 | C2 gg gggg | g2 c2 c4 | z2 ff ffff | %18
+ f2 B2 B4 | z2 cd ef g2 |: A2 gg gggg | a2 d2 d4 | z2 gg gggg | g2 c2 c4 | c8 | d8 | B8 | c8 | %28
+ z4 c4- | c4 B4 | z4 f4- | f4 e4 | e4 g4 | f4 d4 | g4 G4 | z4 c2 B2 | A2 G2 F2 E2 | D2 D2 G2 A2 | %38
+ G2 F2 E2 D2 | C2 gg gggg | g2 c2 c4 | z2 ff ffff | f2 B2 B4 | z2 cd ef g2 :| g8 |] %45
+V:2
+[K:C] z8 | z8 | z8 | z8 |[K:C]!p! c8 | d8 | B8 | c8 | z4 c4- | c4 B4 | z4 f4- | f4 e4 | e4 g4 | %13
+ f4 d4 | g4 G4 | z4 c2 B2 | A2 G2 F2 E2 | D2 D2 G2 A2 | G2 F2 E2 D2 | C2 gg gggg |: g2 c2 c4 | %21
+ z2 ff ffff | f2 B2 B4 | z2 cd ef g2 | A2 gg gggg | a2 d2 d4 | z2 gg gggg | g2 c2 c4 | c8 | d8 | %30
+ B8 | c8 | z4 c4- | c4 B4 | z4 f4- | f4 e4 | e4 g4 | f4 d4 | g4 G4 | z4 c2 B2 | A2 G2 F2 E2 | %41
+ D2 D2 G2 A2 | G2 F2 E2 D2 | C2 gg gggg :| e8 |] %45
+V:3
+ z8 | z8 | z8 | z8 |[K:Bb] z8 | z8 | z8 | z8 |!p! B,8 | C8 | A,8 | B,8 | z4 B,4- | B,4 A,4 | %14
+ z4 E4- | E4 D4 | D4 F4 | E4 C4 | F4 F,4 | z4 B,2 A,2 |: G,2 F,2 E,2 D,2 | C,2 C,2 F,2 G,2 | %22
+ F,2 E,2 D,2 C,2 | B,,2 FF FFFF | F2 B,2 B,4 | z2 EE EEEE | E2 A,2 A,4 | z2 B,C DE F2 | %28
+ G,2 FF FFFF | G2 C2 C4 | z2 FF FFFF | F2 B,2 B,4 | B,8 | C8 | A,8 | B,8 | z4 B,4- | B,4 A,4 | %38
+ z4 E4- | E4 D4 | D4 F4 | E4 C4 | F4 F,4 | z4 B,2 A,2 :| B,8 |] %45
+V:4
+ z8 | z8 | z8 | z8 |[K:Bb] z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |!p! B,,8 | C,8 | A,,8 | B,,8 | %16
+ z4 B,,4- | B,,4 A,,4 | z4 E,4- | E,4 D,4 |: D,4 F,4 | E,4 C,4 | F,4 F,,4 | z4 B,,2 A,,2 | %24
+ G,,2 F,,2 E,,2 D,,2 | C,,2 C,,2 F,,2 G,,2 | F,,2 E,,2 D,,2 C,,2 | B,,,2 F,F, F,F,F,F, | %28
+ F,2 B,,2 B,,4 | z2 E,E, E,E,E,E, | E,2 A,,2 A,,4 | z2 B,,C, D,E, F,2 | G,,2 F,F, F,F,F,F, | %33
+ G,2 C,2 C,4 | z2 F,F, F,F,F,F, | F,2 B,,2 B,,4 | B,,8 | C,8 | A,,8 | B,,8 | z4 B,,4- | B,,4 A,,4 | %42
+ z4 E,4- | E,4 D,4 :| B,,8 |] %45
+

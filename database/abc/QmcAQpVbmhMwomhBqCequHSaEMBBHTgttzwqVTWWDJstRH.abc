@@ -1,0 +1,62 @@
+X:1
+T:The Well-Tempered Clavier Part II Praeludium XXIV
+T:BWV 893
+T:J. S. Bach
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=132
+M:2/2
+K:D
+V:1 treble nm="Harp"
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+"^Allegro" DFB,C DFB,D | CF G/F/^E/F/ ^AFc=E | DFB,C DFB,D | CFC^A, F, z z2 | z2 d2 B2 F2 | %5
+ z2 e2 c2 F2 | z2 f2- fe/d/ e/d/c/B/ | B2- B/4^A/4B/4A/4B/4A/4B/4A/4 z E/D/ C/D/E | %8
+ DB/c/ d/c/B- B f2 A- | AB/A/ ^G/A/B- B D2 B | CA/B/ c/B/A- A e2 =G- | =GA/G/ F/G/A- A C2 A | %12
+ B, F2 A- AG/F/ G/F/E/D/ | C G2 B- BA/G/ A/G/F/E/ | D A2 =c- cB/A/ B/A/G/F/ | %15
+ E B2 d- dc/B/ c/B/A/G/ | FADE FADF | EA B/A/^G/A/ cAe=G | FADE FADF | EAEC A, z z2 | %20
+ z2 A2 B/A/^G/A/ f2 | z2 A2 B/A/^G/A/ g2 | z2 A2 B/A/^G/A/ad | %23
+ d2- d/4c/4d/4c/4d/4c/4d/4c/4 d/4c/4B/c/^d/ e/d/c/d/ | egB^d egBe | e2 ^df B2 Af | f/e/^deA A2 Ge | %27
+ e^d a2- a/g/f/e/ d/c/B/A/ | GBEF GBEG | FB =c/B/^A/B/ ^dBf=A | GBEF GBEG | %31
+ FBF^D B,2 e/4^d/4c/4d/4-[dd] | e2 B2 g/f/e/f/gB | B/4A/4B/4A/4^GAc ceac | d2 A2 f/e/d/e/fA | %35
+ A/4G/4A/4G/4FGB BdgB | c g2 f ^A e2 d | ^E2 F2 ^G2 A2 | B2 c2 d ^E2 F | ^G B,2 D2 C2 B, | %40
+ A,CF,^G, A,CF,A, | ^G,C D/C/^B,/C/ ^EC^G=B, | A,2 C2 F2 A2 | ^E2 ^G2 B2 d2 | %44
+ cF/^G/ A/G/F- F c2 E- | EF/E/ D/E/F- F A,2 F | G,E/F/ G/F/E- E B2 D- | DE/D/ C/D/E- E G,2 E | %48
+ F, C2 E- ED/C/ D/C/B,/^A,/ | B, F2 A- AG/F/ G/F/E/D/ | E B2 d- dc/B/ c/B/^A/^G/ | %51
+ ^A e2 g- gf/e/ f/e/d/c/ | d ^A2 B c>^d e/d/c/d/ | e ^A2 B d A2 B | g/f/ e2 e- e/f/e/^d/ee- | %55
+ e/A/G/F/G e2 G2 G- | %56
+[Q:1/4=72]"^Adagio" GF/d/{!fermata!d} !fermata!c2[Q:1/4=132]"^Allegro" z E/F/ G/F/E | DF^AB dcBA | %58
+ B2 F2 G/F/^E/F/ d2 | z2 F2 G/F/^E/F/ e2 | z2 F2 G/F/^E/F/fA | A2 ^G2 z G/^A/ B/c/d/e/ | %62
+ B2 ^A2 z A/B/ c/B/A | ^e2 f2 z4 | z B/A/ G/F/E z B2 ^A | !fermata!B8 |] %66
+V:2
+ B,,2 D,2 F,2- F,/G,/F,/^E,/ | F,2 ^A,,2 C,2 F,2 | B,,2 D,2 F,2- F,/G,/F,/^E,/ | %3
+ F,2 F,,2 z E,D,C, | D,F,B,,C, D,F,B,,D, | C,F, G,/F,/^E,/F,/ ^A,F,C=E, | D,F,B,,C, D,F,B,,D, | %7
+ C,F,C,^A,, F,,2 ^A,2 | B,,2 B,2 C2 ^D2 | E2 E,2 F,2 ^G,2 | A,,2 A,2 B,2 C2 | D2 D,2 E,2 F,2 | %12
+ G,,2 B,,2 D,2 E,2 | A,,2 C,2 E,2 F,2 | B,,2 D,2 F,2 G,2 | C,2 E,2 G,2 A,2 | %16
+ D,2 F,2 A,2- A,/B,/A,/^G,/ | A,2 C,2 E,2 A,2 | D,2 F,2 A,2- A,/B,/A,/^G,/ | A,2 A,,2 z G,F,E, | %20
+ F,A,D,E, F,A,D,F, | E,A, B,/A,/^G,/A,/ CA,E=G, | F,A,D,E, F,A,D,F, | E,A,E,C, A,,A,G,F, | %24
+ G,B,E,F, G,B,E,G, | F,B, =C/B,/^A,/B,/ ^DB,F=A, | G,B,E,F, G,B,E,G, | F,B,F,^D, B,,2 z2 | %28
+ z2 G,2 E,2 B,,2 | z2 A,2 F,2 B,,2 | z2 B,/4A,/4B,3/2- B,A,/G,/ A,/G,/F,/E,/ | %31
+ E,2- E,/4^D,/4E,/4D,/4E,/4D,/4E,/4D,/4 z A,/G,/ F,/G,/A, | G,[I:staff -1]E/F/ G/F/E- E B2 =D- | %33
+ =DE/D/ C/D/E- E[I:staff +1] G,2[I:staff -1] E |[I:staff +1] F,[I:staff -1]D/E/ F/E/D- D A2 =C- | %35
+ CD/=C/ B,/C/D- D[I:staff +1] F,2 D | E,2 D,2 C,2 B,,2- | B,, D2 C ^E, B,2 A, | %38
+ D, ^G,2 F, B,,2 B,2 | ^E,2 ^G,2 C,2 E,2 | F,,2 A,,2 C,2- C,/D,/C,/^B,,/ | C,2 ^E,,2 ^G,,2 C,2 | %42
+ F,,C,F,^G, A,CF,A, | ^G,C D/C/^B,/C/ ^EC^G=B, | A,2 F,2 ^G,2 ^A,2 | B,2 B,,2 C,2 ^D,2 | %46
+ E,,2 E,2 F,2 G,2 | A,2 A,,2 B,,2 C,2 | D,,2 F,,2 A,,2 D,2 | G,,2 B,,2 D,2 G,2 | C,2 E,2 G,2 C2 | %51
+ F,2 ^A,2 C2 F2 | B,2 G2 A,GFA, | G,2 E2 F,EDF, | E,D=CE, D,CB,D, | C,B,^A,C, B,,A,B,B,, | %56
+ !fermata!^A,,4 z2 ^A,2 | B,2 G,2 E,2 F,2 | D,F,B,,C, D,F,B,,D, | C,F, G,/F,/^E,/F,/ ^A,F,C=E, | %60
+ D,F,B,,C, D,F,B,,C, | D,2 D,,2 z2 D,2 | C,2 C2 z C/D/ E/D/C | ^G2 C2 z F,/^G,/ ^A,/B,/C | %64
+ D,2 E,2 F,2 F,,2 | !fermata!B,,8 |] %66
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %38
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z4 z E2 E- | %56
+ E4 z4 | x8 | x8 | x8 | x8 | [G,E]4 z4 | [E=G]4 z4 | [Bd]2 [Fc]2 z4 | z4 D2 [CE]2 | [B,DF]8 |] %66
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %38
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %57
+ x8 | x8 | x8 | x8 | x8 | x8 | B,2 ^A,2 z4 | x8 | x8 |] %66
+

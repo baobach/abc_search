@@ -1,0 +1,40 @@
+X:1
+T:Little Prelude in C Major, BWV 938
+T:Prelude, BWV 924
+T:Kleine Präludien
+T:Johann Sebastian Bach
+C:Johann Sebastian Bach
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=82
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:1
+"^Moderato"!p! z/ !1!G/!3!c/e/ z/ G/c/e/ z/ G/!3!c/!4!d/ z/ !2!B/!3!d/g/ | %1
+ z/ A/!2!d/g/ z/ A/d/f/ z/ A/d/e/ z/ c/!3!e/a/ | %2
+!mf! z/ !1!B/!2!e/a/ z/ !1!B/!3!e/g/ z/ !2!c/e/f/ z/ G/!2!d/f/ | %3
+ z/ !1!G/!4!d/e/ z/ !1!G/!3!c/e/ z/ !2!A/c/d/ z/ E/B/d/ | %4
+ z/ !1!E/!4!B/c/ z/ E/A/c/ z/ !1!F/!3!A/_B/ z/ C/!3!G/!5!B/ | %5
+!mp! z/!<(! !1!C/!4!G/A/ z/ !1!C/!3!F/A/ z/ !1!D/!2!F/=B/ z/ !1!E/!2!G/!<)!c/ | %6
+!mf! z/ D/G/c/ z/ D/G/B/ z/ !1!C/!3!G/=B/ z/ !1!C/!3!^F/A/ | %7
+ z/ B,/D/A/ z/ B,/D/G/ z/ A,/C/G/ z/ A,/C/=F/ |!mf! !arpeggio![B,DF]2 z2"_cresc." z4 | %9
+ z2 F/G/B/d/ B/G/B/d/ f/g/b/f/ |!f! e/c'/g/f/ e/c'/g/e/ d/c'/f/e/ d/b/f/d/ | %11
+"_dim." c/b/e/d/ c/a/e/c/ B/a/d/c/ B/g/!3!d/!2!B/ | %12
+ A/g/c/B/ A/^f/!3!c/!1!A/ B/=f/!3!d/!2!c/ !1!B/f/!4!d/B/ | %13
+ G/e/c/B/ A/e/!4!c/A/ !1!^F/d/B/A/ G/!5!d/!4!B/!2!G/ | %14
+!mf! E/c/A/G/ !1!^F/c/A/F/ D/!5!c/B/4c/4B/4A/4"_cresc." B/G/!5!d/!2!=F/ | %15
+ G/E/F/d/ c/B/A/G/ !5!f/d/_e/c/!>(! ^F/!5!e/d/c/ | %16
+ B/d/B/G/!>)! !4!_A/=F/!3!G/D/!<(! !2!_E/^F/!4!=A/c/ z/!<)! !>!c!4!B/ |!f! !fermata![CEGc]8 |] %18
+V:2
+ C,2 E,2 G,/4^F,/4G,3/2 G,,2 | D,2 F,2 A,/4^G,/4A,3/2 A,,2 | %2
+ E,2 E/4^D/4E3/2 A,2 A,/4B,/4C/4B,/4C/4B,/4A,/4B,/4 | %3
+ C2 E,2 ^F,2 A,/4^G,/4A,/4G,/4A,/4G,/4F,/4G,/4 | A,2 C,2 D,2 D,/4E,/4F,/4E,/4F,/4E,/4D,/4E,/4 | %5
+ F,2 E,2 D,/4E,/4D,3/2 C,2 | G,/4^F,/4G,3/2 G,,2 G,/4F,/4G,3/2 G,,2 | %7
+ G,/4^F,/4G,3/2 G,,2 G,/4F,/4G,3/2 G,,2 | G,2 z2 z/ G,,/B,,/D,/ F,/G,/B,/D/ | B,/G,/B,/D/ z2 z4 | %10
+ [G,,G,]8- | [G,,G,]8- | [G,,G,]8- | [G,,G,]8- | [G,,G,]8- | [G,,G,]8- | [G,,G,]8 | !fermata!C,8 |] %18
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x6 D=F | x8 |] %18
+

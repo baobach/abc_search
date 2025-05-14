@@ -1,0 +1,50 @@
+X:1
+T:Arie "Dignare, o Domine"
+T:Arie "Dignare, o Domine"
+T:Aus dem Dettingen Te Deum
+T:Georg-Friedrich HAENDEL (1685 † 1759)
+C:Georg-Friedrich HAENDEL (1685 † 1759)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/8=70
+M:4/4
+K:D
+V:1 treble nm="Flûte"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Largo"!p! z2 F2 (d3 c) | ^A4 z2 B2 |!<(! G3 F F3!<)! F |!mf! =c3 (B/A/) G2 z (!courtesy!=c/B/) | %4
+ G3 (F/E/) E2 z2 |!p!!<(! ^G3 G!<)! G4- | G!p!!<(! B2 ^A ^^F2!<)! z!mf! ^d | %7
+!>(! (^d^G) z!>)!!mp! ^G (c3 F) |"^rit."[Q:1/8=65] (E ^D2) ^G[Q:1/8=55] E2 z c[Q:1/8=60] | %9
+"^a tempo"[Q:1/8=70] c ^E2 E (F/E/F) z2 |!p! B2!<(! BB B3!<)! d | %11
+ d"^Arie \"Dignare, o Domine\" page 2" !>!=c2 B ^A3 A |!>(! B6 (F!>)!E) | D>D GG G>F F2 | %14
+ z2!mp! !>!c2 F>F F(d/4c/4B/) | ^A2- (A>B) B4 || z8[Q:1/8=60][Q:1/8=50] |[Q:1/8=65] z8 |] %18
+V:2
+!p! [B,D][B,D][B,D][B,D] [F,DF][F,DF][F,DF][F,DF] | [CE][CE][CE][CE] [B,F][B,F][B,F][B,F] | %2
+!<(! [B,D][B,D][A,C][A,C] [A,D][A,D][A,D]!<)![A,D] |!mf! [=CFA][CFA][CFA][CF] [B,E][B,E][CEF][EF] | %4
+ [B,E][B,E][B,E][B,^D] [G,B,][G,B,][B,EG][B,EG] | %5
+!p! [B,E]!<(![B,E][B,E][B,E] [B,^D][B,D][B,D]!<)![B,D] | %6
+ [B,^E]!p![B,E^G]!<(![B,EG][B,^E] [^A,^D][A,D][D^^FA]!<)!!mf![DFA] | %7
+!>(! [^D^G][DG][DG]!>)![DG] [EG][EG][CF][CF] | %8
+[K:bass] [^G,C][G,C][G,^B,][G,B,] [G,C][G,C][G,C][G,E^G] | %9
+ [^G,^E^G][G,C][G,C][G,C] [F,C][F,C][F,C][F,C] | %10
+!p! [=G,B,F]!<(![G,B,F][G,B,E][G,B,E] [F,DF][F,DF][F,DF]!<)![F,DF] | %11
+[K:treble] [EG][EG][EG][DG] [^CF][CF][CF][CF] | [DF][DF][DG][DG]!>(! [DF][DF][^A,C]!>)![A,C] | %13
+[K:bass]!mp! [F,B,][F,B,][B,D][B,D] [CE][CE][CE][CE] | %14
+[K:treble] [CF^A][CFA][CGA][CGA] [B,F][B,F][B,F][EG] | [CF][CF][CF][EF] [DF][DF][^DF][DF] || %16
+!<(! Bef!<)!g"^rit."!>(! d2 Tc>B!>)! | !fermata![DB]8 |] %18
+V:3
+ B,,B,,B,,B,, B,,B,,B,,B,, | C,C,C,C, D,D,D,D, | E,E,A,,A,, D,D,D,D, | ^D,D,D,D, E,E,A,,A,, | %4
+ B,,B,,B,,B,, E,E,E,E, | E,E,E,E, ^D,D,D,D, | ^^C,C,C,C, ^C,C,C,C, | B,,B,,B,,B,, =A,,A,,A,,A,, | %8
+"^rit." ^G,,G,,G,,G,, C,C,C,C, |"^a tempo" B,,B,,B,,B,, A,,A,,A,,A,, | =G,,G,,G,,G,, F,,F,,F,,F,, | %11
+ E,,E,,E,,E,, E,,E,,E,,E,, | D,,D,,E,,E,, F,,F,,F,,F,, | B,,B,,B,,B,, ^A,,A,,A,,A,, | %14
+ E,E,E,E, D,D,D,E, | F,F,F,,F,, B,,B,,=A,,A,, || G,,G,D,E, F,F,F,F, | x8 |] %18
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[K:bass] x8 | x8 | x8 |[K:treble] x8 | x8 |[K:bass] x8 | %14
+[K:treble] x8 | x8 || [EG][GB][FB][GB] [FB][FB][E^A][EA] | x8 |] %18
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | %17
+ !fermata!B,,8 |] %18
+

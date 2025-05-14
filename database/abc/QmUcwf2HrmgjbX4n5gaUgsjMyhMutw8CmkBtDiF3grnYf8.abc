@@ -1,0 +1,79 @@
+X:1
+T:Signore ascolta
+T:Signore ascolta
+T:Turandot
+T:Giacomo Puccini
+C:Giacomo Puccini
+%%score 1 2 { ( 3 6 7 ) | ( 4 5 8 ) }
+L:1/8
+Q:1/4=44
+M:4/4
+K:Gb
+V:1 treble nm="Voice"
+V:2 treble nm="Harp"
+V:3 treble nm="Piano"
+V:6 treble 
+V:7 treble 
+V:4 treble 
+V:5 treble 
+V:8 treble 
+V:1
+"^Adagio" z4"^Liù:" z (d d>e | (d/B/) B3) (Az/A/ BG | B2 B2) z (d2 e | dA d2- d)(e/d/) (Bd | %4
+w: Si\- gno\- rea|scol\- _ ta! Ah, si\- gno\- rea\-|scol\- ta! Liù non|reg\- ge più _ Si spez\- zail *|
+ eage d) z"^rit." (3(e2 d/B/ |"^a tempo" A2 A2)!<(! (B!<)!!>(!e/d/!>)! BE/D/ | %6
+w: cuor! Ahi\- mé, ahi\- mé, quan\- toc cam\-|mi\- no col tuo _ no\- me nell'|
+ (G>A) G2)"^rit." (Be/d/ BE/D/ |"^[a tempo]" (G>A) G2) z (e/d/ Bd | (ea/g/) ee egd{/f}f | %9
+w: a\- ni\- ma, col no\- me tuo sul\- le|lab\- ra! * Ma seil tuo de\-|sti- * * no, do\- man, sa\-. rà de\-|
+ d2 d2) z2 (Bd | (e2 a2) g2 g2 |[M:2/4] (d/e/)(g/a/) e(d/B/) | A2 A2) || %13
+w: ci\- so, noi mor\-|rem _ sul\- la|stra\- * da * dell' e\- *|si\- lio!|
+[M:4/4] (de/d/ B(E/D/) (G>A) G2) |"^rall."[Q:1/4=37] (de/d/ BF/D/ G>A G2) |"^Lento" (A4 a4 | %16
+w: Ei per\- de\- rà suo _ fi- * glio...|io l'om\- bra d'un sor- * ri- * so!|Liù non|
+ g3 G G4) | (A4"^rall."[Q:1/4=34] (a4 | !invertedturn!b6-)"^molto rit." b) z | z8 |] %20
+w: reg\- ge più|Ah, pie\-|tà! _||
+V:2
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |[M:2/4] z4 | z4 ||[M:4/4] z8 | z8 | %15
+"^(Harp)" (7:4:7(A/B/c/d/e/f/g/ a) z z4 | (7:4:7(__B/c/d/__e/_f/g/a/ __b) z z4 | %17
+ (7:4:7([cc']/d/e/_f/g/a/b/ c') z (7:4:7([=c=c']/=d/=e/=f/=g/=a/_c'/ =c') z | %18
+ (7:4:7([!courtesy!_d_d']/e/f/_g/a/b/_c'/ d') z z4 | z8 |] %20
+V:3
+!pp! [Bd]8- | (d8 | d4-)!<(! d3 e!<)! |!>(! (d!>)!A)!p! (d2- d(e/d/) Bd) | %4
+w: ||||
+!<(! (e!<)!!mf!a!>(!ge)!>)! (d/e/g/a/)!>(! (3(e2 d/B/!>)! | %5
+w: * * * * * * * * rit. * *|
+ A2- A) z!<(! (Be/!<)!!>(!d/)!>)! (BE/D/) | (G>A G2)!p! (Be/d/)!pp! BE/D/ | %7
+w: a~tempo * * * * * * *|* * * rit. * * * * *|
+"^[a tempo]"!<(! z4 z!p! (e/d/ Bd!<)! | ea/g/ e2- e) z d{/f}f | d4-!p! d!<(!(e/d/ Bd)!<)! | %10
+w: |||
+ (!arpeggio![EGce]2 [Aa]2 [Gg]2 [Ee]2) | %11
+w: |
+[M:2/4]!p!!<(! (!arpeggio![DGBd]/[Ee]/[Gg]/[Aa]/!<)!!>(! [Ee][Dd]/[B,B]/)!>)! | [A,A]4 || %13
+w: ||
+[M:4/4] z (e/d/)!>(! B(E/D/) (G>!>)!A G2) |"^rall."!<(! B(e/d/)!<)!!>(! B(E/D/)!>)! (G>A G2) | %15
+w: ||
+ !arpeggio![Acea]8 | (__b6 _b2) | (c'4"^rall." =c'4) | %18
+w: |||
+ !arpeggio![gbd']4 ([B,B]!<(![Ee]/[Dd]/)!<)!!>(! !tenuto!B!>)!E/D/ | (G3 A G2- G) z |] %20
+w: ||
+V:4
+ G8- | G4 F2 GE | G8 | [FA]2 ([FA]2 [EG]2 D2) | G2 EG- G4 | [DF]2- [DF] z[K:bass] z (B,=C)_C | %6
+ [G,B,]4 ([E,G,][G,B,] [CE])[D,F,] | [G,B,D]8 |[K:treble] [CEG]6 [B,DG][CEG] | %9
+ [B,DG]4!<(! [B,DG]4!<)! |[K:bass]!f!!ped!{/[C,,G,,]} [CE]8 | %11
+[M:2/4] !arpeggio![B,,G,B,]2!ped-up! [G,B,]2 | [D,F,]4 ||[M:4/4]!pp! z B,[=CE][D,F,] G,4 | %14
+ [E,G,]2- [E,G,]F, D,4 |!ped! !arpeggio![F,G,A,C]8!ped-up! |!ped! [G,__EG]8!ped-up! | %17
+!ped! (!arpeggio![C_F]4!ped! !arpeggio![=C__E]4)!ped-up! | %18
+!ped! !arpeggio![G,D]4!mf! [E,,B,,]2 =C,,!pp!!pp!D,,!ped-up! |{/G,,,} [G,,D,]6- [G,,D,] z |] %20
+V:5
+ D8- | D8 | D4- D3 E | x8 | C4 B,4 | x4[K:bass] z2 z D, | x8 | x8 |[K:treble] x8 | x8 | %10
+[K:bass] x8 |[M:2/4] x4 | x4 ||[M:4/4] x8 | z (B,,A,,D,,) G,,4 | x8 | (__B,6 _B,2) | z8 | x8 | %19
+ x8 |] %20
+V:6
+ x8 | B4 A2 BG | B8 | x8 | x8 | x4 G3 F | D4 z2 z C | (G>A G2- G4) | x8 | x8 | x8 |[M:2/4] x4 | %12
+ x4 ||[M:4/4] x G-G_C [B,D]4 | (B,E/D/) (B,C) B,4 | x8 | [__eg]8 | !arpeggio!a8 | %18
+ d4 [EG]2- [B,EG][F,C] | [B,D]6- [B,D] x |] %20
+V:7
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:2/4] x4 | x4 ||[M:4/4] x8 | x8 | x8 | %16
+ __B6 _B2 | !arpeggio![cf]4 !arpeggio![=c=f]4 | x8 | x8 |] %20
+V:8
+ x8 | x8 | x8 | x8 | x8 | x4[K:bass] x4 | x8 | x8 |[K:treble] x8 | x8 |[K:bass] x8 |[M:2/4] x4 | %12
+ x4 ||[M:4/4] x8 | x8 | x8 | x8 | G,8 | x8 | x8 |] %20
+

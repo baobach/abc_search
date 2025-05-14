@@ -1,0 +1,51 @@
+X:1
+T:Sur une tombe...
+T:Sur une tombe...
+T:Louis VIERNE,Op.36
+C:Louis VIERNE,Op.38
+%%score { ( 1 2 ) | ( 3 4 5 ) }
+L:1/8
+Q:1/4=40
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:5 bass 
+V:1
+"^Molto lento e sostenuto."!p! z2 (GA G2 EC |!>(! D8)!>)! | z (GcB AGEC | D6) z E | (E3 G G3 B | %5
+!<(! B3 e d2 B2 | d2 de f3!<)! d |!mp!!>(! c8)[Q:1/4=36]!>)! |[Q:1/4=40]"^tempo"!p! B2 Bc A2 F2 | %9
+ E3 E GG FE | CC A,C E4 | (FGAB!<(! c3 d!<)! |!p!!>(! d4 A4)!>)! |!p! (_E=F!<(!G_A _B3 c!<)! | %14
+"^tre corde"[Q:1/4=36]!mp!!>(! c8)!>)![Q:1/4=32] |"^tempo"!pp![Q:1/4=40] z2"_intime" (GA G2 EC | %16
+!>(! D8)!>)! |!<(! z (GcB!<)! AGEC | D8) | (G3!pp! G"^perdendosi" E2 DC | G8) | %21
+ =G2[Q:1/4=36] GG[Q:1/4=32] C3[Q:1/4=30] C | %22
+"_lento"[Q:1/4=40] !fermata![CG]8[Q:1/4=44][Q:1/4=36][Q:1/4=30] |] %23
+V:2
+ C4 B,2 _B,2 | x8 | C4- CB,_B,A, | x8 | A,4 C4 | E4 G4 | A2 FE D2 DE | F3 D C4 | D4 C2 D2 | %9
+ G,4 B,2 A,G, |[I:staff +1] F,2 ^F,2[I:staff -1] (G,2 ^G,2 | A,2) F2 E2 _E2 | D8 | %13
+ _A,2 C2 _D2 _E2 | _E8 | C4 B,2 _B,2 | x8 | C4- CB,_B,A, | x8 | C4 B,2 _B,2 | A,4 ^G,4 | x8 | x8 |] %23
+V:3
+"_una cordi"!ped! E,8!ped-up! |!ped! A,3 G, F,4!ped-up! |!ped! E,8!ped-up! | %3
+!ped! G,3 F, E,4!ped-up! |"^poco cresc."!ped! [A,,,E,,C,]4!ped-up!!ped! [C,,G,,E,]4!ped-up! | %5
+!ped! [E,,B,,G,]4!ped-up!!ped! [G,,D,B,]4!ped-up! | %6
+!ped! [D,,A,,F,]4!ped-up!!ped! [_B,,,F,,D,]4!ped-up! |"^rit."!ped! [F,,C,A,]8!ped-up! | %8
+!ped! [G,,E,]4!ped-up!!ped! [A,,F,]2!ped-up!!ped! [B,,A,]2!ped-up! | %9
+!ped! [C,,B,,]4!ped-up!!ped! [E,,D,]2!ped-up!!ped! [A,,C,]2!ped-up! | %10
+!ped! E,4!ped-up!!ped! D,4!ped-up! | %11
+!ped! [A,,,C,]4!ped-up!!ped! [A,,C]2!ped-up!!ped! [G,,_B,]2!ped-up! |!ped! [^F,,A,]8!ped-up! | %13
+"^subito"!ped! C,2 _E,2!ped-up!!ped! F,2 G,2!ped-up! |"^rit."!ped! G,4 ^F,4!ped-up! | %15
+!ped! E,8!ped-up! |!ped! A,3 G, F,4!ped-up! |!ped! E,8!ped-up! |!ped! (G,3 F, E,4)!ped-up! | %19
+"^sempre"!ped! [A,,E,]4!ped-up!!ped! [G,,C,]2!ped-up!!ped! [_G,,D,]2!ped-up! | %20
+!ped! [=F,,_E,]4!ped-up!!ped! [=E,,D,]4!ped-up! | %21
+"^rall. molto"!ped! =G,4!ped-up!!ped! ^F,2!ped-up!!ped! =F,2!ped-up! | %22
+!ped! !arpeggio!!fermata![C,,,C,,G,,E,]8!ped-up! |] %23
+V:4
+ C,,8 | [F,,,F,,]3 [G,,,G,,] [A,,,A,,]4 | C,,8 | [E,,,E,,]3 [F,,,F,,] [G,,,G,,]4 | x8 | x8 | x8 | %7
+ x8 | x8 | x8 | D,,4 C,,2 B,,,2 | x8 | x8 | =F,,4 _E,,4 | _A,,,4 _A,,4 | C,,8 | %16
+ [F,,,F,,]3 [G,,,G,,] [A,,,A,,]4 | C,,8 | ([E,,,E,,]3 [F,,,F,,] [G,,,G,,]4) | x8 | x8 | %21
+ _E,,4 =D,,2 _D,,2 | (3xxx (3xxx x4 |] %23
+V:5
+ G,,8 | C,8 | G,,8 | =B,,8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | G,,8 | C,8 | %17
+ G,,8 | =B,,8 | x8 | x8 | _B,,4 C,_B,, _A,,2 | x8 |] %23
+

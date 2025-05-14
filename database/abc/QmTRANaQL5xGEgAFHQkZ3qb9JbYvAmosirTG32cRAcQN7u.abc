@@ -1,0 +1,56 @@
+X:1
+T:Romanza facile
+T:Romanza facile
+T:Giuseppe Martucci
+C:Giuseppe Martucci
+%%score { ( 1 3 ) | 2 }
+L:1/8
+Q:1/4=85
+M:2/4
+K:E
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:1
+"^Andantino con moto" z[I:staff +1] [G,B,]2[I:staff -1] z | z[I:staff +1] [G,B,]2[I:staff -1] z | %2
+ (G2 BA | G2 BA | ABcB | G2!p! G2-) |!<(! (GBcd | e2 dc | B^AG!f!A!<)! |!>(! c2 B!p!=A)!>)! | %10
+ (G2 (3cBA | G2 FG |!<(! AB!<)!!>(!dc | A2!>)! G2-) |!<(! (GGBe-!<)! |!>(! ecBC)!>)! | %16
+!p! (DE{EG}F>D) | E4 |!mf! G2 B2 | (e2 dc |!<(! ^Bcd>d!<)! |!>(! d2 G2-)!>)! |"_cresc." (GG (3Ace | %23
+ g2 fe |!<(! dc^B>c!<)! |!f! d4) |!mf! (d2 e2- | ed^BG | ^^FG^A>G | ^A2 D2) |!>(! z (de^f | %31
+ e!arpeggio!d^BG!>)! |!p! E2 G>^^F | G4) |!>(! z2 (C2!>)! | G4) |!>(! z2!mf! (3(^A,CE!>)! | G4-) | %38
+!p! (GG (3B^A=A | G2 FG |!<(! AB!<)!!>(!{Bd}cB!>)! | A2 G2-) |!<(! (GBcd | e2 dc | B^AGA!<)! | %45
+ c2 B=A) |"^espress."!<(! (G/A/B/!<)!c/!>(! d/e/c/!>)!B/ | G2 FG |!<(! AB (3fdF!<)! | %49
+!>(! A2 G2-)!>)! |!<(! (GBgf-!<)! | fe (3cAF |!p! D/E/C/B,/{EG} F>E | E4) |!p! (B2 c2- | %55
+ c!arpeggio!dGE |!<(! DE!<)!F>F | F2 G2) |!<(! (B2 c>c!<)! |!f! bg f/e/c/!>(!B/ | %60
+ (5:4:5G/F/D/E/B,/ F>!>)!G | G4) |"^poco meno" (G2 BA | G4) | %64
+!<(! (5:4:5(G/!<)!A/!>(!G/F/!>)!G/ cB | G4-) | G4 | %67
+!pp! z2[I:staff +1] (5:4:5G,/B,/[I:staff -1]E/G/B/ | !fermata!e'4 |] %69
+V:2
+!ped! E,, B,,2 B,,,!ped-up! | E,, B,,2 B,,, | %2
+"^ben marcato ed espressivo il canto" E,, [B,,G,]2 B,,, | D,, [B,,A,]2 B,,, | D,, [B,,A,B,]2 B,,, | %5
+ E,, B,,2 E, | G,, [E,B,]2 [E,B,] | C,, [G,C]2 C | F,, [F,C]2 F,, | C,, [B,,F,]2 z | %10
+ E,, [B,,G,]2 B,,, | D,, [B,,A,B,]2 B,,, | D,, [B,,A,B,]2 B,,, | E,, B,,2 E, | %14
+ G,, [E,B,E]2 [E,B,] | A,, [E,C]2 z | z"^poco rit." [B,,G,B,] z [B,,A,] | %17
+"^a tempo" z [E,,B,,]2 E,- | E, [G,B,]2 [G,B,] | C, [G,C]2 [G,C] | C, [A,D]2 [A,D] | %21
+ C, [G,C]2 [G,CE] | C, [G,CE]2 [F,CE] | E,"^con anima" [G,CG]2 [G,CG] | ^A,, [D,CD]2 [D,CD] | %25
+ G,, [D,G,^B,]2 [D,G,B,] | G,, [D,C]2 [D,C] | G,, [D,^B,]2 [D,B,] | G,, [D,CD]2 [D,CD] | %29
+ G,, [D,^B,D]2 [D,B,] | G,, [D,C]2 [D,C] | G,, [D,^B,]2 z | z .[C,^A,C] z .[C,A,C] | %33
+ z [G,,D,^B,]2 [D,C] | C,, [E,G,]2 [E,G,] | z [G,,D,^B,]2 [D,B,] | %36
+"^rit......................." C,, [E,G,]2 [E,G,] | %37
+"^............................." z [G,,D,^B,]2 [D,B,] |"^a tempo" E,, [E,G,]2 ^B,,, | %39
+ D,, [B,,A,]2 B,,, | D,, [B,,A,B,]2 B,,, | E,, B,,2 E, | G,, [E,B,]2 [E,B,] | C,, [G,C]2 [G,C] | %44
+ F,, [F,C]2 F,, | B,,, [B,,F,]2 z | E,, [B,,G,B,]2 B,,, | D,, [B,,A,]2 B,,, | D,, [B,,A,B,]2 B,,, | %49
+ E,, B,,2 E, | G,, [E,B,E]2 z | A,, [E,C]2 z | z"^poco rit." [B,,G,] z [B,,A,] | %53
+"^a tempo" z [E,,B,,G,]2 [B,,G,] | E,, [B,,F,]2 [B,,F,] | B,, [B,,G,]2 [B,,G,] | %56
+"^marcato" E,, [B,,A,]2 [B,,A,] | E,, [B,,G,]2 [B,,G,] | E,, [A,DF]2 [A,DF] | E, [B,EG]2 z | %60
+"^rit." z2 z !arpeggio![B,,A,D] |"^a tempo" z [E,,B,,]2 E, | z4 | z [E,,B,,]2 B,,, | z4 | %65
+ z2 [E,,B,,]2- | [E,,B,,]2 B,,,2 |!ped! E,,,/E,,/B,,/E,/ z2!ped-up! |[I:staff -1] !fermata!g4 |] %69
+V:3
+ x4 | x4 | z B,2 z | z B,2 z | x4 | z [A,D] z [G,E] | z E3 | z [EG]2 [EG] | z E3 | z [=A,D]2 z | %10
+ z B,2 z | x4 | x4 | z [A,D] z [G,E] | x4 | x4 | x4 | z2 G,2 | x4 | z E3 | z F3 | z E2 z | x4 | %23
+ x4 | z ^^F3 | z [DG]2 [DG] | z [D^^F]2 [DF] | z D2 D | x4 | x4 | x ^^F3 | z G z2 | x4 | z2 G,2 | %34
+ x4 | z2 G,2 | x4 | z2 G,2 | z =B,2 z | z B,2 z | x4 | z [A,D] z [G,E] | z E2 z | z [EG]2 [EG] | %44
+ z E3 | z!>(! [=A,D]2!>)! z | x4 | z B,3 | x4 | z [A,D] z [G,E] | x4 | x4 | x4 | z2 B,2 | %54
+ z [A,D]2 [A,D] | z [B,E]2 z | (B,2 C2- | C B,3) | x4 | x4 | x4 | z2 G,2 | x4 | z2 G,2 | x4 | x4 | %66
+ G,4 | x4 | x4 |] %69
+

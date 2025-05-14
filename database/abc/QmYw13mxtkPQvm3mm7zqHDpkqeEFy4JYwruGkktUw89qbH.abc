@@ -1,0 +1,60 @@
+X:1
+T:Menuet et Badinerie
+T:d'aprés Suite No. 2 B minor pour ocarina à bec et piano
+T:J. S. Bach (1685-1750)
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=80
+M:3/4
+K:F
+V:1 treble+8 nm="Flauta de bisel Soprano"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:1
+ (DEF).A .d2 |{/c} B6- | B2 A2 G2 | TF2 EF D2 | (BAG).^c.d.B | (AGF).^c.d.A | (GFE).A.F.D | %7
+{/F} E6 :: (A,=B,^C).E .A2 |{/G} F6 | (CDE).G .c2 |{/B} A6 | (DCB,).E.F.D | (CB,A,).E.F.C | %14
+ .B2 .A2 TG2 | F6 | (AG^F).D .c2 |{/c} B6 | (EFG).c .B2 |{/B} A6 | (^CDE).G.F.D | (BAG).f.e.^c | %22
+{/^c} d2 (AG)(FE) | D6 ::[M:2/4][Q:1/4=100] df/d/!f! | Ad/A/ FA/F/ | D2!mf! A,/D/F/D/ | %27
+ E/D/E/D/ ^C/E/G/E/ | (FD)!f! df/d/ | Ad/A/ FA/F/ |!mp! D2 FF | FF dF | TFE AA | AA fA | %34
+ TA^G!f! E/A/c/A/ | =B/A/B/A/ ^G/B/d/B/ | c/=B/c/B/ A/c/(A/^G/ | A/)d/(A/^G/ A/)e/(A/G/ | %38
+ A/)f/A/^G/ A/f/e/d/ | e/c/=B/A/ cTB | A2 :: Ac/A/ | EA/E/ CE/C/ | A,2!p! (_ED) | G^F/A/ cB/A/ | %45
+ BG!f! Bd/B/ | GB/G/ EG/E/ | C2- C/F/A/F/ | G/F/G/F/ E/G/B/G/ | A/G/A/G/ F/A/(F/E/ | %50
+ F/)B/(F/E/ F/)c/(F/E/ | F/)d/(F/E/ F/)d/c/B/ | c/A/G/F/ ATG |!f! F2 AA | AAfA | TAG GG | GGeG | %57
+ TGF!mf! df/d/ |{/c} B2- B(d/4c/4B/4A/4) | G2- G(B/4A/4G/4F/4) | _E/G/B/G/ (E/D/)(E/D/) | %61
+ .^C.A, (B,A,) | (D^C/)E/ GF/E/ | F(D/4E/4F/4G/4) AF/A/ |!f! dA G/F/E/F/ |1{/E} D2 :|2 %66
+[Q:1/4=30]"_(Just to ear)"{/!fermata!E} !fermata!D2 |] %67
+V:2
+!mp! [FA]2 [Ad]2 [Ad]2 | [Gd]6 | (ef)(ed)(e^c) | d2 A2 d2 | [GBd]2 [Gdg]2 [dgb]2 | %5
+ [Ad]2 [Adf]2 [dfa]2 | [G^cg]2 [Ae]2 [Adf]2 | [EA^c]4 z2 :: [EA]2 [A^ce]2 [EAe]2 | [Adf]6 | %10
+ [Gc]2 [EG]2 G2 | [FAc]6 | [FBd]2 [FB]2 [FBd]2 | [Fc]2 [FA]2 [FAc]2 | [B,FB]2 [DFA]2 [CEG]2 | %15
+ [A,CF]6 | ^fg a2 a2 | [Bdg]6 | [GB]2 [GBc]2 [GBe]2 | [Acf]6 | [Bg]2 [A^c]2 [FAd-]2 | %21
+ d2 [dg]2 [^cb]2 | [fa][eg] [df]e d^c | [FAd]6 ::[M:2/4] [fad'] z | [dfa] z [Adf] z | %26
+ [FAd]2 [FAd][Adf] | [Bde][Gde] [A^ce][Acg] | [Adf][FAd] [fad'] z | [dfa] z [Adf] z | [FAd]2 ff- | %31
+ ff- ff | fe aa- | aa- aa | a^g x2 | [fa=b][fab] [e^gb][egd'] | c'a/^g/!mf! x2 | [Ada]d [ca]c | %38
+ [=Bda]d [Bda][df^g] | [cea][df=b] [ce][de^g] | [cea]2 :: [cea] z!f!!f! | [Ace] z [DAc] z | %43
+ [CEA]2!p! [Ac] z | [B,GB] z [D^FA] z | [DG] z!f! [dgb] z | [cgb] z [ceg] z | [Gce]2 [cf][Afa] | %48
+ [dfg][Bfg] [ceg][ceb] | af/e/!mf! x2 | [FBf]B [Af]A | [GBg]G [Gdf][Beg] | [Acg][Bdg] [Ac][Bce] | %53
+!f! [Acf]2 aa- | [fa]a- aa | [fa][eg-] gg- | gg- gg | [eg][df] z2 | z [db]/g/ [Bd] z | %59
+ z [Bg]/d/ [GB] z | z [GB_e] [Beg][egb] |{/b} [^cea]2!p!!p! [eg] z | [Fdf] z [A^ce] z | %63
+ [Ad]A/d/ f/d/[df]/[fa]/ | [ad'][dfa] [EAd][EA^c] |1 [FAd]2 :|2 !fermata![FAd]2 |] %67
+V:3
+ D2 D,2 F,2 | (G,A,B,)DGE |{/D} ^C4 A,2 | D3 D, E,F, | G,2 B,2 E,2 | F,2 A,2 D,2 | E,2 ^C,2 D,2 | %7
+ A,,2 A,=B, ^CA, :: ^C,2 A,,2 C,2 | (D,E,F,)A,DD, | E,2 C,2 E,2 | F,G, A,C FF, | B,2 D2 G,2 | %13
+ A,2 C2 F,2 | D,2 B,,2 C,2 | (F,,A,,C,F,A,C) | D,2 D2 ^F,2 | (G,A,B,)DGG, | C2 E,2 C,2 | %19
+ (F,,G,,A,,)C,F,A, | E,2 A,,2 D,2 | G,,2 B,A,G,A, | F,G, A,2 A,,2 | D,6 ::[M:2/4]!mf! D,D, | %25
+ F,D,A,F, | DA,F,D, | G,E,A,A,, | D,/E,/F,/E,/ D,D, | F,D,A,F, |!mp! DA, DF/D/ | %31
+ =B,D/B,/ G,B,/G,/ | CE/C/ FA/F/ | DF/D/ =B,D/B,/ | E/F/E/!f!D/ CA, | D=B,EG, | A,A,,!mf!A,C | %37
+ F,DE,E | D,FD=B, | CDEE, | A,2 :: A,,A,, | C,A,,E,A,, | A,C/A,/ ^F,A,/F,/ | D,D,D,D, | %45
+ G,D/B,/ G,B,/G,/ | E,C,G,E, | B,G,A,D | B,G,CC, | F,F,,!mf!_E,A, | D,B,C,C | B,,DB,G, | A,B,CC, | %53
+ F,C,/A,,/ F,,F/C/ | A,C/A,/ F,C/A,/ | CG,/E,/ ^C,G/E/ | ^CE/C/ A,C/A,/ | DA,!mf!F,D, | G,G,G,G,, | %59
+ G,G,G,G,, | G,G,G,G,, | G,G/E/ ^CE/C/ | A,A,A,A, | DF/D/ A,D/A,/ |!f! F,D,/F,/ A,A,, |1 D,2 :|2 %66
+ !fermata!D,2 |] %67
+V:4
+ x6 | x6 | G2 A2 A2 | A3 F GA | x6 | x6 | x6 | x6 :: x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %16
+ c2 [c^f]2 [cd]2 | x6 | x6 | x6 | x6 | [GB]2 x4 | d2 A2 [EA]2 | x6 ::[M:2/4] x2 | x4 | x4 | x4 | %28
+ x4 | x4 | x2 [Ad][Ad] | [Gd][=Bd] [Bd][Gd] | [Gc][Gc] [Ac]c | [=Bf][df] [df][Bf] | %34
+ [=Be][Be] [Aea][eac'] | x4 | [ea][ce] [cea]e | x4 | x4 | x4 | x2 :: x2 | x4 | x4 | x4 | x4 | x4 | %47
+ x4 | x4 | [cf][Ac] [Acf]c | x4 | x4 | x4 | x2 [cf][cf] | [cf][cf] [cf][cf] | c2 [Ae][^ce] | %56
+ [^ce][Ae] [ce][Ae] | A2 x2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |1 x2 :|2 x2 |] %67
+

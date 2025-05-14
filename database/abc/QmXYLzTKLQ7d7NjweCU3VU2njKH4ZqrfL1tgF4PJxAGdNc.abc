@@ -1,0 +1,78 @@
+X:1
+T:Melodia Sentimental
+T:Melodia Sentimental
+T:Heitor Villa-Lobos
+T:Dora Vasconcellos
+T:Da Floresta Do Amazonas
+C:Heitor Villa-Lobis
+Z:Dora Vasconcellos
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=85
+M:2/2
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:1
+|:"^Moderato" z8 | z8 | z8[Q:1/4=75]"_T" | z4 !fermata!z2!mp! E2 ||[Q:1/4=85]"^a tempo" c8- | %5
+w: |||A-|cor-|
+w: |||Qui-|se-|
+ (3c2 A2 c2 g2 f2 | e4 d4- | d6 (E2 | d8- | (3d2 B2 d2 f2 e2 | d4) c4- | c6 (E2 | c8- | %13
+w: * da vem ver a|lu- a|* Que|dor-|* me na noi- tees-|cu- ra|* Que|ful-|
+w: * ra sa- ber- te|mi- nha|* Na|ho-|* ra se- re- nae|cal- ma|* A|som-|
+ (3c2 A2 c2 (3e2 d2 c2 | c4 B4- | (3B2 ^G2 B2 (3d2 c2 B2 | E4) A4- | (3A2 (E2 ^F2 (3G2 A2 G2) | %18
+w: * ge tão be- la e|bran- ca|* Der- ra- man- do do-|çu- ra.|* Cla- ra cha- ma si-|
+w: * bra con- fi- a ao|ven- to|* O li- mi- te daes-|pe- ra|* Quan- do den- tro da|
+[Q:1/4=75]"_T" (3(^F2 E2 F2) (G F ^D B,) |!mf! (B4 !fermata!E2) (E2 ||[Q:1/4=85]"^a tempo" c8- | %21
+w: len- te Ar- den- doo meu so-|nhar. _ As|a-|
+w: noi- te Re- cla- mao teu a-|mor. _ A|cor-|
+ (3c2 A2 c2 (3g2 f2 e2 | (a4 d4-)) | d6 (G2 | d8- | (3d2 B2 d2 (3f2 e2 d2 | g4 c4-) | c6 ((F2 | %28
+w: * sas da noi- te que|sur- gem|_ E|cor-|* rem noes- pa- ço pro-|fun- do.|_ O|
+w: * da vem o- lhar a|lu- a|_ Que|bri-|* lha na noi- * tees-|cu- ra.|_ Que-|
+ (c8-)) | (3c2 A2 c2 (3e2 d2 c2 | f4 B4-) | B6 e2 | B8- | (3B2 ^G2 B2 d c2 G | B4 A4- | A8 :: %36
+w: do-|* ce a- ma- da des|per- ta|_ Vem|dar|* teu ca- lor ao lu-|ar. _|_|
+w: ri-|* da és lin- da e|mei- ga|_ Sen-|tir|* meu a- mor e so-|nhar _|_|
+[Q:1/4=85]"^Moderato" a8- | a8- | a4[Q:1/4=75]"_T" z4 | z8 |] %40
+w: Ah!|_|||
+w: ||||
+V:2
+|:!f! [df]3 ([ce] [Bd][Ac][GB][FA]) | [Ac]3 ([GB] [FA][EG][EG][CE]) | %2
+ ([B,D][CE][DF][FA])"_rall." (^GABc) | [DEB]4 !fermata![CA]4 || %4
+!p! z [F,A,CE]2 [E,A,C]2 [F,A,CE]2 [A,CEG] | z [A,CE]2 [A,CF]2 [A,CG]2 [A,C^G] | %6
+ z [B,DFA]2 [A,B,DF]2 [F,A,B,D]2 [D,F,A,B,] | z [F,A,B,D]2 [A,B,DF]2 [B,DFA]2 [DE^GB] | %8
+ z [E,^G,B,D]2 [G,B,DF]2 [B,DF^G]2 [DFGB] | z [FABd]2 [DFAB]2 [B,DFA]2 [B,DE^G] | %10
+ z [A,CE]2 [E,^G,C]2 [=G,CE]2 [E,^F,A,C] | z [A,CE]2 [E,^G,C]2 [=G,CE]2 [E,^F,A,C] | %12
+ z [e^fac']2 [cefa]2 [Acef]2 [^FAce]- | [^FAce] [EFAc]2 [CEFA]2 [A,CEF]2 [^F,A,CE] | %14
+ z [C^D^FA]2 [B,DFB]2 [_EFB]2 [^DFB] | z [^G,B,DF]2 [G,B,DE]2 [G,B,DF]2 [G,B,DE] | %16
+ z [B,^CEG]2 [A,CEA]2 [B,CEG]2 [A,CEA] | z [E^FA]2 [EFAB] z [EGB]2 [EGAc] | %18
+ z [^F^A]2 [FA=c] z [F=Ac]2 [FAB] | z2 ee' !fermata!e'2 z2 || %20
+ z [F,A,CE]2 [E,A,C]2 [F,A,CE]2 [A,CEG] | z [A,CE]2 [A,CF]2 [A,CG]2 [A,C^G] | %22
+ z [B,DFA]2 [A,B,DF]2 [F,A,B,D]2 [D,F,A,B,] | z [F,A,B,D]2 [A,B,DF]2 [A,B,DF]2 [B,DFG] | %24
+!p! z [F,A,B,D]2 [A,B,DF]2 [B,DFA]2 [B,DFG] | z [F,A,B,D]2 [A,B,DF]2 [B,DFA]2 [B,DFG] | %26
+ z [E,G,A,C]2 [G,A,CE]2 [A,CEG]2 [CEGA] | z [A,CEG]2 [CEGA]2 [DFAc]2 [FAcd] | %28
+ z [D,F,A,C]2 [F,A,CD]2 [A,CDF]2 [CDFA] | z [A,CDF]2 [CDFA]2 [DFAc]2 [FAcd] | %30
+ z [F,A,B,D]2 [A,B,DF]2 [B,DFA]2 [DFAB] | z [A,B,DF]2 [B,DFA]2 [DFAB]2 [D^GBe] | %32
+ z [E,^G,B,D]2 [G,B,DF]2 [B,DF^G]2 [DFGB] | z [F^GBd]2 [DFGB]2 [CDFG]2 [^G,CDF] | %34
+ z [A,CE]2 [E,^G,C]2 [=G,CE]2 [E,^F,A,C] | z [A,CE]2 [E,^G,C]2 [=G,CE]2 [E,^F,A,C] :: %36
+!f! [df]3 ([ce] [Bd][Ac][GB][FA]) | [Ac]3 ([GB] [FA][EG][EG][CE]) | %38
+ ([B,D][CE][DF][FA])!mp! (^GABc) | [DEB]4 !fermata![CA]4 |] %40
+V:3
+|: (D,,A,,F,D,) (A, F3) | (E,,C,A,E,) C4 | [F,,D,A,]4 z2 [E,^G,D]2 | z E,2 ^G, !fermata!A,4 || %4
+ A,,6 E,,2 | A,,6 A,,2 | D,,6 D,,2 | D,,6 B,,2 | E,,6 E,,2 | E,6 E,2 | A,,6 E,,2 | A,,6 E,,2 | %12
+ ^F,,8 | ^F,,8 | B,,,8 | E,,8 | [A,,,A,,E,G,^C]8 | [A,,E,C]4 [B,,E,G,B,]4 | %18
+"^rall." [=C,E,^F,^A,]4 [B,,^D,=A,]4 | !fermata![E,,B,,^G,]8 || A,,6 E,,2 | A,,6 E,,2 | D,,6 D,,2 | %23
+ D,,6 D,2 | G,,6 G,,2 | G,,6 G,,2 | C,,6 C,,2 | C,6 C,2 | F,,6 F,,2 | F,6 F,,2 | D,,6 D,,2 | %31
+ D,6 E,2 | E,,6 E,,2 | E,6 E,2 | A,,6 E,,2 | A,,6 E,,2 :: (D,,A,,F,D,) (A, F3) | (E,,C,A,E,) C4 | %38
+ [F,,D,A,]4 z2 [E,^G,D]2 | z E,2 ^G, !fermata!A,4 |] %40
+V:4
+|: D,,8 | E,,8 | x4 E,,4 | A,,4 [A,,E,]4 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %15
+ x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %34
+ x8 | x8 :: D,,8 | E,,8 | x4 E,,4 | A,,4 [A,,E,]4 |] %40
+V:5
+|: x8 | x8 | x4 E4 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | ^D4 z =DCB, | =D8 | %16
+ x8 | x8 | x8 | !fermata![=DEB]8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %32
+ x8 | x8 | x8 | x8 :: x8 | x8 | x4 E4 | x8 |] %40
+

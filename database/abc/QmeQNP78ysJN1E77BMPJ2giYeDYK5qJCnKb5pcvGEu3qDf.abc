@@ -1,0 +1,99 @@
+X:1
+T:Fughetta: Vom Himmel hoch, da komm ich her
+T:Fughetta: Vom Himmel hoch, da komm ich her
+T:BWV 701
+T:J. S. Bach
+C:J. S. Bach
+%%score { ( 1 2 ) | ( 3 4 ) } { ( 5 6 ) | ( 7 8 ) }
+L:1/8
+Q:1/4=80
+M:4/4
+K:C
+V:1 treble+8 nm="Organ" snm="Org."
+V:2 treble+8 
+V:3 bass+8 
+V:4 bass+8 
+V:5 treble nm="Organ"
+V:6 treble 
+V:7 bass 
+V:8 bass 
+V:1
+!pp! z8 | z d'/ c'/ b/ a/ g/ ^f/ g/ g'/ ^f'/ e'/ d'/ c'/ b/ a/ | b2 a g ^f2 z2 | %3
+ z4 z/ e'/ d'/ c'/ b/ a/ g/ ^f/ | g4- g2 ^f2 | e4 d4 | c4 B4 | A2 z2 g4 | ^f2 e2 f2 d2 | %9
+ e2 ^f2 g !tenuto!.g g !tenuto!.d | d B/ c/ d c B/ d/ e/ ^f/ g/ a/ b/ c'/ | d'4 b2 a2 | %12
+ b2 g a b2 ^c'2 | d'2 z2 z !tenuto!.^f' f' !tenuto!.b | b g/ a/ b a g2 z2 | %15
+ z b2 a- a d !tenuto!.g !tenuto!.g | e^f/g/ a/g/f e b!tenuto!.d'!tenuto!.d' | %17
+ c'd'/e'/ f'/e'/d' c'3 c'/b/ | c'2- c'/ c'/ b- b c' d' e'- | %19
+ e' !tenuto!.d' d' !tenuto!.a a ^f/ g/ a g | ^f2 z g !tenuto!.c' !tenuto!.c' b c'/ d'/ | %21
+ e'/ d'/ c' b e'- e' ^d' e' ^f' | b e'2 d'- d' ^c' d' e' | a d'2 c'2 b !tenuto!.e' !tenuto!.e' | %24
+ d' e'/ ^f'/ g'/ f'/ e' d'2- d'/ c'/ b/ a/ | %25
+ g/ b/ e'2 d'/ c'/ !breath!!tenuto!.b[Q:1/4=70] !tenuto!.g[Q:1/4=60] !tenuto!.a[Q:1/4=50] !tenuto!.^f | %26
+[Q:1/4=80] !fermata!g8 |] %27
+V:2
+ g4 ^f2 e2 | ^f2 d2 e2 f2 | g G/ A/ B/ ^c/ d/ e/ d/ e/ d/ =c/ B/ A/ G/ ^F/ | %3
+ G/ g/ ^f/ e/ d/ c/ B/ A/ G2 z2 | z/ d/ ^c/ B/ A/[I:staff +1]G/^F/E/ D/[I:staff -1]A/B/c/ d2- | %5
+ d/ d/ c/ B/ c2- c/ c/ B/ A/ B2- | B/ B/ A/ G/ A2- A/ A/ G/ ^F/ G2- | %7
+ G/ G/ ^F/ E/ F/ a/ g/ ^f/ e/ d/ ^c/ B/ A/[I:staff +1] G/ F/ E/ | %8
+ D[I:staff -1] d2 c- c B/ A/ d/ c/ B/ A/ | G c B A B2 z !tenuto!.d | d !tenuto!.G GE/^F/ G F E2 | %11
+ z/[I:staff +1] D/E/^F/ G/A/B/c/ d[I:staff -1] !tenuto!.g g !tenuto!.d | d B/ c/ d c B d g2 | %13
+ ^f2 e2 f2 d2 | e2 ^f2 g G !tenuto!.c !tenuto!.c | B c/ d/ e/ d/ c B2 z[I:staff +1] D | x8 | x8 | %18
+[I:staff -1] f/ e/ ^f/ g/ a3/2 a/ ^g a- a/ b/ a/ =g/ | %19
+ ^f/ g/ a/ g/ f/ g/ f/ e/ d/ ^c/ d/ e/ f/ e/ d/ c/ | d ^F !tenuto!.B !tenuto!.B A B/ c/ d/ c/ B | %21
+ A a2 g ^f b2 a- | a ^g a b e a2 =g- | g ^f g a d2 g2 | ^f2 e2 f2 d2 | %25
+ e2 ^f2 !tenuto!.g !tenuto!.B !tenuto!.c !tenuto!.A | B8 |] %27
+V:3
+"^Instrument" z8 | z8 | z4 D4 | B,2 A,2 B,2 G,2 | B,2 ^C2 D2- D/ E/ ^F/ G/ | %5
+ A2- A/ B/ A/ G/ ^F D G/ A/ G/ F/ | E2- E/ G/ ^F/ E/ ^D B, E/ F/ E/ =D/ | ^C A, D4 C2 | %8
+ D/D,/E,/^F,/ G,/ A,/ B,/ C/ D/ E/ D/ C/ B,/A,/G,/F,/ | %9
+ E,/ G,/ ^F,/ E,/ D,/ C,/ B,,/ A,,/ G,,/ B,,/ C,/ D,/ E,/ F,/ G,/ A,/ | %10
+ B,/ ^F,/ G,/ A,/ B,/ C/ B,/ A,/ G,3 A, | B, z z2 z/ G,/ A,/ B,/ C/ D/ E/ ^F/ | %12
+ G/ ^F/ G/ A/ B/ c/ B/ A/ G/ A/ G/ F/ E/ A/ G/ A/ | %13
+[K:treble+8] D/ E/ ^F/ G/ A/ B/ ^c/ A/ d/ e/ d/ =c/ B/ c/ B/ A/ | G/ A/ G/ ^F/ E/ F/ E/ ^D/ E4 | %15
+[K:bass+8] D2 C2 D2 B,2 | A A ^F/ G/ A/ B/ c/ B/ A2 ^G | %17
+ A2- A/ c/ B/ A/ ^G/[I:staff -1]b/a/g/ f/e/f- |[I:staff +1] C D/ E/ F/ E/ D- D/ C/ B,/ A,/ B, ^C | %19
+ D4 B,2 A,2 | B,2 G,2 A,2 B,2 | C/ B,/ C/ D/ E/ ^F/ G/ A/ B/ c/ B/ A/ G/ F/ E/ ^D/ | %22
+ E/ F/ E/ D/ C/ B,/ A,/ ^G,/ A,/ B/ A/ G/ ^F/ E/ D/ ^C/ | %23
+ D/ E/ D/ C/ B,/ A,/ G,/ ^F,/ G,/ A/ G/ ^F/ E/ F/ G/ A/ | %24
+ B/ c/ B/ A/ G[K:treble] c'- c'/ e'/ d'/ c'/ b/ a/ g/ ^f/ | %25
+ e/[K:bass] g/ ^f/ e/ d/ c/ B/ A/ !tenuto!.G !tenuto!.E !tenuto!.C !tenuto!.D | !fermata!G,8 |] %27
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[K:treble+8] x8 | x8 | %15
+[K:bass+8] x8 | ^C2 ^D2 E =F B, E | A, B,/ C/ D2 E A, !tenuto!.D !tenuto!.D | x8 | x8 | x8 | x8 | %22
+ x8 | x8 | x3[K:treble] x5 | x/[K:bass] x15/2 | x8 |] %27
+V:5
+!p! z8 | z g/f/ e/d/c/B/ c/c'/b/a/ g/f/e/d/ | e2 dc B2 z2 | z4 z/ a/g/f/ e/d/c/B/ | c4- c2 B2 | %5
+ A4 G4 | F4 E4 | D2 z2 c4 | B2 A2 B2 G2 | A2 B2 c !tenuto!.cc!tenuto!.G | %10
+ GE/F/ GF E/G/A/B/ c/d/e/f/ | g4 e2 d2 | e2 cd e2 ^f2 | g2 z2 z !tenuto!.bb!tenuto!.e | %14
+ ec/d/ ed c2 z2 | z e2 d- dG!tenuto!.c!tenuto!.c | AB/c/ d/c/B A e!tenuto!.g!tenuto!.g | %17
+ fg/a/ _b/a/g f3 f/e/ | f2- f/f/e- efga- | a !tenuto!.gg!tenuto!.d dB/c/ dc | %20
+ B2 z c!tenuto!.=f!tenuto!.f ef/g/ | a/g/f ea- a^gab | e a2 =g- g^fga | %23
+ d g2 =f2 e!tenuto!.a!tenuto!.a | ga/b/ c'/b/a g2- g/f/e/d/ | %25
+ c/e/ a2 g/f/ !breath!!tenuto!.e!tenuto!.c!tenuto!.d!tenuto!.B | !fermata!c8 |] %27
+V:6
+ c4 B2 A2 | B2 G2 A2 B2 | cC/D/ E/^F/G/A/ G/A/G/=F/ E/D/C/B,/ | C/c/B/A/ G/F/E/D/ C2 z2 | %4
+ z/ G/^F/E/ D/[I:staff +1]C/B,/A,/ G,/[I:staff -1]D/E/^F/ G2- | G/G/=F/E/ F2- F/F/E/D/ E2- | %6
+ E/E/D/C/ D2- D/D/C/B,/ C2- | C/C/B,/A,/ B,/d/c/B/ A/G/^F/E/ D/[I:staff +1]C/B,/A,/ | %8
+ G,[I:staff -1] G2 =F- FE/D/ G/F/E/D/ | CFED E2 z !tenuto!.G | G!tenuto!.C CA,/B,/ CB, A,2 | %11
+ z/[I:staff +1] G,/A,/B,/ C/D/E/F/ G[I:staff -1] !tenuto!.cc!tenuto!.G | GE/F/ GF EG c2 | %13
+ B2 A2 B2 G2 | A2 B2 c C!tenuto!.F!tenuto!.F | EF/G/ A/G/F E2 z[I:staff +1] G, | x8 | x8 | %18
+[I:staff -1] _B/A/=B/c/ d>d ^cd- d/e/d/=c/ | =B/c/d/c/ B/c/B/A/ G/^F/G/A/ B/A/G/F/ | %20
+ G B,!tenuto!.E!tenuto!.E DE/F/ G/F/E | D d2 c B e2 d- | d^cde A d2 =c- | cBcd G2 c2 | %24
+ B2 A2 B2 G2 | A2 B2 !tenuto!.c!tenuto!.E!tenuto!.F!tenuto!.D | E8 |] %27
+V:7
+ z8 | z8 | z4 G,4 | E,2 D,2 E,2 C,2 | E,2 ^F,2 G,2- G,/A,/B,/C/ | D2- D/E/D/C/ B,G, C/D/C/B,/ | %6
+ A,2- A,/C/B,/A,/ ^G,E, A,/B,/A,/=G,/ | ^F,D, G,4 ^F,2 | %8
+ G,/G,,/A,,/B,,/ C,/D,/E,/=F,/ G,/A,/G,/F,/ E,/D,/C,/B,,/ | %9
+ A,,/C,/B,,/A,,/ G,,/F,,/E,,/D,,/ C,,/E,,/F,,/G,,/ A,,/B,,/C,/D,/ | %10
+ E,/B,,/C,/D,/ E,/F,/E,/D,/ C,3 D, | E, z z2 z/ C,/D,/E,/ F,/G,/A,/B,/ | %12
+ C/B,/C/D/ E/F/E/D/ C/D/C/B,/ A,/D/C/D/ |[K:treble] G,/A,/B,/C/ D/E/^F/D/ G/A/G/=F/ E/F/E/D/ | %14
+ C/D/C/B,/ A,/B,/A,/^G,/ A,4 |[K:bass] G,2 F,2 G,2 E,2 | DD B,/C/D/E/ =F/E/ D2 ^C | %17
+ D2- D/F/E/D/ ^C/[I:staff -1]e/d/c/ _B/A/B- |[I:staff +1] F,G,/A,/ _B,/A,/G,- G,/F,/E,/D,/ E,^F, | %19
+ G,4 E,2 D,2 | E,2 C,2 D,2 E,2 | F,/E,/F,/G,/ A,/B,/C/D/ E/F/E/D/ C/B,/A,/^G,/ | %22
+ A,/_B,/A,/=G,/ F,/E,/D,/^C,/ D,/E/D/=C/ =B,/A,/G,/^F,/ | %23
+ G,/A,/G,/=F,/ E,/D,/C,/B,,/ C,/D/C/B,/ A,/B,/C/D/ | E/F/E/D/C[K:treble] F- F/A/G/F/ E/D/C/B,/ | %25
+ A,/[K:bass] C/B,/A,/ G,/F,/E,/D,/ !tenuto!.C,A,,!tenuto!.F,,!tenuto!.G,, | !fermata!C,,8 |] %27
+V:8
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[K:treble] x8 | x8 |[K:bass] x8 | %16
+ ^F,2 ^G,2 A,_B, E,A, | D,E,/F,/ G,2 A, D,!tenuto!.G,!tenuto!.G, | x8 | x8 | x8 | x8 | x8 | x8 | %24
+ x3[K:treble] x5 | x/[K:bass] x15/2 | x8 |] %27
+

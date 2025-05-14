@@ -1,0 +1,39 @@
+X:1
+T:Premier Livre de Pièces de Clavecin
+T:Jean-Philippe Rameau
+T:7. Vénitienne
+T:Premier Livre de Pièces de Clavecin
+C:Jean-Philippe Rameau
+%%score { 1 | ( 2 3 ) }
+L:1/8
+Q:1/4=80
+M:3/8
+K:A
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:3 bass 
+V:1
+ e | (eac) |{c} d2 c | PB2 e | cAB | Pc2 B | Pc2 B | AG A |{A} B2 e | (eac) |{c} d2 c | PB2 e | %12
+ cAB | Pc2 B | cBA | BEG |{G} A2 a | (ag)a | Pf2 e | a2 g | Pf2 e | a>bg | f>ge | P^d2 e | %24
+{e} f2 b | (bf)g |{g} a2 g | Pf2 e | (f^de) | (fc^d) | Bbf | g>fe | e2 e | eac |{c} d2 c | PB2 e | %36
+ cAB | Pc2 B | Pc2 B | AG A |{A} B2 e | eac |{c} d2 c | PB2 e | cAB | Pc2 B | cBA | BEG |{G} A2 c | %49
+ (f^d)e | P^d2 ^e | f2 g | P^e2 g | (ag)b | Pa2 g | (f^e)g | Pf2 g | (a^d)f | (^ec)f | a>gf | fcd | %61
+{d} e2 f | ecd |{d} e2 f | edc | PB2 A | (ed)c | (BG)A | E2 e | (eac) |{c} d2 c | PB2 e | cAB | %73
+ Pc2 B | Pc2 B | AG A |{A} B2 e | (eac) |{c} d2 c | PB2 e | cAB | Pc2 B | cBA | BEG |{G} A2 z |] %85
+V:2
+ A, | CB,A, | F,G,A, | D,E,E,, | A,,3 | z A,E, | A,,A,E, | z z ^D | E,E=D | CB,A, | F,G,A, | %11
+ D,E,E,, | A,,3 | z A,E, | A,,B,,C, | D,E,E,, | A,,2 z | z z A, | B,2 C |{E} T^D3/2C/4D/4E | %20
+ B,2 C |{E} T^D3/2C/4D/4E | B,2 C | B,2 E, | B,,3 | z z B, | C^DE |[K:treble] F2 G | A2 z | %29
+[K:bass] A,3- | A,G,A, | B,2 B,, | E,E D | CB,A, | F,G,A, | D,E,E,, | A,,3 | z A,E, | A,,A,E, | %39
+ z z ^D | E,E=D | CB,A, | F,G,A, | D,E,E,, | A,,3 | z A,E, | A,,B,,C, | D,E,E,, | A,,2 z | z z F, | %50
+ B,2 C | =DCB, |[K:treble] C2 ^E | (F^E)C | F2 G | (AG)B | A2 G | F3 |[K:bass] B,2 A, | B,2 C | %60
+ F,2 z | z z F, | G,G,, z | z z G, | A,A,, z | z z B, | CB,A, | EB,C | DPCB, | CB,A, | F,G,A, | %71
+ D,E,E,, | A,,3 | z A,E, | A,,A,E, | z z ^D | E,E=D | CB,A, | F,G,A, | D,E,E,, | A,,3 | z A,E, | %82
+ A,,B,,C, | D,E,E,, | A,,2 z |] %85
+V:3
+ x | x3 | x3 | x3 | x3 | x3 | x3 | F,3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |[K:treble] x3 | x3 |[K:bass] x3 | x3 | x3 | x3 | x3 | x3 | %35
+ x3 | x3 | x3 | x3 | F,3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %52
+[K:treble] x3 | x3 | x3 | x3 | x3 | x3 |[K:bass] x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %68
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | F,3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %85
+

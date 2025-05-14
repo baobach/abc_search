@@ -1,0 +1,83 @@
+X:1
+T:TOCCATA AND FUGUE
+T:J. S. Bach
+T:IN D MINOR
+T:arr. by Trey Sims
+T:.
+T:.
+T:.
+T:.
+T:.
+T:.
+T:.
+T:.
+T:.
+T:.
+Z:.
+%%score 1 2 3 4
+L:1/8
+Q:1/4=72
+M:4/4
+K:F
+V:1 treble+8 nm="Piccolo" snm="Picc."
+V:2 treble nm="Flute" snm="Fl."
+V:3 treble transpose=-5 nm="Alto Flute" snm="A. Fl."
+V:4 treble nm="Flute" snm="Fl."
+V:1
+ (a/4g/4)!fermata!a z/ (g/4f/4)e/4d/4^c d2 z2 | z8 | z8 | z4 E2 E2 | G2 B2 ^c2 e2 | %5
+ !fermata!d8[Q:1/4=184] | z4 z4 | z8 | z8 | z4 z2 z ^c | (3de^c (3dec (3dec de | %11
+ (3fge (3fge (3fge fg | (3abg (3abg (3abg a z | !fermata!z4 z2 z a | (3gbe (3gbe (3fad (3fad | %15
+ (3egc (3egc (3dfB (3dfB | (3ceA (3ceA (3BdG (3BdG | c z z2 z4 | z8 | z z3 b4 | %20
+[Q:1/4=160] (a/g/)f/e/[Q:1/4=145] d/"^rit."^c/=B/!tenuto!c/[Q:1/4=135] A/c/e/g/[Q:1/4=120] Tf>e | %21
+ !fermata!f4[Q:1/4=132] z2 z .A | .d/A/.e/A/ .f/A/.d/A/ .e/A/.f/A/ .g/A/.e/A/ | %23
+ .f/A/.g/A/ .a/A/.f/A/ .g/A/.a/A/ .b/A/.g/A/ | .a/A/.f/A/ .g/A/.e/A/ .f/A/.d/A/ .e/A/.^c/A/ | %25
+ d z z2 z4 | z8 | z8 | z8 |[M:2/4] z4 | %30
+[M:4/4] (d/f/)(b/f/) (c/e/)(a/e/) (B/d/)(g/d/) (A/^c/)(e/a/) | z d z A z B ^c2 | %32
+ (d/f/)(b/f/) (c/e/)(a/e/) (B/d/)(g/d/) (A/^c/)(e/a/) | z d z"^rit." d z d !fermata!^c2 | z8 | %35
+ !breath!z4 (A/=B/)^c/d/ e/f/g/!>!a/ | z d z A z B ^c2 | %37
+ (d/f/)(b/f/) (c/e/)(a/e/) (B/d/)(g/d/) (A/^c/)(e/a/) |[M:5/4] z d z A z B ^c2 =B2 | %39
+[M:4/4] ^c3 =B A/c/e/g/ !fermata!b2 | (a/4g/4)f/4e/4f/4e/4d/4^c/4 d/4=c/4B/4A/4 G/ z/ e4 | %41
+[Q:1/4=184] (3(^ce)c (3BcB (3(ce)c (3BcB | (3(^ce)c (3BcB (3(ce)c (3BcB | z8 | z8 | z8 | z8 | z8 | %48
+ z8 | z8 | (3(^cB)c (3ece (3(cB)c (3ece |[M:4/4][Q:1/4=72] a4 a4 | g4 z4 | g4 z4 | z4 z2 z ^c | %55
+ d2 f2 e4 | d8[Q:1/4=60][Q:1/4=55][Q:1/4=50] || %57
+V:2
+ (a/4g/4)!fermata!a z/ (g/4f/4)e/4d/4^c d2 z2 | (a/4g/4)!fermata!a z/ z/ e/f/^c/ d2 z2 | z8 | %3
+ z4 e2 e2 | e2 g2 b2 a2 | g2 e2 !fermata!^f4 | z4 z2 z ^c | (3de^c (3dec (3dec de | %8
+ (3fge (3fge (3fge fg | (3abg (3abg (3abg a z | z z z2 z4 | z8 | z8 | !fermata!z4 z2 z a | %14
+ (3gbe (3gbe (3fad (3fad | (3egc (3egc (3dfB (3dfB | (3ceA (3ceA (3BdG (3BdG | %17
+ (3AcF (3AcF (3GBE (3GBE | (3FAD (3FAD (3EG^C (3EGC | z4 g4 | %20
+ (a/g/)f/e/ d/"^rit."^c/=B/!tenuto!c/ A/c/e/g/ Tf>e | !fermata!a4 z2 z .A | .d.e .f.d .e.f .g.e | %23
+ .f.g .a.f .g.ab.g | .a.f .g.e .f.d .e.^c | .d/A/.A/A/ .B/A/.G/A/ .A/A/.F/A/ .G/A/.E/A/ | %26
+ .F/A/.D/A/ .G/A/.E/A/ .F/A/.D/A/ .E/A/.^C/A/ | .D z z2 z4 | z8 |[M:2/4] z z z2 | %30
+[M:4/4] d2 c2 B2 A2 | z b z a z g a2 | d2 c2 B2 A2 | z b z a z g !fermata!a2 | %34
+ (g/f/)e/d/ ^c/(=B/c/)A/ B/c/d/e/ f/g/a/g/ | %35
+ (f/e/)f/d/ f/a/^c'/!>!!breath!d'/ (a/=b/)c'/d'/ e'/f'/g'/!>!a'/ | z b z a z g a2 | z8 | %38
+[M:5/4] z b z a z g a2 d2 |[M:4/4] e3 =B A/^c/e/g/ !fermata!b2 | %40
+ (a/4g/4)f/4e/4f/4e/4d/4^c/4 d/4=c/4B/4A/4G/4F/4E/4D/4 B4 | (3(eg)e (3^cec (3(eg)e (3cec | %42
+ (3(eg)e (3^cec (3(eg)e (3cec | (3(gb)g (3ege (3(gb)g (3ege | (3(gb)g (3ege (3(gb)g (3ege | z8 | %46
+ z8 | (3(GB)G (3B^cB (3(GB)G (3BcB | (3(GB)G (3B^cB (3(GB)G (3BcB | (3(GB)G (3BGB (3(GF)G (3BGB | %50
+ z8 |[M:4/4] e4 f4 | d4 z4 | e4 z4 | z4 z2 z E | F2 d4 ^c2 | A8 || %57
+V:3
+[K:Bb] (d/4c/4)!fermata!d z/ (c/4B/4)A/4G/4^F G2 z2 | (d/4c/4)!fermata!d z/ z/ A/B/^F/ G2 z2 | %2
+ (d/4c/4)!fermata!d z/ c/4B/4A/4G/4^F G2 z2 | z4 A2 c2 | e2 ^f2 e2 c2 | !fermata!d8 | z4 z2 z z | %7
+ z8 | z8 | z4 z2 z ^F | (3GA^F (3GAF (3GAF GA | (3BcA (3BcA (3BcA Bc | (3dec (3dec (3dec d z | %13
+ !fermata!z4 z4 | z8 | z8 | (3fad (3fad (3egc (3egc | (3dfB (3dfB (3ceA (3ceA | %18
+ (3BdG (3BdG (3Ac^F (3AcF | z4 a4 | z8 | !fermata!G4 z4 | z8 | z8 | z8 | z4 .d.B .c.A | %26
+ .B.G .c.A .B.G .A.^F | .G.d/D/ .e/D/.c/D/ .d/D/.B/D/ .c/D/.A/D/ | %28
+ .B/D/.G/D/ .c/D/.A/D/ .B/D/.G/D/ .A/D/.^F/D/ |[M:2/4] z4 |[M:4/4] G2 F2 e2 d2 | z B z A z G A2 | %32
+ G2 F2 e2 d2 | z G z d z e !fermata!A2 | z8 | z8 | z B z A z G A2 | gbfa egd^f | %38
+[M:5/4] z B z A z G A2 B2 |[M:4/4] d3 z z2 !fermata!z2 | z2 z (c/4B/4)A/4G/4 ^F4 | z8 | z8 | %43
+ (3(e^f)e (3cec (3(ef)e (3cec | (3(e^f)e (3cec (3(ef)e (3cec | (3(Ac)A (3^FAF (3(Ac)A (3FAF | %46
+ (3(Ac)A (3^FAF (3(Ac)A (3FAF | (3(Ac)A (3cec (3(Ac)A (3cec | (3(Ac)A (3cec (3(Ac)A (3cec | z8 | %50
+ z8 |[M:4/4] ^f4 g4 | e4 z4 | ^f4 z4 | z4 z2 z d | d2 d4- dc- | c2 (BA) B4 || %57
+V:4
+ z8 | (A/4G/4)!fermata!A z/ z/ E/F/^C/ D2 z2 | (A/4G/4)!fermata!A z/ (G/4F/4)E/4D/4^C D2 z2 | D8- | %4
+ !fermata!D8 | !fermata!D8 | z4 z2 z ^c | (3de^c (3dec (3dec de | (3fge (3fge (3fge fg | %9
+ (3abg (3abg (3abg a z | z8 | z8 | z8 | !fermata!z4 z4 | z8 | z8 | z8 | z8 | z8 | D8 | z8 | %21
+ !fermata!D4 z4 | A8 | z8 | A8 | z8 | z8 | z .A .B.G .A.F .G.E | .F.D .G.E .F.D .E.^C | %29
+[M:2/4] !tenuto!D z z2 |[M:4/4] z8 | d2 c2 B2 A2 | z8 | d2 c2 B2 !fermata!A2 | z8 | z8 | %36
+ d2 c2 B2 A2 | z8 |[M:5/4] d2 c2 B2 A2 ^G2 |[M:4/4] G3 z z2 !fermata!z2 | z4 G4 | z8 | z8 | z8 | %44
+ z8 | (3(GB)G (3EGE (3(GB)G (3EGE | (3(GB)G (3EGE (3(GB)G (3EGE | z8 | z8 | %49
+ (3(EG)E (3GEG (3(B^c)B (3cBc | (3(E^C)E (3CEC (3(EC)E (3CEC |[M:4/4] G4 F4 | B6 (ag) | %53
+ a3 e fd e^c | d=B ^cA _B^G A=G | F2 D2 A4 | D8 || %57
+

@@ -1,0 +1,78 @@
+X:1
+T:Partita V Tempo di Minuetto
+T:BWV 829
+T:J. S. Bach
+%%score { ( 1 2 3 ) | 4 }
+L:1/8
+M:3/4
+K:G
+V:1 treble nm="Harp"
+V:2 treble 
+V:3 treble 
+V:4 bass 
+V:1
+ D z2 G z2 | B z2 d z2 | g z2 b z2 | c'/4b/4c'/4b/4c'/4b/4c'/4b/4 c'/4b/4c'/4b/4c'/4b/4c'/4b/4 a2 | %4
+ b z2 e z2 | a z2 d z2 | g z2 ^c z2 | f z2 B z2 | e z2 A z2 | d z2 G z2 | z2 [Ed]2 [G^c]2 | %11
+ [G^c]4 [Fd]2 | D z2 G z2 | B z2 d z2 | g z2 b z2 | %15
+ c'/4b/4c'/4b/4c'/4b/4c'/4b/4 c'/4b/4c'/4b/4c'/4b/4c'/4b/4 a2 | b z2 e z2 | a z2 d z2 | %18
+ g z2 ^c z2 | f z2 B z2 | e z2 A z2 | d z2 G z2 | z2 [Ed]2 [G^c]2 | [G^c]4 [Fd]2 | %24
+[I:staff +1] A,[I:staff -1] z2[I:staff +1] D[I:staff -1] z2 | F z2 A z2 | c z2 ^d z2 | f3 g/a/ g2 | %28
+[I:staff +1] B,[I:staff -1] z2[I:staff +1] E[I:staff -1] z2 | G z2 B z2 | d z2 =f z2 | ^ga bd c2 | %32
+ f z2 B z2 | g z2 ^A z2 | f z2 B z2 | a z2 _e z2 | g z2 c z2 | f z2 B z2 | e z2 A z2 | %39
+ ^d z2 ^D z2 | c z2 ^d z2 | f z2 a z2 | [eg]2 [Be]2 [A^d]2 | [A^d]2 [Ge]4 | %44
+[I:staff +1] A,[I:staff -1]E^CGEC | A,FDAFD | A,E^CGEC | A,FDAFD | G,DB,=FDB, | G,ECGEC | %50
+ G,DB,=FDB, | G,ECGEC | FE DA FE | DA, DF DF | GD GB GB | dB G=f dB | e z2 A z2 | d z2 G z2 | %58
+ c z2 F z2 | B z2 F z2 | A z2 D z2 | G z2 C z2 | z2 [Ag]2 [cf]2 | [cf]4 [Bg]2 | %64
+[I:staff +1] A,[I:staff -1] z2[I:staff +1] D[I:staff -1] z2 | F z2 A z2 | c z2 ^d z2 | f3 g/a/ g2 | %68
+[I:staff +1] B,[I:staff -1] z2[I:staff +1] E[I:staff -1] z2 | G z2 B z2 | d z2 =f z2 | ^ga bd c2 | %72
+ f z2 B z2 | g z2 ^A z2 | f z2 B z2 | a z2 _e z2 | g z2 c z2 | f z2 B z2 | e z2 A z2 | %79
+ ^d z2 ^D z2 | c z2 ^d z2 | f z2 a z2 | [eg]2 [Be]2 [A^d]2 | [A^d]2 [Ge]4 | %84
+[I:staff +1] A,[I:staff -1]E^CGEC | A,FDAFD | A,E^CGEC | A,FDAFD | G,DB,=FDB, | G,ECGEC | %90
+ G,DB,=FDB, | G,ECGEC | FE DA FE | DA, DF DF | GD GB GB | dB G=f dB | e z2 A z2 | d z2 G z2 | %98
+ c z2 F z2 | B z2 F z2 | A z2 D z2 | G z2 C z2 | z2 [Ag]2 [cf]2 | [cf]4 !fermata![Bg]2 |] %104
+V:2
+ DG,B,GB,D | BDGdGB | gBdbdg |[I:staff +1] z[I:staff -1] d ^cd D2 | bdgeGB | a^cedFA | gBd^cEG | %7
+ fA^cBDF | eGBA^CE | dFAGB,D |[I:staff +1] G,2 z2 A,2 | D6 |[I:staff -1] DG,B,GB,D | BDGdGB | %14
+ gBdbdg |[I:staff +1] z[I:staff -1] d ^cd D2 | bdgeGB | a^cedFA | gBd^cEG | fA^cBDF | eGBA^CE | %21
+ dFAGB,D |[I:staff +1] G,2 z2 A,2 | D6 | A,D,F,DF,A, |[I:staff -1] FA,DADF | cFA^dAc- | c2 B4 | %28
+[I:staff +1] B,E,G,EG,B, |[I:staff -1] GB,EBEG | d^GB=fBd- | d2 ^G2 A2 | fAcB^DF | gBe^A^CE | %34
+ fAcB^DF | ace_eFA | gBdcEG | fAcBDF | eGBACE | ^dFA^DFA | cFA^dAc | fc^dadf | %42
+[I:staff +1] z2 G,2 B,2 | E3 D ^CB, | A, z2[I:staff -1] G[I:staff +1] z2 | %45
+[I:staff -1] A,[I:staff +1] z2[I:staff -1] A[I:staff +1] z2 | %46
+[I:staff -1] A,[I:staff +1] z2[I:staff -1] G[I:staff +1] z2 | %47
+[I:staff -1] A,[I:staff +1] z2[I:staff -1] A[I:staff +1] z2 | %48
+[I:staff -1] G,[I:staff +1] z2[I:staff -1] =F[I:staff +1] z2 | %49
+[I:staff -1] G,[I:staff +1] z2[I:staff -1] G[I:staff +1] z2 | %50
+[I:staff -1] G,[I:staff +1] z2[I:staff -1] =F[I:staff +1] z2 | %51
+[I:staff -1] G,[I:staff +1] z2[I:staff -1] G[I:staff +1] z2 | C,2 F,2 A,2 | F,2 D,2 C,2 | %54
+ B,,2 D,2 G,2 | B,2[I:staff -1] D2 G2 | eGBACE | dFAGB,D | cEGF[I:staff +1]A,C | %59
+[I:staff -1] BDFF[I:staff +1]G,B, |[I:staff -1] ACED[I:staff +1]F,A, | %61
+[I:staff -1] GB,DC[I:staff +1]E,G, | C,2 z2 D,2 | G,,6 | A,D,F,DF,A, |[I:staff -1] FA,DADF | %66
+ cFA^dAc- | c2 B4 |[I:staff +1] B,E,G,EG,B, |[I:staff -1] GB,EBEG | d^GB=fBd- | d2 ^G2 A2 | %72
+ fAcB^DF | gBe^A^CE | fAcB^DF | ace_eFA | gBdcEG | fAcBDF | eGBACE | ^dFA^DFA | cFA^dAc | fc^dadf | %82
+[I:staff +1] z2 G,2 B,2 | E3 D ^CB, | A, z2[I:staff -1] G[I:staff +1] z2 | %85
+[I:staff -1] A,[I:staff +1] z2[I:staff -1] A[I:staff +1] z2 | %86
+[I:staff -1] A,[I:staff +1] z2[I:staff -1] G[I:staff +1] z2 | %87
+[I:staff -1] A,[I:staff +1] z2[I:staff -1] A[I:staff +1] z2 | %88
+[I:staff -1] G,[I:staff +1] z2[I:staff -1] =F[I:staff +1] z2 | %89
+[I:staff -1] G,[I:staff +1] z2[I:staff -1] G[I:staff +1] z2 | %90
+[I:staff -1] G,[I:staff +1] z2[I:staff -1] =F[I:staff +1] z2 | %91
+[I:staff -1] G,[I:staff +1] z2[I:staff -1] G[I:staff +1] z2 | C,2 F,2 A,2 | F,2 D,2 C,2 | %94
+ B,,2 D,2 G,2 | B,2[I:staff -1] D2 G2 | eGBACE | dFAGB,D | cEGF[I:staff +1]A,C | %99
+[I:staff -1] BDFF[I:staff +1]G,B, |[I:staff -1] ACED[I:staff +1]F,A, | %101
+[I:staff -1] GB,DC[I:staff +1]E,G, | C,2 z2 D,2 | !fermata!G,,6 |] %104
+V:3
+ x6 | x6 | x6 | g4 f2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | g4 f2 | x6 | x6 | %18
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %37
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %56
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %75
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %94
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %104
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | ^D4 E2 | x6 | x6 | x6 | E4 A,2 | x6 | x6 | x6 | x6 | x6 | %37
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %56
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | ^D4 E2 | x6 | x6 | x6 | E4 A,2 | x6 | x6 | %74
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %93
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %104
+

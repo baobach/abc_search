@@ -1,0 +1,84 @@
+X:1
+T:Title
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=60
+M:2/4
+K:G
+V:1 treble nm="MusicXML Part"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:1
+"^Andante" x3 D | B>A GG | F>G A!breath!D | c>B AA | G->A !breath!B G/-d/ | dd d^d | %6
+w: Ich|lie- be dich, so|wie du mich, Am|A- bend und am|Mor- * gen, Noch *|war kein Tag, wo|
+ e>c !breath!AA | B>B c/-B/ c/-A/ | A2- G z | z4 | z2 z F/-G/ | AA Ad | ^c>e !breath!d F/-G/ | %13
+w: du und ich Nicht|teil- ten un- * sre *|Sor- gen.||Auch *|war- en sie für|dich und mich Ge- *|
+ !breath!AA A/-B/ ^c/-d/ | c>!breath!e dd |!>(! =cc BB!>)! |!>(! A!>)!A G!<(! G/-d/!<)! | %17
+w: teilt leicht zu * er- *|tra- * gen; Du|trö- ste- test im|Kum- mer mich, Ich *|
+{d} cc BB |{B} AA z A |!<(! A2 B2!<)! |!f!!p! !fermata!c->A !fermata!F !breath!D/-"^dolce"B/ | %21
+w: weint in dei- ne|Kla- gen, in|dei- ne|Kla- * gen. Drum *|
+ B>A GG | F>G !breath!AD | c>"^cresc."B AA | G->A !breath!B G/-d/ |!<(! dd d^d!<)! | %26
+w: Got- tes Se- gen|ü- ber dir, Du,|mei- nes Le- bens|Freu- * de. Gott *|schü- tze dich, er-|
+!f! e>c !breath!AA | BB"^dim." d/-c/ B/-c/ |!p! cB z!<(! G!<)! |!f! =ff ff | e2 =f2 | e2 z A | %32
+w: halt dich mir, Schütz|und er- halt * uns *|bei- de. Gott|schü- tze dich, er-|halt dich|mir, Schütz|
+ BB cA | dB z A | BB cA | dB z A | B2 e2 | G3- B/A/ | G2 z2 | z4 | z2 z |] %41
+w: und er- halt uns|bei- de, er-|halt, er- halt uns|bei- de, er-|halt uns|bei- * *|de.|||
+V:2
+ x3"^Instrument change" z |"^Instrument change" B,/-D/G/D/ B,/-D/G/D/ | %2
+"^Instrument change" C/-D/^^F/D/ C/-D/F/D/ | %3
+"^Instrument change" C/-"^Instrument change"D/A/D/ C/-D/A/D/ | %4
+"^Instrument change" B,/-"^Instrument change"D/G/D/ B,/-D/G/D/ | %5
+"^Instrument change" [D-G]/"^Instrument change"G,/[DG]/G,/"^Instrument change" [D-G]/G,/[^DG]/G,/ | %6
+"^Instrument change" [E-G]/G,/[EG]/G,/"^Instrument change" [E-G]/G,/[EG]/G,/ | %7
+"^Instrument change" B,/-D/G/D/"^Instrument change" C/-D/^^F/D/ | %8
+"^Instrument change" [C-F]/D/"^Instrument change"[C^^F]/D/ [B,G] ^F/-G/ | %9
+"^Instrument change" [FA]"^Instrument change"[FA][FA][Fd] | %10
+"^Instrument change" ^c>e d [D-F]/[EG]/ | %11
+"^Instrument change" [F-A]/A,/"^Instrument change"[DF]/A,/ [D-F]/A,/[DF]/A,/ | %12
+"^Instrument change" [^C-G]/A,/"^Instrument change"[CG]/A,/ [D-^^F]/A,/[D^F]/A,/ | %13
+"^Instrument change" [D-F]/A,/"^Instrument change"[DF]/A,/ [D-F]/A,/[DF]/A,/ | %14
+"^Instrument change" [^C-G]/A,/"^Instrument change"[CG]/A,/ [D-F]/A,/[DF]/A,/ | %15
+"^Instrument change" z/ =C/-[Gc]/C/"^Instrument change" z/ D/-[GB]/D/ | %16
+"^Instrument change" z/ D/[FA]/D/"^Instrument change" z/ D/[Gd]/D/ | %17
+"^Instrument change" z/ C/[Gc]/C/"^Instrument change" z/ D/[GB]/D/ | %18
+"^Instrument change" z/ E/[GA]/E/"^Instrument change" z/ E/[GA]/E/ | %19
+"^Instrument change" z/ A/F/C/"^Instrument change" B,/D/G/B/ | %20
+"^Instrument change" !fermata![CFAc]3"^Instrument change" z | %21
+"^Instrument change" B,/-D/G/D/ B,/-D/G/D/ | %22
+"^Instrument change" C/-"^Instrument change"D/F/D/ C/-D/F/D/ | %23
+"^Instrument change" C/-"^Instrument change"D/A/D/ C/-D/A/D/ | %24
+"^Instrument change" B,/-"^Instrument change"D/G/D/ B,/-D/G/D/ | %25
+"^Instrument change" [D-G]/"^Instrument change"G,/[DG]/G,/"^Instrument change" [D-G]/G,/[^DG]/G,/ | %26
+"^Instrument change" [E-G]/G,/[EG]/G,/"^Instrument change" [E-G]/A,/[EG]/A,/ | %27
+"^Instrument change" B,/-D/G/D/"^Instrument change" A,/-C/^^F/C/ | %28
+"^Instrument change" G,/-B,/G/B,/"^Instrument change" G,/-B,/G/B,/ | %29
+"^Instrument change" [D-=FG]/G,/"^Instrument change"[DFG]/G,/ [D-FG]/G,/[DFG]/G,/ | %30
+"^Instrument change" [C-EG]/G,/[CEG]/G,/"^Instrument change" [D-=FG]/G,/[DFG]/G,/ | %31
+"^Instrument change" [C-EG]/G,/[CEG]/G,/"^Instrument change" [E-G]/A,/[EG]/A,/ | %32
+"^Instrument change" B,/-D/"^Instrument change"[GB]/D/ [A-c]/D/[FA]/D/ | %33
+"^Instrument change" d [Bb-]/[dd']/ [dd'-]/[cc']/[Bb]/[Aa]/"^Instrument change" | %34
+"^Instrument change" [Bb] [G-B]/D/ [A-c]/D/[FA]/D/"^Instrument change" | %35
+"^Instrument change" d [Bb-]/[dd']/ [dd'-]/[cc']/[Bb]/[Aa]/"^Instrument change" | %36
+"^Instrument change" [Bb]"^Instrument change" z [Gce] z | %37
+"^Instrument change" [B,DG]"^Instrument change" z [CFA] z | %38
+"^Instrument change" [B,G]2"^Instrument change" d/e/f/g/ | %39
+"^Instrument change" a/b/c'/d'/ e'"^Instrument change"[Acdf] | %40
+"^Instrument change" [GBdg]2"^Instrument change" z |] %41
+V:3
+ x3 z |!p! [G,,G,]4 | [A,,A,]4 | [^^F,,^^F,]4 | [G,,G,]4 | B,,2 B,,2 | C,2 ^C,2 | D,2 [D,,D,]2 | %8
+!mf!!>(! G,,G, G,,!>)! z | [D,A,][D,A,][D,A,][D,A,] |!p! [E,A,][A,,A,] [D,A,] z | %11
+ z [D,,D,] [F,,F,][D,,D,] | [E,,E,][A,,,A,,] [D,,D,] z | z [D,,D,][F,,F,][D,,D,] | %14
+ [E,,E,][A,,,A,,] [D,,D,] z |!>(! E,2 D,2!>)! |!>(! C,2!>)! B,,2 |!<(! E,2!>(! D,2!<)! | %18
+ C,2 ^C,2!>)! |!<(! D,2 D,2!<)! |!f! !fermata![D,,D,]3 z |!p! [G,,G,]4 | [A,,A,]4 | %23
+"^cresc." [F,,F,]4 | [G,,G,]4 |!<(! [B,,,B,,]2 [B,,,B,,]2!<)! |!f! [C,,C,]2 [^C,,^C,]2 | %27
+ [D,,D,]2"^dim." [^D,,^D,]2 |!p! [E,,E,]2!<(! z2!<)! |!f! [B,,,B,,][B,,,B,,][B,,,B,,][B,,,B,,] | %30
+ [C,,C,]2 [B,,,B,,]2 | [C,,C,]2"^dim." [^C,,^C,]2 | [D,,D,] [G,B,][A,C][D,A,] | %33
+ B,/D/[G,B,]/"^cresc."D/ [A,C]/D/[F,A,]/D/ | [G,B,]/D/ [G,B,][A,C][D,A,] | %35
+ B,/D/[G,B,]/D/ [A,C]/D/[F,A,]/D/ |!f! G, z C, z | D, z D, z | G,,2 [D,A,C]2- | [D,A,C]3 [D,A,C] | %40
+ [G,,B,,D,G,]2 z |] %41
+V:4
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | G"^Instrument change"G F x | x4 | x4 | x4 | x4 | %15
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %34
+ x4 | x4 | x4 | x4 | x4 | x4 | x3 |] %41
+

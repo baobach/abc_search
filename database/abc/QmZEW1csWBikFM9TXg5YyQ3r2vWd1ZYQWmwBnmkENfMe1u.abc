@@ -1,0 +1,29 @@
+X:1
+T:Christus, der ist mein Leben
+T:Christus, der ist mein Leben
+T:(Cristo é minha vida)
+T:Bach
+C:Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=60
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ F2 | A2 G2 A2 B2 | c4 !fermata!A2 d2 | c2 B2 A2 G2 | !fermata!A4 z2 c2 | d2 e2 f2 e2 | %6
+ d4 !fermata!c2 A2 | B2 A2 G2 G2 | !fermata!F6 x2 |] %9
+V:2
+ C2 | F2 G2 F2 F2 | EFGE F2 F2 | F3 E F3 E | F4 z2 A2- | AG- Gc/B/ A2 A2 | A2 G2 G2 F2- | %7
+ FE F2 F2 E2 | C6 x2 |] %9
+V:3
+ A,2 | C2 C2 C2 D2 | G,2 C2 C2 B,2 | C2 DB, C2 C2 | C4 z2 F2 | F2 E2- ED C2- | C2 =B,2 E2 C2 | %7
+ _B,2 C2 _D2 C>B, | A,6 x2 |] %9
+V:4
+ F,,2 | F,2 E,2 _E,2 D,2 | C,D,E,C, !fermata!F,2 B,,2 | A,,2 G,,2 F,,A,, C,2 | %4
+ !fermata!F,,4 z2 A,2 | =B,,2 C,2 D,F,A,G, | F,D, G,2 !fermata!C,2 F,,2 | G,,2 A,,2 B,,2 C,2 | %8
+ !fermata!F,,6 x2 |] %9
+

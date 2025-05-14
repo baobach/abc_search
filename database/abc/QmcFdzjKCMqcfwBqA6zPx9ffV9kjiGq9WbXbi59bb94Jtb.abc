@@ -1,0 +1,42 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=110
+M:6/4
+K:Ab
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 bass nm="Choir Pad, Even I May Be Saved Wilder"
+V:4 bass 
+V:1
+ [A,C][B,D] [CE]2 [EA]2 [EB]2 [Ec]4 | [EB][EA] [Fd]2 [FA]2 [FB]2 [Ec]4 | %2
+w: By~Frank~E.~Wilder * * * * *||
+ [Ec][Ec] [=DB]2 [DF]2 [DA]2 [_DG]2 [DA]2 | [DB]2 [CE]4- [CE]4- [CE]3/2 z/ | %4
+w: ||
+ [A,C][B,D] [CE]2 [EA]2 [EB]2 [Ec]4 | [EB][EA] [FB]2 [DF]2 [EG]2 [EA]4 | %6
+w: ||
+ [Ec][Ed] [Ee]2 [Ec]2 [CA]2 [FB]4 | [Ec]2 A4- [DA-]2 [CA]3- [C-A]/C/ | [Ec]2 [Ae]4 [Ac][GB] [FA]4 | %9
+w: |||
+ [Cc][_Gc] [=GB]2 [FA]2 [DF]2 [CA]4 | [Ec][Ec] [=DB]2 [DF]2 [DA]2 [EG]2 [DG]2- | %11
+w: ||
+ [DG][=DF] E2 _D2 C2 B,4 | [A,C][B,D] [CE]2 [EA]2 [EB]2 [Ec]4 | [EB][=EA] [Fd]2 [FA]2 [FB]2 [Ec]4 | %14
+w: |||
+ [FB][Fc] [Fd]3 [Ee] [Ec]2 [DB] [CA]3 | [DB]2 [CA]4- [CA]4- [CA]3/2 z/ |] %16
+w: ||
+V:2
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | z2 C4 z6 | x12 | x12 | x12 | x12 | x12 | x12 | x12 | %15
+ x12 |] %16
+V:3
+ E,E, A,2 A,2 G,2 A,4 | A,A, A,2 A,2 A,2 A,4 | A,A, F,2 A,2 C2 B,2 F,2 | G,2 A,2 C,2 E,2 A,4 | %4
+ E,E, A,2 A,2 G,2 A,4 | A,A, A,2 A,2 B,2 A,4 | A,G, A,2 A,2 A,2 A,2 F,2 | G,2 A,2 E,2 F,2 E,4 | %8
+ A,2[K:treble] C4 ED C4 | A,[K:bass]A, A,2 A,2 A,2 A,4 | A,A, F,2 A,2 C2 B,2 B,2- | %11
+ B,A, G,2 B,2 A,2 G,4 | E,E, A,2 A,2 G,2 A,4 | DC A,2 A,2 F,2 G,4 | B,=A, B,3 B, _A,2 G, A,3 | %15
+ G,2 A,4- A,6 |] %16
+V:4
+ A,,A,, A,,2 C,2 B,,2 A,,4 | C,C, D,2 D,2 D,2 A,,4 | A,,A,, B,,2 B,,2 B,,2 E,2 E,2 | .E,6 z2 A,,4 | %4
+ A,,A,, A,,2 C,2 B,,2 A,,4 | C,C, D,2 D,2 D,2 C,4 | A,,B,, C,2 B,,2 F,2 D,4 | %7
+ E,2 A,,4- A,,4- A,,3/2 z/ | A,,2 A,4 A,E, F,4 | F,E, D,2 D,2 D,2 A,,4 | %10
+ A,,A,, B,,2 B,,2 B,,2 B,,2 B,,2- | B,,B,, E,4- E,4- E,3/2 z/ | A,,A,, A,,2 C,2 .E,6 | %13
+ A,A, D,2 D,2 D,2 C,4 | D, .F,3 z G, z2 E, F,3 | E,2 [A,,E,]4- [A,,E,]6 |] %16
+

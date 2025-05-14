@@ -1,0 +1,36 @@
+X:1
+T:Sonata I - RV27 - Giga
+T:Sonata I - RV27 - Giga
+T:Antonio Vivaldi
+C:Antonio Vivaldi
+%%score 1 2
+L:1/8
+Q:1/4=144
+M:6/8
+K:F
+V:1 treble nm="Violin" snm="Vln."
+V:2 bass nm="Violoncello" snm="Vc."
+V:1
+"^Allegro" d | (g^f).g (ag).a | (ba).b g2 a | (ba).b (c'b).c' | (d'c').d' (bc').d' | %5
+ (ab).c' (ga).b | (^fe).d (de).f | g3 z2 g | (_ed).c (cd).e | f3 z2 f | (d_ef gab) | (cd_e fga) | %12
+ (Bcd _efg) | (ABc d_ef) | (GAB cd_e) | (AGF) (Bcd) | (GAB) (FBA) | B,3 z z2 | z2 c (fg).f | %19
+ (dc).B (ga).g | (ed).c (ab).a | (fe).d (ba).b | (gf).g (ed).e | ^c=BA (d=c_B) | (AGF) (PF2 E) | %25
+ D3 (dcB) | (AGF) (PF2 E) | D3- D2 :: A | (d^c).d (ed).e | (fe).f d2 .e | (fe).f (gf).g | %32
+ (ag).a (fg).a | (ef).g (de).f | ^c2 e a3- | a2 g (fe).d | g3- g2 .f | (ef).g c3- | cBA f3- | %39
+ f2 .B _e3- | e2 .A d3- | d2 .G c3- | c2 .F B3- | B3 (AB).c | (Bdc BAG) | _e3- e2 .g | %46
+ ((cd)_e) (c2 B) | A3- A2 .f | (Bcd) (B2 A) | G3- G2 ._e | (_edc) (BAG) | (^FED) (GFE) | %52
+ (AG^F) (BAG) | (cBA) (dcB) | (_edc) (^f=ed) | b3- bag | (^fdg) Pg2 f | g3 (d2 B) | G3 (_e2 A) | %59
+ ^F3 (d2 G) | _E3 (c2 ^F) | D3 (gf_e) | (dcB) (PB2 A) | G3"^rit." (gf_e) | (dcB) (PB2 A) | %65
+ G3- !fermata!G2 :| %66
+V:2
+ z | z6 | z2 z z2 D, | (G,^F,)G, (A,G,)A, | (B,A,)B, (G,A,)B, | (CB,)A, (B,A,)G, | D3 C3 | %7
+ (B,A,)G, (G,A,)B, | C3 z z C | (A,G,)F, (F,G,)A, | B,6- | B,3 A,3- | A,3 G,3- | G,3 F,3- | %14
+ F,3 _E,3- | E,3 D,3 | _E,3 F,3 | B,,2 F, (B,C)B, | (A,G,)F, A,3 | B,3 =B,3 | C3 ^C3 | D3 D,3 | %22
+ E,3 G,3 | A,3 F,3 | G,3 A,3 | D,3 F,3 | G,3 A,3 | D,3- D,2 :: z | z6 | z z z z2 A, | %31
+ (D^C)D (ED)E | (FE)F (DE)F | (GF)E (FE)D | A,3 z z A, | D3- D2 D | (B,A,)G, C3- | C2 B, (A,B,)C | %38
+ F,2 F (D_E)F | (B,C)D (CD)_E |(xB,)C (B,C)D | (G,A,)B, (A,B,)C | (F,G,)A, (G,A,)B, | %43
+ (_E,F,)G, F,2 F,, | B,,3 z2 z | z (G,F, _E,D,C,) | A,3- A,2 G, | (F,G,A,) (F,_E,D,) | %48
+ G,3- G,2 F, | (_E,F,G,) (E,D,C,) | ^F,3 (G,=F,_E,) | D,3 E,3 | ^F,3 G,3 | (A,G,^F,) (B,A,G,) | %54
+ (CB,A,) (DCB,) | (_EDC) (DCB,) | (A,B,C) D2 D, | G,3 B,CD | _E_E,E CB,C | DD,D B,A,B, | %60
+ CC,C A,G,A, | B,3 B,,3 | C,3 D,3 | G,,3 B,,3 | C,3 D,3 | G,,3- G,,2 :| %66
+

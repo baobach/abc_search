@@ -1,0 +1,36 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=88
+M:4/4
+K:D
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 bass nm="Choir Pad, The Light from Calvary"
+V:4 bass 
+V:1
+ [DA]>[DA] [DB][Fd] [DA][DA] [DA]2 | [DF][CE][B,D][B,D] [B,D][CE] [DF]2 | %2
+w: By~W.~O.~Justis * * * * * *||
+ [CE][DF][EG][EG] [EG][EG] [EG]2 | [GB][GB] [FA]6 | [Fd]>[FB] [Fd][Fd] [Fd][Fd] [Fd]2 | %5
+w: |||
+ [GB][FA][FA][FA] [FA][FA] [FA]2 | D[CE][DF][DF] [DF][DA] [DF]2 | [CE][CF] D6 | %8
+w: |||
+ [FA]>[FA] [FA]4- [FA][FA] | z2 A6 | [FA]>[FA] [DF]4- [DF]D | [DE][DE] [CE]6 | %12
+w: ||||
+ [DF][EG][FA][FA] A[GA] [FA]2 | [DF]D[Fd][Fd] [Ad][Ad] [Gd]2 | z4 z2 A2 | z2[K:bass] D6- | D6 z2 |] %17
+w: |||||
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | [GB][Gd]FF EE F2 | x8 | x8 | x8 | x8 | %14
+ [Gd][GB][EA][EA] [FA][FA]EC | [CE][CF][K:bass] z2 B,B, A,2- | A,6 z2 |] %17
+V:3
+ F,>F, G,A, F,F, F,2 | A,G,F,F, F,A, A,2 | A,A,B,B, B,B,[K:treble] C2 | CC D6 | %4
+ A,>[K:bass]B, A,A, A,A, A,2 | DDDD DD D2 | A,A,A,A, A,A, A,2 | G,A, F,6 | D>D DD DD D2 | %9
+ DB,DD CC D2 | D>D[K:bass] A,A, A,A,A,A, | ^G,G,A,A, A,A, A,2 | A,A,[K:treble]DD DC D2 | %13
+ A,F,A,A, =CC B,2 | B,[K:treble]DCC CDC[K:bass]A, | G,A, F,2 G,G, F,2- | F,6 z2 |] %17
+V:4
+ D,>D, D,D, D,D, D,2 | D,A,,B,,B,, B,,A,, D,2 | G,F,E,E, E,E, A,2 | A,,A,, D,6 | %4
+ D,>D, D,D, D,D, D,2 | D,D,D,D, D,D, D,2 | F,E,D,D, D,F, z2 | A,,A,, D,6 | D,>D, D,D, D,D, D,2 | %9
+ D,D,D,D, A,,A,, D,2 | D,>D, D,D, D,D,D,F, | E,E,A,,A,, A,,A,, A,,2 | D,D,D,D, F,E, D,2 | %13
+ D,D,D,D, F,F, G,2 | G,G,A,A, F,D, A,,2 | A,,A,, D,6- | D,6 z2 |] %17
+

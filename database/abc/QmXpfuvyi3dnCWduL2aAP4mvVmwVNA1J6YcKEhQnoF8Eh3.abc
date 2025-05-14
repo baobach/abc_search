@@ -1,0 +1,79 @@
+X:1
+T:Die schöne Müllerin (D.795)
+T:Die liebe Farbe
+T:16. Die liebe Farbe
+T:Franz Schubert
+T:Die schöne Müllerin (D.795)
+T:Friedrich Müller
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+C:Franz Schubert
+Z:Wilhelm Müller
+Z:OpenScore (CC0)
+%%score ( 1 2 ) { ( 3 5 ) | ( 4 6 ) }
+L:1/8
+Q:1/4=40
+M:2/4
+K:D
+V:1 treble nm="Singstimme"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:5 treble 
+V:4 bass 
+V:6 bass 
+V:1
+"^Etwas langsam." z4 |: z4 | z4 | z4 | z2 z!p! F | B B F F/ F/ | c2 B d | c/f/ d c B | %8
+w: ||||In|Grün will ich mich *|klei- den, in|grü- * ne Thrä- nen-|
+w: ||||Wohl-|auf zum fröh- li- chen|Ja- gen, wohl-|auf _ durch Haid' und|
+w: ||||Grabt|mir ein Grab im *|Wa- sen, deckt|mich * mit grü- nen|
+ ^A2 c z/ c/ | ^d d c c/ c/ | f3 F | F F F^G/ ^A/ | B2 z!p! B | =A A/ A/ ^G A/ B/ | %14
+w: wei- den: mein|Schatz hat's Grün so *|gern, mein|Schatz hat's Grün _ so|gern. Will|su- chen * ei- nen Cy-|
+w: Ha- gen! mein|Schatz hat's Ja- gen so|gern, mein|Schatz hat's Ja- gen so|gern. Das|Wild, das ich ja- ge, das|
+w: Ra- sen: mein|Shatz hat's Grün so *|gern, mein|Schatz hat's Grün _ so|gern. Kein|Kreuz- lein * schwarz, _ kein|
+ c3/2 d/ c c/ c/ |[Q:1/4=35]!mp!"^cresc." f F/ F/ F F/!mf! F/ |"_dim." e3!p! d | %17
+w: pres- sen- hain, ei- ne|Hai- de von grü- nen *|Ros- ma-|
+w: ist der Tod, * die|Hai- de, die heiss' ich die|Lie- bes-|
+w: Blüm- lein bunt, * grün|Al- \- les, grün so *|rings und|
+!pp! c2[Q:1/4=40] z!p! c | ^d d c c/ c/ | f3 F | F F F^G/ ^A/ | B2 z2 :| z4 | z4 | z4 | %25
+w: rein; mein|Schatz hat's Grün so *|gern, mein|Schatz hat's Grün- * so|gern.||||
+w: noth: mein|Schatz hat's Ja- gen so|gern, mein|Schatz hat's Ja- gen so|gern.||||
+w: rund: mein|Schatz hat's Grün so *|gern, mein|Schatz hat's Grün _ so|gern.||||
+ !fermata!z4 |] %26
+w: |
+w: |
+w: |
+V:2
+ x4 |: x4 | x4 | x4 | x4 | x3 F | x4 | x4 | x4 | x3 c | x4 | x2 F ^G/ x/ | x4 | x A ^GA/ x/ | %14
+ x2 c3/2 c/ | f3/2 F/ F F | x4 | x4 | x3 c | x4 | x2 F ^G/ x/ | x4 :| x4 | x4 | x4 | x4 |] %26
+V:3
+ z/ (.[DF]/.[DF]/.[DF]/!<(! .[DF]/.[DF]/.[DF]/.[DFB]/)!<)! |: %1
+!>(! ([DFB]/[CF^A]/)(.[CFA]/.[CFA]/!>)! .[CFA]/.[EFA]/.[EFB]/.[EFc]/) | %2
+!mp!!>(! ([DFc]/[DF]/)(.[DF]/.[DF]/!>)! .[DF]/.[DF]/.[DF]/.[DFBd]/) | %3
+ ([EFBd]/[EF^Ac]/)(.[EFAc]/.[EFAc]/ .[EFAc]/!>(!.[EFAce]/.[EFBd]/.[EFAc]/)!>)! | %4
+ (.F/.F/.F/.F/ .F/.F/.F/.F/) | (.F/.F/.F/.F/) (.F/.F/.F/.F/) | F/F/F/F/ F/F/F/F/ | %7
+ F/F/F/F/ F/F/F/F/ | F/F/F/F/ F/F/F/F/ | F/F/F/F/!<(! F/F/F/!mp!F/!<)! | %10
+!>(! F/F/F/F/!>)!!pp! F/F/F/F/ | F/F/F/F/ F/F/F/F/ | F/F/F/F/ F/F/F/F/ | %13
+ F/F/F/F/ F/F/!pp!!<(!F/F/!<)! |!mp!!>(! F/F/F/!>)!!pp!F/ F/!<(!F/F/F/!<)! | %15
+ F/!pp!F/F/F/!<(! F/F/F/F/!<)! |!mp!!>(! F/F/F/F/!>)!!pp! F/F/F/F/ | F/F/F/F/ F/F/F/F/ | %18
+ F/F/F/F/ F/F/F/F/ | F/F/F/F/ F/F/F/F/ | F/F/F/F/ F/F/F/F/ | %21
+ (.[DF]/.[DF]/.[DF]/.[DF]/ .[DF]/.[DF]/.[DF]/.[DFB]/) :| %22
+!p!!>(! ([DFB]/[CF^A]/)!pp!(.[CFA]/!>)!.[CFA]/ .[CFA]/!<(!.[EFA]/.[EFB]/.[EFc]/)!<)! | %23
+!mp!!>(! ([DFc]/[DF]/)(.[DF]/!>)!!pp!.[DF]/ .[DF]/!<(!.[DF]/.[DF]/.[DFBd]/)!<)! | %24
+!mp!!>(! ([EFBd]/[EF^Ac]/)(.[EFAc]/!>)!!pp!.[EFAc]/ .[EFAc]/!p!!>(!.[EGAce]/.[EFBd]/.[EFAc]/)!>)! | %25
+!pp! !fermata![DFB]4 |] %26
+V:4
+!p! B,,,2-!p! B,,,/(.B,,,/.B,,,/.D,,/) |:!mf! F,,2-!p! F,,/(.F,,/.F,,/.^A,,/) | %2
+ B,,2-!p! B,,/(.B,,,/.B,,,/.D,,/) |!pp! F,,2- F,,/!p!(.F,,/.F,,/.F,,/) |!pp! B,,,2 z F, | D(DC)(C | %6
+ (E2) D)(B, | ^A,B,A,=A,) | (F,2 ^A,)z/A,/ | (.B,.B,)!pp!(.F,.F,) | (^D,4 |!pp! (=D,2) C,2) | %12
+ [B,,,B,,]2- [B,,,B,,] D | CC DC/B,/ | A,>B, A,2 | [D,A,]2 [D,A,][D,A,] | ([C,^A,]3 ([B,,B,]) | %17
+ [F,^A,]3) A, | (.B,.B,)(.F,.F,) | (^D,4 | (=D,2) C,2) | [B,,,-B,,]2 B,,,/(.B,,,/.B,,,/.D,,/) :| %22
+ F,,2- F,,/(.F,,/.F,,/.^A,,/) | B,,2- B,,/(.B,,,/.B,,,/.D,,/) | F,,2- F,,/(.F,,/.F,,/.F,,/) | %25
+ !fermata![B,,,B,,]4 |] %26
+V:5
+ x4 |: x4 | x4 | x4 | [DB]2 x2 | x4 | x4 | x4 | x4 | x4 | x4 | z2 E2 | D2- D z | x4 | x4 | x4 | %16
+ x4 | x4 | x4 | x4 | z2 E2 | x4 :| x4 | x4 | x4 | x4 |] %26
+V:6
+ x4 |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | F,,4 | x3 z | F,F, F,2 | F,2 F,2 | x4 | %16
+ x4 | x4 | x4 | x4 | F,,4 | x4 :| x4 | x4 | x4 | x4 |] %26
+

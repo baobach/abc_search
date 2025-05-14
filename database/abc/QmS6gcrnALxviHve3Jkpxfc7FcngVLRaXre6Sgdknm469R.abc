@@ -1,0 +1,42 @@
+X:1
+T:J. S. Bach
+T:Goldberg Variations: Variation XIX
+T:BWV 988
+%%score { ( 1 2 ) | 3 }
+L:1/8
+M:3/8
+K:G
+V:1 treble nm="Harp"
+V:2 treble 
+V:3 bass 
+V:1
+ d d2- | d d2- | dd^c | d2 z | g/f/g/d/B/d/ | e/d/e/c/A/c/ | d/c/d/e/d/c/ | B/A/B/c/B/A/ | G g2- | %9
+ g f2- | fed | ^c/d/ e2- | edc- | cBg- | g/e/f/d/e/^c/ | d3 | d d2- | d d2- | dd^c | d2 z | %20
+ g/f/g/d/B/d/ | e/d/e/c/A/c/ | d/c/d/e/d/c/ | B/A/B/c/B/A/ | G g2- | g f2- | fed | ^c/d/ e2- | %28
+ edc- | cBg- | g/e/f/d/e/^c/ | d3 | f/e/f/d/A/d/ | g/f/g/d/B/d/ | e/^d/e/g/f/e/ | ^d/e/f/d/B/d/ | %36
+ e e2- | e e2- | ee^d | e2 z | z e/c/A/c/ | d3- | dc/B/c- | cd/c/B/A/ | d/c/d/B/G/B/ | %45
+ e/d/e/c/A/c/ | f/e/f/a/d/f/ | g/f/g/d/B/G/ | f/e/f/d/A/d/ | g/f/g/d/B/d/ | e/^d/e/g/f/e/ | %51
+ ^d/e/f/d/B/d/ | e e2- | e e2- | ee^d | e2 z | z e/c/A/c/ | d3- | dc/B/c- | cd/c/B/A/ | %60
+ d/c/d/B/G/B/ | e/d/e/c/A/c/ | f/e/f/a/d/f/ | g/f/g/d/B/!fermata!G/ |] %64
+V:2
+ B/A/B/G/D/G/ | A/G/A/F/D/F/ | G/F/G/B/A/G/ | F/E/F/G/A/F/ | G G2- | G G2- | GGF | G2 z | z2 d | %9
+ ^c2 =c | BE^G | A2 G | F2 A | DGB | ^cAG- | G F2 | B/A/B/G/D/G/ | A/G/A/F/D/F/ | G/F/G/B/A/G/ | %19
+ F/E/F/G/A/F/ | G G2- | G G2- | GGF | G2 z | z2 d | ^c2 =c | BE^G | A2 G | F2 A | DGB | ^cAG- | %31
+ G F2 |[I:staff +1] D D2- | DB,[I:staff -1]G- | GGc | F z2 | B/A/B/G/E/G/ | c/B/c/A/F/A/ | %38
+ B/A/B/c/B/A/ | G/F/G/A/B/G/ | E2 z | z D/G/B/G/ | E3 | D z2 |[I:staff +1] G, G,2- | G,C,C- | %46
+ CA,C | C B,2 | D D2- | DB,[I:staff -1]G- | GGc | F z2 | B/A/B/G/E/G/ | c/B/c/A/F/A/ | %54
+ B/A/B/c/B/A/ | G/F/G/A/B/G/ | E2 z | z D/G/B/G/ | E3 | D z2 |[I:staff +1] G, G,2- | G,C,C- | %62
+ CA,C | C B,2 |] %64
+V:3
+ G,G,,G, | F,F,,F, | E,E,,E, | D,D,,C, | B,,B,G, | CC,C | B,/A,/B,/C/D | G,G,,/D,/G,/A,/ | %8
+ B,/A,/B,/G,/E,/G,/ | A,/G,/A,/F,/D,/F,/ | G,/F,/G,/E,/B,,/E,/ | G,/F,/G,/E,/^C,/E,/ | %12
+ A,/G,/A,/F,/D,/F,/ | B,/A,/B,/G,/E,/G,/ | A,A,,A, | D/^C/D/A,/F,/D,/ | G,G,,G, | F,F,,F, | %18
+ E,E,,E, | D,D,,C, | B,,B,G, | CC,C | B,/A,/B,/C/D | G,G,,/D,/G,/A,/ | B,/A,/B,/G,/E,/G,/ | %25
+ A,/G,/A,/F,/D,/F,/ | G,/F,/G,/E,/B,,/E,/ | G,/F,/G,/E,/^C,/E,/ | A,/G,/A,/F,/D,/F,/ | %29
+ B,/A,/B,/G,/E,/G,/ | A,A,,A, | D/^C/D/A,/F,/D,/ | z D,C | B,G,B, | CB,A, | B,A,/G,/A,/F,/ | %36
+ G,E,G, | A,A,,A, | G,/F,/G,/A,/B, | E,ED | C/B,/C/A,/F,/A,/ | B,/A,/B,/G,/E,/G,/ | %42
+ A,/G,/A,/C/E,/G,/ | F,/E,/F,/A,/D,/F,/ | B,,G,,B,, | C,A,,C, | D,C,D, | G,3 | z D,C | B,G,B, | %50
+ CB,A, | B,A,/G,/A,/F,/ | G,E,G, | A,A,,A, | G,/F,/G,/A,/B, | E,ED | C/B,/C/A,/F,/A,/ | %57
+ B,/A,/B,/G,/E,/G,/ | A,/G,/A,/C/E,/G,/ | F,/E,/F,/A,/D,/F,/ | B,,G,,B,, | C,A,,C, | D,C,D, | %63
+ !fermata!G,3 |] %64
+

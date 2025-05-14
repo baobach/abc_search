@@ -1,0 +1,87 @@
+X:1
+T:Mozart : Die Zauberflöte
+T:In diesen Heiligen Hallen
+T:In diesen Heiligen Hallen
+T:Mozart
+T:Die Zauberflöte
+T:public domain
+T:public domain
+T:public domain
+C:Mozart, Wolfgang Amadeus
+Z:public domain
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/8=64
+M:2/4
+K:E
+V:1 bass nm="Basse" snm="B."
+V:2 treble nm="Piano" snm="Pia."
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Larghetto." z/ | z4 |"^Sarastro." z2 z!mf! B, |: B,>B, (B,/C/) (A,/F,/) | (E,>F,) D, B,, | %5
+w: ||In|die- sen heil- * gen *|Ha- * len kent|
+w: |||die- sen heil- * gen *|Mau- * ern, wo|
+ E,3/2 (F,/4E,/4) (D,/E,/) (F,/G,/) |{G,} F,2 z B, | B,3/2 B,/ (^B,/C/) (A,/F,/) | (E,>F,) D, F, | %9
+w: man die * Ra- * che *|nicht, und|ist ein Mensch- * ge *|fal- * len, fürt|
+w: Mensch den * Men- * schen *|liebt, kann|kein Ver- rä- * ter *|lau- * ern, weil|
+ (G,/B,) (G,/4E,/4) (D,/F,) (E,/4C,/4) | B,,2 z2 | z2 z/ B,,/ C,/ D,/ | %12
+w: Lie- * be * inh * zur *|Pflicht.|Dann wan- delt|
+w: man * dem * Feind * ver- *|gibt.|Wen sol- che|
+ (E,/F,/) (G,/A,/) (B,/C/4B,/4 A,/4G,/4) (F,/4E,/4) |{G,} F,2 z/ B,,/ C,/ D,/ | %14
+w: er * an * Freun- * * * * des *|Hand ver- gnügt und|
+w: Leh- * ren * nicht _ _ _ _ er- *|freun, ver- die- net|
+ (E,/F,/) (G,/A,/) (B,/C/4B,/4 A,/4G,/4) (F,/4E,/4) |{G,} F,2 z/ F,/ G,/ A,/ | %16
+w: froh * ins * beß- * * * * re *|Land, dann wan- delt|
+w: nicht * ein * Mensch _ _ _ _ zu *|sein, wen so- che|
+ B,3/2 G,/ E,3/2 (F,/4G,/4) |{B,} A,2 z/ F,/ F,/ F,/ | G, (F,/4G,/4A,/4F,/4) E, F, | %19
+w: er an Freun- des *|Hand ver- gnügt und|froh ins _ _ _ beß- re|
+w: Leh- ren nicht er- *|freun, ver- die- net|nicht ein _ _ _ Mensch zu|
+{F,} G,2 z/ E,/ B,,/ A,,/ | G,,3/2 G,,/ C,3/2 C,/ | F,,2 z/ B,,/ B,,/ B,,/ | E, A,, B,, B,, | %23
+w: Land, dann wan- delt|er an Freun- des|Hand ver- gnügt und|froh ins beß- re|
+w: sein, wen sol- che|Leh- ren nicht er|freun, ver- die- net|nicht ein Mensch zu|
+ E,2 G,,2 | (F,,2 A,,) C, | (C, B,,2) (C,/D,/) | E,2"_(Beide gehen ab.)" z2 | z z z2 |1 z2 z B, :|2 %29
+w: Land, ins|beß- * re,|beß- * re *|Land.||In|
+w: sein, ein|Mensch, * ein|Mensch * zu *|sein.|||
+ z4 |] %30
+w: |
+w: |
+V:2
+"^Str. Quart" [GB]/ | [GB]>[EG] [CF]>[FA] |"^Bl." !wedge![F,A,D]!wedge![E,G,E] z z |: %3
+ ([EGB]2 [CFA]2) | ([B,EG]2 [B,DF])"^Fl." B | e3/2(f/4e/4) ((d/e/[Bf]/[eg]/)) | %6
+ ([Geg][Fdf]/) [B,D]/ [CE]/!wedge![DF]/!wedge![EG]/!wedge![FA]/ | ([EGB]2 [CFA]2) | %8
+ ([B,EG]2 [DF]) z | z !wedge![CE] !wedge![B,D] !wedge![^A,C] | B,/(bg/4e/4) (d/fe/4c/4) | %11
+ B2 z/ !wedge!B/!wedge!c/!wedge!d/ | %12
+ !wedge!e/!wedge!f/!wedge!g/!wedge!a/ !wedge!b/!wedge!c'/!wedge!d'/!wedge!e'/ | %13
+ e'd' z/ .B/.[Bc]/.[Bd]/ | %14
+ !wedge![Be]/!wedge![Bf]/!wedge![Bg]/!wedge![Ba]/ !wedge![Bb]/!wedge![gc']/!wedge![gd']/!wedge![ge']/ | %15
+ (e'd') z/ (F/[EG]/[DA]/) | z [EB] z [EGB] | z [CEA] z [B,DA] | ([B,EG][CFA][B,EG][B,DF]) | %19
+ ([DF][EG]) z/"^Fl." ([Ee]/[Gg]/[Aa]/) | [Bb]>[Gg] [Ee]3/2([Ff]/4[Gg]/4) | %21
+ ([Bb][Aa]) z/ [Ff]/[Ff]/[Ff]/ | [Gg]([Fcf]/4[Gg]/4[Aa]/4[Ff]/4) [EGBe][DFAd] | %23
+ [Ee][G,E] z [G,CE] | z [A,CF] z [CFA] | z"^Fl." [Geg]/[Geg]/ [Afa]/[Afa]/[Fdf]/[Fdf]/ | %26
+ [G,E] z/ e/ (d/a/f/d/ | e) z/ [GBeg]/ ([Fcf]/[cc']/[Bdb]/[Dd]/) |1 ([FAdf]2 [EGe]) z :|2 %29
+ ([FAdf]2 [EGe]) z |] %30
+V:3
+ z/ | [E,,E,] z [A,,,A,,] z | !wedge![B,,,B,,]!wedge![E,,,E,,] z z |: %3
+!p!"^Quart." ([E,,E,]2 [A,,,A,,]2) | [B,,,B,,]3 z | z"_Quart." G, ([F,A,D]/[E,G,]/[D,F,]/E,/) | %6
+ [B,,B,]2 z2 | ([E,,E,]2 [A,,,A,,]2) | [B,,,B,,]3 z | z [E,,E,G,] [F,,F,] [F,,E,] | %10
+ [D,,B,,D,][K:treble] [Ec] [GB][F^A] | %11
+[K:bass] !wedge!B,/!wedge!B,/!wedge!B,/!wedge!B,/ !wedge!B,/!wedge![^A,B,]/!wedge![A,B,]/!wedge![A,B,]/ | %12
+ !wedge![G,B,]/!wedge![G,B,]/!wedge![G,B,]/!wedge![G,B,]/ !wedge![G,B,]/!wedge![E,B,]/!wedge![F,B,]/!wedge![G,B,]/ | %13
+ !wedge![A,B,]/!wedge![G,B,]/!wedge![F,B,]/!wedge![E,B,]/ !wedge![D,B,]/!wedge![C,B,]/!wedge![B,,G,]/!wedge![A,,F,]/ | %14
+ !wedge!E,/!wedge!D,/!wedge!E,/!wedge!F,/ !wedge!G,/!wedge![E,B,]/!wedge![F,B,]/!wedge![G,B,]/ | %15
+ !wedge![A,B,]/!wedge![G,B,]/!wedge![F,B,]/!wedge![E,B,]/ !wedge![D,B,]/!wedge![C,A,]/!wedge![B,,G,]/!wedge![A,,F,]/ | %16
+"^Str. Quart." [G,,E,] z [C,,C,] z | [F,,,F,,] z [B,,,B,,] z | [E,,E,][A,,,A,,][B,,,B,,][B,,,B,,] | %19
+ [E,,E,]2"^Viol." z2 | z [G,E] z [G,E] | z [E,F,] z [D,A,] | [E,,E,][A,,,A,,] [B,,,B,,][B,,,B,,] | %23
+ [E,,E,] z [C,,C,]"^Quart." z | [A,,,A,,] z [A,,,A,,] z |"^Hörn." z B, z A, | %26
+ [E,,E,] z[K:treble] ([B,FA-]2 | [CEA])[K:bass] [G,,,G,,][A,,,A,,][B,,,B,,] |1 %28
+ ([B,,,B,,]2 [E,,,E,,]) z :|2 ([B,,,B,,]2 [E,,,E,,]) z |] %30
+V:4
+ x/ | B, z A, z | x4 |: x4 | x4 | z B (B/E/F/G/) | x4 | x4 | x4 | x4 | x4 | x4 | x4 | f/>g/a x2 | %14
+ x4 | f/>g/a x2 | x4 | x4 | x4 | B,2 x2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |1 x4 :|2 x4 |] %30
+V:5
+ x/ | x4 | x4 |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | x[K:treble] x3 |[K:bass] x4 | x4 | x4 | %14
+ G,,2 x2 | z4 | x4 | x4 | x4 | x4 | [G,,,G,,] z [C,,C,] z | [F,,,F,,] z [B,,,B,,] z | x4 | x4 | %24
+ x4 | [B,,,B,,] z [B,,,B,,] z | x2[K:treble] x2 | x[K:bass] x3 |1 x4 :|2 x4 |] %30
+

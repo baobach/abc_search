@@ -1,0 +1,26 @@
+X:1
+T:[ID 3-1]
+T:[ID 3-1]
+T:Bezeichnung standardisiert: Menuet [mit Trio] Menuet [mit Trio] Primo
+T:Urheber unbekannt Erstbeleg: 1767 (Datum in der schriftlichen Quelle) Datum in der hier transkribierten schriftlichen Quelle: 1799
+C:Urheber unbekannt
+C:Erstbeleg: 1767 (Datum in der schriftlichen Quelle)
+C:Datum in der hier transkribierten schriftlichen Quelle: 1799
+%%score 1 2
+L:1/8
+M:3/4
+K:Eb
+V:1 treble nm="Primo"
+V:2 treble nm="Secondo"
+V:1
+ e4 EF | G2 F2 E2 | f4 Bc | .d2 .c2 .B2 | (bg)(ge) e2 | (bg)(ge) e2 | fg a2 g2 | Tg4 f2 :: f3 gfg | %9
+ f2 g2 a2 | g3 aga | g2 a2 b2 | (bg)(ge) e2 | (bg)(ge) e2 | (3agf e2 d2 |{d} e6 :| %16
+[M:3/4]"^Trio" !fermata!B3 cBA | GA B4 | (3cBA G2 F2 | (3GFE E4 | (3GAB B4 | (3FGA A4 | %22
+ (3GAB A2 G2 |{G} F6 :: F2 (3AGF G2 | F2 (3def e2 | FG A2 G2 |{G} F6 | B3 cBA | GA B4 | %30
+ (3cBA G2 F2 |{F} E6 :| %32
+V:2
+ !fermata!e4 EF | G2 F2 E2 | f4 Bc | d2 c2 B2 | (ge)(ec) c2 | (ge)(ec) c2 | de f2 e2 | e4 d2 :: %8
+ d3 ede | d2 e2 f2 | e3 fef | e2 f2 g2 | (ge)(ec) c2 | (ge)(ec) c2 | fA G2 F2 | G6 :| %16
+[M:3/4] G3 AGF | EF G4 | (3AGF E2 D2 |{D} E6 | (3EFG G4 | (3DEF F4 | (3EFG F2 E2 | E6 :: %24
+ F2 (3def e2 | F2 (3AGF G2 | EF G2 F2 |{E} D6 | G3 AGF | EF G4 | (3AGF E2 F2 | G6 :| %32
+

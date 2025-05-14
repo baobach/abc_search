@@ -1,0 +1,54 @@
+X:1
+T:J. S. Bach
+T:BWV 936 Little Prelude in D major
+T:Six Little Preludes No. 4
+%%score { ( 1 2 ) | 3 }
+L:1/8
+M:2/4
+K:D
+V:1 treble nm="Harp"
+V:2 treble 
+V:3 bass 
+V:1
+ A2 d2- | dc/d/ eG | A/4G/4A/4G/4F z d | FE z c | ED z B | DC z A | B,C D2- | DC/D/ E/D/C/D/ | %8
+ E/D/C/B,/[K:bass] A,/G,/F,/E,/ | F,[K:treble]F/G/ A/G/F/G/ | A/G/F/E/ D/=C/B,/A,/ | %11
+ B,/D/E/F/ G/B/c/d/ | e/G/F/E/ F/e/d/c/ | d/F/^G/A/ G/d/c/B/ | c/A/B/c/ D/c/B/A/ | %15
+ ^G/E/F/G/ A/B/c/d/ | e2 a2- | a^g/a/ bd | ce d/c/B/A/ | A4 | A2 d2- | dc/d/ eG | %22
+ A/4G/4A/4G/4F z d | FE z c | ED z B | DC z A | B,C D2- | DC/D/ E/D/C/D/ | E/D/C/B,/ A,/G,/F,/E,/ | %29
+ F,F/G/ A/G/F/G/ | A/G/F/E/ D/=C/B,/A,/ | B,/D/E/F/ G/B/c/d/ | e/G/F/E/ F/e/d/c/ | %33
+ d/F/^G/A/ G/d/c/B/ | c/A/B/c/ D/c/B/A/ | ^G/E/F/G/ A/B/c/d/ | e2 a2- | a^g/a/ bd | ce d/c/B/A/ | %39
+ A4 | A2 e2- | ef/g/ a/g/f/e/ | f4- | f4 | g2 f2- | fe/^d/ e2- | ea/b/ a/g/f/e/ | e ^d2 e/f/ | %48
+ gf/g/ a/g/f/a/ | g/f/e/g/ f/e/^d/f/ | e4- | e4- | e f2 e- | e^d eg | A/g/f/a/ g/f/e/^d/ | e3 z | %56
+ z4 | e4- | e2 g2- | gf/e/ f/a/g/b/ | a/=c/B/A/ B/a/g/f/ | g/B/c/d/ c/g/f/e/ | f/d/e/f/ G/f/e/d/ | %63
+ c/A/B/c/ d/e/f/g/ | a2 d'2- | d'c'/d'/ e'g | fa g/f/e/d/ | d4 | A2 e2- | ef/g/ a/g/f/e/ | f4- | %71
+ f4 | g2 f2- | fe/^d/ e2- | ea/b/ a/g/f/e/ | e ^d2 e/f/ | gf/g/ a/g/f/a/ | g/f/e/g/ f/e/^d/f/ | %78
+ e4- | e4- | e f2 e- | e^d eg | A/g/f/a/ g/f/e/^d/ | e3 z | z4 | e4- | e2 g2- | gf/e/ f/a/g/b/ | %88
+ a/=c/B/A/ B/a/g/f/ | g/B/c/d/ c/g/f/e/ | f/d/e/f/ G/f/e/d/ | c/A/B/c/ d/e/f/g/ | a2 d'2- | %93
+ d'c'/d'/ e'g | fa g/f/e/d/ | !fermata!d3 z |] %96
+V:2
+ F4 | E4- | E2 D2- | D2 C2- | C2 B,2- | B,2 A,2- | A,2 ^G,2 | A,4- | A, z[K:bass] z2 | %9
+ x[K:treble] x3 | x4 | x4 | x4 | x4 | x4 | x4 | c4 | B4- | B A2 ^G | z/ E/C- C2 | F4 | E4- | %22
+ E2 D2- | D2 C2- | C2 B,2- | B,2 A,2- | A,2 ^G,2 | A,4- | A, z z2 | x4 | x4 | x4 | x4 | x4 | x4 | %35
+ x4 | c4 | B4- | B A2 ^G | z/ E/C- C2 | x4 | x4 | D2 A2- | AB/=c/ d/c/B/A/ | B2 A2 | G2- GA/B/ | %46
+ =c4- | c2 B2- | B4- | B4- | BB/=c/ d/c/B/d/ | =c/B/A/c/ B/A/^G/B/ | A2 G2 | F2 E z | %54
+ z2 z[I:staff +1] A,- | A,/G,/F,/A,/ G,[I:staff -1] z | b2 d2- | dc/B/ e/c/B/d/ | A4- | A2 z2 | %60
+ x4 | x4 | x4 | x4 | f4 | e4- | e d2 c | z/ A/F- F2 | x4 | x4 | D2 A2- | AB/=c/ d/c/B/A/ | B2 A2 | %73
+ G2- GA/B/ | =c4- | c2 B2- | B4- | B4- | BB/=c/ d/c/B/d/ | =c/B/A/c/ B/A/^G/B/ | A2 G2 | F2 E z | %82
+ z2 z[I:staff +1] A,- | A,/G,/F,/A,/ G,[I:staff -1] z | b2 d2- | dc/B/ e/c/B/d/ | A4- | A2 z2 | %88
+ x4 | x4 | x4 | x4 | f4 | e4- | e d2 c | z/ A/!fermata!F- F x |] %96
+V:3
+ D,E, F,G, | A,B, CA, | DC B,A, | G,E, A,G, | F,B, ^G,E, | A,^G, F,E, | D,C, B,,E, | A,,B,, C,B,, | %8
+ A,,B,, C,A,, | D,E, F,E, | D,E, F,D, | G,F, E,D, | C,B,, ^A,,F,, | B,,E,, E,^G, | A,^G, F,D, | %15
+ E,D, C,B,, | A,,B,, C,D, | E,F, ^G,E, | A,C, D,E, | A,,>E, A,2 | D,E, F,G, | A,B, CA, | DC B,A, | %23
+ G,E, A,G, | F,B, ^G,E, | A,^G, F,E, | D,C, B,,E, | A,,B,, C,B,, | A,,B,, C,A,, | D,E, F,E, | %30
+ D,E, F,D, | G,F, E,D, | C,B,, ^A,,F,, | B,,E,, E,^G, | A,^G, F,D, | E,D, C,B,, | A,,B,, C,D, | %37
+ E,F, ^G,E, | A,C, D,E, | A,,>E, A,2 | A,B, A,G, | F,E, F,A, | D,E, D,=C, | B,,A,, B,,D, | %44
+ G,,G, A,B, | =C=C, CB, | A,F, G,A, | B,A, G,F, | E,E B,^D | EG, A,F, | G,E ^G,E | A,=C DB, | %52
+ =C/B,/A,/C/ B,/A,/G,/B,/ | A,/G,/F,/A,/ G,/F,/E,/D,/ | =C,/B,,/A,,/C,/ B,,2 | E,2- E,/^D,/E,/F,/ | %56
+ ^G,B, G,E, | A, A,,2 B,, | C,E, C,A,, | D, D,,2 E, | F,E, ^D,B,, | E,A,, A,C | DC B,G, | %63
+ A,G, F,E, | D,E, F,G, | A,B, CA, | DF, G,A, | D,>A, D z | A,B, A,G, | F,E, F,A, | D,E, D,=C, | %71
+ B,,A,, B,,D, | G,,G, A,B, | =C=C, CB, | A,F, G,A, | B,A, G,F, | E,E B,^D | EG, A,F, | G,E ^G,E | %79
+ A,=C DB, | =C/B,/A,/C/ B,/A,/G,/B,/ | A,/G,/F,/A,/ G,/F,/E,/D,/ | =C,/B,,/A,,/C,/ B,,2 | %83
+ E,2- E,/^D,/E,/F,/ | ^G,B, G,E, | A, A,,2 B,, | C,E, C,A,, | D, D,,2 E, | F,E, ^D,B,, | %89
+ E,A,, A,C | DC B,G, | A,G, F,E, | D,E, F,G, | A,B, CA, | DF, G,A, | D,>A, !fermata!D z |] %96
+

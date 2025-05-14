@@ -1,0 +1,63 @@
+X:1
+T:The Well-Tempered Clavier Part I Fuga XIX
+T:BWV 864
+T:J. S. Bach
+%%score { ( 1 3 ) | 2 }
+L:1/8
+M:9/8
+K:A
+V:1 treble nm="Harp"
+V:3 treble 
+V:2 bass 
+V:1
+ A z z z Gc AdB | ecf ead- dc^d | gea g2 f Bed- | dc^d eBe- e f2 | g2 a g2 f g a2- | %5
+ agb e2 ^d e3- | edc d2 c B3- | BAc F2- F- F/G/A/4G/4A/4G/4A/4G/4F/4G/4 | [AA] z z z Gc AdB | %9
+ ecf ea d2 c^d | e3- ed=g cfd | B3- BAd GcB | A3- AGF d3- | dc f2 ed c3- | cB^A B2 c FBA | %15
+ B d2- dcf- fea- | ag/f/g- gf e2 ^df | B3- B2 A- A G2- | GFA ^DBG c F2 | EeB cfc d3- | %20
+ dBe cfd gea | f2 b e a2- a g2 | a z8 | G/B/A/G/A/B/ c/B/c/d/e/f/ g/b/a/g/f/a/ | %24
+ g/a/b/f/e/d/ c z z z cA | dBe cfe a g/4f/4g/4f/4g/4f/4g/4f/4 | e/f/g/e/g/a/ b z z z3 | %27
+ BGc Be A2 FB | z b/a/g/f/ e/f/g/e/d/c/ d/c/d/f/e/d/ | cAd cad Bec | d z z z EA FBc- | %31
+ cd=g- gfe Adc | df/e/d/c/ B e2- e d2- | d c2 z/ B/^A/B/c/d/ e/d/e/f/=g/e/ | %34
+ ^a/f/b/=a/=g/f/ e/d/c/B/^A/B/ g/f/e/d/c/B/ | B d2- dBe cf^d | B3- BGc A3- | A B2- BA^E F3- | %38
+ F^DG ^E/C/D/=F/^F/G/ A/F/G/A/B/c/ | d/B/c/^d/^e/f/ =d/=e/d/c/B/A/ G/B/A/G/F/^E/ | %40
+ B3- B/A/B/G/A- A/B<GF/ | FCF E2 A FBG | cA d2 cB E A2- | AGB E A2 GcA | d3 c f2- fed- | %45
+ d c2- cBA- AGB | e3- e2 d- d c2- | cBd Gec f B2 | Ae/d/c/B/ A/B/c/A/=G/F/ G/F/G/B/A/G/ | %49
+ FDA GeA fBg | a e2- edf B3- | BA=G F3 BEA | D3- DCA- AAG | !fermata!A6 z2 z |] %54
+V:2
+ z9 | z9 | z9 | A, z z z G,C A,DB, | ECF EA D2 C^D | E, z z2 C,F, E,A,F, | B,G,C B,E A,2 G,B, | %7
+ C,3- C,A,,D, B,,E,E,, | A,, A,2- A,G,E, F,B,,E, | C,F,D, A,F,B, E,A,F, | C2 B, ^A,B,E, F,3- | %11
+ F,=F,G, A,,2 B,, C,2 C,, | F,, z z z ^E,A, F,B,G, | CA,D CFB,- B,G,^A, | B,B,,E, D,=G,E, F,2 F,, | %15
+ B,, z z z E,A, G,CA, | ^DB,E A,3- A,B,F, | G,3- G,C,F, ^D, E,2 | A,,3- A,,G,,C, A,, B,,2 | %19
+ E,, z8 | z9 | z9 | A,, z z2 G,,C, A,,D,B,, | E,C,F, E,A,D,- D,C,^D, | E,F,G, A, z z2 A,,D, | %25
+ B,,E,C, F,D,A, F,B,/A,/G,/F,/ | G,/A,/B,/G,/F,/E,/ ^D,/E,/F,/D,/C,/B,,/ C,/B,,/C,/E,/D,/C,/ | %27
+ ^D,/F,/E,/D,/E,/F,/ G,/F,/G,/A,/B,/C/ ^D/F/E/D/C/B,/ | %28
+ EE,A, G,[I:staff -1]E[I:staff +1]A,[I:staff -1] FB,G | %29
+ A/F/E/D/[I:staff +1]C/B,/ A,/B,/C/A,/=G,/F,/ G,/F,/G,/B,/A,/G,/ | %30
+ F,/=G,/A,/F,/E,/D,/ A,>F,G,/A,/ B,/A,/G,/B,/A,/G,/ | %31
+ F,/E,/D,/F,/E,/D,/ C,/A,,/B,,/C,/D,/E,/ F,/=G,/A,/F,/G,/A,/ | D, z z2 C,F, D,=G,E, | %33
+ ^A,F,B, G,CG, DB,E- | EDC B,=G,D, E,F,F,, | %35
+ B,,/F,/B,/A,/G,/F,/ E,/F,/E,/D,/C,/B,,/ A,,/B,,/A,,/G,,/F,,/E,,/ | %36
+ ^D,,/B,,/E,/^D,/C,/B,,/ C,/G,/C/B,/A,/G,/ F,/G,/F,/E,/D,/C,/ | %37
+ B,,/C,/B,,/A,,/G,,/F,,/ =F,,/C,/F,/E,/D,/C,/ D,/E,/D,/C,/B,,/A,,/ | %38
+ G,,/A,,/G,,/F,,/^E,,/^D,,/ C,,A,,D, C,F,^D, | G,=F,A, ^F,B,G, CA,D- | %40
+ D/E/D/C/B,/A,/ G,^E,F, B,,C,C,, | F,,A,,F,, C,2 A,, D,B,,E, | C,F,D, A,A,,B,, C,F,B,, | %43
+ E,2 z z C,F, E,A,F, | B,G,C A,DF, G,E,G, | A,A,,C, D,,2 D,- D,E,B,, | C,3- C,F,,B,, G,, A,,2 | %47
+ D,, D,2- D,C,F, D,E,E,, | A,,A,,D, C,A,D, B,E,C | %49
+ D/C/B,/A,/G,/F,/ E,/F,/G,/E,/D,/C,/ D,/C,/D,/F,/E,/D,/ | %50
+ C,/B,,/A,,/B,,/C,/A,,/ D,/C,/D,/E,/C,/D,/ E,/D,/E,/F,/D,/E,/ | %51
+ F,/G,/F,/E,/D,/C,/ D,/E,/D,/C,/B,,/A,,/ G,,/B,,/A,,/G,,/F,,/E,,/ | %52
+ F,,/A,,/G,,/F,,/E,,/D,,/ C,,/C,/D,/E,/F,/G,/ A,/D,/ E,E,, | !fermata!A,,6 z2 z |] %54
+V:3
+ x9 | E z z z CF EAF | BGc BeA- AGB | EAF G3 cA=d | Bed- d c2 Bef | Bed- dc/B/c/A/ GcA | %6
+ FBA- AGA D3- | DCE A,3 D3- | DCF B,EG- GFG | GAB c3 B2 A- | AGc F B2- B A2 | G3- G F2- F^EG | %12
+ GFE D2 C- C[I:staff +1]B,[I:staff -1]B | ^E F2 G^AB =E3 | D2 G F E2 D2 C | DFB G2 c Bec | %16
+ B3- BAc F z z | FEG C3 FCE | C3 B,2 E- E2 ^D | E z z z AE FBF | G2 z EAF BGc | A d2- dcf B>fe/d/ | %22
+ c/d/e/c/B/A/ G/A/B/G/F/E/ F/E/F/A/G/F/ | x9 |[I:staff +1] E[I:staff -1] z z z CF EAF | %25
+ BGc Adc f ^d2 | e z z z ^DG EAF | x9 | G z8 | x9 | z[I:staff +1] A,[I:staff -1]D- DCF DGE | %31
+ AFB Ad=G- GFE | F z z z/ d/c/B/^A/^G/ F/c/B/=A/G/F/ | E/B/^A/^G/F/E/ D[I:staff +1] C2 F c2 | %34
+[I:staff -1] c[I:staff +1] F2 =GE[I:staff -1]F[I:staff +1] B, ^A,2 |[I:staff -1] z FB G3- GcA- | %36
+ AGF E3- ECF | ^DG^E C3- CA,=D | B,3- B,[I:staff +1]A,B, =E,[I:staff -1] z z | x9 | %40
+ z G^D ^ECF- F E2 | F z z z G,C A,DB, | ECF EAD- DC^D | EB,D- DC^D E2 F- | %44
+ FBE- E[I:staff +1]DC B,[I:staff -1]GB | E3- EDF[I:staff +1] B,3- | B,A,C[I:staff -1] F3 BEA | %47
+ F3 E2 A- AAG | A z8 | x9 | z c2- cBA- AGF | CDE EA,D- D C2- | CB,D G,EC F B,2 | C6 z2 z |] %54
+

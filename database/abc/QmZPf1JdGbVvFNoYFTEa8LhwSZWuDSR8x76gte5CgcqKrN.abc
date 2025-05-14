@@ -1,0 +1,42 @@
+X:1
+T:Title
+%%score { ( 1 3 4 ) | ( 2 5 ) }
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Grand Piano"
+V:3 treble 
+V:4 treble 
+V:2 bass 
+V:5 bass 
+V:1
+ z2 z2[Q:1/4=88] EE | [CE]4 z2 | [B,F]2 z2 z2 | [DF]4 z2 |[M:2/4] [EG]4 |[M:1/4] GG | %6
+[M:3/4] [^CG]4 z2 | [DF]2 z2 z2 | [DF]4 z2 |[M:2/4] [CE]4 |[M:1/4] z2 |[M:3/4] [EG]4 z2 | %12
+ [Fc]2 [FB]2 z2 | [df]>e [Bd]c BA |[M:2/4] [FA]2 [G,CEG]2 |[M:1/4] z2 |[M:3/4] [EG]4 z2 | %17
+ [Fc]2 [FB]2 z2 | [df]>e [Bd]c BA |[M:2/4] [FA]2 [G,CEG]2 |[M:1/4] G>G |[M:3/4] [E_B]4 z2 | %22
+ d2 c2 BA | G3 G AB |[M:2/4] [Ec]2 z2 |] %25
+V:2
+ z2 z2 CC | C,G,, z C z C | D,G,, [D,G,B,]2 [G,,G,]2 | [B,,G,]G,, z D [G,,G,]2 | %4
+[M:2/4] [C,G,]G,, C,2 |[M:1/4] EE |[M:3/4] E,A,, z ^C [A,,A,]2 | [D,A,]A,, [D,A,D]2 [C,^G,]2 | %8
+ [B,,G,]G,, z D [G,,G,]2 |[M:2/4] [C,G,]G,, C,2 |[M:1/4][K:treble] G>G | %11
+[M:3/4][K:bass] C,>C, C,[C,G,] [C,G,][C,G,] | [D,G,]2 [D,G,]2[K:treble] G>G | %13
+ z z/[K:treble] c/ z A GF |[M:2/4][K:bass] C,2 E,2 |[M:1/4][K:treble] G>G | %16
+[M:3/4][K:bass] C,>C, C,[C,G,] [C,G,][C,G,] | [D,G,]2 [D,G,]2[K:treble] G>G | %18
+ z z/[K:treble] c/ z A GF |[M:2/4][K:bass] C,2 E,2 |[M:1/4] E>E |[M:3/4] C,>C, C,C, [C,G,][C,_B,] | %22
+ [F,A,F]2 [F,A,F]2 [^F,B,_E][F,CE] | [G,CE]3 [G,CE] [G,B,F][G,DF] |[M:2/4][K:bass] [C,C]2 z2 |] %25
+V:3
+ x6 | G,G, z E .[G,B,D]2 | G,G, F2 [B,F][B,F] | z G, z F [CE][B,D] |[M:2/4] z G, G,2 |[M:1/4] x2 | %6
+[M:3/4] A,A, z G [^CF][CE] | z A, F2 [DF][DF] | z G, z F [CE][B,D] |[M:2/4] z G, G,2 |[M:1/4] x2 | %11
+[M:3/4] G,>G, G,[EA] [EB][Ec] | x6 | x6 |[M:2/4] x4 |[M:1/4] x2 |[M:3/4] G,>G, G,[EA] [EB][Ec] | %17
+ x6 | x6 |[M:2/4] x4 |[M:1/4] x2 |[M:3/4] C>C C[CEc] [Ee][Ed] | x6 | x6 |[M:2/4] x4 |] %25
+V:4
+ x6 | z2 G,2 z2 | x6 | z2 G,2 z2 |[M:2/4] x4 |[M:1/4] x2 |[M:3/4] z2 A,2 z2 | x6 | z2 G,2 z2 | %9
+[M:2/4] x4 |[M:1/4] x2 |[M:3/4] x6 | x6 | x6 |[M:2/4] x4 |[M:1/4] x2 |[M:3/4] x6 | x6 | x6 | %19
+[M:2/4] x4 |[M:1/4] x2 |[M:3/4] x6 | x6 | x6 |[M:2/4] x4 |] %25
+V:5
+ x6 | z2 C,2 G,,2 | x6 | z2 B,,2 z2 |[M:2/4] x4 |[M:1/4] x2 |[M:3/4] z2 E,2 z2 | x6 | z2 B,,2 z2 | %9
+[M:2/4] x4 |[M:1/4][K:treble] x2 |[M:3/4][K:bass] x6 | x4[K:treble] x2 | %13
+ G,,2[K:treble] [G,B,D]2 [G,B,D]2 |[M:2/4][K:bass] x4 |[M:1/4][K:treble] x2 |[M:3/4][K:bass] x6 | %17
+ x4[K:treble] x2 | G,,2[K:treble] [G,B,D]2 [G,B,D]2 |[M:2/4][K:bass] x4 |[M:1/4] x2 |[M:3/4] x6 | %22
+ x6 | x6 |[M:2/4][K:bass] x4 |] %25
+

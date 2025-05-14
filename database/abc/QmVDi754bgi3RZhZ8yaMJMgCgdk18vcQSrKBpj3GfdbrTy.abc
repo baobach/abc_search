@@ -1,0 +1,62 @@
+X:1
+T:Piano Étude after Paganini's 11th Caprice
+T:Piano Étude after Paganini's 11th Caprice
+T:Op. 3, No. 3
+T:Robert Schumann
+C:Robert Schumann
+%%score { ( 1 5 6 ) | ( 2 3 4 7 ) }
+L:1/8
+Q:1/4=60
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:5 treble 
+V:6 treble 
+V:2 treble 
+V:3 treble 
+V:4 treble 
+V:7 treble 
+V:1
+"^Andante"!p! (g2 bagf | f2 e2 d2 | c2 cd/c/ Bc | e2 d2) B2 | x2 x2 B2 | x2 x2 B2 | %6
+ c'_b/_a/ !>!ag !>!g^f | g4 z2 | g2 _b_agf | _e2 gfe(d | c)(_ed)(fe)e | _e2 d2({/A_Bc} TB2{AB} | %12
+ _ed/c/ _B2)({/=ABc} TB2{AB} | (5:4:5_e/d/_d/c/_c/ _B2){/B=B=c} TB2{^AB} | %14
+ !>!cd/_e/ !>!ed/c/ !>!cB/c/ | B(!>!_a/g/) z (!>!a/g/) z (!>!g/c'/) | %16
+ z (!>!_a/f/) z (!>!g/_e/) z (!>!f/d/) | z/!<(! (G/A/^A/B/c/.^c/.d/.^d/.e/.f/.^f/)!<)! | %18
+!f! ([Gg]2 [Bb][Aa][Gg][Ff] | f2 e2 d2 | [CAc]2 cd/c/ Bc | e2 d2) (g2 | %22
+ gc'/b/ !>!ab/c'/ !>!ad'/c'/ | !>!bc'/d'/ !>!be'/d'/ !>!c'd'/e'/ | [ff'][dd'][dd'][cc'][cc'][Bb]) | %25
+ [=Ec][Fc]/[Gc]/ !>![Ac]!>![Ac]!>![Ac]!>![G_B] | ([G_B]A) (!arpeggio!d2 c=B | c) z (d2 cB | %28
+ !fermata!e4) |] %29
+V:2
+ c2 B4 | B3 z[K:bass] E2- | E2 (F2 ^F2 | C2 B,) z (TD2 | E2 G2) (TD2 | E2 G2) (TD2 | %6
+ C!>!=E F !>!_E2 !>!D | D4) z2 |[K:treble] (_B2 B3 =B | c2 _B2)[K:bass] _E2- | ECDD_EF | %11
+ ^FG =F_E (F2 | _EF G2) (F2 | _EF G2) TF2 | (_E3 =E F^F | %15
+ [G,DG]2)!ped! G,2!ped-up!!ped! G,2!ped-up! |!ped! F,2!ped-up!!ped! G,2!ped-up!!ped! G,2!ped-up! | %17
+ z6 | !arpeggio![G,E]2 !arpeggio![B,F]4 | C4 B,2 | %20
+ [A,,E,A,]2 !arpeggio![A,,C]2 !arpeggio![_A,,C]2 | !arpeggio!C2 B,2 (!arpeggio![B,DG]2 | %22
+ G2 A) z ([D-A]2 | [DB]) z[K:treble] (B2 .c) z | c2 G2 _AG | x2 x2 x[K:bass] x | %26
+ (C,F,)!ped! !arpeggio!_A,2!ped-up! G,2 | G, z!ped! _A,2!ped-up! G,2- | !fermata![G,C]4 |] %29
+V:3
+ [EG]2 D4 | C3 z[K:bass] B,2 | A,4 _A,2 | G,3 z G,2 | G,4 G,2 | G,4 G,2 | _A,4 A,2 | G,4 x2 | %8
+[K:treble] _E2 D4 | C2 _B,2[K:bass] G,2 | _A,=A,_B,=B,C_C | _B,4 _A,2 | [G,_B,]4 _A,2 | %13
+ [G,_B,]4 [_A,=D]2 | G,2 _A,4 | x6 | x6 | x6 | C,2 D,4 | C,4 B,,2 | x6 | G,,4 F,2 | E,2 F, z ^F,2 | %23
+ G, z[K:treble] ^G,2 A, z | _A,2 G,2 [G,DF] z | x5[K:bass] x | z2 D,,2 G,,2 | C, z F,,2 G,,2 | %28
+ C,4 |] %29
+V:4
+ x2 F2 G_A | [DG]2 [Ec] x[K:bass] x2 | x2 FE DC | x6 | x6 | x6 | x6 | x6 |[K:treble] x2 F2 G_A | %9
+ G4[K:bass] x2 | x6 | x2 x2 DC | x2 x2 DC | x6 | x2 C2 x2 | x6 | x6 | x6 | x2 G,3 _A, | %19
+ _A,2 G,2 E,2 | x6 | x6 | x6 | x2[K:treble] E4 | DF E_E x2 | x5[K:bass] x | x6 | x6 | x4 |] %29
+V:5
+ x6 | x2 x2 ^G2 | A=G x2 x2 | x2 x2{/EFG} TF2{EF} |{/Gc-} [cc']b/a/ (g2{/EFG} TF2{EF} | %5
+{/Gc} (5:4:5c'/b/_b/a/_a/ g2){/EFG} TF2{EF} |{/_Ec-} c4 c2 | =B4 x2 | x6 | x2 x2 _B=B | cFdG_eA | %11
+ _B4 x2 | x6 | x6 | x6 | x2 !arpeggio![xDFB]2 !arpeggio![xEGc]2 | %16
+ !arpeggio![x_DF_A]2 !arpeggio![x_EGc]2 !arpeggio![x=DFB]2 | x6 | x6 | F2 E2 D2 | x2 F2 ^F2 | %21
+ G4 x2 | x6 | x6 | x6 | CD/E/ !>!F!>![_EG]!>![D^F][I:staff +1]!>!G, |[I:staff -1] =E=F F2 E[DF] | %27
+ E z F2 E[DF] | [Ec]4 |] %29
+V:6
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ c4 ^G2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x4 |] %29
+V:7
+ x6 | x4[K:bass] x2 | x6 | x6 | x6 | x6 | x6 | x6 |[K:treble] x6 | x4[K:bass] x2 | x6 | x6 | x6 | %13
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | C4 x2 | x2[K:treble] x4 | x6 | x5[K:bass] x | x6 | %27
+ x6 | x4 |] %29
+

@@ -1,0 +1,93 @@
+X:1
+T:Concerto de Aranjuez
+T:Concierto de Aranjuez 
+T:Arr. by Catcher Reeves
+T:for trombone and piano
+C:Arr. by Catcher Reeves
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=68
+M:4/4
+K:D
+V:1 bass nm="Trombone" snm="Tbn."
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:1
+"^\n" z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |"^13""^arco"!f! (3F,E,F,- F,6- | %13
+ F,F,F,G, A,3/2{/A,}B,/ A,G, | (3F,E,F,- F,6- | F,F, (3F,G,A, B,2 B,{/B,}C | %16
+ A,/G,/G,/F,/ F,/E,/E,/D,/ E,(3F,/E,/D,/ E,2- | E,F,/F,/ D,C, D,E,/E,/ C,B,, | %18
+ C,(3D,/C,/B,,/ C,6- | C,C,C,D, E,2 D,C, | C,2 B,,6- | B,,4 z4 | (3B,A,B,- B,6- | %23
+ B,2 B,C D2{/E} DC | (3A,G,A,- A,6- | A,2 C2 B,A,G,A, | B,2 A,G,/F,/ G,2 F,E,/D,/ | %27
+ E,2{/D,} E,3 D, (3E,F,G, | F,(3E,/D,/E,/ F,4 B,,2 | C,/D,/ E,4- E,D,C, |!mf! C,3 B,,- B,,4- | %31
+ B,, z z2!mf! z4 | (3B,A,B,- B,C/B,/4A,/4 B,/4C/4B,/4A,/4B,- B,/4C/4B,/4A,/4B,- | %33
+ B, z/ (3B,B,B,CDE/4D/4 E/4DC3/4 | A,/G,/A,- A,6 | z2 CC B,/B,/(3A,/A,/G,/ (3G,/A,/A,/B, |!p! B,8 | %37
+ E,8 | B,,6!mp! B,,2 | %39
+!<(! B,,(3B,,B,,B,,B,,/B,,/ (3B,,/B,,/B,,/B,,/4B,,/4B,,/4B,,/4 (3:2:2B,, C,2!<)! | %40
+!f!{/D,} E,6 z D, | (3E,F,G, F,6- | F,2 z2 z4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %53
+"^arco"!mp! F,/4E,/4 F,2- F,/(3G,/F,/E,/ F,{/E,} F,3 | z F,F,G, A,3/2{/A,B,}A,3/2G, | %55
+ F,/4E,/4F,3/2 G,/F,/4E,/4F,/4G,/4F,/4E,/4 F,G,/4F,/4E,/4 F,2 z/4 | %56
+ z F,/(3F,/G,/A,/!fermata!B,3/2 !fermata!C3/2 z/ z2 |] %57
+V:2
+ z8 | z8 |"_Half pedal throughout \nunless noted otherwise\n" f/e/f-!ped! f6-!ped-up! | %3
+ f2 fg a2{/b} gf | f/e/f-!ped! f6-!ped-up! | f2 ga b2 c'2 | aggf (3fed e2- | efdc decB | %8
+ c/B/c- c6- | c2 cd e2 dc |!ped! c4 B4-!ped-up! | B6 !fermata!z2 |!pp! F4 F4 | F4 E4 | F4 F4 | %15
+ F4 F4 | G4 G4 | B4 B4 | ^A4 A4 | ^A4 A4 | B4 B4- | B4 z4 |!p! G8 | F4 E4 | F8 | E4 D4 | E4 E4 | %27
+ d4 c4 | d4 B4 | c4 F4 | E4 F4- | F z z2 z4 | d8 | c4 B4 | %34
+ c3!mp! B/A/4G/4 A/4B/4A/4G/4A- A/4B/4A/4G/4A- | A2 z4 z2 | %36
+ c/(3B/c/B/(3A/B/A/(3G/A/G/(3F/G/F/(3E/F/E/D/ E2 |{/FED} E3 F E/D/E/F/ G2 | %38
+ (3F/G/F/(3G/A/G/ (3F/E/F/(3:2:2G/F- F2 z2 |!p! F8 | z4!mf!{/d} e4 | z4!ped! f4-!ped-up! | %42
+ f2 z B c/d/ e3- | e2 dc d/e/!ped! f3-!ped-up! | f4 !fermata!z4 | %45
+ z2 z2!mp! B/A/B-!ped! B2-!ped-up! | B4- B2 B=c | (3ddd d=c B/A/B-!ped! B2-!ped-up! | B4- B2 z2 | %49
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %57
+V:3
+!mf! !arpeggio![B,,F,B,DFB]4 !arpeggio![B,,F,B,DFB]4 | %1
+ !arpeggio![B,,F,B,DFB]4 !arpeggio![B,,F,B,DFB]4 | %2
+ !arpeggio![B,,F,B,DFB]4 !arpeggio![B,,F,B,DFB]4 | %3
+ !arpeggio![B,,F,B,DFB]4 !arpeggio![E,,A,,G,CEB]4 | %4
+ !arpeggio![B,,F,B,DFB]4 !arpeggio![B,,F,B,DFB]4 | %5
+ !arpeggio![B,,F,B,DFB]4 !arpeggio![B,,F,B,DFB]4 | %6
+ !arpeggio![E,,E,B,EGB]4 !arpeggio![E,,E,B,EGB]4 | %7
+ !arpeggio![E,,E,B,EGB]4 !arpeggio![E,,E,B,EGB]4 | %8
+ !arpeggio![F,,B,,E,^A,CG]4 !arpeggio![F,,B,,E,A,CG]4 | %9
+ !arpeggio![F,,B,,E,^A,CF]4 !arpeggio![F,,B,,E,A,CF]4 | %10
+ !arpeggio![F,,B,,F,B,EF]4 !arpeggio![F,,B,,F,B,DF]4 | %11
+ !arpeggio![F,,B,,F,B,CF]4 !arpeggio![F,,B,,F,B,DF]4 | %12
+ !arpeggio![B,,F,B,DFB]4 !arpeggio![B,,F,B,DFB]4 | %13
+ !arpeggio![B,,F,B,DFB]4 !arpeggio![E,,A,,G,CEB]4 | %14
+ !arpeggio![B,,F,B,DFB]4 !arpeggio![B,,F,B,DFB]4 | %15
+ !arpeggio![B,,F,B,DFB]4 !arpeggio![B,,F,B,DFB]4 | %16
+ !arpeggio![E,,E,B,EGB]4 !arpeggio![E,,E,B,EGB]4 | %17
+ !arpeggio![E,,E,B,EGB]4 !arpeggio![E,,E,B,EGB]4 | %18
+ !arpeggio![F,,B,,E,^A,CG]4 !arpeggio![F,,B,,E,A,CG]4 | %19
+ !arpeggio![F,,B,,E,^A,CF]4 !arpeggio![F,,B,,E,A,CF]4 | %20
+ !arpeggio![F,,B,,F,B,EF]4 !arpeggio![F,,B,,F,B,DF]4 | %21
+ !arpeggio![F,,B,,F,B,CF]4 !arpeggio![F,,B,,F,B,DF]4 | %22
+ !arpeggio![G,,D,G,B,DG]4 !arpeggio![G,,D,G,B,DG]4 | !arpeggio![G,,D,B,F]4 !arpeggio![G,,D,B,E]4 | %24
+ !arpeggio![F,,C,F,A,CF]4 !arpeggio![F,,C,F,A,CF]4 | %25
+ !arpeggio![F,,C,F,A,E]4 !arpeggio![F,,C,F,A,D]4 | %26
+ !arpeggio![E,,B,,E,G,B,E]4 !arpeggio![E,,B,,E,G,B,E]4 | %27
+ !arpeggio![E,,B,,E,G,D]4 !arpeggio![E,,B,,E,G,C]4 | %28
+ !arpeggio![D,,D,F,B,F]4 !arpeggio![C,,C,F,B,F]4 | %29
+ !arpeggio![F,,B,,E,^A,CG]4 !arpeggio![F,,B,,E,A,CF]4 | %30
+!mp! !arpeggio![B,,F,B,EF]4 !arpeggio![B,,F,B,DF]4 | %31
+ !arpeggio![B,,F,B,CF]4 !arpeggio![B,,F,B,DF]4 | %32
+!p! !arpeggio![G,,D,G,B,DG]4 !arpeggio![G,,D,G,B,DG]4 | %33
+ !arpeggio![G,,D,B,F]4 !arpeggio![G,,D,B,E]4 | !arpeggio![F,,C,F,A,CF]4 !arpeggio![F,,C,F,A,CF]4 | %35
+ !arpeggio![F,,C,F,A,E]4 !arpeggio![F,,C,F,A,D]4 | %36
+ !arpeggio![E,,B,,E,G,B,E]4 !arpeggio![E,,B,,E,G,B,E]4 | %37
+ !arpeggio![E,,B,,E,G,D]4 !arpeggio![E,,B,,E,G,C]4 | %38
+ !arpeggio![D,,D,F,B,F]4 !arpeggio![D,,D,F,B,F]4 | %39
+ !arpeggio![D,,D,F,B,F]4 !arpeggio![D,,D,F,B,F]4 | %40
+ !arpeggio![C,,C,F,B,F]4 !arpeggio![F,,B,,E,^A,CG]4 | %41
+ !arpeggio![F,,B,,E,^A,CF]4 !arpeggio![B,,F,B,EF]4 | %42
+ !arpeggio![B,,F,B,DF]4 !arpeggio![C,,C,F,B,F]4 | %43
+ !arpeggio![F,,B,,E,^A,CG]4 !arpeggio![D,,D,F,B,F]4 | %44
+ !arpeggio![C,,C,F,B,F]4 !arpeggio![B,,F,B,DF]4- | [B,,F,B,DF]4 !arpeggio![E,,B,,E,G,B,E]4 | %46
+ !arpeggio![E,,B,,E,G,B,E]4 !arpeggio![E,,B,,E,G,B,E]4 | %47
+ !arpeggio![B,,F,B,D]4 !arpeggio![E,,B,,E,G,B,E]4 | %48
+ !arpeggio![E,,B,,E,G,B,E]4 !arpeggio![E,,B,,E,G,B,E]4 | %49
+!mp! !arpeggio![B,,F,B,EF]4 !arpeggio![B,,F,B,DF]4 | %50
+ !arpeggio![D,,D,F,B,F]4 !arpeggio![C,,C,F,B,F]4 | %51
+ !arpeggio![F,,B,,E,^A,CG]4 !arpeggio![F,,B,,E,A,CF]4 | %52
+!mp! !arpeggio![B,,F,B,EF]4 !arpeggio![B,,F,B,DF]4 | z8 | z8 | z8 | z8 |] %57
+

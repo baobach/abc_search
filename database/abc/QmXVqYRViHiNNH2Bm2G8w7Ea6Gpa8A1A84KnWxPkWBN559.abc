@@ -1,0 +1,46 @@
+X:1
+T:Praeludium c-moll
+T:Praeludium c-moll
+T:BWV 934
+T:BACH J.S.
+C:BACH J.S.
+%%score { ( 1 2 ) | 3 }
+L:1/8
+M:3/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:1
+!p! (c.d) (e2 .d2) | z2 z .E (G.c) | z .e (d.f) !tenuto!a z | z2 z .=B (d.f) | %4
+ !breath!!tenuto!e4 .=e2 | (f2 g2) .a2 | !breath!!tenuto!.d4 .d2 | (e2 f2) .g2 | %8
+ !tenuto!c2 z2 (c.e) | !tenuto!B2 z2 (B.e) | !tenuto!A z z3 E | (DE) F z z2 | z .B,(E.B,) z .B, | %13
+ z .E z .E z .E | z .E z .E z .E | z2 .E2 !>!A2- | .A2 z4 | z2 .B2 !>!g2- | (gf)(ed) (cd) | %19
+ !>!e6 :: (ga) (.b2 .b) z | z3 .=e (gb) | a2 z .g =e2 | z3 .c f2 | z3 a (gf) | g z z3 f | %26
+ (ed) c z z2 | z3 z z .=A | d2 z .c B2 | z ^F (G=A) z2 | z D ^F (G2 .^F) | %31
+ !tenuto!.G2 !>!!breath!MB4- | B z (=e2 g) z | z3 .A (F=E) | F z (=B2 d) z | z3 .E (C.=B,) | %36
+ C z (^F2 =A) z | z4 z .=B | (df) .e2 !tenuto!.G2 | !tenuto!!fermata!c6 |] %40
+V:2
+ z2 z (G2 .F) | (F/E/).D !tenuto!C3 z | !tenuto!.F z z z z .c | (c/=B/).=A !tenuto!G3 z | %4
+ z .c(Gc) z .c | z .c z .c z .c | z B(FB) z .B | z B z B z .B | z A(G.A) z2 | z G(F.G) z2 | %10
+ z .G (FG) !tenuto!.A z | z3 D (B,A,) | !tenuto!.G,4 .G,2 | !tenuto!A,2 B,2 C2 | %14
+ !tenuto!B,2 C2 _D2 | !tenuto!.C2 z4 | z2 .F2 !>!d2- | d2 z4 | x6 | z .B !tenuto!G4 :: z3 (g2 .f) | %21
+ (f/=e/).d !tenuto!c2 z2 | z .f _d2 z .c | (BG) !tenuto!A2 z .=A | (Bd) f z z2 | z e (dc) =B z | %26
+ z3 .e (=AG) | (^FG) (=A^F) D z | z .G ^F2 z .G | C z z2 (EC) | !tenuto!B,2 z2 !tenuto!=A,2 | x6 | %32
+ z (!tenuto!_d2 .c2) .B | (AB) c2 z2 | z (!tenuto!A2 G2) .F | (EF) !tenuto!G2 z2 | z (E2 D2) .C | %37
+ (=B,D) (FA) G z | z3 (!tenuto!c2 .=B) | z .G !tenuto!E4 |] %40
+V:3
+ (!tenuto!C,2 .C2) .G,2 | (!tenuto!A,2 .A,,2) z2 | (!tenuto!A,2 .F,2) .D,2 | %3
+ (!tenuto!G,2 .G,,2) z2 | .!tenuto!C,2 (C2 .B,2) | (A,2 .G,2) .F,2 | !tenuto!.B,,2 (B,2 .A,2) | %7
+ (G,2 .F,2) .E,2 | (A,2 .C2) .F,2 | (G,2 .B,2) .E,2 | (F,2 .A,2) .F,2 | (!tenuto!B,2 .B,,2) .D,2 | %12
+ (!tenuto!E,2 .E,,2) ._D,2 | (!tenuto!C,2 B,,2) .A,,2 | (!tenuto!G,,2 F,,2) .E,,2 | %15
+ (!tenuto!A,,E,) (A,G,F,.E,) | (!tenuto!D,F,) (B,A,G,.F,) | (!tenuto!G,B,) (E_DC.B,) | %18
+ !tenuto!.A,2 .B,2 .B,,2 | !tenuto!.E,3 .B, !tenuto!E2 :: (!tenuto!E,2 E2) ._D2 | %21
+ (!tenuto!C2 =E,2) .C,2 | (!tenuto!F,2 B,,2) .C,2 | (!tenuto!F,,2 F,2) ._E,2 | %24
+ (!tenuto!D,2 .B,,2) .D,2 | (!tenuto!E,2 .E2) .D2 | (!tenuto!C2 .=A,2) .C2 | %27
+ (!tenuto!D2 .D,2) .C,2 | (!tenuto!B,,2 .=A,,2) .G,,2 | (!tenuto!E,2 .D,2) .C,2 | %30
+ (!tenuto!D,2 .C,2) .D,2 | (!tenuto!G,,D,) !tenuto!G, .B,(_D.F,) | (!tenuto!=E,2 .C,2) .E,2 | %33
+ (F,G,) !tenuto!A,2 z2 | (!tenuto!=B,,2 .G,,2) .B,,2 | (C,D,) !tenuto!E,2 z2 | %36
+ (!tenuto!^F,,2 .D,,2) .^F,,2 | (!tenuto!G,,2 .D,2) .E,2 | (!tenuto!A,,2 .F,,2) .G,,2 | %39
+ !tenuto!.C,3 .G, !tenuto!!fermata!C2 |] %40
+

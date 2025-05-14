@@ -1,0 +1,46 @@
+X:1
+T:Murmures
+T:Paul Senneville
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=90
+M:6/8
+K:E
+V:1 treble nm="Piano"
+V:2 bass 
+V:1
+"^\n" z3 z EF || G6- | G3- GFE | DGG- G3- | GDE GDE | C6- | CCE CB,A, | B,6- | B,2 G/G/ GBA | %9
+ G3 G3- | GGB AGF | G3 G3- | Gc=d cBG | A3 A3- | AGA cGA | F6- | F2 B/B/ Bcd || %17
+ !arpeggio![GBeg]3 g3- | gfg fec | g3 g3- | ggb gfe | c3 f3- | ffg fec | g3 g3- | gf=g fe=c | %25
+ =g3 =g3- | gf=g fe=c | g3 g3- | gf=g fe=c | B6 | z3 z EF || G2 G- G3- | G3- GFE | DGG- G3- | %34
+ GDE GDE | C6- | CCE CB,A, | B,6- | B,2 G/G/ GBA | G3 G3- | GGB AGF | G3 G3- | Gc=d cBG | A3 A3- | %44
+ AGA cGA | F6- | F2 [Bb]/[Bb]/ [Bb][cc'][dd'] || [gg']3 [gg']3- | [gg'][ff'][gg'] [ff'][ee'][cc'] | %49
+ [gg']3 [gg']3- | [gg'][gg'][bb'] [gg'][ff'][ee'] | [cc']3 [ff']3- | %52
+ [ff'][ff'][gg'] [ff'][ee'][cc'] | [gg']3 [gg']3- | [gg'][ff'][=g=g'] [ff'][ee'][=c=c'] | %55
+ [=g=g']3 [gg']3- | [gg'][ff'][=g=g'] [ff'][ee'][=c=c'] | !arpeggio![gg']3 [gg']3- | %58
+ [gg'][ff'][=g=g'] [ff'][ee'][=c=c'] | [Bb]6 | z [Ee][Ff] [Gg][Aa][Bb] || %61
+ !arpeggio![cc']3 !arpeggio![cc']3- | [cc'][Bb][cc'] [Bb][Aa][Ff] | [cc']3 [cc']3- | %64
+ [cc'][cc'][ee'] [cc'][Bb][Aa] | [Ff]3 [Bb]3- | [Bb][Bb][cc'] [Bb][Aa][Ff] | [cc']6- | %68
+ [cc'][Bb][=c=c'] [Bb][Aa][=F=f] | [=c=c']3 [cc']2- x | [cc'][Bb][=c=c'] [Bb][Aa][=F=f] | %71
+ [cc']3 [cc']2- x |!>(! [cc'][Bb][=c=c'] [Bb][Aa][=F=f] | !fermata![EAce]6!>)! |] %74
+V:2
+ E,6 || (E,,B,,G, B,,G,B,,) | (E,,B,,G, B,,G,B,,) | C,,(G,,E, G,,E,G,,) | (C,,G,,E, G,,E,G,,) | %5
+ F,,(C,A, C,A,C,) | (F,,C,(A,) C,A,C,) | (B,,F,D F,CF,) | (B,,F,(D) F,CF,) | %9
+ (E,,B,,(G,) B,,G,B,,) | (E,,B,,(G,) B,,G,B,,) | (^E,,C,(B,) C,B,C,) | (^E,,C,(B,) C,B,C,) | %13
+ (F,,C,(A,) C,A,C,) | (F,,C,(A,) C,A,C,) | (B,,F,D F,DF,) | (B,,F,D F,CF,) || %17
+ (E,,B,,(G,) B,,G,B,,) | (E,,B,,(G,) B,,G,B,,) | (G,,D,B, D,B,D,) | G,,D,B, D,B,D, | %21
+ (F,,C,(A,) C,A,C,) | (F,,C,(A,) C,A,C,) | (E,,B,,(G,) B,,G,B,,) | (A,,E,=C E,CE,) | %25
+ (A,,E,=C E,CE,) | (A,,E,=C E,CE,) | (E,,B,,(G,) B,,G,B,,) | (A,,E,=C E,CE,) | %29
+ (E,,B,,(G,) B,,G,B,,) | (E,,B,,(G,) B,,G,B,,) || (E,,B,,(G,) B,,G,B,,) | (E,,B,,(G,) B,,G,B,,) | %33
+ (C,,G,,E, G,,E,G,,) | (C,,G,,E, G,,E,G,,) | F,,(C,A, C,A,C,) | (F,,C,(A,) C,A,C,) | %37
+ (B,,F,D F,CF,) | (B,,F,D F,CF,) | (E,,B,,(G,) B,,G,B,,) | (E,,B,,G, B,,G,B,,) | %41
+ (^E,,C,(B,) C,B,C,) | (^E,,C,(B,) C,B,C,) | (F,,C,A, C,A,C,) | (F,,C,(A,) C,A,C,) | %45
+ (B,,F,D F,CF,) | (B,,F,(D) F,CF,) || (E,,B,,G, B,,G,B,,) | (E,,B,,G,) (B,,G,B,,) | %49
+ (G,,D,B, D,B,D,) | (G,,D,B, D,B,D,) | (F,,C,(A,) C,A,C,) | (F,,C,A,) (C,A,C,) | %53
+ (E,,B,,(G,) B,,G,B,,) | (A,,E,=C E,CE,) | (A,,E,=C E,CE,) | (A,,E,=C E,CE,) | %57
+ (E,,B,,(G,) B,,G,B,,) | (A,,E,=C E,CE,) | (E,,B,,(G,) B,,G,B,,) | (E,,B,,(G,) B,,G,B,,) || %61
+ (A,,E,(C) !tenuto!E,(!tenuto!C)!tenuto!E,) | (A,,E,C !tenuto!E,!tenuto!C!tenuto!E,) | %63
+ (C,!tenuto!G,E G,(E)G,) | (C,!tenuto!G,E G,(E)G,) | (B,,F,!tenuto!=D F,!tenuto!D!tenuto!F,) | %66
+ (B,,F,!tenuto!=D !tenuto!F,!tenuto!DF,) | (A,,E,C E,CE,) | =D,A,=F A,=FA, | (=D,A,=F A,FA,) | %70
+ (=D,A,=F A,FA,) | (A,,E,C E,CE,) | (=D,A,=F A,FA,) | !fermata![A,EA]6 |] %74
+

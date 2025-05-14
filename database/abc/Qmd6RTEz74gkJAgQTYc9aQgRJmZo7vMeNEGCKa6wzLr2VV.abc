@@ -1,0 +1,57 @@
+X:1
+T:A Funny Story
+T:For Children, Book 2,
+T:21. A Funny Story
+T:Béla Bartók Revised and Arranged by the Composer, January 1945 
+T:For Children Nr 21 , Sz 42 
+T:Book 2 (after Slovakian Folksongs)
+T:Oli 2020
+T:Oli 2020
+C:Bartók, Béla
+Z:Oli 2020
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=120
+M:2/4
+K:C
+V:1 treble nm="Piano"
+V:2 bass 
+V:1
+"^Allegro moderato"!f! z ([CE]G[CE]) | z ([CE]G[CE]) | z ([CE]G[CF]) | z ([CE]G[CE]) | %4
+ z ([CE]G[CE]) | z ([CE]G[CE]) | z (!1!!4![CF]G!1!!4![B,F]) | z ([CE]G[CE]) |!p! z ([CE]G[CE]) | %9
+ z ([CE]G[CE]) | z!<(! (!1!!2![CF]!<)!!5!A!>(!!1!!4![CG])!>)! | z ([CE]G[CE]) | z ([CE]G[CE]) | %13
+ z ([CE]G[CE]) | z!<(! (!1!!3![CF]!<)!G!>(!!1!!4![B,G])!>)! | z (!1!!2!!4![CEG]A[CEG]) | %16
+!f!"^poco più vivo"[Q:1/4=140]"^T" z (!1!!3!!4![B,FG]A[B,FG]) | z (!1!!2!!4![CEG]A[CEG]) | %18
+ z ([B,FG]A[B,FG]) | z ([CEG]A!fermata![CEG]) | %20
+"^Tranquillo"[Q:1/4=100]"^T"!mp! (!1!c.!3!e).!2!e.!1!e | (!3!c.!5!e) !tenuto!!1!A2 | %22
+ !tenuto!!3!B2 !tenuto!!2!B2 | (A.c) !tenuto!!5!e2 | !1!A(.!3!e.!2!e).!1!e | %25
+ (!3!c!5!e) !tenuto!!1!A2 | !tenuto!!4!B2 !tenuto!E2 | .!3!A.!2!A !tenuto!!1!A2 | %28
+"^poco rit."[Q:1/4=90]"^T"!p!"_dim." !tenuto!b2 !tenuto!e2 | (a.c') !tenuto!e'2 | %30
+ !tenuto!b2 !tenuto!e2 | .!4!a.!3!a!mf! (!^!!tenuto!!2!a2- |"_cresc." a.g) (!^!a2- | a.g) !^!a2- | %34
+"_poco accel."[Q:1/4=105]"^T" (afag | agag |!f! agag |"_sempre cresc." agag) | (agag | %39
+[Q:1/4=95]"^T""_poco rit." agag | agag | aga!breath!g) | %42
+ z"^Tempo I"[Q:1/4=120]"^T"!pp!!8va(! (!1!!2!!4![c'e'g']a'[c'e'g']) | z ([c'e'g']a'[c'e'g']) | %44
+ z ([c'f'g']a'[c'f'g']) | z ([c'e'g']a'[c'e'g']) | z ([c'e'g']a'[c'e'g']) | %47
+ z ([c'e'g']a'[c'e'g']) | z (!1!!3!!4![af'g']a'!1!!3!!4![bf'g']) | z ([c'e'g']a'[c'e'g']) | %50
+ z"_cresc." (([af'g']a'[bf'g'])) | z ([c'e'g']a'[c'e'g']) | z ([af'g']a'[bf'g']) | %53
+ z ([c'e'g']a'[c'e'g'])!8va)! | z ([Afg]a[Bfg]) | z ([ceg]a[ceg]) | z2!ff! !^!!1!!4!!5![A,FG]2- | %57
+ [A,FG]2 !^!!1!!4!!5![B,FG]2 | z2 !^!!fermata!!1!!3!!5![CEG]2 |] %59
+V:2
+"_umoristico" (!3!E,,.G,,).!2!G,,.!1!G,, | (E,,.G,,) !tenuto!C,,2 | %2
+ !tenuto!!3!D,,2 !tenuto!!1!D,,2 | (!4!C,,!2!E,,) !tenuto!!1!G,,2 | (!3!E,,.!1!G,,).!2!G,,.!1!G,, | %5
+ (!3!E,,.!1!G,,) !tenuto!!5!C,,2 | !tenuto!!2!D,,2 !tenuto!!5!G,,,2 | %7
+ .!1!C,,.!2!C,, !tenuto!!1!C,,2 | (E,,.G,,).G,,.G,, | (E,,.G,,) !tenuto!C,,2 | %10
+ !tenuto!D,,2 !tenuto!D,,2 | (C,,E,,) !tenuto!G,,2 | (E,,.G,,).G,,.G,, | (E,,.G,,) !tenuto!C,,2 | %14
+ !tenuto!D,,2 !tenuto!G,,,2 | .C,,.C,, !tenuto!C,,2 | !tenuto!!2!D,2 !tenuto!!5!G,,2 | %17
+ (!3!C,.E,) !tenuto!G,2 | !tenuto!!2!D,2 !tenuto!G,,2 | .!1!C,.!2!C, !tenuto!!1!C,2 | %20
+ z ([A,C]E[A,C]) | z ([A,C]E[A,C]) | z (!5!!2![G,D]F[G,D]) | z (!5!!3![A,C]E[A,C]) | %24
+ z ([A,C]E[A,C]) | z ([A,C]E[A,C]) | z (!5!!3![E,G,]!1!D[E,G,]) | z (!5!!2![F,B,]C!5!!3![F,B,]) | %28
+[K:treble] z (!5!!3![EG]d[EG]) | z (!5!!2![C^F]G[CE]) | z ([EG]d[EG]) | %31
+ z!<(! (!5!!2![FB]!<)!!1!^c!>(![FB])!>)! | z ([FB]^c[FB]) | z ([FB]^c[FB]) | z ([FB]^c[FB] | %35
+ ^c[FB]c[FB]) | (!^!d[FAB]d[FAB] | d[FAB]d[FAB]) | (!^!c[EGA]c[EGA]) | (!^!_B[^CFG]B[CFG]) | %40
+ (!^!c[DFG]c[DFG]) | (!^!B[DFG]B[DFG]) | (e.g).g.g | (e.g) !tenuto!c2 | !tenuto!d2 !tenuto!d2 | %45
+ (c.e) !tenuto!g2 | (eg).g.g | (e.g) !tenuto!c2 | !tenuto!d2 !tenuto!G2 | .c.c !tenuto!c2 | %50
+[K:bass] !tenuto!!2!D2 !tenuto!!5!G,2 | (!3!C.!2!E) !tenuto!!1!G2 | !tenuto!!2!D2 !tenuto!!5!G,2 | %53
+ !1!C!2!C !1!C2 | !tenuto!!2!D,2 !tenuto!!5!G,,2 | (C,.E,) !tenuto!G,2 | !^!D,,4 | !^!G,,,4 | %58
+ .C,,.C,, !fermata!C,,2 |] %59
+

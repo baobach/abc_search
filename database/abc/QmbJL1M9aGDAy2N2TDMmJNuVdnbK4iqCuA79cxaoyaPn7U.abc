@@ -1,0 +1,44 @@
+X:1
+T:Sinfonia in D Major (3-part Invention)
+T:Sinfonia No 5 in E Major (3-part Invention)
+T:J.S. Bach
+C:J.S. Bach
+%%score { ( 1 2 ) | 3 }
+L:1/8
+Q:1/4=100
+M:3/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:1
+"^Allegro moderato.  (.)" z2 z z/!f! (B<Mef/) |{e} d2- d>(c_d>e) |{_d} c2- c>(cMf>g) | %3
+{f} e2- e>(=de>f) |"_poco dim."{e} d2- d>dg>g | c2- c>cf>f | B2 e4- | e2 d4 | %8
+!f!{d} e2- e3/2 z/ z2 | z2 z3/2 a<dd/ | d2- d>e f2- |"_dim." f>e e2 Pd>c |!p! c2 z2 z2 | %13
+"_cresc." z2 z z/ c<Mfg/ |{e} d2- d>!<(!ef>g!<)! |"_dim." (e>d) (d2 Pc>)B |!p! B2 z z/ b<P_ab/ | %17
+ g2- g>a"_cresc." b2- | b>g=e>f g2- | g>f_d>cf>g |!f!{f} =e2- e>ea>a | (a2 g>)fb>b | (b2 =e>)ef>e | %23
+ f>g (f2 P=e>)f | f2 z2 z2 | z2 z z/ f<ba/ |{a} g2- g>a _d2- | d>c c2 PB>A | A2- A>(EMA>B) | %29
+{A} G2- G>(FG>!<(!A) | B2-!<)! B>!<(!FB>c!<)! |{B} A2- A>(GA>!>(!B) |{A} G2-!>)! G>!<(!Gc>c!<)! | %33
+!f! c2 B4- | B2 A4- | A2- A>G!<(!c>c!<)! | F2- F>!>(!FMB>c!>)! |!mf! G6 |] %38
+V:2
+ z6 | z2 z z/ (F<MBc/) |{B} A2- A>GA>B |{A} G2- G>(GMc>d) |{c} B6- | B2 A4- | A2- A>"_cresc."Gc>c | %7
+ F2- F>FMB>c |{A} G2- G>gc>c | !turn!c6- | c2 =B>c d2- | d>c c2 =B2 | c2 z z/ G<Mcd/ | %13
+{_B} =A2- A>B c2- | c2 B>cd>e | (c>B) (B2 =A2) | B2 z2 z2 | z2 z z/ e<P_de/ | c2- c>_dB>c | %19
+ A2- A>GA>B |{=d} c2- c>cf>_e | _d6- | (d2 c>)BA>G | A>B (A2 G>)A | A2- A>cf>_e |{e} _d6- | %26
+ d2- d>c B2- | B>A A2 G2 | A2 z2 z2 | z2 z z/ B,<MEF/ |{E} D2- D>CM_D>E |{_D} C2- C>CMF>G | %32
+{F} E2- E>DE>F |{E} D2- D>D"_decresc."G>G | C2- C>CF>F | B,2 E4- | E2 D4 | E6 |] %38
+V:3
+ z/!mp!!<(! (C,/E,/G,/!<)!!mf! C2 =A,2) | z/!mp!!<(! (B,,/D,/F,/!<)!!mf! B,2 G,2) | %2
+ z/!mp!!<(! (A,,/C,/E,/!<)!!mf! A,2 F,2) | z/!mp!!<(! (C,/E,/G,/!<)!!mf! C2 =A,2) | %4
+ z/ (B,,/D,/F,/ B,2 E,2) | z/ (A,,/C,/E,/ A,2 D,2) | z/ (G,,/B,,/D,/ G,2 A,2) | %7
+ z/ (B,,/D,/F,/ B,2 B,,2) | z/!<(! E,,/G,,/B,,/!<)! E,2 E,,2 | z/!<(! A,,/C,/E,/!<)! A,2 F,2 | %10
+ z/!<(! F,/A,/C/!<)! F2 z/ =B,/=A,/G,/ | C/G,/_A,/F,/ (G,2 G,,2) | z/ C,,/E,,/G,,/ C,2 E,,2 | %13
+ z/ F,,/=A,,/C,/ F,2 A,,2 | z/ B,,/D,/F,/ B,2 G,2 | z/ G,/=A,/B,/ (F,2 F,,2) | %16
+ z/ B,,/D,/F,/ B,2 D,2 | z/ E,/G,/B,/ E2 G,2 | z/ A,,/C,/E,/ A,2 =E,2 | z/ F,,/A,,/C,/ F,2 _D,2 | %20
+ z/ C,/=E,/G,/ C2 A,2 | z/ B,,/_D,/F,/ B,2 G,2 | z/ C,,/=E,,/G,,/ C,2 _D,2 | %23
+ z/ _D,/C,/B,,/ (C,2 C,,2) | z/ F,,/A,,/C,/ F,2 A,,2 | z/ B,,/_D,/F,/ B,2 D,2 | %26
+ z/ E,/G,/B,/ E2 z/ G,/F,/E,/ | A,/E,/F,/_D,/ (E,2 E,,2) | z/ A,,/C,/E,/ A,2 F,2 | %29
+ z/ E,,/G,,/B,,/ E,2 C,2 | z/ B,,/D,/F,/ B,2 G,2 | z/ A,,/C,/E,/ A,2 F,2 | z/ C,/E,/G,/ C2 =A,2 | %33
+ z/ B,,/D,/F,/ B,2 E,2 | z/ A,,/C,/E,/ A,2 D,2 | z/ G,,/B,,/D,/ G,2 A,2 | z/ B,,/F,/A,/ B,2 B,,2 | %37
+ E,,6 |] %38
+

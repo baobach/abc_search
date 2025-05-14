@@ -1,0 +1,105 @@
+X:1
+T:Missa L'Homme Arme
+T:Missa L'Homme Arme
+T:Mattheus Pipelare
+T:Copyright © 2017
+T:Copyright © 2017
+T:Copyright © 2017
+T:Copyright © 2017
+T:Copyright © 2017
+T:Copyright © 2017
+C:Mattheus Pipelare
+Z:Copyright © 2017
+%%score [ 1 2 3 4 ]
+L:1/8
+M:3/2
+K:C
+V:1 treble-8 transpose=-12 nm="TENOR 1" snm="T."
+V:2 bass nm="Baritone" snm="Bar."
+V:3 bass nm="BASS 1" snm="B."
+V:4 bass nm="BASS 2" snm="B."
+V:1
+"^Sources: Jena U22 andVat SMM 26" d12- | d4 e8 | f2 ed c2 d3 B c2 | d4 f4 g4 | a2 gf e2 f3 e d2 | %5
+w: |||||
+ c2 d4 e2 f2 ed | c4 z4 c4 | d4 e4 f2 ed | c3 d e2 f2 gfed | c4 A2 c4 BA | B4 G2 B4 AG | %11
+w: ||||||
+ A3 B cA d4 c2 | d12 ||[M:4/4] d8- | d8 | f8- | f6 ed | e3 f g2 f2- | f2 ed e4 | f8 | d4- d4 | %21
+w: ||||||||||
+ c3 d e2 d2- | d2 cB c4 | d8- | d8 | z8 | z8 | z8 | z8 | d8- | d8 | c8- | c8 | d8- | d4 c4 | B8 | %36
+w: |||||||||||||||
+ A8 | z8 | z8 | z4 d4 | e8- | e4 d4- | d8 | c8 ||[M:3/2] A8 A4 | B4 e6 d2 | d4 G2 c3 BAG | F12 | %48
+w: ||||||||Kyrie *||||
+ z2 F3 GAB c4 | z2 G3 ABc d4 | z2 c4 BA c4 | z2 B4 AG B4 | ABcd e2 d4 c2 | d4 z4 g4 | f4 e2 d2 e4 | %55
+w: ||||* * * * * eleison *|* Kyrie||
+ d2 f3 e d4 c2 | d2 f3 g a4 gf | e4 z4 e4 | f2 a3 gfe f4 | z2 f3 edc d3 c | BA B4 A4 G2 | %61
+w: |||||* * eleison * *|
+ A4 z4 A4 | F3 G A2 B4 AG | F2 A4 GF E4 | DEFG A2 G4 F2 | GABc d2 c4 B2 | c6 BA B4 | A6 G4 FG | %68
+w: ||||||Kyrie * * *|
+ A4 G2 F2 E4 | D3 E FG A3 Bcd | e2 f3 e d4 c2 | d12 |] %72
+w: ||* * eleison * *||
+V:2
+"^Kyrie" D,8 D,4 | G,8 G,4 | F,4 E,8 | D,4 z8 | z12 |"^eleison" z12 | A,8 A,4 | D,4 z8 | %8
+w: Kyrie *||||||||
+"^Kyrie" z12 | A,8 A,4 | G,8 G,4 |"^eleison" F,4 E,2 D,2 E,4 | D,12 ||[M:4/4]"^Christe" D,8 | %14
+w: ||eleison *|||Christe|
+ F,4 G,4 | A,4 z2 A,2- | A,G,F,E, F,4 | G,4 G,2 A,2- | A,2 G,F, G,4 | F,4 z2 F,2- | F,E,D,C, D,4 | %21
+w: |||||||
+ E,4 E,2 F,2- | F,2 E,D, E,4 | D,4 z2 G,2- | G,2 F,E, G,2 F,E, | D,4 z4 | z8 | z2 G,2 E,2 G,2- | %28
+w: |||||||
+ G,F,E,D, E,4 | D,4 F,4- | F,4 G,4 | A,4 z2 A,2- | A,2 G,F, E,4 | z8 | z2 D,2 F,4 | G,4 E,4 | %36
+w: |||* Christe|||||
+ z2 A,4 F,2 | G,F,E,D, C,4 | z6 D,2- | D,E,F,G,"^eleison" A,2 F,2 | G,4 A,2 G,F, | E,4 F,4 | D,8 | %43
+w: ||||* * eleison *|||
+ E,8 ||[M:3/2] F,8 F,4 | E,4 C,6 G,,2 | D,4 C,4 A,,4 | z2 A,3 G,F,E, D,4 | C,2 D,2 C,2 F,3 G,A,F, | %49
+w: |Kyrie *|||||
+ _B,3 A, B,2 G,3 F, G,2 | E,4 C,3 D, E,2 F,2 | D,4 B,,3 C, D,2 E,2 | C,2 A,,2 B,,4 A,,4 | %53
+w: |||* eleison * *|
+ A,,2 B,,3 A,, D,4 C,2 | D,2 A,,2 C,2 D,2 A,,4 | z2 A,4 F,2 G,4 | A,4 D,2 F,3 G,A,B, | %57
+w: ||||
+ C2 A,4 G,F, E,4 | D,12 | F,12 | z2 F,3 E,D,C, D,4 | E,4 A,,2 E,2 F,2 E,2 | D,8 D,3 E, | %63
+w: ||||||
+ F,2 E,3 D, D,4 C,2 | D,4 z4 A,4 | D,2 G,3 F, E,2 D,4 | z2 C,3 D,E,F, G,4 | E,8 E,4 | %68
+w: |* Kyrie||||
+ C,2 A,,2 B,,C, D,4 C,2 | D,2 F,3 E, D,2 C,2 F,2 | E,2 A,3 G, F,2 E,4 | D,12 |] %72
+w: |* * * * * eleison|||
+V:3
+ A,8 B,4- | B,4 C8 | A,4 z2 A,3 G,F,E, | F,6 D,2 E,2 G,2 | F,2 E,D, C,2 D,4 F,2 | %5
+w: Kyrie *|||||
+ E,2 D,2 F,2 G,2 A,2 G,F, | E,2 F,2 E,2 D,2 E,4 | F,4 E,4 z4 | A,,4 C,4 D,4 | E,8 F,4 | D,8 E,4 | %11
+w: ||||||
+ C,2 C3 B, G,2 A,4 | A,12 ||[M:4/4] z8 | z8 | z6 D,2- | D,E,F,G, A,2 B,2 | C8- | C8 | A,6 _B,2- | %20
+w: * eleison * * *||||Christe|||||
+ B,A,G,F, G,4 | A,8- | A,8 | z8 | z8 | z6 A,2- | A,2 G,F, A,2 G,F, | E,4 z4 | z8 | %29
+w: |||||eleison||||
+ z2 F,2 D,2 F,2- | F,E,D,C, D,4 | E,8 | z8 | z2 G,4 F,E, | D,4 z4 | z2 E,2 G,4 | A,4 F,4 | %37
+w: Christe * *||||||||
+ z2 C,3 D,E,F, | G,4 z4 | z2 F,3 G,A,B, | C8 | C4 A,2 B,2- | B,A,G,F, G,4 | A,8 ||[M:3/2] D,8 D,4 | %45
+w: ||||* * eleison|||Kyrie *|
+ G,8 G,4 | F,4 E,8 | D,4 z8 | A,8 A,4 | D,8 z4 | A,8 A,4 | G,8 G,4 | F,4 E,8 | D,4 z4 z4 | %54
+w: |||||||||
+ A,8 A,4 | D,8 z4 | D8 D4 | C8 C4 | D8 D4 | A,8 z4 | D8 D4 | C8 C4 | D8 D4 | A,12 | z12 | z8 D4 | %66
+w: ||||||||||||
+ E8 D4 | C4 B,8 | A,4 z8 | A,12- | A,12- | A,12 |] %72
+w: |eleison *|||||
+V:4
+ D,8 G,,4- | G,,4 C,8 | D,4 A,,8 | D,,8 z4 | z12 | z8 D,,4 | A,,3 B,, C,2 D,2 A,,4 | %7
+w: Kyrie *|||||||
+ z2 D,4 C,2 D,2 F,2 | E,3 D, C,2 A,,2 B,,4 | A,,8 F,,4 | G,,8 E,,4 | F,,3 G,, A,,2 B,,2 A,,4 | %12
+w: ||||* eleison * * *|
+ D,,12 ||[M:4/4] z8 | z8 | D,8- | D,8 | C,8- | C,8 | D,8 | B,,8 | A,,8- | A,,8 | z8 | z8 | D,8- | %26
+w: |||Christe|||||||eleison||||
+ D,4- D,4 | C,8- | C,8 | D,8 | B,,8 | A,,8- | A,,8 | z8 | z8 | z8 | z4 D,4 | E,8- | E,4 D,4- | %39
+w: ||||||||||Christe|||
+ D,8 | C,4 A,,4 | C,4 D,4 | B,,8 | A,,8 ||[M:3/2] z12 | z12 | z12 | D,,12 | F,,12 | G,,8 G,,4 | %50
+w: ||* eleison||||||Kyrie|||
+ A,,4 z2 A,,4 F,,2 | G,,4 z2 G,,4 E,,2 | F,,4 G,,4 A,,4 | F,,2 G,,3 F,,E,,D,, E,,4 | %54
+w: |||* eleison * * * *|
+ D,,4 z2 D,3 C,C,B,, | D,4 F,4 E,4 | D,4 z2 D,,3 E,,F,,G,, | A,,12 | D,,12 | D,8 D,4 | %60
+w: ||||||
+ G,,2 D,3 C,B,,A,, B,,4 | A,,4 z2 A,,2 F,,2 A,,2 | D,,3 E,, F,,2 G,,3 A,,B,,C, | %63
+w: |||
+ D,2 A,,2 C,2 D,2 A,,4 | D,,2 D,2 C,2 B,,2 A,,4 | G,,12 | C,8 G,,4 | A,,4 E,,8 | %68
+w: |||||
+ F,,4 G,,2 D,,2 A,,4 | D,,4 D,,E,,F,,G,, A,,3 B,, | C,2 D,2 C,2 D,2 A,,4 | D,,12 |] %72
+w: |eleison * * * * * *|||
+

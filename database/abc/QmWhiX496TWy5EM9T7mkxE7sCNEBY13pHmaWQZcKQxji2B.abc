@@ -1,0 +1,30 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=100
+M:4/4
+K:Ab
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 bass nm="Choir Pad, Saitama, Hubert Main, 1884"
+V:4 bass 
+V:1
+ c4 .B2 .G2 | [DE]3 [DF] [CE]4 | [Ec]4 [=DB]2 [FA]2 | [EG]6 z2 | [CA]4 dcBA | [FG]3 [F=A] [=EG]4 | %6
+w: By~Hubert~Platt~Main,~1884 * *||||||
+ A2- [EA]2 [=DB]2 [DB]2 | [EB]6 z2 | c2- [Cc]2 BAGF | [DE]3 [DF] [CE]4 | c2- [Cc]2 BAGF | %11
+w: |||||
+ [DE]3 [DF] [CE]4 | A2 z2 z2 .B2 | z4 z2 .c2 | z4 G4 | [CA]8 |] %16
+w: |||||
+V:2
+ E2 C2 D-[DA]D-[DF] | x8 | x8 | x8 | z4 E2 F2 | x8 | F2 z2 z4 | x8 | E2 z2 D2 D2 | x8 | %10
+ E2 z2 D2 D2 | x8 | e2- [_Ge]2 [Fd][Ec]=D-[DA] | [EG]3 [DG] [CA]2 F-[FB] | [EA]4 z2 D2 | x8 |] %16
+V:3
+ A,2 E,2 G,2 B,A, | G,2 E,2 E,4 | E,2 A,2 F,2 B,2 | B,6 z2 | A,4 B,A,B,_C | _C3 C =C4 | %6
+ C4 A,2 F,2 | G,6 z2 | A,2 E,2 F,2 B,A, | G,2 G,2 A,4 | A,2 E,2 F,2 B,A, | G,2 G,2 A,4 | %12
+ C2 A,2 A,2 A,B, | B,3 B, A,2[K:treble] =ED | C4 B,4 | A,8 |] %16
+V:4
+ A,,4 A,,2 A,,2 | B,,2 G,,2 A,,4 | A,,4 B,,2 =D,2 | E,6 z2 | F,4 .G,2 D,2 | =D,3 G,, C,4 | %6
+ F,4 B,,2 B,,2 | E,6 z2 | A,,4 A,,2 A,,2 | B,,2 E,2 z4 | A,,4 A,,2 A,,2 | B,,2 E,2 z4 | %12
+ A,,2 C,2 D,E, F,2 | E,3 =E, F,2 D,2 | E,4 E,4 | A,,8 |] %16
+

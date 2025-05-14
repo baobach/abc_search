@@ -1,0 +1,55 @@
+X:1
+T:Präludium e-Moll BWV 855a
+T:Präludium e-Moll BWV 855a
+T:Johann Sebastian Bach
+T:Klavierbüchlein für Wilhelm Friedemann Bach
+T:Gemeinfreiheit
+T:Gemeinfreiheit
+C:Johann Sebastian Bach
+Z:Gemeinfreiheit
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ G z z2 B z z2 | A z z2 A z z2 | B z z2 B z z2 | B z z2 B z z2 | A z z2 B z z2 | G z z2 A z z2 | %6
+ F z z2 G z z2 | E z z2 F z z2 | D z z2 D z z2 | E z z2 A z z2 | G z z2 G z z2 | =F z z2 F z z2 | %12
+ G z z2 E z z2 | D z z2 D z z2 | E z z2 E z z2 | ^D z z2 E z z2 | F z z2 F z z2 | E z z2 E z z2 | %18
+ F z z2 G z z2 | G z z2 F z z2 | G z z2 E z z2 | E z z2 ^D/A,/B,/C/ B,/C/B,/A,/ | %22
+ !fermata![^G,B,E]8 |] %23
+V:2
+ [Be] x x2 [eg] x x2 | [cf] x x2 [cf] x x2 | [Bf] x x2 [fa] x x2 | [eg] x x2 [eg] x x2 | %4
+ [cf] x x2 [fb] x x2 | [Be] x x2 [ea] x x2 | [Ad] x x2 [dg] x x2 | [Gc] x x2 [Ac] x x2 | %8
+ [FAc] x x2 [GB] x x2 | [Ae] x x2 [=cf] x x2 | [Beg] x x2 B x x2 | [Ac] x x2 [Bd] x x2 | %12
+ [ce] x x2 [EG] x x2 | [FA] x x2 [^GB] x x2 | [Ac] x x2 [Ac] x x2 | [Ac] x x2 [Ac] x x2 | %16
+ [Ac] x x2 [AB] x x2 | [^GBe] x x2 [=G^Ae] x x2 | [=Ad] x x2 [Be] x x2 | [^ce] x x2 [B^d] x x2 | %20
+ [Be] x x2 [^GB=d] x x2 | [Ac] x x2 x4 | x8 |] %23
+V:3
+ E,/G,/A,/B,/ A,/B,/A,/G,/ E,/G,/A,/B,/ A,/B,/A,/G,/ | %1
+ E,/A,/B,/C/ B,/C/B,/A,/ E,/A,/B,/C/ B,/C/B,/A,/ | %2
+ ^D,/F,/G,/A,/ G,/A,/G,/F,/ D,/F,/G,/A,/ G,/A,/G,/F,/ | %3
+ E,/G,/A,/B,/ A,/B,/A,/G,/ E,/G,/A,/B,/ A,/B,/A,/G,/ | %4
+ E,/F,/G,/A,/ G,/A,/G,/F,/ D,/F,/G,/A,/ G,/A,/G,/F,/ | %5
+ D,/E,/F,/G,/ F,/G,/F,/E,/ C,/E,/F,/G,/ F,/G,/F,/E,/ | %6
+ C,/F,/G,/A,/ G,/A,/G,/F,/ B,,/G,/A,/B,/ A,/B,/A,/G,/ | %7
+ B,,/E,/F,/G,/ F,/G,/F,/E,/ A,,/F,/G,/A,/ G,/A,/G,/F,/ | %8
+ G,/A,/B,/C/ B,/C/B,/A,/ G,/B,/C/D/ C/D/C/B,/ | G,/^C/D/E/ D/E/D/C/ F,/^D/E/F/ E/F/E/D/ | %10
+ E,/F,/G,/A,/ G,/A,/G,/F,/ E,/G,/A,/B,/ A,/B,/A,/G,/ | %11
+ E,/A,/B,/C/ B,/C/B,/A,/ D,/B,/C/D/ C/D/C/B,/ | %12
+ C,/D,/E,/=F,/ E,/F,/E,/D,/ C,/E,/^F,/G,/ F,/G,/F,/E,/ | %13
+ C,/F,/G,/A,/ G,/A,/G,/F,/ B,,/^G,/A,/B,/ A,/B,/A,/G,/ | %14
+ A,/B,/C/D/ C/D/C/B,/ =G,/A,/B,/C/ B,/C/B,/A,/ | F,/A,/B,/C/ B,/C/B,/A,/ E,/A,/B,/C/ B,/C/B,/A,/ | %16
+ ^D,/A,/B,/C/ B,/C/B,/A,/ ^D,/F,/G,/A,/ G,/A,/G,/F,/ | %17
+ =D,/^G,/A,/B,/ A,/B,/A,/G,/ ^C,/E,/F,/=G,/ F,/G,/F,/E,/ | %18
+ =C,/F,/G,/A,/ G,/A,/G,/F,/ B,,/E,/F,/G,/ F,/G,/F,/E,/ | %19
+ ^A,,/E,/F,/G,/ F,/G,/F,/E,/ B,,/F,/G,/=A,/ G,/A,/G,/F,/ | %20
+ E,/F,/G,/A,/ G,/A,/G,/F,/ E,/^G,/A,/B,/ A,/B,/A,/G,/ | E,/A,/B,/C/ B,/C/B,/A,/ E, z z2 | %22
+ !fermata![E,,E,]8 |] %23
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x4 F, x x2 | x8 |] %23
+

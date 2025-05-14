@@ -1,0 +1,43 @@
+X:1
+T:Glory of the North
+T:John Playford (1623 - 1686) Arr. Marieh 
+T:"Musick's Delight on the Cithren" (1666), No.16
+C:John Playford (1623 - 1686)
+%%score { ( 1 2 ) ( 3 4 ) } { 5 6 }
+L:1/8
+M:2/2
+K:A
+V:1 treble-8 nm="Bouzouki (4 chœurs)"
+V:2 treble-8 
+V:3 tab stafflines=6 strings=E2,A2,D3,G3,B3,E4 nostems nm="Guitare classique (Tablature)"
+V:4 tab stafflines=6 strings=E2,A2,D3,G3,B3,E4 nostems 
+V:5 treble-8 nm="Guitare classique"
+V:6 tab stafflines=6 strings=E2,A2,D3,G3,B3,E4 nostems nm="Guitare classique (Tablature)"
+V:1
+"A" a2 a2 b2 c'2 |"A" bc'ab"E" g2 e2 |"A" cdec"D" fedc |"E" B3 A"A" A4 ::"A" a2 ec a2 ec | %5
+"A" a2 ec"E" B3 B |"A" cdec"D" fedc |"E" B3 A"A" A4!D.C.! :| %8
+V:2
+ A,4 A,4 | A,4 E,4 | A,4 D4 | E,4 A,4 :: A,4 A,4 | A,4 E,4 | A,4 D4 | E,4 A,4 :| %8
+V:3
+[K:F] !1!A2 !1!A2 !1!=B2 !1!^c2 | !1!=B !1!^c !1!A !1!B !1!^G2 !1!E2 | %2
+ !2!^C !2!D !1!E !2!C !1!^F !1!E !2!D !2!C | !2!=B,3 !3!A, !3!A,4 :: %4
+ !1!A2 !1!E !2!^C !1!A2 !1!E !2!C | !1!A2 !1!E !2!^C !2!=B,3 !2!B, | %6
+ !2!^C !2!D !1!E !2!C !1!^F !1!E !2!D !2!C | !2!=B,3 !3!A, !3!A,4 :| %8
+V:4
+[K:F] !5!A,,4 !5!A,,4 | !5!A,,4 !6!E,,4 | !5!A,,4 !4!D,4 | !6!E,,4 !5!A,,4 :: !5!A,,4 !5!A,,4 | %5
+ !5!A,,4 !6!E,,4 | !5!A,,4 !4!D,4 | !6!E,,4 !5!A,,4 :| %8
+V:5
+"A" !arpeggio![A,EAce]4 !arpeggio![A,EAce]4 |"A" !arpeggio![A,EAce]4"E" !arpeggio![E,B,EGBe]4 | %2
+"A" !arpeggio![A,EAce]4"D" !arpeggio![DAdf]4 |"E" !arpeggio![E,B,EGBe]4"A" !arpeggio![A,EAce]4 :: %4
+"A" !arpeggio![A,EAce]4 !arpeggio![A,EAce]4 |"A" !arpeggio![A,EAce]4"E" !arpeggio![E,B,EGBe]4 | %6
+"A" !arpeggio![A,EAce]4"D" !arpeggio![DAdf]4 |"E" !arpeggio![E,B,EGBe]4"A" !arpeggio![A,EAce]4 :| %8
+V:6
+ [!5!A,,!4!E,!3!A,!2!C!1!E]4 [!5!A,,!4!E,!3!A,!2!C!1!E]4 | %1
+ [!5!A,,!4!E,!3!A,!2!C!1!E]4 [!6!E,,!5!B,,!4!E,!3!G,!2!B,!1!E]4 | %2
+ [!5!A,,!4!E,!3!A,!2!C!1!E]4 [!4!D,!3!A,!2!D!1!F]4 | %3
+ [!6!E,,!5!B,,!4!E,!3!G,!2!B,!1!E]4 [!5!A,,!4!E,!3!A,!2!C!1!E]4 :: %4
+ [!5!A,,!4!E,!3!A,!2!C!1!E]4 [!5!A,,!4!E,!3!A,!2!C!1!E]4 | %5
+ [!5!A,,!4!E,!3!A,!2!C!1!E]4 [!6!E,,!5!B,,!4!E,!3!G,!2!B,!1!E]4 | %6
+ [!5!A,,!4!E,!3!A,!2!C!1!E]4 [!4!D,!3!A,!2!D!1!F]4 | %7
+ [!6!E,,!5!B,,!4!E,!3!G,!2!B,!1!E]4 [!5!A,,!4!E,!3!A,!2!C!1!E]4 :| %8
+

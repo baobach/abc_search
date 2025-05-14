@@ -1,0 +1,53 @@
+X:1
+T:French Suite III Anglaise
+T:BWV 814
+T:J. S. Bach
+%%score { 1 | ( 2 3 4 ) }
+L:1/8
+Q:1/4=200
+M:4/4
+K:D
+V:1 treble nm="Harp"
+V:2 bass 
+V:3 bass 
+V:4 bass 
+V:1
+"^Prestissimo" F2 B^A BcdB | g2 gf e2 d2 | c2 B^A Bcde | f2 ed edcB | dcB^A BcdB | g2 gf e2 fg | %6
+ a2 c2 dcBA | gfef d4 | F2 B^A BcdB | g2 gf e2 d2 | c2 B^A Bcde | f2 ed edcB | dcB^A BcdB | %13
+ g2 gf e2 fg | a2 c2 dcBA | gfef d4 | A2 dc defd | G2 GF G2 e2 | GFEF ^GABc | dcBe dcBA | %20
+ c2 f^e f^gaf | ba^gf ^e^df=f | ^dc f2 BA^GA | F8 | a2 ^dc defd | baga b4- | b2 cB cdec | %27
+ agfg a4- | a2 B^A B2 g2 | ^ABcd e2 G2- | GFEF dB^AB | edcB c2 F2- | F2 B^A BcdB | g2 gf e2 d2 | %34
+ c2 B^A Bcde | fedc edcB | dcB^A gfe^d | agfe b^a^gf | b2 f2 e/4d/4e/4d/4e/4d/4e/4d/4 cB | B8 | %40
+ A2 dc defd | G2 GF G2 e2 | GFEF ^GABc | dcBe dcBA | c2 f^e f^gaf | ba^gf ^e^df=f | ^dc f2 BA^GA | %47
+ F8 | a2 ^dc defd | baga b4- | b2 cB cdec | agfg a4- | a2 B^A B2 g2 | ^ABcd e2 G2- | GFEF dB^AB | %55
+ edcB c2 F2- | F2 B^A BcdB | g2 gf e2 d2 | c2 B^A Bcde | fedc edcB | dcB^A gfe^d | agfe b^a^gf | %62
+ b2 f2 e/4d/4e/4d/4e/4d/4e/4d/4 cB | !fermata!B8 |] %64
+V:2
+ D2 C2 D2 F2 | E2 D2 C2 B,2 | E4 F,4 | B,4 ^A,2 B,2 |[I:staff -1] z2[I:staff +1] C2 D2 F2 | %5
+ E2 D2 C4- | C2 E2 D4- | D2 C2 D4 | D2 C2 D2 F2 | E2 D2 C2 B,2 | E4 F,4 | B,4 ^A,2 B,2 | %12
+[I:staff -1] z2[I:staff +1] C2 D2 F2 | E2 D2 C4- | C2 E2 D4- | D2 C2 D4 | x8 | x8 | x8 | x8 | x8 | %21
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %39
+[I:staff -1] z F- F6 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %55
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z !fermata!F- F6 |] %64
+V:3
+ B,8- | B,4 G,4- | G,2 F,E, D,2 C,2 | D,2 E,2 F,2 B,,2 | B,8- | B,6 A,G, | F,2 E,2 F,2 G,2 | %7
+ A,4 z2 D,2 | B,8- | B,4 G,4- | G,2 F,E, D,2 C,2 | D,2 E,2 F,2 B,,2 | B,8- | B,6 A,G, | %14
+ F,2 E,2 F,2 G,2 | A,4 z2 D,2 | F,2 G,2 A,4 | B,4 A,4 | A,2 A,2 B,2 A,2- | A,2 ^G,2 A,2 E,2 | %20
+ A,2 B,2 C4 | F,2 B,4 ^G,2 | ^E,2 F,4 E,2 | F,,2 F,E, F,^G,A,F, | ^D,2 F,2 B,2 A,2 | %25
+ G,F,E,F, G,F,E,D, | C,2 E,2 A,2 G,2 | F,E,D,E, F,E,D,C, | B,,D,G,F, E,D,C,B,, | %29
+ C,D,E,F, ^G,^A,B,A, | B,2 ^A,2 B,2 G,2 | z2 B,2 ^A,4- | A,2 F,2 B,4- | B,2 E,2 ^A,2 B,2 | %34
+ C4 B,4- | B,2 ^A,2 B,2 z2 | G,2 F,2 E,2 G,2 | C,2 G,2 F,2 E,2 | EDCB, F2 F,2 | z2[I:staff -1] D6 | %40
+[I:staff +1] F,2 G,2 A,4 | B,4 A,4 | A,2 A,2 B,2 A,2- | A,2 ^G,2 A,2 E,2 | A,2 B,2 C4 | %45
+ F,2 B,4 ^G,2 | ^E,2 F,4 E,2 | F,,2 F,E, F,^G,A,F, | ^D,2 F,2 B,2 A,2 | G,F,E,F, G,F,E,D, | %50
+ C,2 E,2 A,2 G,2 | F,E,D,E, F,E,D,C, | B,,D,G,F, E,D,C,B,, | C,D,E,F, ^G,^A,B,A, | %54
+ B,2 ^A,2 B,2 G,2 | z2 B,2 ^A,4- | A,2 F,2 B,4- | B,2 E,2 ^A,2 B,2 | C4 B,4- | B,2 ^A,2 B,2 z2 | %60
+ G,2 F,2 E,2 G,2 | C,2 G,2 F,2 E,2 | EDCB, F2 F,2 | z2[I:staff -1] !fermata!D6 |] %64
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | D,2 E,2 F,2 D,2- | %17
+ D,2 D,2- D,C,B,,A,, | D,6 C,2 | B,,2 E,2 A,,4 | A,2 ^G,2 A,2 F,2 | D,4 C,2 B,,2- | %22
+ B,,2 A,,B,, C,4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | F,6 E,2 | D,6 B,,2 | C,6 D,2 | %34
+ E,2 F,2 G,2 F,E, | D,2 E,2 B,2 =A,2 | x8 | x8 | x8 | B,3 F, B,,4 | D,2 E,2 F,2 D,2- | %41
+ D,2 D,2- D,C,B,,A,, | D,6 C,2 | B,,2 E,2 A,,4 | A,2 ^G,2 A,2 F,2 | D,4 C,2 B,,2- | %46
+ B,,2 A,,B,, C,4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | F,6 E,2 | D,6 B,,2 | C,6 D,2 | %58
+ E,2 F,2 G,2 F,E, | D,2 E,2 B,2 =A,2 | x8 | x8 | x8 | B,3 F, !fermata!B,,4 |] %64
+

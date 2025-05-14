@@ -1,0 +1,66 @@
+X:1
+T:Tibi soli peccavi
+T:Francisco Valls (1665-1747)
+T:From "Mapa Armónico Práctico" (1742)  folio 148 recto to 149 recto.
+T:Tibi soli peccavi
+T:Verso solo con flautas
+C:Francisco Valls (1665-1747)
+Z:From "Mapa Armónico Práctico"
+Z:(1742)  folio 148 recto to 149 recto.
+%%score [ 1 2 ] 3 4
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Flute" snm="Fl."
+V:2 treble nm="Flute" snm="Fl."
+V:3 treble-8 transpose=-12 nm="Tenor" snm="T."
+V:4 bass nm="Aco.to (continuo)" snm="Cont."
+V:1
+"^Largo" e3 ^d/e/ fd/B/ Bc'/b/ | gf/e/ eb c'/a/f/a/ c'/a/f/a/ | c'3 d'/c'/ b/a/g/a/ dg/f/ | %3
+ g2 z f/g/ a/f/^d/f/ a/f/d/f/ | c'3 b/a/ g/f/e/f/ Be/^d/ | e2 z2 z2 z f/g/ | %6
+ a/f/^d/f/ a/f/d/f/ c'3 b/a/ | g/f/e/f/ Be/^d/ e2 z2 | z8 | z4 z2 z f/g/ | %10
+ a/f/^d/f/ a/f/d/f/ c'3 b/a/ | gB ef/e/ ^d2 z2 | f3 f f^d/B/ B2 | z8 | %14
+ z2 z a/b/ c'/a/f/a/ c'/a/f/a/ | c'3 d'/c'/ b/a/g/a/ dg/f/ | g2 z2 g2 z2 | g2 z2 z4 | z4 c3 B/c/ | %19
+ dB/G/ Gg/=f/ e/f/g/a/ d>c | c2 z2 z4 | z8 | e3 f/g/ a/b/c'/a/ f>e | e4 z4 | =ffff fe z2 | %25
+ z4 gggg | =ffff e/f/g/f/ e>d | d2 z2 gggg | =ffff e/f/g/f/ e>d | d4 z b ba/g/ | f2 z2 z4 | %31
+ z2 z f/e/ dB^c^A | B2 z b/a/ ^gf e/a/b/g/ | a2 z2 a/g/f/e/ d z | z4 e/d/c/B/ A>G | %35
+ G2 z2 z g d'b/a/ | gg d'b/g/ a/g/a/b/ g/f/g/a/ | f/g/a/g/ f>e e2 z b | ^gf/e/ e2 z ^def | %39
+ ^d2 e2 e2 d2 | e8 |] %41
+V:2
+ g2 z2 f2 z2 | e2 z2 a/f/d/f/ a/f/d/f/ | a3 b/a/ g/a/b/c'/ a>g | g2 z ^d/e/ fBBB | %4
+ f3 g/f/ e/f/g/a/ f>e | e2 z2 z2 z ^d/e/ | fBBB f3 g/f/ | e/f/g/a/ f>e e2 z2 | z8 | z4 z2 z ^d/e/ | %10
+ fBBB f3 g/f/ | eb b>a b2 z2 | ^d2 z2 B2 z2 | z8 | z2 z f/g/ a/f/d/f/ a/f/d/f/ | %15
+ a3 b/a/ g/a/b/c'/ a>g | g2 z2 B2 z2 | B2 z2 z4 | z4 e3 =f/e/ | dddd c/d/e/c/ c>B | c2 z2 z4 | z8 | %22
+ B2 e>d cc'ba | g4 z4 | dddd g2 z2 | dddd dc z2 | z8 | =ffff feee | e=f/e/ d4 ^c2 | d4 z dde | %30
+ B2 z2 z4 | z4 f2 f2 | f2 z2 e2 z2 | e2 z2 d2 z2 | z4 cd/e/ d>c | B2 z2 BdBG | z B/A/ Gc f2 B2 | %37
+ bf b>a ^gb gf/e/ | e2 z2 z2 c2 | B2 B2 B3 A | G8 |] %41
+V:3
+ z8 | z8 | z8 | z8 | z8 | e3 ^d/e/ fd/B/ B2 | z8 | z4 e3 ^d/e/ | f^d/B/ BB f3 f/B/ | gB e>^d d4 | %10
+w: |||||Ti- bi _ so- * * li,||Ti- bi _|so- * * li pec- ca- vi, pec-|ca- * * * vi,|
+ z8 | z4 f3 f | f^d/B/ Bf A2 A/c/B/A/ | GF/E/ Ee G2- G/_B/A/G/ | FE/D/ D2 z4 | z8 | %16
+w: |Ti- bi|so- * * li pec- ca- * * * *|* * * vi, pec- ca- * * * *|* * * vi||
+ z2 z"^[   ?]" B =f2 =B2 | =f2 =B>B _e3 f/g/ | _a/c/d/c/ =B>c c2 z2 | z8 | z2 z e ^de/f/ B>B | %21
+w: et ma- lum|co- ram te fe- * *|* * * * * * ci,||et ma- * * lum et|
+ cB B2 c>c BA | GF/E/ e4 ^d2 | e2 z2 cccc | cB z2 z4 | =ffff feee | e=f/e/ d4 ^c2 | d4 z4 | z8 | %29
+w: ma- * lum co- ram te _|fe- * * * *|ci, ut jus- ti fi-|ce- ris,|ut jus- ti- fi- ce- ris in ser-|mo- ni- bus tu- *|is||
+ z2 z d BA/G/ G2 | z BBB ^c>d B2- | B2 ^A2 B2 z f | d^c/B/ B2 z2 z e | cB/A/ A2 z ccc | %34
+w: et vin- * * cas|cum ju- di- ca- * *|* * ris, et|vin- * * cas, et|vin- * * cas cum ju- di-|
+ Bc/d/ (G4 F2) | G2 z G dB/A/ G2 | d2 BG ^d2 e2- | e2 ^d2 e4 | z ^GGG A/!courtesy!=G/F/G/ (A2- | %39
+w: ca- * * * *|ris, ut vin- * * cas|cum ju- di- ca- *|* * ris,|cum ju- di- ca- * * * *|
+ A2 G2 F4) | E8 |] %41
+w: |ris.|
+V:4
+ E,3"^6" F,/E,/"^6""^6" ^D,D,D,D, | E,2 z2"^6" A,A,A,A, | F,2 z F, G,C,D,D,, | %3
+ G,, G,2"^6" F,/E,/"^6" ^D,D,D,D, |"^7" ^D,2 z"^6" D, E,A,, B,,2 | E,3"^6" F,/E,/"^6" ^D,2 z2 | %6
+"^6" ^D,D,D,D,"^7" D,2 z"^6" D, | E,A,, B,,2 E,3"^6" F,/E,/ | %8
+"^6" ^D,2- D,/E,/"^6"F,/E,/"^6" D,D,D,D, | E,"^6"D,"^7" C,>"^6"C, B,,2 z2 | %10
+ ^D,D,D,D,"^7" D,2 z"^6" D, | E,2"^76" C,2 B,,2 z2 | B,,2 z2"^6" ^D,D,D,D, | %13
+ E,2 z2"^56" ^C,C,C,C, | D,2 z2"^6" F,,F,,F,,F,, | F,,2 z F,, G,,C,D,D,, | G,,2 G,,2"^76" G,,2 z2 | %17
+ G,,2 z2 C,_B,,_A,,G,, | =F,,2 G,,2 C,3 D,/C,/ |"^6" B,,B,,B,,B,, C,=F,G,G,, | %20
+ C,C,"^6"C,C, B,,2 z2 |"^76" ^D,2 z2"^7" D,2 z2 | E,D,C,B,,"^65" A,,2 B,,2 | E,4 C,D, E,=F,/E,/ | %24
+"^76" D,2 z2 CCCC |"^452" CB, z B,"^43" C2 z2 | A,2 _B,A, G,2 A,2 | D,2 z B,,"^43" C,2 z C, | %28
+"^6" A,,2 _B,,A,, G,,2 A,,2 | D,E,F,D, G,3 F,/E,/ |"^6" ^D,D,D,D,"^64" E,E,"^5"E,E, | %31
+"^4" F,2 F,,2 B,,B,,"^6"^A,,F,, | B,,A,,G,,"^6"F,, E,D,C,B,, | A,,G,,F,,E,,"^65" F,,2 z"^6" F, | %34
+ G,F,E,D, C,2 D,2 | G,,G,,G,,G,, G,,2 z2 | G,,G,,G,,G,,"^6" F,,2 E,,2 |"^43" B,,4 E,,E,,E,,E,, | %38
+ E,,2 z2 A,,B,,"^6"C,A,, | B,,2 E,,2 B,,4 | E,,8 |] %41
+

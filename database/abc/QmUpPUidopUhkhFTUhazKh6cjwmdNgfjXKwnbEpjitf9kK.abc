@@ -1,0 +1,114 @@
+X:1
+T:Balada dos Estudantes
+T:Balada dos Estudantes
+T:João Antunes
+T:Letra de Alberto d'Oliveira
+T:Galáxia Sonora Coimbrã 2020 (arr. adaptado para viola por A. Caetano)
+T:Galáxia Sonora Coimbrã 2020 (arr. adaptado para viola por A. Caetano)
+T:Galáxia Sonora Coimbrã 2020 (arr. adaptado para viola por A. Caetano)
+C:João Antunes
+Z:Alberto d'Oliveira
+Z:Galáxia Sonora Coimbrã 2020 (arr. adaptado para viola por A. Caetano)
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=90
+M:6/8
+K:C
+V:1 treble-8 nm="Voz" snm="Voz"
+V:2 treble-8 nm="Viola" snm="Viola"
+V:3 tab stafflines=6 strings=E2,A2,D3,G3,B3,E4 
+V:1
+"^Andante" z6 | z6 | z3"^dolce" ed/-c/B/d/ | (c/B/A/B/c/A/) (B/A/^G/A/B/c/) |:S A z z4 | %5
+w: |||||
+ z3"^voz" ed>c | e2 d dc>B | d2 c cB>A | F2 F GG>A | EE z ed>c | e2 c BA>G | cc z cde | %12
+w: A- deus Co-|im- bra, ter- ra d'en-|can- tos, flor do Mon-|de- go, lá diz a|tro- va... Flor tão bo-|ni- ta, que os pro- prios|San- tos, Por teu a-|
+ (fe)d c({dc)B}AB | cc z AB^c | d2 d ^cBc | d2 d cBA | e2 e({ge)} ^d^cd | e!fermata!e z || %18
+w: ro- * ma, fo- gem da|co- va, e vem às|noi- tes, com al- vos|man- tos, co- mer com|bei- jos a Lu- a|no- va!|
+"^CORO" ^cd>c | B2 E B^c>d | ^c2 A A^G>^F | B>BB B^c>B | E2 E ed>c | e2 d dc>B | d2 c AAB | %25
+w: São nos- sos|pran- tos, são nos- sos|can- tos, co- mo per-|pe- tu- as so- bre u- ma|co- va, A- deus, Co-|im- bra, ter- ra d'en-|can- tos, Flor do Mon-|
+ cde f{gf}ed | cc !fermata!z ||"^voz" ee>e | e2 d cB>A | A2 G GB>A | F2 F FG>A | E2 z ee>e | %32
+w: de- * go, lá diz a|tro- va...|A- deus pe-|que- nas com quem dan-|çá- mos pe- las fo-|guei- ras do San Jo-|ão; Quem sa- be a-|
+ ^d2 B B^cd | e2 e !courtesy!=dcB | e2 e Ec>B | A2 z AB^c | d2 d ^cBc | d2 d cBA | %38
+w: té se lá não dei-|xá- mos, des- fei- to em|cin- zas, o co- ra-|ção! Com vos- sos|o- lhos fa- zei os|ra- mos pa- ra co-|
+ e2 e{^fe} ^d^cd | e2 !fermata!z ||"^CORO" ^cd>c | B2 E B^c>d | ^c2 A A^G^F | B2 B B^cB | E3 ed>c | %45
+w: brir- des o meu   cai-|xão!|Ai que o- lhos|ne- gros, jun- tos aos|pa- res, flo- rin- do as|cin- zas do co- ra-|ção... A- deus Co-|
+ e2 d dc>B | d2 c AAB | ((cd))e f{gf}ed |1 c z [DFB] [CEA] z [DE^G] :|S cc z!ff! z3 | z3 z3 | %51
+w: im- bra, to- da em can-|ta- res, em des- gar-|ra- * das ao San Jo-|ão! * * *|i- zo||
+ z3 !fermata!z3 || %52
+w: |
+V:2
+"Am"!f! [A,CEA][A,CEA] z"E" [E,B,E^G][E,B,EG] z |"Am" [A,CEA][A,CEA][A,CEA] [E,B,E^G]2 z | %2
+"Am" [Ace] z [Ace]"E" [E^GBe] z [EGBe] |"Am" [Ace] z [Ace]"E7" [E,^GBd] z [E,GBd] |: %4
+"Am" [A,EAc] z [A,Ec] [A,Ec] z [A,Ec] | [A,Ec] z [A,Ec]!p! [A,Ec] z [A,Ec] | %6
+"Asus2" [A,EB] z [A,EB] [A,EB] z [A,EB] |"Am" [A,EA] z [A,Ec] [A,Ec] z [A,Ec] | %8
+"Dm6" [DFAB] z [DFAB] [DFAB] z"B7b5" [B,FA^d] |"E" [E^GB] z [EGB]"Am" [A,EAc] z [A,EA] | %10
+"C" [G,CEG] z [G,CEG]"G7" [G,B,FG] z [G,B,FG] |"C" [CEG] z [CEG] [CEG] z"C7" [C_Bce] | %12
+"Dm" [DAdf] z"F" [FAcf]"C" [CGce] z"G7" [G,Gdf] |"C" [CGce] z [CGce]"A7" [^CG^ce] z [A,Gce] | %14
+"Dm" [FAd] z [FAd]"A7" [EG^c] z [A,EGc] |"Dm" [DAd] z [DAd]"Adim7" [^Fc^d] z"Adim7" [^DAc^f] | %16
+"E" [E^GBe] z [EGBe]"B7" [B,^FA^d] z"B7" [B,FAB] |"E" [E^GB]2 !fermata!z || z3 | %19
+"E"!f! E,[E^Gd][EGd] E,[EGd][EGd] |"A" A,[EA^c][EAc] A,[EAc][EAc] |"E" E,[E^Gd][EGd] E,[EGd][EGd] | %22
+"A" A,[EA^c][EAc]"Dm/A" A,[Adf]"Am"[A=ce] |"E" E,[E^Gd][EGd] E,[EGd][EGd] | %24
+"F" F,[Acf][Acf]"Cdim7" ^F[c^da][cda] |"C" C[Gce][Gce]"G7" G,[GBf][GBf] |"C" [CGce]2 !fermata!z || %27
+"C"!p! [CEG] z [CEG] |"F" [CFA] z [CFA] [CFA] z [CFA] |"C6" [CEA] z"C" [CEG] [CEG] z [CEG] | %30
+"G" [G,B,DG] z [G,B,DG] [G,B,DG] z [G,B,DG] |"C" [CEG] z [CEG]"C7b5" [C^F^Ae] z [CFAe] | %32
+"B7" [B,^FA^d] z [B,FAd] [B,FAd] z [B,FAd] |"Em" [EGB] z [EGB]"E7" [E^GB] z"E7" [EGd] | %34
+"Am" [EAc] z [EAc]"E7" [E^Gd] z [EGd] |"Am" [A,Ac] z [A,Ace]"A7" [A,G^ce] z [A,Gce] | %36
+"Dm" [FAd] z [FAd]"A7" [A,EG^c] z [A,EGc] |"Dm" [DFA] z [DFA]"Adim7" [^DAc] z"Adim7" [^Fc^d] | %38
+"E" [E^GBe] z [EGBe]"B7" [B,^DAB] z [B,DAB] |"E" [E^GBe]2 !fermata!z || z2 z | %41
+"E7"!f! ^G,[Bd^g][Bdg] E,[Bdg][Bdg] |"A" A,[EA^c][EAc] A,[EAc][EAc] | %43
+"E7" E,[E^Gd][EGd]"E7" !1!^G,!0!!2!!4![DBe][DBe] |"A" A,[EA^c][EAc] z3 | %45
+"E7" E,[E^Gd][EGd] B,[EGd][EGd] |"F" [F,F][Acf][Acf]"Cdim7" ^F[c^da][cda] | %47
+"C" C[Gce][Gce]"G7" G,[GBf][GBf] |1"C" [CGce] z"Dm6" [DABe]"Am" [CEAc] z"E7" [E,D^GB] :| %49
+"C" [CGce] z"G7" [G,DGB]"C"!ff! [CEGc] z"G7" [G,DGB] |"C" [CEGc]2 z !arpeggio![CEGce]2 z | %51
+ !arpeggio![G,CEGc]3 !fermata!z3 || %52
+V:3
+ [!6!A,,!5!C,!4!E,!3!A,][!6!A,,!5!C,!4!E,!3!A,] x [!6!E,,!5!B,,!4!E,!3!^G,][!6!E,,!5!B,,!4!E,!3!G,] x | %1
+ [!6!A,,!5!C,!4!E,!3!A,][!6!A,,!5!C,!4!E,!3!A,][!6!A,,!5!C,!4!E,!3!A,] [!6!E,,!5!B,,!4!E,!3!^G,]2 x | %2
+ [!3!A,!2!C!1!E] x [!3!A,!2!C!1!E] [!4!E,!3!^G,!2!B,!1!E] x [!4!E,!3!G,!2!B,!1!E] | %3
+ [!3!A,!2!C!1!E] x [!3!A,!2!C!1!E] [!6!E,,!4!^G,!3!B,!2!D] x [!6!E,,!4!G,!3!B,!2!D] |: %4
+ [!5!A,,!4!E,!3!A,!2!C] x [!5!A,,!4!E,!2!C] [!5!A,,!4!E,!2!C] x [!5!A,,!4!E,!2!C] | %5
+ [!5!A,,!4!E,!2!C] x [!5!A,,!4!E,!2!C] [!5!A,,!4!E,!2!C] x [!5!A,,!4!E,!2!C] | %6
+ [!5!A,,!4!E,!2!B,] x [!5!A,,!4!E,!2!B,] [!5!A,,!4!E,!2!B,] x [!5!A,,!4!E,!2!B,] | %7
+ [!5!A,,!4!E,!3!A,] x [!5!A,,!4!E,!2!C] [!5!A,,!4!E,!2!C] x [!5!A,,!4!E,!2!C] | %8
+ [!5!D,!4!F,!3!A,!2!B,] x [!5!D,!4!F,!3!A,!2!B,] [!5!D,!4!F,!3!A,!2!B,] x [!5!B,,!4!F,!3!A,!2!^D] | %9
+ [!4!E,!3!^G,!2!B,] x [!4!E,!3!G,!2!B,] [!5!A,,!4!E,!3!A,!2!C] x [!5!A,,!4!E,!3!A,] | %10
+ [!6!G,,!5!C,!4!E,!3!G,] x [!6!G,,!5!C,!4!E,!3!G,] [!6!G,,!5!B,,!4!F,!3!G,] x [!6!G,,!5!B,,!4!F,!3!G,] | %11
+ [!5!C,!4!E,!3!G,] x [!5!C,!4!E,!3!G,] [!5!C,!4!E,!3!G,] x [!5!C,!3!_B,!2!C!1!E] | %12
+ [!5!D,!3!A,!2!D!1!F] x [!4!F,!3!A,!2!C!1!F] [!5!C,!3!G,!2!C!1!E] x [!6!G,,!3!G,!2!D!1!F] | %13
+ [!5!C,!3!G,!2!C!1!E] x [!5!C,!3!G,!2!C!1!E] [!5!^C,!3!G,!2!^C!1!E] x [!5!A,,!3!G,!2!C!1!E] | %14
+ [!4!F,!3!A,!2!D] x [!4!F,!3!A,!2!D] [!4!E,!3!G,!2!^C] x [!6!A,,!5!E,!4!G,!2!C] | %15
+ [!4!D,!3!A,!2!D] x [!4!D,!3!A,!2!D] [!4!^F,!3!C!2!^D] x [!4!^D,!3!A,!2!C!1!^F] | %16
+ [!4!E,!3!^G,!2!B,!1!E] x [!4!E,!3!G,!2!B,!1!E] [!5!B,,!4!^F,!3!A,!2!^D] x [!5!B,,!4!F,!3!A,!2!B,] | %17
+ [!4!E,!3!^G,!2!B,]2 !fermata!x || x3 | %19
+ !6!E,,[!4!E,!3!^G,!2!D][!4!E,!3!G,!2!D] !6!E,,[!4!E,!3!G,!2!D][!4!E,!3!G,!2!D] | %20
+ !5!A,,[!4!E,!3!A,!2!^C][!4!E,!3!A,!2!C] !5!A,,[!4!E,!3!A,!2!C][!4!E,!3!A,!2!C] | %21
+ !6!E,,[!4!E,!3!^G,!2!D][!4!E,!3!G,!2!D] !6!E,,[!4!E,!3!G,!2!D][!4!E,!3!G,!2!D] | %22
+ !5!A,,[!4!E,!3!A,!2!^C][!4!E,!3!A,!2!C] !5!A,,[!3!A,!2!D!1!F][!3!A,!2!=C!1!E] | %23
+ !6!E,,[!4!E,!3!^G,!2!D][!4!E,!3!G,!2!D] !6!E,,[!4!E,!3!G,!2!D][!4!E,!3!G,!2!D] | %24
+ !6!F,,[!3!A,!2!C!1!F][!3!A,!2!C!1!F] !4!^F,[!3!C!2!^D!1!A][!3!C!2!D!1!A] | %25
+ !5!C,[!3!G,!2!C!1!E][!3!G,!2!C!1!E] !6!G,,[!3!G,!2!B,!1!F][!3!G,!2!B,!1!F] | %26
+ [!5!C,!3!G,!2!C!1!E]2 !fermata!x || [!5!C,!4!E,!3!G,] x [!5!C,!4!E,!3!G,] | %28
+ [!5!C,!4!F,!3!A,] x [!5!C,!4!F,!3!A,] [!5!C,!4!F,!3!A,] x [!5!C,!4!F,!3!A,] | %29
+ [!5!C,!4!E,!3!A,] x [!5!C,!4!E,!3!G,] [!5!C,!4!E,!3!G,] x [!5!C,!4!E,!3!G,] | %30
+ [!6!G,,!5!B,,!4!D,!3!G,] x [!6!G,,!5!B,,!4!D,!3!G,] [!6!G,,!5!B,,!4!D,!3!G,] x [!6!G,,!5!B,,!4!D,!3!G,] | %31
+ [!5!C,!4!E,!3!G,] x [!5!C,!4!E,!3!G,] [!5!C,!4!^F,!3!^A,!2!E] x [!5!C,!4!^F,!3!^A,!2!E] | %32
+ [!5!B,,!4!^F,!3!A,!2!^D] x [!5!B,,!4!^F,!3!A,!2!^D] [!5!B,,!4!F,!3!A,!2!D] x [!5!B,,!4!F,!3!A,!2!D] | %33
+ [!4!E,!3!G,!2!B,] x [!4!E,!3!G,!2!B,] [!4!E,!3!^G,!2!B,] x [!4!E,!3!G,!2!D] | %34
+ [!4!E,!3!A,!2!C] x [!4!E,!3!A,!2!C] [!4!E,!3!^G,!2!D] x [!4!E,!3!G,!2!D] | %35
+ [!5!A,,!3!A,!2!C] x [!5!A,,!3!A,!2!C!1!E] [!5!A,,!3!G,!2!^C!1!E] x [!5!A,,!3!G,!2!C!1!E] | %36
+ [!4!F,!3!A,!2!D] x [!4!F,!3!A,!2!D] [!5!A,,!4!E,!3!G,!2!^C] x [!5!A,,!4!E,!3!G,!2!C] | %37
+ [!5!D,!4!F,!3!A,] x [!5!D,!4!F,!3!A,] [!4!^D,!3!A,!2!C] x [!4!^F,!3!C!2!^D] | %38
+ [!4!E,!3!^G,!2!B,!1!E] x [!4!E,!3!G,!2!B,!1!E] [!5!B,,!4!^D,!3!A,!2!B,] x [!5!B,,!4!D,!3!A,!2!B,] | %39
+ [!4!E,!3!^G,!2!B,!1!E]2 !fermata!x || x2 x | %41
+ !6!^G,,[!3!B,!2!D!1!^G][!3!B,!2!D!1!^G] !6!E,,[!3!B,!2!D!1!^G][!3!B,!2!D!1!^G] | %42
+ !5!A,,[!4!E,!3!A,!2!^C][!4!E,!3!A,!2!C] !5!A,,[!4!E,!3!A,!2!C][!4!E,!3!A,!2!C] | %43
+ !6!E,,[!4!E,!3!^G,!2!D][!4!E,!3!G,!2!D] !6!^G,,[!4!D,!3!B,!2!E][!4!D,!3!B,!2!E] | %44
+ !5!A,,[!4!E,!3!A,!2!^C][!4!E,!3!A,!2!C] x3 | %45
+ !6!E,,[!4!E,!3!^G,!2!D][!4!E,!3!G,!2!D] !5!B,,[!4!E,!3!G,!2!D][!4!E,!3!G,!2!D] | %46
+ [!6!F,,!4!F,][!3!A,!2!C!1!F][!3!A,!2!C!1!F] !4!^F,[!3!C!2!^D!1!A][!3!C!2!^D!1!A] | %47
+ !5!C,[!3!G,!2!C!1!E][!3!G,!2!C!1!E] !6!G,,[!3!G,!2!B,!1!F][!3!G,!2!B,!1!F] |1 %48
+ [!5!C,!3!G,!2!C!1!E] x [!5!D,!4!A,!3!B,!1!E] [!5!C,!4!E,!3!A,!2!C] x [!6!E,,!4!D,!3!^G,!2!B,] :| %49
+ [!5!C,!3!G,!2!C!1!E] x [!6!G,,!4!D,!3!G,!2!B,] [!5!C,!4!E,!3!G,!2!C] x [!6!G,,!4!D,!3!G,!2!B,] | %50
+ [!5!C,!4!E,!3!G,!2!C]2 x !arpeggio![!5!C,!4!E,!3!G,!2!C!1!E]2 x | %51
+ !arpeggio![!6!G,,!5!C,!4!E,!3!G,!2!C]3 !fermata!x3 || %52
+

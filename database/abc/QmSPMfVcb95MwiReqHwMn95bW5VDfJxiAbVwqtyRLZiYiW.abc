@@ -1,0 +1,40 @@
+X:1
+T:Duet for Bass Clarinet and Piano
+T:Duet for Bass Clarinet and Piano
+T:Ross
+C:Ross
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=180
+M:4/4
+K:F
+V:1 treble transpose=-14 nm="Bass Clarinet" snm="B. Cl."
+V:2 treble nm="Grand Piano" snm="Pno."
+V:3 bass 
+V:1
+[K:F] E,2 E2 E2 E2 | E,2 E2 E2 E2 | =B,2 A2 A2 A2 | ^D2 A2 =B,2 A,2 :| G4 E2 E2 | E,2 E2 E2 E2 | %6
+ D2 ^F2 DC z2 | z2 =B,2 E2 E2 | c =B2 ^f2 ^d2 B | c =B2 ^A d2 z2 | c =B2 g2 e2 B | c =B2 ^A2 B2 z | %12
+ c =B2 g2 e2 B | c =B2 ^A2 B2 z | =B,2 D^D G2 ^F2 | E2 A,2 =B,^F G2 | ^FD C2 A,=B, E2 | %17
+ z A,=B, E2 z A,B, | E2 ec g2 ec | g2 ec ^D2 G2 | E2 ec g2 ec | g2 ec ^D2 G2 | %22
+ (.E z .E z .E z .E) z | (.E z .E z .E z .E) z | .E2 .G2 .E2 .C2 | .E2 .A2 .E2 .C2 | E8 | ^F8 | %28
+ ^G8 | a8 | a8 | a8 | c'8 |] %33
+V:2
+ z2 z D FDFD | z2 z D FDFD | z2 z D GDGD | z8 :| B,2 F2 D2 D2 | DF/D/ DF/D/ DD F/D/D | %6
+ C2 E2 CB,G,E, | G,A, [A,E]2 [DF]2 [DF]2 | [GB] [Ac]2 [ce]2 [^ce]2 [Ac] | %9
+ [Bd] [Ac]2 [^Gd] [ce]2 e2 | [B,E] [A,E]2 [Fc]2 [DA]2 [A,F] | [B,E] [A,E]2 [^G,E]2 [A,E]2 z | %12
+ [B,E] [A,E]2 [Fc]2 [DA]2 [A,F] | [B,E] [A,E]2 [^G,E]2 [A,E]2 z | [A,C]2 [CE][^CF] [CF]2 [CE]2 | %15
+ [DF]2 [G,E]2 [A,E]E [FA]2 | EC [B,E]2 G,A, [DF]2 | z G,A, [DF]2 z G,A, | [DF]8 | [B,D]8 | [DF]8 | %21
+ [B,D]8 | .D2 .F2 .D2 .B,2 | .D2 .G2 .D2 .B,2 | (.D z .D z .D z .D) z | (.D z .D z .D z .D) z | %26
+ [Bd]2 [Ac]2 [GB]2 [^FA]2 | [ce]2 [Bd]2 [Ac]2 [GB]2 | [d^f]2 [ce]2 [Bd]2 [Ac]2 | %29
+ z [dg]2 [cf]2 [B^d]2 [A^c]- | [Ac] [dg]2 [=cf]2 [B^d]2 [A^c] | [A^c] [dg]2 [=cf]2 [B^d]2 [A^c] | %32
+ [GBd]6 z2 |] %33
+V:3
+ D,,2 D,2 D,2 D,2 | D,,2 D,2 D,2 D,2 | A,,2 G,2 G,2 G,2 | ^C,2 G,2 A,,2 G,,2 :| %4
+ [D,F,]4 [B,,D,]2 [B,,D,]2 | [D,,G,,]2 [G,,D,]2 [G,,D,]2 [G,,D,]2 | C,2 E,2 C,B,, z2 | %7
+ G,,A,, A,,2 D,2 D,2 | B, A,2 E2 ^C2 A, | B, A,2 ^G, C2 G,E, | G,, G,,2 D,2 C,2 G,, | %11
+ G,, G,,2 F,,2 G,,2 C,, | G,, G,,2 D,2 C,2 G,, | G,, G,,2 F,,2 G,,2 C,, | A,,,2 C,,^C,, F,,2 E,,2 | %15
+ D,2 G,,2 A,,E, F,2 | E,C, B,,2 G,,A,, D,2 | z G,,A,, D,2 z G,,A,, | D,8 | D,8 | D,8 | D,8 | %22
+ (.D, z .D, z .D, z .D,) z | (.D, z .D, z .D, z .D,) z | (.D, z .D, z .D, z .D,) z | %25
+ (.D, z .D, z .D, z .D,) z | B,,2 A,,2 G,,2 ^F,,2 | C,2 B,,2 A,,2 G,,2 | D,2 C,2 B,,2 A,,2 | %29
+ z D,2 C,2 B,,2 A,,- | A,, D,2 C,2 B,,2 A,, | A,, D,2 C,2 B,,2 A,, | D,6 z2 |] %33
+

@@ -1,0 +1,38 @@
+X:1
+T:Mozart - String Quartet No.19, Introduction.
+T:Quartett in C . fur zwei Violinen, Viola und Violoncello KV 465 Quartetto VI
+%%score [ [ 1 2 3 4 ] ]
+L:1/8
+Q:1/4=35
+M:3/4
+K:C
+V:1 treble nm="Violino I"
+V:2 treble nm="Violino II"
+V:3 alto nm="Viola"
+V:4 bass nm="Violoncello"
+V:1
+"^Adagio" z6 | z2 =a4- | (a2"_cresc." g2 ^f2) | (g3!f!"_f" a_bc') | %4
+"^Datiert Wien, 14. Janur 1785" _d'2 z2 z2 | z2 =g4- | (g2"_cresc." =f2 e2) | (f3!f!"_f" g_a_b) | %8
+ c'2 z2 z2 | z6 | z (cd_ef^f) | g3"_cresc." (cd_e) | =f6 | (=e2 _e2 d2) | c3 (d/c/ B/c/d/c/) | %15
+ B2 z (d_ec)[Q:1/4=30] | B2 z (dcA) | G2 z (D_EC) | B,3 (.B,.B,.B,) | (B,!f!^C)!p! D3 D | %20
+ (D!f!E)!p! F3!mf![Q:1/4=20] d | %21
+[Q:1/4=25] !fermata!c2[Q:1/4=15]({!fermata!B!fermata!c)!fermata!d!fermata!c} !fermata!B4 |] %22
+V:2
+ z6 | (_E4 D2 | ^C2"_cresc." D3) (A |!f!"_f" Bc d) z z2 | z6 | (_D4 C2 | B,2"_cresc." C3) (G | %7
+!f!"_f" A_B c) z z2 | z2 F4- | (FD _E4-) | (EF/_E/ D4-) | (D"_cresc."B, C2) c2- | (cBc^c) d2- | %13
+ (d=c_BA_AG) | G4 (FC) | D2 z (Bc_E) | D2 z (F_EC) | B,2 z (B,CA,) | G,3 (.G,.G,.G,) | %19
+ (G,!f!^A,)!p! B,3 B, | (B,!f!^C)!p! D3!mf! F | !fermata!F6 |] %22
+V:3
+ z2 z2 _A,2- | (A,2 G,2 ^F,2) | (G,3 =A,B,C) |!f!"_f" (DA) B z z2 | z2 z2 _G,2- | (_G,2 =F,2 E,2) | %6
+ (F,3 =G,A,_B,) |!f!"_f" (CG) A z z2 | z (E,F,G,_A,=A,) | _B,3 (_E,F,G,) | _A,6 | %11
+ G,"_cresc."(GF_EDC) | D3 G, G2- | G2 z2 z _B, | (CD_E=EF^F) | G2 z2 z (^F | G2) z2 z (^F, | %17
+ G,2) z (=F,_E,^F,) | (G,3!f! E,!p! F,2-) | (F,3!f! E,!p! F,2-) | (F,3!f! ^A,!p!B,!mf!G,) | %21
+ !fermata!D6 |] %22
+V:4
+ C,C,C,C,C,C, | C,C,C,C,C,C, |"_cresc." B,,B,,B,,B,,B,,B,, | B,,B,,B,,!f!"_f"(^F,,G,,A,,) | %4
+ B,,B,,B,,B,,B,,B,, | _B,,B,,B,,B,,B,,B,, |"_cresc." A,,A,,A,,A,,A,,A,, | %7
+ A,,A,,A,,!f!"_f"(E,,F,,G,,) | _A,,A,,A,,A,,A,,A,, | G,,G,,G,,G,,G,,G,, | F,,F,,F,,F,,F,,F,, | %11
+ _E,,4 z2 | z (G,,_A,,=A,,_B,,=B,,) | C,3 (CB,_B,) | (A,2 _A,4) | G,(^F G2) z2 | z (^F, G,2) z2 | %17
+ z (^F,, G,,2) z2 | z (G,,B,,!f!^C,!p!D,B,,) | z (G,,B,,!f!^C,!p!D,B,,) | %20
+ z (G,,B,,!f!^C,!p!D,!mf!B,,) | !fermata!G,,6 |] %22
+

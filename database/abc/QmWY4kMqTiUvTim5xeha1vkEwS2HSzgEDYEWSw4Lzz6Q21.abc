@@ -1,0 +1,27 @@
+X:1
+T:Sonata I - RV27 - Preludio
+T:Sonata I - RV27 Preludio
+T:Antonio Vivaldi
+C:Antonio Vivaldi
+%%score 1 2
+L:1/8
+Q:1/4=50
+M:4/4
+K:F
+V:1 treble nm="Violin" snm="Vln."
+V:2 bass nm="Violoncello" snm="Vc."
+V:1
+"_Andante""^\n" D | G2 A2 B2 c2 | dc/B/ AB/c/ ^F3 G/A/ | D c2 d/c/ BA/G/ ^F>G | %4
+ G2 z g/f/ _ee ef/e/ | d2 z _e/d/ cc cd/c/ | B2 z d/e/ fg/a/ bb | (Pba) z a adgg | %8
+ (Pgf) z f fg/f/ e>e | eA z a ad ga/b/ | ^cd/e/ Pe>d d3 :: a/g/ | ^fg/a/ df gG z g/=f/ | %13
+ ef/g/ ce fF z f/_e/ | d_e/f/ Bg/f/ ef/g/ ca/g/ | fg/a/ d(b/a/ g/f/_e/d/) c>B | B2 z2 z d g>f | %17
+ eC z2 z e a>g | ^fD b>a gG, c'2- | c'd b2- ba/g/ ^f>g | gG _ec/B/ AA, dB/A/ | GG, cA/G/ ^FD c2- | %22
+ c/d/B/c/ A>G G3 :| %23
+V:2
+ z | z2 z D, G,2 A,2 | B,2 C2 DC/B,/ A,B,/C/ | ^F,3 F, G,C,D,D,, | G,,D/C/ B,B,, C,C/B,/ A,A,, | %5
+ B,,B,/A,/ G,G,, A,,A,/G,/ ^F,^F,, | G,,G,/A,/ B,2 A,2 G,2 | F,F,F,D, B,B,B,B, | %8
+ A,A,A,D, G,G,G,G, | ^C,2 =C,2 =B,,2 _B,,A,,/G,,/ | A,,F,/G,/ A,A,, D,3 :: z | %12
+ z2 z D/C/ =B,C/D/ G,B, | CC, z C/B,/ A,B,/C/ F,A, | B,B,, z B, CC, z C | DD, z D, _E,2 F,2 | %16
+ B,,B,/C/ DC =B,3 =B,, | C,C/D/ ED ^C3 ^C, | D,2 z D, _E,2 z =E, | ^F,2 z G, CD/_E/ DD, | %20
+ G,B,/A,/ G,2- G,F,/E,/ F,2- | F,_E,/D,/ E,2 D,2 z _E | ^F,G,DD, G,,3 :| %23
+

@@ -1,0 +1,49 @@
+X:1
+T:Fahr wohl, du goldne Sonne
+T:Ludwig van Beethoven
+T:Unterlegter Text von Friedrich Rückert
+T:Fahr wohl, du goldne Sonne
+T:Nach dem 2. Satz der Klaviersonate Op. 90 Version für gemischten Chor
+T:CPDL - Creative Commons Attribution Non Commercial 3.0
+C:Ludwig van Beethoven
+Z:Friedrich Rückert
+Z:CPDL - Creative Commons Attribution Non Commercial 3.0
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/8
+Q:1/4=48
+M:2/4
+K:F
+V:1 treble nm="Sopran\nAlt"
+V:2 treble 
+V:3 bass nm="Tenor\nBass"
+V:4 bass 
+V:1
+"^Ruhig\n"!p! A | A>A cB | A2 !breath!GA | Bd c>G | !breath!A3 c | =B>B ff | e2 !breath!_BB | %7
+w: 1.~Fahr|wohl, du gold'- ne|Son- ne, du|gehst zu dei- ner|Ruh'; und|voll von dei- ner|Won- ne gehn|
+w: 2.~Schwer|sind die Au- gen-|li- der, du|nimmst das Lied mit|fort. Fahr|wohl, wir sehn uns|wie- der hier|
+w: 3.~Hier|un- ten, wann sich|wie- der dies|Haupt vom Schlaf er-|hob; dann|bli- ckest du her-|nie- der und|
+ AA _e>e | !breath!d3 d | ^cd BA | A2 !breath!G"^cresc."G | GA Bc | d=e g/!breath!f/ e/d/ | %13
+w: mir die Au- gen|zu, und|voll von dei- ner|Won- ne, und|voll von dei- ner|Won- * ne * gehn *|
+w: un- ten o- der|dort, fahr|wohl, wir sehn uns|wie- der, fahr|wohl, wir sehn uns|wie- * der * hier *|
+w: freu- est dich da-|rob, dann|bli- ckest du her-|nie- der, dann|bli- ckest du her-|nie- * der * und *|
+ c B/A/"^dim." Gc | !fermata!F2 z |] %15
+w: mir die * Au- gen|zu.|
+w: un- ten * o- der|dort.|
+w: freu- est * dich da-|rob.|
+V:2
+ F | F>F GG | F2 EF | FF E>E | F3 F | F>F DG | G2 GG | FF F>F | F3 F | EF FF | F2 FF | EF GF | %12
+ FG FF | FF FE | F2 x |] %15
+V:3
+!p! A, | C>C CC | C2 !breath!CC | B,B, G,>C | !breath!C3 A, | G,>G, G,D | C2 !breath!CC | CC C>C | %8
+w: 4.~Und|trägt des Tod's Ge-|fie- der mich|statt des Traums em-|por, so|schau' ich selbst her-|nie- der zu|dir aus hö- her'm|
+w: 5.~Und|dan- ke dei- nem|Strah- le für|je- den schö- nen|Tag, wo|ich mit mei- nem|Ta- le an|dei- nem Schim- mer|
+ !breath!B,3 B, | B,B, DC | =B,2 !breath!B,"^cresc."B, | CC C_E | DB, !breath!A, C/B,/ | %13
+w: Chor, so|schau' ich selbst her-|nie- der, so|schau' ich selbst her-|nie- * der zu *|
+w: lag, wo|ich mit mei- nem|Ta- le, wo|ich mit mei- nem|Ta- * le an *|
+ A, D/C/"^dim." =B,_B, | !fermata!A,2 z |] %15
+w: dir aus * hö- her'm|Chor.|
+w: dei- nem * Schim- mer|lag.|
+V:4
+ F, | F,>F, E,E, | F,2 C,F, | D,B,, C,>C, | F,3 F, | D,>D, =B,,B,, | C,2 E,E, | F,F, A,,>A,, | %8
+ B,,3 B,, | B,,B,, B,,C, | D,2 D,_D, | C,C, C,A,, | B,,^C, D,B,, | C,C, C,C, | F,2 x |] %15
+

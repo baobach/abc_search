@@ -1,0 +1,25 @@
+X:1
+T:Mozart Sonate No. 11 Thema Andante grazioso
+T:Köch. Verz. No. 331
+T:W. A. Mozart 
+T:Birgit Leonhardt
+Z:Birgit Leonhardt
+%%score { 1 | 2 }
+L:1/8
+M:6/8
+K:A
+V:1 treble nm="Piano"
+V:2 bass 
+V:1
+|: (c>d)c e2 e | (B>c)B d2 d | A2 A B2 B | c2 ([Be]/d/) ([Ac]2 [GB]) | (c>d)c e2 e | (B>c)B d2 d | %6
+ A2 B c2 [FBd] | [EAc]2 [DEGB] [CEA]2 z :: (e>f)e f2 f |{fg} (a>g)f (fe)e | (ec)A (ed)B | %11
+ (ec)A ([Ac]2 [GB]) | (c>d)c e2 e | (B>c)B d2 d | A2 B c2 [FBd] | [EAc]2 [EGB] ([EGB]2 [Ac]) | %16
+ [EAc]2 [EGd] [EAe]2 (f/g/4)a/4 | A2 ([Gc]/B/) A2 z :| %18
+V:2
+|:!p! ([A,E]>B,)[A,E] [CE]2 [CE] | ([G,E]>A,)[G,E] [B,E]2 [B,E] | [F,E]2 [F,E] [G,E]2 [G,E] | %3
+!mp! [A,E]2 D, E,3 | ([A,E]>B,)!p![A,E] [CE]2 [CE] | ([G,E]>A,)[G,E] [B,E]2 [B,E] | %6
+ [F,E]2 [G,E] [A,E]2!mp! D, |!p! E,2 E,, A,,2 z ::!p! (A,C)E A,DF | A,DF A,CE | %10
+!mp! [A,C]2 z [G,D]2 z |!mf! [A,C]2 [F,^D] [E,E]3 |!p! ([A,E]>B,)[A,E] [CE]2 [CE] | %13
+ ([G,E]>A,)[G,E] [B,E]2 [B,E] | [F,E]2 [G,E] [A,E]2!mf! D, |!p! E,2 E,, A,,3 | %16
+!f! [A,,A,]2 [B,,B,] [C,C]2 [D,D] | [E,C]2 [E,D] [A,C]2 z :| %18
+

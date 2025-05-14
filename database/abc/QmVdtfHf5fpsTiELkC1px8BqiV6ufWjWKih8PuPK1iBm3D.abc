@@ -1,0 +1,66 @@
+X:1
+T:Sommarvisa
+T:Sommarvisa
+T:arranged for violin and piano
+T:Kevin Jiang arr. Bobby C. H. Huen 
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=45
+M:3/4
+K:F
+V:1 treble nm="Violin" snm="Vln."
+V:2 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Largo, quasi un sogno" z6 |!pp! (F4- FA) | A4- A(A | G){/G}(F!<(! E2- E)B!<)! | B4 (FD | %5
+ ^C2)!<(! (B,2 E>)F!<)! |!mp!!p! F4 z2 | z6 | z6 | z6 |!mf! _AA (GF EF | GE D_D- D2) | %12
+ (E^F ED ^C2) |!>(! (E A2 E ^c2)!>)! |!pp!!p! (A4- A^c) | ^c4- c(c | =B)({/B}A!<(! ^G2- G)d!<)! | %17
+!p! d4 z2 | z6 | z6 |!mp! A4- A(B | G)({/G}F E2- E)(d |!pp!!p! e4) (d>^c | _e4) (^c>B | %24
+ Ac) (BG)!<(! (A>F)!<)! |!p! (F4- FA) | A4- A(A | G)({/G}F E2- E)!<(!d-!<)! | %28
+ d2!f! !fermata!c z z2 |!pp!"_cresc."!<(! g{/g} f2 ^g{/g} ^f2 | a{/a} g2 b{/b} ^g2 | %31
+ =b{/b} a2 C{/C} B,2 | ^C2{/C} !tenuto!=B, D2{/D} !tenuto!=C!<)! |!mf! !fermata!g z!pp! (^cG BF | %34
+ GF ED) F2- | !fermata!F6 |] %36
+V:2
+!pp! z4 x2 | z2 z[I:staff +1] (F,[I:staff -1]CF | !arpeggio![CFA]2 z[I:staff +1] F,[I:staff -1]CF | %3
+ G{/G}F!<(! E[I:staff +1]G,D[I:staff -1]B!<)! | !arpeggio![DFB]2) z (B,Fd | %5
+!<(! ^cG BF [B,E]>F)!<)! |!mp!!p! (F2 z[I:staff +1] F,[I:staff -1]CA | %7
+ A2 z[I:staff +1] F, C[I:staff -1]A | G{/G}F E[I:staff +1]G,D[I:staff -1]d) | %9
+"^Rubato"!pp! ([_Adf]4 d2) |!mf! ([_Acf][A_c_e] [GB=e][FB=c]) ([Cc]2 | [Gg][Ee] [Dd] _d3) | %12
+ !arpeggio![G^ce][^F^f] [Ee][Dd] [^C^c]2- |!>(! [Cc]6!>)! | %14
+!pp!!mp!!p! z2 z[I:staff +1] (A,[I:staff -1]EA | !arpeggio![EA^c]2 z[I:staff +1] A,[I:staff -1]EA | %16
+ =B{/B}A!<(! ^G[I:staff +1]=B,^F[I:staff -1]d!<)! |!p! !arpeggio![^FAd]2) z (DA^f | %18
+!<(! f=B dA [D^G]>A)!<)! |!mp! (A2 z[I:staff +1] F, C[I:staff -1]B | %20
+!mp! A2 z[I:staff +1] F,[I:staff -1]CB | G{/G}F E[I:staff +1]G,D[I:staff -1]d) | %22
+"^Rubato"!pp! ([GBe]4 d>^c) | ([Ac_e]4 ^c>B | Ac BG!<(! A>F)!<)! | %25
+!p! z2 z[I:staff +1] (F,[I:staff -1]CF | !arpeggio![CFA]2 z[I:staff +1] F,[I:staff -1]CF | %27
+ G{/G}F E[I:staff +1]G,D[I:staff -1]B |!<(! d2!<)!!f!!p! !fermata![_Acf]) z!pp! F[I:staff +1]D | %29
+"_cresc."!<(![I:staff -1] (G{/G} F2 ^G{/G} ^F2 | A{/A} G2 B{/B} ^G2 | =B{/B} A2 c{/c)} _B2 | %32
+ ([E^c]2{/c} !tenuto!=B) ([Fd]2{/d} !tenuto!=c)!<)! | %33
+!mf! !arpeggio!!fermata![GBdg] z!pp! (^c!>(!G"_rit. poco a poco" BF | %34
+ [B,G]F [B,E]D!>)!!pp! [F,C]2-) | !fermata![F,C]6 |] %36
+V:3
+!ped! (F,,C,A,) (F,[I:staff -1]C)[I:staff +1] z!ped-up! |!ped! (F,,C,A,) x x x!ped-up! | %2
+!ped! (F,,C,A,) x x x!ped-up! |!ped! (G,,D,B,) z2 z!ped-up! |!ped! (B,,F,D) x x x!ped-up! | %5
+!ped! (^C,G,!ped-up!!ped! B,,F,!ped-up!!ped! [B,,E,]2)!ped-up! |!ped! (F,,C,A, x x) x!ped-up! | %7
+!ped! (F,,C,A, x x) x!ped-up! |!ped! (G,,D,B,) x x x!ped-up! | !arpeggio![=B,,F,D]6 | [C,C]6- | %11
+!ped! [C,C]6-!ped-up! |!ped! [C,E,C]6-!ped-up! |!ped! [C,E,C]6!ped-up! | %14
+!ped! (A,,E,^C) x x x!ped-up! |!ped! (A,,E,^C) x x x!ped-up! |!ped! (=B,,^F,D) z2 z!ped-up! | %17
+!ped! (D,A,^F) x x x!ped-up! |!ped! (F,=B,!ped-up!!ped! D,A,!ped-up!!ped! [D,^G,]2)!ped-up! | %19
+!ped! (F,,C, A, x x) x!ped-up! |!ped! (F,,C,A,) x x x!ped-up! |!ped! (G,,D,B,) x x x!ped-up! | %22
+!ped! (!arpeggio![^C,G,E]6!ped-up! |!ped! !arpeggio![_E,^F]6!ped-up! |!ped! C,6)!ped-up! | %25
+!ped! (F,,C,A,) x x x!ped-up! |!ped! (F,,C,A,) x x x!ped-up! |!ped! (G,,D,B,) z2 z!ped-up! | %28
+!ped! B,,-F,- !fermata![B,,F,D]!ped-up! z x x |!ped! (G,, D,2!ped-up!!ped! ^G,, ^D,2!ped-up! | %30
+!ped! A,, E,2!ped-up!!ped! B,, F,2!ped-up! |!ped! =B,, ^F,2!ped-up!!ped! C, G,2)!ped-up! | %32
+!ped! ([^C,B,]2 ^G,)!ped-up!!ped! ([D,C]2 A,)!ped-up! | %33
+!ped! !arpeggio![C,G,E]!ped-up! z!ped! (E,,2!ped-up!!ped! F,,2!ped-up! | %34
+!ped! G,,2!ped-up!!ped! C,2-!ped-up!!ped! [F,,C,]2-)!ped-up! | !fermata![F,,C,]6 |] %36
+V:4
+ x6 | x6 | x6 | x6 | x6 | (A x F) x3 | x6 | x6 | x6 | x6 | x4 EF | x3 _D[I:staff +1]A,G, | x6 | %13
+[I:staff -1] [EA]6 | x6 | x6 | x6 | x6 | (^c x A) x3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %28
+ x6 | x6 | x6 | x6 | x6 | x2 A x F x | x6 | x6 |] %36
+V:5
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | F,6 | G,6 | x6 | A,2 A,,4 | z6 | x6 | x6 | x6 | %18
+ x6 | x6 | x6 | x6 | x6 | C6- | C6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %36
+

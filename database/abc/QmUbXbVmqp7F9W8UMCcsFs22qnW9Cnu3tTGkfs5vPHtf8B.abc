@@ -1,0 +1,24 @@
+X:1
+T:"La ci darem la mano"
+T:Переложение дуэта Дон Жуана и Церлины из опреры "Дон Жуан"
+T:В.А. Моцарт
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=48
+M:2/4
+K:A
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^Largo" AA/B/ cA | F B3 | GG/G/ AB | E[Bd] [Ac][GB] | AA/B/ cA | F B2 A | A/G/F/E/ EF/G/ | %7
+ A[Ec] [CA] z | BG/E/ ce/c/ | B>G BB | _B/=B/c/B/ _B/=B/A/F/ | [EG]g/4a/4b/4a/4 gE | BG/E/ ce/c/ | %13
+ B>G BB | _B/=B/c/B/ _B/=B/A | E[Bd] [Ac][GB] | AA/B/ cA | F B2 A | A/G/F/E/ EF/G/ | A/c/ e2 B | %20
+ d/c/B/A/ A/G/A/B/ | A[Ec] [CA]2 |] %22
+V:2
+ A,[CE] A,[CE] | D,[F,A,] ^D,[F,A,] | E,[G,B,] B,,[^D,A,] | [E,A,] z z [E,F] | A,[CE] A,[CE] | %5
+ D,[F,B,] D,[F,B,] | E,[B,D] E,[B,D] | [A,C][A,,E,] [A,,E,]2 | E,[G,B,] E,[G,B,] | %9
+ E,[G,B,] [G,B,][G,B,] | [^D,F,B,]4 | [E,B,][E,B,] [E,B,]2 | E,[G,B,] E,[G,B,] | %13
+ E,[G,B,] [G,B,][G,B,] | [^D,F,B,]4 | [E,G,B,][E,G,] [E,B,][E,D] | A,[CE] A,[CE] | %17
+ D,[F,B,] D,[F,B,] | E,[B,D] E,[B,D] | E,[A,C] E,[G,D] | E,[A,C] [E,A,C][E,G,B,D] | %21
+ [A,C][A,,E,] [A,,E,]2 |] %22
+

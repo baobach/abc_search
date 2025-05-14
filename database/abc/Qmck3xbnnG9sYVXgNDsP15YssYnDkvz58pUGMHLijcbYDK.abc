@@ -1,0 +1,36 @@
+X:1
+T:GAVOTTE
+T:GAVOTTE
+T:A.LORENZITI
+C:A.LORENZITI
+%%score ( 1 2 )
+L:1/8
+M:2/2
+K:G
+V:1 bass transpose=-12 nm="Contrabajo" snm="Cb."
+V:2 bass transpose=-12 
+V:1
+ z8 | z4 G,D,A,D, | B,4 (B,D,)CD, | D4 (DE)FG | D,DCB, A,2 D2 | (C2 B,2) (G,D,)A,D, | %6
+ B,4 (B,D,)CD, | D4[K:treble] (!fermata!gd)BG | (cB)AG (BA)GF | G4 ((bd')(bd')) | (g3 b) (ab)c'a | %11
+ f4 (df)ac' | c'afd g2 b2 | (a2 d'2) ((bd')(bd')) | (g3 b) (ab)c'a | f4 (df)ac' | c'afd g2 b2 | %17
+ g4[K:bass] A,D,B,D, | CD,DD, ED,FD, | G3 z A,D,B,D, | CD,DD, ED,FD, | G3 D!8va(! cBAB!8va)! | %22
+!8va(! c3 A cBAc!8va)! | B,4 A,D,B,D, | CD,DD, ED,FD, | G3 D!8va(! cBAB!8va)! | %26
+!8va(! c3 A BAGB!8va)! | A,4[K:treble] GDAD | B4 (BD)cD | d4 (gb)d'g' | (g'd')c'b (a2 d'2) | %31
+ c'2 b2 (gd)ad | b4 bdc'd | d'4{!fermata!a!fermata!c'!fermata!e'} (!fermata!g'd')bg | %34
+ (c'b)ag (ba)gf | g4[K:bass] E,2 =F,2 |:[K:C] G,2 A,B, C2 D2 | (E2 G2) (cB)AF | (AG)FE (AG)FE | %39
+ D2 G,2 E,2 F,2 | G,2 A,B, C2 D2 | (E2 G2) (cB)AG | (AG)FE (D3 C) |1 C4 E,2 F,2 :|2 C6 z2 || %45
+!8va(! DD^FA dd^fa!8va)! |[K:treble]!8va(! d'>(ad'>)(a d'4)!8va)! |[K:bass]!8va(! DDGB ddgb!8va)! | %48
+[K:treble]!8va(! d'>(bd'>)(b d'>)(bd'>)(b!8va)! | !fermata!d4)[K:bass] G,D,A,D, || %50
+[K:G] B,4 (B,D,)CD, | D4 (DE)FG | D,DCB, A,2 D2 | (C2 B,2) (G,D,)A,D, | B,4 (B,D,)CD, | %55
+ D4[K:treble] (!fermata!gd)BG | (cB)AG (BA)GF | G4 ((bd')(bd')) | (g3 b) (ab)c'a | f4 (df)ac' | %60
+ (c'a)fd g2 b2 | a2{/a} d'2 ((bd')(bd')) | (g3 b) (ab)c'a | f4 (df)ac' | c'afd g2 b2 | %65
+ g2 z2 z2 d'2 | b2 z2 z2 d'2 | b2 z2 d'2 z2 |({bd')} g'2 z2[K:bass] [DB]2 z2 | [D,G,]8 |] %70
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4[K:treble] x4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %17
+ x4[K:bass] x4 | x8 | x8 | x8 | z4!8va(! D4!8va)! |!8va(! D4 D4!8va)! | D,4 z4 | x8 | %25
+ x4!8va(! D4!8va)! |!8va(! D4 D4!8va)! | D,4[K:treble] x4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %35
+ x4[K:bass] x4 |:[K:C] x8 | x8 | x8 | x8 | x8 | x8 | x8 |1 x8 :|2 x8 ||!8va(! x8!8va)! | %46
+[K:treble]!8va(! x8!8va)! |[K:bass]!8va(! x8!8va)! |[K:treble]!8va(! x8!8va)! | x4[K:bass] x4 || %50
+[K:G] x8 | x8 | x8 | x8 | x8 | x4[K:treble] x4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %66
+ x8 | x8 | x4[K:bass] x4 | x8 |] %70
+

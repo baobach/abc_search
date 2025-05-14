@@ -1,0 +1,46 @@
+X:1
+T:L'Eté
+T:2° mouvement
+T:Vivaldi
+T:Arrangement de Diaule
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=48
+M:4/4
+K:Bb
+V:1 treble nm="Violin" snm="Vln."
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:1
+!p!"^Lento""^Dédicacé a la comtesse Alexandra Brunet" g4- g3 b | c4 a3 d | %2
+ b>a g2[Q:1/4=180]"^Presto" z4 | z8[Q:1/4=48]"^Lento" |!p! g3 b a3 c' | e3 c' d3 B | f3 b g3 b | %7
+ d2 Tc2[Q:1/4=180]"^Presto" B4 | z8[Q:1/4=48]"^Lento" |!p! f3 B _a3 f | e>d c2 g3 c | %11
+ b3 g ^f>=e d2 | b3 g _a3 g |!p! ^f3 d e3 d | c'3 d ba/g/ T^f>g |[Q:1/4=180]"^Presto" g4 z4 | %16
+[Q:1/4=48]"^Lento" z4!p! d4- | d4 g3 c' | c3 a ba/g/ T^f>g- |[Q:1/4=180]"^Presto" g8- | %20
+[Q:1/4=48]"^Lento" g8- | !fermata!g8 |] %22
+V:2
+!p! [G,B,]/>[G,B,]/[G,B,]/>[G,B,]/ [G,B,] z [G,B,]/>[G,B,]/[G,B,]/>[G,B,]/ [G,B,] z | %1
+ [A,^F]/>[A,F]/[A,F]/>[A,F]/ [A,F] z [A,F]/>[A,F]/[A,F]/>[A,F]/ [A,F] z | %2
+ [G,B,]/>[G,B,]/[G,B,]/>[G,B,]/ [G,B,] z!fff! G,G,/G,/ G,/G,/G,/G,/ | %3
+ G,/G,/G,/G,/ G,/G,/G,/G,/ G,4 | %4
+!p! [B,D]/>[B,D]/[B,D]/>[B,D]/ [B,D] z [CE]/>[CE]/[CE]/>[CE]/ [CE] z | %5
+ [A,F]/>[A,F]/[A,F]/>[A,F]/ [A,F] z [B,F]/>[B,F]/[B,F]/>[B,F]/ [B,F] z | %6
+ [B,D]/>[B,D]/[B,D]/>[B,D]/ [B,D] z [B,E]/>[B,E]/[B,E]/>[B,E]/ [B,E] z | %7
+ [B,F]/>[B,F]/[B,F]/>[B,F]/ [B,F] z B,B,/B,/ B,/B,/B,/B,/ | B,/B,/B,/B,/ B,/B,/B,/B,/ B,4 | %9
+!p! [B,D]/>[B,D]/[B,D]/>[B,D]/ [B,D] z [=B,D]/>[B,D]/[B,D]/>[B,D]/ [B,D] z | %10
+ [CE]/>[CE]/[CE]/>[CE]/ [CE] z [CE]/>[CE]/[CE]/>[CE]/ [CE] z | %11
+ [^C=E]/>[CE]/[CE]/>[CE]/ [CE] z [DA]/>[DA]/[DA]/>[DA]/ [DA] z | %12
+ [G,G]/>[G,G]/[G,G]/>[G,G]/ [G,G] z [CE]/>[CE]/[CE]/>[CE]/ [CE] z | %13
+ [CD]/>[CD]/[CD]/>[CD]/ [CD] z [^FA]/>[FA]/[FA]/>[FA]/ [FA] z | %14
+ [^FA]/>[FA]/[FA]/>[FA]/ [FA] z [^C=E]/>[CE]/[CE]/>[CE]/ [CE] z | %15
+!fff! G,G,/G,/ G,/G,/G,/G,/ G,/G,/G,/G,/ G,/G,/G,/G,/ | G,4!p! [GB]/>[GB]/[GB]/>[GB]/ [GB] z | %17
+ [FA]/>[FA]/[FA]/>[FA]/ [FA] z [EG]/>[EG]/[EG]/>[EG]/ [EG] z | %18
+ [D^F]/>[DF]/[DF]/>[DF]/ [DF] z [^C=E]/>[CE]/[CE]/>[CE]/ [CD] z | %19
+ G,G,/G,/ G,/G,/G,/G,/ G,/G,/G,/G,/ G,/G,/G,/G,/ | G,4!p! [G,B,]/>[G,B,]/[G,B,]/>[G,B,]/ [G,B,] z | %21
+ [G,B,]/>[G,B,]/[G,B,]/>[G,B,]/ [G,B,] z z4 |] %22
+V:3
+ z8 | z8 | z2 z2 G,,G,,/G,,/ G,,/G,,/G,,/G,,/ | G,,/G,,/G,,/G,,/ G,,/G,,/G,,/G,,/ G,,4 | z8 | z8 | %6
+ z8 | z2 z2!fff! B,,B,,/B,,/ B,,/B,,/B,,/B,,/ | B,,/B,,/B,,/B,,/ B,,/B,,/B,,/B,,/ B,,4 | z8 | z8 | %11
+ z8 | z8 | z8 | z8 | G,,G,,/G,,/ G,,/G,,/G,,/G,,/ G,,/G,,/G,,/G,,/ G,,/G,,/G,,/G,,/ | G,,4 z4 | %17
+ z8 | z8 |!fff! G,,G,,/G,,/ G,,/G,,/G,,/G,,/ G,,/G,,/G,,/G,,/ G,,/G,,/G,,/G,,/ | G,,4 z4 | z8 |] %22
+

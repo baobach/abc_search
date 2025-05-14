@@ -1,0 +1,93 @@
+X:1
+T:Frauenliebe und Leben
+T:An meinem Herzen, an meiner Brust
+T:7.An meinem Herzen, an meiner Brust
+T:Robert Schumann
+T:Frauenliebe und Leben, Op.42
+T:Adelbert von Chamisso
+T:OpenScore (CC0) 
+T:OpenScore (CC0) 
+T:OpenScore (CC0) 
+T:OpenScore (CC0) 
+C:Robert Schumann
+Z:Adelbert von Chamisso
+Z:OpenScore (CC0)
+%%score 1 { ( 2 5 6 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=110
+M:6/8
+K:D
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:6 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Fröhlich, innig." z6 | A A A d2 d | e e c d3 | A A3/2 A/ d2 d | e e3/2 c/ d2 d | d d c B B B | %6
+w: |An mei- nem Her- zen,|an mei- ner Brust,|du mei- ne Won- ne,|du mei- ne Lust! Das|Glück ist die Lie- be, die|
+ d d c B2 z | B B3/2 B/ c2 A | c c B A2 A | A2 A d2 d | e2 c d3 | A A A d2 d | e2 =c B3 | %13
+w: Lieb' ist das Glück,|ich hab's ge- sagt und|nehm's nicht zu- rück. Hab'|ü- ber- schweng- lich|mich ge- schätzt,|bin ü- ber- glück- lich|a- ber jetzt.|
+ B B A G3 | B B A G2 G | G2 F E2"^ritard."[Q:1/4=70] E | E2 E{/E} B3 | %17
+w: Nur die da säugt,|nur die da liebt das|Kind, dem sie die|Nah- rung giebt,|
+[Q:1/4=110]"^Schneller.\na tempo" A A A d2 d | e2 c d2 A | A2 A d2 d | e2 c d3 | d d3/2 c/ B2 B | %22
+w: nur ei- ne Mut- ter|weiss al- lein, was|lie- ben heisst und|glück- lich sein.|O, wie be- daur' ich|
+ d2 c B2 B | f2 B (Bc) A | c2 B A2 A |[Q:1/4=120]"^Noch schneller.""_Presto" A2 A d2 d | %26
+w: doch den Mann, der|Mut- ter- glück _ nicht|füh- len kann! Du|lie- ber, lie- ber|
+ e2 c d2 A | A A A d2 d | e3/2 e/ c d2 d | !>!d2 d d d d | (!>!df)"^ritard." d[Q:1/4=90] (B2 _B) | %31
+w: En- gel du, du|schau- est- mich an und|lä- chelst da- zu! An|mei- nem Her- zen, an|mei- * ner Brust, _|
+ A A3/2 A/ d F F | =B3- =B2 A |[Q:1/4=80][Q:1/4=80]"_Langsamer." D3 z2 z | z6 | z6 | z6 | %37
+w: du mei- ne Won- ne, du|mei- * ne|Lust!||||
+[Q:1/4=60] z6 | z6 | z6 | z6 |] %41
+w: ||||
+V:2
+!f! [GAea]3!p! [GAea]3 |!p! z/ ([GA]/e/a/e/[GA]/) z/ (F/d/a/d/F/) | %2
+ z/ (A/c/a/c/A/) z/ (A/d/a/d/A/) | z/ ([GA]/e/a/e/[GA]/) z/ (F/d/a/d/F/) | %4
+ z/ (A/c/a/c/A/) z/ (A/d/a/d/A/) | z/ (A/d/a/A/c/) z/ (A/B/a/A/B/) | %6
+ z/ (A/d/a/A/c/) z/ (A/B/a/A/B/) | z/ (A/B/a/A/B/) z/ (A/c/a/A/c/) | %8
+ z/ (A/c/e/^G/B/) z/ (=G/A/e/G/A/) | z/ ([GA]/e/a/e/[GA]/) z/ (F/d/a/d/F/) | %10
+ z/ (A/c/a/c/A/) z/ (A/d/a/d/A/) | z/ ([GA]/e/a/e/[GA]/) z/ (F/d/a/d/F/) | %12
+ z/!<(! (=c/a/d'/a/c/) z/ (B/g/d'/g/!f!B/)!<)! | z/!>(! (B/g/b/B/f/) z/ (B/e/b/B/e/)!>)! | %14
+ z/!>(! (B/g/b/B/f/) z/ (B/e/b/B/!>)!e/) | z/ (B/g/b/B/f/) z/ (B/e/b/B/e/) | %16
+ z/ (B/e/b/B/e/) z/ (B/e/b/B/e/) | z/ (A/e/a/e/A/) z/ (A/d/a/d/A/) | %18
+ z/ (A/c/a/c/A/) z/ (A/d/a/d/A/) | z/ (A/c/a/c/A/) z/ (A/d/a/d/A/) | %20
+ z/ (A/c/a/c/A/) z/ (A/d/a/d/A/) | z/ (A/d/a/A/c/) z/ (A/B/a/A/B/) | %22
+ z/ (A/d/a/A/c/) z/ (A/B/a/A/B/) | z/ (A/B/a/A/!<(!B/) z/ (A/c/a/A/c/)!<)! | %24
+!>(! z/ (A/c/e/^G/B/) z/!>)! (=G/A/e/G/A/) |!f! .[EGA]2 z .[DFA]2 z | .[CEA]2 z .[DFA]2 z | %27
+ .[EGA]2 z .[DFA]2 z | .[CEA]2 z .[DFA]2 z | [DBd]2 [DAd] [D^Gd]3 | %30
+ [DBd]2"^ritard." [DAd] [D^Gd]2 [E=G_B] | (([EGA-]3 [DFA]3)) | E6 |{A,D} A3!<(! (Bcd!<)! | %34
+ ^fec A^G=G) |!<(! [=CFA]3 (B^cd!<)! | ^fec A^G=G) |"^ritard."{/[=CFA]} (e_ed ^c=cF) | %38
+ (A2 G- G2 ^C- | [CE]6 |{/D} [A,D]2) z z2 z |] %41
+V:3
+ [C,A,E]3 [C,A,E]3 | C,3 D,3 | G,3 F,3 | C,3 D,3 | G,3 F,3 | F,2 E, D,2 z | F,2 E, D,2 z | %7
+ D,3 ^D,3 | E,2 =D, C,3 | C,3 D,3 | G,3 F,3 | C,3 D,3 |[K:treble] (F,/D/A/D/A/D/) (G,/D/A/D/A/D/) | %13
+ (G,/D/G/D/G/^D/) (G,/E/G/E/G/!mp!E/) | (G,/=D/G/D/G/^D/) (G,/E/G/E/G/!p!E/) | %15
+ (G,/=D/G/D/G/^D/) (G,/E/G/E/"^ritard."G/E/) | (G,/=D/G/D/G/D/) (^G,/D/E/D/E/D/) | %17
+[K:bass] =G,3 F,3 | G,3 F,3 | G,3 F,3 | G,3 F,3 | F,2 E, D,2 z | F,2 E, D,2 z | D,3 ^D,3 | %24
+ E,2 =D,!mp! C,3 | .[C,A,]2 z .[D,A,]2 z | .[G,A,]2 z .[F,A,]2 z | .[C,A,]2 z .[D,A,]2 z | %28
+ .[G,A,]2 z .[F,A,]2 z | [^G,B,]2 [F,A,] [E,G,]3 | [^G,B,]2 [F,A,] [E,G,]2 [D,_B,] | %31
+ (!>![C,A,-]3 [D,A,]3) | G,6 |!mp!!ped! [D,,F,]3 [^G,,=F,]3!ped-up! | %34
+!mf!!ped!{A,,E,=G,} [CE]3- [CE]2!ped-up! z | [D,,D,]3 [^G,,=F,]3 | %36
+!f!!ped!{A,,E,=G,} [^CE]3- [CE]2!ped-up! z |!ped!{/D,,} D,6!ped-up! | %38
+!ped! (=E_ED ^C_B,G,-)!ped-up! | (G,6 | F,2) z z2 z |] %41
+V:4
+ x6 | (C,/A,/E/A,/E/A,/) (D,/A,/D/A,/D/A,/) | (G,/A,/E/A,/E/A,/) (F,/A,/D/A,/D/A,/) | %3
+ (C,/A,/E/A,/E/A,/) (D,/A,/D/A,/D/A,/) | (G,/A,/E/A,/E/A,/) (F,/A,/D/A,/D/A,/) | %5
+ (F,/A,/D/A,/E,/E/) (D,/A,/F/A,/F/A,/) | (F,/A,/D/A,/E,/E/) (D,/A,/F/A,/F/A,/) | %7
+ (D,/A,/F/A,/F/A,/) (^D,/A,/F/A,/F/A,/) | (E,/A,/E/A,/D,/E/) (C,/A,/E/A,/E/A,/) | %9
+ (C,/A,/E/A,/E/A,/) (D,/A,/D/A,/D/A,/) | (G,/A,/E/A,/E/A,/) (F,/A,/D/A,/D/A,/) | %11
+ (C,/A,/E/A,/E/A,/) (D,/A,/D/A,/D/A,/) |[K:treble] F,3 G,3 | G,3 G,3 | G,3 G,3 | G,3 G,3 | %16
+ G,3 ^G,3 |[K:bass] (G,/^C/E/C/E/C/) (F,/A,/D/A,/D/A,/) | (G,/A,/E/A,/E/A,/) (F,/A,/D/A,/D/A,/) | %19
+ (G,/A,/E/A,/E/A,/) (F,/A,/D/A,/D/A,/) | (G,/A,/E/A,/E/A,/) (F,/A,/D/A,/D/A,/) | %21
+ (F,/A,/D/A,/E,/E/) (D,/A,/F/A,/F/A,/) | (F,/A,/D/A,/E,/E/) (D,/A,/F/A,/F/A,/) | %23
+ (D,/A,/F/A,/F/A,/) (^D,/A,/F/A,/F/!f!A,/) | (E,/A,/E/A,/D,/E/) (C,/A,/E/A,/E/A,/) | x6 | x6 | x6 | %28
+ x6 | x6 | x6 | x6 | (G,,3 A,,3) | x6 | x6 | x6 | x6 | x6 | D,6- | D,6- | D,2 x x2 x |] %41
+V:5
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | [=B,-D]3 B,2 A, | x3 D3 | %34
+ =G3- G2 z | x3 D3 | =G3- G2 z | x6 | B,3 _B,2 B,- | B,6 | x6 |] %41
+V:6
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x3 C3 | x6 | x6 | x6 | x6 | x6 | %38
+ x6 | x6 | x6 |] %41
+

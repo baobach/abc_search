@@ -1,0 +1,64 @@
+X:1
+T:Pachelbel - Canon
+T:for Flute and Harp
+T:Johann Pachelbel (1653 - 1706)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=65
+M:4/4
+K:G
+V:1 treble nm="Flute" snm="Fl."
+V:2 treble nm="Harp" snm="Hrp."
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+ z8 | z8 | z8 | z8 | b4 a4 | g4 f4 | e4 d4 | e4 f4 | g4 f4 | e4 d4 | c4 B4 | c4 d4 | gfgG FdAB | %13
+ Ggfe fbd'e' | c'bac' bagf | edcB AcBA | GABc dAdc | Bedc dcBA | GEef gfed | cBAe dedc | B2 b2 a4 | %21
+ z2 g2 b4 | g4 g4 | g2 c'2 a2 d'2 | d'b/c'/ d'b/c'/ d'/d/e/f/ g/a/b/c'/ | %25
+ bg/a/ bB/c/ d/e/d/c/ d/B/c/d/ | ce/d/ cB/A/ B/A/G/A/ B/c/d/e/ | ce/d/ ef/g/ d/e/f/g/ a/b/c'/d'/ | %28
+ bg/a/ ba/g/ a/f/g/a/ b/a/g/f/ | ge/f/ gG/A/ B/c/B/A/ B/g/f/g/ | eg/f/ ed/c/ d/c/B/c/ d/e/f/g/ | %31
+ eg/f/ gf/e/ f/g/a/g/ f/g/e/f/ | gBcB Aaba | gBGe dDCD | Eefe dDCD | Eede fFEF | %36
+ Gg/f/ gB dd/e/ fd | Bg/a/ bg bb/a/ gf | ee/d/ ef gb/a/ gb | c'g/f/ ee dAdc | B3 b bc'ba | %41
+ g3 g gagf | e4 g4 | g=fef d3 d | d3 d' d'e'd'c' | b3 b bc'ba | g=fef d3 d | g=fef d3 d | %48
+ g2 G2 F2 f2 | e2 E2 D2 d2 | c2 c'2 b2 B2 | A2 e2 A2 a2 | b2 B2 A2 a2 | g2 G2 F2 f2 | %54
+ e2 e'2 d'2 d2 | c2 ea d2 f2 | g8 |] %57
+V:2
+ z B,DG z A,DF | z G,B,E z F,B,D | z E,G,C z D,G,B, | z G,A,E z A,DF | z B,DG z A,DF | %5
+ z G,B,E z F,B,D | z E,G,C z D,G,B, | z G,A,E z A,DF | b4 a4 | g4 f4 | e4 d4 | e4 f4 | [gb]4 a4 | %13
+ [eg]4 [df]4 | [ce]4 [Bd]4 | [ce]4 [df]4 | gfgG FdAB | Ggfe fbd'e' | c'bac' bagf | edcB AcBA | %20
+ GABc dAdc | Bedc dcBA | GEef gfed | cBAe dedc | B2 [dgb]2 a4 | z2 [Beg]2 [dfb]4 | g4 [dg]4 | %27
+ [ceg]2 c'2 [dfa]2 d'2 | d'b/c'/ d'b/c'/ d'/d/e/f/ g/a/b/c'/ | bg/a/ bB/c/ d/e/d/c/ d/B/c/d/ | %30
+ ce/d/ cB/A/ B/A/G/A/ B/c/d/e/ | ce/d/ ef/g/ d/e/f/g/ a/b/c'/d'/ | [gb]2 B/d/g/b/ [fa]2 A/d/f/a/ | %33
+ [eg]2 G/B/e/g/ [df]2 F/B/d/f/ | [ce]2 E/G/c/e/ [Bd]2 D/G/B/d/ | [ce]2 E/G/c/e/ [df]2 F/A/d/f/ | %36
+ .gG/A/ BG Ff/g/ af | eE/F/ GE Fd/c/ BA | Gc/B/ Ac BG/A/ Bd | ce/d/ cB Ad/c/ BA | %40
+ z2 B/d/g/b/ z2 A/d/f/a/ | z2 G/B/e/g/ z2 F/B/d/f/ | z2 E/G/c/e/ z2 D/G/B/d/ | %43
+ z2 E/G/c/e/ z2 F/A/d/f/ | B3 b bc'ba | g3 g gagf | e4 g4 | c2 g2 f3 f | [Bdg]4 [FAd]4 | %49
+ [GBe]4 [DFB]4 | [EGc]4 [B,DG]4 | [EGc]4 [Ad]4 | [Bdg]2 G2 F2 f2 | [GBe]2 E2 D2 d2 | %54
+ [EGc]2 c'2 [dgb]2 B2 | !arpeggio![EGc]4 !arpeggio![FAd]4 | [B,DG]8 |] %57
+V:3
+ G,4 D,4 | E,4 B,,4 | C,4 G,,4 | C,4 D,4 | G,4 D,4 | E,4 B,,4 | C,4 G,,4 | C,4 D,4 | %8
+ G,B,DG D,A,DF | E,G,B,E B,,F,B,D | C,E,G,C G,,D,G,B, | C,G,A,E D,A,DF | G,DGD D,A,DA, | %13
+ E,G,EB, B,,F,B,F, | C,E,CG, G,,D,G,D, | C,G,CG, D,A,DA, | G,D G2 D,F, D2 | E,G, E2 B,,F, B,2 | %18
+ C,G, C2 G,,D, G,2 | C,G, C2 D,F, D2 | G,DGD D,F,DA, | E,G,EB, B,,F,B,F, | C,G,CG, G,,D,G,D, | %23
+ C,G,CG, D,F,DA, | G,DGD D,F,DA, | E,G,EB, B,,F,B,F, | C,G,CG, G,,D,G,D, | C,G,CG, D,F,DA, | %28
+ [G,DG]4 [D,F,D]4 | [E,B,E]4 [B,,F,B,]4 | [C,G,C]4 [D,G,]4 | G,4 [D,D]4 | %32
+ G,/B,/D/G/ z2 D,/A,/D/F/ z2 | E,/G,/B,/C/ z2 B,,/F,/B,/D/ z2 | C,/E,/G,/C/ z2 G,,/D,/G,/B,/ z2 | %35
+ C,/E,/G,/C/ z2 D,/F,/A,/D/ z2 | G,DB,D D,DA,D | E,B,G,B, B,,B,A,B, | C,G,E,G, G,,G,D,G, | %39
+ C,CG,C D,DA,D | G,/B,/D/G/ z2 D,/A,/D/F/ z2 | E,/G,/B,/E/ z2 B,,/F,/B,/D/ z2 | %42
+ C,/E,/G,/C/ z2 G,,/D,/G,/B,/ z2 | C,/E,/G,/C/ z2 D,/F,/A,/D/ z2 | G,/B,/D/G/ B,2 D,/A,/D/F/ A,2 | %45
+ E,/G,/B,/E/ G,2 B,,/F,/B,/D/ F,2 | C,/E,/G,/C/ E,2 G,,/D,/G,/B,/ D,2 | %47
+ C,/E,/G,/C/ E,2 D,/F,/A,/D/ F,2 | [G,DG]4 [D,A,D]4 | [E,B,E]4 [B,,F,B,]4 | [C,G,C]4 [B,,D,G,]4 | %51
+ [C,G,C]4 [D,A,D]4 | [G,DG]4 [D,A,D]4 | [E,B,E]4 [B,,F,B,]4 | [C,G,C]4 [B,,D,G,]4 | %55
+ !arpeggio![C,G,C]4 !arpeggio![D,A,D]4 | [G,,D,G,]8 |] %57
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 f4 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x4 [df]4 | x8 | [ce]4 B4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %36
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 F4 | x8 | x8 | x8 | %55
+ x8 | x8 |] %57
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 G,,4 | [C,C]4 F,4 | x8 | x8 | x8 | x8 | %36
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %55
+ x8 | x8 |] %57
+

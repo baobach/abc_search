@@ -1,0 +1,62 @@
+X:1
+T:Title
+%%score ( 1 2 3 ) { 4 | 5 }
+L:1/8
+Q:1/4=155
+M:6/8
+K:A
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 treble 
+V:4 bass nm="Choir Pad, Bass"
+V:5 bass 
+V:1
+ [FA]2 [FA]- [FA] [^Ec]2 | [^EB]2 [FA]- [FA] [Ec]2 | [^EB]2 [FA]- [FA] [Fd]2 | %3
+w: By~Anthony~Johnson~Showalter * * *|||
+ [Fd]2 [Fd]- [Fd]2- [Fd]/ z/ | [DF]2 [E=G]- [EG] [Gc]2 | [=GB]2 [EG]- [EG] [Gc]2 | %6
+w: |||
+ [=GB]2 [GB]- [GB] [FA]2 | [^EG]2 [FA]- [FA]2- [FA]/ z/ | [FA]2 [FA]- [FA] [^Ec]2 | %9
+w: |||
+ [^EB]2 [FA]- [FA] [Ec]2 | [^EB]2 [FA]- [FA] [Fd]2 | [Fd]2 [Fd]- [Fd]2- [Fd]/ z/ | %12
+w: |||
+ [Fd]2 [=Ge]- [Ge] [Gd]2 | [=GB]2 [FA]- [FA] [DF]2 | D2 [DF]- [DF] [DF]2 | [CE]2 D- D2- D/ z/ | %16
+w: ||||
+ z2 A- A3- | A6 | z2 A- A3- | A6 | z2 A- A3- | A6 | z2 A- A3- | A6 | z2 E- E E2 | .E3 z c2 | %26
+w: ||||||||||
+ B2 E- E E2 | .E3 z c2 | B2 E- E E2 | E2 E- E/ z/ [Ec]2 | z2 F- F3- | F6 | %32
+w: ||||||
+ [FA]2 [FA]- [FA] [^Ec]2 | [^EB]2 [FA]- [FA] [Ec]2 | [^EB]2 [FA]- [FA] [Fd]2 | %35
+w: |||
+ [Fd]2 [Fd]- [Fd]2- [Fd]/ z/ | [Fd]2 [=Ge]- [Ge] [Gd]2 | [=GB]2 [FA]- [FA] [DF]2 | %38
+w: |||
+ D2 [DF]- [DF] [DF]2 | [CE]2 D- D3- | D6- | D3 z3 |] %42
+w: ||||
+V:2
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z2 F- F F2 | %17
+ .F3 z d2 | B2 F- F F2 | .F3 z d2 | B2 F- F F2 | F2 F- F/ z/ [Fd]2 | [^EB]2 F- F F2 | %23
+ F2 F- F2- F/ z/ | z2 =G- G3- | G6 | z2 =G- G3- | G6 | z2 =G- G3- | G6 | [CB]2 D- D D2 | %31
+ D2 D- D2- D/ z/ | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %42
+V:3
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | z2 F- F3- | %18
+ F2 z z3 | z2 F- F3- | F2 z z3 | x6 | x6 | x6 | x6 | z2 E- E3- | E2 z z3 | z2 E- E3- | E2 z z3 | %29
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %42
+V:4
+ A,2 A,- A, G,2 | G,2 A,- A, G,2 | G,2 A,- A, A,2 | A,2 A,- A,2- A,/ z/ | A,2[K:treble] C- C C2 | %5
+ C2 C- C C2 | C2 D- D D2 | D2 D- D2- D/ z/ | A,2 A,- A, G,2 | G,2 A,- A, G,2 | G,2 A,- A, A,2 | %11
+ A,2 A,- A,2- A,/ z/ | A,2 B,- B, B,2 | D2 D- D A,2 | A,2[K:bass] A,- A,/ z/ A,2 | %15
+ =G,2 F,- F,2- F,/ z/ | z2[K:treble] D- D D2 | D2 D- D3- | D2 D- D D2 | D2 D- D3- | D2 D- D D2 | %21
+ D2 D- D/ z/[K:bass] A,2 | G,2 A,- A, D2 | D2 D- D2- D/ z/ | z2 C- C C2 | C2 C- C3- | C2 C- C C2 | %27
+ C2 C- C3- | C2 C- C C2 | C2 C- C/ z/[K:bass] A,2 | A,2 A,- A, A,2 | A,2 A,- A,2- A,/ z/ | %32
+ A,2 A,- A, G,2 | G,2 A,- A, G,2 | G,2 A,- A, A,2 | A,2 A,- A,2- A,/ z/ | A,2 B,- B, B,2 | %37
+ D2 D- D A,2 | A,2[K:bass] A,- A,/ z/ A,2 | =G,2 F,- F,3- | F,6- | F,3 z3 |] %42
+V:5
+ D,2 D,- D, D,2 | D,2 D,- D, D,2 | D,2 D,- D, D,2 | D,2 D,- D,2- D,/ z/ | D,2 A,,- A,, A,,2 | %5
+ A,,2 A,,- A,, A,,2 | A,,2 D,- D, D,2 | D,2 D,- D,2- D,/ z/ | D,2 D,- D, D,2 | D,2 D,- D, D,2 | %10
+ D,2 D,- D, D,2 | D,2 D,- D,2- D,/ z/ | D,2 =G,- G, G,2 | =G,2 D,- D, D,2 | .F,3 z3 | %15
+ A,,2 D,- D,2- D,/ z/ | z2 D,- D, D,2 | D,2 D,- D,3- | D,2 D,- D, D,2 | D,2 D,- D,3- | %20
+ D,2 D,- D, D,2 | D,2 D,- D,/ z/ D,2 | D,2 D,- D, F,2 | A,2 D,- D,2- D,/ z/ | z2 A,,- A,, A,,2 | %25
+ A,,2 A,,- A,,3- | A,,2 A,,- A,, A,,2 | A,,2 A,,- A,,3- | A,,2 A,,- A,, A,,2 | %29
+ A,,2 A,,- A,,/ z/ A,,2 | A,,2 D,- D, D,2 | D,2 D,- D,2- D,/ z/ | D,2 D,- D, D,2 | D,2 D,- D, D,2 | %34
+ D,2 D,- D, D,2 | D,2 D,- D,2- D,/ z/ | D,2 =G,- G, G,2 | =G,2 D,- D, D,2 | .F,3 z3 | %39
+ A,,2 D,- D,3- | D,6- | D,3 z3 |] %42
+

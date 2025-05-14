@@ -1,0 +1,49 @@
+X:1
+T:Bonnie Dundee
+T:Bonnie Dundee
+T:arr. Josiah Pittman
+T:Walter Scott
+T:Dundee he is mounted, he rides doon the street, The bells they ring backwards, the drums they are beat, But the Provost, douce man, says "Just e'en let it be For the toun is well rid of that de'il o' Dundee." Come fill up my cup, etc. There are hills beyond Pentland and lands beyond Forth, Be there lords i' the south, there are chiefs i' the north! There are brave Duinnewassels, three thousand times three Will cry "Hey!" for the bonnets o' bonnie Dundee. Come fill up my cup, etc. Then awa' to the hills, to the lea, to the rocks Ere I own a usurper, I'll crouch with the fox And tremble, false whigs, in the midst of your glee Ye hae no seen the last o' my bonnets and me! Come fill up my cup, etc.
+T:by IMSLP - The Songs of Scotland
+T:by IMSLP - The Songs of Scotland
+Z:by IMSLP - The Songs of Scotland
+%%score 1 2 { 3 | 4 }
+L:1/8
+Q:1/4=80
+M:6/8
+K:F
+V:1 treble nm="Voice"
+V:2 treble nm="Voice"
+V:3 treble nm="Piano"
+V:4 bass 
+V:1
+"^Allegretto" z | z6 | z6 | z6 | z2 z z2 || A/ B/ | c3/2 d/ c c d c | f e d c2 c/ B/ | %8
+w: |||||Io the|Lords of Con\- ven\- tion 'twas|Cla\- ver house spoke: Ere the|
+ A c C A c C | G3/2 G/ G G2 (A/B/) | c d c c d c | f e d c2 c/ B/ | A/ c3/2 C/ A c3/2 C | %13
+w: King's crown go down there are|crowns to be broke, Then *|each ca\- va\- lier who loves|ho\- nour and me, Let him|fol\- low the bon\- nets of|
+ F/ F3/2 F F2"^Chorus" C | F F F (FB) A | G C C C2 C | G G G G A B | B A A A2 F | A3/2 G/ A B2 B | %19
+w: Bon\- nie Dun\- dee. Come|fill up my cup, * come|fill up my can, Come|sad\- dle my hor\- ses, and|call out my men; Un\-|hook the west port, and|
+ c B c !fermata!d z c/ B/ | A c C B/ c3/2 C | F/ F3/2 F F2 z | z6 | z6 | z6 | z4 z :| %26
+w: let us gae free, For its|up wi' the bon\- nets of|Bon\- nie Dun\- dee.|||||
+V:2
+ z | z6 | z6 | z6 | z4 z || z | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z4 z C | F F F (F B) A | %15
+ G C C C2 C | G G G G A B | B A A A2 F | A3/2 G/ A B2 B | c B c !fermata!d z c/ B/ | %20
+ A c C B/ c3/2 C | F/ F3/2 F F2 z | z6 | z6 | z6 | z4 z :| %26
+V:3
+!mf! (a/b/) | (c'>d'c') (c'>d'c') |!>(! (f'e'd')!>)! c'2 b | a<c'c g<c'c | f>[Acf][Acf] [Acf]2 || %5
+ z |!p! z .[CFA].[CFA] z .[CFA].[CFA] | z .[DFB].[DFB] z .[CFA].[CFA] | %8
+ z .[CFA].[CFA] z .[CFA].[CFA] | z .[CEG].[CEG] z .[CEG].[CEG] | z .[CFA].[CFA] z .[CFA].[CFA] | %11
+ z .[DFB].[DFB] z .[CFA].[CFA] | z .[CFA].[CFA] z .[CEG].[CEG] | z .[A,CF].[A,CF] .[A,CF]2 z | %14
+!mf! z .[A,CF].[A,CF] z .[DFB].[CFA] | z .[CEG].[CEG] z .[CEG].[CEG] | z [CEG][CEG] z [CFA][CGB] | %17
+ z [CFA][CFA] z [CFA][CFA] | z [CFA][CFA] z [DFB][DFB] | %19
+ z [_EFc][EFc] !arpeggio![DFBd] !fermata!z z |!p! z [CFA][CFA] z [CFA][CFA] | %21
+ z [CFA][CFA] [CFA]2 z |!mf! aaa{c'} (bab) | (c'bc') d'2 (c'/b/) | (a<c')c (g<c')c | %25
+ f>[Acf][Acf] [Acf]2 :| %26
+V:4
+ z | F,[A,C][A,C] F,[A,C][A,C] | F,[B,D][B,D] [F,A,C]2 z | C,[F,A,][F,A,] C,[F,A,][F,A,] | %4
+ [F,A,]3 [F,,F,]2 || z | F,2 z F,2 z | F,2 z F,2 z | F,2 z F,2 z | C,2 z C,2 z | F,2 z F,2 z | %11
+ F,2 z F,2 z | C,2 z C,2 z | F,2 z F,2 z | [F,,F,]3 [F,,F,]3 | [C,,C,]2 z [C,,C,]2 z | %16
+ [C,,C,]3 [C,,C,]3 | [F,,F,]2 z [F,,F,]2 z | [F,,F,]2 [_E,,_E,] [F,,F,]2 z | %19
+ [A,,A,]3 [B,,B,] !fermata!z z | C,2 z C,2 z | [F,,F,]3 [F,,F,]2 z | F,[A,C][A,C] G,[CE][CE] | %23
+ A,[CF][CF] [B,F]2 z | [CFA]2 z [C,G,B,]2 z | [F,A,]3 [F,,F,]2 :| %26
+

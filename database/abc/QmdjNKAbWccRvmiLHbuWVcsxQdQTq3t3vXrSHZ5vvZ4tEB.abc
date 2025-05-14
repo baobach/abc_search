@@ -1,0 +1,61 @@
+X:1
+T:Canon in D for Flute and Guitar duet
+T:Pachelbel arr. Reichwein
+%%score 1 2 { 3 | 4 }
+L:1/8
+Q:1/4=72
+M:4/4
+K:D
+V:1 treble nm="Flute" snm="Fl."
+V:2 treble-8 nm="Guitar" snm="Guit."
+V:3 treble-8 nm="Guitar Capo 2" snm="Guit."
+V:4 tab stafflines=6 strings=E2,A2,D3,G3,B3,E4 
+V:1
+"_Key D Play C" z8 | z8 | z8 | z8 | d4 c4 | B4 A4 | G4 A4 | B4 A4 | f4 e4 | d4 c4 | B4 A4 | B4 c4 | %12
+ fcdF eAGA | ddcB cfab | gfeg fedc | BABd d2 c2 | af/g/ af/g/ a/A/B/c/ d/e/f/g/ | %17
+ fd/e/ fF/G/ A/B/A/G/ A/F/G/A/ | GB/A/ GF/E/ F/E/D/E/ F/G/A/B/ | GB/A/ Bc/d/ c/B/A/B/ c/d/e/f/ | %20
+ d2 c2 A2 G2 | F2 D2 F2 E2 | D2 B,2 D2 A2 | G2 B2 A2 G2 | F2 D2 E2 c2 | d2 f2 a2 A2 | B2 G2 A2 F2 | %27
+ D2 d2 d3 c | af/g/ af/g/ a/A/B/c/ d/e/f/g/ | fd/e/ fF/G/ A/B/A/G/ A/F/G/A/ | %30
+ GB/A/ GF/E/ F/E/D/E/ F/G/A/B/ | GB/A/ Bc/d/ A/B/c/d/ e/f/g/a/ | %32
+ a/d/f/d/ A/B/c/d/ a/e/c/A/ E/F/G/A/ | B/A/G/F/ G/A/B/c/ B/d/c/A/ F/G/A/B/ | %34
+ d/c/G/A/ B/c/d/e/ f/d/a/g/ f/e/d/A/ | G/F/G/A/ B/c/d/B/ E/F/G/A/ B/c/d/e/ | f4 e4 | d4 c4 | %38
+ B4 A4 | B4 c4 | d4 c4 | B4 A4 | G4 F4 | G4 E4 | D2 D6 | D2 D6 | D2 D6 | D2 D6 |] %48
+V:2
+ DFAd A,CEA | B,DFB F,A,CF | G,B,DG DFAd | G,B,DG A,CEA | DFAd A,CEA | B,DFB F,A,CF | G,B,DG DFAd | %7
+ G,B,DG A,CEA | DFAd A,CEA | B,DFB F,A,CF | G,B,DG DFAd | G,B,DG A,CEA | DFAd A,CEA | %13
+ B,DFB F,A,CF | G,B,DG DFAd | G,B,DG A,CEA | DFAd A,CEA | B,DFB F,A,CF | G,B,DG DFAd | %19
+ G,B,DG A,CEA | DFAd A,CEA | B,DFB F,A,CF | G,B,DG DFAd | G,B,DG A,CEA | DFAd A,CEA | %25
+ B,DFB F,A,CF | G,B,DG DFAd | G,B,DG A,CEA | d2 d2 A2 A2 | B2 B2 F2 F2 | G2 G2 D2 D2 | %31
+ G2 G2 A2 A2 | d2 d2 A2 A2 | B2 B2 F2 F2 | G2 G2 D2 D2 | G2 G2 A2 A2 | D4 A,4 | B,4 F,4 | G,4 D4 | %39
+ G,4 A,4 | f4 e4 | d4 c4 | B4 A4 | B4 c4 | dAFD A,DFA | d2 dA FDFA | d2 dA FDFA | d2 [A,DAdf]6 |] %48
+V:3
+[K:C] CEGc G,B,DG | A,CEA E,G,B,E | F,A,CF CEGc | F,A,CF G,B,DG | CEGc G,B,DG | A,CEA E,G,B,E | %6
+ F,A,CF CEGc | F,A,CF G,B,DG | CEGc G,B,DG | A,CEA E,G,B,E | F,A,CF CEGc | F,A,CF G,B,DG | %12
+ CEGc G,B,DG | A,CEA E,G,B,E | F,A,CF CEGc | F,A,CF G,B,DG | CEGc G,B,DG | A,CEA E,G,B,E | %18
+ F,A,CF CEGc | F,A,CF G,B,DG | CEGc G,B,DG | A,CEA E,G,B,E | F,A,CF CEGc | F,A,CF G,B,DG | %24
+ CEGc G,B,DG | A,CEA E,G,B,E | F,A,CF CEGc | F,A,CF G,B,DG | c2 c2 G2 G2 | A2 A2 E2 E2 | %30
+ F2 F2 C2 C2 | F2 F2 G2 G2 | c2 c2 G2 G2 | A2 A2 E2 E2 | F2 F2 C2 C2 | F2 F2 G2 G2 | C4 G,4 | %37
+ A,4 E,4 | F,4 C4 | F,4 G,4 | e4 d4 | c4 B4 | A4 G4 | A4 B4 | cGEC G,CEG | c2 cG ECEG | %46
+ c2 cG ECEG | c2 [G,CGce]6 |] %48
+V:4
+[K:C] !5!C,!4!E,!3!G,!2!C !6!G,,!5!B,,!4!D,!3!G, | !5!A,,!5!C,!4!E,!3!A, !6!E,,!6!G,,!5!B,,!4!E, | %2
+ !6!F,,!5!A,,!5!C,!4!F, !5!C,!4!E,!3!G,!2!C | !6!F,,!5!A,,!5!C,!4!F, !6!G,,!5!B,,!4!D,!3!G, | %4
+ !5!C,!4!E,!3!G,!2!C !6!G,,!5!B,,!4!D,!3!G, | !5!A,,!5!C,!4!E,!3!A, !6!E,,!6!G,,!5!B,,!4!E, | %6
+ !6!F,,!5!A,,!5!C,!4!F, !5!C,!4!E,!3!G,!2!C | !6!F,,!5!A,,!5!C,!4!F, !6!G,,!5!B,,!4!D,!3!G, | %8
+ !5!C,!4!E,!3!G,!2!C !6!G,,!5!B,,!4!D,!3!G, | !5!A,,!5!C,!4!E,!3!A, !6!E,,!6!G,,!5!B,,!4!E, | %10
+ !6!F,,!5!A,,!5!C,!4!F, !5!C,!4!E,!3!G,!2!C | !6!F,,!5!A,,!5!C,!4!F, !6!G,,!5!B,,!4!D,!3!G, | %12
+ !5!C,!4!E,!3!G,!2!C !6!G,,!5!B,,!4!D,!3!G, | !5!A,,!5!C,!4!E,!3!A, !6!E,,!6!G,,!5!B,,!4!E, | %14
+ !6!F,,!5!A,,!5!C,!4!F, !5!C,!4!E,!3!G,!2!C | !6!F,,!5!A,,!5!C,!4!F, !6!G,,!5!B,,!4!D,!3!G, | %16
+ !5!C,!4!E,!3!G,!2!C !6!G,,!5!B,,!4!D,!3!G, | !5!A,,!5!C,!4!E,!3!A, !6!E,,!6!G,,!5!B,,!4!E, | %18
+ !6!F,,!5!A,,!5!C,!4!F, !5!C,!4!E,!3!G,!2!C | !6!F,,!5!A,,!5!C,!4!F, !6!G,,!5!B,,!4!D,!3!G, | %20
+ !5!C,!4!E,!3!G,!2!C !6!G,,!5!B,,!4!D,!3!G, | !5!A,,!5!C,!4!E,!3!A, !6!E,,!6!G,,!5!B,,!4!E, | %22
+ !6!F,,!5!A,,!5!C,!4!F, !5!C,!4!E,!3!G,!2!C | !6!F,,!5!A,,!5!C,!4!F, !6!G,,!5!B,,!4!D,!3!G, | %24
+ !5!C,!4!E,!3!G,!2!C !6!G,,!5!B,,!4!D,!3!G, | !5!A,,!5!C,!4!E,!3!A, !6!E,,!6!G,,!5!B,,!4!E, | %26
+ !6!F,,!5!A,,!5!C,!4!F, !5!C,!4!E,!3!G,!2!C | !6!F,,!5!A,,!5!C,!4!F, !6!G,,!5!B,,!4!D,!3!G, | %28
+ !2!C2 !2!C2 !3!G,2 !3!G,2 | !3!A,2 !3!A,2 !4!E,2 !4!E,2 | !4!F,2 !4!F,2 !5!C,2 !5!C,2 | %31
+ !4!F,2 !4!F,2 !3!G,2 !3!G,2 | !2!C2 !2!C2 !3!G,2 !3!G,2 | !3!A,2 !3!A,2 !4!E,2 !4!E,2 | %34
+ !4!F,2 !4!F,2 !5!C,2 !5!C,2 | !4!F,2 !4!F,2 !3!G,2 !3!G,2 | !5!C,4 !6!G,,4 | !5!A,,4 !6!E,,4 | %38
+ !6!F,,4 !5!C,4 | !6!F,,4 !6!G,,4 | !1!E4 !2!D4 | !2!C4 !2!B,4 | !3!A,4 !3!G,4 | !3!A,4 !2!B,4 | %44
+ !2!C!3!G,!4!E,!5!C, !6!G,,!5!C,!4!E,!3!G, | !2!C2 !2!C!3!G, !4!E,!5!C,!4!E,!3!G, | %46
+ !2!C2 !2!C!3!G, !4!E,!5!C,!4!E,!3!G, | !2!C2 [!6!G,,!5!C,!3!G,!2!C!1!E]6 |] %48
+

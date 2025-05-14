@@ -1,0 +1,48 @@
+X:1
+T:Stille Nacht
+T:Stille Nacht
+T:F. Guber
+T:B. S. Ingemann
+C:F. Guber
+Z:B. S. Ingemann
+%%score { ( 1 4 ) | 2 | 3 }
+L:1/8
+Q:1/8=80
+M:6/8
+K:C
+V:1 treble nm="Orgel" snm="Org."
+V:4 treble 
+V:2 bass 
+V:3 bass 
+V:1
+|: ([EG]>[FA][EG] [CE]3 | [EG]>[FA][EG] [CE]3) | ([Bd]2 [Bd] [GB]3 | [Ec]2 [Ec] [EG]3) | %4
+w: Stil- * le Nacht,|hei- li- ge Nacht!|Al- les schláft,|ein- sam wacht|
+w: ||||
+ ([FA]2 [FA] [Ac]>[GB][FA] | [EG]>[FA][EG] [CE]3) | ([FA]2 [FA] [Ac]>[GB][FA] | %7
+w: nur das tra- te hoch|hei- li- ge Paar.|Hol- der Kna- be im|
+w: |||
+ [EG]>[FA][EG] [CE]3) | ([Bd]2 [Bd] [df][ce][Bd] | [Ac]3 !fermata![ce]3) | %10
+w: lok- ki- gen Haar,|schlaf in himm- lisch- er|Ruh.- *|
+w: |||
+ (!arpeggio![EGc]>[EG][CE] [D-G][DF][B,D] |1 C6) :|2 C6 |] %13
+w: Schaf- * in himm- lisch- er|||
+w: |Ruh.|Ruh.|
+V:2
+|: z !tenuto![G,CE]!tenuto![G,CE] !tenuto![G,CE]!tenuto![G,CE]!tenuto![G,CE] | %1
+ z !tenuto![G,CE]!tenuto![G,CE] !tenuto![CE]!tenuto![B,CE]!tenuto![A,CE] | %2
+ z !tenuto![G,B,D]!tenuto![G,B,D] !tenuto![G,B,F]!tenuto![G,B,E]!tenuto![G,B,D] | %3
+ z !tenuto![G,CE]!tenuto![G,CE] !tenuto![_B,CE]3 | %4
+ z !tenuto![A,CF]!tenuto![A,CF] !tenuto![A,CF]!tenuto![A,CF]!tenuto![A,CF] | %5
+ z !tenuto![G,CE]!tenuto![G,CE] !tenuto![G,CE]!tenuto![A,CE]!tenuto![_B,CE] | %6
+ z !tenuto![A,CF]!tenuto![A,CF] !tenuto![A,CF]!tenuto![A,CF]!tenuto![A,CF] | %7
+ z !tenuto![G,CE]!tenuto![G,CE] !tenuto![G,CE]3 | z !tenuto![G,B,D]!tenuto![G,B,D] [^G,B,D]3 | %9
+ z !tenuto![A,CE]!tenuto![G,CE] !fermata![^F,CE]3 |"^ral."!>(! z [G,CE]2 [A,CF-] [G,B,F]2 |1 %11
+ z !tenuto![G,CE]!tenuto![A,CF]!>)! [G,CE]3 :|2!>(! [A,CF][G,CE][F,CD]!>)! [E,C]3 |] %13
+V:3
+|:"C" C,,4- C,,G,, |"Cmaj7""C6" C,,6 |"G""G7" G,,6 |"C" C,,3-"C7" C,,D,,E,, |"F" F,,6 | %5
+"C""C6""C7" C,,6 |"F" F,,3 A,,3 |"C" C,3- C,B,,A,, |"G" G,,3"G#dim7" ^G,,3 | %9
+"Am" A,,2"Am7" G,,"F#mb5" !fermata!^F,,3 |"C/G" G,,3"F/G""G7" G,,3 |1"C""F""C" C,,6 :|2 %12
+"F" F,,"Em6"E,,"Dm7"D,,"C" C,,3 |] %13
+V:4
+|: x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |1 E,2 F, E,3 :|2 A,G,F, E,3 |] %13
+

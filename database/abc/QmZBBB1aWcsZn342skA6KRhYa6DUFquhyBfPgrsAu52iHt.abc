@@ -1,0 +1,80 @@
+X:1
+T:Zion hört die Wächter singen, BWV 645 
+T:Johann Sebastian Bach
+T:from Wachet auf, ruft uns die Stimme, BWV 140 (No. 4) 
+C:J.S Bach
+%%score { 1 | 2 } 3 4
+L:1/8
+Q:1/4=60
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:3 treble nm="Voice" snm="Vo."
+V:4 treble nm="Voice" snm="Vo."
+V:1
+ B, | (E/F/)G (GF) (AG) (B,A,) |: (G/E/)F (A,G,) (DE) z B, | (E/F/)G (GF) (AG) (B,A,) | %4
+ (G/E/)F (A,G,) (DE) z B | B2 (A/G/F/E/) (F/E/D/C/) B,C/D/ | (E/F/)(G/F/) (A/G/F/E/) (GF) z B, | %7
+ (G =A2) B{F} E/D/E z C | (=A B2) c{F} E/D/E z{cd} e | (d/c/B) B/=A/B- B/(A/G/F/) (E/D/C/B,/) | %10
+ (C/D/E){F} (E/D/)E- E/(=A/B/c/ B/A/G/F/) | BF TDC/B,/ (B,/E/D/C/) DB, | %12
+{=A,} G,>A, A,3/2G,/4A,/4 B,2 z B, | (E/F/)G (GF) (AG) (B,A,) | (G/E/)F (A,G,) (DE) z B, | %15
+ (E/F/)G (GF) (AG) (B,A,) | (G/E/)F (A,G,) (DE) z F | (G =A2) B{F} (E/D/)E z E | %18
+ (=A B2) c{G} (F/E/)F z2 | z2 z B B2 (A/G/F/E/) | (F/E/D/C/) B,C/D/ (E/F/)(G/F/) (A/G/F/E/) |1 %21
+ (GF) z2 z2 z B, || (E/F/)G (GF) (AG) (B,A,) :|2 (GF) z2 z2 z B || %24
+ B2 (A/G/F/E/) (F/E/D/C/) B,C/D/ | (E/F/)(G/F/) (A/G/F/E/) (GF) z B, | (G =A2) B{F} (E/D/)E z C | %27
+ (=A B2) c{F} (E/D/)E z e | (d/c/)B B/=A/B- (B/A/G/F/) (E/D/C/B,/) | %29
+ C/D/E E/D/E- E/(=A/B/c/ B/A/G/F/) | BF TDC/B,/ (B,/E/D/C/) DB, | G,>=A, A,3/2G,/4A,/4 B,2 z D | %32
+ (E F2) G (B,/A,/)B, z B || B2 (A/G/F/E/) (F/E/D/C/) B,C/D/ | (E/F/G/F/) (A/G/F/E/) (GF) z2 | %35
+ z2 z G (c/d/)e (ed) | (fe) (GF) (e/c/)d (FE) | (=Bc) z G G2 (F/E/D/C/) | %38
+ (D/C/=B,/=A,/) G,A,/B,/ (C/D/E/D/) (F/E/D/C/) | (ED) z G, (E ^F2) G | %40
+{D} (C/B,/)C z =A, (^F G2) =A |{D} (C/B,/)C z c B/=A/G- TG/^F/G- | %42
+ G/=F/E/D/ C/B,/=A,/G,/ A,/B,/C- TC/B,/C- | C/(^F/G/=A/ G/F/=E/D/) GD TB,=A,/G,/ | G,2 z2 z2 z B, | %45
+ (E/F/)G (GF) (AG) (B,A,) | (G/E/)F (A,G,) (DE) z2 | z2 z B B2 (A/G/F/E/) | %48
+ (F/E/D/C/) B,C/D/ (E/F/)(G/F/) (A/G/F/E/) | (GF) z E (c d2) e | A/G/A z c (d e2) f | %51
+{B} A/G/A z F G/F/E- TE/D/E- | E/_d/c/B/ A/G/F/E/ F/G/A- TA/G/A- | %53
+ A/(D/E/F/ E/D/C/B,/) BE G/F/E/D/ | %54
+[Q:1/4=50]"_rit." (E/A/G/F/) GE[Q:1/4=40]{D} C>D[Q:1/4=30] D>[Q:1/4=20]E |[Q:1/4=70] E8 |] %56
+V:2
+ z |"^Eb" E,,2 E,,2 E,,2 G,,2 |:"^Ab" A,,2"^Bb" B,,2"^Eb" E,,2 z2 | E,,2 E,,2 E,,2 G,,2 | %4
+"^Ab" A,,2"^Bb" B,,2"^Eb" E,,2 z2 | G,,2"^Cm7" C,2"^Bb7" B,,2 A,,2 |"^Eb" G,,2 E,,2"^Bb" B,,2 D,2 | %7
+"^Eb" E,2 D,2"^Cm" C,2 E,2 |"^F" F,2 G,2"^Eb" =A,2 F,2 |"^Bb" B,2 =A,2"^Gm" G,2 F,2 | %10
+"^Eb" E,2 D,2"^Cm" C,2 E,2 |"^Bb" D,B,,"^F"F,F,,"^Eb" G,,=A,,"^Bb"B,,D,, | %12
+"^Eb" E,,C,,"^F" F,,2"^Bb" B,,C,B,,_A,, |"^Eb" G,,F,,E,,D,, C,,2 C,2 | %14
+"^Ab" G,,2"^Bb" B,,2"^Eb" E,,2 G,,2 |"^Eb" A,,2 A,2 D,2 E,2 |"^Ab" C,2"^Bb" D,2"^Eb" E,2 D,2 | %17
+ C,2 G,,2"^Bb" C,D, E,2- |"^Eb" E,D,G,,=A,,"^Bb" B,,D,,"^Eb"E,,F,, |"^Bb" B,,=A,,B,,C, D,B,, E,2 | %20
+"^Ab" B,,2"^Eb" _A,,2"^Bb" G,,2 E,,2 |1"^Eb" A,,B,, C,2"^Bb" F,,2 B,,A,, || %22
+"^Eb" G,,2 E,2 D,2 E,2 :|2"^Eb" A,,B,, C,2"^Bb" F,,2 B,,A,, || %24
+"^Eb" G,,2"^Cm7" C,2"^Bb7" B,,2 A,,2 |"^Eb" G,,2 E,,2"^Bb" B,,2 D,2 |"^Eb" E,2 D,2"^Cm" C,2 E,2 | %27
+"^F" F,2 G,2"^Eb" =A,2 F,2 |"^Bb" B,2 =A,2"^Gm" G,2 F,2 |"^Eb" E,2 D,2"^Cm" C,2 E,2 | %30
+"^Bb" D,B,,F,F,, G,,=A,,B,,D,, | E,,C,,"^F" F,,2"^Bb" B,,C,B,,_A,, | %32
+"^Eb" G,,F,,E,,D,, E,,G,,A,,B,, ||"^Eb" C,D,"^Cm7" E,2"^Bb7" B,,2 A,,2 | %34
+"^Eb" G,,2 E,,2"^Bb" B,,C,D,B,, |"^Ab" E,D,"^Bb"C,=B,,"^Cm" C,G,C_B, | A,2"^Ab" E,2 F,2"^Fm" G,2 | %37
+"^G" A,G,F,=E,"^Fm" F,_E,D,C, | =B,,G,,"^G"G,F,"^Cm" E,2 C,2 | G,2"^G" =B,2"^Cm" C2 _B,2 | %40
+ =A,2 C,2"^D" D,2 E,2 | ^F,,2"^D7" D,,2"^Gm" G,,2 =F,,2 |"^Eb" E,2 D,2"^Cm" C,2 _B,,2 | %43
+"^Co" =A,,2"^D" C,2"^Gm" B,,G,,D,D,, | G,,E,,"^Eb"F,,G,,"^F" _A,,G,,"^Bb"A,,B,, | %45
+"^Cm" C,B,,C,D,"^Eb" E,2"^Cm" C,2 |"^Eb" A,,2"^Bb" B,,2"^Eb" C,B,,"^Ab"C,D, | %47
+"^Eb" E,D,"^Do"E,F,"^Eb" G,F,G,A, |"^Bb" D,B,,B,A,"^Eb" G,2 E,2 |"^Bb" B,A, G,2"^Ab" A,2 G,2 | %50
+"^Fm" F,2 E,2"^Do" F,2 B,,2 |"^Eb" C,2"^Cm" A,,2"^Eb" B,,2 G,,2 | %52
+"^Fm" A,,G,,"^Do"F,,E,,"^Bb7" D,,2"^Ab" F,,2 |"^Bb7" B,,C,"^Gm"B,,A,,"^Cm" G,,C,A,,B,, | %54
+"^Eb" C,D,E,G,"^Ab" A,F,"^Bb"B,B,, |"^Eb" E,8 |] %56
+V:3
+ z | z8 |: z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 E2 G2 | B2 B2 B2 B2 | c4 B4 | %16
+ z4 z2 B2 | e2 B2 ef g2 | f3 e d2 c3/2B/4c/4 | B4 z4 | z2 B2{B} e2 B2 |1 c2 G3/2A/4B/4 AG TF2 || %22
+ E4 z4 :|2 c2 G3/2A/4B/4 AG TF2 || E4 z4 | z8 | z8 | z8 | z8 | z8 | z8 | z4 z2 B2 | B2 A2 G2 TF2 || %33
+ E4 z4 | z2 B2 B2 A2 | G2 TF2 E4 | z8 | F2 G2 TA4 | G4 z4 | z8 | z8 | z8 | z8 | z8 | z2 B2 c2 d2 | %45
+ e4 z4 | z4 z2 ef | g2 Tf2 e4 | z8 | z2 B2 e2 B2 | c2 G2 AG TF2 | E8 | z8 | z8 | z8 | z8 |] %56
+V:4
+!p! z | [EGB]8 |: [A,CE]2 [B,DF]2 [EGB]4- | [EGB]8 | [A,CE]2 [B,DF]2 [EGB]4- | %5
+ [EGB]2 [CEGB]2 [B,DFA]4 | [EGB]4 [B,DF]4 | [EGB]4 [CEG]4 | [F=Ac]4 [EGB]4 | [B,DF]4 [GBd]4 | %10
+ [EGB]4 [CEG]4 | [B,DF]2 [F=Ac]2 [EGB]2 [B,DF]2 | [EGB]2 [F=Ac]2 [B,DF]4 | [EGB]8 | %14
+ [A,CE]2 [B,DF]2 [EGB]4- | [EGB]8 | [A,CE]2 [B,DF]2 [EGB]4- | [EGB]4 [B,DF]4 | %18
+ [EGB]4 [B,DF]2 [EGB]2 | [B,DF]8 | [A,CE]2 [EGB]2 [B,DF]4 |1 [EGB]4 [B,DF]4 || [EGB]8 :|2 %23
+ [EGB]4 [B,DF]4 || [EGB]2 [CEGB]2 [B,DFA]4 | [EGB]4 [B,DF]4 | [EGB]4 [CEG]4 | [F=Ac]4 [EGB]4 | %28
+ [B,DF]4 [GBd]4 | [EGB]4 [CEG]4 | [B,DF]8- | [B,DF]2 [F=Ac]2 [B,DF]4 | [EGB]8 || %33
+ [EGB]2 [CEGB]2 [B,DFA]4 | [EGB]4 [B,DF]4 | [A,CE]2 [B,DF]2 [CEG]4- | [CEG]2 [A,CE]4 [FAc]2 | %37
+ [G=Bd]4 [FAc]4- | [FAc]2 [G=Bd]2 [CEG]4- | [CEG]2 [G=Bd]2 [CEG]4- | [CEG]4 [D^F=A]4- | %41
+ [DFA]2 [D^F=Ac]2 [GBd]4 | [EGB]4 [CEG]4 | [CE_G]2 [DG=A]2 [=GBd]4- | %44
+ [GBd]2 [EGB]2 [F=Ac]2 [Bdf]2 | [CEG]4 [EGB]2 [CEG]2 | [EGB]2 [B,DF]2 [EGB]2 [A,CE]2 | %47
+ [EGB]2 [DFA]2 [EGB]4 | [B,DF]4 [EGB]4 | [Bdf]4 [Ace]4 | [FAc]4 [DFA]4 | [EGB]2 [CEG]2 [EGB]4 | %52
+ [FAc]2 [DFA]2 [B,DFA]2 [A,CE]2 | [B,DFA]2 [GBd]2 [CEG]4 | [EGB]4 [A,CE]2 [B,DF]2 | [EGB]8 |] %56
+

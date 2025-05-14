@@ -1,0 +1,70 @@
+X:1
+T:6 Songs
+T:Liebe und Frühling
+T:2b. Liebe und Frühling I
+T:Johannes Brahms
+T:August von Fallersleben
+T:6 Songs, Op.3
+T:OpenScore (CC0)
+T:OpenScore (CC0)
+C:Johannes Brahms
+Z:August Heinrich Hoffmann von Fallersleben
+Z:OpenScore (CC0)
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=100
+M:4/4
+K:B
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+!p!"^Moderato ma non troppo" B2 c2 d2 e2 | (dB) G2 F2 D2 | E2 F2 G2 B2 | (^Bc) (de) (^e2 f2) | %4
+w: Wie sich Re- ben-|ran- * ken schwin- gen|in der lin- den|Lüf- * te * Hauch, *|
+ z4 B2 c2 | d2 e2 (dB) G2 | F2 E2 D2 G2 | (F2 B2) (=A2 d2) | (d4- (3d2 e2) f2 | %9
+w: wie sie|wei- sse Win- * den|schlin- gen luf- tig|um * den *|Ro- * * sen|
+"^rit."[Q:1/4=95] (e8 | c4) !fermata!z4 |[Q:1/4=100] d2 c2 B2 A2 | B2 (dc) B2 A z | G2 B2 f2 e2 | %14
+w: strauch:||Al- so schmie- gen|sich und * ran- ken|früh- lings- se- lig,|
+ (dc) (^Bc) (=B2 A) z | f2 e2 d2 c2 | B2 (dc) B2 A2 | g2 f2 e2 d2 | (fe) (dc) B4- | %19
+w: still * und * mild, *|mei- ne Tag- und|Nacht- ge- * dan- ken|um ein trau- tes,|lie- * bes * Bild,|
+"^rit." B4 z4[Q:1/4=97][Q:1/4=94] |[Q:1/4=90]"^Poco più lento"!p! B4 c4 | d4 e4 | (d2 B2) G4 | %23
+w: |mei- ne|Tag- und|Nacht- * ge-|
+!>(! E4 ^E4 | F4!>)!!pp! (=A3 G) | (G4 (G)^A/G/ ^^F) G | d6 c2 | B4[Q:1/4=88] z4 | %28
+w: dan- ken|um ein *|trau- * * * * tes,|lie- bes|Bild.|
+[Q:1/4=86] z8[Q:1/4=84] |[Q:1/4=82] z8[Q:1/4=80] |[Q:1/4=78] z8 | z8 | !fermata!z8 |] %33
+w: |||||
+V:2
+!p!"_dolce, espressivo e sempre legato" (B2 c2 d2 e2 | dB G2 F2 D2) | (E2 F2 G2 B2 | %3
+ ^Bcde ^e2 f2) | z4 (B2 c2 | d2 e2 dB G2 | F2 E2) (D2 G2 |!<(! F2 B2 =A2 d2) | c4 ^B4!<)! | %9
+!>(! (g4 (3.g2) .^a2 .b2!>)! |!p! !fermata!c'6 z2 |!p! (d2 c2 B2 A2 | B2 dc B2 A2) | %13
+!<(! B2 d2 =a2 g2!<)! |!>(! ([df][ce][^Bd]c) ([G=B]2 [F^A]2)!>)! | (f2 e2 d2 c2) | %16
+ (B2 !>!dc (B2 A2)) | !>![eg]2 !>![df]2 !>!e2 !>!d2 | (.f.e.d.c)"_dim." =B4- | (B2 =d2 =e2 ^e^e') | %20
+ (!arpeggio!f'2 =e'2 d'2 c'2 | b2 d'c' b2 a2) | (g'2 f'2 e'2"^dim." d'2) |!>(! (f'e'd'c') b4!>)! | %24
+ [cfa]2!pp! [CFA]2 [^B,D=A]4 | ([CE-G-]4 [=B,G]4) | (F4 E4) |!p!"^dim." [B,D]4 [A,C]4 | %28
+ [=A,=C]4 [G,B,]4 |[K:bass] [=G,^A,]4 [F,=A,]4 |!>(! [^E,^G,]4 [=E,=G,]4 | [D,F,]4 [=D,^E,]4 | %32
+!pp! !fermata![^D,F,]8!>)! |] %33
+V:3
+ (B,2 C2 D2 E2 | DB, G,2 F,2 D,2) | (E,2 F,2 G,2 B,2 | ^B,CDE ^E2 F2) | (=B,2 C2 D2 E2 | %5
+ DB, G,2 F,2 E,2) | (D,2 G,2 F,2 B,2 | =A,2 G,2 F,2 F2) | D4 D4 | %9
+[K:treble]"^rit." E4 (!arpeggio!.G2 .=G2) | !arpeggio!!fermata![F,CEF]6 z2 | %11
+[K:bass] (B,2 C2 D2 E2 | DB, G,2 F,4) | E,,2 F,,2 G,,2 B,,2 | (^B,,C,D,E,) (^E,2 F,2) | %15
+ ([B,,,D,,B,,]2 [C,,E,,C,]2 [D,,F,,D,]2!f! [E,,F,,E,]2) | %16
+ ([D,,F,,D,][B,,,B,,] [G,,,G,,]2) [F,,,F,,]4 | ([E,,,E,,]2 [F,,,F,,]2 [G,,,G,,]2 [B,,,B,,]2) | %18
+ (.[^B,,,^B,,].[C,,C,].[D,,D,].[E,,E,]) [^E,,^E,]4 |"^rit." [=B,,,=B,,]4 [G,,,G,,]4 |!p! F,,,8- | %21
+ F,,,8 | [B,,,B,,]4 [^B,,,^B,,]4 | [C,,C,]4 [G,,,G,,]4 | ([F,,,F,,]4 [F,,F,-]4) | F,4 F,4- | F,8 | %27
+"_legato" ([B,,,B,,]2 [C,,C,]2 [D,,D,]2 [E,,E,]2 | [D,,D,]2 [B,,,-B,,]2) (B,,,2 ^C,,2 | %29
+ D,,2 E,,2 D,,2 B,,,2-) | (B,,,2 C,,4 ^A,,,2- | A,,,2 B,,,4 F,,,2- | %32
+ F,,,2 !fermata![B,,,,B,,,]6) |] %33
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x2 x2 =A4 | (.f2 .^^f2) g4 | (.c2 .^B2) =B4 | %10
+ !arpeggio!^A6 x2 | z FzFzFzF | z F ^E2 z [CF]z[CF] | GE=AB fBeG | =AGFE z =DzC | dFcF BFAF | %16
+ BF ^E2 GCFC | BGB=A BGAF | [=Ad][Gc][F^B]E G=DGD | G^EBE c^E ^^c^^c' | !arpeggio!d'f^c'f aeae | %21
+ fdfd fcfc | =abab fgfg | gc'eg =d^ede | x4 [^B,^D]4 | x4 E4 | A,8 | x8 | x8 |[K:bass] x8 | x8 | %31
+ x8 | x8 |] %33
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 F,4 | =A,4 G,4 |[K:treble] C4 !arpeggio![CE]4 | x8 | %11
+[K:bass] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | F,,8- | F,,8 | x8 | x8 | x8 | F,,8 | F,,8 | %27
+ x8 | x8 | x8 | x8 | x8 | x8 |] %33
+

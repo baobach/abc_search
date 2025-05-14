@@ -1,0 +1,46 @@
+X:1
+T:The Well-Tempered Clavier Part I Praeludium XVIII
+T:BWV 863
+T:J. S. Bach
+%%score { ( 1 2 4 ) | 3 }
+L:1/8
+M:6/8
+K:B
+V:1 treble nm="Harp"
+V:2 treble 
+V:4 treble 
+V:3 bass 
+V:1
+ G/A/B/G/A/c/ edc | B g2 ^^f3 | g/a/b/d/e/g/ f/g/a/c/d/f/ | e/f/g/B/c/e/ A/B/c/F/c/e/ | %4
+ d/e/f/d/e/g/ B/A/B/A/B/c/- | c B2- B/B/A/B/c/A/ | F3- F/^E/F/E/F/G/ | C/D/E/C/D/F/ =AGF | %8
+ E2 c A3- | A/G/^^F/A/G/^E/ ^^CDE | F3 ^E3 | D>D^E/F/ G>^^CE/G/ | %12
+ F>FG/B/ F/4^E/4F/4E/4F/4E/4F/4E/4F/4E/4F/4E/4 | D/^E/F/D/E/G/ BAG | F2- F/G/ A/B/c/A/B/c/ | %15
+ d/c/B/d/c/A/ ^^FGA | B>A^B/c/ d3 | c/d/e/c/d/f/ =agf | e3- efe | d3- ded | c3- cdc | %21
+ B/A/G/B/c/e/ A/G/F/A/B/d/ | G/d/c/B/A/G/ ^^F/G/A/=G/A/B/ | eee eee | e3- e/d/c/a/e/c/ | %25
+ d/c/B/d/c/A/ B/A/G/B/A/^^F/ | G6- | G6- | !fermata!G6 |] %29
+V:2
+[I:staff +1] B,D C2 B,A, |[I:staff -1] B2 A- A[I:staff +1] D2- | DGC- CFB,- | B, E2- EDC | %4
+ B,/C/D/B,/C/E/ GF[I:staff -1]E | D/E/F/D/E/G/ C3- | CB,/=A,/C/B,/ =DCB,- | %7
+ B,[I:staff +1]=A,/G,/A,/F,/[I:staff -1] ^B,CD |[I:staff +1] G,/A,/B,/G,/A,/[I:staff -1]C/ EDC | %9
+ B,3 A,3- | A,DG,- G,CF,- | F, B,2- B,/B,/ A,2- | A,/A,/ D2 ^^C3 | D[I:staff +1] z z4 | %14
+[I:staff -1] D/[I:staff +1]C/B,/D/C/A,/ ^^F,G,A,- | A,G,[I:staff -1]E- EDC | %16
+ B,/D/ G2 F/G/=A/F/c/^B/ | c3 ^Bcd- | dcB A3- | ABA G3- | GAG ^^F3 | G[I:staff +1] z z4 | %22
+ z4 z[I:staff -1] G- | GGG ccc | c/B/A/c/B/G/ A3- | A/A/ G2[I:staff +1] z2 z | %26
+ z[I:staff -1] FD C/^B,/C/D/E/F/ |[I:staff +1] C,6 |[I:staff -1] ^B,6 |] %29
+V:3
+ G,3 ^^F,3 | G,/A,/B,/G,/A,/C/ EDC | B,3 A,3 | G,2 E, F,G,A, | B, z z4 | %5
+ B,,/C,/D,/B,,/C,/E,/ G,F,E, | D,/E,/F,/D,/^E,/G,/ B,=A,G, | F,3- F,/F,/E,/D,/C,/^B,,/ | %8
+ C,3 ^^F,,/C/B,/A,/G,/^^F,/ | G,3- G,/G,/F,/^E,/D,/^^C,/ | %10
+ D,/^E,/F,/A,,/B,,/D,/ C,/D,/E,/G,,/A,,/B,,/ | B,,/C,/D,/F,,/G,,/B,,/ ^^C,,^^C,A,, | %12
+ D,/^E,/F,/D,/E,/G,/ B,A,G, | F,/G,/A,/F,/G,/B,/ ^^C,/D,/^E,/A,,/C,/E,/ | D,3 C,3 | %15
+ B,,3 A,,/C,/B,,/A,,/G,,/^^F,,/ | G,,/F,,/E,,/G,,/F,,/D,,/ ^B,,,C,,D,, | %17
+ E,,/F,,/G,,/E,,/F,,/=A,,/ D,,/E,,/F,,/G,,/^A,,/^B,,/ | C,/D,/E,/C,/E,/G,/ F,/G,/A,/F,/A,/C/ | %19
+ B,,/C,/D,/B,,/D,/F,/ E,/F,/G,/E,/G,/B,/ | A,,/B,,/C,/A,,/C,/E,/ D,/^E,/^^F,/D,/F,/A,/ | %21
+ G,/A,/B,/D,/E,/G,/ F,/G,/A,/C,/D,/F,/ | E,/F,/G,/B,,/C,/E,/ D,/^E,/^^F,/A,,/B,,/D,/ | %23
+ C,/D,/E,/B,,/C,/E,/ =A,,/C,/E,/G,,/C,/E,/ | ^^F,,3- F,,>^^F,G,/A,/ | B,,2 E, C,D,D,, | %26
+ G,,/A,,/^B,,/G,,/B,,/D,/ F,E,D, | z3 ^^F,G,A, | !fermata!G,,6 |] %29
+V:4
+ x6 | z dc- cBA | d z z4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %17
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %27
+ E/D/C/E/C/[I:staff +1]A,/[I:staff -1] z/ E/D/C/^B,/C/ | D6 |] %29
+

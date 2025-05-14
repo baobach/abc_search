@@ -1,0 +1,55 @@
+X:1
+T:Title
+%%score { ( 1 4 6 ) | ( 2 3 5 ) }
+L:1/8
+Q:1/4=113
+M:12/8
+K:G
+V:1 treble nm="Grand Piano"
+V:4 treble 
+V:6 treble 
+V:2 bass 
+V:3 bass 
+V:5 bass 
+V:1
+ [B,D]3 [DG]2 [GB] [Fd]3 [FA]3 | [Ec]3 [CE]2 [CF] .[B,G]6 | [CE]2 [EG] [Gc]2 [ce] [Bd]3 [GB]3 | %3
+w: Adam~Geibel * * * *|||
+ [Fd]3 [G^c]2 [GA] [Fd]3 [E=c]BA | [B,D]3 [DG]2 [GB] [Fd]3 [FA]3 | [Ec]3 [Fc]2 [Ec] .[^DB]6 | %6
+w: |||
+ [EA]2 [Ac] [df]2 [ce] [Bd]2 [GB] .[G,^CG]3 | [DB]3 [CA]2 [CD] [B,G]6 |[M:6/4] z2 E2 E2 z2 E2 B2 | %9
+w: |||
+ A6 G6 | z2 E2 E2 z2 E2 B2 | A6 G6 | z2 E2 E2 z2 E2 [CEA]2 | z2 G2 G2 z2 E2 E2 | [B,B]6 z6 | B12 | %16
+w: |||||||
+ G6 .A6 | A6 G6 | z2 E2 E2 c2 B2 A2 | A6 G6 | [EGc]6 G2- [=FGd]2 [Gce]2 | [=Fc=f]6 ^F4- [DFd]2 | %22
+w: ||||||
+ z6 .[EGe]6 |[M:7/4] c2- c2- c2- c6 z2 |] %24
+w: ||
+V:2
+ G,,D,G, B,G,D, D,,D,F, CF,D, | D,,D,F, A,F,D, G,,B,,D, G,D,B,, | C,E,G, CG,E, G,,D,G, B,G,D, | %3
+ A,,D,F, A,A,,A, D,F,A, z DC | G,,D,G, B,G,D, D,,D,F, CF,D, | A,,C,E, A,A,,A, B,,^D,F, B,B,,B, | %6
+ C,E,A, CA,E, D,G,B, z2 A | D,G,B, D,,D,D, G,,B,,D, .G,3 | %8
+[M:6/4] z2[K:treble] C2 C2 z2 C2 [B,CE]2 | z2 B,2 B,2 z2 B,2 B,2 | %10
+ z2[K:treble] C2 C2 z2 C2 [B,CE]2 | z2 B,2 B,2 z2 B,2 B,2 | z2[K:treble] C2 C2 z2 C2 A,2 | %13
+ z2 E2 E2 z2 B,2 B,2 | z2 ^D2 D2 A,2 G,2 F,2 | z2 [B,E]2 [B,E]2 z2[K:treble] [B,=F]2 [B,F]2 | %16
+ G,2- [G,-C]2 [G,C]2 z2 C2 [B,CE]2 | z2 B,2 B,2 z2 B,2 B,2 | %18
+ z2[K:treble] C2 C2 C2 [B,CE]2 [A,CE]2 | z2 B,2 B,2 z2 B,2 B,2 | %20
+ C,2 E,2 G,2 C,2 [B,,B,]2 [_B,,_B,]2 | z2 A,2 A,2 z2 ^G,2 G,2 | z2 G,2 G,2 G,,2 G,2 [G,B,=FG]2 | %23
+[M:7/4] z2 G,2 A,2 G,6 z2 |] %24
+V:3
+ x12 | x12 | x12 | z6 z3 D,3 | x12 | x12 | z6 z3 ^D,3 | x12 |[M:6/4] z6[K:treble] .A,6 | %9
+ [D,A,]6 [G,,G,]6 | z6[K:treble] .A,6 | [D,A,]6 [G,,G,]6 | z6[K:treble] .G,6 | z6 G,6 | B,,12 | %15
+ E,6 z6[K:treble] | z6 .A,6 | [D,A,]6 [G,,G,]6 | C,12[K:treble] | [D,A,]6 [G,,G,]6 | x12 | %21
+ A,,6 A,,6 | G,,6 z6 |[M:7/4] C,2- C,2- C,2- C,6 z2 |] %24
+V:4
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 |[M:6/4] [G,G]6 .A6 | z2 =F2 F2 z2 F2 F2 | %10
+ [G,G]6 .A6 | z2 =F2 F2 z2 F2 F2 | [G,G]6 .G6 | [B,B]6 G6 | z2 F2 F2 A2 [B,^DG]2 [B,DF]2 | %15
+ z2 G2 G2 z2 G2 G2 | z2 E2 E2 z2 E2 B2 | z2 =F2 F2 z2 F2 F2 | [G,G]6 z6 | z2 =F2 F2 z2 F2 F2 | %20
+ z6 .[CEc]6 | z6 .[Cc]6 | [EGe]6 z2 B,2 d2 |[M:7/4] [CEG]2 E2 =F2 E6 z2 |] %24
+V:5
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 |[M:6/4] C,12[K:treble] | x12 | C,12[K:treble] | %11
+ x12 | C,12[K:treble] | B,,12 | x12 | x8[K:treble] x4 | C,12 | x12 | x2[K:treble] x10 | x12 | x12 | %21
+ x12 | x12 |[M:7/4] x14 |] %24
+V:6
+ x12 | x12 | x12 | x12 | x12 | x12 | x12 | x12 |[M:6/4] x12 | x12 | x12 | x12 | x12 | x12 | x12 | %15
+ z6 D,6 | x12 | x12 | x12 | x12 | x12 | x12 | x12 |[M:7/4] x14 |] %24
+

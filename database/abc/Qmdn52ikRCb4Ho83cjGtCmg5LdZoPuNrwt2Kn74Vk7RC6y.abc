@@ -1,0 +1,50 @@
+X:1
+T:6 Lieder, Op. 6
+T:Die Sprache der Sterne
+T:To Fräulein Angela Oppenhoff 
+T:6 Lieder, Op. 6
+T:Johanna Kinkel
+T:6. Die Sprache der Sterne
+T:Heinrich Heine
+T:OpenScore (CC0)
+C:Johanna Kinkel
+Z:Heinrich Heine
+Z:OpenScore (CC0)
+%%score { ( 1 3 ) | 2 } { 4 | 5 }
+L:1/8
+Q:1/4=116
+M:3/4
+K:A
+V:1 treble nm="Voice"
+V:3 treble 
+V:2 treble 
+V:4 treble nm="Piano"
+V:5 bass 
+V:1
+"^Allegretto grazioso"!mp! E2 | E4 A2 | A4 B2 | (A4 G2) | F4 E2 |!<(! (E3 A) B2 | (c2 B2) c2!<)! | %7
+w: 1. Es|ste- hen|un- be-|weg- *|lich die|1. Ster- ne in|ih- * rer|
+w: 2. Sie|spre- chen|ei- ne|Spra- *|che, die|2. ist * so|reich, * so|
+!mf! !>!d6- |!>(! d4 c2 | B4 c2 | B4!>)!!mp!!<(! A2 | (G4 f2)!<)! |!mf! e4!>(! d2 | (c2 d2) e2 | %14
+w: Höh’,|_ viel|tau- send|Jahr, und|schau- *|en sich|an _ mit|
+w: schön|_ doch|kei- ner der|Phi- lo-|lo- *|gen kann|die- * se|
+ (d2"^rall."[Q:1/4=112] B3) c!>)! |[Q:1/4=109]!mp! A6- | A2 z2 :| %17
+w: Lie- * bes-|weh.|_|
+w: Spra- che ver-|stehn.|_|
+V:2
+ z2 | A2 E2 A2 | A2 A2 B2 | (A4 G2) | F4 E2 | A4 B2 | c2 B2 c2 | d6- | d4 c2 | B4 c2 | B4 A2 | %11
+w: |Ich a- ber|hab’ sie ge-|ler- *|net, und|3. ich ver-|ges- se sie|nicht,|_ mir|dien- te|als Gram-|
+ (G4 f2) | e4 d2 | c2 d2 e2 | d2 B3 c | A6- | A2 z2 :| %17
+w: ma- *|tik der|Herz- al- ler-|lieb- sten Ge-|sicht.|_|
+V:3
+ x2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x4 c c | x6 | x6 | x6 | x6 | x6 | x6 | x4 :| %17
+V:4
+ z2 |!p!!<(! CE [Cc]E[Cc]E | CE [Cc]E[Cc]E | DE [Dd]E[Dd]E | DE [Dd]E[Dd]E | CE [Cc]E[Cc]E | %6
+ E=G [Ec]G[Ec]G!<)! |!mf! F!>(!A [Fd]A[Fd]A | EF [Ed]F[Ed]F | DF [Dd]F[Dd]F | FB [Ff]B[Ff]B | %11
+ GB [Gf]B[Gf]B | GB [Gf]B[Gd]B | [Cc]E [CA]E[CA]E!>)! |!p! [D=FG]B"_rall."[DFG]B [DFG]B | %15
+ CE [Ac]E[Ac]E | [CA]4 :| %17
+V:5
+ z2 | A,,E, A,E,A,E, | A,,E, A,E,A,E, | E,,E, B,E,B,E, | E,,E, B,E,B,E, | A,,E, A,E,A,E, | %6
+ A,,E, A,E,A,E, | D,A, [D,D]A,[D,D]A, | F,,F, ^A,F,A,F, | B,,F, B,F,B,F, | D,B, DB,DB, | %11
+ E,,E, [B,D]E,[B,D]E, | E,,E, [B,D]E,[B,D]E, | A,,E, A,E,A,E, | [E,,E,]4 [E,,E,]2 | %15
+ A,,E, A,E,A,E,- |"_Fine""_Fine." [A,,E,]4 :| %17
+

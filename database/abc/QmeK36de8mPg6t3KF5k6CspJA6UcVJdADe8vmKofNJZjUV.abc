@@ -1,0 +1,106 @@
+X:1
+T:Blow, Blow, Thou Winter Wind
+T:Blow, Blow, Thou Winter Wind
+T:Copyright © CPDL
+T:Copyright © CPDL
+T:Copyright © CPDL
+T:Copyright © CPDL
+T:Copyright © CPDL
+T:Copyright © CPDL
+Z:Copyright © CPDL
+%%score 1 ( 2 3 ) ( 4 5 )
+L:1/8
+Q:1/4=80
+M:4/4
+K:G
+V:1 treble nm="P1"
+V:2 treble nm="P2"
+V:3 treble 
+V:4 bass nm="P3"
+V:5 bass 
+V:1
+"^Editor: John Henry Fowler""^(  Revision:   4 - 20 - 2008  )""^Moderato, deciso.""^Words by Willian Shakespeare's \"As you like it\".""^From \"English Lyrics\" -  Set 2 -  Number 4" z8 | %1
+w: |
+ z8 |"^Charles Hubert Hastings Parry""^( 1848 - 1918 )" z8 |!p! E2 !>!E>F!<(! GE!<)! B2 | %4
+w: ||Blow, blow, thou win- ter wind,|
+ z E E>!<(!F GE!<)! c2 | z!>(! ABF G>E!>)! F2 | z!p! E !>!E>F GE B2 | %7
+w: Thou art not so un- kind|As man's in- gra- ti- tude;|Thy tooth is not so keen|
+ z"^cresc."!<(! E E>!<)!F GE ^c2 | z"^cresc."!<(! dB!<)!d!f! f3 ^A |!>(! B3!>)! z !fermata!z4 || %10
+w: Al- though thou art not seen,|Al- though thy breath be|rude.|
+[K:E]!p!!<(! G!<)! B2 G (E>F) G2 |!<(! AA/>B/!<)! c2!>(! B!>)! F2 B | %12
+w: Heigh ho~! Sing heigh _ ho~!|Un- to the green hol- ly: Most|
+ B2"^cresc.  sempre" GB =d A2 d | c B2 e e c2 c | e2 c>e e c2 e |!f! g4- (g>f) (e/c/) (G/A/) | %16
+w: friend- ship is feign- ing, Most|lov- ing mere fol- ly: Then|heigh ho, the hol- ly~! This|life _ _ is _ most _|
+ B[Ee] z2 z4 | z8 | z8 ||[K:G]"^Tempo primo" z8 |!p!!<(! E2!<)! !>!E>F!<(! GE!<)! B2 | %21
+w: jol- ly~!||||Freeze, freeze, thou bit- ter sky;|
+ z EEF GE c>G | A>A B^F G4 | z E E>F GE B2 | z E G>A BE d>B |"^sustenuto" f3 ^A ^c>B B2 | z8 || %27
+w: Thou dost not bite as nigh As|be- ne- fits for- got;|Though thou the wa- ters warp,|Thy sting is not so sharp, As|friend re- mem- ber'd not.||
+[K:E]!p! G"^più  moto" B2 G (E>F)"^cresc.  sempre"!<(! G2 | AA/>!<)!B/ c2!<(! B!<)! F2 B | %29
+w: Heigh ho~! Sing heigh _ ho~!|Un- to the green hol- ly: Most|
+!<(! B2!<)! GB!<(! =d!<)! A2 d |"^cresc."!<(! c!<)! B2 e e c2 c |!<(! e2!<)! c>e e c2 e | %32
+w: friend- ship is feign- ing, Most|lov- ing mere fol- ly: Then|heigh ho, the hol- ly~! This|
+!f! g4- (g>f) (e/d/) (G/A/) | Be z2 z4 | z8 | z8 |] %36
+w: life _ _ is _ most _|jol- ly~!|||
+V:2
+"^12868" [G,B,E]2 [G,E]>[A,F] ([B,G][G,E]) !tenuto![B,FB]2 | %1
+ [G,B,E]2!<(! [G,E]>[A,F]!<)! ([B,G][G,E]) !tenuto![CEc]2 | %2
+!>(! ([CA]=F)!>)!!>(! [B,^DB]2!>)!!>(! ([B,G][G,E])!>)! [^F,D^F]2 | %3
+ [G,B,E]2[K:bass] (3(G,/B,/G,/.[F,A,]) [E,G,]2[K:treble] z (3(B,/F/A,/ | %4
+ [G,B,]2)[K:bass] (3(G,/B,/G,/.[F,A,]) [E,G,]2[K:treble] z (3(C/G/B,/ | %5
+ [A,C]2) z"^dim." (3(B,/^F/A,/ [G,B,]2) z (3(B,/F/A,/ | %6
+ [G,B,]2)!<(! ([G,E]>[A,^D]!<)! [G,E]2) (!>![B,G]>[F,D] | %7
+ [E,E]2)!<(! ([G,E]>[A,^D]!<)! [G,E]2) B>A | [=D^G=d]3 [DGB] [Fdf]3 [^CE^A] | %9
+!>(! [B,DB]3 [^A,^CG]!>)! !fermata![B,^DB]2 z [DF] ||[K:E] [B,DG] z B,/D/G/B,/ [G,E]2 C/E/G/C/ | %11
+ [A,EA] z C/E/A/C/ [A,B,F]2 D/F/B/D/ | [B,GB] z"^cresc.    sempre" B,/G/B/E/ [=DA=d]2 D/A/d/D/ | %13
+ [=DEB] z D/E/B/E/ [EAc]2 E/A/c/E/ | [EGe]2 [Ee]>[Ff] [Gg][Ee] [E^Ae]>[Gg] | %15
+ [Bgb]2 [B,GB]>[Dd] [Ece]3 [EAc] | .[DFB].[EGe] z .B ([Bgb]>a g/e/B/G/) | %17
+ (!>![GB]>A G/E/B,/G,/)[K:bass] !>![B,,F,A,]2 z2 | !>![B,,F,B,]3 z z4 || %19
+[K:G][K:treble]!mp! [G,B,E]2!<(! [E,E]>[F,F] ([G,G]!<)![E,E]) !tenuto![B,FB]2 | %20
+ [G,E]!<(! ([G,B,]!<)!!>(![B,D]!>)![A,C] [G,B,])([G,E]B[FA] | %21
+ [EG]) ([G,B,][B,D][A,C] [G,B,])[E-G][Ec][GB] | A2 B^F G2 !>![^CE]2- | %23
+ [G,B,E]2!<(! !>![EGBe]2!<)! z!<(! [Cc] [^DB]!<)![FA] | .[EG]2 !>![EGBe]2 z E [^Gd]2 | %25
+ [Fdf]2 [CE^A]2 [B,DB]2 z .[^A,CG] | %26
+ !tenuto![B,^DB]2 z .[^A,^CG] !tenuto![B,DB]2 !fermata!z [DF] || %27
+[K:E]!p!"^più  moto" [B,DG] z B,/D/G/B,/ [G,E]2 C/E/G/C/ | [A,EA] z C/E/A/C/ [A,B,F]2 D/F/B/D/ | %29
+ [B,GB] z"^cresc.    sempre" B,/G/B/E/ [=DA=d]2 D/A/d/D/ | [=DEB] z D/E/B/E/ [CEc]2 E/A/c/E/ | %31
+!f! [EGe]2 [Ee]>[Ff] [Gg][Ee] [E^Ae]>[Gg] | [Bdb]2 [B,GB]>[Dd] [EGe]3 [EAc] | %33
+ .[DFB].E z .B b>a g/e/B/G/ | !>![GB]>A G/E/B,/G,/[K:bass] !tenuto![B,,F,B,]2 z2 | %35
+ [=G,B,E]2 [G,E]>[A,F] [B,=G][G,E] !fermata![EGBe]2 |] %36
+V:3
+ x8 | x8 | x8 | x2[K:bass] x4[K:treble] x2 | x2[K:bass] x4[K:treble] x2 | x8 | x8 | x4 x2 [E^c]2 | %8
+ x8 | x8 ||[K:E] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4[K:bass] x4 | x8 ||[K:G][K:treble] x8 | %20
+ x4 x2 [B,G]2 | x8 | =FE ^D2 B,2 ^A,2 | x8 | x4 x2 D^E | x8 | x8 ||[K:E] x8 | x8 | x8 | x8 | x8 | %32
+ x8 | z4 [Bg]3/2 z/ z2 | x4[K:bass] x4 | x8 |] %36
+V:4
+!p! z .[G,,,G,,] !>![E,,,E,,]3!<(! .[E,,E,] .[B,,,B,,]!<)!.[^D,,^D,] | %1
+"^cresc." z!<(! .[G,,,G,,]!<)! !>![E,,,E,,]3 .[E,,E,] .[C,,C,].[E,,E,] | %2
+ [=F,,=F,].A,,"^dim." .[B,,,B,,].[^D,,^D,]!>(! .[E,,E,].G,,!>)! .B,,.B,,, | %3
+ z!p! .[G,,,G,,] !>![E,,,E,,]3 .[E,,E,] .[B,,,B,,].[^D,,^D,] | %4
+ z .[G,,,G,,] !tenuto![E,,,E,,]3 .[E,,E,] .[C,,C,].[E,,E,] | %5
+ [=F,,=F,][A,,A,] [B,,,B,,][^D,,^D,] [E,,E,][G,,G,] [B,,,B,,][D,,D,] | %6
+ z [G,,,G,,]"^cresc."!<(! [E,,,E,,]3!<)! .[E,,E,] [B,,,B,,][^D,,^D,] | %7
+ z [G,,,G,,]"^cresc."!<(! !>![E,,,E,,]2!<)! z [E,,,E,,] [^C,,,^C,,][E,,,E,,] | %8
+!mf!!<(! .[^E,,,^E,,]2 z2!<)!!f! z [F,,F,] [F,,,F,,]2 | %9
+ z [F,,F,] [B,,,B,,]3 z [F,,,F,,]!fermata![B,,,,B,,,] || %10
+[K:E]"^più  mosso" [B,,,B,,] (3(B,,/D,/G,/"^cresc." x2 C,,) (3(C,/E,/G,/ x2) | %11
+ C,, (3(C,/E,/A,/ x2 D,,) (3(B,,/F,/B,/ x2) | E,, (3(B,,/E,/G,/ x2 F,,) (3(=D,/F,/A,/ x2) | %13
+ G,, (3(B,,/E,/B,/ x2 A,,) (3(E,/A,/C/ x2) |!f! A,,/E,/G,/C/ x2 C,/G,/^A,/C/ x2 | %15
+!f! [G,,D,G,]2 [G,,,G,,]2 [C,,C,]2 z F,, | [B,,,B,,][E,,,E,,] z .B, z2 z (B,/G,/ | %17
+ B,2) z2 z .F,, !tenuto!B,,,2 | z .[F,,,F,,] !tenuto![B,,,,B,,,]2 z4 || %19
+[K:G] z [G,,,G,,] !>![E,,,E,,]3 .[E,,E,] .[B,,,B,,].[^D,,^D,] | %20
+!p! z [G,,,G,,] [E,,,E,,]2!<(! z .[E,,E,]!<)! .[B,,,B,,].[^F,,^F,] | %21
+ z .[G,,,G,,] !tenuto![E,,,E,,]3 .[E,,E,] .[C,,C,].[E,,E,] | %22
+ .[=F,,=F,].[A,,A,] .[B,,,B,,].[^D,,^D,] .[E,,E,].[G,,G,] .[E,,,E,,].[F,,,F,,] | %23
+ z"^cresc.  molto"!<(! .[G,,,G,,] !tenuto![E,,,E,,]2!<)! z!<(! [E,,E,] [B,,,B,,]!<)![^D,,^D,] | %24
+ z [G,,,G,,] !>![E,,,E,,]3"^rit." [E,,E,] [^E,,^E,][^G,,^G,] | %25
+"^sustenuto" [F,,F,]3 F,, [B,,,B,,]2 z!p! E, | B,,^C,E,E,, .B,,.F,, !fermata!B,,,2 || %27
+[K:E] [B,,,B,,] (3(B,,/D,/G,/ x2 C,,) (3(C,/E,/G,/ x2) | %28
+ C,, (3(C,/E,/A,/ x2 D,,) (3(B,,/F,/B,/ x2) | E,, (3(B,,/E,/G,/ x2 F,,) (3(=D,/F,/A,/ x2) | %30
+ G,, (3(B,,/E,/B,/ x2 A,,) (3(E,/A,/C/ x2) |"^a  tempo"!f! A,,/E,/G,/C/ x2 C,/G,/^A,/C/ x2 | %32
+!f! [G,,D,B,]2 [G,,,G,,]2 [C,,C,]3 [F,,,F,,] |"^a tempo" .[B,,,B,,].[E,,E,] z!f! B, z2 z (B,/G,/) | %34
+ B,2 z2 z .F,, !tenuto!B,,,2 |!p! z!<(! .[=G,,,=G,,] !tenuto![E,,,E,,]3 z!<)! [B,,E,=G,B,]2 |] %36
+V:5
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 ||[K:E] x8 | x8 | x8 | x8 | ^A,,2 x2 C,2 x2 | x8 | %16
+ x8 | x8 | x8 ||[K:G] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 ||[K:E] x8 | x8 | x8 | x8 | %31
+ ^A,,2 x2 C,2 x2 | x8 | x8 | x8 | x8 |] %36
+

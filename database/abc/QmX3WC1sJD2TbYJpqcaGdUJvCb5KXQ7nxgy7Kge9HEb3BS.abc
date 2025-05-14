@@ -1,0 +1,52 @@
+X:1
+T:Partita N° 3 for Keyboard
+T:Partita N° 3 for Keyboard
+T:Partita No.3 in A minor, BWV 827 
+T:J.S.Bach
+C:J.S.Bach
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=69
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Andantino con moto."!p!!<(! (A!<)!!>(!M^G!>)!A) | (ME(3F/E/D/) (.E.E.E.E) | %2
+!>(! (cB)!>)! z (AM^GA) |!>(! (dc)!>)! z (AM^GA) |!>(! (fe)!>)! z!<(! (.e.e.e)!<)! | %5
+!mf! e"_cresc."(3f/e/d/ e(3g/f/e/ f(3a/g/f/ | c(3d/c/B/ c(3e/d/c/ c/g/_B | %7
+ g(3(g/f/e/) .f!>(!(3(f/e/d/) .e(3(e/d/c/)!>)! |!>(! (ed)!>)! z!f! (c'Mbc') | %9
+ (z (3g/f/e/ .f)!>(!(3a/g/f/ (3g/f/e/ (3f/e/d/!>)! |!>(! (Me!>)!!<(!(3f/e/d/ .e)!<)!!f!(c'bc') | %11
+ Md(3f/e/d/ (3g/f/e/!>(! (3f/e/d/ (3e/d/c/ (3d/c/B/!>)! | c3 :: z z2 | z2 z!mf! g=fe | %15
+!<(! d^f!<)!g z z2 | z2 z!p! (3=f/e/d/ (3e/d/^c/(3d/c/B/ | %17
+ (3^c/B/A/ (3d/c/B/"_poco cresc." c z z2 | z2 z"_cresc." (3(d/e/f/) (3(f/g/a/)(3(a/_b/=c'/) | %19
+ (3(_b/a/b/ (3c'/b/a/ b)(3(c/d/e/) (3(e/f/g/) (3(g/a/b/) | %20
+!f! (3(a/g/a/ (3_b/a/g/ a)!>(!(de^c)!>)! | d3"_dim." (.f.f.f) | %22
+ f3!<(! f!<)! (3(e/d/e/!>(! (3f/e/d/)!>)! |"_cresc." (ed/e/ .c)!f!!<(!(a!<)!!>(!M^g!>)!a) | %24
+ d(3e/d/c/ (3d/c/B/ (3c/B/A/ (3B/A/^G/ (3A/G/^F/ | (3^G/A/B/ (3A/G/^F/ E!mf!(cMBc) | %26
+ (Md(3c/d/e/ .d)!<(!(3B/c/d/ (3c/d/e/ (3d/e/f/ | (3e/d/e/ (3f/e/d/!<)! .e!f!(aM^ga) | %28
+ Md(3f/e/d/ (3e/d/c/!>(! (3d/c/B/ (3c/B/A/ (3B/A/!>)!^G/ | A3 :| %30
+V:2
+ z z2 | z2 z CB,C | A^G z CB,C | BA z CB,C | A^G z GAB | c6- | g6- | A2 z =B c2 | cB z ede | %9
+ B2 z2 z2 | c2 z ede | B2 z (AGF | E3) :: z z2 | z2 z (3e/d/c/ (3d/c/B/ (3c/B/A/ | %15
+ (3B/A/G/ (3c/B/A/ B z z2 | z2 z A=GF | E^G A(3A/B/^c/ (3c/d/e/(3e/f/=g/ | %18
+ (3f/e/f/(3g/f/e/ !>!f4- | f2 !>!e4- | e2 dFAE | F3 d dd | d3 dcB | c2 z[I:staff +1] EDC | x6 | %25
+[I:staff -1] B, z z A^GA | !>!B2 z ^GAB | ^G2 z ede | B2 z (FED | C3) :| %30
+V:3
+ z z2 | z2 z!<(! (A,!<)!!>(!M^G,!>)!A,) | (E,(3F,/E,/D,/ .E,)(.E,,.E,,.E,,) | %3
+ (E,(3F,/E,/D,/ .E,)(.E,,.E,,.E,,) | (C,(3D,/C,/B,,/ .C,)(.E.^F.^G) | (AA,)(A,A)(AA,) | EE,E,EEE, | %7
+ F,E,D,G,CF, | (G,G,,)(G,,G,)(G,G,,) | G,G,,G,,G,G,G,, | G,G,,G,,(G, (3F,/E,/F,/ (3G,/F,/E,/) | %11
+ (F,D,E,C,G,G,,) | (C,G,,C,,) ::!p!!<(! (C!>(!MB,!<)!C)!>)! | (G,(3A,/G,/^F,/ .G,)(.G,,.G,,.G,,) | %15
+ G,,2 z!<(! (D!>(!M^C!<)!!>)!D) | (A,(3B,/A,/^G,/ .A,)(.A,,.A,,.A,,) | A,,2 z A,M=G,A, | %18
+ (D,(3E,/D,/^C,/ .D,)(DM^CD) | (G,(3A,/G,/F,/ .G,)(CM_B,C) | (F,(3G,/F,/E,/ .F,)(_B,G,A,) | %21
+ (D,A,,.D,,) (3(A,/G,/F,/) (3(F,/E,/D,/) (3(D,/C,/=B,,/) | %22
+ (3(B,,/A,,/G,,/) (3(G,,/A,,/B,,/) (3(B,,/C,/D,/) (3(D,/E,/F,/ G,G,,) | %23
+ (3(C,/D,/E,/) (3(E,/F,/G,/) (3(G,/A,/B,/) (CB,A,) | ^G,^F, G,!>(!A,=F,!>)!D, | %25
+ (E,E,,)(E,,E,)(E,E,,) | E,E,,E,,E,E,E,, | D,D,,.D,, (C (3B,/A,/B,/ (3C/B,/A,/) | %28
+ (^G,E,C,A,,E,E,,) | A,,E,A, :| %30
+V:4
+ x3 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x3 :: x3 | x6 | x6 | x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | B,A,B,[I:staff -1]EDC | x6 | x6 | x6 | x6 |[I:staff +1] A,,3 :| %30
+

@@ -1,0 +1,56 @@
+X:1
+T:Jingle Bells
+T:Jingle Bells
+T:J. Pierpont
+C:J. Prepiersont
+%%score { 1 | ( 2 3 ) }
+L:1/8
+Q:1/4=210
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:3 bass 
+V:1
+"^\n"!mf! D2 B2 A2 G2 | D6 DD | D2 B2 A2 G2 | E8 | E2 c2 B2 A2 | F8 | [Gd]2 d2 c2 A2 | [GB]8 | %8
+ D2 B2 A2 G2 | D6 DD | D2 B2 A2 G2 | E8 | E2 c2 B2 A2 | d2 d2 d2 d2 | e2 d2 c2 A2 | %15
+!<(! G4 [dd']4!<)! |!f! B2 B2 B4 | B2 B2 B4 | B2 d2 G3 A | B8 | c2 c2 c4 |{/c} B2 B2 B4 | %22
+ B2 A2 A2 B2 |"_cresc." (A4 d4) | B2 B2 B4 | B2 B2 B4 | B2 d2 G3 A | B8 | c2 c2 c4 |{/c} B2 B2 B4 | %30
+ d2 d2 c2 A2 | !>![G,G]8 |"_danzando" D2 B2 A2 G2 | D6 DD | D2 B2 A2 G2 | E8 | E2 c2 B2 A2 | F8 | %38
+ d2 d2 (3c2 A2 ^A2 | [GB]8 | D2 B2 A2 G2 | D6 DD |"_dim." D2 B2 A2 G2 |!p! !>!E8 | E2 c2 B2 A2 | %45
+!<(! !>!d2 !>!d2 !>!d2 !>!d2 | e2 d2 c2 A2 | !>!G4!<)! !>![dd']4 |!ff! [Bb]2 [Bb]2 [Bb]4 | %49
+ [Bb]2 [Bb]2 [Bb]4 | [Bb]2 [dd']2 ([Gg]3 [Aa] | [Bb]8) | [cc']2 [cc']2 [cc']4 | %53
+{/c'} [Bb]2 [Bb]2 [Bb]4 |"_dim." ([Bb]2 [Aa]2) [Aa]2"_cresc." [Bb]2 | %55
+ ([Aa]4"_molto cresc." [dd']4) |!ff! [Bb]2 [Bb]2 [Bb]4 | [Bb]2 [Bb]2 [Bb]4 | %58
+ [Bb]2 [dd']2 [Gg]3 [Aa] | [Bb]8 | [cc']2 [cc']2 [cc']4 |{/c'} [Bb]2 [Bb]2 [Bb]4 |1 %62
+ [dd']2 [dd']2 [cc']2 [Aa]2 | !>![Gg]8 ||2 [dd']4 [dd']4 || [ee']4 [ff']4 | %66
+ !arpeggio!!>!!fermata![gg']8 |] %67
+V:2
+!mf! G,,2 B,,2 D,2 G,2 | B,2 G,2 D,2 B,,2 | G,,2 B,,2 D,2 G,2 | B,2 G,2 E,2 B,,2 | %4
+ G,,2 C,2 D,2 F,2 | D2 A,2 F,2 D,2 | B,,2 D,2 G,2 B,2 | D2 B,2 G,2 D,2 | G,,2 B,,2 D,2 G,2 | %9
+ B,2 G,2 D,2 B,,2 | G,,2 B,,2 D,2 G,2 | B,2 G,2 E,2 B,,2 | G,,2 C,2 D,2 F,2 | D2 B,2 G,2 D,2 | %14
+ B,,2 D,2 G,2 A,2 | G,2 G,,2 D2 D,2 |!f! B,,2 D,2 G,2 D,2 | B,,2 D,2 G,2 D,2 | B,,2 D,2 G,2 D,2 | %19
+ B,,2 D,2 G,2 D,2 | C,2 E,2 G,2 E,2 | B,,2 D,2 G,2 D,2 | B,,2 ^D,2 F,2 D,2 | A,2 A,,2 D,2 D2 | %24
+ B,,2 D,2 G,2 D,2 | B,,2 D,2 G,2 D,2 | B,,2 D,2 G,2 D,2 | B,,2 D,2 G,2 D,2 | C,2 E,2 G,2 E,2 | %29
+ B,,2 D,2 G,2 D,2 | B,,2 D,2 G,2 D,2 | G,,2 D,2 G,2 D,2 |!mf! G,,2!mf! [B,,D,]2 G,,2 [B,,D,]2 | %33
+ G,,2 [B,,D,]2 G,,2 [B,,D,]2 | G,,2 [B,,D,]2 G,,2 [B,,D,]2 | B,,2 [E,G,]2 B,,2 [E,G,]2 | %36
+ B,,2 [E,G,]2 B,,2 [E,G,]2 | D,2 [F,A,]2 D,2 [F,A,]2 | G,,2 [B,,D,]2 G,,2 [B,,D,]2 | %39
+ G,,2 [B,,D,]2 G,,2 [B,,D,]2 | G,,2 [B,,D,]2 G,,2 [B,,D,]2 | G,,2 [B,,D,]2 G,,2 [B,,D,]2 | %42
+ G,,2 [B,,D,]2 G,,2 [B,,D,]2 | B,,2 [E,G,]2 B,,2 [E,G,]2 | B,,2 [E,G,]2 B,,2 [E,G,]2 | %45
+ D,2 [F,A,]2 D,2 [F,A,]2 | G,,2 [B,,D,]2 G,,2 [B,,D,]2 | G,,2 [B,,D,]2 G,,2 [B,,D,]2 | %48
+ z2 [D,G,B,]2 [D,G,B,]2 [D,G,B,]2 | z2 [D,G,B,]2 [D,G,B,]2 [D,G,B,]2 | %50
+ z2 [D,G,B,]2 [D,G,B,]2 [D,G,B,]2 | z2 [D,G,B,]2 [D,G,B,]2 [D,G,B,]2 | %52
+ z2 [C,E,G,]2 [C,E,G,]2 [C,E,G,]2 | z2 [B,,D,G,]2 [B,,D,G,]2 [B,,D,G,]2 | %54
+ z2 [^D,F,B,]2 [D,F,B,]2 [D,F,B,]2 | z2 [D,F,A,]2 z2 [D,F,A,]2 | z2 [D,G,B,]2 [D,G,B,]2 [D,G,B,]2 | %57
+ z2 [D,G,B,]2 [D,G,B,]2 [D,G,B,]2 | z2 [D,G,B,]2 [D,G,B,]2 [D,G,B,]2 | %59
+ z2 [D,G,B,]2 [D,G,B,]2 [D,G,B,]2 | z2 [C,E,G,]2 [C,E,G,]2 [C,E,G,]2 | %61
+ z2 [D,G,B,]2 [D,G,B,]2 [D,G,B,]2 |1 z2 [D,F,C]2 [D,F,C]2 [D,F,C]2 | z2 [D,G,B,]2 z2 [D,G,B,]2 ||2 %64
+ [D,G,B,]2 [D,G,B,]2 [D,G,B,]2 [D,G,B,]2 || [E,G,C]2 [E,G,C]2 [F,A,D]2 [F,A,D]2 | %66
+[K:treble] !arpeggio!!>!!fermata![GBdg]8 |] %67
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %38
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | (G,,8 | G,,8 | G,,8 | G,,8 | C,,8) | G,,8 | %54
+ B,,,8 | D,,4 D,,4 | G,,8 | G,,8 | G,,8 | G,,8 | C,,8 | G,,8 |1 D,,8 | G,,4 G,,4 ||2 x8 || x8 | %66
+[K:treble] x8 |] %67
+

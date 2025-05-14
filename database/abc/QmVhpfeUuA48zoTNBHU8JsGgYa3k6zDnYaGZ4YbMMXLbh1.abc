@@ -1,0 +1,69 @@
+X:1
+T:Nessun Dorma
+T:Nessun Dorma
+T:From the Opera Turandot
+T:Giacomo Puccini
+C:Giacomo Puccini
+%%score 1 { ( 2 5 6 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=65
+M:4/4
+K:G
+V:1 bass nm="Violoncelle" snm="Vlc"
+V:2 treble nm="Piano" snm="Pia."
+V:5 treble 
+V:6 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ z4 z2!mp! uD>D | D2 D4 D,>uD, | D,2 D,4 z2 | z4 z3/2 D/ (D>C) | %4
+ B,2 B,2 (3(B,!tenuto!B,!tenuto!B,) (_B,>F,) | G,2 G,2 G2 (F>E) | D2 DD (D!tenuto!D) (D>C) | %7
+ B,2 (B,3 !tenuto!B,) (_B,>F,) | G,2 G,2 z4 ||[K:D] z!mf! D(EF) (ED)(E>C) |[M:2/4] B,4- | %11
+[M:4/4] B,EFG (FE)(F>D) | C2 D2 !breath!EEFG | A4 A2 !-(!A>!-)!F | F4 F2 (F>D) | %15
+ A,4 A,2!mp! (!fermata!E>C) |!mf! D4 z4 | z4 z D (D>=C) | B,B,B,D (F3 E) | D2 (D3 B,) _B,>F, | %20
+ G,2 G,2 z4 | z8 |[M:2/4] z4 |[M:4/4] z8 | z4 z!f! uEFG | A2 A2 AA (A>F) | F2 F2 FF (F>D) | %27
+ A,3 A, A,A,!mp! !fermata!E>C |!<(! D6 (uB,>D)!<)! |!f! G6 D2 |!ff! B4 B4 | A4 A4 |[M:2/4] A4 | %33
+[M:4/4] z8 |!<(! z4 z uEFG!<)! |!fff! !///!A8 |] %36
+V:2
+ G,A,B,D- [DB]2 [Fd]2 | G,A,B,D- [DB]2 [Fd]2 | G,A,B,D ABdg | ab!8va(!d'g'a'b'!8va)! [Fd]2 | %4
+ G,A,B,D- [DB]2 [cfd']2 | G,A,B,D [C_B]4 | DA B2 A[Bd] [_Bd]2 | GABd ab [cfd']2 | G,A,B,D ABdg || %9
+[K:D] a4 z4 |[M:2/4] D2 z2 |[M:4/4] [GB]6 [DEGB]2 | A2 B2 c2 AG | Adef [Ae][Ad] [Ae]>[Fcf] | %14
+ FBcd [Fc][FB] [Fd]>[DBd] | BFBA BcAG | AB,DA BDAB | d[A,A][B,B][Dd] [Gg]2 z2 | %18
+ G,A,B,D- [DB]2 [F=c]2 | DA B2 A[Bd] [_Bd]2 | G,A,B,D ABdg |!ped! z!ped!!f! def ed e>c!ped-up! | %22
+[M:2/4]!ped! B2!ped! z2!ped-up! |[M:4/4]!ped!!<(! [B,B]!ped!efg fe f>d | %24
+ c2 d2 e2 [FAcf][GBeg]!ped-up!!<)! | Adef [Ae][Ad] [Ae]>[Fcf] | F!mf!Bcd [Fc][FB] [Fd]>[DBd] | %27
+ BFBA BcAG | [DGBd]6 B>d | g6 [GBdg]>[Bdgb] | z8 | %31
+!ped! z!ped!!ff! [Dd][Ee][Ff] [Ee][Dd][Ee]>[Cc]!ped-up! | %32
+[M:2/4] !///-!B!ped! D !///-!b d | x4!ped-up! %33
+[M:4/4]!<(! z!ped! [Ee][Ff][Gg] [Ff]!ped-up![Ee] [Ff]>[Dd] | [Ac]2 [Bd]2 [ce]2 [df][eg]!<)! | %35
+!fff! [da]8!ped!!ped-up! |] %36
+V:3
+ [G,,D,]6 [_E,,_B,,]2 | [G,,D,]6 [_E,,_B,,]2 | [G,,B,,]6 z2 | z4 z2 [_E,_B,]2 | %4
+ [G,,D,]6 [_E,,_B,,]2 | [G,,D,]4 z ._E,._B,,._E,, | [G,,D,B,]2 [G,,D,]4 [F,_B,]2 | %7
+ [G,,D,]6 [_E,,_B,,]2 | [G,,D,]8 ||[K:D] [A,DF]2 [A,DF]2 [A,DF]2 [A,DF]2 | %10
+[M:2/4] [G,,G,]2 [F,,F,]2 |[M:4/4] [E,,E,]2 [E,G,]2 [G,B,E]2 [G,,G,]2 | %12
+ [A,,A,]2 [B,,A,]2 [C,A,]A,- A,2 | z DEF ED E>C | z B,CD CB, D>B, | %15
+ [A,,C,E,]4 [A,,E,]2 !fermata![A,,E,G,D]2 | [G,,,G,,]8 | z4 z2 [D,F,=C]2 | [G,,D,]6 [_B,,_E,]2 | %19
+ [G,,D,B,]2 [G,,D,]4 [F,_B,]2 | [G,,B,,]6 z2 | [D,,A,,F,]4 [F,,D,A,]2 [F,,D,A,]2 | %22
+[M:2/4] [G,,D,G,]2 [F,,D,G,]2 |[M:4/4]!<(! [E,,B,,G,]4 [G,,D,B,]2 [G,,D,B,]2 | %24
+ [A,,E,A,]2 [B,,E,A,]2 A,A,- A,2!<)! | z DEF ED E>C | z!mf! B,CD CB, D>B, | %27
+ [A,,C,E,]4 [A,,E,]2 !fermata![A,,E,G,D]2 | !////-!G,,,4 G,,4 | !////-!G,,,4 G,,4 | %30
+ !////-!G,,,4 G,,4 |!f! [D,A,]2 [D,A,]2 [D,A,]2 [D,A,]2 |[M:2/4] [G,,D,G,]2 [F,,A,D]2 | %33
+[M:4/4]!<(! [E,,E,]2 [E,G,F]2 [G,B,EG]2 [G,DE]2 | %34
+ !////-!G,,,2 G,,2 [C,,E,,]2 [D,,F,,][E,,G,,]!<)! |!ff! !////-!G,,,4 G,,4 |] %36
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 ||[K:D] x8 |[M:2/4] x4 |[M:4/4] x8 | x8 | %13
+ [F,,D,A,]6 [D,F,]2 | [E,,B,,G,]6 [G,B,]2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:2/4] x4 | %23
+[M:4/4] x8 | x4 [C,E,]2 [A,,,A,,][G,,,G,,] | [F,,D,A,]6 [D,F,]2 | [E,,B,,G,]6 [G,B,]2 | x8 | x8 | %29
+ x8 | x8 | F,,8 |[M:2/4] x4 |[M:4/4] x8 | x8 | x8 |] %36
+V:5
+ x8 | x8 | x8 | x2!8va(! x4!8va)! x2 | x8 | x8 | x8 | x8 | x8 ||[K:D] x8 |[M:2/4] x4 |[M:4/4] x8 | %12
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | [A,DFA]6 z/ E/e/C/ |[M:2/4] D4 | %23
+[M:4/4] x e/E/ f/F/g/G/ f/F/e/E/ z/ F/f/D/ | A/C/A/C/ A/D/A/D/ A/E/A/E/ x2 | x8 | x8 | x8 | %28
+ z [D,G,B,][G,B,D][B,DG] [DGB][G,B,D][B,DG][DGB] | [GBd][G,B,DG][B,DGB][DGBd] [GBdg][DGBd] x2 | %30
+ x8 | x8 |[M:2/4] x4 |[M:4/4] x8 | x8 | x8 |] %36
+V:6
+ x8 | x8 | x8 | x2!8va(! x4!8va)! x2 | x8 | x8 | x8 | x8 | x8 ||[K:D] x8 |[M:2/4] x4 |[M:4/4] x8 | %12
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z d/D/ e/E/f/F/ e/E/d/D/ x2 |[M:2/4] x4 |[M:4/4] x8 | %24
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:2/4] x4 |[M:4/4] x8 | x8 | x8 |] %36
+
