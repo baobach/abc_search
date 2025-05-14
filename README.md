@@ -76,7 +76,7 @@ php artisan test
 
 ## Contact
 
-Email: baobach@gmail.com
+Email: robert@quantfin.net
 
 ## License
 
